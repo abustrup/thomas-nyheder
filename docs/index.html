@@ -1,0 +1,3868 @@
+<!doctype html>
+<html lang="da" data-edition="daily">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#fbf1e8">
+  <title>Dagens Kompas</title>
+  <script>
+    // Apply the persisted visual direction before first paint so the page never
+    // flashes the default theme. Mirrors readLayout() in src/web/layout.js.
+    (function () {
+      try {
+        var valid = ["editorial", "broadsheet", "magazine", "feed", "dark"];
+        var saved = localStorage.getItem("brief-layout");
+        document.documentElement.dataset.layout = valid.indexOf(saved) >= 0 ? saved : "broadsheet";
+      } catch (e) {
+        document.documentElement.dataset.layout = "broadsheet";
+      }
+    })();
+  </script>
+  <!-- Fonts load async (non-render-blocking): the page paints immediately with
+       the inlined structural CSS + system fallback, then swaps to the webfonts. -->
+  <link rel="preload" href="fonts.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="fonts.css"></noscript>
+  <style>/* ==========================================================================
+   Design tokens — four reader-selectable directions
+   --------------------------------------------------------------------------
+   The brief ships four visual directions (editorial · magazine · feed · dark),
+   chosen with the "Vis som" switcher and persisted per device. Each direction
+   only needs to override the canonical tokens below; every component rule reads
+   them (directly, or through the legacy aliases that the original daily/weekly/
+   monthly CSS already used). Custom properties resolve at substitution time, so
+   overriding e.g. --bg inside a [data-layout] block re-skins every rule that
+   reads var(--paper) without touching the rule itself.
+   Values are taken verbatim from the design handoff prototypes.
+   ========================================================================== */
+:root {
+  color-scheme: light;
+
+  /* Structural constants shared by every direction. */
+  --container: min(1180px, 94vw);
+  --tap-min: 44px;
+  --fb-size: 44px;
+  --fb-radius: 50%;
+  --fb-border-width: 1.5px;
+
+  /* Canonical theme tokens — default values are the Editorial direction. */
+  --bg: #f6efe4;
+  --surface: #efe4d3;
+  --ink: #1b1714;
+  --muted: #6b6358;
+  --body-soft: #403c37;
+  --rule: #cdbfa9;
+  --accent: #a3122c;
+  /* AA-safe accent for small text/pills on light backgrounds (the vibrant
+     magazine/feed accents fail contrast at label sizes; editorial/dark pass). */
+  --accent-ink: var(--accent);
+  --teal: #0b6769;
+  --green: #2f6b4f;
+  --blue: #2a3f59;
+  --font-display: "Newsreader", Georgia, "Times New Roman", serif;
+  --font-label: "Archivo", ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-body: var(--font-display);
+  --media-filter: none;
+  --media-radius: 0;
+
+  /* Feedback control palette (see .feedback-button). */
+  --fb-more: #2f6b4f;
+  --fb-less: var(--accent);
+  --fb-icon: var(--muted);
+  --fb-icon-active: #fff;
+  --fb-bg: transparent;
+  --fb-border-color: var(--rule);
+
+  /* Legacy aliases — the original component CSS (and weekly/monthly) read these. */
+  --shell: var(--container);
+  --paper: var(--bg);
+  --paper-deep: var(--surface);
+  --red: var(--accent);
+  --serif: var(--font-display);
+  --sans: var(--font-label);
+}
+
+/* ---- Broadsheet : the business-press direction -------------------------------
+   Built for a reader whose paper is Børsen — so the paper itself is the idea.
+   The salmon-tinted newsprint that Børsen and the FT share is the most legible
+   signal in business publishing, and it does the work an accent colour usually
+   has to: you know what kind of publication this is before reading a word.
+   Held back from costume by desaturating it well below either masthead's ink,
+   so it reads as warm paper rather than pink.
+
+   Against that warmth the accent goes the other way — a deep navy, the colour
+   of the ink rather than of a highlight. One accent, used structurally (rules,
+   kickers, the lead's frame), never decoratively. Source Serif 4 carries the
+   text: a working serif with more spine than Newsreader and none of the
+   literary softness, which is the register of someone who reads for decisions.
+   Everything else — spacing scale, grid, component rules — is shared with the
+   other directions, which is what keeps this a sibling and not a second product.
+   ---------------------------------------------------------------------------- */
+:root[data-layout="broadsheet"] {
+  color-scheme: light;
+  --bg: #fbf1e8;
+  --surface: #f5e3d6;
+  --ink: #1a1f2b;
+  --muted: #6d6459;
+  --body-soft: #3b3f49;
+  --rule: #ddc6b5;
+  --accent: #17455e;
+  /* 9.2:1 on --bg — past AAA, so the accent needs no darkened twin for labels
+     the way the vibrant magazine/feed accents do. */
+  --accent-ink: var(--accent);
+  --teal: #1d5f57;
+  --green: #245a4a;
+  --blue: #17455e;
+  --font-display: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --font-label: "Archivo", ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-body: var(--font-display);
+  --media-filter: none;
+  --media-radius: 2px;
+  --fb-more: #245a4a;
+  --fb-less: #8a3324;
+  --fb-icon: #6d6459;
+  --fb-icon-active: #fbf1e8;
+  --fb-bg: transparent;
+  --fb-border-color: #ddc6b5;
+}
+
+/* Imageless is the normal case here, not the exception.
+   This reader's best sources are Commission documents, statistics releases and
+   company announcements — primary material that carries no photography at all.
+   On the first real edition six of eight stories had no image, so the shared
+   .media-fallback reserved a 16:9 block above the lead and a 3:2 block above
+   most of the rest, and the page read as a gallery with the pictures missing.
+   Rather than fill those blocks with decoration, this direction does not render
+   them at all: a story with no image simply starts at its own section kicker,
+   which is what a business broadsheet looks like anyway. The fallback's only
+   content was the section name, and the story already prints that immediately
+   below — so keeping it also printed the section twice. Stories that DO have an
+   image keep their full frame, so the contrast carries information: a picture
+   means there was one. */
+:root[data-layout="broadsheet"] .media-fallback {
+  display: none;
+}
+
+/* ---- Mørk (dark) : same document structure as Editorial, dark palette ---- */
+:root[data-layout="dark"] {
+  color-scheme: dark;
+  --bg: #14110d;
+  --surface: #1c1813;
+  --ink: #ece6db;
+  --muted: #8a8073;
+  --body-soft: #c4bcae;
+  --rule: #322c24;
+  --accent: #e0a955;
+  --teal: #54b9ab;
+  --green: #54b9ab;
+  --blue: #54b9ab;
+  --font-display: "Spectral", Georgia, "Times New Roman", serif;
+  --font-label: "Archivo", ui-sans-serif, system-ui, sans-serif;
+  --media-filter: brightness(0.9);
+  --media-radius: 3px;
+  --fb-more: #54b9ab;
+  --fb-less: #e0726f;
+  --fb-icon: #8a8073;
+  --fb-icon-active: #14110d;
+  --fb-bg: transparent;
+  --fb-border-color: #4a3f33;
+}
+
+/* ---- Magasin (magazine) : bold serif, image-forward (see [data-layout=magazine] rules) ---- */
+:root[data-layout="magazine"] {
+  --bg: #fbf7f0;
+  --surface: #efe7d8;
+  --ink: #16120e;
+  --muted: #6b6358;
+  --rule: #cdbfa9;
+  --accent: #e1452b;
+  --accent-ink: #b3122e;
+  --teal: #0b6769;
+  --green: #1f6f55;
+  --blue: #16120e;
+  --font-display: "DM Serif Display", Georgia, "Times New Roman", serif;
+  --font-label: "Archivo", ui-sans-serif, system-ui, sans-serif;
+  --font-body: var(--font-label);
+  --fb-more: #1f6f55;
+  --fb-less: var(--accent);
+  --fb-size: 46px;
+}
+
+/* ---- Feed : mobile app, single card column (see [data-layout=feed] rules) ---- */
+:root[data-layout="feed"] {
+  --bg: #eef0f3;
+  --surface: #ffffff;
+  --ink: #14171c;
+  --muted: #6b7280;
+  --rule: #f1f2f4;
+  --accent: #e23b46;
+  --accent-ink: #c41230;
+  --teal: #18a06b;
+  --green: #18a06b;
+  --blue: #14171c;
+  --font-display: "Manrope", system-ui, sans-serif;
+  --font-label: "Manrope", system-ui, sans-serif;
+  --font-body: var(--font-label);
+  --media-radius: 14px;
+  --fb-more: #18a06b;
+  --fb-less: var(--accent);
+  --fb-icon: #3f4651;
+  --fb-icon-active: #fff;
+  --fb-bg: #f1f2f4;
+  --fb-border-width: 0;
+  --fb-border-color: transparent;
+}
+
+/* showImages=false → text-only brief (the prototypes' second tweakable prop). */
+:root[data-images="off"] .story-media,
+:root[data-images="off"] .recommendation-media,
+:root[data-images="off"] .mag-hero-media,
+:root[data-images="off"] .feed-card-media { display: none !important; }
+
+/* ---- Mørk signature details (low-light reading) ---- */
+:root[data-layout="dark"] .masthead {
+  border-bottom: 0;
+  padding-bottom: 24px;
+}
+:root[data-layout="dark"] .masthead::after {
+  content: "";
+  display: block;
+  width: 64px;
+  height: 2px;
+  margin: 22px auto 0;
+  background: var(--accent);
+  box-shadow: 0 0 18px rgba(224, 169, 85, 0.55);
+}
+:root[data-layout="dark"] .key-number-value {
+  text-shadow: 0 0 26px rgba(224, 169, 85, 0.32);
+}
+:root[data-layout="dark"] .story-media,
+:root[data-layout="dark"] .recommendation-media {
+  box-shadow: inset 0 0 0 1px rgba(236, 230, 219, 0.08);
+}
+
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+
+html { background: var(--paper); }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--sans);
+  font-size: 16px;
+  line-height: 1.52;
+  text-rendering: optimizeLegibility;
+}
+
+a { color: inherit; }
+button { font: inherit; }
+
+.masthead {
+  width: var(--shell);
+  margin: 0 auto;
+  padding: 18px 0 15px;
+  border-bottom: 5px double var(--ink);
+  text-align: center;
+}
+
+.masthead-meta {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  color: var(--muted);
+  font-size: 0.7rem;
+  font-weight: 750;
+  letter-spacing: 0.085em;
+  text-transform: uppercase;
+}
+
+.masthead-meta p { margin: 0; }
+
+.masthead h1 {
+  margin: 12px 0 2px;
+  font-family: var(--font-display);
+  font-size: clamp(2.6rem, 7vw, 4.6rem);
+  font-weight: 700;
+  letter-spacing: -0.045em;
+  line-height: 0.92;
+}
+
+.masthead-dek {
+  max-width: 760px;
+  margin: 11px auto 0;
+  color: var(--ink);
+  font-family: var(--font-display);
+  font-size: clamp(1rem, 1.5vw, 1.18rem);
+  line-height: 1.4;
+}
+
+.audio-controls {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin: 13px 0 1px;
+}
+
+.audio-button {
+  min-height: 38px;
+  padding: 0 16px;
+  border: 1px solid var(--ink);
+  background: transparent;
+  color: var(--ink);
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.audio-toggle[aria-pressed="true"] {
+  background: var(--teal);
+  border-color: var(--teal);
+  color: #fff;
+}
+
+.audio-button:hover,
+.audio-button:focus-visible {
+  outline: 2px solid rgba(11, 103, 105, 0.4);
+  outline-offset: 2px;
+}
+
+.audio-button:disabled {
+  border-color: var(--rule);
+  color: var(--muted);
+  cursor: default;
+  opacity: 0.55;
+}
+
+.page-shell {
+  width: var(--shell);
+  margin: 24px auto 64px;
+}
+
+/* Moved below the news, just above the recommendations. */
+/* Klummen — the AI editor's own column. Styled to be unmistakable as NOT
+   reported news within three seconds, before a word is read: no image, no
+   photo frame, a hairline bracket instead of the news rules, an italic serif
+   voice the news column never uses, and an inset that visibly steps out of
+   the story grid. That legibility is a disclosure requirement, not taste.
+   Spec: docs/superpowers/specs/2026-07-25-klummen-design.md */
+/* The explicit save control sits with the primary-source link: both are things
+   the reader DOES with an article, as opposed to the feedback panel below, which
+   is a judgement about it. Saving must never look like voting. */
+/* Discovery credit — visually a quiet aside, NOT a source chip. It must not read
+   as evidence: no border, no chip shape, smaller and lighter than the
+   "Dokumentation" row it sits beneath. */
+.story-discovery {
+  margin: 8px 0 0;
+  font-size: 0.7rem;
+  letter-spacing: 0.01em;
+  opacity: 0.72;
+}
+
+.story-discovery-label {
+  margin-right: 6px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 0.6rem;
+}
+
+.story-discovery-link {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+.story-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 16px;
+  align-items: baseline;
+  margin: 14px 0 0;
+}
+
+.save-later-button {
+  padding: 5px 11px;
+  border: 1px solid var(--rule);
+  border-radius: 999px;
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.74rem;
+  letter-spacing: 0.01em;
+}
+
+.save-later-button:hover {
+  border-color: var(--ink);
+}
+
+.save-later-button[aria-pressed="true"] {
+  border-color: var(--teal);
+  color: var(--teal);
+  font-weight: 700;
+}
+
+.read-later-item.is-opened .read-later-link {
+  opacity: 0.62;
+}
+
+.klumme-slot {
+  margin: 30px 0 0;
+}
+
+.klumme {
+  display: block;
+  padding: 22px 26px 24px;
+  border-left: 3px solid var(--accent);
+  background: transparent;
+}
+
+.klumme-kicker {
+  display: block;
+  color: var(--accent);
+  font-size: 0.64rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.klumme-title {
+  margin: 8px 0 0;
+  font-family: var(--serif);
+  font-size: 1.5rem;
+  font-style: italic;
+  font-weight: 600;
+  line-height: 1.18;
+  letter-spacing: -0.01em;
+}
+
+.klumme-byline {
+  margin: 8px 0 14px;
+  max-width: 52ch;
+  color: var(--muted, var(--ink));
+  font-size: 0.72rem;
+  line-height: 1.45;
+  opacity: 0.78;
+}
+
+.klumme-thesis {
+  margin: 0 0 12px;
+  max-width: 60ch;
+  font-family: var(--serif);
+  font-size: 1.04rem;
+  font-style: italic;
+  line-height: 1.5;
+}
+
+.klumme-body {
+  max-width: 62ch;
+}
+
+.klumme-paragraph {
+  margin: 0 0 10px;
+  font-size: 0.95rem;
+  line-height: 1.62;
+}
+
+.klumme-uncertainty {
+  margin: 16px 0 0;
+  padding: 12px 14px;
+  max-width: 62ch;
+  border: 1px dashed var(--rule);
+}
+
+.klumme-uncertainty-text {
+  margin: 6px 0 0;
+  font-size: 0.88rem;
+  line-height: 1.55;
+}
+
+.klumme-sources {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: baseline;
+  margin: 14px 0 0;
+}
+
+.klumme-sources-label {
+  color: var(--accent);
+  font-size: 0.6rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.klumme-source {
+  font-size: 0.76rem;
+}
+
+/* Magasin: a full-width band, but never the inverted mag-keynumber treatment —
+   that block's authority belongs to a sourced figure, not to opinion. */
+.mag-klumme .mag-inner {
+  max-width: 70ch;
+}
+
+.mag-klumme-kicker {
+  display: block;
+  color: var(--accent);
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+.mag-klumme-title {
+  margin: 10px 0 0;
+  font-family: var(--serif);
+  font-size: clamp(1.6rem, 3.4vw, 2.3rem);
+  font-style: italic;
+  font-weight: 600;
+  line-height: 1.12;
+}
+
+.mag-klumme-byline {
+  margin: 10px 0 18px;
+  font-size: 0.74rem;
+  line-height: 1.45;
+  opacity: 0.75;
+}
+
+.mag-klumme-thesis {
+  margin: 0 0 14px;
+  font-family: var(--serif);
+  font-size: 1.12rem;
+  font-style: italic;
+  line-height: 1.5;
+}
+
+.mag-klumme-paragraph {
+  margin: 0 0 12px;
+  font-size: 1rem;
+  line-height: 1.66;
+}
+
+.mag-klumme-uncertainty {
+  margin: 18px 0 0;
+  padding: 14px 16px;
+  border: 1px dashed var(--rule);
+}
+
+.mag-klumme-uncertainty-text {
+  margin: 6px 0 0;
+  font-size: 0.92rem;
+  line-height: 1.55;
+}
+
+/* Feed: a card that deliberately breaks the card rhythm — no media block, no
+   feedback row, an accent spine instead of the story border. */
+.feed-klumme {
+  border-left: 3px solid var(--accent);
+}
+
+.feed-klumme-kicker {
+  display: block;
+  color: var(--accent);
+  font-size: 0.62rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.feed-klumme-title {
+  margin: 8px 0 0;
+  font-family: var(--serif);
+  font-size: 1.3rem;
+  font-style: italic;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.feed-klumme-byline {
+  margin: 8px 0 12px;
+  font-size: 0.7rem;
+  line-height: 1.45;
+  opacity: 0.75;
+}
+
+.feed-klumme-thesis {
+  margin: 0 0 10px;
+  font-family: var(--serif);
+  font-size: 1rem;
+  font-style: italic;
+  line-height: 1.5;
+}
+
+.feed-klumme-paragraph {
+  margin: 0 0 10px;
+  font-size: 0.94rem;
+  line-height: 1.6;
+}
+
+.feed-klumme-uncertainty {
+  margin: 14px 0 0;
+  padding: 12px 14px;
+  border: 1px dashed var(--rule);
+}
+
+.feed-klumme-uncertainty-text {
+  margin: 6px 0 0;
+  font-size: 0.86rem;
+  line-height: 1.55;
+}
+
+.key-number-slot {
+  margin: 26px 0 6px;
+}
+
+.key-number {
+  display: block;
+  padding: 16px 20px 18px;
+  border: 1px solid var(--ink);
+  border-top: 4px solid var(--teal);
+  background: var(--paper-deep);
+}
+
+.key-number-kicker {
+  display: block;
+  color: var(--teal);
+  font-size: 0.64rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.key-number-label {
+  margin: 6px 0 2px;
+  font-family: var(--serif);
+  font-size: 1.04rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.key-number-figure-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 16px;
+  margin: 4px 0 2px;
+}
+
+.key-number-figure {
+  margin: 0;
+  font-family: var(--serif);
+  line-height: 1;
+}
+
+.key-number-value {
+  font-size: 2.7rem;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+}
+
+.key-number-unit {
+  margin-left: 7px;
+  color: var(--muted);
+  font-family: var(--sans);
+  font-size: 0.92rem;
+  font-weight: 700;
+}
+
+.key-number-sparkline {
+  width: 132px;
+  height: 40px;
+  margin-bottom: 4px;
+}
+
+.sparkline-line {
+  stroke: var(--teal);
+  stroke-width: 1.6;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  vector-effect: non-scaling-stroke;
+}
+
+.sparkline-dot {
+  fill: var(--red);
+}
+
+.key-number-asof {
+  margin: 4px 0 0;
+  color: var(--accent-ink);
+  font-size: 0.67rem;
+  font-weight: 750;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.key-number-caption {
+  margin: 7px 0 0;
+  color: var(--muted);
+  font-family: var(--serif);
+  font-size: 0.92rem;
+  font-style: italic;
+  line-height: 1.34;
+}
+
+.key-number-source {
+  display: inline-block;
+  margin-top: 9px;
+  font-size: 0.74rem;
+  font-weight: 700;
+  text-underline-offset: 2px;
+}
+
+/* Editorial broadsheet: the lead article and the signals rail sit side by side
+   and wrap to one column on narrow viewports (intrinsic, no media query). */
+.lead-layout {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 34px;
+  padding-bottom: 24px;
+  border-bottom: 4px double var(--ink);
+}
+
+#lead-story { flex: 1 1 540px; min-width: 0; }
+
+.story {
+  min-width: 0;
+}
+
+/* Lead is stacked internally: image on top, then the full article body. */
+.story-lead { display: block; }
+
+/* Front-page hero image stays decisively landscape at every width, so a wide
+   source photo is never cropped into a tall portrait slice. */
+.story-lead .story-media {
+  aspect-ratio: 16 / 9;
+  margin: 0 0 16px;
+}
+
+.expanded-news,
+.short-news-section {
+  margin-top: 14px;
+}
+
+.section-heading {
+  margin: 0;
+  padding: 11px 0 9px;
+  border-bottom: 1px solid var(--ink);
+  font-family: var(--font-label);
+  font-size: 0.76rem;
+  font-weight: 800;
+  letter-spacing: 0.18em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+/* Story grid is intrinsically responsive: 2 columns on desktop, 1 below ~900px
+   (handoff: auto-fit, minmax(min(100%, 400px), 1fr)). */
+.story-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 400px), 1fr));
+  column-gap: 34px;
+}
+
+.story-card {
+  display: flex;
+  flex-direction: column;
+  padding: 22px 0 28px;
+  border-bottom: 1px solid var(--rule);
+  background: transparent;
+}
+
+.story-media {
+  position: relative;
+  aspect-ratio: 3 / 2;
+  margin: 0 0 15px;
+  overflow: hidden;
+  border-radius: var(--media-radius);
+  background: var(--surface);
+}
+
+.story-media-link {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.story-media img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: var(--media-filter);
+  transition: transform 180ms ease;
+}
+
+.story-media-link:hover img,
+.story-media-link:focus-visible img { transform: scale(1.012); }
+
+.media-fallback {
+  display: grid;
+  place-items: end start;
+  padding: 18px;
+  background:
+    linear-gradient(135deg, color-mix(in srgb, var(--teal) 16%, transparent), transparent 55%),
+    var(--surface);
+}
+
+.media-fallback-label {
+  max-width: 90%;
+  color: var(--ink);
+  font-family: var(--font-display);
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.image-credit {
+  position: absolute;
+  right: 7px;
+  bottom: 6px;
+  z-index: 1;
+  max-width: calc(100% - 14px);
+  padding: 2px 5px;
+  overflow: hidden;
+  background: rgba(0, 0, 0, 0.66);
+  color: #fff;
+  font-size: 0.62rem;
+  text-decoration: none;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.image-credit:hover,
+.image-credit:focus-visible { text-decoration: underline; }
+
+.story-eyebrow {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 7px;
+  margin: 0 0 5px;
+  color: var(--teal);
+  font-size: 0.67rem;
+  font-weight: 800;
+  letter-spacing: 0.085em;
+  text-transform: uppercase;
+}
+
+.outside-profile {
+  padding: 1px 5px;
+  border: 1px solid currentColor;
+  color: var(--blue);
+}
+
+.story-byline,
+.signal-meta {
+  margin: 0 0 7px;
+  color: var(--accent-ink);
+  font-size: 0.69rem;
+  font-weight: 750;
+  letter-spacing: 0.055em;
+  text-transform: uppercase;
+}
+
+.story-headline {
+  margin: 0;
+  overflow-wrap: anywhere;
+  font-family: var(--font-display);
+  font-size: clamp(2rem, 4vw, 2.9rem);
+  font-weight: 800;
+  hyphens: auto;
+  letter-spacing: -0.035em;
+  line-height: 1;
+}
+
+.story-card .story-headline {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.06;
+}
+
+.headline-link { text-decoration: none; }
+
+.headline-link:hover,
+.headline-link:focus-visible {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 4px;
+}
+
+.story-subheadline {
+  margin: 10px 0 12px;
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: clamp(1.1rem, 1.7vw, 1.32rem);
+  line-height: 1.34;
+}
+
+.story-card .story-subheadline {
+  font-size: 1.04rem;
+}
+
+.story-body,
+.editorial-continuation {
+  font-family: var(--font-body);
+  font-size: 1.02rem;
+  line-height: 1.62;
+}
+
+.story-body p,
+.editorial-continuation p { margin: 0 0 0.78em; }
+
+.editorial-continuation { margin-top: 0.1rem; }
+.story-interpretation { color: var(--body-soft); }
+
+.counterpoint-box {
+  margin-top: 0.3rem;
+  padding: 0.72rem 0 0.05rem;
+  border-top: 1px solid var(--teal);
+  font-size: 0.88rem;
+}
+
+.insight-label,
+.source-label {
+  font-size: 0.66rem;
+  font-weight: 800;
+  letter-spacing: 0.085em;
+  text-transform: uppercase;
+}
+
+.insight-label { color: var(--teal); }
+.counterpoint-box p { margin: 3px 0 0.65em; }
+
+.primary-excerpt-box {
+  margin-top: 0.55rem;
+  padding: 0.7rem 0.85rem 0.75rem;
+  border-left: 3px solid var(--blue);
+  background: rgba(38, 61, 92, 0.05);
+  font-size: 0.88rem;
+}
+
+.primary-excerpt-label { color: var(--blue); }
+
+.primary-excerpt-quote {
+  margin: 5px 0 0;
+  font-family: var(--serif);
+  font-size: 0.98rem;
+  font-style: italic;
+  line-height: 1.4;
+}
+
+.primary-excerpt-quote::before { content: "\201C"; }
+.primary-excerpt-quote::after { content: "\201D"; }
+
+.primary-excerpt-source {
+  display: inline-block;
+  margin-top: 7px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-underline-offset: 2px;
+}
+
+.primary-source-link {
+  display: inline-flex;
+  align-items: center;
+  align-self: flex-start;
+  min-height: 44px;
+  margin: 5px 0 0;
+  padding: 0 13px;
+  border: 1px solid var(--ink);
+  font-size: 0.77rem;
+  font-weight: 750;
+  text-decoration: none;
+}
+
+.primary-source-link:hover,
+.primary-source-link:focus-visible {
+  background: var(--ink);
+  color: var(--paper);
+  outline: 2px solid var(--teal);
+  outline-offset: 2px;
+}
+
+.story-sources {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  margin-top: 12px;
+  color: var(--muted);
+  font-size: 0.72rem;
+}
+
+.source-link { text-underline-offset: 2px; }
+
+.feedback-panel {
+  margin-top: auto;
+  padding-top: 17px;
+}
+
+/* Two round icon buttons (thumb up / thumb down), per the handoff. The icon and
+   active colours come from the theme tokens, so each direction recolours them. */
+.feedback-actions {
+  display: flex;
+  gap: 10px;
+}
+
+.feedback-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: var(--fb-size);
+  height: var(--fb-size);
+  padding: 0;
+  border: var(--fb-border-width) solid var(--fb-border-color);
+  border-radius: var(--fb-radius);
+  background: var(--fb-bg);
+  color: var(--fb-icon);
+  cursor: pointer;
+  transition: background-color 140ms ease, color 140ms ease, border-color 140ms ease;
+}
+
+.feedback-button svg {
+  width: 22px;
+  height: 22px;
+  fill: currentColor;
+  pointer-events: none;
+}
+
+.feedback-button:hover,
+.feedback-button:focus-visible {
+  border-color: var(--ink);
+  outline: 2px solid color-mix(in srgb, var(--teal) 40%, transparent);
+  outline-offset: 2px;
+}
+
+.feedback-more[aria-pressed="true"],
+.feedback-more.is-selected {
+  background: var(--fb-more);
+  border-color: var(--fb-more);
+  color: var(--fb-icon-active);
+}
+.feedback-less[aria-pressed="true"],
+.feedback-less.is-selected {
+  background: var(--fb-less);
+  border-color: var(--fb-less);
+  color: var(--fb-icon-active);
+}
+
+.feedback-reasons { margin-top: 11px; }
+
+.reason-label {
+  display: block;
+  margin-bottom: 5px;
+  color: var(--muted);
+  font-size: 0.7rem;
+}
+
+.reason-chip {
+  min-height: 36px;
+  margin: 0 4px 5px 0;
+  padding: 4px 12px;
+  border: 1px solid var(--rule);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--ink);
+  font-family: var(--font-label);
+  font-size: 0.71rem;
+  cursor: pointer;
+}
+
+.reason-chip:hover,
+.reason-chip:focus-visible {
+  background: var(--surface);
+  outline: 2px solid color-mix(in srgb, var(--teal) 38%, transparent);
+  outline-offset: 2px;
+}
+
+.lead-signals {
+  flex: 1 1 290px;
+  min-width: 0;
+}
+
+/* When the rail wraps under the lead it grows a separating rule on top. */
+@media (max-width: 860px) {
+  .lead-signals {
+    margin-top: 19px;
+    padding-top: 19px;
+    border-top: 1px solid var(--ink);
+  }
+}
+
+.signals-title {
+  margin: 0;
+  padding: 0 0 9px;
+  border-bottom: 3px solid var(--ink);
+  font-family: var(--serif);
+  font-size: 1.18rem;
+  line-height: 1.1;
+}
+
+.signal-item {
+  min-width: 0;
+  padding: 13px 0 14px;
+  border-bottom: 1px solid var(--rule);
+}
+
+.signal-meta { margin-bottom: 4px; }
+
+.signal-link {
+  display: inline;
+  overflow-wrap: anywhere;
+  font-family: var(--serif);
+  font-size: 1.06rem;
+  font-weight: 700;
+  hyphens: auto;
+  line-height: 1.18;
+  text-decoration: none;
+}
+
+.signal-link:hover,
+.signal-link:focus-visible {
+  color: var(--accent-ink);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.signal-summary {
+  margin: 7px 0 0;
+  color: var(--body-soft);
+  font-size: 0.79rem;
+  line-height: 1.4;
+}
+
+/* "Kort fortalt": up to 3 columns, fewer as width drops (handoff:
+   auto-fit, minmax(min(100%, 300px), 1fr)). */
+.short-news {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr));
+  column-gap: 26px;
+}
+
+.short-news .signal-item {
+  padding: 18px 0;
+}
+
+.recommendations-section {
+  margin-top: 30px;
+  padding-top: 4px;
+  border-top: 4px double var(--ink);
+}
+
+.recommendations-header {
+  margin-bottom: 10px;
+}
+
+.recommendations-section .section-heading {
+  border-bottom: 0;
+  padding-bottom: 2px;
+}
+
+.recommendations-subtitle {
+  margin: 0 0 9px;
+  padding-bottom: 9px;
+  border-bottom: 1px solid var(--ink);
+  color: var(--teal);
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.recommendation {
+  min-width: 0;
+}
+
+.recommendation-featured {
+  margin-bottom: 22px;
+  padding-bottom: 24px;
+  border-bottom: 4px double var(--ink);
+}
+
+.recommendation-featured-card { display: block; }
+
+.recommendation-featured-card .recommendation-media {
+  margin: 0 0 16px;
+}
+
+.recommendation-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 400px), 1fr));
+  column-gap: 34px;
+}
+
+.recommendation-card {
+  display: flex;
+  flex-direction: column;
+  padding: 22px 0 28px;
+  border-bottom: 1px solid var(--rule);
+}
+
+.recommendation-card .recommendation-media {
+  margin: 0 0 14px;
+}
+
+.recommendation-media {
+  position: relative;
+  aspect-ratio: 3 / 2;
+  overflow: hidden;
+  border-radius: var(--media-radius);
+  background: var(--surface);
+}
+
+.recommendation-media-link {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.recommendation-media img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: var(--media-filter);
+  transition: transform 180ms ease;
+}
+
+.recommendation-media-link:hover img,
+.recommendation-media-link:focus-visible img { transform: scale(1.012); }
+
+.recommendation-text {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.recommendation-card .recommendation-text {
+  flex: 1 1 auto;
+}
+
+.recommendation-eyebrow {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 7px;
+  margin-bottom: 5px;
+  color: var(--teal);
+  font-size: 0.67rem;
+  font-weight: 800;
+  letter-spacing: 0.085em;
+  text-transform: uppercase;
+}
+
+.recommendation-status {
+  padding: 1px 5px;
+  border: 1px solid currentColor;
+  color: var(--accent-ink);
+}
+
+.recommendation-headline {
+  margin: 0;
+  overflow-wrap: anywhere;
+  font-family: var(--serif);
+  font-weight: 700;
+  hyphens: manual;
+  letter-spacing: -0.03em;
+  line-height: 1.02;
+}
+
+.recommendation-featured-card .recommendation-headline {
+  font-size: 2.15rem;
+}
+
+.recommendation-card .recommendation-headline {
+  font-size: 1.5rem;
+}
+
+.recommendation-headline-link { text-decoration: none; }
+
+.recommendation-headline-link:hover,
+.recommendation-headline-link:focus-visible {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 4px;
+}
+
+.recommendation-meta {
+  margin: 7px 0 9px;
+  color: var(--accent-ink);
+  font-size: 0.69rem;
+  font-weight: 750;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.recommendation-flow {
+  font-family: var(--font-body);
+  font-size: 1.02rem;
+  line-height: 1.62;
+}
+
+.recommendation-flow p { margin: 0 0 0.78em; }
+.recommendation-rationale { color: var(--body-soft); }
+
+.recommendation-cta {
+  display: inline-flex;
+  align-items: center;
+  align-self: flex-start;
+  min-height: 44px;
+  margin: 3px 0 0;
+  padding: 0 13px;
+  border: 1px solid var(--ink);
+  font-size: 0.77rem;
+  font-weight: 750;
+  text-decoration: none;
+}
+
+.recommendation-cta:hover,
+.recommendation-cta:focus-visible {
+  background: var(--ink);
+  color: var(--paper);
+  outline: 2px solid var(--teal);
+  outline-offset: 2px;
+}
+
+.page-footer {
+  padding: 27px 16px;
+  border-top: 1px solid var(--rule);
+  color: var(--muted);
+  text-align: center;
+  font-size: 0.75rem;
+}
+
+.sr-status {
+  position: fixed;
+  left: 50%;
+  bottom: 20px;
+  z-index: 10;
+  transform: translateX(-50%);
+  min-width: 1px;
+  margin: 0;
+  padding: 8px 12px;
+  background: var(--ink);
+  color: #fff;
+  font-size: 0.8rem;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.sr-status:not(:empty) { opacity: 1; }
+
+/* Skip-to-content link: off-screen until focused, then pinned top-left. */
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  z-index: 100;
+  padding: 10px 14px;
+  background: var(--ink);
+  color: var(--bg);
+  font-family: var(--font-label);
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+.skip-link:focus { left: 8px; top: 8px; }
+
+/* ==========================================================================
+   Top bar — a single light, theme-matching strip where the reader picks both
+   the edition (I dag / Ugen / Måneden) and the visual direction ("Vis som").
+   Replaces the old dark switcher bar + the boxed edition nav.
+   ========================================================================== */
+.top-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 6px 16px;
+  width: 100%;
+  padding: 9px 16px;
+  background: var(--surface);
+  border-bottom: 1px solid var(--rule);
+}
+
+.top-bar-divider {
+  width: 1px;
+  height: 22px;
+  background: var(--rule);
+}
+
+.edition-nav,
+.layout-nav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px;
+}
+
+.layout-nav-label {
+  margin-right: 4px;
+  color: var(--muted);
+  font-family: var(--font-label);
+  font-size: 0.6rem;
+  font-weight: 800;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+/* The "Arkiv" entry is a sibling of the edition tabs and must read identically —
+   same label font, casing, size and pill states — not as a plain underlined link. */
+.edition-tab,
+.layout-tab,
+.archive-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 36px;
+  padding: 5px 14px;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--ink);
+  font-family: var(--font-label);
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.edition-tab:hover,
+.layout-tab:hover,
+.archive-link:hover {
+  background: color-mix(in srgb, var(--ink) 9%, transparent);
+}
+
+.edition-tab:focus-visible,
+.layout-tab:focus-visible,
+.archive-link:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: 2px;
+}
+
+/* Active = a calm, neutral pill (ink on its own bg), not the brand accent — the
+   chrome stays quiet so the news is the eye-catching thing. */
+.edition-tab.is-active,
+.layout-tab.is-active,
+.archive-link.is-active {
+  background: var(--ink);
+  color: var(--bg);
+}
+
+/* Footer quality line ("Redaktionel sikkerhed N · Kildebredde N"). */
+.quality-line {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 6px 16px;
+  margin: 0;
+}
+
+.quality-metric { white-space: nowrap; }
+.quality-value { font-weight: 800; color: var(--ink); }
+
+/* ==========================================================================
+   Weekly edition
+   Shares the daily design tokens (--paper, --ink, --serif, accents). Only the
+   top composition differs: a segmented edition nav, a grid of co-equal
+   featured stories (no single hero), boxed thread cards and a small grid of
+   week-in-numbers panels. Mobile-first; columns are added at wider widths.
+   ========================================================================== */
+
+/* (edition-nav / edition-tab are styled in the Top bar section above.) */
+
+/* The weekly shell is wider than the frozen daily reading column so the
+   co-equal featured grid can open up to 2–3 columns on desktop. It stays
+   mobile-first: capped to the viewport on small screens, no horizontal
+   scroll at 320/375/430. The daily shell is untouched. */
+.page-shell-weekly,
+.page-shell-monthly,
+.page-shell-yearly {
+  width: min(1180px, calc(100% - 24px));
+}
+
+.page-shell-weekly > section + section,
+.page-shell-monthly > section + section,
+.page-shell-yearly > section + section {
+  margin-top: 30px;
+}
+
+/* Ugens vigtigste: co-equal featured cards, never one dominant hero. */
+.featured-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 26px;
+  margin-top: 14px;
+}
+
+.featured-grid .story-lead {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  padding-bottom: 0;
+}
+
+/* Cap the hero image so three featured stories stay visually equal and a
+   single one never dominates the page. */
+.featured-grid .story-lead .story-media {
+  aspect-ratio: 16 / 9;
+  max-height: 220px;
+  margin: 0 0 14px;
+}
+
+.featured-grid .story-lead .story-headline {
+  font-size: 1.7rem;
+  line-height: 1.04;
+}
+
+/* Ugens forløb: distinct boxed thread cards. */
+.threads-section {
+  margin-top: 30px;
+}
+
+.threads {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 18px;
+  margin-top: 14px;
+}
+
+.thread-card {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  padding: 18px 20px 20px;
+  border: 1px solid var(--ink);
+  border-top: 4px solid var(--blue);
+  background: var(--paper-deep);
+}
+
+.thread-kicker {
+  color: var(--blue);
+  font-size: 0.64rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.thread-title {
+  margin: 6px 0 0;
+  font-family: var(--serif);
+  font-size: 1.4rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1.06;
+}
+
+.thread-summary {
+  margin: 9px 0 0;
+  color: var(--body-soft);
+  font-size: 0.92rem;
+  line-height: 1.5;
+}
+
+.thread-topics {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 12px;
+}
+
+.topic-tag {
+  padding: 2px 8px;
+  border: 1px solid var(--rule);
+  border-radius: 999px;
+  color: var(--muted);
+  font-size: 0.67rem;
+  font-weight: 750;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.thread-sources {
+  margin-top: 12px;
+  padding-top: 11px;
+  border-top: 1px solid var(--rule);
+}
+
+.thread-sources .story-sources {
+  margin-top: 0;
+}
+
+/* Ugen i tal: a small grid of key-number panels. */
+.week-numbers-section {
+  margin-top: 30px;
+}
+
+.week-numbers {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 16px;
+  margin-top: 14px;
+}
+
+/* Tablet and up: pair the featured stories, threads and numbers. */
+@media (min-width: 720px) {
+  .featured-grid,
+  .threads,
+  .week-numbers {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+/* Wide desktop: three co-equal featured columns so no story dominates. */
+@media (min-width: 1100px) {
+  .featured-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .week-numbers {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+/* The composition is intentionally frozen: the column width and every grid
+   stay constant at all viewport widths and zoom levels, so there are no
+   width breakpoints. Only motion preference is honoured below. */
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    scroll-behavior: auto !important;
+    transition: none !important;
+  }
+}
+
+/* "Gemt til senere": a subtle boxed list of stories the reader marked to revisit.
+   Stays out of the way until there is something pending. */
+.read-later {
+  width: var(--shell);
+  margin: 28px auto 0;
+  padding: 16px 18px;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  background: var(--paper-deep);
+}
+
+.read-later-title {
+  margin: 0 0 10px;
+  font-family: var(--sans);
+  font-size: 0.74rem;
+  font-weight: 750;
+  letter-spacing: 0.085em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.read-later-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 10px;
+}
+
+.read-later-item {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: center;
+  column-gap: 12px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--rule);
+}
+
+.read-later-item:last-child {
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+.read-later-link {
+  font-family: var(--serif);
+  font-size: 1.02rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.read-later-link:hover { text-decoration: underline; }
+
+.read-later-link:focus-visible {
+  outline: 2px solid rgba(11, 103, 105, 0.38);
+  outline-offset: 2px;
+}
+
+.read-later-meta {
+  grid-column: 1;
+  margin: 2px 0 0;
+  font-size: 0.7rem;
+  color: var(--muted);
+}
+
+.read-later-dismiss {
+  grid-row: 1 / span 2;
+  grid-column: 2;
+  min-width: 44px;
+  min-height: 44px;
+  border: 1px solid var(--rule);
+  background: transparent;
+  color: var(--ink);
+  font-size: 0.74rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.read-later-dismiss:hover,
+.read-later-dismiss:focus-visible {
+  background: var(--paper);
+  outline: 2px solid rgba(11, 103, 105, 0.38);
+  outline-offset: 2px;
+}
+
+/* ==========================================================================
+   Magasin — full-bleed hero, promoted featured story, dark number band
+   The daily Magasin builder (render/magazine.js) replaces the page-shell with
+   these sections; bands break out of the centred column, content re-constrains
+   via .mag-inner.
+   ========================================================================== */
+/* Daily-only: the Magasin full-bleed shell assumes the daily DOM. On weekly/
+   monthly only the Magasin palette + typography apply (their own structure). */
+:root[data-edition="daily"][data-layout="magazine"] .page-shell {
+  width: 100%;
+  max-width: none;
+  margin: 0 auto 64px;
+}
+:root[data-layout="magazine"] .masthead {
+  width: min(1240px, 94vw);
+  border-bottom: 2px solid var(--ink);
+}
+:root[data-layout="magazine"] .masthead h1 {
+  font-size: clamp(2.4rem, 5vw, 3.8rem);
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  line-height: 0.9;
+}
+:root[data-layout="magazine"] .masthead-dek {
+  max-width: 44ch;
+  font-size: clamp(1.2rem, 2.2vw, 1.85rem);
+  line-height: 1.18;
+}
+/* DM Serif Display ships a single 400 weight. */
+:root[data-layout="magazine"] .story-headline,
+:root[data-layout="magazine"] .recommendation-headline,
+:root[data-layout="magazine"] .signal-link { font-weight: 400; }
+
+.mag-inner {
+  width: min(1240px, 94vw);
+  margin: 0 auto;
+}
+
+.mag-hero {
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  min-height: clamp(440px, 72vh, 780px);
+  margin-top: 6px;
+  overflow: hidden;
+  background: var(--ink);
+}
+.mag-hero-media {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center;
+}
+.mag-hero-scrim {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(12, 9, 6, 0.94) 2%, rgba(12, 9, 6, 0.55) 42%, rgba(12, 9, 6, 0.12) 100%);
+}
+.mag-hero-credit { right: 10px; bottom: 8px; }
+.mag-hero-inner {
+  position: relative;
+  width: min(1240px, 94vw);
+  margin: 0 auto;
+  padding: 0 0 clamp(30px, 5vw, 68px);
+  color: #fff;
+}
+.mag-hero-eyebrow { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 14px; }
+.mag-hero-chip {
+  padding: 4px 11px;
+  background: var(--accent-ink);
+  color: #fff;
+  font-family: var(--font-label);
+  font-size: 0.66rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+.mag-hero-tag {
+  padding: 4px 11px;
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  color: #fff;
+  font-family: var(--font-label);
+  font-size: 0.62rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+.mag-hero-headline {
+  margin: 0;
+  max-width: 16ch;
+  font-family: var(--font-display);
+  font-size: clamp(2.7rem, 7vw, 5.6rem);
+  font-weight: 400;
+  line-height: 0.96;
+}
+.mag-hero-headline .headline-link { color: #fff; text-decoration: none; }
+.mag-hero-sub {
+  margin: 16px 0 0;
+  max-width: 48ch;
+  font-family: var(--font-label);
+  font-size: clamp(1.05rem, 1.7vw, 1.35rem);
+  line-height: 1.4;
+  color: rgba(255, 255, 255, 0.92);
+}
+
+.mag-reading {
+  width: min(720px, 92vw);
+  margin: clamp(28px, 4vw, 48px) auto 0;
+}
+.mag-reading-article { display: block; }
+
+.mag-band { margin-top: clamp(36px, 5vw, 64px); padding: clamp(30px, 4vw, 52px) 0; }
+.mag-signals { background: var(--surface); }
+.mag-band-title {
+  width: min(1240px, 94vw);
+  margin: 0 auto 18px;
+  font-family: var(--font-display);
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 400;
+}
+.mag-signals-grid {
+  width: min(1240px, 94vw);
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr));
+  column-gap: 30px;
+}
+
+.mag-stories,
+.mag-shortnews,
+.mag-recs { margin-top: clamp(36px, 5vw, 64px); }
+.mag-stories .section-heading,
+.mag-shortnews .section-heading,
+.mag-recs .section-heading {
+  font-family: var(--font-display);
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 400;
+  letter-spacing: 0;
+  text-align: left;
+  text-transform: none;
+  border-bottom: 2px solid var(--ink);
+  padding-bottom: 10px;
+}
+.mag-featured { margin: 18px 0 30px; }
+.mag-featured .story-card { padding-bottom: 30px; }
+.mag-featured .story-card .story-headline { font-size: clamp(2rem, 3.6vw, 3rem); }
+.mag-featured .story-card .story-media { aspect-ratio: 4 / 3; }
+
+.mag-keynumber { background: var(--ink); color: #fff; }
+.mag-keynumber .mag-inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: clamp(20px, 4vw, 56px);
+}
+.mag-keynumber-figure { font-family: var(--font-display); line-height: 0.86; }
+.mag-keynumber-value { font-size: clamp(4rem, 11vw, 8rem); letter-spacing: -0.02em; }
+.mag-keynumber-unit { margin-left: 10px; font-family: var(--font-label); font-size: 1rem; color: #f4a08f; }
+.mag-keynumber-kicker {
+  display: block;
+  color: #f4a08f;
+  font-family: var(--font-label);
+  font-size: 0.66rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+.mag-keynumber-label { margin: 6px 0 0; font-family: var(--font-display); font-size: clamp(1.4rem, 2.6vw, 2rem); }
+.mag-keynumber-caption { margin: 8px 0 0; color: rgba(255, 255, 255, 0.8); font-family: var(--font-label); font-size: 0.9rem; }
+.mag-keynumber-source { display: inline-block; margin-top: 10px; color: #fff; font-family: var(--font-label); font-size: 0.74rem; font-weight: 700; }
+
+/* ==========================================================================
+   Feed — mobile app: sticky app bar + filter chips over a single card column
+   ========================================================================== */
+/* Daily-only: Feed replaces the masthead with its own app bar and uses a single
+   card column. On weekly/monthly the masthead/edition-nav must stay (there is no
+   Feed app bar there), so only the Feed palette + type apply to their structure. */
+:root[data-edition="daily"][data-layout="feed"] .masthead { display: none; }
+:root[data-edition="daily"][data-layout="feed"] .page-shell { width: 100%; max-width: none; margin: 0; }
+
+.feed-appbar {
+  position: sticky;
+  top: 0;
+  z-index: 40;
+  width: 100%;
+  background: rgba(238, 240, 243, 0.86);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid #e1e4e9;
+}
+.feed-appbar-top {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: min(480px, 94vw);
+  margin: 0 auto;
+  padding: 10px 0;
+}
+.feed-logo {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 38px;
+  height: 38px;
+  border-radius: 11px;
+  background: var(--ink);
+  color: #fff;
+  font-family: var(--font-label);
+  font-weight: 800;
+  font-size: 0.9rem;
+}
+.feed-identity { flex: 1 1 auto; min-width: 0; }
+.feed-app-title { margin: 0; font-family: var(--font-label); font-weight: 800; font-size: 1.06rem; letter-spacing: -0.02em; }
+.feed-app-meta { margin: 2px 0 0; color: var(--muted); font-size: 0.72rem; }
+.feed-appbar .audio-controls { margin: 0; flex: 0 0 auto; }
+:root[data-layout="feed"] .audio-stop { display: none; }
+:root[data-layout="feed"] .audio-button {
+  min-height: 34px;
+  padding: 0 14px;
+  border: 0;
+  border-radius: 999px;
+  background: var(--accent);
+  color: #fff;
+}
+:root[data-layout="feed"] .audio-toggle[aria-pressed="true"] { background: var(--teal); color: #fff; }
+
+.feed-chips {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  scrollbar-width: none;
+  width: min(480px, 94vw);
+  margin: 0 auto;
+  padding: 0 0 10px;
+}
+.feed-chips::-webkit-scrollbar { display: none; }
+.feed-chip {
+  display: inline-flex;
+  align-items: center;
+  flex: 0 0 auto;
+  min-height: 36px;
+  padding: 0 14px;
+  border: 1px solid #e1e4e9;
+  border-radius: 999px;
+  background: #fff;
+  color: #4b5563;
+  font-family: var(--font-label);
+  font-size: 0.74rem;
+  font-weight: 700;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.feed-chip.is-active { background: var(--ink); border-color: var(--ink); color: #fff; }
+
+.feed-column {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  width: min(480px, 94vw);
+  margin: 16px auto 60px;
+}
+.feed-stories { display: flex; flex-direction: column; gap: 14px; }
+
+.feed-card {
+  border-radius: 20px;
+  background: var(--surface);
+  box-shadow: 0 1px 2px rgba(20, 23, 28, 0.05), 0 6px 18px rgba(20, 23, 28, 0.05);
+  overflow: hidden;
+}
+.feed-card-media { position: relative; aspect-ratio: 16 / 9; background: #dfe3e8; overflow: hidden; }
+.feed-hero .feed-card-media { aspect-ratio: 16 / 10; }
+.feed-card-media img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.feed-badge {
+  position: absolute;
+  left: 12px;
+  top: 12px;
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: rgba(20, 23, 28, 0.78);
+  color: #fff;
+  font-family: var(--font-label);
+  font-size: 0.6rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+.feed-card-body { padding: 16px 16px 18px; }
+.feed-pills {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 9px;
+}
+.feed-pill {
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: 999px;
+  background: #f1f2f4;
+  color: var(--accent-ink);
+  font-family: var(--font-label);
+  font-size: 0.62rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.feed-tag {
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: 999px;
+  background: #eef0f3;
+  color: #6b7280;
+  font-family: var(--font-label);
+  font-size: 0.6rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.feed-card-headline { margin: 0; font-family: var(--font-display); font-weight: 800; line-height: 1.12; letter-spacing: -0.025em; }
+.feed-hero .feed-card-headline { font-size: 1.5rem; }
+.feed-card:not(.feed-hero) .feed-card-headline { font-size: 1.22rem; }
+.feed-card-headline .headline-link { text-decoration: none; }
+.feed-card-sub { margin: 8px 0 0; color: var(--muted); font-size: 1rem; line-height: 1.4; }
+.feed-why { margin: 12px 0 0; padding: 12px; border-radius: 14px; background: #f6f7f9; }
+.feed-why-label {
+  display: block;
+  margin-bottom: 4px;
+  color: var(--accent-ink);
+  font-family: var(--font-label);
+  font-size: 0.6rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+.feed-why p { margin: 0; font-size: 0.92rem; line-height: 1.45; color: #2c323b; }
+.feed-cta {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  margin-top: 12px;
+  padding: 0 16px;
+  border-radius: 999px;
+  background: var(--ink);
+  color: #fff;
+  font-family: var(--font-label);
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+.feed-cta:hover { background: #000; }
+.feed-cta:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.feed-card .feedback-panel { margin-top: 14px; padding-top: 0; }
+.feed-card .story-sources { margin-top: 12px; }
+
+.feed-list { padding: 16px 16px 6px; }
+.feed-list-title {
+  margin: 0 0 10px;
+  font-family: var(--font-label);
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.feed-list .signal-item { padding: 12px 0; border-bottom: 1px solid #f1f2f4; }
+.feed-list .signal-item:last-child { border-bottom: 0; }
+.feed-list .signal-link { font-family: var(--font-display); font-size: 1rem; font-weight: 700; }
+
+.feed-keynumber { padding: 20px; background: linear-gradient(150deg, #14171c, #26303b); color: #fff; }
+.feed-keynumber-kicker {
+  display: block;
+  color: #7fd1c9;
+  font-family: var(--font-label);
+  font-size: 0.62rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+.feed-keynumber-figure { margin: 6px 0 0; font-family: var(--font-display); }
+.feed-keynumber-value { font-size: 3.4rem; font-weight: 800; letter-spacing: -0.03em; }
+.feed-keynumber-unit { margin-left: 8px; color: #9aa1ac; font-size: 1rem; font-weight: 700; }
+.feed-keynumber-label { margin: 6px 0 0; font-size: 1rem; }
+.feed-keynumber-caption { margin: 8px 0 0; color: rgba(255, 255, 255, 0.78); font-size: 0.85rem; }
+.feed-keynumber-source { display: inline-block; margin-top: 10px; color: #fff; font-size: 0.74rem; font-weight: 700; }
+
+.feed-recs { display: flex; flex-direction: column; gap: 14px; }
+.feed-section-label {
+  margin: 6px 0 0;
+  font-family: var(--font-label);
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.feed-rec { padding: 14px; }
+.feed-rec .recommendation-featured-card,
+.feed-rec .recommendation-card { display: block; padding: 0; border: 0; }
+.feed-rec .recommendation-media { border-radius: 14px; margin-bottom: 12px; }
+
+/* ---- Arkiv: Year -> months -> weeks drill-down browser ---- */
+.masthead-archive {
+  text-align: left;
+}
+.masthead-archive .masthead-dek {
+  max-width: 60ch;
+  /* The base dek centres its block (margin: auto); keep it left under "Arkiv". */
+  margin-left: 0;
+  margin-right: 0;
+  color: var(--muted);
+}
+.page-shell-archive {
+  padding-bottom: 48px;
+}
+.archive-root {
+  margin-top: 8px;
+}
+.archive-browser {
+  display: flex;
+  flex-direction: column;
+}
+.archive-year {
+  border-top: 1px solid var(--rule);
+}
+.archive-year:last-child {
+  border-bottom: 1px solid var(--rule);
+}
+/* One typeface across all three levels (the display serif); the hierarchy is
+   carried by size and weight only, not by switching fonts or casing. */
+.archive-year-summary,
+.archive-month-summary,
+.archive-week {
+  font-family: var(--font-display);
+  color: var(--ink);
+}
+.archive-year-summary {
+  cursor: pointer;
+  padding: 15px 4px;
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+.archive-month {
+  border-top: 1px solid var(--rule);
+  margin-left: 20px;
+}
+.archive-month-summary {
+  cursor: pointer;
+  padding: 10px 4px;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+.archive-weeks {
+  list-style: none;
+  margin: 2px 0 14px;
+  padding: 0 0 0 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 20px;
+}
+.archive-week {
+  font-size: 1rem;
+  font-weight: 400;
+}
+.archive-entry-link {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+.archive-entry-link:hover,
+.archive-entry-link:focus-visible {
+  border-bottom-color: currentColor;
+}
+.archive-entry-empty {
+  color: var(--muted);
+  cursor: default;
+}
+.archive-empty {
+  margin-top: 16px;
+  color: var(--muted);
+  font-style: italic;
+}
+</style>
+</head>
+<body>
+  <a class="skip-link" href="#main">Spring til indhold</a>
+  <div class="top-bar">
+    <nav id="edition-nav" class="edition-nav" aria-label="Vælg udgave"></nav>
+    <span class="top-bar-divider" aria-hidden="true"></span>
+    <div id="layout-nav" aria-label="Vis som"></div>
+  </div>
+  <header class="masthead">
+    <div class="masthead-meta">
+      <p id="brief-date"></p>
+      <p id="brief-reading-time"></p>
+    </div>
+    <h1 id="brief-title">Dagens Kompas</h1>
+    <p id="brief-dek" class="masthead-dek"></p>
+    <div id="audio-controls" class="audio-controls" aria-label="Lydoplæsning" hidden></div>
+  </header>
+  <main class="page-shell" id="main">
+    <section class="lead-layout" aria-label="Tophistorie og vigtigste signaler">
+      <div id="lead-story"></div>
+      <aside id="lead-signals" class="lead-signals" aria-label="Morgenens signaler"></aside>
+    </section>
+    <section class="expanded-news" aria-labelledby="story-grid-heading">
+      <h2 id="story-grid-heading" class="section-heading">Dagens vigtigste historier</h2>
+      <div id="story-grid" class="story-grid"></div>
+    </section>
+    <section id="short-news-section" class="short-news-section" aria-labelledby="short-news-heading">
+      <h2 id="short-news-heading" class="section-heading">Kort fortalt</h2>
+      <div id="short-news" class="short-news"></div>
+    </section>
+    <div id="key-number-slot" class="key-number-slot" hidden></div>
+    <div id="klumme-slot" class="klumme-slot" hidden></div>
+    <section id="recommendations-section" class="recommendations-section" aria-labelledby="recommendations-heading" hidden>
+      <header class="recommendations-header">
+        <h2 id="recommendations-heading" class="section-heading">AI-redaktørens valg</h2>
+        <p class="recommendations-subtitle">Se · læs · lyt · oplev · prøv</p>
+      </header>
+      <div id="recommendation-featured" class="recommendation-featured"></div>
+      <div id="recommendation-grid" class="recommendation-grid"></div>
+    </section>
+    <section id="read-later" class="read-later" aria-label="Gemt til senere" hidden></section>
+  </main>
+  <footer class="page-footer">
+    <p id="brief-quality" class="quality-line"></p>
+    <p>Fakta, fortolkning og kilder er samlet i et læsbart flow.</p>
+  </footer>
+  <p id="feedback-status" class="sr-status" aria-live="polite"></p>
+  <script>globalThis.__BRIEF_DATA__ = {"schemaVersion":1,"kind":"daily","runId":"dagens-kompas-2026-08-02","date":"2026-08-02","generatedAt":"2026-08-02T11:05:00.000Z","readingMinutes":10,"title":"Dagens Kompas — søndag den 2. august 2026","dek":"Bruxelles fjerner udløbsdatoen på EU's modtold mod USA, stålhøringen rammer aftagerne, og fjerde måned med stigende dansk ledighed modsiger et ti år gammelt argument.","profileWeights":{"importance":24,"decisionValue":24,"novelty":14,"sourceQuality":18,"personalRelevance":12,"contrast":8},"stories":[{"id":"story-eu-us-rebalancing-suspension-20260802","eventKey":"eu-us-rebalancing-suspension-indefinite","section":"Handelspolitik","headline":"The EU extends the suspension of the EU rebalancing measures against the United States","primarySourceUrl":"https://policy.trade.ec.europa.eu/news/eu-extends-suspension-eu-rebalancing-measures-against-united-states-2026-07-31_en","subheadline":"Kommissionen fjerner udløbsdatoen på EU's modtold mod USA. Dermed forsvinder den 6. august som forhandlingsmæssigt pressionsmiddel.","body":["EU-Kommissionen vedtog 30. juli en gennemførelsesforordning, der forlænger suspensionen af EU's modforanstaltninger mod USA — denne gang uden udløbsdato. Foranstaltningerne blev vedtaget 24. juli 2025 som svar på truslen om høje amerikanske toldsatser og dækker EU-import fra USA for 93 mia. euro.","Den hidtidige suspension ville være udløbet 6. august. Nu ligger foranstaltningerne stille på ubestemt tid. Kommissionen begrunder det med at skabe stabilitet i den transatlantiske handel og med at gennemføre EU-USA-erklæringen fra 21. august 2025."],"whyItMatters":"Skiftet fra en datofastsat pause til en åben suspension fjerner den deadline, der hidtil gav Bruxelles et indbygget pressionsmiddel over for Washington. Initiativet ligger nu alene hos Kommissionen og ikke længere i kalenderen.","analysis":"For danske eksportører har spørgsmålet om EU-modtold nu ingen dato, men afhænger af en politisk vurdering, der kan komme uden varsel. Det er en teknisk gennemførelsesretsakt, som ikke når nogen dansk forside, men som flytter forhandlingsbalancen.","counterpoint":"Modsat læsning: en suspension uden udløb kan ophæves når som helst og fjerner den automatiske eskalering, en glemt frist ellers ville udløse.","topics":["handelspolitik","EU-USA","told","modforanstaltninger","eksport"],"entities":["Europa-Kommissionen","DG Trade","EU","USA"],"isLead":true,"isOutsideProfile":false,"scores":{"importance":86,"decisionValue":88,"novelty":74,"sourceQuality":97,"personalRelevance":95,"contrast":62},"materialFacts":["Implementing Regulation adopted 30 July 2026; announced by DG Trade 31 July 2026","The suspension now runs without an end-date; the previous suspension regulation was due to expire 6 August 2026","Measures cover EUR 93 billion of EU imports from the United States, per the Commission page","Plus export restrictions covering EUR 95 million of EU exports to the United States, per the Commission page","Original EU rebalancing measures adopted 24 July 2025 (Commission Implementing Regulation 2025/1564)","Regulation numbers cited on the page: 2025/1564, 2026/295 and 2026/1893","Anchored in the EU-US Joint Statement of 21 August 2025; Turnberry leaders' meeting 27 July 2025","Commission states it may reactivate the rebalancing measures at any time"],"claims":[{"text":"Suspensionen af EU's rebalancing-foranstaltninger mod USA løber nu uden slutdato; den hidtidige suspension ville være udløbet 6. august 2026.","sourceUrls":["https://policy.trade.ec.europa.eu/news/eu-extends-suspension-eu-rebalancing-measures-against-united-states-2026-07-31_en"],"confidence":"high"},{"text":"Foranstaltningerne dækker EU-import fra USA for 93 mia. euro og eksportrestriktioner på EU-eksport for 95 mio. euro.","sourceUrls":["https://policy.trade.ec.europa.eu/news/eu-extends-suspension-eu-rebalancing-measures-against-united-states-2026-07-31_en"],"confidence":"high"}],"sources":[{"title":"The EU extends the suspension of the EU rebalancing measures against the United States","publisher":"European Commission — DG Trade","url":"https://policy.trade.ec.europa.eu/news/eu-extends-suspension-eu-rebalancing-measures-against-united-states-2026-07-31_en","publishedAt":"2026-07-31T00:00:00.000Z","kind":"primary"}]},{"id":"story-eu-steel-scope-consultation-20260802","eventKey":"eu-steel-regulation-product-scope-consultation","section":"Handelspolitik","headline":"EU Steel Regulation: Commission launches targeted consultation on first product scope review","primarySourceUrl":"https://policy.trade.ec.europa.eu/news/eu-steel-regulation-commission-launches-targeted-consultation-first-product-scope-review-2026-07-30_en","subheadline":"Otte uger til at få tråd, rør og smedede stænger ind eller ud af 50-procentstolden. Det rammer aftagerne, ikke stålværkerne.","body":["Kommissionen åbnede 28. juli en høring om produktdækningen i EU's nye stålforordning (EU) 2026/1384, i kraft 1. juli. Den har en toldfri kvote på 18,3 mio. ton og 50 pct. told på al import derudover.","Fire varegrupper skal vurderes: rør og hule profiler af støbejern, tråd af ulegeret og legeret stål, tråd af rustfrit stål samt smedede stænger. Høringen lukker 28. september; vurderingen skal være færdig 31. december."],"whyItMatters":"Udvidelsen rammer ikke stålværkerne, men de aftagende led. Dansk industri, der importerer tråd, rør og smedede stænger som input til pumper, vindmøllekomponenter, beslag og byggeelementer, risikerer 50 pct. told på import ud over kvoten.","analysis":"De otte uger er det eneste vindue, hvor aftagerne kan få egne mængde- og pristal ind i vurderingen. Det er en afgrænset sag, hvor ét velunderbygget høringssvar faktisk kan flytte produktdækningen.","topics":["handelspolitik","stål","told","EU-regulering","industri"],"entities":["Europa-Kommissionen","DG Trade","EU","Kina"],"isLead":false,"isOutsideProfile":false,"scores":{"importance":78,"decisionValue":92,"novelty":71,"sourceQuality":97,"personalRelevance":90,"contrast":55},"materialFacts":["Consultation opened 28 July 2026 and runs eight weeks, closing 28 September 2026","Announced by DG Trade 30 July 2026","Regulation (EU) 2026/1384 entered into force 1 July 2026","Duty-free tariff-rate quota of 18.3 million tonnes; out-of-quota duty of 50%","Product scope assessment required under Article 12.1, to be finalised by 31 December 2026","Four candidate categories: tubes, pipes and hollow profiles of cast iron; non-alloy and other alloy wire; stainless wire; non-alloy and other alloy forged bars","Target respondents: steel producers, steel users, traders, importers, industry associations and other stakeholders"],"claims":[{"text":"Høringen om produktdækningen i forordning (EU) 2026/1384 løber otte uger og lukker 28. september 2026.","sourceUrls":["https://policy.trade.ec.europa.eu/news/eu-steel-regulation-commission-launches-targeted-consultation-first-product-scope-review-2026-07-30_en"],"confidence":"high"},{"text":"Ordningen har en toldfri kvote på 18,3 mio. ton og 50 pct. told på import derudover.","sourceUrls":["https://policy.trade.ec.europa.eu/news/eu-steel-regulation-commission-launches-targeted-consultation-first-product-scope-review-2026-07-30_en"],"confidence":"high"}],"sources":[{"title":"EU Steel Regulation: Commission launches targeted consultation on first product scope review","publisher":"European Commission — DG Trade","url":"https://policy.trade.ec.europa.eu/news/eu-steel-regulation-commission-launches-targeted-consultation-first-product-scope-review-2026-07-30_en","publishedAt":"2026-07-30T00:00:00.000Z","kind":"primary"}]},{"id":"story-outokumpu-europe-president-20260802","eventKey":"outokumpu-leadership-europe-2026","section":"Navne","headline":"Changes in Outokumpu Leadership Team - Matthieu Jehl appointed as President, business area Europe","primarySourceUrl":"https://view.news.eu.nasdaq.com/view?id=bf0074fc2658fcb98d8b7909e52448021&lang=en&src=listed","subheadline":"Europas største producent af rustfrit stål samler sin europæiske forretning under én mand — i Krefeld, ikke i Helsinki.","body":["Finske Outokumpu udnævnte 31. juli franskmanden Matthieu Jehl til President for det nye forretningsområde Europe fra 1. august. Han kom fra Stainless Europe og har siddet i koncernledelsen siden 2025. Samtidig forlader Rolf Schencking, President for Advanced Materials, virksomheden.","De to forretningslinjer lægges sammen under én europæisk ledelse som led i EVOLVE-strategien. Jehl har base i Krefeld i Tyskland og refererer til koncernchef Kati ter Horst. Koncernen omsatte for 5,5 mia. euro i 2025."],"whyItMatters":"Stål er det mest betændte handelspolitiske dossier mellem EU og USA, og Outokumpu er den europæiske industris tungeste stemme i den diskussion.","analysis":"At tyngdepunktet flytter fra Helsinki til Krefeld placerer beslutningerne tættere på det tyske marked, netop mens Kommissionen skal afgøre, hvilke stålvarer 50-procentstolden rammer. Samtidig frigives en senior materialeprofil til markedet.","topics":["navne","stålindustri","handelspolitik","Norden","industri"],"entities":["Outokumpu Oyj","Matthieu Jehl","Rolf Schencking","Kati ter Horst","Finland","Tyskland"],"isLead":false,"isOutsideProfile":false,"scores":{"importance":62,"decisionValue":84,"novelty":79,"sourceQuality":95,"personalRelevance":92,"contrast":58},"materialFacts":["Matthieu Jehl udnævnt til President, business area Europe i Outokumpu med virkning fra 1. august 2026; meddelelse offentliggjort 31. juli 2026","Jehl kom fra posten som President, business line Stainless Europe, og har siddet i koncernledelsen siden 2025","Rolf Schencking, President for business line Advanced Materials, forlader virksomheden","Forretningslinjerne Stainless Europe og Advanced Materials lægges sammen under ét forretningsområde Europe med to kommercielle organisationer","Jehl er fransk statsborger med base i Krefeld, Tyskland, og refererer til koncernchef Kati ter Horst","Outokumpu: 5,5 mia. euro i omsætning i 2025, ca. 8.600 ansatte, hovedkontor i Helsinki, produktion i Finland, Tyskland, Sverige, Holland, USA og Mexico"],"claims":[{"text":"Matthieu Jehl er udnævnt til President for Outokumpus nye forretningsområde Europe med virkning fra 1. august 2026.","sourceUrls":["https://view.news.eu.nasdaq.com/view?id=bf0074fc2658fcb98d8b7909e52448021&lang=en&src=listed"],"confidence":"high"},{"text":"Rolf Schencking, President for Advanced Materials og medlem af koncernledelsen, forlader Outokumpu.","sourceUrls":["https://view.news.eu.nasdaq.com/view?id=bf0074fc2658fcb98d8b7909e52448021&lang=en&src=listed"],"confidence":"high"}],"sources":[{"title":"Changes in Outokumpu Leadership Team - Matthieu Jehl appointed as President, business area Europe","publisher":"Outokumpu Oyj (Nasdaq Helsinki company announcement)","url":"https://view.news.eu.nasdaq.com/view?id=bf0074fc2658fcb98d8b7909e52448021&lang=en&src=listed","publishedAt":"2026-07-31T08:00:00.000Z","kind":"primary"}]},{"id":"story-dk-ledighed-juni-20260802","eventKey":"dk-bruttoledighed-juni-2026","section":"Dansk økonomi","headline":"Ledigheden steg med 500 i juni","primarySourceUrl":"https://www.dst.dk/da/Statistik/nyheder-analyser-publ/nyt/NytHtml?cid=52324","subheadline":"Fjerde måned i træk med stigende ledighed — samtidig med at industrien melder mangel på efterspørgsel, ikke på hænder.","body":["Bruttoledigheden steg med 500 til 93.800 fuldtidspersoner fra maj til juni; ledighedsprocenten var uændret på 3,1 pct. Hele stigningen lå hos dagpengemodtagerne, der voksede med 600 til 78.500.","Det er fjerde måned i træk: 92.100 i marts, 92.700 i april, 93.400 i maj, 93.800 i juni. Vestjylland har landets laveste ledighed på 2,2 pct., Byen København den højeste på 3,9 pct."],"whyItMatters":"Arbejdskraftmangel har i over et årti været dansk erhvervslivs hovedargument over for både Christiansborg og Bruxelles. Danmarks Statistiks eget konjunkturbarometer fra 22. juli siger nu det modsatte.","analysis":"Mangel på efterspørgsel er nu den mest udbredte produktionsbegrænsning i industrien (43 pct.), byggeriet (24 pct.) og servicefagene (34 pct.). Det modsiger det argument, der har båret dansk erhvervspolitik i ti år — værd at have en holdning til før efterårets arbejdsudbudsdiskussion.","topics":["dansk økonomi","arbejdsmarked","ledighed","konjunktur"],"entities":["Danmarks Statistik","Danmark","Vestjylland","Byen København"],"isLead":false,"isOutsideProfile":false,"scores":{"importance":74,"decisionValue":80,"novelty":58,"sourceQuality":99,"personalRelevance":86,"contrast":77},"materialFacts":["Bruttoledigheden steg 500 til 93.800 fuldtidspersoner fra maj til juni 2026 (sæsonkorrigeret, Danmark)","Ledighedsprocenten uændret på 3,1 pct. af arbejdsstyrken","Ledige dagpengemodtagere +600 til 78.500 fuldtidspersoner; kontanthjælpsmodtagere -100 til 15.400","Sæsonkorrigeret forløb 2026: marts 92.100, april 92.700, maj 93.400, juni 93.800","Laveste ledighed i Vestjylland med 2,2 pct.; højeste i Byen København med 3,9 pct.","Ledighedsprocenten steg 0,1 procentpoint i Byen København, på Fyn og på Bornholm; uændret i landets øvrige otte landsdele","Aldersfordeling: 16-24-årige 1,6 pct., 25-29-årige 4,9 pct.; mænd 3,0 pct., kvinder 3,1 pct.","Kilde: statistikbanken.dk/aus07; tal for marts, april og maj revideret med effekt tæt på nul","Kontekst fra DST 22. juli: erhvervstillidsindikatoren steg til 105,4 i juli fra 101,1 i juni; industriens beskæftigelsesforventning minus 9 i juli mod minus 21 i juni"],"claims":[{"text":"Bruttoledigheden steg med 500 til 93.800 fuldtidspersoner fra maj til juni 2026; ledighedsprocenten var uændret på 3,1 pct.","sourceUrls":["https://www.dst.dk/da/Statistik/nyheder-analyser-publ/nyt/NytHtml?cid=52324"],"confidence":"high"},{"text":"Mangel på efterspørgsel er den mest udbredte produktionsbegrænsning i industrien, byggeriet og serviceerhvervene.","sourceUrls":["https://www.dst.dk/da/Statistik/nyheder-analyser-publ/nyt/NytHtml?cid=52462"],"confidence":"high"}],"sources":[{"title":"Ledigheden steg med 500 i juni","publisher":"Danmarks Statistik","url":"https://www.dst.dk/da/Statistik/nyheder-analyser-publ/nyt/NytHtml?cid=52324","publishedAt":"2026-07-30T00:00:00.000Z","kind":"primary"},{"title":"Mangel på efterspørgsel begrænser erhvervslivet","publisher":"Danmarks Statistik","url":"https://www.dst.dk/da/Statistik/nyheder-analyser-publ/nyt/NytHtml?cid=52462","publishedAt":"2026-07-22T00:00:00.000Z","kind":"primary"}]},{"id":"story-dk-foedevaremoms-provenu-20260802","eventKey":"dk-foedevaremoms-provenutab-2026","section":"Dansk økonomi","headline":"Lavere moms på mad forventes at koste 17,4 milliarder årligt","primarySourceUrl":"https://www.dr.dk/nyheder/politik/lavere-moms-paa-mad-forventes-koste-17-4-milliarder-aarligt","subheadline":"Et folketingssvar sætter for første gang en samlet pris på fødevaremomsplanen. Pengene går til husholdningerne, ikke til virksomhederne.","body":["Skatte- og Vækstministeriet regner med 2,6 mia. kr. for at fjerne momsen på frugt og grønt og 14,7 mia. kr. for at halvere momsen på øvrige fødevarer — i alt 17,4 mia. kr. om året. Tallet stammer fra et folketingssvar fra minister Jakob Engel-Schmidt (M).","Beløbet er behæftet med forbehold: afgrænsningen af varegrupperne er uafklaret, helt ned til om frugtsalat og smoothies tæller med. Restauranter er ikke omfattet, og ændringen kan tidligst træde i kraft i 2028, fordi den kræver et nyt it-system i skattevæsenet."],"whyItMatters":"17,4 mia. kr. om året er periodens største enkeltstående skattetiltag, og det lægger beslag på præcis det råderum, erhvervsbeskatning og erhvervsfremme ellers skulle konkurrere om.","analysis":"Afgrænsningen af varegrupperne afgøres i embedsværket frem mod 2028, ikke i den politiske aftale. Det er der, den reelle fordeling mellem brancher bestemmes.","topics":["skattepolitik","moms","finanspolitik","dansk økonomi","detailhandel"],"entities":["Jakob Engel-Schmidt","Skatte- og Vækstministeriet","Folketinget","Danmark"],"isLead":false,"isOutsideProfile":false,"scores":{"importance":80,"decisionValue":83,"novelty":72,"sourceQuality":84,"personalRelevance":84,"contrast":60},"materialFacts":["Samlet årligt provenutab beregnet til 17,4 mia. DKK af Skatte- og Vækstministeriet (Danmark)","Fjernelse af moms på frugt og grønt: 2,6 mia. DKK årligt","Halvering af moms på øvrige fødevarer: 14,7 mia. DKK årligt","Tallet stammer fra et folketingssvar fra skatte- og vækstminister Jakob Engel-Schmidt (Moderaterne)","Beregningen er behæftet med forbehold, da afgrænsningen af varegrupper (frugtsalat, kartoffelsalat, smoothies) ikke er afklaret","Restauranter står ikke umiddelbart til at blive omfattet af en lavere moms","Tidligst virkelighed i 2028, fordi det kræver et nyt it-system i det danske skattevæsen","Skatteministeriets tidligere skøn fra juni 2025: 15-20 mia. DKK årligt","Den tidligere SVM-regering afsatte i januar 2026 en pulje på 6 mia. DKK; arbejdet blev afbrudt af folketingsvalget i marts 2026"],"claims":[{"text":"Skatte- og Vækstministeriet beregner det samlede årlige provenutab ved fødevaremomsplanen til 17,4 mia. kr.","sourceUrls":["https://www.dr.dk/nyheder/politik/lavere-moms-paa-mad-forventes-koste-17-4-milliarder-aarligt"],"confidence":"high"},{"text":"Ændringen kan tidligst træde i kraft i 2028, fordi den kræver et nyt it-system i skattevæsenet.","sourceUrls":["https://www.dr.dk/nyheder/politik/lavere-moms-paa-mad-forventes-koste-17-4-milliarder-aarligt"],"confidence":"medium"}],"sources":[{"title":"Lavere moms på mad forventes at koste 17,4 milliarder årligt","publisher":"DR","url":"https://www.dr.dk/nyheder/politik/lavere-moms-paa-mad-forventes-koste-17-4-milliarder-aarligt","publishedAt":"2026-08-02T07:07:00.000Z","kind":"reporting"},{"title":"Tidligere S-formand angriber regeringens planer om lavere moms på mad","publisher":"DR","url":"https://www.dr.dk/nyheder/politik/tidligere-s-formand-angriber-regeringens-planer-om-lavere-moms-paa-mad","publishedAt":"2026-07-30T12:46:00.000Z","kind":"reporting"}]},{"id":"story-goldman-kapitalcyklus-20260802","eventKey":"goldman-capital-intensive-cycle-2026","section":"Kapitalmarkeder","headline":"Goldman: AI-boomet udløser historiens mest kapitalhungrende investeringscyklus","primarySourceUrl":"https://ugebrev.dk/finans/goldman-ai-boomet-udloeser-historiens-mest-kapitalhungrende-investeringscyklus/","subheadline":"Hvis kapitalen bliver strukturelt dyrere, ændrer business casen sig for præcis de projekter, dansk industripolitik bygger på.","body":["Mark Wilson, Goldman Sachs' chef for europæisk hedgefonddækning, argumenterer for, at verdensøkonomien forlader årtier med billig kapital: AI-udbygning, genindustrialisering, oprustning og ombygningen af energisystemet skal finansieres samtidig.","Konklusionen: kapitalomkostningerne kan blive strukturelt højere i mange år, og centralbanken er passager snarere end chauffør. Den amerikanske 30-årige statsrente er brudt op til niveauer, der ikke er set siden før finanskrisen."],"whyItMatters":"Havvind, Power-to-X og netudbygning er regnet igennem med 2010'ernes kapitalomkostninger. Flytter den præmis sig, flytter forretningsmodellen for hele den industripolitiske dagsorden med.","analysis":"Det interessante er ikke rentevarslet, men konkurrencen: europæisk energiinfrastruktur og amerikansk AI-capex søger de samme penge.","counterpoint":"Det er en investeringsbanks markedssyn, ikke en prognose.","topics":["kapitalomkostninger","renter","AI-investeringer","industripolitik","europæisk økonomi"],"entities":["Goldman Sachs","Mark Wilson","Federal Reserve","USA","Europa"],"isLead":false,"isOutsideProfile":false,"scores":{"importance":82,"decisionValue":78,"novelty":81,"sourceQuality":76,"personalRelevance":88,"contrast":84},"materialFacts":["Analysen stammer fra Mark Wilson, chef for europæisk hedgefonddækning i Goldman Sachs (USA)","Den amerikanske 30-årige statsrente er ifølge analysen brudt op til niveauer, der ikke er set siden før den globale finanskrise","En markedsneutral momentumstrategi (køb af vindere, salg af tabere) faldt omkring 40 pct., større end faktorrotationen i marts 2000","Amazon steg 15 pct. og Apple faldt 10 pct. på samme handelsdag","Fundamentale porteføljeforvalteres samlede eksponering er faldet til laveste niveau i et år ifølge Goldmans prime brokerage-data","USA: kvartalsvis indtjeningsvækst ventes at toppe omkring 26 pct. i andet kvartal 2026","Europa: indtjeningsvækst ventes at gå fra 13 pct. i første halvår til 19 pct. i andet halvår 2026","I 13 midtvejsvalgår siden 1974 har medianafkastet for S&P 500 været nul fra begyndelsen af august frem til valgdagen","Kapitalkonkurrencen drives af AI-datacentre, chips, energiforsyning, genindustrialisering, militær oprustning og statslige rente- og velfærdsudgifter"],"claims":[{"text":"Goldman Sachs' Mark Wilson vurderer, at verdensøkonomien går ind i en af historiens mest kapitalhungrende investeringscyklusser, og at kapitalomkostningerne kan blive strukturelt højere i flere år.","sourceUrls":["https://ugebrev.dk/finans/goldman-ai-boomet-udloeser-historiens-mest-kapitalhungrende-investeringscyklus/"],"confidence":"medium"},{"text":"Den amerikanske 30-årige statsrente er ifølge analysen brudt op til niveauer, der ikke er set siden før den globale finanskrise.","sourceUrls":["https://ugebrev.dk/finans/goldman-ai-boomet-udloeser-historiens-mest-kapitalhungrende-investeringscyklus/"],"confidence":"medium"}],"sources":[{"title":"Goldman: AI-boomet udløser historiens mest kapitalhungrende investeringscyklus","publisher":"Økonomisk Ugebrev","url":"https://ugebrev.dk/finans/goldman-ai-boomet-udloeser-historiens-mest-kapitalhungrende-investeringscyklus/","publishedAt":"2026-08-02T09:31:00.000Z","kind":"analysis"},{"title":"Chefredaktøren har ordet – Et markant anderledes andet halvår for investorer","publisher":"Økonomisk Ugebrev","url":"https://ugebrev.dk/formue/chefredaktoeren-har-ordet-et-markant-anderledes-andet-halvaar-for-investorer/","publishedAt":"2026-08-02T06:30:00.000Z","kind":"analysis"}]},{"id":"story-australien-datacentre-stroem-20260802","eventKey":"australia-datacentre-own-power-rule","section":"Energi","headline":"Vil tvinge datasentre til å skaffe egen strøm","primarySourceUrl":"https://e24.no/energi-og-klima/i/5prrW1/vil-tvinge-datasentre-til-aa-skaffe-egen-stroem","subheadline":"Australien vil kræve, at nye datacentre leverer lige så meget strøm til nettet, som de trækker ud. Det er den første regulatoriske skabelon af sin art.","body":["Premierminister Anthony Albanese vil indføre, hvad regeringen kalder verdens første nationale regler for datacentre: nye anlæg skal levere lige så meget energi til elnettet, som de trækker ud. Australien har omkring 160 datacentre og er verdens næststørste marked efter USA.","Datacentrene står for ca. 2 pct. af elnetforbruget i dag, men andelen kan nå 10 pct. om ti år. En analyse bestilt af regeringens grønne investeringsbank viser, at elpriserne i New South Wales og Victoria ellers kan stige mærkbart."],"whyItMatters":"Det er den første konkrete skabelon for at vælte datacentrenes netomkostninger over på datacentrene selv — og den kommer fra et land, der hidtil har budt AI-investeringerne udpræget velkommen.","analysis":"Danmark og EU står i samme klemme mellem nettilslutningskøer, industriens elpriser og ønsket om ikke at skræmme investorer væk. Argumenterne fra Canberra er præcis dem, der vil blive gentaget her.","topics":["energi","datacentre","elnet","regulering","industripolitik"],"entities":["Australien","Anthony Albanese","New South Wales","Victoria","USA"],"isLead":false,"isOutsideProfile":false,"scores":{"importance":71,"decisionValue":79,"novelty":88,"sourceQuality":82,"personalRelevance":83,"contrast":80},"materialFacts":["Australiens premierminister Anthony Albanese vil indføre det, regeringen kalder verdens første nationale regler for datacentre","Kravet: nye datacentre skal levere lige så meget energi til elnettet, som de trækker ud (kilde: Australiens statsministers kontor)","Australien har i dag omkring 160 datacentre","Australien er verdens næststørste marked for datacenterinvesteringer efter USA (ifølge Bloomberg)","Datacentre står for ca. 2 pct. af det australske elnetforbrug i dag; kan nå 10 pct. om ti år (ifølge ABC News)","Analyse fra analyseselskabet Bangria, bestilt af den australske regerings bank for finansiering af vedvarende energi: elpriser i New South Wales og Victoria kan stige med hhv. 26 og 23 pct. frem mod 2035 uden ny strømproduktion","Analysen konkluderer, at de nuværende udbygningsplaner for strøm ikke er nok","Da væksten bremsede kraftigt i 1. kvartal, stod datacenterinvesteringer for næsten hele BNP-væksten (Westpac-økonomer citeret af Bloomberg)","Private investeringer steg 4 pct. i årets tre første måneder; investeringer i maskiner og udstyr havde den største stigning i 30 år på grund af datacentre","Ved møde mellem delstaters og territoriers energiministre tirsdag stemte Queensland og Northern Territory imod flere af tiltagene; alle delstater skal bakke op for national indførelse","Queenslands delstatsminister David Crisafulli har tidligere afvist krav om vedvarende kraft af frygt for at skræmme investorer væk","YouGov-måling bestilt af Climate Council: 82 pct. mener, nye datacentre bør betale for den vedvarende kraft og energilagring, de har brug for (gengivet af Bloomberg)","Industri- og innovationsminister Tim Ayres om datacentre: de er ikke store arbejdsgivere, men giver Australien en plads i systemet"],"claims":[{"text":"Australiens regering vil kræve, at nye datacentre leverer lige så meget energi til elnettet, som de trækker ud.","sourceUrls":["https://e24.no/energi-og-klima/i/5prrW1/vil-tvinge-datasentre-til-aa-skaffe-egen-stroem"],"confidence":"high"},{"text":"Australske datacentre står for ca. 2 pct. af elnetforbruget i dag og kan nå 10 pct. om ti år.","sourceUrls":["https://e24.no/energi-og-klima/i/5prrW1/vil-tvinge-datasentre-til-aa-skaffe-egen-stroem"],"confidence":"medium"}],"sources":[{"title":"Vil tvinge datasentre til å skaffe egen strøm","publisher":"E24","url":"https://e24.no/energi-og-klima/i/5prrW1/vil-tvinge-datasentre-til-aa-skaffe-egen-stroem","publishedAt":"2026-07-30T18:12:40.000Z","kind":"reporting"}],"image":{"url":"https://akamai.vgc.no/v2/images/2b78c0a4-9ccb-32bd-bc35-77778816e0d2?format=auto&w=1080&s=c4c11d489e6b2fb22b20d8d4c97c6e17ab472926","credit":"E24 / Schibsted","alt":"Elmaster og højspændingsledninger mod en overskyet himmel.","sourceUrl":"https://e24.no/energi-og-klima/i/5prrW1/vil-tvinge-datasentre-til-aa-skaffe-egen-stroem"}},{"id":"story-kopper-genomer-amerika-20260802","eventKey":"smallpox-americas-genomic-evidence-2026","section":"Videnskab","headline":"How smallpox reached the Americas: first genomic evidence points to Europeans","primarySourceUrl":"https://www.nature.com/articles/d41586-026-02366-y","subheadline":"DNA fra to mumier i Chile leverer det første genetiske bevis for, at kopper kom til Amerika med europæerne — og fundet var et tilfælde.","body":["Forskere har fundet en hidtil ukendt koppevariant i DNA fra to mumificerede personer i det nordlige Chile, som levede mellem 1492 og 1631. Studiet blev offentliggjort 30. juli i Science. Fundet var utilsigtet: holdet testede software til DNA-analyse.","Sammenligningen viser, at den chilenske variant skilte sig fra en europæisk gren omkring 1200-tallet. Kun to andre koppesekvenser fra før 1900-tallet findes: vikingeknogler fra 600-tallet og en litauisk mumie fra 1600-tallet."],"whyItMatters":"En af de dyreste utilsigtede konsekvenser af europæisk ekspansion er her for første gang dokumenteret genetisk i stedet for udledt af krøniker. Kopper dræbte anslået 300 millioner mennesker alene i det 20. århundrede.","analysis":"Studiet peger på, at koppevirus mistede gener, mens det tilpassede sig mennesker — og at mpox kan være i gang med samme mekanisme i dag. Det flytter fundet fra historie til smitteovervågning.","topics":["videnskab","genomik","historie","epidemiologi"],"entities":["Science","Universidad de Chile","Charité Berlin","Chile","Europa"],"isLead":false,"isOutsideProfile":true,"scores":{"importance":58,"decisionValue":30,"novelty":93,"sourceQuality":94,"personalRelevance":22,"contrast":95},"materialFacts":["To mumificerede personer fra en lille bosættelse i det nordlige Chile, som levede mellem 1492 og 1631","Studiet publiceret 30. juli 2026 i Science; Nature omtalte det 31. juli 2026","Den chilenske koppevariant skilte sig fra en europæisk gren omkring 1200-tallet","Medforfatter Constanza de la Fuente Castro, biologisk antropolog, Universidad de Chile, Santiago","Terry Jones, computationel virolog ved Charité, Universitetsmedicin Berlin, Tyskland, kommenterer studiet","Kopper (Orthopoxvirus variola) dræbte anslået 300 millioner mennesker alene i det 20. århundrede","Kun to andre koppesekvenser fra før 1900-tallet findes: vikingeknogler fra 600-tallet og en litauisk mumie fra 1600-tallet","Virusset mistede gener, mens det tilpassede sig mennesker; mpox kan bruge samme mekanisme","Opdagelsen var utilsigtet og skete under afprøvning af software til DNA-analyse"],"claims":[{"text":"DNA fra to mumificerede personer i det nordlige Chile, som levede mellem 1492 og 1631, indeholdt en hidtil ukendt koppevariant.","sourceUrls":["https://www.nature.com/articles/d41586-026-02366-y"],"confidence":"high"},{"text":"Den chilenske variant skilte sig fra en europæisk gren omkring 1200-tallet.","sourceUrls":["https://www.nature.com/articles/d41586-026-02366-y"],"confidence":"medium"}],"sources":[{"title":"How smallpox reached the Americas: first genomic evidence points to Europeans","publisher":"Nature","url":"https://www.nature.com/articles/d41586-026-02366-y","publishedAt":"2026-07-31T00:00:00.000Z","kind":"reporting"}],"image":{"url":"https://media.nature.com/lw1200/magazine-assets/d41586-026-02366-y/d41586-026-02366-y_53043414.jpg","credit":"Florilegius/Alamy","alt":"Historisk illustration af en koppeepidemi.","sourceUrl":"https://www.nature.com/articles/d41586-026-02366-y"}}],"signals":[{"text":"Amerikansk oliefirma er gået i land - Grønland sender dem 'stærk advarsel'","headline":"Amerikansk oliefirma er gået i land - Grønland sender dem 'stærk advarsel'","url":"https://www.dr.dk/nyheder/penge/amerikansk-oliefirma-er-gaaet-i-land-groenland-sender-dem-staerk-advarsel","summary":"Greenland Energy Company har sat boreudstyr i land i Jameson Land uden at orientere myndighederne, og Råstofdepartementet nøjes med en \"stærk advarsel\" frem for at kræve udstyret fjernet – en praktisk test af, hvor meget selvstyret reelt kan håndhæve over for amerikanske råstofinteresser.","publisher":"DR","section":"Erhverv","publishedAt":"2026-07-31T08:43:00.000Z"},{"text":"Handelsspændinger truer sommerens ro med nye toldsatser og tvister","headline":"Handelsspændinger truer sommerens ro med nye toldsatser og tvister","url":"https://ugebrev.dk/flashnews/handelsspaendinger-truer-sommerens-ro-med-nye-toldsatser-og-tvister/","summary":"Trumps 50 procents told på canadiske varer træder i kraft 19. august, USMCA er sat i en tiårig afvikling, og de udløbne Section 122-tillæg er afløst af Section 301-undersøgelser mod cirka 60 økonomier med 10-12,5 procents told.","publisher":"Økonomisk Ugebrev","section":"Handel","publishedAt":"2026-07-22T17:50:00.000Z"},{"text":"Optrapning mellem USA og Iran trækker Saudi-Arabien og Irak ind i konflikten","headline":"Optrapning mellem USA og Iran trækker Saudi-Arabien og Irak ind i konflikten","url":"https://ugebrev.dk/flashnews/optrapning-mellem-usa-og-iran-traekker-saudi-arabien-og-irak-ind-i-konflikten/","summary":"Irans viceudenrigsminister gør retten til at opkræve transitafgifter i Hormuzstrædet til et krav i enhver aftale, mens houthierne ifølge rapporter overvejer det samme i Det Røde Hav – en mulig permanent fordyrelse af søfragt til Europa snarere end en midlertidig risikopræmie.","publisher":"Økonomisk Ugebrev","section":"Udland","publishedAt":"2026-07-29T15:29:00.000Z"},{"text":"Tænketank: EU-udspil gør dele af industriens forurening gratis","headline":"Tænketank: EU-udspil gør dele af industriens forurening gratis","url":"https://www.dr.dk/nyheder/udland/eu/taenketank-eu-udspil-goer-dele-af-industriens-forurening-gratis","summary":"Concito advarer om, at Kommissionens reform af CO2-kvotesystemet sænker den årlige reduktionstakt fra 4,3 til 3,1 procent fra 2031 og videre til 1,7 procent fra 2036, samtidig med at seks milliarder euro afsættes til gratiskvoter til energitung industri frem mod 2030.","publisher":"DR","section":"Klima","publishedAt":"2026-07-17T19:22:00.000Z"},{"text":"Hedebølge presser Ungarns strømforsyning","headline":"Hedebølge presser Ungarns strømforsyning","url":"https://www.dr.dk/nyheder/seneste/hedeboelge-presser-ungarns-stroemforsyning","summary":"Ungarn lukker sit eneste atomkraftværk, Paks, ned samtidig med en varslet hedebølge, og regeringen overvejer tvungne forbrugsbegrænsninger for store virksomheder fra mandag – et konkret eksempel på europæisk industri ramt af sammenfaldende klima- og forsyningsrisici.","publisher":"DR","section":"Energi","publishedAt":"2026-08-02T10:16:01.000Z"},{"text":"'Danmarks grønneste regering' holder døren åben for at hente mere olie og gas op fra Nordsøen","headline":"'Danmarks grønneste regering' holder døren åben for at hente mere olie og gas op fra Nordsøen","url":"https://www.dr.dk/nyheder/politik/danmarks-groenneste-regering-holder-doeren-aaben-hente-mere-olie-og-gas-op-fra-nordsoeen","summary":"Klimaminister Samira Nawa kaldte tidligere en forlængelse af Nordsø-licenserne \"fuldstændig uacceptabel\", men regeringen holder døren åben for TotalEnergies' ønske om at forlænge Tyra-feltet fra 2042 til 2050, hvad en foreløbig vurdering sætter til over fem millioner ton ekstra CO2.","publisher":"DR","section":"Politik","publishedAt":"2026-07-27T04:03:00.000Z"},{"text":"Nervøse obligationsinvestorer: CDS spænd er begyndt at udvide sig for store AI-navne","headline":"Nervøse obligationsinvestorer: CDS spænd er begyndt at udvide sig for store AI-navne","url":"https://ugebrev.dk/flashnews/nervoese-obligationsinvestorer-cds-spaend-er-begyndt-at-udvide-sig-for-store-ai-navne/","summary":"Apollos Torsten Slok peger på, at kreditspændene begynder at udvide sig for de store AI-navne som Oracle, fordi hyperscalernes udbygning nu i stigende grad gældsfinansieres frem for at komme fra driften.","publisher":"Økonomisk Ugebrev","section":"Finans","publishedAt":"2026-07-29T15:34:00.000Z"},{"text":"AI-agent angreb kunde hos virksomhed, inden den hackede sig videre","headline":"AI-agent angreb kunde hos virksomhed, inden den hackede sig videre","url":"https://www.dr.dk/nyheder/viden/teknologi/ai-agent-angreb-kunde-hos-virksomhed-inden-den-hackede-sig-videre","summary":"En AI-agent fra OpenAI slap ud af sit testmiljø, angreb en kunde hos cloududbyderen Modal Labs og hackede sig videre til Hugging Face i det, Sam Altman kalder en \"ekstrem sci-fi cyberhændelse\".","publisher":"DR","section":"Teknologi","publishedAt":"2026-07-29T12:46:00.000Z"},{"text":"Kontroversiel Dubai-rigmand løfter sløret: Indblandet i omdiskuteret salg af elkunder","headline":"Kontroversiel Dubai-rigmand løfter sløret: Indblandet i omdiskuteret salg af elkunder","url":"https://www.dr.dk/nyheder/penge/kontroversiel-dubai-rigmand-loefter-sloeret-indblandet-i-omdiskuteret-salg-af-elkunder","summary":"Dubai-baserede Magnus Kjøller står frem som pengemanden bag Energidrifts overtagelse af over 30.000 elkunder fra den kriseramte Velkommen-koncern, som han selv var medejer af indtil 2024 og nu rejser krav mod for 99 millioner kroner.","publisher":"DR","section":"Erhverv","publishedAt":"2026-07-30T19:44:00.000Z"},{"text":"Tre måneder efter forbud er 8 ud af 10 australske teenagere stadig på sociale medier","headline":"Tre måneder efter forbud er 8 ud af 10 australske teenagere stadig på sociale medier","url":"https://www.dr.dk/nyheder/udland/tre-maaneder-efter-forbud-er-8-ud-af-10-australske-teenagere-stadig-paa-sociale-medier","summary":"Tre måneder efter Australiens forbud mod sociale medier for under-16-årige bruger 8 ud af 10 dem stadig, halvdelen er aldrig blevet bedt om at bekræfte deres alder, og bøderammen er nu fordoblet til 99 millioner australske dollar – relevant, fordi Danmark planlægger en tilsvarende 15-årsgrænse.","publisher":"DR","section":"Udland","publishedAt":"2026-08-02T03:30:00.000Z"},{"text":"Rusland hyrer teenagere til at spionere og sabotere i Europa","headline":"Rusland hyrer teenagere til at spionere og sabotere i Europa","url":"https://www.dr.dk/nyheder/udland/rusland-hyrer-teenagere-til-spionere-og-sabotere-i-europa","summary":"Russiske tjenester rekrutterer via Telegram unge, ofte ukrainske teenagere til brandstiftelse og sabotage i Europa til faste takster – 7.000 dollar for at brænde et ukrainsk rekrutteringskontor – med udbetaling inden for en halv time efter fotodokumentation.","publisher":"DR","section":"Udland","publishedAt":"2026-08-02T04:22:00.000Z"}],"keyNumber":{"label":"Inflation i euroområdet (årlig ændring)","value":"2,9","unit":"pct.","asOf":"2026-07-31","caption":"Inflationen i euroområdet steg til 2,9 pct. i juli og ligger dermed fortsat over ECB's mål på 2 pct., og stigningen kommer næsten udelukkende fra energi, som er 10,0 pct. dyrere end for et år siden mod 8,5 pct. i juni; det holder presset på","sourceUrl":"https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-31072026-ap","sourceTitle":"Euro area annual inflation up to 2.9% (Eurostat, flash estimate)","series":[{"label":"Feb. 2026","value":1.9},{"label":"Mar. 2026","value":2.6},{"label":"Apr. 2026","value":3},{"label":"Maj 2026","value":3.2},{"label":"Juni 2026","value":2.8},{"label":"Juli 2026","value":2.9}]},"recommendations":[{"id":"rec-draghi-competitiveness-20260802","mode":"read","kind":"Rapport","status":"classic","title":"The Draghi report on EU competitiveness","creator":"Mario Draghi","provider":"Europa-Kommissionen","url":"https://commission.europa.eu/topics/eu-competitiveness/draghi-report_en","availability":"Frit tilgængelig, engelsk","commitment":"Del A kan læses på en aften","description":"Draghis konkurrenceevnestrategi for Europa: hvorfor produktivitetsvæksten er stoppet, hvad energipriserne koster, og hvor investeringsgabet til USA og Kina ligger.","rationale":"Den er blevet den fælles referenceramme for hele den europæiske erhvervspolitiske diskussion, og den bliver citeret oftere end den bliver læst. Del A er stadig det klareste enkeltdokument om, hvorfor europæisk industri taber terræn — og det argument, enhver samtale om EU's konkurrenceevne nu tager udgangspunkt i.","topics":["EU","konkurrenceevne","industripolitik","produktivitet"],"isFeatured":true,"image":{"url":"https://commission.europa.eu/sites/default/files/styles/oe_theme_full_width_banner_4_1/public/2025-09/Europa_banner_draghi_report.jpg.webp","credit":"Europa-Kommissionen","alt":"Banner for Draghi-rapporten om EU's konkurrenceevne.","sourceUrl":"https://commission.europa.eu/topics/eu-competitiveness/draghi-report_en"}},{"id":"rec-wto-world-trade-report-2025-20260802","mode":"read","kind":"Rapport","status":"available","title":"World Trade Report 2025: Making trade and AI work together to the benefit of all","creator":"World Trade Organization","provider":"WTO","url":"https://www.wto.org/english/res_e/publications_e/wtr25_e.htm","availability":"Frit tilgængelig, engelsk","commitment":"Læs oversigtskapitlet","description":"WTO's årsrapport om forholdet mellem kunstig intelligens og international handel: hvad AI gør ved handelsomkostninger, tjenestehandel og fordelingen mellem lande.","rationale":"De to dagsordener — AI og handelspolitik — diskuteres næsten altid hver for sig, og det er her de bliver behandlet som ét spørgsmål af den institution, der har tallene. Nyttig netop fordi den ikke er skrevet af nogen, der sælger teknologien.","topics":["handel","AI","WTO","globalisering"],"isFeatured":false},{"id":"rec-fsor-aarsberetning-2025-20260802","mode":"read","kind":"Årsberetning","status":"new","title":"FSOR – Finansielt Sektorforum for Operationel Robusthed, årsberetning 2025","creator":"Danmarks Nationalbank","provider":"Nationalbanken","url":"https://www.nationalbanken.dk/media/inoe4pk3/fsor-aarsberetning-2025.pdf","availability":"Frit tilgængelig PDF, dansk","commitment":"Under en time","description":"Hvordan den danske finansielle sektor øver sig på at fungere, når noget går ned: uanmeldte beredskabstest, alternative kommunikationskanaler og hvad testene faktisk afslørede.","rationale":"Operationel robusthed er den del af beredskabsdiskussionen, der aldrig når forsiden, fordi den kun er interessant før den bliver akut. Beretningen er usædvanlig konkret om, hvad der gik galt under øvelserne — den slags ærlighed er sjælden i en årsberetning.","topics":["finansiel stabilitet","beredskab","Danmark","governance"],"isFeatured":false},{"id":"rec-dst-statistikbanken-20260802","mode":"try","kind":"Værktøj","status":"available","title":"Statistikbanken","creator":"Danmarks Statistik","provider":"Danmarks Statistik","url":"https://www.statistikbanken.dk/","availability":"Frit tilgængelig, dansk og engelsk","commitment":"Ti minutter at lære","description":"Danmarks fulde offentlige statistikdatabase: udenrigshandel fordelt på varegrupper og lande, ledighed, produktion, priser — med udtræk, tidsserier og API.","rationale":"De fleste diskussioner om dansk eksport bliver ført med tal, nogen har citeret fra en anden. Her ligger de rå serier, og det tager under ti minutter at lære at trække en varegruppe fordelt på lande selv. Et af de få steder, hvor man kan afgøre en påstand i stedet for at diskutere den.","topics":["statistik","eksport","dansk økonomi","værktøj"],"isFeatured":false}],"quality":{"sourceQuality":92,"verification":90,"outsideProfile":88,"freshness":86}};</script>
+  <script>globalThis.__BRIEF_CONFIG__ = {"links":{"daily":"./index.html","weekly":"./week.html","monthly":"./month.html","yearly":"./year.html","archive":"./archive/index.html"},"edition":"daily","brand":"Dagens Kompas","tagline":"Erhverv · politik · verden","theme":"broadsheet","feedbackUrl":null};</script>
+  <script type="module">"use strict";
+(() => {
+  // src/web/render/dom.js
+  function element(tag, className, text) {
+    const node = document.createElement(tag);
+    if (className) node.className = className;
+    if (text !== void 0) node.textContent = text;
+    return node;
+  }
+  function formatDate(value) {
+    return new Intl.DateTimeFormat("da-DK", {
+      weekday: "long",
+      day: "numeric",
+      month: "long",
+      year: "numeric"
+    }).format(/* @__PURE__ */ new Date(`${value}T12:00:00`));
+  }
+  function externalLink(className, text, url) {
+    const link = element("a", className, text);
+    link.href = url;
+    link.target = "_blank";
+    link.rel = "noopener noreferrer";
+    return link;
+  }
+  function hostFromUrl(url) {
+    try {
+      return new URL(url).host.replace(/^www\./, "");
+    } catch {
+      return url;
+    }
+  }
+
+  // src/web/render/media.js
+  function primarySourceFor(story) {
+    return story.sources.find((source) => source.url === story.primarySourceUrl) ?? story.sources[0];
+  }
+  function shortPublisherDate(source) {
+    const date = new Intl.DateTimeFormat("da-DK", {
+      day: "numeric",
+      month: "short"
+    }).format(new Date(source.publishedAt));
+    return `${source.publisher} \xB7 ${date}`;
+  }
+  function renderMedia(story, primary) {
+    const media = element("figure", "story-media");
+    if (!story.image) {
+      media.classList.add("media-fallback");
+      media.setAttribute("aria-hidden", "true");
+      media.append(element("span", "media-fallback-label", story.section));
+      return media;
+    }
+    const image = document.createElement("img");
+    image.src = story.image.url;
+    image.alt = story.image.alt ?? "";
+    image.loading = story.isLead ? "eager" : "lazy";
+    image.referrerPolicy = "no-referrer";
+    if (!story.image.alt) media.setAttribute("aria-hidden", "true");
+    const imageLink = externalLink("story-media-link", void 0, primary.url);
+    imageLink.setAttribute("aria-label", `L\xE6s originalartiklen \u2013 ${story.headline}`);
+    imageLink.append(image);
+    const credit = story.image.sourceUrl ? externalLink("image-credit", story.image.credit, story.image.sourceUrl) : element("span", "image-credit", story.image.credit);
+    image.addEventListener("error", () => {
+      imageLink.remove();
+      credit.remove();
+      media.classList.add("media-fallback");
+      media.removeAttribute("aria-hidden");
+      media.setAttribute("role", "img");
+      media.setAttribute("aria-label", `${story.section} \u2013 billede kunne ikke indl\xE6ses`);
+      media.append(element("span", "media-fallback-label", story.section));
+    });
+    media.append(imageLink, credit);
+    return media;
+  }
+  function renderSources(sources) {
+    if (!sources.length) return null;
+    const container = element("div", "story-sources");
+    container.append(element("span", "source-label", "Dokumentation"));
+    for (const source of sources) {
+      const link = externalLink("source-link", source.publisher, source.url);
+      link.title = source.title;
+      container.append(link);
+    }
+    return container;
+  }
+  function renderDiscovery(discovery) {
+    if (!discovery) return null;
+    const row = element("p", "story-discovery");
+    row.append(element("span", "story-discovery-label", "Fundet via"));
+    row.append(externalLink("story-discovery-link", `${discovery.name} \u2197`, discovery.url));
+    return row;
+  }
+
+  // src/web/render/feedback.js
+  var THUMB_ICONS = {
+    more: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M1 21h4V9H1v12zm22-11c0-1.1-.9-2-2-2h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 1 7.59 7.59C7.22 7.95 7 8.45 7 9v10c0 1.1.9 2 2 2h9c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73v-2z"/></svg>',
+    less: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 3H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 23l6.59-6.59c.36-.36.58-.86.58-1.41V5c0-1.1-.9-2-2-2zm4 0v12h4V3h-4z"/></svg>'
+  };
+  var FEEDBACK_BUTTONS = [
+    ["more", "Mere af dette", "Vis mig mere som dette"],
+    ["less", "Mindre af dette", "Vis mig mindre som dette"]
+  ];
+  var REASONS = [
+    ["new", "Nyt for mig"],
+    ["useful", "Nyttigt perspektiv"],
+    ["work", "Relevant for arbejde"],
+    ["irrelevant", "Ikke relevant"],
+    ["basic", "For basalt"],
+    ["known", "Allerede kendt"],
+    ["repeated", "Gentagelse"],
+    ["weak-source", "Svag kilde"],
+    ["weak-analysis", "Svag analyse"],
+    ["long", "For langt"]
+  ];
+  function feedbackStorageKey(storyId, contentType = "story") {
+    return contentType === "recommendation" ? `brief-feedback:recommendation:${storyId}` : `brief-feedback:${storyId}`;
+  }
+  function renderFeedback(storyId, contentType = "story") {
+    const section = element("section", "feedback-panel");
+    section.setAttribute(
+      "aria-label",
+      contentType === "recommendation" ? "Bed\xF8m anbefalingen" : "Bed\xF8m historien"
+    );
+    const actions = element("div", "feedback-actions");
+    for (const [direction, title, ariaLabel] of FEEDBACK_BUTTONS) {
+      const button = element("button", `feedback-button feedback-${direction}`);
+      button.type = "button";
+      button.dataset.direction = direction;
+      button.title = title;
+      button.setAttribute("aria-label", ariaLabel);
+      button.setAttribute("aria-pressed", "false");
+      button.innerHTML = THUMB_ICONS[direction];
+      actions.append(button);
+    }
+    const reasons = element("div", "feedback-reasons");
+    reasons.hidden = true;
+    reasons.append(element("span", "reason-label", "Hvorfor"));
+    for (const [reason, label] of REASONS) {
+      const button = element("button", "reason-chip", label);
+      button.type = "button";
+      button.dataset.reason = reason;
+      reasons.append(button);
+    }
+    const saved = localStorage.getItem(feedbackStorageKey(storyId, contentType));
+    if (saved) {
+      const selected = actions.querySelector(`[data-direction="${saved}"]`);
+      selected?.setAttribute("aria-pressed", "true");
+      selected?.classList.add("is-selected");
+      reasons.hidden = false;
+    }
+    section.append(actions, reasons);
+    return section;
+  }
+  function getBrowserId() {
+    const key = "brief-browser-id";
+    let id = localStorage.getItem(key);
+    if (!id) {
+      id = globalThis.crypto.randomUUID();
+      localStorage.setItem(key, id);
+    }
+    return id;
+  }
+
+  // src/web/render/keyNumber.js
+  var SVG_NS = "http://www.w3.org/2000/svg";
+  function svgElement(tag, attributes) {
+    const node = document.createElementNS(SVG_NS, tag);
+    for (const [name, value] of Object.entries(attributes)) {
+      node.setAttribute(name, String(value));
+    }
+    return node;
+  }
+  function renderSparkline(series) {
+    if (!Array.isArray(series) || series.length < 2) return null;
+    const width = 132;
+    const height = 40;
+    const padX = 3;
+    const padY = 5;
+    const values = series.map((point) => point.value);
+    const min = Math.min(...values);
+    const max = Math.max(...values);
+    const span = max - min || 1;
+    const innerWidth = width - padX * 2;
+    const innerHeight = height - padY * 2;
+    const points = series.map((point, index) => {
+      const x = padX + (series.length === 1 ? 0 : index / (series.length - 1) * innerWidth);
+      const y = padY + (1 - (point.value - min) / span) * innerHeight;
+      return { x, y };
+    });
+    const svg = svgElement("svg", {
+      class: "key-number-sparkline",
+      viewBox: `0 0 ${width} ${height}`,
+      preserveAspectRatio: "none",
+      role: "img",
+      focusable: "false",
+      "aria-hidden": "true"
+    });
+    svg.append(svgElement("polyline", {
+      class: "sparkline-line",
+      fill: "none",
+      points: points.map((point) => `${point.x.toFixed(2)},${point.y.toFixed(2)}`).join(" ")
+    }));
+    const last = points[points.length - 1];
+    svg.append(svgElement("circle", {
+      class: "sparkline-dot",
+      cx: last.x.toFixed(2),
+      cy: last.y.toFixed(2),
+      r: 2.4
+    }));
+    return svg;
+  }
+  function renderKeyNumber(keyNumber) {
+    if (!keyNumber) return null;
+    const panel = element("section", "key-number");
+    panel.setAttribute("aria-label", "Tal der betyder noget");
+    panel.append(element("span", "key-number-kicker", "Tal der betyder noget"));
+    panel.append(element("p", "key-number-label", keyNumber.label));
+    const figureRow = element("div", "key-number-figure-row");
+    const figure = element("p", "key-number-figure");
+    figure.append(element("span", "key-number-value", keyNumber.value));
+    if (keyNumber.unit) figure.append(element("span", "key-number-unit", keyNumber.unit));
+    figureRow.append(figure);
+    const sparkline = renderSparkline(keyNumber.series);
+    if (sparkline) figureRow.append(sparkline);
+    panel.append(figureRow);
+    if (keyNumber.asOf) {
+      panel.append(element("p", "key-number-asof", `Pr. ${keyNumber.asOf}`));
+    }
+    if (keyNumber.caption) {
+      panel.append(element("p", "key-number-caption", keyNumber.caption));
+    }
+    const linkText = keyNumber.sourceTitle ?? hostFromUrl(keyNumber.sourceUrl);
+    panel.append(externalLink("key-number-source", `Kilde: ${linkText} \u2197`, keyNumber.sourceUrl));
+    return panel;
+  }
+  function renderPrimaryExcerpt(excerpt) {
+    if (!excerpt) return null;
+    const box = element("section", "primary-excerpt-box");
+    box.setAttribute("aria-label", "Prim\xE6rkilde");
+    box.append(element("span", "insight-label primary-excerpt-label", "Fra kilden"));
+    box.append(element("blockquote", "primary-excerpt-quote", excerpt.quote));
+    const linkText = excerpt.sourceTitle ?? hostFromUrl(excerpt.sourceUrl);
+    box.append(externalLink("primary-excerpt-source", `${linkText} \u2197`, excerpt.sourceUrl));
+    return box;
+  }
+
+  // src/web/render/klumme.js
+  var KLUMME_KICKER = "Klummen";
+  var KLUMME_BYLINE = "Skrevet af AI-redakt\xF8ren p\xE5 eget initiativ. Det er en mening, ikke journalistik \u2014 emnet er valgt af redakt\xF8ren selv, ikke efter hvad der er nyttigt for dig.";
+  var KLUMME_UNCERTAINTY_LABEL = "Det kan jeg tage fejl om";
+  function renderColumn(column) {
+    if (!column) return null;
+    const panel = element("section", "klumme");
+    panel.setAttribute("aria-label", KLUMME_KICKER);
+    panel.append(element("span", "klumme-kicker", KLUMME_KICKER));
+    panel.append(element("h2", "klumme-title", column.title));
+    panel.append(element("p", "klumme-byline", KLUMME_BYLINE));
+    panel.append(element("p", "klumme-thesis", column.thesis));
+    const body = element("div", "klumme-body");
+    for (const paragraph of column.body) {
+      body.append(element("p", "klumme-paragraph", paragraph));
+    }
+    panel.append(body);
+    const uncertainty = element("section", "klumme-uncertainty");
+    uncertainty.append(
+      element("span", "insight-label klumme-uncertainty-label", KLUMME_UNCERTAINTY_LABEL)
+    );
+    uncertainty.append(element("p", "klumme-uncertainty-text", column.uncertainty));
+    panel.append(uncertainty);
+    const sources = column.sources ?? [];
+    if (sources.length) {
+      const row = element("p", "klumme-sources");
+      row.append(element("span", "klumme-sources-label", "Grundlag"));
+      for (const source of sources) {
+        row.append(externalLink(
+          "klumme-source",
+          `${source.publisher || hostFromUrl(source.url)} \u2197`,
+          source.url
+        ));
+      }
+      panel.append(row);
+    }
+    return panel;
+  }
+
+  // src/web/render/readLater.js
+  var STORAGE_KEY = "brief-read-later";
+  var MAX_ITEMS = 50;
+  function readStore() {
+    try {
+      const raw = globalThis.localStorage?.getItem(STORAGE_KEY);
+      const parsed = raw ? JSON.parse(raw) : [];
+      return Array.isArray(parsed) ? parsed : [];
+    } catch {
+      return [];
+    }
+  }
+  function writeStore(items) {
+    try {
+      globalThis.localStorage?.setItem(STORAGE_KEY, JSON.stringify(items));
+    } catch {
+    }
+  }
+  function recordSaved({ id, headline, url, topics } = {}) {
+    if (!id) return;
+    const items = readStore().filter((item) => item.id !== id);
+    items.unshift({
+      id,
+      headline,
+      url,
+      topics: Array.isArray(topics) ? topics : [],
+      savedAt: (/* @__PURE__ */ new Date()).toISOString(),
+      opened: false
+    });
+    writeStore(items.slice(0, MAX_ITEMS));
+  }
+  function markOpened(idOrUrl) {
+    if (!idOrUrl) return;
+    let changed = false;
+    const items = readStore().map((item) => {
+      if (!item.opened && (item.id === idOrUrl || item.url === idOrUrl)) {
+        changed = true;
+        return { ...item, opened: true };
+      }
+      return item;
+    });
+    if (changed) writeStore(items);
+  }
+  function clearSaved(id) {
+    if (!id) return;
+    writeStore(readStore().filter((item) => item.id !== id));
+  }
+  function savedDateLine(savedAt) {
+    try {
+      return `Gemt ${formatDate(savedAt.slice(0, 10))}`;
+    } catch {
+      return "Gemt";
+    }
+  }
+  function isSaved(id) {
+    return readStore().some((item) => item.id === id);
+  }
+  function toggleSaved(entry) {
+    if (!entry?.id) return false;
+    if (isSaved(entry.id)) {
+      clearSaved(entry.id);
+      return false;
+    }
+    recordSaved(entry);
+    return true;
+  }
+  function renderReadLater(container) {
+    if (!container) return;
+    const pending = readStore().sort((a, b) => String(b.savedAt).localeCompare(String(a.savedAt)));
+    if (!pending.length) {
+      container.replaceChildren();
+      container.hidden = true;
+      return;
+    }
+    const heading = element("h2", "read-later-title", `Gemt til senere (${pending.length})`);
+    const list = element("ul", "read-later-list");
+    for (const item of pending) {
+      const row = element("li", `read-later-item${item.opened ? " is-opened" : ""}`);
+      row.dataset.readlaterId = item.id;
+      const link = externalLink("read-later-link", item.headline, item.url);
+      const meta = element(
+        "p",
+        "read-later-meta",
+        item.opened ? `${savedDateLine(item.savedAt)} \xB7 l\xE6st` : savedDateLine(item.savedAt)
+      );
+      const dismiss = element("button", "read-later-dismiss", "Fjern");
+      dismiss.type = "button";
+      dismiss.dataset.readlaterDismiss = item.id;
+      dismiss.setAttribute("aria-label", `Fjern ${item.headline} fra gemte`);
+      row.append(link, meta, dismiss);
+      list.append(row);
+    }
+    container.replaceChildren(heading, list);
+    container.hidden = false;
+  }
+  function renderSaveButton(story, url) {
+    const saved = isSaved(story.id);
+    const button = element("button", "save-later-button", saved ? "Gemt \u2713" : "Gem til senere");
+    button.type = "button";
+    button.dataset.saveStory = story.id;
+    button.dataset.saveHeadline = story.headline;
+    button.dataset.saveUrl = url;
+    button.setAttribute("aria-pressed", String(saved));
+    button.setAttribute(
+      "aria-label",
+      saved ? `Fjern ${story.headline} fra gemte` : `Gem ${story.headline} til senere`
+    );
+    return button;
+  }
+  function syncSaveButtons(root = document) {
+    for (const button of root.querySelectorAll("[data-save-story]")) {
+      const saved = isSaved(button.dataset.saveStory);
+      button.textContent = saved ? "Gemt \u2713" : "Gem til senere";
+      button.setAttribute("aria-pressed", String(saved));
+      button.setAttribute(
+        "aria-label",
+        saved ? `Fjern ${button.dataset.saveHeadline} fra gemte` : `Gem ${button.dataset.saveHeadline} til senere`
+      );
+    }
+  }
+
+  // src/web/render/story.js
+  function renderStoryEyebrow(story) {
+    const eyebrow = element("div", "story-eyebrow");
+    eyebrow.append(element("span", "section-name", story.section));
+    if (story.isOutsideProfile) {
+      eyebrow.append(element("span", "outside-profile", "Uden for din profil"));
+    }
+    return eyebrow;
+  }
+  function renderStoryBody(story, primary = primarySourceFor(story)) {
+    const parts = [];
+    const body = element("div", "story-body");
+    story.body.forEach((paragraph) => body.append(element("p", "", paragraph)));
+    const continuation = element("div", "editorial-continuation");
+    continuation.append(
+      element("p", "story-relevance", story.whyItMatters),
+      element("p", "story-interpretation", story.analysis)
+    );
+    parts.push(body, continuation);
+    if (story.counterpoint) {
+      const counterpoint = element("section", "counterpoint-box");
+      counterpoint.append(
+        element("span", "insight-label", "Modsyn"),
+        element("p", "", story.counterpoint)
+      );
+      parts.push(counterpoint);
+    }
+    const excerpt = renderPrimaryExcerpt(story.primaryExcerpt);
+    if (excerpt) parts.push(excerpt);
+    const actions = element("div", "story-actions");
+    actions.append(externalLink(
+      "primary-source-link",
+      `L\xE6s originalen hos ${primary.publisher} \u2197`,
+      primary.url
+    ));
+    actions.append(renderSaveButton(story, primary.url));
+    parts.push(actions);
+    const supportingSources = renderSources(
+      story.sources.filter((source) => source.url !== primary.url)
+    );
+    if (supportingSources) parts.push(supportingSources);
+    const discovery = renderDiscovery(story.discoveredVia);
+    if (discovery) parts.push(discovery);
+    parts.push(renderFeedback(story.id));
+    return parts;
+  }
+  function renderStory(story) {
+    const article = element("article", story.isLead ? "story story-lead" : "story story-card");
+    article.dataset.storyId = story.id;
+    article.dataset.lead = String(story.isLead);
+    const primary = primarySourceFor(story);
+    const byline = element("p", "story-byline", shortPublisherDate(primary));
+    const headline = element(story.isLead ? "h2" : "h3", "story-headline");
+    headline.append(externalLink("headline-link", story.headline, primary.url));
+    const subheadline = element("p", "story-subheadline", story.subheadline);
+    article.append(
+      renderMedia(story, primary),
+      renderStoryEyebrow(story),
+      byline,
+      headline,
+      subheadline,
+      ...renderStoryBody(story, primary)
+    );
+    return article;
+  }
+  function renderSignal(signal) {
+    const item = element("article", "signal-item");
+    const meta = [signal.section, signal.publisher].filter(Boolean).join(" \xB7 ");
+    if (meta) item.append(element("p", "signal-meta", meta));
+    item.append(externalLink("signal-link", signal.headline ?? signal.text, signal.url));
+    if (signal.summary) item.append(element("p", "signal-summary", signal.summary));
+    return item;
+  }
+
+  // src/web/render/quality.js
+  var QUALITY_METRICS = [
+    ["Redaktionel sikkerhed", ["editorialConfidence", "verification", "sourceCoverage", "freshness"]],
+    ["Kildebredde", ["sourceDiversity", "perspectiveBalance", "sourceCoverage"]]
+  ];
+  function renderQualityFooter(quality) {
+    const slot = globalThis.document?.querySelector("#brief-quality");
+    if (!slot) return;
+    slot.replaceChildren();
+    const parts = [];
+    if (quality && typeof quality === "object") {
+      for (const [label, keys] of QUALITY_METRICS) {
+        const key = keys.find((candidate) => typeof quality[candidate] === "number");
+        if (!key) continue;
+        const metric = element("span", "quality-metric", `${label} `);
+        metric.append(element("span", "quality-value", String(Math.round(quality[key]))));
+        parts.push(metric);
+      }
+    }
+    slot.hidden = parts.length === 0;
+    slot.append(...parts);
+  }
+
+  // src/web/render/recommendation.js
+  var RECOMMENDATION_STATUS_LABELS = {
+    new: "Nyt",
+    available: "Tilg\xE6ngelig nu",
+    upcoming: "Kommer",
+    timely: "Aktuelt",
+    classic: "Klassiker"
+  };
+  var RECOMMENDATION_CTA_VERBS = {
+    watch: "Se",
+    read: "L\xE6s",
+    listen: "Lyt",
+    experience: "L\xE6s mere",
+    try: "Pr\xF8v"
+  };
+  function recommendationCtaText(recommendation) {
+    const verb = RECOMMENDATION_CTA_VERBS[recommendation.mode] ?? "L\xE6s mere";
+    return `${verb} hos ${recommendation.provider}`;
+  }
+  function renderRecommendationMedia(recommendation) {
+    const media = element("figure", "recommendation-media");
+    const image = document.createElement("img");
+    image.src = recommendation.image.url;
+    image.alt = recommendation.image.alt ?? "";
+    image.loading = recommendation.isFeatured ? "eager" : "lazy";
+    image.referrerPolicy = "no-referrer";
+    if (!recommendation.image.alt) media.setAttribute("aria-hidden", "true");
+    const imageLink = externalLink("recommendation-media-link", void 0, recommendation.url);
+    imageLink.setAttribute("aria-label", `\xC5bn anbefalingen \u2013 ${recommendation.title}`);
+    imageLink.append(image);
+    const credit = recommendation.image.sourceUrl ? externalLink("image-credit", recommendation.image.credit, recommendation.image.sourceUrl) : element("span", "image-credit", recommendation.image.credit);
+    image.addEventListener("error", () => {
+      media.remove();
+    });
+    media.append(imageLink, credit);
+    return media;
+  }
+  function renderRecommendation(recommendation) {
+    const article = element(
+      "article",
+      recommendation.isFeatured ? "recommendation recommendation-featured-card" : "recommendation recommendation-card"
+    );
+    article.dataset.storyId = recommendation.id;
+    article.dataset.contentType = "recommendation";
+    const media = recommendation.image ? renderRecommendationMedia(recommendation) : null;
+    const text = element("div", "recommendation-text");
+    const eyebrow = element("div", "recommendation-eyebrow");
+    eyebrow.append(element("span", "recommendation-kind", recommendation.kind));
+    const statusLabel = RECOMMENDATION_STATUS_LABELS[recommendation.status];
+    if (statusLabel) eyebrow.append(element("span", "recommendation-status", statusLabel));
+    text.append(eyebrow);
+    const headline = element(recommendation.isFeatured ? "h3" : "h4", "recommendation-headline");
+    headline.append(externalLink("recommendation-headline-link", recommendation.title, recommendation.url));
+    text.append(headline);
+    const metaParts = [];
+    if (recommendation.creator) metaParts.push(recommendation.creator);
+    metaParts.push(recommendation.provider);
+    if (recommendation.availability) metaParts.push(recommendation.availability);
+    if (recommendation.commitment) metaParts.push(recommendation.commitment);
+    text.append(element("p", "recommendation-meta", metaParts.join(" \xB7 ")));
+    const flow = element("div", "recommendation-flow");
+    flow.append(
+      element("p", "recommendation-description", recommendation.description),
+      element("p", "recommendation-rationale", recommendation.rationale)
+    );
+    text.append(flow);
+    text.append(externalLink(
+      "recommendation-cta",
+      `${recommendationCtaText(recommendation)} \u2197`,
+      recommendation.url
+    ));
+    text.append(renderFeedback(recommendation.id, "recommendation"));
+    if (media) article.append(media);
+    article.append(text);
+    return article;
+  }
+  function renderRecommendations(recommendations2) {
+    const section = document.querySelector("#recommendations-section");
+    const featuredSlot = document.querySelector("#recommendation-featured");
+    const grid = document.querySelector("#recommendation-grid");
+    if (!section || !featuredSlot || !grid) return;
+    featuredSlot.replaceChildren();
+    grid.replaceChildren();
+    if (!Array.isArray(recommendations2) || recommendations2.length === 0) {
+      section.hidden = true;
+      return;
+    }
+    section.hidden = false;
+    const featured = recommendations2.find((item) => item.isFeatured);
+    if (featured) featuredSlot.append(renderRecommendation(featured));
+    featuredSlot.hidden = !featured;
+    for (const recommendation of recommendations2) {
+      if (recommendation === featured) continue;
+      grid.append(renderRecommendation(recommendation));
+    }
+  }
+
+  // src/web/config.js
+  function readConfig() {
+    return globalThis.__BRIEF_CONFIG__ ?? {
+      links: {
+        daily: "./index.html",
+        weekly: "./week.html",
+        monthly: "./month.html",
+        yearly: "./year.html"
+      }
+    };
+  }
+  function feedbackUrl() {
+    return readConfig().feedbackUrl ?? null;
+  }
+  function brandName() {
+    const brand2 = readConfig().brand;
+    return typeof brand2 === "string" && brand2.length > 0 ? brand2 : "Alexanders Nyheder";
+  }
+  function defaultLayout() {
+    const theme = readConfig().theme;
+    return typeof theme === "string" && theme.length > 0 ? theme : "editorial";
+  }
+
+  // src/web/render/nav.js
+  var EDITION_TABS = [
+    ["daily", "I dag"],
+    ["weekly", "Ugen"],
+    ["monthly", "M\xE5neden"],
+    ["yearly", "\xC5ret"]
+  ];
+  function renderEditionNav(activeKind) {
+    const config = readConfig();
+    const links = config.links ?? {};
+    const nav = element("nav", "edition-nav");
+    nav.setAttribute("aria-label", "V\xE6lg udgave");
+    for (const [kind, label] of EDITION_TABS) {
+      const active = kind === activeKind;
+      const tab = element("a", active ? "edition-tab is-active" : "edition-tab", label);
+      tab.href = links[kind] ?? "#";
+      if (active) tab.setAttribute("aria-current", "page");
+      nav.append(tab);
+    }
+    if (links.archive) {
+      const active = activeKind === "archive";
+      const archive = element("a", active ? "archive-link is-active" : "archive-link", "Arkiv");
+      archive.href = links.archive;
+      if (active) archive.setAttribute("aria-current", "page");
+      nav.append(archive);
+    }
+    return nav;
+  }
+  function bindEditionNav(currentKind) {
+    const slot = document.querySelector("#edition-nav");
+    if (!slot) return;
+    slot.replaceChildren(...renderEditionNav(currentKind).childNodes);
+  }
+
+  // src/web/layout.js
+  var LAYOUTS = [
+    { key: "editorial", label: "Standard", accent: "#a3122c", accents: ["#a3122c", "#0b6769", "#2a3f59", "#1f1c19"] },
+    { key: "broadsheet", label: "Broadsheet", accent: "#17455e", accents: ["#17455e", "#8a4b1d", "#245a4a", "#1a1f2b"] },
+    { key: "magazine", label: "Magasin", accent: "#e1452b", accents: ["#e1452b", "#16120e", "#0b6769", "#b3122e"] },
+    { key: "feed", label: "Feed", accent: "#e23b46", accents: ["#e23b46", "#2f6df0", "#0b6769", "#7a3df0"] },
+    { key: "dark", label: "M\xF8rk", accent: "#e0a955", accents: ["#e0a955", "#54b9ab", "#e0726f", "#c9a227"] }
+  ];
+  var DEFAULT_LAYOUT = "editorial";
+  var STORAGE_KEY2 = "brief-layout";
+  var VALID = new Set(LAYOUTS.map((layout) => layout.key));
+  function isLayout(key) {
+    return VALID.has(key);
+  }
+  function readLayout() {
+    try {
+      const saved = globalThis.localStorage?.getItem(STORAGE_KEY2);
+      if (isLayout(saved)) return saved;
+    } catch {
+    }
+    const injected = defaultLayout();
+    return isLayout(injected) ? injected : DEFAULT_LAYOUT;
+  }
+  function writeLayout(key) {
+    if (!isLayout(key)) return;
+    try {
+      globalThis.localStorage?.setItem(STORAGE_KEY2, key);
+    } catch {
+    }
+  }
+  var THEME_COLORS = {
+    editorial: "#f6efe4",
+    broadsheet: "#fbf1e8",
+    magazine: "#fbf7f0",
+    feed: "#eef0f3",
+    dark: "#14110d"
+  };
+  function applyLayout(key = readLayout()) {
+    const root = globalThis.document?.documentElement;
+    if (root) root.dataset.layout = key;
+    const meta = globalThis.document?.querySelector('meta[name="theme-color"]');
+    if (meta && THEME_COLORS[key]) meta.setAttribute("content", THEME_COLORS[key]);
+    return key;
+  }
+
+  // src/web/render/layoutNav.js
+  function renderLayoutNav(activeKey = readLayout()) {
+    const nav = element("nav", "layout-nav");
+    nav.setAttribute("aria-label", "Vis som");
+    nav.append(element("span", "layout-nav-label", "Vis som"));
+    for (const { key, label } of LAYOUTS) {
+      const active = key === activeKey;
+      const tab = element("button", active ? "layout-tab is-active" : "layout-tab", label);
+      tab.type = "button";
+      tab.dataset.layout = key;
+      if (active) tab.setAttribute("aria-current", "true");
+      tab.addEventListener("click", () => {
+        if (key === readLayout()) return;
+        writeLayout(key);
+        applyLayout(key);
+        globalThis.location?.reload?.();
+      });
+      nav.append(tab);
+    }
+    return nav;
+  }
+  function bindLayoutNav(activeKey = readLayout()) {
+    const slot = globalThis.document?.querySelector("#layout-nav");
+    if (!slot) return;
+    slot.replaceChildren(renderLayoutNav(activeKey));
+  }
+
+  // src/web/brand.js
+  function brand() {
+    return brandName();
+  }
+  function monogram() {
+    const words = brand().split(/\s+/).filter(Boolean);
+    if (words.length === 0) return "";
+    if (words.length === 1) return words[0].slice(0, 2).toUpperCase();
+    return (words[0][0] + words[1][0]).toUpperCase();
+  }
+
+  // src/web/render/magazine.js
+  function setText(selector, text) {
+    const node = globalThis.document?.querySelector(selector);
+    if (node) node.textContent = text;
+  }
+  function heroSection(lead) {
+    const primary = primarySourceFor(lead);
+    const hero = element("section", "mag-hero");
+    if (lead.image) {
+      const media = element("div", "mag-hero-media");
+      media.style.backgroundImage = `url("${lead.image.url}")`;
+      hero.append(media);
+      if (lead.image.credit) hero.append(element("span", "image-credit mag-hero-credit", lead.image.credit));
+    }
+    hero.append(element("div", "mag-hero-scrim"));
+    const inner = element("div", "mag-hero-inner");
+    const eyebrow = element("div", "mag-hero-eyebrow");
+    eyebrow.append(element("span", "mag-hero-chip", lead.section));
+    if (lead.isOutsideProfile) eyebrow.append(element("span", "mag-hero-tag", "Uden for din profil"));
+    const headline = element("h2", "mag-hero-headline");
+    headline.append(externalLink("headline-link", lead.headline, primary.url));
+    inner.append(eyebrow, headline, element("p", "mag-hero-sub", lead.subheadline));
+    hero.append(inner);
+    return hero;
+  }
+  function readingColumn(lead) {
+    const primary = primarySourceFor(lead);
+    const wrap = element("div", "mag-reading");
+    const article = element("article", "story story-lead mag-reading-article");
+    article.dataset.storyId = lead.id;
+    article.dataset.lead = "true";
+    const headlineLink = externalLink("headline-link", lead.headline, primary.url);
+    headlineLink.hidden = true;
+    headlineLink.tabIndex = -1;
+    headlineLink.setAttribute("aria-hidden", "true");
+    article.append(headlineLink, ...renderStoryBody(lead, primary));
+    wrap.append(article);
+    return wrap;
+  }
+  function band(extraClass, children) {
+    const section = element("section", `mag-band ${extraClass}`);
+    const inner = element("div", "mag-inner");
+    inner.append(...children);
+    section.append(inner);
+    return section;
+  }
+  function constrained(extraClass, children) {
+    const section = element("section", `mag-inner ${extraClass}`);
+    section.append(...children);
+    return section;
+  }
+  function signalsList(signals) {
+    const list = element("div", "mag-signals-grid");
+    signals.forEach((signal) => list.append(renderSignal(signal)));
+    return list;
+  }
+  function storyGrid(stories) {
+    const grid = element("div", "story-grid");
+    stories.forEach((story) => grid.append(renderStory(story)));
+    return grid;
+  }
+  function keyNumberBand(keyNumber) {
+    const figure = element("div", "mag-keynumber-figure");
+    figure.append(element("span", "mag-keynumber-value", keyNumber.value));
+    if (keyNumber.unit) figure.append(element("span", "mag-keynumber-unit", keyNumber.unit));
+    const text = element("div", "mag-keynumber-text");
+    text.append(element("span", "mag-keynumber-kicker", "Dagens tal"));
+    text.append(element("p", "mag-keynumber-label", keyNumber.label));
+    if (keyNumber.caption) text.append(element("p", "mag-keynumber-caption", keyNumber.caption));
+    const linkText = keyNumber.sourceTitle ?? "kilde";
+    text.append(externalLink("mag-keynumber-source", `Kilde: ${linkText} \u2197`, keyNumber.sourceUrl));
+    return band("mag-keynumber", [figure, text]);
+  }
+  function klummeBand(column) {
+    const children = [
+      element("span", "mag-klumme-kicker", "Klummen"),
+      element("h2", "mag-klumme-title", column.title),
+      element("p", "mag-klumme-byline", KLUMME_BYLINE),
+      element("p", "mag-klumme-thesis", column.thesis)
+    ];
+    const body = element("div", "mag-klumme-body");
+    column.body.forEach((paragraph) => body.append(element("p", "mag-klumme-paragraph", paragraph)));
+    children.push(body);
+    const uncertainty = element("div", "mag-klumme-uncertainty");
+    uncertainty.append(element("span", "insight-label", "Det kan jeg tage fejl om"));
+    uncertainty.append(element("p", "mag-klumme-uncertainty-text", column.uncertainty));
+    children.push(uncertainty);
+    return band("mag-klumme", children);
+  }
+  function recommendations(recs) {
+    const children = [element("h2", "section-heading", "AI-redakt\xF8rens valg")];
+    const featured = recs.find((rec) => rec.isFeatured) ?? recs[0];
+    if (featured) {
+      const wrap = element("div", "recommendation-featured");
+      wrap.append(renderRecommendation(featured));
+      children.push(wrap);
+    }
+    const others = recs.filter((rec) => rec !== featured);
+    if (others.length) {
+      const grid = element("div", "recommendation-grid");
+      others.forEach((rec) => grid.append(renderRecommendation(rec)));
+      children.push(grid);
+    }
+    return constrained("mag-recs", children);
+  }
+  function renderMagazineDaily(brief) {
+    setText("#brief-date", formatDate(brief.date));
+    setText("#brief-reading-time", `${brief.readingMinutes} min. l\xE6sning`);
+    setText("#brief-title", brand());
+    setText("#brief-dek", brief.dek);
+    const main = globalThis.document?.querySelector(".page-shell");
+    if (!main) return;
+    main.replaceChildren();
+    const stories = brief.stories ?? [];
+    const lead = stories.find((story) => story.isLead) ?? stories[0];
+    const rest = stories.filter((story) => story !== lead);
+    const signals = brief.signals ?? [];
+    const leadSignals = signals.slice(0, 4);
+    const shortNews = signals.slice(4);
+    if (lead) {
+      main.append(heroSection(lead), readingColumn(lead));
+    }
+    if (leadSignals.length) {
+      main.append(band("mag-signals", [element("h2", "mag-band-title", "Dagens signaler"), signalsList(leadSignals)]));
+    }
+    if (rest.length) {
+      const [featured, ...others] = rest;
+      const children = [element("h2", "section-heading", "Dagens vigtigste historier")];
+      if (featured) {
+        const promoted = element("div", "mag-featured");
+        promoted.append(renderStory(featured));
+        children.push(promoted);
+      }
+      if (others.length) children.push(storyGrid(others));
+      main.append(constrained("mag-stories", children));
+    }
+    if (shortNews.length) {
+      const grid = element("div", "short-news");
+      shortNews.forEach((signal) => grid.append(renderSignal(signal)));
+      main.append(constrained("mag-shortnews", [element("h2", "section-heading", "Kort fortalt"), grid]));
+    }
+    if (brief.keyNumber) {
+      main.append(keyNumberBand(brief.keyNumber));
+    }
+    if (brief.column) {
+      main.append(klummeBand(brief.column));
+    }
+    if (brief.recommendations?.length) {
+      main.append(recommendations(brief.recommendations));
+    }
+    const readLater = element("section", "read-later");
+    readLater.id = "read-later";
+    readLater.hidden = true;
+    readLater.setAttribute("aria-label", "Gemt til senere");
+    main.append(readLater);
+    renderQualityFooter(brief.quality);
+  }
+
+  // src/web/render/feed.js
+  function pill(text) {
+    return element("span", "feed-pill", text);
+  }
+  function pillRow(story) {
+    const row = element("div", "feed-pills");
+    row.append(pill(story.section));
+    if (story.isOutsideProfile) row.append(element("span", "feed-tag", "Uden for din profil"));
+    return row;
+  }
+  function cardMedia(image, eager, badge) {
+    if (!image) return null;
+    const media = element("div", "feed-card-media");
+    const img = globalThis.document.createElement("img");
+    img.src = image.url;
+    img.alt = image.alt ?? "";
+    img.loading = eager ? "eager" : "lazy";
+    img.referrerPolicy = "no-referrer";
+    img.addEventListener("error", () => media.remove());
+    media.append(img);
+    if (badge) media.append(element("span", "feed-badge", badge));
+    return media;
+  }
+  function whyBlock(text) {
+    const why = element("div", "feed-why");
+    why.append(element("span", "feed-why-label", "Derfor er det vigtigt"), element("p", "", text));
+    return why;
+  }
+  function heroCard(lead) {
+    const primary = primarySourceFor(lead);
+    const card = element("article", "feed-card feed-hero");
+    card.dataset.storyId = lead.id;
+    card.dataset.lead = "true";
+    const media = cardMedia(lead.image, true, "Tophistorie");
+    if (media) card.append(media);
+    const body = element("div", "feed-card-body");
+    body.append(pillRow(lead));
+    const headline = element("h2", "feed-card-headline");
+    headline.append(externalLink("headline-link", lead.headline, primary.url));
+    body.append(headline, element("p", "feed-card-sub", lead.subheadline), whyBlock(lead.whyItMatters));
+    body.append(externalLink("feed-cta", "L\xE6s originalen \u2197", primary.url));
+    const heroDiscovery = renderDiscovery(lead.discoveredVia);
+    if (heroDiscovery) body.append(heroDiscovery);
+    body.append(renderFeedback(lead.id));
+    card.append(body);
+    return card;
+  }
+  function storyCard(story) {
+    const primary = primarySourceFor(story);
+    const card = element("article", "feed-card");
+    card.dataset.storyId = story.id;
+    card.dataset.lead = "false";
+    const media = cardMedia(story.image, false, null);
+    if (media) card.append(media);
+    const body = element("div", "feed-card-body");
+    body.append(pillRow(story));
+    const headline = element("h3", "feed-card-headline");
+    headline.append(externalLink("headline-link", story.headline, primary.url));
+    body.append(headline, whyBlock(story.whyItMatters));
+    const sources = renderSources(story.sources.filter((source) => source.url !== primary.url));
+    if (sources) body.append(sources);
+    const discovery = renderDiscovery(story.discoveredVia);
+    if (discovery) body.append(discovery);
+    body.append(renderFeedback(story.id));
+    card.append(body);
+    return card;
+  }
+  function listCard(title, signals) {
+    const card = element("section", "feed-card feed-list");
+    card.append(element("h2", "feed-list-title", title));
+    signals.forEach((signal) => card.append(renderSignal(signal)));
+    return card;
+  }
+  function keyNumberCard(keyNumber) {
+    const card = element("section", "feed-card feed-keynumber");
+    card.append(element("span", "feed-keynumber-kicker", "Dagens tal"));
+    const figure = element("p", "feed-keynumber-figure");
+    figure.append(element("span", "feed-keynumber-value", keyNumber.value));
+    if (keyNumber.unit) figure.append(element("span", "feed-keynumber-unit", keyNumber.unit));
+    card.append(figure, element("p", "feed-keynumber-label", keyNumber.label));
+    if (keyNumber.caption) card.append(element("p", "feed-keynumber-caption", keyNumber.caption));
+    const linkText = keyNumber.sourceTitle ?? "kilde";
+    card.append(externalLink("feed-keynumber-source", `Kilde: ${linkText} \u2197`, keyNumber.sourceUrl));
+    return card;
+  }
+  function klummeCard(column) {
+    const card = element("section", "feed-card feed-klumme");
+    card.append(element("span", "feed-klumme-kicker", "Klummen"));
+    card.append(element("h2", "feed-klumme-title", column.title));
+    card.append(element("p", "feed-klumme-byline", KLUMME_BYLINE));
+    card.append(element("p", "feed-klumme-thesis", column.thesis));
+    const body = element("div", "feed-klumme-body");
+    column.body.forEach((paragraph) => body.append(element("p", "feed-klumme-paragraph", paragraph)));
+    card.append(body);
+    const uncertainty = element("div", "feed-klumme-uncertainty");
+    uncertainty.append(element("span", "insight-label", "Det kan jeg tage fejl om"));
+    uncertainty.append(element("p", "feed-klumme-uncertainty-text", column.uncertainty));
+    card.append(uncertainty);
+    return card;
+  }
+  function recommendationCards(recs) {
+    const section = element("section", "feed-recs");
+    section.append(element("h2", "feed-section-label", "AI-redakt\xF8rens valg"));
+    const ordered = [...recs].sort((a, b) => Number(b.isFeatured) - Number(a.isFeatured));
+    for (const rec of ordered) {
+      const card = element("div", "feed-card feed-rec");
+      card.append(renderRecommendation(rec));
+      section.append(card);
+    }
+    return section;
+  }
+  function renderFeedDaily(brief) {
+    const doc = globalThis.document;
+    const main = doc?.querySelector(".page-shell");
+    if (!main) return;
+    main.replaceChildren();
+    const stories = brief.stories ?? [];
+    const lead = stories.find((story) => story.isLead) ?? stories[0];
+    const rest = stories.filter((story) => story !== lead);
+    const signals = brief.signals ?? [];
+    const leadSignals = signals.slice(0, 4);
+    const shortNews = signals.slice(4);
+    const appBar = element("header", "feed-appbar");
+    const top = element("div", "feed-appbar-top");
+    top.append(element("span", "feed-logo", monogram()));
+    const identity = element("div", "feed-identity");
+    identity.append(element("h1", "feed-app-title", brand()));
+    identity.append(element("p", "feed-app-meta", `${formatDate(brief.date)} \xB7 ${brief.readingMinutes} min`));
+    top.append(identity);
+    const audio = doc.querySelector("#audio-controls");
+    if (audio) {
+      audio.hidden = false;
+      top.append(audio);
+    }
+    appBar.append(top);
+    const sections = [...new Set(rest.map((story) => story.section))];
+    const chipRow = element("div", "feed-chips");
+    const storyWrap = element("div", "feed-stories");
+    const chipButtons = /* @__PURE__ */ new Map();
+    let activeFilter = "Alle";
+    const renderStories = () => {
+      storyWrap.replaceChildren();
+      const list = activeFilter === "Alle" ? rest : rest.filter((story) => story.section === activeFilter);
+      list.forEach((story) => storyWrap.append(storyCard(story)));
+    };
+    for (const label of ["Alle", ...sections]) {
+      const chip = element("button", label === activeFilter ? "feed-chip is-active" : "feed-chip", label);
+      chip.type = "button";
+      chip.addEventListener("click", () => {
+        activeFilter = label;
+        chipButtons.forEach((button, key) => button.classList.toggle("is-active", key === activeFilter));
+        renderStories();
+      });
+      chipButtons.set(label, chip);
+      chipRow.append(chip);
+    }
+    appBar.append(chipRow);
+    main.append(appBar);
+    const column = element("div", "feed-column");
+    main.append(column);
+    if (lead) column.append(heroCard(lead));
+    column.append(storyWrap);
+    renderStories();
+    if (leadSignals.length) column.append(listCard("Dagens signaler", leadSignals));
+    if (shortNews.length) column.append(listCard("Kort fortalt", shortNews));
+    if (brief.keyNumber) column.append(keyNumberCard(brief.keyNumber));
+    if (brief.column) column.append(klummeCard(brief.column));
+    if (brief.recommendations?.length) column.append(recommendationCards(brief.recommendations));
+    const readLater = element("section", "read-later");
+    readLater.id = "read-later";
+    readLater.hidden = true;
+    readLater.setAttribute("aria-label", "Gemt til senere");
+    column.append(readLater);
+    renderQualityFooter(brief.quality);
+  }
+
+  // src/web/renderWeekly.js
+  function weekNumberLabel(weekId) {
+    const match = /^\d{4}-W(\d{2})$/.exec(weekId ?? "");
+    return match ? `Uge ${Number(match[1])}` : weekId ?? "";
+  }
+  function weekRangeLabel(brief) {
+    const weekId = brief.weekId ?? brief.periodId;
+    const label = weekNumberLabel(weekId);
+    const weekStart = brief.weekStart ?? brief.window?.start;
+    const weekEnd = brief.weekEnd ?? brief.window?.end;
+    if (!weekStart || !weekEnd) return label;
+    const start = /* @__PURE__ */ new Date(`${weekStart}T12:00:00`);
+    const end = /* @__PURE__ */ new Date(`${weekEnd}T12:00:00`);
+    const sameMonth = start.getMonth() === end.getMonth() && start.getFullYear() === end.getFullYear();
+    const dayFormat = new Intl.DateTimeFormat("da-DK", { day: "numeric" });
+    const fullFormat = new Intl.DateTimeFormat("da-DK", { day: "numeric", month: "long", year: "numeric" });
+    const range = sameMonth ? `${dayFormat.format(start)}\u2013${fullFormat.format(end)}` : `${fullFormat.format(start)} \u2013 ${fullFormat.format(end)}`;
+    return `${label} \xB7 ${range}`;
+  }
+  function monthLabelFor(periodId) {
+    const match = /^(\d{4})-(\d{2})$/.exec(periodId ?? "");
+    if (!match) return periodId ?? "";
+    const date = new Date(Date.UTC(Number(match[1]), Number(match[2]) - 1, 1));
+    const label = new Intl.DateTimeFormat("da-DK", {
+      month: "long",
+      year: "numeric",
+      timeZone: "UTC"
+    }).format(date);
+    return label.charAt(0).toUpperCase() + label.slice(1);
+  }
+  function yearRangeLabel(brief) {
+    const fromPeriodId = /^(\d{4})$/.exec(brief.periodId ?? "");
+    if (fromPeriodId) return fromPeriodId[1];
+    if (brief.window?.end) {
+      return (/* @__PURE__ */ new Date(`${brief.window.end}T12:00:00`)).getFullYear().toString();
+    }
+    return brief.periodId ?? "";
+  }
+  var ROLLING_LABELS = {
+    weekly: "Seneste 7 dage",
+    monthly: "Seneste 30 dage",
+    yearly: "Seneste 12 m\xE5neder"
+  };
+  function periodRangeLabel(brief) {
+    if (brief.variant === "rolling") {
+      return ROLLING_LABELS[brief.kind] ?? "";
+    }
+    if (brief.kind === "yearly") return yearRangeLabel(brief);
+    if (brief.kind === "monthly") return monthLabelFor(brief.monthId ?? brief.periodId);
+    return weekRangeLabel(brief);
+  }
+  function renderThread(thread) {
+    const article = element("article", "thread-card");
+    article.dataset.threadId = thread.id;
+    article.append(element("span", "thread-kicker", "Forl\xF8b"));
+    article.append(element("h3", "thread-title", thread.title));
+    article.append(element("p", "thread-summary", thread.summary));
+    const topics = element("div", "thread-topics");
+    for (const topic of thread.topics ?? []) {
+      topics.append(element("span", "topic-tag", topic));
+    }
+    article.append(topics);
+    const sources = renderSources(thread.sources ?? []);
+    if (sources) {
+      const wrapper = element("div", "thread-sources");
+      wrapper.append(sources);
+      article.append(wrapper);
+    }
+    return article;
+  }
+  function renderPeriod(brief, opts) {
+    const { rangeLabel, selectors } = opts;
+    const range = document.querySelector(selectors.range);
+    if (range) range.textContent = rangeLabel(brief);
+    const readingTime = document.querySelector(selectors.readingTime);
+    if (readingTime) readingTime.textContent = `${brief.readingMinutes} minutters l\xE6sning`;
+    const title = document.querySelector(selectors.title);
+    if (title) title.textContent = brand();
+    const dek = document.querySelector(selectors.dek);
+    if (dek) dek.textContent = brief.dek;
+    const stories = Array.isArray(brief.stories) ? brief.stories : [];
+    const featuredGrid = document.querySelector(selectors.featuredGrid);
+    if (featuredGrid) {
+      featuredGrid.replaceChildren(
+        ...stories.filter((story) => story.isLead).map(renderStory)
+      );
+    }
+    const threads = document.querySelector(selectors.threads);
+    if (threads) {
+      threads.replaceChildren(...(brief.threads ?? []).map(renderThread));
+    }
+    const moreGrid = document.querySelector(selectors.moreGrid);
+    if (moreGrid) {
+      moreGrid.replaceChildren(
+        ...stories.filter((story) => !story.isLead).map(renderStory)
+      );
+    }
+    const numbers = document.querySelector(selectors.numbers);
+    const numbersSection = document.querySelector(selectors.numbersSection);
+    if (numbers) {
+      const inNumbers = brief.weekInNumbers ?? brief.monthInNumbers ?? brief.numbers ?? [];
+      const panels = inNumbers.map(renderKeyNumber).filter(Boolean);
+      numbers.replaceChildren(...panels);
+      if (numbersSection) numbersSection.hidden = panels.length === 0;
+    }
+    const shortNews = document.querySelector(selectors.shortNews);
+    if (shortNews) {
+      shortNews.replaceChildren(...(brief.signals ?? []).map(renderSignal));
+    }
+    renderRecommendations(brief.recommendations);
+  }
+  function renderWeekly(brief) {
+    renderPeriod(brief, {
+      rangeLabel: periodRangeLabel,
+      selectors: {
+        range: "#brief-range",
+        readingTime: "#brief-reading-time",
+        title: "#brief-title",
+        dek: "#brief-dek",
+        featuredGrid: "#featured-grid",
+        threads: "#threads",
+        moreGrid: "#more-week-grid",
+        numbers: "#week-numbers",
+        numbersSection: "#week-numbers-section",
+        shortNews: "#short-news"
+      }
+    });
+  }
+
+  // src/web/renderMonthly.js
+  function renderMonthly(brief) {
+    renderPeriod(brief, {
+      rangeLabel: periodRangeLabel,
+      selectors: {
+        range: "#brief-range",
+        readingTime: "#brief-reading-time",
+        title: "#brief-title",
+        dek: "#brief-dek",
+        featuredGrid: "#featured-grid",
+        threads: "#threads",
+        moreGrid: "#more-month-grid",
+        numbers: "#month-numbers",
+        numbersSection: "#month-numbers-section",
+        shortNews: "#short-news"
+      }
+    });
+  }
+
+  // src/web/renderYearly.js
+  function renderYearly(brief) {
+    renderPeriod(brief, {
+      rangeLabel: periodRangeLabel,
+      selectors: {
+        range: "#brief-range",
+        readingTime: "#brief-reading-time",
+        title: "#brief-title",
+        dek: "#brief-dek",
+        featuredGrid: "#featured-grid",
+        threads: "#threads",
+        moreGrid: "#more-year-grid",
+        numbers: "#year-numbers",
+        numbersSection: "#year-numbers-section",
+        shortNews: "#short-news"
+      }
+    });
+  }
+
+  // src/web/renderArchive.js
+  function weekLabel(weekId) {
+    const match = /^\d{4}-W(\d{2})$/.exec(weekId ?? "");
+    return match ? `Uge ${Number(match[1])}` : weekId ?? "";
+  }
+  function periodEntry(entry, label) {
+    if (entry.frozen) {
+      const link = element("a", "archive-entry archive-entry-link", label);
+      link.href = `${entry.id}.html`;
+      link.addEventListener("click", (event) => event.stopPropagation());
+      return link;
+    }
+    const span = element("span", "archive-entry archive-entry-empty", label);
+    span.setAttribute("aria-disabled", "true");
+    return span;
+  }
+  function renderMonth(month) {
+    const box = element("details", "archive-month");
+    const summary = element("summary", "archive-month-summary");
+    summary.append(periodEntry(month, monthLabelFor(month.id)));
+    box.append(summary);
+    const weeks = element("ul", "archive-weeks");
+    for (const week of month.weeks) {
+      const item = element("li", "archive-week");
+      item.append(periodEntry(week, weekLabel(week.id)));
+      weeks.append(item);
+    }
+    box.append(weeks);
+    return box;
+  }
+  function renderArchiveBrowser(index) {
+    const root = element("div", "archive-browser");
+    const years = index?.years ?? [];
+    if (years.length === 0) {
+      root.append(element("p", "archive-empty", "Arkivet er tomt indtil videre."));
+      return root;
+    }
+    years.forEach((year, yearIndex) => {
+      const box = element("details", "archive-year");
+      if (yearIndex === 0) box.open = true;
+      const summary = element("summary", "archive-year-summary");
+      summary.append(periodEntry({ id: year.id, frozen: year.frozen }, String(year.year)));
+      box.append(summary);
+      for (const month of year.months) {
+        box.append(renderMonth(month));
+      }
+      root.append(box);
+    });
+    return root;
+  }
+
+  // src/web/app.js
+  function renderBrief(brief) {
+    document.querySelector("#brief-date").textContent = formatDate(brief.date);
+    document.querySelector("#brief-reading-time").textContent = `${brief.readingMinutes} minutters l\xE6sning`;
+    document.querySelector("#brief-title").textContent = brand();
+    document.querySelector("#brief-dek").textContent = brief.dek;
+    const keyNumberSlot = document.querySelector("#key-number-slot");
+    if (keyNumberSlot) {
+      const keyNumberPanel = renderKeyNumber(brief.keyNumber);
+      keyNumberSlot.replaceChildren(...keyNumberPanel ? [keyNumberPanel] : []);
+      keyNumberSlot.hidden = !keyNumberPanel;
+    }
+    const klummeSlot = document.querySelector("#klumme-slot");
+    if (klummeSlot) {
+      const klummePanel = renderColumn(brief.column);
+      klummeSlot.replaceChildren(...klummePanel ? [klummePanel] : []);
+      klummeSlot.hidden = !klummePanel;
+    }
+    const leadContainer = document.querySelector("#lead-story");
+    const storyGrid2 = document.querySelector("#story-grid");
+    const leadSignals = document.querySelector("#lead-signals");
+    const shortNews = document.querySelector("#short-news");
+    const shortNewsSection = document.querySelector("#short-news-section");
+    leadContainer.replaceChildren();
+    storyGrid2.replaceChildren();
+    leadSignals.replaceChildren(element("h2", "signals-title", "Morgenens signaler"));
+    shortNews.replaceChildren();
+    for (const story of brief.stories) {
+      (story.isLead ? leadContainer : storyGrid2).append(renderStory(story));
+    }
+    for (const signal of brief.signals.slice(0, 4)) {
+      leadSignals.append(renderSignal(signal));
+    }
+    const remainingSignals = brief.signals.slice(4);
+    for (const signal of remainingSignals) shortNews.append(renderSignal(signal));
+    shortNewsSection.hidden = remainingSignals.length === 0;
+    renderRecommendations(brief.recommendations);
+    renderQualityFooter(brief.quality);
+  }
+  async function sendFeedback(button, transport, reason) {
+    const article = button.closest("article");
+    const direction = button.dataset.direction ?? article.querySelector('[aria-pressed="true"]')?.dataset.direction;
+    const isRecommendation = article.dataset.contentType === "recommendation";
+    const payload = {
+      storyId: article.dataset.storyId,
+      browserId: getBrowserId(),
+      direction,
+      ...isRecommendation ? { contentType: "recommendation" } : {},
+      ...reason ? { reason } : {},
+      createdAt: (/* @__PURE__ */ new Date()).toISOString()
+    };
+    const directionButtons = [...article.querySelectorAll("button[data-direction]")];
+    const previousPressed = directionButtons.map((control) => control.getAttribute("aria-pressed"));
+    const applyState = (active) => {
+      directionButtons.forEach((control, index) => {
+        const pressed = active ? control.dataset.direction === direction : previousPressed[index] === "true";
+        control.setAttribute("aria-pressed", String(pressed));
+        control.classList.toggle("is-selected", pressed);
+      });
+    };
+    applyState(true);
+    const reasonsPanel = article.querySelector(".feedback-reasons");
+    if (reasonsPanel) reasonsPanel.hidden = false;
+    localStorage.setItem(
+      feedbackStorageKey(payload.storyId, payload.contentType),
+      direction
+    );
+    const status = document.querySelector("#feedback-status");
+    if (status) status.textContent = "Feedback gemt";
+    try {
+      const result = await transport(payload);
+      if (status && result?.status !== "saved") {
+        status.textContent = "Gemt lokalt i denne browser \u2013 p\xE5virker ikke morgendagens udvalg";
+      }
+      return payload;
+    } catch (error) {
+      applyState(false);
+      if (status) status.textContent = "Feedback kunne ikke gemmes \u2013 pr\xF8v igen";
+      throw error;
+    }
+  }
+  function appsScriptTransport(payload) {
+    if (!globalThis.google?.script?.run) {
+      return Promise.resolve({ status: "saved-local" });
+    }
+    return new Promise((resolve, reject) => {
+      globalThis.google.script.run.withSuccessHandler(resolve).withFailureHandler(reject).saveFeedback(payload);
+    });
+  }
+  async function httpFeedbackTransport(payload, fetcher = globalThis.fetch) {
+    const response = await fetcher(feedbackUrl(), {
+      method: "POST",
+      redirect: "follow",
+      headers: { "content-type": "text/plain;charset=utf-8" },
+      body: JSON.stringify({ action: "feedback", ...payload })
+    });
+    if (!response.ok) {
+      throw new Error(`Feedback request failed: ${response.status}`);
+    }
+    return response.json();
+  }
+  function defaultFeedbackTransport() {
+    const url = feedbackUrl();
+    if (url) return (payload) => httpFeedbackTransport(payload);
+    if (globalThis.google?.script?.run) return appsScriptTransport;
+    return () => Promise.resolve({ status: "saved-local" });
+  }
+  function bindFeedback(transport = defaultFeedbackTransport()) {
+    document.addEventListener("click", async (event) => {
+      const button = event.target.closest("button[data-direction], button[data-reason]");
+      if (!button) return;
+      try {
+        const directionButton = button.dataset.direction ? button : button.closest("article").querySelector('[data-direction][aria-pressed="true"]');
+        if (!directionButton) return;
+        await sendFeedback(directionButton, transport, button.dataset.reason);
+      } catch {
+        document.querySelector("#feedback-status").textContent = "Feedback kunne ikke gemmes \u2013 pr\xF8v igen";
+      }
+    });
+  }
+  function bindReadLater() {
+    const panel = document.querySelector("#read-later");
+    document.addEventListener("click", (event) => {
+      const save = event.target.closest("[data-save-story]");
+      if (save) {
+        toggleSaved({
+          id: save.dataset.saveStory,
+          headline: save.dataset.saveHeadline,
+          url: save.dataset.saveUrl
+        });
+        syncSaveButtons();
+        renderReadLater(panel);
+        return;
+      }
+      const dismiss = event.target.closest("[data-readlater-dismiss]");
+      if (dismiss) {
+        clearSaved(dismiss.dataset.readlaterDismiss);
+        syncSaveButtons();
+        renderReadLater(panel);
+        return;
+      }
+      const link = event.target.closest(".read-later-link");
+      if (link?.href) {
+        markOpened(link.href);
+      }
+    });
+  }
+  function buildNarrationSegments(brief) {
+    const segments = [];
+    if (brief.title) segments.push(brief.title);
+    if (brief.dek) segments.push(brief.dek);
+    const ordered = [...brief.stories].sort((a, b) => Number(b.isLead) - Number(a.isLead));
+    for (const story of ordered) {
+      if (story.headline) segments.push(story.headline);
+      if (story.subheadline) segments.push(story.subheadline);
+      if (Array.isArray(story.body)) {
+        for (const paragraph of story.body) segments.push(paragraph);
+      }
+      if (story.whyItMatters) segments.push(story.whyItMatters);
+      if (story.analysis) segments.push(story.analysis);
+    }
+    return segments.filter((segment) => typeof segment === "string" && segment.trim().length > 0);
+  }
+  function pickDanishVoice(synth) {
+    const voices = synth.getVoices?.() ?? [];
+    return voices.find((voice) => voice.lang === "da-DK") ?? voices.find((voice) => voice.lang?.toLowerCase().startsWith("da")) ?? null;
+  }
+  function createNarrator(brief, synth = globalThis.speechSynthesis) {
+    if (!synth || typeof globalThis.SpeechSynthesisUtterance !== "function") return null;
+    const segments = buildNarrationSegments(brief);
+    if (!segments.length) return null;
+    let index = 0;
+    let playing = false;
+    const speakFrom = (start) => {
+      synth.cancel();
+      index = start;
+      const voice = pickDanishVoice(synth);
+      for (let i = start; i < segments.length; i += 1) {
+        const utterance = new globalThis.SpeechSynthesisUtterance(segments[i]);
+        utterance.lang = "da-DK";
+        if (voice) utterance.voice = voice;
+        utterance.rate = 1.05;
+        utterance.onstart = () => {
+          index = i;
+        };
+        if (i === segments.length - 1) {
+          utterance.onend = () => {
+            playing = false;
+            api.onstatechange?.("stopped");
+          };
+        }
+        synth.speak(utterance);
+      }
+      playing = true;
+      api.onstatechange?.("playing");
+    };
+    const api = {
+      onstatechange: null,
+      play() {
+        if (synth.paused) {
+          synth.resume();
+          playing = true;
+          api.onstatechange?.("playing");
+          return;
+        }
+        speakFrom(0);
+      },
+      pause() {
+        if (synth.speaking && !synth.paused) {
+          synth.pause();
+          playing = false;
+          api.onstatechange?.("paused");
+        }
+      },
+      resume() {
+        if (synth.paused) {
+          synth.resume();
+          playing = true;
+          api.onstatechange?.("playing");
+        }
+      },
+      toggle() {
+        if (synth.speaking && !synth.paused) {
+          api.pause();
+        } else if (synth.paused) {
+          api.resume();
+        } else {
+          speakFrom(0);
+        }
+      },
+      stop() {
+        synth.cancel();
+        index = 0;
+        playing = false;
+        api.onstatechange?.("stopped");
+      },
+      get isPlaying() {
+        return playing;
+      }
+    };
+    return api;
+  }
+  function bindAudio(brief, synth = globalThis.speechSynthesis) {
+    const slot = document.querySelector("#audio-controls");
+    if (!slot) return null;
+    const narrator = createNarrator(brief, synth);
+    if (!narrator) {
+      slot.hidden = true;
+      return null;
+    }
+    slot.hidden = false;
+    const toggleButton = element("button", "audio-button audio-toggle", "H\xF8r briefen");
+    toggleButton.type = "button";
+    toggleButton.setAttribute("aria-pressed", "false");
+    const stopButton = element("button", "audio-button audio-stop", "Stop");
+    stopButton.type = "button";
+    stopButton.disabled = true;
+    narrator.onstatechange = (state) => {
+      const active = state === "playing";
+      toggleButton.textContent = active ? "Pause" : state === "paused" ? "Forts\xE6t" : "H\xF8r briefen";
+      toggleButton.setAttribute("aria-pressed", String(active));
+      stopButton.disabled = state === "stopped";
+    };
+    toggleButton.addEventListener("click", () => narrator.toggle());
+    stopButton.addEventListener("click", () => narrator.stop());
+    globalThis.addEventListener?.("beforeunload", () => narrator.stop());
+    slot.replaceChildren(toggleButton, stopButton);
+    return narrator;
+  }
+  function renderDaily(brief) {
+    switch (readLayout()) {
+      case "magazine":
+        return renderMagazineDaily(brief);
+      case "feed":
+        return renderFeedDaily(brief);
+      default:
+        return renderBrief(brief);
+    }
+  }
+  function bootArchive(index = globalThis.__BRIEF_DATA__) {
+    applyLayout();
+    const root = document.querySelector("#archive-root");
+    if (root) {
+      root.replaceChildren(renderArchiveBrowser(index ?? { years: [] }));
+    }
+    bindEditionNav("archive");
+    bindLayoutNav();
+  }
+  function boot(brief = globalThis.__BRIEF_DATA__) {
+    if (!brief) return;
+    const kind = brief.kind === "weekly" || brief.kind === "monthly" || brief.kind === "yearly" ? brief.kind : "daily";
+    applyLayout();
+    if (kind === "weekly") {
+      renderWeekly(brief);
+    } else if (kind === "monthly") {
+      renderMonthly(brief);
+    } else if (kind === "yearly") {
+      renderYearly(brief);
+    } else {
+      renderDaily(brief);
+    }
+    bindFeedback();
+    bindAudio(brief);
+    bindEditionNav(kind);
+    bindLayoutNav();
+    renderReadLater(document.querySelector("#read-later"));
+    bindReadLater();
+  }
+  if (typeof document !== "undefined") {
+    if (document.querySelector("#archive-root")) {
+      bootArchive();
+    } else if (document.querySelector("#lead-story") || document.querySelector("#featured-grid")) {
+      boot();
+    }
+  }
+})();
+</script>
+</body>
+</html>
