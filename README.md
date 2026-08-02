@@ -1,6 +1,6 @@
-# dagens-kompas
+# thomas-nyheder
 
-**Dagens Kompas** — a daily Danish morning brief (static site on GitHub Pages).
+**Thomas' Nyheder** — a daily Danish morning brief (static site on GitHub Pages).
 
 Published by the editorial engine in the private `alexanders-brief-source` repo,
 under the `thomas` profile (`BRIEF_PROFILE=thomas`). This repo holds only the

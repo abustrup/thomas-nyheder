@@ -1,22 +1,22 @@
 #!/usr/bin/env bash
-# Put Dagens Kompas on the internet.
+# Put Thomas' Nyheder on the internet.
 #
 # Everything else is already built and verified. This is the one step that was
 # deliberately left for you, because it publishes a new public website under your
 # GitHub account, and that is your call rather than Claude's.
 #
 # What it does, in order:
-#   1. creates the PUBLIC repo abustrup/dagens-kompas
+#   1. creates the PUBLIC repo abustrup/thomas-nyheder
 #   2. pushes this clone to it (README, .nojekyll, and any editions published so far)
 #   3. turns on GitHub Pages, serving /docs on main
 #   4. prints the live URL and waits for it to answer
 #
 # Safe to re-run: every step is skipped if it is already done.
 #
-# To undo the whole thing:  gh repo delete abustrup/dagens-kompas --yes
+# To undo the whole thing:  gh repo delete abustrup/thomas-nyheder --yes
 set -euo pipefail
 
-REPO="abustrup/dagens-kompas"
+REPO="abustrup/thomas-nyheder"
 DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$DIR"
 
@@ -28,7 +28,7 @@ if gh repo view "$REPO" >/dev/null 2>&1; then
   echo "    already exists — skipping"
 else
   gh repo create "$REPO" --public \
-    --description "Dagens Kompas — dagligt dansk morgenbrief" >/dev/null
+    --description "Thomas' Nyheder — dagligt dansk morgenbrief" >/dev/null
   echo "    created"
 fi
 
@@ -44,7 +44,7 @@ else
   echo "    enabled"
 fi
 
-URL="https://abustrup.github.io/dagens-kompas/"
+URL="https://abustrup.github.io/thomas-nyheder/"
 echo "==> waiting for $URL to answer (GitHub takes a minute on the first build)"
 for _ in $(seq 1 40); do
   code="$(curl -s -o /dev/null -w '%{http_code}' "$URL" || true)"
