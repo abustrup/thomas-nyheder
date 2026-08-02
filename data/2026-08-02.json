@@ -94,21 +94,27 @@
      "publishedAt": "2026-08-01T08:11:00Z",
      "kind": "reporting"
     }
-   ]
+   ],
+   "image": {
+    "url": "https://legacy.altinget.dk/images/article/305141/158783.jpg",
+    "alt": "Mette Frederiksen ved et EU-topmøde. Altinget bruger billedet til historien om migranterne ved den spanske eksklave Ceuta.",
+    "credit": "Kilde: Altinget",
+    "sourceUrl": "https://www.altinget.dk/eu/artikel/mette-frederiksen-foreslaar-at-suspendere-schengen-samarbejdet"
+   }
   },
   {
    "id": "story-ai-act-haandhaevelse-20260802",
    "eventKey": "eu-ai-act-enforcement",
    "section": "Regulering",
-   "headline": "Commission starts enforcing AI Act rules and new transparency requirements on 2 August",
-   "primarySourceUrl": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1714",
+   "headline": "Kommissionen begynder at håndhæve reglerne i forordningen om kunstig intelligens og nye gennemsigtighedskrav den 2. august",
+   "primarySourceUrl": "https://ec.europa.eu/commission/presscorner/detail/da/ip_26_1714",
    "subheadline": "Fra i dag håndhæves AI-forordningen. Chatbots skal fortælle brugerne, at de taler med en maskine.",
    "body": [
     "Fra 2. august 2026 begynder Kommissionens AI Office sammen med de nationale myndigheder at håndhæve EU's AI-forordning. Samme dato træder nye gennemsigtighedsregler i kraft: chatbots skal fortælle brugerne, at de taler med en AI og ikke et menneske, mens deepfakes og andet AI-genereret indhold skal mærkes.",
     "Alle udbydere af generelle AI-modeller skal desuden have en ophavsretspolitik og offentliggøre et resumé af det indhold, modellerne er trænet på. Kommissionen offentliggjorde 31. juli en første liste med mere end 180 organisationer, der har underskrevet adfærdskodekset om gennemsigtighed i AI-genereret indhold."
    ],
-   "whyItMatters": "Det er ikke længere en forordning på vej, men en tilsynsmyndighed med en dato. For en virksomhed med en kundeservice-bot er det en driftsopgave fra i dag.",
-   "analysis": "Kommissionen fremstiller reglerne som en fordel: klarere pligter og en dokumenterbar måde at vise overholdelse på.",
+   "whyItMatters": "Det er ikke længere en forordning på vej, men en tilsynsmyndighed med en dato. For en virksomhed med en kundeservice-bot er det en opgave fra i dag.",
+   "analysis": "Henna Virkkunen fremstiller rammen som retssikkerhed for innovatorer og beskyttelse af offentlige interesser på én gang.",
    "topics": [
     "ai-forordningen",
     "eu-regulering",
@@ -119,7 +125,8 @@
    "entities": [
     "Europa-Kommissionen",
     "AI Office",
-    "EU"
+    "EU",
+    "Henna Virkkunen"
    ],
    "isLead": false,
    "isOutsideProfile": false,
@@ -136,40 +143,54 @@
     "Chatbots og andre interaktive AI-systemer skal fortælle brugerne, at de har med AI at gøre.",
     "Deepfakes skal mærkes, og AI-genereret eller ændret indhold skal bære maskinlæsbare mærker.",
     "Alle udbydere af GPAI-modeller skal have en ophavsretspolitik og offentliggøre et resumé af træningsindholdet.",
-    "Kommissionen offentliggjorde 31. juli 2026 en første liste med mere end 180 organisationer, der har underskrevet adfærdskodekset om gennemsigtighed i AI-genereret indhold."
+    "Kommissionen offentliggjorde 31. juli 2026 en første liste med mere end 180 organisationer, der har underskrevet adfærdskodekset om gennemsigtighed i AI-genereret indhold.",
+    "Ledende næstformand Henna Virkkunen udtaler i pressemeddelelsen, at AI-forordningen giver innovatorer retssikkerhed, samtidig med at den beskytter offentlige interesser."
    ],
    "claims": [
     {
      "text": "Håndhævelsen af AI-forordningen begynder 2. august 2026.",
      "sourceUrls": [
-      "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1714"
+      "https://ec.europa.eu/commission/presscorner/detail/da/ip_26_1714"
      ],
      "confidence": "high"
     },
     {
      "text": "Chatbots skal oplyse brugerne om, at de taler med en AI, og deepfakes skal mærkes.",
      "sourceUrls": [
-      "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1714"
+      "https://ec.europa.eu/commission/presscorner/detail/da/ip_26_1714"
      ],
      "confidence": "high"
     },
     {
      "text": "GPAI-udbydere skal have en ophavsretspolitik og offentliggøre et tilstrækkeligt detaljeret resumé af træningsdata.",
      "sourceUrls": [
-      "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1714"
+      "https://ec.europa.eu/commission/presscorner/detail/da/ip_26_1714"
+     ],
+     "confidence": "high"
+    },
+    {
+     "text": "Henna Virkkunen, ledende næstformand for teknologisk suverænitet, sikkerhed og demokrati, udtaler i pressemeddelelsen, at AI-forordningen giver innovatorer retssikkerhed, mens den beskytter offentlige interesser.",
+     "sourceUrls": [
+      "https://ec.europa.eu/commission/presscorner/detail/da/ip_26_1714"
      ],
      "confidence": "high"
     }
    ],
    "sources": [
     {
-     "title": "Commission starts enforcing AI Act rules and new transparency requirements on 2 August",
+     "title": "Kommissionen begynder at håndhæve reglerne i forordningen om kunstig intelligens og nye gennemsigtighedskrav den 2. august",
      "publisher": "Europa-Kommissionen",
-     "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1714",
+     "url": "https://ec.europa.eu/commission/presscorner/detail/da/ip_26_1714",
      "publishedAt": "2026-07-31T11:17:46Z",
      "kind": "primary"
     }
-   ]
+   ],
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/1718869849735_20240619_VIRKKUNEN_Henna_FI_008.jpg",
+    "alt": "Henna Virkkunen, Europa-Kommissionens ledende næstformand for teknologisk suverænitet, sikkerhed og demokrati.",
+    "credit": "Foto: European Union 2024 / EP, attribution-only, via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1718869849735_20240619_VIRKKUNEN_Henna_FI_008.jpg"
+   }
   },
   {
    "id": "story-ai-gigafabrikker-20260802",
@@ -239,7 +260,7 @@
    "image": {
     "url": "https://www.computerworld.dk/fil/241141?width=1200&height=630&focus=1",
     "alt": "Billede inde fra Microsofts datacenter i Dublin, Irland.",
-    "credit": "Foto: Naoise Culhane/Microsoft",
+    "credit": "Foto: Naoise Culhane/Microsoft · Kilde: Computerworld",
     "sourceUrl": "https://www.computerworld.dk/art/296340/eu-stiller-kaempe-milliardpulje-til-raadighed-klar-til-investere-i-syv-nye-ai-gigafabrikker"
    }
   },
@@ -320,7 +341,13 @@
      "publishedAt": "2026-08-01T18:48:15Z",
      "kind": "reporting"
     }
-   ]
+   ],
+   "image": {
+    "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/b/a/5/ba551e9b-fff5-4188-841f-26b081954bc9?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCwwLDE5MjAsMTA4MA&s=3b149a7e3df3de765b257a0b3c12c827",
+    "alt": "Sortering af muslinger. TV 2's billede til historien om Vilsund Blue i Nykøbing Mors.",
+    "credit": "Kilde: TV 2 / TV MidtVest",
+    "sourceUrl": "https://nyheder.tv2.dk/samfund/2026-08-01-eu-regel-skaber-muslingekrise-paa-mors"
+   }
   },
   {
    "id": "story-goldman-kapitalcyklus-20260802",
@@ -388,7 +415,13 @@
      "publishedAt": "2026-08-02T09:31:20Z",
      "kind": "analysis"
     }
-   ]
+   ],
+   "image": {
+    "url": "https://ugebrev.dk/wp-content/uploads/2022/08/Renter-3.png",
+    "alt": "Arkivbillede af et vejskilt med teksten »HIGHER INTEREST RATES AHEAD«, som Økonomisk Ugebrev genbruger til artikler om renter.",
+    "credit": "Kilde: Økonomisk Ugebrev",
+    "sourceUrl": "https://ugebrev.dk/finans/goldman-ai-boomet-udloeser-historiens-mest-kapitalhungrende-investeringscyklus/"
+   }
   },
   {
    "id": "story-foedevaremoms-20260802",
@@ -464,7 +497,13 @@
      "publishedAt": "2026-08-02T07:07:20Z",
      "kind": "reporting"
     }
-   ]
+   ],
+   "image": {
+    "url": "https://asset.dr.dk/drdk/umbraco-images/eoqb3v04/20251030-213234-4_crop001.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+    "alt": "Arkivfoto anvendt af DR til historien om lavere moms på fødevarer. Restauranter står ifølge svaret ikke til en lavere moms.",
+    "credit": "Kilde: DR",
+    "sourceUrl": "https://www.dr.dk/nyheder/politik/lavere-moms-paa-mad-forventes-koste-17-4-milliarder-aarligt"
+   }
   },
   {
    "id": "story-danmark-rundt-20260802",
@@ -533,7 +572,13 @@
      "publishedAt": "2026-08-02T10:35:15Z",
      "kind": "reporting"
     }
-   ]
+   ],
+   "image": {
+    "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/9/c/b/9cb2ef2a-0e3f-470f-b2bd-e4a9594b4d1f?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=Nzg1LDg5MSwzNTM1LDE5ODk&s=ba55ce8ff16dbc7f9cecfd211d0fa05d",
+    "alt": "TV 2 Sports billede til historien om sidste etape af PostNord Danmark Rundt.",
+    "credit": "Kilde: TV 2 Sport",
+    "sourceUrl": "https://sport.tv2.dk/live/cykling/2026-08-02-dansk-triumf-i-danmark-rundt-van-aert-vinder-samlet"
+   }
   },
   {
    "id": "story-nirmal-purja-20260802",
@@ -609,7 +654,13 @@
      "publishedAt": "2026-08-02T13:27:37Z",
      "kind": "reporting"
     }
-   ]
+   ],
+   "image": {
+    "url": "https://asset.dr.dk/drdk/umbraco-images/w5udqk3e/20260801-183755-6_crop001.jpg?im=AspectCrop%3D%28700%2C394%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%28700%2C394%29",
+    "alt": "Arkivfoto af bjergbestigeren Nirmal Purja, der omkom i en lavine på Broad Peak i Pakistan.",
+    "credit": "Kilde: DR",
+    "sourceUrl": "https://www.dr.dk/nyheder/seneste/den-beroemte-bjergbestiger-nirmal-purjas-lig-er-hentet-ned-fra-bjerg"
+   }
   }
  ],
  "signals": [
@@ -722,14 +773,6 @@
    "publishedAt": "2026-08-01T13:01:39Z"
   }
  ],
- "keyNumber": {
-  "label": "Hazard ratio for ziltivekimab mod placebo i Novo Nordisks ZEUS-forsøg",
-  "value": "0,99",
-  "asOf": "2026-07-31",
-  "caption": "Forsøget viste ingen reduktion i alvorlige hjertekarhændelser. Konfidensintervallet på 0,88 til 1,11 rummer både en lille gevinst og en lille skade, og det er grunden til, at resultatet ikke kan læses som et svagt positivt udslag.",
-  "sourceUrl": "https://view.news.eu.nasdaq.com/view?id=b182b315195cdedb2e14be82ec9ac971a&lang=en&src=listed",
-  "sourceTitle": "Novo Nordisk provides update on the ZEUS phase 3 trial in people with ASCVD, CKD and inflammation"
- },
  "recommendations": [
   {
    "id": "rec-trade-war-bog-20260802",
