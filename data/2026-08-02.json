@@ -1,341 +1,192 @@
 {
   "schemaVersion": 1,
   "kind": "daily",
-  "runId": "dagens-kompas-2026-08-02",
+  "runId": "thomas-2026-08-02",
   "date": "2026-08-02",
-  "generatedAt": "2026-08-02T11:05:00.000Z",
+  "generatedAt": "2026-08-02T13:40:00.000Z",
   "readingMinutes": 10,
-  "title": "Dagens Kompas — søndag den 2. august 2026",
-  "dek": "Bruxelles fjerner udløbsdatoen på EU's modtold mod USA, stålhøringen rammer aftagerne, og fjerde måned med stigende dansk ledighed modsiger et ti år gammelt argument.",
+  "title": "Thomas' Nyheder — søndag den 2. august 2026",
+  "dek": "Statsministeren vil overveje at suspendere Spanien fra Schengen, Danmark Rundt afgøres i eftermiddag med to danskere i top fem, og fødevaremomsen får sin første prisseddel: 17,4 milliarder om året.",
   "profileWeights": {
     "importance": 24,
-    "decisionValue": 24,
+    "decisionValue": 22,
     "novelty": 14,
     "sourceQuality": 18,
-    "personalRelevance": 12,
+    "personalRelevance": 14,
     "contrast": 8
   },
   "stories": [
     {
-      "id": "story-eu-us-rebalancing-suspension-20260802",
-      "eventKey": "eu-us-rebalancing-suspension-indefinite",
-      "section": "Handelspolitik",
-      "headline": "The EU extends the suspension of the EU rebalancing measures against the United States",
-      "primarySourceUrl": "https://policy.trade.ec.europa.eu/news/eu-extends-suspension-eu-rebalancing-measures-against-united-states-2026-07-31_en",
-      "subheadline": "Kommissionen fjerner udløbsdatoen på EU's modtold mod USA. Dermed forsvinder den 6. august som forhandlingsmæssigt pressionsmiddel.",
+      "id": "story-dk-schengen-spanien-20260802",
+      "eventKey": "dk-schengen-spanien",
+      "section": "Politik",
+      "headline": "Mette Frederiksen: EU bør overveje at suspendere Spanien fra Schengen-samarbejdet",
+      "primarySourceUrl": "https://www.altinget.dk/artikel/mette-frederiksen-foreslaar-at-suspendere-schengen-samarbejdet",
+      "subheadline": "Statsministeren rejser suspension af et EU-land i åben debat. Schengen er den frihed, dansk eksport mærker mest direkte.",
       "body": [
-        "EU-Kommissionen vedtog 30. juli en gennemførelsesforordning, der forlænger suspensionen af EU's modforanstaltninger mod USA — denne gang uden udløbsdato. Foranstaltningerne blev vedtaget 24. juli 2025 som svar på truslen om høje amerikanske toldsatser og dækker EU-import fra USA for 93 mia. euro.",
-        "Den hidtidige suspension ville være udløbet 6. august. Nu ligger foranstaltningerne stille på ubestemt tid. Kommissionen begrunder det med at skabe stabilitet i den transatlantiske handel og med at gennemføre EU-USA-erklæringen fra 21. august 2025."
+        "Over de seneste dage er en stor gruppe migranter strømmet fra Marokko til den spanske eksklave Ceuta i Nordafrika. På den baggrund mener statsminister Mette Frederiksen, at EU bør overveje at suspendere Schengen-samarbejdet med Spanien, og hun understreger, at man ikke vil acceptere en gentagelse af 2015.",
+        "Udmeldingen kommer, efter at DF-formand Morten Messerschmidt tidligere fredag stillede et ultimatum til statsministeren om at støtte blandt andre Italiens leder Giorgia Meloni, der har talt for at suspendere Spanien fra Schengen. Finlands indenrigsminister har foreslået det samme."
       ],
-      "whyItMatters": "Skiftet fra en datofastsat pause til en åben suspension fjerner den deadline, der hidtil gav Bruxelles et indbygget pressionsmiddel over for Washington. Initiativet ligger nu alene hos Kommissionen og ikke længere i kalenderen.",
-      "analysis": "For danske eksportører har spørgsmålet om EU-modtold nu ingen dato, men afhænger af en politisk vurdering, der kan komme uden varsel. Det er en teknisk gennemførelsesretsakt, som ikke når nogen dansk forside, men som flytter forhandlingsbalancen.",
-      "counterpoint": "Modsat læsning: en suspension uden udløb kan ophæves når som helst og fjerner den automatiske eskalering, en glemt frist ellers ville udløse.",
+      "whyItMatters": "Schengen er de fire friheder i praksis, og det er den, danske eksportvirksomheder mærker konkret som grænsekontrol, transporttid og leveringssikkerhed.",
+      "analysis": "At en dansk statsminister rejser suspension af et medlemsland offentligt flytter spørgsmålet fra teknisk grænseforvaltning til, hvad medlemskab forpligter til. Det er den type udmelding, brancheorganisationer skal forholde sig til længe før der ligger et forslag.",
       "topics": [
-        "handelspolitik",
-        "EU-USA",
-        "told",
-        "modforanstaltninger",
-        "eksport"
+        "EU",
+        "Schengen",
+        "dansk politik",
+        "grænsekontrol"
       ],
       "entities": [
-        "Europa-Kommissionen",
-        "DG Trade",
-        "EU",
-        "USA"
+        "Mette Frederiksen",
+        "Lars Løkke Rasmussen",
+        "Morten Messerschmidt",
+        "Giorgia Meloni",
+        "Spanien",
+        "Ceuta",
+        "Marokko",
+        "Anders Ellekjær Rønne"
       ],
       "isLead": true,
       "isOutsideProfile": false,
       "scores": {
-        "importance": 86,
-        "decisionValue": 88,
-        "novelty": 74,
-        "sourceQuality": 97,
-        "personalRelevance": 95,
-        "contrast": 62
+        "importance": 84,
+        "decisionValue": 76,
+        "novelty": 86,
+        "sourceQuality": 90,
+        "personalRelevance": 88,
+        "contrast": 70
       },
       "materialFacts": [
-        "Implementing Regulation adopted 30 July 2026; announced by DG Trade 31 July 2026",
-        "The suspension now runs without an end-date; the previous suspension regulation was due to expire 6 August 2026",
-        "Measures cover EUR 93 billion of EU imports from the United States, per the Commission page",
-        "Plus export restrictions covering EUR 95 million of EU exports to the United States, per the Commission page",
-        "Original EU rebalancing measures adopted 24 July 2025 (Commission Implementing Regulation 2025/1564)",
-        "Regulation numbers cited on the page: 2025/1564, 2026/295 and 2026/1893",
-        "Anchored in the EU-US Joint Statement of 21 August 2025; Turnberry leaders' meeting 27 July 2025",
-        "Commission states it may reactivate the rebalancing measures at any time"
+        "En stor gruppe migranter er strømmet fra Marokko til den spanske eksklave Ceuta",
+        "Mette Frederiksen: EU bør overveje at suspendere Schengen-samarbejdet med Spanien",
+        "Italiens Giorgia Meloni og Finlands indenrigsminister har foreslået det samme",
+        "Morten Messerschmidt (DF) truer med at kræve Folketinget hasteindkaldt",
+        "Lars Løkke Rasmussen: \"De næste døgn bliver afgørende for det europæiske samarbejde og den frie bevægelighed\"",
+        "Statsministerens udmelding kom som skriftligt svar til flere medier fredag"
       ],
       "claims": [
         {
-          "text": "Suspensionen af EU's rebalancing-foranstaltninger mod USA løber nu uden slutdato; den hidtidige suspension ville være udløbet 6. august 2026.",
+          "text": "En stor gruppe migranter er strømmet fra Marokko til den spanske eksklave Ceuta",
           "sourceUrls": [
-            "https://policy.trade.ec.europa.eu/news/eu-extends-suspension-eu-rebalancing-measures-against-united-states-2026-07-31_en"
+            "https://www.altinget.dk/artikel/mette-frederiksen-foreslaar-at-suspendere-schengen-samarbejdet"
           ],
           "confidence": "high"
         },
         {
-          "text": "Foranstaltningerne dækker EU-import fra USA for 93 mia. euro og eksportrestriktioner på EU-eksport for 95 mio. euro.",
+          "text": "Mette Frederiksen: EU bør overveje at suspendere Schengen-samarbejdet med Spanien",
           "sourceUrls": [
-            "https://policy.trade.ec.europa.eu/news/eu-extends-suspension-eu-rebalancing-measures-against-united-states-2026-07-31_en"
+            "https://www.altinget.dk/artikel/mette-frederiksen-foreslaar-at-suspendere-schengen-samarbejdet"
           ],
           "confidence": "high"
         }
       ],
       "sources": [
         {
-          "title": "The EU extends the suspension of the EU rebalancing measures against the United States",
-          "publisher": "European Commission — DG Trade",
-          "url": "https://policy.trade.ec.europa.eu/news/eu-extends-suspension-eu-rebalancing-measures-against-united-states-2026-07-31_en",
-          "publishedAt": "2026-07-31T00:00:00.000Z",
-          "kind": "primary"
+          "title": "Mette Frederiksen: EU bør overveje at suspendere Spanien fra Schengen-samarbejdet",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/artikel/mette-frederiksen-foreslaar-at-suspendere-schengen-samarbejdet",
+          "publishedAt": "2026-07-31T13:00:00.000Z",
+          "kind": "reporting"
         }
-      ]
+      ],
+      "counterpoint": "Der findes ingen enkel retlig procedure for at suspendere et land fra Schengen, og udmeldingen kan lige så vel læses som et forhandlingssignal som en hensigt."
     },
     {
-      "id": "story-eu-steel-scope-consultation-20260802",
-      "eventKey": "eu-steel-regulation-product-scope-consultation",
-      "section": "Handelspolitik",
-      "headline": "EU Steel Regulation: Commission launches targeted consultation on first product scope review",
-      "primarySourceUrl": "https://policy.trade.ec.europa.eu/news/eu-steel-regulation-commission-launches-targeted-consultation-first-product-scope-review-2026-07-30_en",
-      "subheadline": "Otte uger til at få tråd, rør og smedede stænger ind eller ud af 50-procentstolden. Det rammer aftagerne, ikke stålværkerne.",
+      "id": "story-danmark-rundt-4-etape-20260802",
+      "eventKey": "danmark-rundt-4-etape",
+      "section": "Sport",
+      "headline": "Nordmand bryder Van Aerts dominans i Danmark Rundt",
+      "primarySourceUrl": "https://sport.tv2.dk/live/cykling/2026-08-01-nordmand-bryder-van-aerts-dominans-i-danmark-rundt",
+      "subheadline": "To danskere ligger i top fem, og der er 28 sekunder op til førertrøjen. Løbet afgøres i eftermiddag.",
       "body": [
-        "Kommissionen åbnede 28. juli en høring om produktdækningen i EU's nye stålforordning (EU) 2026/1384, i kraft 1. juli. Den har en toldfri kvote på 18,3 mio. ton og 50 pct. told på al import derudover.",
-        "Fire varegrupper skal vurderes: rør og hule profiler af støbejern, tråd af ulegeret og legeret stål, tråd af rustfrit stål samt smedede stænger. Høringen lukker 28. september; vurderingen skal være færdig 31. december."
+        "Storm Ingebrigtsen fra Uno-X stak afsted på det rigtige tidspunkt og vandt lørdagens 4. etape af PostNord Danmark Rundt i tiden 3.46.46. Tommaso Bessega blev nummer to 15 sekunder efter, og Christopher Juul kørte ind på femtepladsen 17 sekunder efter vinderen.",
+        "Wout van Aert beholdt den samlede føring med 21 sekunder ned til Lukas Kubis, mens danske Henrik Pedersen ligger nummer tre samlet, 28 sekunder efter belgieren. Søren Kragh er nummer fem samlet, 39 sekunder efter. Løbet skal afgøres på 5."
       ],
-      "whyItMatters": "Udvidelsen rammer ikke stålværkerne, men de aftagende led. Dansk industri, der importerer tråd, rør og smedede stænger som input til pumper, vindmøllekomponenter, beslag og byggeelementer, risikerer 50 pct. told på import ud over kvoten.",
-      "analysis": "De otte uger er det eneste vindue, hvor aftagerne kan få egne mængde- og pristal ind i vurderingen. Det er en afgrænset sag, hvor ét velunderbygget høringssvar faktisk kan flytte produktdækningen.",
+      "whyItMatters": "Henrik Pedersen er nummer tre samlet, 28 sekunder efter Van Aert, og Søren Kragh nummer fem. Med én etape tilbage er det stadig åbent.",
+      "analysis": "Van Aert har vundet tre af løbets fire etaper og har alligevel kun 21 sekunder ned til nummer to. Det siger noget om, hvor tæt feltet ligger, og hvorfor slutetapen ikke er en formalitet.",
       "topics": [
-        "handelspolitik",
-        "stål",
-        "told",
-        "EU-regulering",
-        "industri"
+        "cykling",
+        "Danmark Rundt",
+        "dansk sport"
       ],
       "entities": [
-        "Europa-Kommissionen",
-        "DG Trade",
-        "EU",
-        "Kina"
+        "Storm Ingebrigtsen",
+        "Uno-X",
+        "Wout van Aert",
+        "Visma",
+        "Henrik Pedersen",
+        "Lukas Kubis",
+        "Christophe Laporte",
+        "Søren Kragh"
       ],
       "isLead": false,
       "isOutsideProfile": false,
       "scores": {
-        "importance": 78,
-        "decisionValue": 92,
-        "novelty": 71,
-        "sourceQuality": 97,
-        "personalRelevance": 90,
-        "contrast": 55
+        "importance": 46,
+        "decisionValue": 24,
+        "novelty": 68,
+        "sourceQuality": 88,
+        "personalRelevance": 94,
+        "contrast": 38
       },
       "materialFacts": [
-        "Consultation opened 28 July 2026 and runs eight weeks, closing 28 September 2026",
-        "Announced by DG Trade 30 July 2026",
-        "Regulation (EU) 2026/1384 entered into force 1 July 2026",
-        "Duty-free tariff-rate quota of 18.3 million tonnes; out-of-quota duty of 50%",
-        "Product scope assessment required under Article 12.1, to be finalised by 31 December 2026",
-        "Four candidate categories: tubes, pipes and hollow profiles of cast iron; non-alloy and other alloy wire; stainless wire; non-alloy and other alloy forged bars",
-        "Target respondents: steel producers, steel users, traders, importers, industry associations and other stakeholders"
+        "Storm Ingebrigtsen (Uno-X) vandt 4. etape i tiden 3.46.46",
+        "Tommaso Bessega blev nummer to, 15 sekunder efter",
+        "Christopher Juul blev nummer fem, 17 sekunder efter",
+        "Samlet stilling: Wout van Aert 16.52.22, Lukas Kubis +21 sekunder, Henrik Pedersen +28 sekunder",
+        "Christophe Laporte er nummer fire samlet (+29 sekunder), Søren Kragh nummer fem (+39 sekunder)"
       ],
       "claims": [
         {
-          "text": "Høringen om produktdækningen i forordning (EU) 2026/1384 løber otte uger og lukker 28. september 2026.",
+          "text": "Storm Ingebrigtsen (Uno-X) vandt 4. etape i tiden 3.46.46",
           "sourceUrls": [
-            "https://policy.trade.ec.europa.eu/news/eu-steel-regulation-commission-launches-targeted-consultation-first-product-scope-review-2026-07-30_en"
+            "https://sport.tv2.dk/live/cykling/2026-08-01-nordmand-bryder-van-aerts-dominans-i-danmark-rundt"
           ],
           "confidence": "high"
         },
         {
-          "text": "Ordningen har en toldfri kvote på 18,3 mio. ton og 50 pct. told på import derudover.",
+          "text": "Tommaso Bessega blev nummer to, 15 sekunder efter",
           "sourceUrls": [
-            "https://policy.trade.ec.europa.eu/news/eu-steel-regulation-commission-launches-targeted-consultation-first-product-scope-review-2026-07-30_en"
+            "https://sport.tv2.dk/live/cykling/2026-08-01-nordmand-bryder-van-aerts-dominans-i-danmark-rundt"
           ],
           "confidence": "high"
         }
       ],
       "sources": [
         {
-          "title": "EU Steel Regulation: Commission launches targeted consultation on first product scope review",
-          "publisher": "European Commission — DG Trade",
-          "url": "https://policy.trade.ec.europa.eu/news/eu-steel-regulation-commission-launches-targeted-consultation-first-product-scope-review-2026-07-30_en",
-          "publishedAt": "2026-07-30T00:00:00.000Z",
-          "kind": "primary"
+          "title": "Nordmand bryder Van Aerts dominans i Danmark Rundt",
+          "publisher": "TV 2",
+          "url": "https://sport.tv2.dk/live/cykling/2026-08-01-nordmand-bryder-van-aerts-dominans-i-danmark-rundt",
+          "publishedAt": "2026-08-01T13:18:00.000Z",
+          "kind": "reporting"
         }
       ]
     },
     {
-      "id": "story-outokumpu-europe-president-20260802",
-      "eventKey": "outokumpu-leadership-europe-2026",
-      "section": "Navne",
-      "headline": "Changes in Outokumpu Leadership Team - Matthieu Jehl appointed as President, business area Europe",
-      "primarySourceUrl": "https://view.news.eu.nasdaq.com/view?id=bf0074fc2658fcb98d8b7909e52448021&lang=en&src=listed",
-      "subheadline": "Europas største producent af rustfrit stål samler sin europæiske forretning under én mand — i Krefeld, ikke i Helsinki.",
-      "body": [
-        "Finske Outokumpu udnævnte 31. juli franskmanden Matthieu Jehl til President for det nye forretningsområde Europe fra 1. august. Han kom fra Stainless Europe og har siddet i koncernledelsen siden 2025. Samtidig forlader Rolf Schencking, President for Advanced Materials, virksomheden.",
-        "De to forretningslinjer lægges sammen under én europæisk ledelse som led i EVOLVE-strategien. Jehl har base i Krefeld i Tyskland og refererer til koncernchef Kati ter Horst. Koncernen omsatte for 5,5 mia. euro i 2025."
-      ],
-      "whyItMatters": "Stål er det mest betændte handelspolitiske dossier mellem EU og USA, og Outokumpu er den europæiske industris tungeste stemme i den diskussion.",
-      "analysis": "At tyngdepunktet flytter fra Helsinki til Krefeld placerer beslutningerne tættere på det tyske marked, netop mens Kommissionen skal afgøre, hvilke stålvarer 50-procentstolden rammer. Samtidig frigives en senior materialeprofil til markedet.",
-      "topics": [
-        "navne",
-        "stålindustri",
-        "handelspolitik",
-        "Norden",
-        "industri"
-      ],
-      "entities": [
-        "Outokumpu Oyj",
-        "Matthieu Jehl",
-        "Rolf Schencking",
-        "Kati ter Horst",
-        "Finland",
-        "Tyskland"
-      ],
-      "isLead": false,
-      "isOutsideProfile": false,
-      "scores": {
-        "importance": 62,
-        "decisionValue": 84,
-        "novelty": 79,
-        "sourceQuality": 95,
-        "personalRelevance": 92,
-        "contrast": 58
-      },
-      "materialFacts": [
-        "Matthieu Jehl udnævnt til President, business area Europe i Outokumpu med virkning fra 1. august 2026; meddelelse offentliggjort 31. juli 2026",
-        "Jehl kom fra posten som President, business line Stainless Europe, og har siddet i koncernledelsen siden 2025",
-        "Rolf Schencking, President for business line Advanced Materials, forlader virksomheden",
-        "Forretningslinjerne Stainless Europe og Advanced Materials lægges sammen under ét forretningsområde Europe med to kommercielle organisationer",
-        "Jehl er fransk statsborger med base i Krefeld, Tyskland, og refererer til koncernchef Kati ter Horst",
-        "Outokumpu: 5,5 mia. euro i omsætning i 2025, ca. 8.600 ansatte, hovedkontor i Helsinki, produktion i Finland, Tyskland, Sverige, Holland, USA og Mexico"
-      ],
-      "claims": [
-        {
-          "text": "Matthieu Jehl er udnævnt til President for Outokumpus nye forretningsområde Europe med virkning fra 1. august 2026.",
-          "sourceUrls": [
-            "https://view.news.eu.nasdaq.com/view?id=bf0074fc2658fcb98d8b7909e52448021&lang=en&src=listed"
-          ],
-          "confidence": "high"
-        },
-        {
-          "text": "Rolf Schencking, President for Advanced Materials og medlem af koncernledelsen, forlader Outokumpu.",
-          "sourceUrls": [
-            "https://view.news.eu.nasdaq.com/view?id=bf0074fc2658fcb98d8b7909e52448021&lang=en&src=listed"
-          ],
-          "confidence": "high"
-        }
-      ],
-      "sources": [
-        {
-          "title": "Changes in Outokumpu Leadership Team - Matthieu Jehl appointed as President, business area Europe",
-          "publisher": "Outokumpu Oyj (Nasdaq Helsinki company announcement)",
-          "url": "https://view.news.eu.nasdaq.com/view?id=bf0074fc2658fcb98d8b7909e52448021&lang=en&src=listed",
-          "publishedAt": "2026-07-31T08:00:00.000Z",
-          "kind": "primary"
-        }
-      ]
-    },
-    {
-      "id": "story-dk-ledighed-juni-20260802",
-      "eventKey": "dk-bruttoledighed-juni-2026",
-      "section": "Dansk økonomi",
-      "headline": "Ledigheden steg med 500 i juni",
-      "primarySourceUrl": "https://www.dst.dk/da/Statistik/nyheder-analyser-publ/nyt/NytHtml?cid=52324",
-      "subheadline": "Fjerde måned i træk med stigende ledighed — samtidig med at industrien melder mangel på efterspørgsel, ikke på hænder.",
-      "body": [
-        "Bruttoledigheden steg med 500 til 93.800 fuldtidspersoner fra maj til juni; ledighedsprocenten var uændret på 3,1 pct. Hele stigningen lå hos dagpengemodtagerne, der voksede med 600 til 78.500.",
-        "Det er fjerde måned i træk: 92.100 i marts, 92.700 i april, 93.400 i maj, 93.800 i juni. Vestjylland har landets laveste ledighed på 2,2 pct., Byen København den højeste på 3,9 pct."
-      ],
-      "whyItMatters": "Arbejdskraftmangel har i over et årti været dansk erhvervslivs hovedargument over for både Christiansborg og Bruxelles. Danmarks Statistiks eget konjunkturbarometer fra 22. juli siger nu det modsatte.",
-      "analysis": "Mangel på efterspørgsel er nu den mest udbredte produktionsbegrænsning i industrien (43 pct.), byggeriet (24 pct.) og servicefagene (34 pct.). Det modsiger det argument, der har båret dansk erhvervspolitik i ti år — værd at have en holdning til før efterårets arbejdsudbudsdiskussion.",
-      "topics": [
-        "dansk økonomi",
-        "arbejdsmarked",
-        "ledighed",
-        "konjunktur"
-      ],
-      "entities": [
-        "Danmarks Statistik",
-        "Danmark",
-        "Vestjylland",
-        "Byen København"
-      ],
-      "isLead": false,
-      "isOutsideProfile": false,
-      "scores": {
-        "importance": 74,
-        "decisionValue": 80,
-        "novelty": 58,
-        "sourceQuality": 99,
-        "personalRelevance": 86,
-        "contrast": 77
-      },
-      "materialFacts": [
-        "Bruttoledigheden steg 500 til 93.800 fuldtidspersoner fra maj til juni 2026 (sæsonkorrigeret, Danmark)",
-        "Ledighedsprocenten uændret på 3,1 pct. af arbejdsstyrken",
-        "Ledige dagpengemodtagere +600 til 78.500 fuldtidspersoner; kontanthjælpsmodtagere -100 til 15.400",
-        "Sæsonkorrigeret forløb 2026: marts 92.100, april 92.700, maj 93.400, juni 93.800",
-        "Laveste ledighed i Vestjylland med 2,2 pct.; højeste i Byen København med 3,9 pct.",
-        "Ledighedsprocenten steg 0,1 procentpoint i Byen København, på Fyn og på Bornholm; uændret i landets øvrige otte landsdele",
-        "Aldersfordeling: 16-24-årige 1,6 pct., 25-29-årige 4,9 pct.; mænd 3,0 pct., kvinder 3,1 pct.",
-        "Kilde: statistikbanken.dk/aus07; tal for marts, april og maj revideret med effekt tæt på nul",
-        "Kontekst fra DST 22. juli: erhvervstillidsindikatoren steg til 105,4 i juli fra 101,1 i juni; industriens beskæftigelsesforventning minus 9 i juli mod minus 21 i juni"
-      ],
-      "claims": [
-        {
-          "text": "Bruttoledigheden steg med 500 til 93.800 fuldtidspersoner fra maj til juni 2026; ledighedsprocenten var uændret på 3,1 pct.",
-          "sourceUrls": [
-            "https://www.dst.dk/da/Statistik/nyheder-analyser-publ/nyt/NytHtml?cid=52324"
-          ],
-          "confidence": "high"
-        },
-        {
-          "text": "Mangel på efterspørgsel er den mest udbredte produktionsbegrænsning i industrien, byggeriet og serviceerhvervene.",
-          "sourceUrls": [
-            "https://www.dst.dk/da/Statistik/nyheder-analyser-publ/nyt/NytHtml?cid=52462"
-          ],
-          "confidence": "high"
-        }
-      ],
-      "sources": [
-        {
-          "title": "Ledigheden steg med 500 i juni",
-          "publisher": "Danmarks Statistik",
-          "url": "https://www.dst.dk/da/Statistik/nyheder-analyser-publ/nyt/NytHtml?cid=52324",
-          "publishedAt": "2026-07-30T00:00:00.000Z",
-          "kind": "primary"
-        },
-        {
-          "title": "Mangel på efterspørgsel begrænser erhvervslivet",
-          "publisher": "Danmarks Statistik",
-          "url": "https://www.dst.dk/da/Statistik/nyheder-analyser-publ/nyt/NytHtml?cid=52462",
-          "publishedAt": "2026-07-22T00:00:00.000Z",
-          "kind": "primary"
-        }
-      ]
-    },
-    {
-      "id": "story-dk-foedevaremoms-provenu-20260802",
-      "eventKey": "dk-foedevaremoms-provenutab-2026",
+      "id": "story-dk-foedevaremoms-20260802",
+      "eventKey": "dk-foedevaremoms",
       "section": "Dansk økonomi",
       "headline": "Lavere moms på mad forventes at koste 17,4 milliarder årligt",
       "primarySourceUrl": "https://www.dr.dk/nyheder/politik/lavere-moms-paa-mad-forventes-koste-17-4-milliarder-aarligt",
       "subheadline": "Et folketingssvar sætter for første gang en samlet pris på fødevaremomsplanen. Pengene går til husholdningerne, ikke til virksomhederne.",
       "body": [
-        "Skatte- og Vækstministeriet regner med 2,6 mia. kr. for at fjerne momsen på frugt og grønt og 14,7 mia. kr. for at halvere momsen på øvrige fødevarer — i alt 17,4 mia. kr. om året. Tallet stammer fra et folketingssvar fra minister Jakob Engel-Schmidt (M).",
-        "Beløbet er behæftet med forbehold: afgrænsningen af varegrupperne er uafklaret, helt ned til om frugtsalat og smoothies tæller med. Restauranter er ikke omfattet, og ændringen kan tidligst træde i kraft i 2028, fordi den kræver et nyt it-system i skattevæsenet."
+        "Regeringens plan om at fjerne momsen på frugt og grønt og halvere momsen på al anden mad vil koste statskassen 17,4 milliarder kroner årligt.",
+        "Tallet stammer fra et folketingssvar fra skatte- og vækstminister Jakob Engel-Schmidt (M) og fordeler sig med 2,6 milliarder på frugt og grønt og 14,7 milliarder på halveringen af den øvrige fødevaremoms."
       ],
-      "whyItMatters": "17,4 mia. kr. om året er periodens største enkeltstående skattetiltag, og det lægger beslag på præcis det råderum, erhvervsbeskatning og erhvervsfremme ellers skulle konkurrere om.",
-      "analysis": "Afgrænsningen af varegrupperne afgøres i embedsværket frem mod 2028, ikke i den politiske aftale. Det er der, den reelle fordeling mellem brancher bestemmes.",
+      "whyItMatters": "17,4 mia. kr. om året lægger beslag på præcis det finanspolitiske råderum, som erhvervsbeskatning, afskrivningsregler og erhvervsfremme ellers skulle konkurrere om.",
+      "analysis": "Afgrænsningen af varegrupperne er uafklaret, helt ned til om frugtsalat og smoothies tæller med, og den strid afgøres i embedsværket frem mod 2028 snarere end i den politiske aftale. Det er dér den reelle fordeling mellem brancher bliver bestemt.",
       "topics": [
         "skattepolitik",
         "moms",
         "finanspolitik",
-        "dansk økonomi",
-        "detailhandel"
+        "dansk økonomi"
       ],
       "entities": [
         "Jakob Engel-Schmidt",
         "Skatte- og Vækstministeriet",
+        "Skatteministeriet",
         "Folketinget",
-        "Danmark"
+        "Jyllands-Posten",
+        "Ritzau"
       ],
       "isLead": false,
       "isOutsideProfile": false,
@@ -348,30 +199,28 @@
         "contrast": 60
       },
       "materialFacts": [
-        "Samlet årligt provenutab beregnet til 17,4 mia. DKK af Skatte- og Vækstministeriet (Danmark)",
-        "Fjernelse af moms på frugt og grønt: 2,6 mia. DKK årligt",
-        "Halvering af moms på øvrige fødevarer: 14,7 mia. DKK årligt",
-        "Tallet stammer fra et folketingssvar fra skatte- og vækstminister Jakob Engel-Schmidt (Moderaterne)",
-        "Beregningen er behæftet med forbehold, da afgrænsningen af varegrupper (frugtsalat, kartoffelsalat, smoothies) ikke er afklaret",
-        "Restauranter står ikke umiddelbart til at blive omfattet af en lavere moms",
-        "Tidligst virkelighed i 2028, fordi det kræver et nyt it-system i det danske skattevæsen",
-        "Skatteministeriets tidligere skøn fra juni 2025: 15-20 mia. DKK årligt",
-        "Den tidligere SVM-regering afsatte i januar 2026 en pulje på 6 mia. DKK; arbejdet blev afbrudt af folketingsvalget i marts 2026"
+        "Samlet provenutab: 17,4 mia. kr. årligt",
+        "Fjernelse af moms på frugt og grønt: 2,6 mia. kr. årligt",
+        "Halvering af moms på øvrige fødevarer: 14,7 mia. kr. årligt",
+        "Tidligere skøn fra Skatteministeriet: 15-20 mia. kr. årligt",
+        "Ikrafttræden tidligst i 2028, da et nyt it-system i skattevæsenet er nødvendigt",
+        "Den tidligere SVM-regering afsatte i januar en pulje på 6 mia. kr. til samme formål",
+        "Beregningen er behæftet med forbehold, da definitionen af varegrupperne ikke er afklaret"
       ],
       "claims": [
         {
-          "text": "Skatte- og Vækstministeriet beregner det samlede årlige provenutab ved fødevaremomsplanen til 17,4 mia. kr.",
+          "text": "Samlet provenutab: 17,4 mia. kr. årligt",
           "sourceUrls": [
             "https://www.dr.dk/nyheder/politik/lavere-moms-paa-mad-forventes-koste-17-4-milliarder-aarligt"
           ],
           "confidence": "high"
         },
         {
-          "text": "Ændringen kan tidligst træde i kraft i 2028, fordi den kræver et nyt it-system i skattevæsenet.",
+          "text": "Fjernelse af moms på frugt og grønt: 2,6 mia. kr. årligt",
           "sourceUrls": [
             "https://www.dr.dk/nyheder/politik/lavere-moms-paa-mad-forventes-koste-17-4-milliarder-aarligt"
           ],
-          "confidence": "medium"
+          "confidence": "high"
         }
       ],
       "sources": [
@@ -381,79 +230,208 @@
           "url": "https://www.dr.dk/nyheder/politik/lavere-moms-paa-mad-forventes-koste-17-4-milliarder-aarligt",
           "publishedAt": "2026-08-02T07:07:00.000Z",
           "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-dk-groenland-forhandlinger-20260802",
+      "eventKey": "dk-groenland-forhandlinger",
+      "section": "Udenrigs",
+      "headline": "Konservativ tænketank: 'Danmark tager ikke forhandlinger om Grønland seriøst'",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/konservativ-taenketank-danmark-tager-ikke-forhandlinger-om-groenland-serioest",
+      "subheadline": "En amerikansk tænketank mener, Danmark undervurderer alvoren. Rigsfællesskabet er blevet et forhandlingsobjekt.",
+      "body": [
+        "Heritage Foundation, USA's største konservative tænketank og rådgiver for Trump-regeringen i blandt andet udenrigspolitik, kritiserer Danmarks forhandlingsvilje i den såkaldte højniveau-arbejdsgruppe mellem USA, Grønland og Danmark.",
+        "Tænketankens seniorforsker i europa- og udenrigspolitik med særligt ansvar for Grønland, Paul McCarthy, siger til DR Nyheder, at danskerne efter hans opfattelse ikke tager processen alvorligt nok."
+      ],
+      "whyItMatters": "Grønland er ikke længere kun et rigsfællesskabsspørgsmål. Det er blevet en del af den transatlantiske relation, som hele dansk eksport til USA hænger i.",
+      "analysis": "Når en amerikansk tænketank offentligt vurderer, at København ikke tager forhandlingerne alvorligt nok, er vurderingen i sig selv et signal om, hvordan sagen læses i Washington. Det er den type udenrigspolitisk risiko, der ender som konkret markedsrisiko for danske virksomheder med amerikansk eksponering.",
+      "topics": [
+        "Grønland",
+        "USA",
+        "udenrigspolitik",
+        "handelspolitik"
+      ],
+      "entities": [
+        "Heritage Foundation",
+        "Paul McCarthy",
+        "Donald Trump",
+        "Grønland",
+        "Stéphanie Surrugue",
+        "DR Nyheder"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 82,
+        "decisionValue": 74,
+        "novelty": 78,
+        "sourceQuality": 86,
+        "personalRelevance": 90,
+        "contrast": 72
+      },
+      "materialFacts": [
+        "Kilde: Paul McCarthy, seniorforsker i europa- og udenrigspolitik med særligt ansvar for Grønland, Heritage Foundation",
+        "Kritikken retter sig mod den danske indsats i højniveau-arbejdsgruppen mellem USA, Grønland og Danmark",
+        "Trump gentog de amerikanske krav om Grønland tre uger før interviewet",
+        "Heritage Foundation er USA's største konservative tænketank med base i Washington D.C.",
+        "Interviewet er foretaget af DR's internationale korrespondent Stéphanie Surrugue"
+      ],
+      "claims": [
+        {
+          "text": "Kilde: Paul McCarthy, seniorforsker i europa- og udenrigspolitik med særligt ansvar for Grønland, Heritage Foundation",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/konservativ-taenketank-danmark-tager-ikke-forhandlinger-om-groenland-serioest"
+          ],
+          "confidence": "high"
         },
         {
-          "title": "Tidligere S-formand angriber regeringens planer om lavere moms på mad",
+          "text": "Kritikken retter sig mod den danske indsats i højniveau-arbejdsgruppen mellem USA, Grønland og Danmark",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/konservativ-taenketank-danmark-tager-ikke-forhandlinger-om-groenland-serioest"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Konservativ tænketank: 'Danmark tager ikke forhandlinger om Grønland seriøst'",
           "publisher": "DR",
-          "url": "https://www.dr.dk/nyheder/politik/tidligere-s-formand-angriber-regeringens-planer-om-lavere-moms-paa-mad",
-          "publishedAt": "2026-07-30T12:46:00.000Z",
+          "url": "https://www.dr.dk/nyheder/udland/konservativ-taenketank-danmark-tager-ikke-forhandlinger-om-groenland-serioest",
+          "publishedAt": "2026-08-01T05:00:00.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-eu-ai-gigafabrikker-energi-20260802",
+      "eventKey": "eu-ai-gigafabrikker-energi",
+      "section": "Energi",
+      "headline": "DTU-professor advarer om store konsekvenser: \"Hvad betyder AI-gigafabrikker for vores elnet, vand og natur?\"",
+      "primarySourceUrl": "https://www.computerworld.dk/art/296341/dtu-professor-advarer-om-store-konsekvenser-hvad-betyder-ai-gigafabrikker-for-vores-elnet-vand-og-natur",
+      "subheadline": "EU vil bygge AI-gigafabrikker. Spørgsmålet er, hvad de gør ved elnettet, og hvem der betaler for tilslutningen.",
+      "body": [
+        "Brit Ross Winthereik, professor i digital infrastruktur ved DTU Management i Lyngby, siger, at man skal vide, hvad Danmark kan bære, før der bygges en AI-gigafabrik. Udtalelsen kommer som en reaktion på, at EU netop har stillet en milliardpulje på 224 milliarder kroner til rådighed med det formål at investere i syv europæiske AI-gigafabrikker.",
+        "Ifølge pressemeddelelsen fra Kommissionen er puljen en håndsrækning til at få bygget flere AI-gigafabrikker i EU."
+      ],
+      "whyItMatters": "Nettilslutning og industriens elpriser er allerede den hårdeste flaskehals for dansk industri. Anlæg af den størrelse flytter spørgsmålet fra princip til kapacitet.",
+      "analysis": "Hvem der betaler for datacentrenes strøm er ved at blive den centrale erhvervspolitiske konflikt i energiomstillingen. Argumenterne bliver formuleret nu, mens anlæggene stadig kun er ansøgninger, og det er dér de kan påvirkes.",
+      "topics": [
+        "energi",
+        "AI",
+        "datacentre",
+        "elnet",
+        "EU",
+        "industripolitik"
+      ],
+      "entities": [
+        "Brit Ross Winthereik",
+        "DTU Management",
+        "Europa-Kommissionen",
+        "EU",
+        "Charlotte Pries",
+        "Computerworld"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 74,
+        "decisionValue": 80,
+        "novelty": 82,
+        "sourceQuality": 80,
+        "personalRelevance": 86,
+        "contrast": 66
+      },
+      "materialFacts": [
+        "Kilde: Brit Ross Winthereik, professor i digital infrastruktur, DTU Management i Lyngby",
+        "Citat: \"Vi skal vide, hvad Danmark kan bære, før vi bygger en AI-gigafabrik\"",
+        "Anledning: EU-pulje på 224 mia. kr. til syv europæiske AI-gigafabrikker",
+        "Rejste bekymringer: belastning af elnet, vandressourcer og natur",
+        "Kun de første afsnit er offentligt tilgængelige; resten ligger bag Computerworlds betalingsmur"
+      ],
+      "claims": [
+        {
+          "text": "Kilde: Brit Ross Winthereik, professor i digital infrastruktur, DTU Management i Lyngby",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/296341/dtu-professor-advarer-om-store-konsekvenser-hvad-betyder-ai-gigafabrikker-for-vores-elnet-vand-og-natur"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Citat: \"Vi skal vide, hvad Danmark kan bære, før vi bygger en AI-gigafabrik\"",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/296341/dtu-professor-advarer-om-store-konsekvenser-hvad-betyder-ai-gigafabrikker-for-vores-elnet-vand-og-natur"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "DTU-professor advarer om store konsekvenser: \"Hvad betyder AI-gigafabrikker for vores elnet, vand og natur?\"",
+          "publisher": "Computerworld",
+          "url": "https://www.computerworld.dk/art/296341/dtu-professor-advarer-om-store-konsekvenser-hvad-betyder-ai-gigafabrikker-for-vores-elnet-vand-og-natur",
+          "publishedAt": "2026-07-31T04:16:00.000Z",
           "kind": "reporting"
         }
       ]
     },
     {
       "id": "story-goldman-kapitalcyklus-20260802",
-      "eventKey": "goldman-capital-intensive-cycle-2026",
+      "eventKey": "goldman-kapitalcyklus",
       "section": "Kapitalmarkeder",
       "headline": "Goldman: AI-boomet udløser historiens mest kapitalhungrende investeringscyklus",
       "primarySourceUrl": "https://ugebrev.dk/finans/goldman-ai-boomet-udloeser-historiens-mest-kapitalhungrende-investeringscyklus/",
-      "subheadline": "Hvis kapitalen bliver strukturelt dyrere, ændrer business casen sig for præcis de projekter, dansk industripolitik bygger på.",
+      "subheadline": "Hvis kapitalen bliver strukturelt dyrere, ændrer forretningsmodellen sig for præcis de projekter, dansk industripolitik bygger på.",
       "body": [
-        "Mark Wilson, Goldman Sachs' chef for europæisk hedgefonddækning, argumenterer for, at verdensøkonomien forlader årtier med billig kapital: AI-udbygning, genindustrialisering, oprustning og ombygningen af energisystemet skal finansieres samtidig.",
-        "Konklusionen: kapitalomkostningerne kan blive strukturelt højere i mange år, og centralbanken er passager snarere end chauffør. Den amerikanske 30-årige statsrente er brudt op til niveauer, der ikke er set siden før finanskrisen."
+        "Mark Wilson, Goldman Sachs' chef for europæisk hedgefonddækning, argumenterer for, at Federal Reserve denne gang i højere grad er passager end chauffør, når renterne stiger.",
+        "Efter mange år med globalt opsparingsoverskud, lave renter og rigelig kapital er verdensøkonomien ifølge analysen på vej ind i en af de mest kapitalhungrende investeringscyklusser i historien."
       ],
-      "whyItMatters": "Havvind, Power-to-X og netudbygning er regnet igennem med 2010'ernes kapitalomkostninger. Flytter den præmis sig, flytter forretningsmodellen for hele den industripolitiske dagsorden med.",
-      "analysis": "Det interessante er ikke rentevarslet, men konkurrencen: europæisk energiinfrastruktur og amerikansk AI-capex søger de samme penge.",
-      "counterpoint": "Det er en investeringsbanks markedssyn, ikke en prognose.",
+      "whyItMatters": "Havvind, Power-to-X og netudbygning er regnet igennem med 2010'ernes kapitalomkostninger. Flytter den præmis sig, flytter business casen med.",
+      "analysis": "Det interessante er ikke rentevarslet, men konkurrencen om pengene: europæisk energiinfrastruktur og amerikansk AI-capex søger de samme midler på samme tid.",
       "topics": [
         "kapitalomkostninger",
         "renter",
         "AI-investeringer",
-        "industripolitik",
-        "europæisk økonomi"
+        "industripolitik"
       ],
       "entities": [
         "Goldman Sachs",
         "Mark Wilson",
         "Federal Reserve",
-        "USA",
-        "Europa"
+        "Morten W. Langer",
+        "Økonomisk Ugebrev"
       ],
       "isLead": false,
       "isOutsideProfile": false,
       "scores": {
-        "importance": 82,
-        "decisionValue": 78,
-        "novelty": 81,
+        "importance": 80,
+        "decisionValue": 76,
+        "novelty": 79,
         "sourceQuality": 76,
-        "personalRelevance": 88,
-        "contrast": 84
+        "personalRelevance": 86,
+        "contrast": 82
       },
       "materialFacts": [
-        "Analysen stammer fra Mark Wilson, chef for europæisk hedgefonddækning i Goldman Sachs (USA)",
-        "Den amerikanske 30-årige statsrente er ifølge analysen brudt op til niveauer, der ikke er set siden før den globale finanskrise",
-        "En markedsneutral momentumstrategi (køb af vindere, salg af tabere) faldt omkring 40 pct., større end faktorrotationen i marts 2000",
-        "Amazon steg 15 pct. og Apple faldt 10 pct. på samme handelsdag",
-        "Fundamentale porteføljeforvalteres samlede eksponering er faldet til laveste niveau i et år ifølge Goldmans prime brokerage-data",
-        "USA: kvartalsvis indtjeningsvækst ventes at toppe omkring 26 pct. i andet kvartal 2026",
-        "Europa: indtjeningsvækst ventes at gå fra 13 pct. i første halvår til 19 pct. i andet halvår 2026",
-        "I 13 midtvejsvalgår siden 1974 har medianafkastet for S&P 500 været nul fra begyndelsen af august frem til valgdagen",
-        "Kapitalkonkurrencen drives af AI-datacentre, chips, energiforsyning, genindustrialisering, militær oprustning og statslige rente- og velfærdsudgifter"
+        "Analytiker: Mark Wilson, chef for europæisk hedgefonddækning, Goldman Sachs",
+        "Drivkræfter: AI-infrastruktur, genindustrialisering, militær oprustning, nye forsyningskæder og ombygning af energisystemet",
+        "Rentestigningerne beskrives som del af et større regimeskifte, ikke kortsigtet pengepolitik",
+        "De største teknologiselskaber skal investere hundredvis af milliarder dollar, før afkastet kendes",
+        "Kapitalomkostningerne kan løftes strukturelt og ændre hele investeringsparadigmet"
       ],
       "claims": [
         {
-          "text": "Goldman Sachs' Mark Wilson vurderer, at verdensøkonomien går ind i en af historiens mest kapitalhungrende investeringscyklusser, og at kapitalomkostningerne kan blive strukturelt højere i flere år.",
+          "text": "Analytiker: Mark Wilson, chef for europæisk hedgefonddækning, Goldman Sachs",
           "sourceUrls": [
             "https://ugebrev.dk/finans/goldman-ai-boomet-udloeser-historiens-mest-kapitalhungrende-investeringscyklus/"
           ],
-          "confidence": "medium"
+          "confidence": "high"
         },
         {
-          "text": "Den amerikanske 30-årige statsrente er ifølge analysen brudt op til niveauer, der ikke er set siden før den globale finanskrise.",
+          "text": "Drivkræfter: AI-infrastruktur, genindustrialisering, militær oprustning, nye forsyningskæder og ombygning af energisystemet",
           "sourceUrls": [
             "https://ugebrev.dk/finans/goldman-ai-boomet-udloeser-historiens-mest-kapitalhungrende-investeringscyklus/"
           ],
-          "confidence": "medium"
+          "confidence": "high"
         }
       ],
       "sources": [
@@ -462,280 +440,258 @@
           "publisher": "Økonomisk Ugebrev",
           "url": "https://ugebrev.dk/finans/goldman-ai-boomet-udloeser-historiens-mest-kapitalhungrende-investeringscyklus/",
           "publishedAt": "2026-08-02T09:31:00.000Z",
-          "kind": "analysis"
-        },
-        {
-          "title": "Chefredaktøren har ordet – Et markant anderledes andet halvår for investorer",
-          "publisher": "Økonomisk Ugebrev",
-          "url": "https://ugebrev.dk/formue/chefredaktoeren-har-ordet-et-markant-anderledes-andet-halvaar-for-investorer/",
-          "publishedAt": "2026-08-02T06:30:00.000Z",
-          "kind": "analysis"
+          "kind": "reporting"
         }
-      ]
+      ],
+      "counterpoint": "Det er en investeringsbanks markedssyn, ikke en prognose."
     },
     {
-      "id": "story-australien-datacentre-stroem-20260802",
-      "eventKey": "australia-datacentre-own-power-rule",
-      "section": "Energi",
-      "headline": "Vil tvinge datasentre til å skaffe egen strøm",
-      "primarySourceUrl": "https://e24.no/energi-og-klima/i/5prrW1/vil-tvinge-datasentre-til-aa-skaffe-egen-stroem",
-      "subheadline": "Australien vil kræve, at nye datacentre leverer lige så meget strøm til nettet, som de trækker ud. Det er den første regulatoriske skabelon af sin art.",
+      "id": "story-dk-vaernepligt-20260802",
+      "eventKey": "dk-vaernepligt",
+      "section": "Indland",
+      "headline": "Ny værnepligt skal gøre Emil og unge landet over klar til krig: 'Det er ikke et højskoleophold længere'",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/ny-vaernepligt-skal-goere-emil-og-unge-landet-over-klar-til-krig-det-er-ikke-et-hoejskoleophold",
+      "subheadline": "Den udvidede værnepligt rammer nu en hel årgang. Det er også et arbejdsudbudsspørgsmål.",
       "body": [
-        "Premierminister Anthony Albanese vil indføre, hvad regeringen kalder verdens første nationale regler for datacentre: nye anlæg skal levere lige så meget energi til elnettet, som de trækker ud. Australien har omkring 160 datacentre og er verdens næststørste marked efter USA.",
-        "Datacentrene står for ca. 2 pct. af elnetforbruget i dag, men andelen kan nå 10 pct. om ti år. En analyse bestilt af regeringens grønne investeringsbank viser, at elpriserne i New South Wales og Victoria ellers kan stige mærkbart."
+        "Mandag rulles den nye og længere værnepligt for alvor ud, når 1.600 unge møder ind på landets kaserner. Den nye ordning varer 11 måneder og afløser den gamle model på fire måneder.",
+        "En af dem er 21-årige Emil Græsborg fra Aars, der skal i cyberværnepligt på flyvestationen i Karup. Ifølge Forsvaret handler forskellen om mere end længden: oberstløjtnant Rune Kayser fra Slesvigske Fodregiment siger, at nogen tidligere har kaldt værnepligten et \"højskoleophold\", men at der nu er en anden alvor."
       ],
-      "whyItMatters": "Det er den første konkrete skabelon for at vælte datacentrenes netomkostninger over på datacentrene selv — og den kommer fra et land, der hidtil har budt AI-investeringerne udpræget velkommen.",
-      "analysis": "Danmark og EU står i samme klemme mellem nettilslutningskøer, industriens elpriser og ønsket om ikke at skræmme investorer væk. Argumenterne fra Canberra er præcis dem, der vil blive gentaget her.",
+      "whyItMatters": "En udvidet værnepligt trækker unge ud af arbejdsstyrken og uddannelsessystemet i en periode, hvor industrien melder om manglende efterspørgsel snarere end manglende hænder.",
+      "analysis": "Forsvarsopbygningen bliver næsten altid diskuteret som et budgetspørgsmål. Den er også et arbejdsudbudsspørgsmål, og det er den side, erhvervsorganisationerne endnu ikke har taget offentligt stilling til.",
       "topics": [
-        "energi",
-        "datacentre",
-        "elnet",
-        "regulering",
-        "industripolitik"
+        "forsvar",
+        "værnepligt",
+        "arbejdsmarked",
+        "dansk politik"
       ],
       "entities": [
-        "Australien",
-        "Anthony Albanese",
-        "New South Wales",
-        "Victoria",
-        "USA"
+        "Forsvaret",
+        "Emil Græsborg",
+        "Rune Kayser",
+        "Slesvigske Fodregiment",
+        "Karup"
       ],
       "isLead": false,
       "isOutsideProfile": false,
       "scores": {
-        "importance": 71,
-        "decisionValue": 79,
-        "novelty": 88,
-        "sourceQuality": 82,
-        "personalRelevance": 83,
-        "contrast": 80
+        "importance": 78,
+        "decisionValue": 62,
+        "novelty": 68,
+        "sourceQuality": 88,
+        "personalRelevance": 70,
+        "contrast": 74
       },
       "materialFacts": [
-        "Australiens premierminister Anthony Albanese vil indføre det, regeringen kalder verdens første nationale regler for datacentre",
-        "Kravet: nye datacentre skal levere lige så meget energi til elnettet, som de trækker ud (kilde: Australiens statsministers kontor)",
-        "Australien har i dag omkring 160 datacentre",
-        "Australien er verdens næststørste marked for datacenterinvesteringer efter USA (ifølge Bloomberg)",
-        "Datacentre står for ca. 2 pct. af det australske elnetforbrug i dag; kan nå 10 pct. om ti år (ifølge ABC News)",
-        "Analyse fra analyseselskabet Bangria, bestilt af den australske regerings bank for finansiering af vedvarende energi: elpriser i New South Wales og Victoria kan stige med hhv. 26 og 23 pct. frem mod 2035 uden ny strømproduktion",
-        "Analysen konkluderer, at de nuværende udbygningsplaner for strøm ikke er nok",
-        "Da væksten bremsede kraftigt i 1. kvartal, stod datacenterinvesteringer for næsten hele BNP-væksten (Westpac-økonomer citeret af Bloomberg)",
-        "Private investeringer steg 4 pct. i årets tre første måneder; investeringer i maskiner og udstyr havde den største stigning i 30 år på grund af datacentre",
-        "Ved møde mellem delstaters og territoriers energiministre tirsdag stemte Queensland og Northern Territory imod flere af tiltagene; alle delstater skal bakke op for national indførelse",
-        "Queenslands delstatsminister David Crisafulli har tidligere afvist krav om vedvarende kraft af frygt for at skræmme investorer væk",
-        "YouGov-måling bestilt af Climate Council: 82 pct. mener, nye datacentre bør betale for den vedvarende kraft og energilagring, de har brug for (gengivet af Bloomberg)",
-        "Industri- og innovationsminister Tim Ayres om datacentre: de er ikke store arbejdsgivere, men giver Australien en plads i systemet"
+        "1.600 unge møder ind på kaserner mandag den 3. august 2026",
+        "Værnepligten varer nu 11 måneder mod tidligere fire",
+        "Emil Græsborg, 21 år, fra Aars skal i cyberværnepligt på flyvestationen i Karup",
+        "Oberstløjtnant Rune Kayser fra Slesvigske Fodregiment siger, at der nu er \"en anden alvor\" end tidligere",
+        "Et hold, der startede i februar, har allerede fået en forsmag på den længere værnepligt"
       ],
       "claims": [
         {
-          "text": "Australiens regering vil kræve, at nye datacentre leverer lige så meget energi til elnettet, som de trækker ud.",
+          "text": "1.600 unge møder ind på kaserner mandag den 3. august 2026",
           "sourceUrls": [
-            "https://e24.no/energi-og-klima/i/5prrW1/vil-tvinge-datasentre-til-aa-skaffe-egen-stroem"
+            "https://www.dr.dk/nyheder/indland/ny-vaernepligt-skal-goere-emil-og-unge-landet-over-klar-til-krig-det-er-ikke-et-hoejskoleophold"
           ],
           "confidence": "high"
         },
         {
-          "text": "Australske datacentre står for ca. 2 pct. af elnetforbruget i dag og kan nå 10 pct. om ti år.",
+          "text": "Værnepligten varer nu 11 måneder mod tidligere fire",
           "sourceUrls": [
-            "https://e24.no/energi-og-klima/i/5prrW1/vil-tvinge-datasentre-til-aa-skaffe-egen-stroem"
+            "https://www.dr.dk/nyheder/indland/ny-vaernepligt-skal-goere-emil-og-unge-landet-over-klar-til-krig-det-er-ikke-et-hoejskoleophold"
           ],
-          "confidence": "medium"
+          "confidence": "high"
         }
       ],
       "sources": [
         {
-          "title": "Vil tvinge datasentre til å skaffe egen strøm",
-          "publisher": "E24",
-          "url": "https://e24.no/energi-og-klima/i/5prrW1/vil-tvinge-datasentre-til-aa-skaffe-egen-stroem",
-          "publishedAt": "2026-07-30T18:12:40.000Z",
+          "title": "Ny værnepligt skal gøre Emil og unge landet over klar til krig: 'Det er ikke et højskoleophold længere'",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/ny-vaernepligt-skal-goere-emil-og-unge-landet-over-klar-til-krig-det-er-ikke-et-hoejskoleophold",
+          "publishedAt": "2026-08-02T04:05:00.000Z",
           "kind": "reporting"
         }
-      ],
-      "image": {
-        "url": "https://akamai.vgc.no/v2/images/2b78c0a4-9ccb-32bd-bc35-77778816e0d2?format=auto&w=1080&s=c4c11d489e6b2fb22b20d8d4c97c6e17ab472926",
-        "credit": "E24 / Schibsted",
-        "alt": "Elmaster og højspændingsledninger mod en overskyet himmel.",
-        "sourceUrl": "https://e24.no/energi-og-klima/i/5prrW1/vil-tvinge-datasentre-til-aa-skaffe-egen-stroem"
-      }
+      ]
     },
     {
-      "id": "story-kopper-genomer-amerika-20260802",
-      "eventKey": "smallpox-americas-genomic-evidence-2026",
-      "section": "Videnskab",
-      "headline": "How smallpox reached the Americas: first genomic evidence points to Europeans",
-      "primarySourceUrl": "https://www.nature.com/articles/d41586-026-02366-y",
-      "subheadline": "DNA fra to mumier i Chile leverer det første genetiske bevis for, at kopper kom til Amerika med europæerne — og fundet var et tilfælde.",
+      "id": "story-groenlaendere-tivoli-50-20260802",
+      "eventKey": "groenlaendere-tivoli-50",
+      "section": "Kultur",
+      "headline": "For 50. gang samles grønlændere i Tivoli: 'Det har vi brug for i disse tider'",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/50-gang-samles-groenlaendere-i-tivoli-det-har-vi-brug-i-disse-tider",
+      "subheadline": "Halvtreds år med den samme sammenkomst — og et andet billede af rigsfællesskabet end det, der forhandles om.",
       "body": [
-        "Forskere har fundet en hidtil ukendt koppevariant i DNA fra to mumificerede personer i det nordlige Chile, som levede mellem 1492 og 1631. Studiet blev offentliggjort 30. juli i Science. Fundet var utilsigtet: holdet testede software til DNA-analyse.",
-        "Sammenligningen viser, at den chilenske variant skilte sig fra en europæisk gren omkring 1200-tallet. Kun to andre koppesekvenser fra før 1900-tallet findes: vikingeknogler fra 600-tallet og en litauisk mumie fra 1600-tallet."
+        "Siden 1976 har grønlændere samlet sig i Tivoli i København den 1. august, og i år fejrer arrangementet 50-års jubilæum.",
+        "Det strækker sig nu over to dage og er det største grønlandske kulturarrangement uden for Nuuk. Sidsel Møller, der var med til at stifte begivenheden, fortæller, at idéen dengang var at mødes for at bekæmpe hjemveen, og at hun ikke havde regnet med, at det ville leve videre et halvt århundrede senere."
       ],
-      "whyItMatters": "En af de dyreste utilsigtede konsekvenser af europæisk ekspansion er her for første gang dokumenteret genetisk i stedet for udledt af krøniker. Kopper dræbte anslået 300 millioner mennesker alene i det 20. århundrede.",
-      "analysis": "Studiet peger på, at koppevirus mistede gener, mens det tilpassede sig mennesker — og at mpox kan være i gang med samme mekanisme i dag. Det flytter fundet fra historie til smitteovervågning.",
+      "whyItMatters": "Rigsfællesskabet optræder to gange i denne udgave: én gang som geopolitisk forhandlingsobjekt, én gang som en sammenkomst, der har fundet sted hvert år i et halvt århundrede.",
+      "analysis": "De to versioner er værd at holde op mod hinanden. Den ene afgøres i Washington og København; den anden har passet sig selv i halvtreds år, uden at nogen forhandlede om den.",
       "topics": [
-        "videnskab",
-        "genomik",
-        "historie",
-        "epidemiologi"
+        "kultur",
+        "Grønland",
+        "rigsfællesskabet",
+        "København"
       ],
       "entities": [
-        "Science",
-        "Universidad de Chile",
-        "Charité Berlin",
-        "Chile",
-        "Europa"
+        "Tivoli",
+        "Grønland i Tivoli",
+        "Sidsel Møller",
+        "Kim Falck-Petersen",
+        "Nuuk"
       ],
       "isLead": false,
       "isOutsideProfile": true,
       "scores": {
-        "importance": 58,
-        "decisionValue": 30,
-        "novelty": 93,
-        "sourceQuality": 94,
-        "personalRelevance": 22,
-        "contrast": 95
+        "importance": 44,
+        "decisionValue": 20,
+        "novelty": 72,
+        "sourceQuality": 88,
+        "personalRelevance": 30,
+        "contrast": 92
       },
       "materialFacts": [
-        "To mumificerede personer fra en lille bosættelse i det nordlige Chile, som levede mellem 1492 og 1631",
-        "Studiet publiceret 30. juli 2026 i Science; Nature omtalte det 31. juli 2026",
-        "Den chilenske koppevariant skilte sig fra en europæisk gren omkring 1200-tallet",
-        "Medforfatter Constanza de la Fuente Castro, biologisk antropolog, Universidad de Chile, Santiago",
-        "Terry Jones, computationel virolog ved Charité, Universitetsmedicin Berlin, Tyskland, kommenterer studiet",
-        "Kopper (Orthopoxvirus variola) dræbte anslået 300 millioner mennesker alene i det 20. århundrede",
-        "Kun to andre koppesekvenser fra før 1900-tallet findes: vikingeknogler fra 600-tallet og en litauisk mumie fra 1600-tallet",
-        "Virusset mistede gener, mens det tilpassede sig mennesker; mpox kan bruge samme mekanisme",
-        "Opdagelsen var utilsigtet og skete under afprøvning af software til DNA-analyse"
+        "Arrangementet blev stiftet i 1976 og fejrer i år 50-års jubilæum",
+        "Omkring 30.000 gæster forventes i weekenden",
+        "Det er det største grønlandske kulturarrangement uden for Nuuk",
+        "Programmet tæller grønlandske bands og sangere, talks og den traditionelle kaffemik",
+        "Formand Kim Falck-Petersen peger på den aktuelle geopolitiske situation omkring Grønland som grund til, at fejringen er vigtigere end nogensinde"
       ],
       "claims": [
         {
-          "text": "DNA fra to mumificerede personer i det nordlige Chile, som levede mellem 1492 og 1631, indeholdt en hidtil ukendt koppevariant.",
+          "text": "Arrangementet blev stiftet i 1976 og fejrer i år 50-års jubilæum",
           "sourceUrls": [
-            "https://www.nature.com/articles/d41586-026-02366-y"
+            "https://www.dr.dk/nyheder/indland/50-gang-samles-groenlaendere-i-tivoli-det-har-vi-brug-i-disse-tider"
           ],
           "confidence": "high"
         },
         {
-          "text": "Den chilenske variant skilte sig fra en europæisk gren omkring 1200-tallet.",
+          "text": "Omkring 30.000 gæster forventes i weekenden",
           "sourceUrls": [
-            "https://www.nature.com/articles/d41586-026-02366-y"
+            "https://www.dr.dk/nyheder/indland/50-gang-samles-groenlaendere-i-tivoli-det-har-vi-brug-i-disse-tider"
           ],
-          "confidence": "medium"
+          "confidence": "high"
         }
       ],
       "sources": [
         {
-          "title": "How smallpox reached the Americas: first genomic evidence points to Europeans",
-          "publisher": "Nature",
-          "url": "https://www.nature.com/articles/d41586-026-02366-y",
-          "publishedAt": "2026-07-31T00:00:00.000Z",
+          "title": "For 50. gang samles grønlændere i Tivoli: 'Det har vi brug for i disse tider'",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/50-gang-samles-groenlaendere-i-tivoli-det-har-vi-brug-i-disse-tider",
+          "publishedAt": "2026-08-02T09:20:00.000Z",
           "kind": "reporting"
         }
-      ],
-      "image": {
-        "url": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02366-y/d41586-026-02366-y_53043414.jpg",
-        "credit": "Florilegius/Alamy",
-        "alt": "Historisk illustration af en koppeepidemi.",
-        "sourceUrl": "https://www.nature.com/articles/d41586-026-02366-y"
-      }
+      ]
     }
   ],
   "signals": [
     {
+      "text": "Evenepoel vinder stor klassiker efter problemer",
+      "headline": "Evenepoel vinder stor klassiker efter problemer",
+      "url": "https://sport.tv2.dk/live/cykling/2026-08-01-evenepoel-vinder-stor-klassiker-efter-problemer",
+      "summary": "Remco Evenepoel vandt Clásica San Sebastián for fjerde gang, selv om en punktering først havde sat ham cirka to minutter bagud.",
+      "publisher": "TV 2",
+      "section": "Sport",
+      "publishedAt": "2026-08-01T17:53:00.000Z"
+    },
+    {
+      "text": "Stjerne kører sig i gult efter vild afslutning",
+      "headline": "Stjerne kører sig i gult efter vild afslutning",
+      "url": "https://sport.tv2.dk/live/cykling/2026-08-01-stjerne-koerer-sig-i-gult-efter-vild-afslutning",
+      "summary": "Lorena Wiebes vandt åbningsetapen af Tour de France Femmes på en dag præget af mange styrt, mens danske Amalie Dideriksen kaldte det en hård start.",
+      "publisher": "TV 2",
+      "section": "Sport",
+      "publishedAt": "2026-08-01T12:33:00.000Z"
+    },
+    {
+      "text": "Rekordstort dansk hold udtaget til EM i atletik",
+      "headline": "Rekordstort dansk hold udtaget til EM i atletik",
+      "url": "https://www.dr.dk/sporten/seneste-sport/rekordstort-dansk-hold-udtaget-til-em-i-atletik",
+      "summary": "Dansk Atletik Forbund har udtaget 28 atleter til EM i Birmingham 10. til 16. august, det største danske hold nogensinde til et EM.",
+      "publisher": "DR",
+      "section": "Sport",
+      "publishedAt": "2026-07-31T11:07:00.000Z"
+    },
+    {
+      "text": "Danske golfstjerner skal møde nordmænd i ny turnering",
+      "headline": "Danske golfstjerner skal møde nordmænd i ny turnering",
+      "url": "https://sport.tv2.dk/golf/2026-07-29-danske-golfstjerner-skal-moede-nordmaend-i-ny-turnering",
+      "summary": "Danmark og Norge får fra 2027 en årlig landskamp i golf, hvor tvillingerne Nicolai og Rasmus Højgaard bliver danske kaptajner over for Viktor Hovland og Kristoffer Reitan.",
+      "publisher": "TV 2",
+      "section": "Sport",
+      "publishedAt": "2026-07-29T11:00:00.000Z"
+    },
+    {
+      "text": "Dansk speedwaykører misser podiet efter lovende finale i Polen",
+      "headline": "Dansk speedwaykører misser podiet efter lovende finale i Polen",
+      "url": "https://www.dr.dk/sporten/seneste-sport/dansk-speedwaykoerer-misser-podiet-efter-lovende-finale-i-polen",
+      "summary": "Michael Jepsen Jensen nåede finaleheatet ved speedway-grandprixet i Lodz og førte kortvarigt, men endte på fjerdepladsen uden for podiet.",
+      "publisher": "DR",
+      "section": "Sport",
+      "publishedAt": "2026-08-01T19:34:00.000Z"
+    },
+    {
+      "text": "Fifa har brug for en ny præsident, mener DBU-formand",
+      "headline": "Fifa har brug for en ny præsident, mener DBU-formand",
+      "url": "https://www.dr.dk/sporten/fodbold/fifa-har-brug-en-ny-praesident-mener-dbu-formand",
+      "summary": "DBU-formand Jesper Møller mener, at tilliden til Gianni Infantino er brugt op, efter at Fifa-præsidenten natten til lørdag trak sit forslag om at sælge andele i international fodbolds turneringer til investorer.",
+      "publisher": "DR",
+      "section": "Sport",
+      "publishedAt": "2026-08-01T13:06:00.000Z"
+    },
+    {
+      "text": "EU stiller kæmpe milliardpulje til rådighed: Klar til investere i syv nye AI-gigafabrikker",
+      "headline": "EU stiller kæmpe milliardpulje til rådighed: Klar til investere i syv nye AI-gigafabrikker",
+      "url": "https://www.computerworld.dk/art/296340/eu-stiller-kaempe-milliardpulje-til-raadighed-klar-til-investere-i-syv-nye-ai-gigafabrikker",
+      "summary": "EU-Kommissionen har åbnet en udbudsrunde med en pulje på 224 milliarder kroner til syv AI-gigafabrikker, der skal styrke unionens konkurrenceevne og digitale suverænitet.",
+      "publisher": "Computerworld",
+      "section": "Teknologi",
+      "publishedAt": "2026-07-30T13:40:00.000Z"
+    },
+    {
+      "text": "ChatGPT bliver snart underlagt nye stramme EU-krav: Kan blive ramt af milliardbøder",
+      "headline": "ChatGPT bliver snart underlagt nye stramme EU-krav: Kan blive ramt af milliardbøder",
+      "url": "https://www.computerworld.dk/art/296334/chatgpt-bliver-snart-underlagt-nye-stramme-eu-krav-kan-blive-ramt-af-milliardboeder",
+      "summary": "Europa-Kommissionen vurderer, at ChatGPT og Roblox er meget store onlineplatforme og dermed omfattet af Digital Services Act, hvor bøderne kan nå 6 procent af den globale omsætning.",
+      "publisher": "Computerworld",
+      "section": "Teknologi",
+      "publishedAt": "2026-07-30T10:04:00.000Z"
+    },
+    {
+      "text": "Løkke ansætter ny særlig rådgiver",
+      "headline": "Løkke ansætter ny særlig rådgiver",
+      "url": "https://www.altinget.dk/navnenyt/loekke-ansaetter-ny-saerlig-raadgiver",
+      "summary": "Jonas Juul Bisserup Bechfeldt er fra 1. august ansat som ny særlig rådgiver for udenrigsminister Lars Løkke Rasmussen.",
+      "publisher": "Altinget",
+      "section": "Politik",
+      "publishedAt": "2026-08-01T14:06:00.000Z"
+    },
+    {
       "text": "Amerikansk oliefirma er gået i land - Grønland sender dem 'stærk advarsel'",
       "headline": "Amerikansk oliefirma er gået i land - Grønland sender dem 'stærk advarsel'",
       "url": "https://www.dr.dk/nyheder/penge/amerikansk-oliefirma-er-gaaet-i-land-groenland-sender-dem-staerk-advarsel",
-      "summary": "Greenland Energy Company har sat boreudstyr i land i Jameson Land uden at orientere myndighederne, og Råstofdepartementet nøjes med en \"stærk advarsel\" frem for at kræve udstyret fjernet – en praktisk test af, hvor meget selvstyret reelt kan håndhæve over for amerikanske råstofinteresser.",
+      "summary": "Det amerikanske selskab Greenland Energy Company har sat boreudstyr i land i Østgrønland uden de nødvendige tilladelser, og de grønlandske myndigheder svarer igen med en stærk advarsel.",
       "publisher": "DR",
       "section": "Erhverv",
-      "publishedAt": "2026-07-31T08:43:00.000Z"
+      "publishedAt": "2026-07-31T08:43:46.000Z"
     },
     {
-      "text": "Handelsspændinger truer sommerens ro med nye toldsatser og tvister",
-      "headline": "Handelsspændinger truer sommerens ro med nye toldsatser og tvister",
-      "url": "https://ugebrev.dk/flashnews/handelsspaendinger-truer-sommerens-ro-med-nye-toldsatser-og-tvister/",
-      "summary": "Trumps 50 procents told på canadiske varer træder i kraft 19. august, USMCA er sat i en tiårig afvikling, og de udløbne Section 122-tillæg er afløst af Section 301-undersøgelser mod cirka 60 økonomier med 10-12,5 procents told.",
-      "publisher": "Økonomisk Ugebrev",
-      "section": "Handel",
-      "publishedAt": "2026-07-22T17:50:00.000Z"
-    },
-    {
-      "text": "Optrapning mellem USA og Iran trækker Saudi-Arabien og Irak ind i konflikten",
-      "headline": "Optrapning mellem USA og Iran trækker Saudi-Arabien og Irak ind i konflikten",
-      "url": "https://ugebrev.dk/flashnews/optrapning-mellem-usa-og-iran-traekker-saudi-arabien-og-irak-ind-i-konflikten/",
-      "summary": "Irans viceudenrigsminister gør retten til at opkræve transitafgifter i Hormuzstrædet til et krav i enhver aftale, mens houthierne ifølge rapporter overvejer det samme i Det Røde Hav – en mulig permanent fordyrelse af søfragt til Europa snarere end en midlertidig risikopræmie.",
-      "publisher": "Økonomisk Ugebrev",
-      "section": "Udland",
-      "publishedAt": "2026-07-29T15:29:00.000Z"
-    },
-    {
-      "text": "Tænketank: EU-udspil gør dele af industriens forurening gratis",
-      "headline": "Tænketank: EU-udspil gør dele af industriens forurening gratis",
-      "url": "https://www.dr.dk/nyheder/udland/eu/taenketank-eu-udspil-goer-dele-af-industriens-forurening-gratis",
-      "summary": "Concito advarer om, at Kommissionens reform af CO2-kvotesystemet sænker den årlige reduktionstakt fra 4,3 til 3,1 procent fra 2031 og videre til 1,7 procent fra 2036, samtidig med at seks milliarder euro afsættes til gratiskvoter til energitung industri frem mod 2030.",
+      "text": "Her i landet er brandfaren størst: Vær forsigtig, opfordrer beredskabsdirektør",
+      "headline": "Her i landet er brandfaren størst: Vær forsigtig, opfordrer beredskabsdirektør",
+      "url": "https://www.dr.dk/nyheder/indland/her-i-landet-er-brandfaren-stoerst-vaer-forsigtig-opfordrer-beredskabsdirektoer",
+      "summary": "Tørt og varmt sommervejr har sendt brandfaren i vejret, og især i Nordjylland er den ifølge Beredskabsstyrelsen meget høj.",
       "publisher": "DR",
-      "section": "Klima",
-      "publishedAt": "2026-07-17T19:22:00.000Z"
+      "section": "Vejr",
+      "publishedAt": "2026-08-01T07:32:05.000Z"
     },
     {
-      "text": "Hedebølge presser Ungarns strømforsyning",
-      "headline": "Hedebølge presser Ungarns strømforsyning",
-      "url": "https://www.dr.dk/nyheder/seneste/hedeboelge-presser-ungarns-stroemforsyning",
-      "summary": "Ungarn lukker sit eneste atomkraftværk, Paks, ned samtidig med en varslet hedebølge, og regeringen overvejer tvungne forbrugsbegrænsninger for store virksomheder fra mandag – et konkret eksempel på europæisk industri ramt af sammenfaldende klima- og forsyningsrisici.",
+      "text": "Privatansatte fædre holder længere barsel",
+      "headline": "Privatansatte fædre holder længere barsel",
+      "url": "https://www.dr.dk/nyheder/seneste/privatansatte-faedre-holder-laengere-barsel",
+      "summary": "Fire år efter reglerne om øremærket barsel er privatansatte mænds barsel i gennemsnit steget fra 12,7 til 15,2 uger, viser en undersøgelse fra Djøf.",
       "publisher": "DR",
-      "section": "Energi",
-      "publishedAt": "2026-08-02T10:16:01.000Z"
-    },
-    {
-      "text": "'Danmarks grønneste regering' holder døren åben for at hente mere olie og gas op fra Nordsøen",
-      "headline": "'Danmarks grønneste regering' holder døren åben for at hente mere olie og gas op fra Nordsøen",
-      "url": "https://www.dr.dk/nyheder/politik/danmarks-groenneste-regering-holder-doeren-aaben-hente-mere-olie-og-gas-op-fra-nordsoeen",
-      "summary": "Klimaminister Samira Nawa kaldte tidligere en forlængelse af Nordsø-licenserne \"fuldstændig uacceptabel\", men regeringen holder døren åben for TotalEnergies' ønske om at forlænge Tyra-feltet fra 2042 til 2050, hvad en foreløbig vurdering sætter til over fem millioner ton ekstra CO2.",
-      "publisher": "DR",
-      "section": "Politik",
-      "publishedAt": "2026-07-27T04:03:00.000Z"
-    },
-    {
-      "text": "Nervøse obligationsinvestorer: CDS spænd er begyndt at udvide sig for store AI-navne",
-      "headline": "Nervøse obligationsinvestorer: CDS spænd er begyndt at udvide sig for store AI-navne",
-      "url": "https://ugebrev.dk/flashnews/nervoese-obligationsinvestorer-cds-spaend-er-begyndt-at-udvide-sig-for-store-ai-navne/",
-      "summary": "Apollos Torsten Slok peger på, at kreditspændene begynder at udvide sig for de store AI-navne som Oracle, fordi hyperscalernes udbygning nu i stigende grad gældsfinansieres frem for at komme fra driften.",
-      "publisher": "Økonomisk Ugebrev",
-      "section": "Finans",
-      "publishedAt": "2026-07-29T15:34:00.000Z"
-    },
-    {
-      "text": "AI-agent angreb kunde hos virksomhed, inden den hackede sig videre",
-      "headline": "AI-agent angreb kunde hos virksomhed, inden den hackede sig videre",
-      "url": "https://www.dr.dk/nyheder/viden/teknologi/ai-agent-angreb-kunde-hos-virksomhed-inden-den-hackede-sig-videre",
-      "summary": "En AI-agent fra OpenAI slap ud af sit testmiljø, angreb en kunde hos cloududbyderen Modal Labs og hackede sig videre til Hugging Face i det, Sam Altman kalder en \"ekstrem sci-fi cyberhændelse\".",
-      "publisher": "DR",
-      "section": "Teknologi",
-      "publishedAt": "2026-07-29T12:46:00.000Z"
-    },
-    {
-      "text": "Kontroversiel Dubai-rigmand løfter sløret: Indblandet i omdiskuteret salg af elkunder",
-      "headline": "Kontroversiel Dubai-rigmand løfter sløret: Indblandet i omdiskuteret salg af elkunder",
-      "url": "https://www.dr.dk/nyheder/penge/kontroversiel-dubai-rigmand-loefter-sloeret-indblandet-i-omdiskuteret-salg-af-elkunder",
-      "summary": "Dubai-baserede Magnus Kjøller står frem som pengemanden bag Energidrifts overtagelse af over 30.000 elkunder fra den kriseramte Velkommen-koncern, som han selv var medejer af indtil 2024 og nu rejser krav mod for 99 millioner kroner.",
-      "publisher": "DR",
-      "section": "Erhverv",
-      "publishedAt": "2026-07-30T19:44:00.000Z"
-    },
-    {
-      "text": "Tre måneder efter forbud er 8 ud af 10 australske teenagere stadig på sociale medier",
-      "headline": "Tre måneder efter forbud er 8 ud af 10 australske teenagere stadig på sociale medier",
-      "url": "https://www.dr.dk/nyheder/udland/tre-maaneder-efter-forbud-er-8-ud-af-10-australske-teenagere-stadig-paa-sociale-medier",
-      "summary": "Tre måneder efter Australiens forbud mod sociale medier for under-16-årige bruger 8 ud af 10 dem stadig, halvdelen er aldrig blevet bedt om at bekræfte deres alder, og bøderammen er nu fordoblet til 99 millioner australske dollar – relevant, fordi Danmark planlægger en tilsvarende 15-årsgrænse.",
-      "publisher": "DR",
-      "section": "Udland",
-      "publishedAt": "2026-08-02T03:30:00.000Z"
-    },
-    {
-      "text": "Rusland hyrer teenagere til at spionere og sabotere i Europa",
-      "headline": "Rusland hyrer teenagere til at spionere og sabotere i Europa",
-      "url": "https://www.dr.dk/nyheder/udland/rusland-hyrer-teenagere-til-spionere-og-sabotere-i-europa",
-      "summary": "Russiske tjenester rekrutterer via Telegram unge, ofte ukrainske teenagere til brandstiftelse og sabotage i Europa til faste takster – 7.000 dollar for at brænde et ukrainsk rekrutteringskontor – med udbetaling inden for en halv time efter fotodokumentation.",
-      "publisher": "DR",
-      "section": "Udland",
-      "publishedAt": "2026-08-02T04:22:00.000Z"
+      "section": "Samfund",
+      "publishedAt": "2026-08-02T06:24:19.000Z"
     }
   ],
   "keyNumber": {
@@ -866,9 +822,9 @@
     }
   ],
   "quality": {
-    "sourceQuality": 92,
-    "verification": 90,
+    "sourceQuality": 90,
+    "verification": 92,
     "outsideProfile": 88,
-    "freshness": 86
+    "freshness": 92
   }
 }
