@@ -1,0 +1,711 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-08-03-r1",
+  "date": "2026-08-03",
+  "generatedAt": "2026-08-03T05:00:00Z",
+  "readingMinutes": 11,
+  "title": "Thomas' Nyheder — mandag den 3. august 2026",
+  "dek": "Ceuta handler om Algeriet og Vestsahara, ikke om spanske hegn. Et finanshus ser år 2000 i sidste uges comeback. Og Australiens forbud mod sociale medier virkede ikke som lovet.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-ceuta-marokko-motiv-20260803",
+      "eventKey": "ceuta-marokko-motiv-algeriet",
+      "section": "Udland",
+      "isLead": true,
+      "isOutsideProfile": false,
+      "headline": "Grænsekrise mellem Spanien og Marokko trækker tråde til gasleverancer og et oprindeligt folk",
+      "subheadline": "Forklaringen på Ceuta ligger ikke i spansk grænsekontrol, men i Rabats utilfredshed med Madrids tilnærmelse til Algeriet.",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/graensekrise-mellem-spanien-og-marokko-traekker-traade-til-gasleverancer-og-et-oprindeligt-folk",
+      "body": [
+        "Da 50.000 migranter på 24 timer krydsede grænsen til den spanske eksklave Ceuta, blev det læst som en spansk grænsefiasko. DR's gennemgang peger et andet sted hen: mod Marokko, mod gasleverancer fra Algeriet og mod Vestsahara. 72 mennesker har mistet livet i forsøget på at nå eksklaven.",
+        "Morten Heiberg, professor i spanske samfundsforhold på Københavns Universitet, aner et marokkansk motiv for at lade stå til. »Der har været kraftige spekulationer i spansk presse om, at det, vi ser, i virkeligheden handler om, at man i Marokko er utilfredse med, at Spanien har tilnærmet sig nabolandet Algeriet,« siger han til DR. Han understreger, at der ikke foreligger beviser for marokkansk myndighedsinvolvering."
+      ],
+      "whyItMatters": "Er Ceuta et spansk kapacitetsproblem, løses det med hegn. Er det et marokkansk pressionsmiddel i en strid om algerisk gas og Vestsahara, er migranttrykket en ventil, der kan åbnes igen.",
+      "analysis": "Det flytter sagen fra spansk indenrigspolitik til handelspolitik. EU forhandler med Rabat om fiskeri, landbrug og migration, og kan grænsen bruges som løftestang, indgår den i prisen.",
+      "counterpoint": "Motivet er udokumenteret. Marokko peger selv på sociale medier, smuglere og fejltolkning.",
+      "topics": [
+        "migration",
+        "eu",
+        "marokko",
+        "spanien",
+        "energi"
+      ],
+      "entities": [
+        "Ceuta",
+        "Marokko",
+        "Spanien",
+        "Algeriet",
+        "Morten Heiberg",
+        "Københavns Universitet"
+      ],
+      "materialFacts": [
+        "50.000 migranter krydsede grænsen til Ceuta på 24 timer",
+        "72 mennesker har mistet livet i forsøget på at nå eksklaven",
+        "Et spansk regeringsparti vil have FN til at undersøge Marokkos ansvar",
+        "Spanien har opsat en barriere i havet ud for Ceuta"
+      ],
+      "scores": {
+        "importance": 88,
+        "decisionValue": 72,
+        "novelty": 74,
+        "sourceQuality": 86,
+        "personalRelevance": 80,
+        "contrast": 70
+      },
+      "claims": [
+        {
+          "text": "50.000 migranter krydsede på 24 timer grænsen til den spanske eksklave Ceuta, og 72 mennesker mistede livet i forsøget på at nå eksklaven.",
+          "confidence": "high",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/graensekrise-mellem-spanien-og-marokko-traekker-traade-til-gasleverancer-og-et-oprindeligt-folk"
+          ]
+        },
+        {
+          "text": "Professor Morten Heiberg peger på spanske spekulationer om et marokkansk motiv knyttet til Spaniens tilnærmelse til Algeriet, men understreger, at der ikke foreligger beviser for marokkansk myndighedsinvolvering.",
+          "confidence": "high",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/graensekrise-mellem-spanien-og-marokko-traekker-traade-til-gasleverancer-og-et-oprindeligt-folk"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "title": "Grænsekrise mellem Spanien og Marokko trækker tråde til gasleverancer og et oprindeligt folk",
+          "url": "https://www.dr.dk/nyheder/udland/graensekrise-mellem-spanien-og-marokko-traekker-traade-til-gasleverancer-og-et-oprindeligt-folk",
+          "publisher": "DR",
+          "kind": "reporting",
+          "publishedAt": "2026-08-02T14:40:00Z"
+        },
+        {
+          "title": "Marokko giver sociale medier, smuglere og fejltolkning skylden for massetilstrømning",
+          "url": "https://www.dr.dk/nyheder/seneste/marokkansk-ministerie-giver-sociale-medier-smuglere-og-fejltolkning-skylden-massetilstroemning",
+          "publisher": "DR",
+          "kind": "reporting",
+          "publishedAt": "2026-08-02T20:12:10Z"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/rzshpkcr/20260801-161343-l.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "alt": "Migranter passerer gennem et ødelagt hegn, mens de forlader den spanske eksklave Ceuta med kurs mod den marokkanske by Fnideq den 1. august 2026.",
+        "credit": "Kilde: DR (foto: Abdel Majid Bziouat, AFP/Ritzau Scanpix)",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/graensekrise-mellem-spanien-og-marokko-traekker-traade-til-gasleverancer-og-et-oprindeligt-folk"
+      }
+    },
+    {
+      "id": "story-btig-marked-aar-2000-20260803",
+      "eventKey": "btig-momentum-comeback-markedsbredde",
+      "section": "Økonomi",
+      "isLead": false,
+      "isOutsideProfile": false,
+      "headline": "Finanshus: Markedet ligner år 2000: Rekordstort comeback kan være sidste optur før nye store kursfald",
+      "subheadline": "Momentumaktier steg voldsomt på én dag, men markedsbredden var den dårligste nogensinde på en dag med så stort et løft.",
+      "primarySourceUrl": "https://ugebrev.dk/formue/finanshus-markedet-ligner-aar-2000-rekordstort-comeback-kan-vaere-sidste-optur-foer-nye-store-kursfald/",
+      "body": [
+        "Det amerikanske aktiemarked leverede fredag et opsigtsvækkende comeback efter julis nedsmeltning. High-beta-momentum steg 13,3 pct. på én dag — ifølge finanshuset BTIG den fjerdestørste daglige stigning nogensinde.",
+        "Afgørende er, hvad der lå under stigningen. Markedsbredden var ifølge analysen den dårligste nogensinde på en dag med et så stort kursløft — et indeks løftet af meget få papirer. Det er parallellen til it-boblen i 2000: der kan være mere rebound tilbage, men også risiko for nye kursbunde."
+      ],
+      "whyItMatters": "Danske pensionskasser og industriselskaber har amerikansk aktieeksponering og finansieringsomkostninger, der følger de samme risikopræmier. En optur båret af få aktier er skrøbelig på en måde, indekstallet ikke viser.",
+      "analysis": "Læs det som mekanik, ikke prognose. BTIG siger ikke, at faldet kommer, men at fordelingen bag stigningen historisk er et dårligt tegn.",
+      "topics": [
+        "aktiemarked",
+        "usa",
+        "risiko",
+        "makroøkonomi"
+      ],
+      "entities": [
+        "BTIG",
+        "S&P 500",
+        "USA"
+      ],
+      "materialFacts": [
+        "High-beta-momentum steg 13,3 pct. på én dag, ifølge BTIG den fjerdestørste daglige stigning nogensinde",
+        "Markedsbredden var ifølge analysen den dårligste nogensinde på en dag med så stort et kursløft",
+        "BTIG trækker parallellen til it-boblen i 2000"
+      ],
+      "scores": {
+        "importance": 74,
+        "decisionValue": 78,
+        "novelty": 72,
+        "sourceQuality": 78,
+        "personalRelevance": 82,
+        "contrast": 66
+      },
+      "claims": [
+        {
+          "text": "High-beta-momentum steg 13,3 pct. på én dag, hvilket ifølge finanshuset BTIG er den fjerdestørste daglige stigning nogensinde, og markedsbredden var samtidig den dårligste nogensinde på en dag med et så stort kursløft.",
+          "confidence": "medium",
+          "sourceUrls": [
+            "https://ugebrev.dk/formue/finanshus-markedet-ligner-aar-2000-rekordstort-comeback-kan-vaere-sidste-optur-foer-nye-store-kursfald/"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "title": "Finanshus: Markedet ligner år 2000: Rekordstort comeback kan være sidste optur før nye store kursfald",
+          "url": "https://ugebrev.dk/formue/finanshus-markedet-ligner-aar-2000-rekordstort-comeback-kan-vaere-sidste-optur-foer-nye-store-kursfald/",
+          "publisher": "Økonomisk Ugebrev",
+          "kind": "analysis",
+          "publishedAt": "2026-08-02T13:45:46Z"
+        }
+      ],
+      "image": {
+        "url": "https://ugebrev.dk/wp-content/uploads/2021/01/bubble.jpg",
+        "alt": "Arkivbillede af en sæbeboble, som Økonomisk Ugebrev anvender til analysen af parallellen mellem det nuværende aktiemarked og it-boblen i 2000.",
+        "credit": "Kilde: Økonomisk Ugebrev",
+        "sourceUrl": "https://ugebrev.dk/formue/finanshus-markedet-ligner-aar-2000-rekordstort-comeback-kan-vaere-sidste-optur-foer-nye-store-kursfald/"
+      }
+    },
+    {
+      "id": "story-rusland-teenagere-sabotage-20260803",
+      "eventKey": "rusland-rekruttering-unge-sabotage-europa",
+      "section": "Sikkerhed",
+      "isLead": false,
+      "isOutsideProfile": false,
+      "headline": "Rusland hyrer teenagere til at spionere og sabotere i Europa",
+      "subheadline": "Opgaverne udbydes med prisliste over Telegram, og de rammer også Nato-territorium.",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/rusland-hyrer-teenagere-til-spionere-og-sabotere-i-europa",
+      "body": [
+        "En ildspåsættelse, et fotografi af en militærinstallation, i yderste fald placering af en bombe. Det er den type opgaver, den russiske sikkerhedstjeneste ifølge DR udbyder mod betaling til især unge ukrainere over beskedtjenesten Telegram, hvor der cirkulerer prislister.",
+        "DR's Ukraine- og Rusland-korrespondent, Matilde Kimer, siger, at mange har fået tilsendt sådan en liste: »Der er 7.000 dollar, hvis man sætter ild til et rekrutteringskontor i Ukraine, men det giver også rigtig mange penge, hvis man sætter ild til Nato-udstyr i Polen.«"
+      ],
+      "whyItMatters": "Truslen standses ikke af kontraspionage mod professionelle agenter. De rekrutterede er unge uden træning, og målene er fysiske: lagre, udstyr og transportled i Polen og resten af Nato-området.",
+      "analysis": "Billigheden er pointen. Når opgaven koster nogle tusinde dollar, og udfaldet er ligegyldigt for afsenderen, holder afskrækkelse dårligt.",
+      "topics": [
+        "sikkerhed",
+        "rusland",
+        "nato",
+        "hybridkrig",
+        "polen"
+      ],
+      "entities": [
+        "Rusland",
+        "Ukraine",
+        "Polen",
+        "Nato",
+        "Telegram",
+        "Matilde Kimer",
+        "Andrzej Kozłowski"
+      ],
+      "materialFacts": [
+        "Russisk sikkerhedstjeneste udbyder sabotageopgaver mod betaling via Telegram, med cirkulerende prislister",
+        "7.000 dollar nævnes for ildspåsættelse af et rekrutteringskontor i Ukraine",
+        "En 18-årig ukrainer, i polske medier kendt som Ilja K, er anklaget i en sådan sag"
+      ],
+      "scores": {
+        "importance": 82,
+        "decisionValue": 70,
+        "novelty": 68,
+        "sourceQuality": 84,
+        "personalRelevance": 72,
+        "contrast": 64
+      },
+      "claims": [
+        {
+          "text": "Russisk sikkerhedstjeneste rekrutterer især unge ukrainere til ildspåsættelse, fotografering af militærinstallationer og sabotage via Telegram, og aktiviteten foregår også på Nato-territorium.",
+          "confidence": "high",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/rusland-hyrer-teenagere-til-spionere-og-sabotere-i-europa"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "title": "Rusland hyrer teenagere til at spionere og sabotere i Europa",
+          "url": "https://www.dr.dk/nyheder/udland/rusland-hyrer-teenagere-til-spionere-og-sabotere-i-europa",
+          "publisher": "DR",
+          "kind": "reporting",
+          "publishedAt": "2026-08-02T04:22:00Z"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/315jugiw/telegram.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "alt": "DR's billede til historien om, at rekrutteringen af typisk unge ukrainere ofte foregår over beskedtjenesten Telegram, hvor der også optræder prislister for opgaver som ildspåsættelse.",
+        "credit": "Kilde: DR",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/rusland-hyrer-teenagere-til-spionere-og-sabotere-i-europa"
+      }
+    },
+    {
+      "id": "story-australien-some-forbud-evaluering-20260803",
+      "eventKey": "australien-some-forbud-esafety-evaluering",
+      "section": "Regulering",
+      "isLead": false,
+      "isOutsideProfile": true,
+      "headline": "Tre måneder efter forbud er 8 ud af 10 australske teenagere stadig på sociale medier",
+      "subheadline": "Verdens første aldersgrænse på sociale medier er nu målt. Kontoejerskabet faldt, forbruget gjorde ikke.",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/tre-maaneder-efter-forbud-er-8-ud-af-10-australske-teenagere-stadig-paa-sociale-medier",
+      "body": [
+        "Australien indførte i december 2025 som det første land i verden et forbud mod sociale medier for unge under 16 år. Internetstilsynet eSafety offentliggjorde fredag en rapport, der sammenligner data fra før forbuddet med data fra marts.",
+        "Andelen af unge med egne konti faldt fra 52 til 42 procent. Men mere end otte ud af ti under 16 år bruger stadig sociale medier. Årsagen er ifølge rapporten mangelfuld aldersverifikation: 50 procent var slet ikke blevet bedt om at bekræfte deres alder."
+      ],
+      "whyItMatters": "En indgribende regulering, der faktisk måles bagefter. Resultatet er, at pligten lå hos platformene, håndhævelsen af pligten lå ikke noget sted, og reglen blev en formalitet.",
+      "analysis": "Mønstret går igen i EU-regulering, hvor efterlevelsen afhænger af, at den regulerede selv bygger kontrollen.",
+      "counterpoint": "Et fald fra 52 til 42 procent på tre måneder er ikke ingenting. En regel kan flytte adfærd uden at blive efterlevet fuldt.",
+      "topics": [
+        "regulering",
+        "sociale medier",
+        "australien",
+        "børn og unge",
+        "håndhævelse"
+      ],
+      "entities": [
+        "Australien",
+        "eSafety",
+        "Andrew Leigh",
+        "Meta",
+        "TikTok",
+        "YouTube"
+      ],
+      "materialFacts": [
+        "eSafety offentliggjorde fredag en evalueringsrapport tre måneder efter forbuddets ikrafttræden",
+        "Andelen af under-16-årige med egne konti faldt fra 52 til 42 procent",
+        "Mere end otte ud af ti under 16 år bruger stadig sociale medier",
+        "Regeringen vil fordoble maksimumbøden til 99 millioner australske dollar"
+      ],
+      "scores": {
+        "importance": 70,
+        "decisionValue": 74,
+        "novelty": 84,
+        "sourceQuality": 82,
+        "personalRelevance": 46,
+        "contrast": 86
+      },
+      "claims": [
+        {
+          "text": "eSafetys rapport viser, at andelen af australske under-16-årige med egne konti på sociale medier faldt fra 52 til 42 procent, mens mere end otte ud af ti stadig bruger sociale medier tre måneder efter forbuddet.",
+          "confidence": "high",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/tre-maaneder-efter-forbud-er-8-ud-af-10-australske-teenagere-stadig-paa-sociale-medier"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "title": "Tre måneder efter forbud er 8 ud af 10 australske teenagere stadig på sociale medier",
+          "url": "https://www.dr.dk/nyheder/udland/tre-maaneder-efter-forbud-er-8-ud-af-10-australske-teenagere-stadig-paa-sociale-medier",
+          "publisher": "DR",
+          "kind": "reporting",
+          "publishedAt": "2026-08-02T03:30:00Z"
+        }
+      ],
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Anthony_Albanese_portrait_%28re-crop%29.jpg",
+        "alt": "Portræt af Australiens premierminister Anthony Albanese, som annoncerede forbuddet mod sociale medier for unge under 16 år.",
+        "credit": "Foto: Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anthony_Albanese_portrait_(re-crop).jpg"
+      }
+    },
+    {
+      "id": "story-cyclorphin-danmark-20260803",
+      "eventKey": "dk-cyclorphin-foerste-fund",
+      "section": "Danmark",
+      "isLead": false,
+      "isOutsideProfile": false,
+      "headline": "Under obduktion fandt Jørgen nyt og livsfarligt stof: Myndighederne advarer",
+      "subheadline": "Sundhedsstyrelsen advarede fredag om cyclorphin, der er fundet i Danmark i to tilfælde — det ene i en afdød person.",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/under-obduktion-fandt-joergen-nyt-og-livsfarligt-stof-myndighederne-advarer",
+      "body": [
+        "Det syntetiske opioid cyclorphin er for første gang fundet i Danmark — i en narkoransagning og i en afdød person. Sundhedsstyrelsen sendte fredag en advarsel ud, fordi der på grund af stoffets styrke skal meget små mængder til at forårsage akutte forgiftninger.",
+        "Bag obduktionen står Jørgen Bo Hasselstrøm, seniorforsker og retskemiker på Aarhus Universitet. »Det er meget potent. I hvert fald mindst lige så potent som fentanyl, som er cirka 100 gange så potent som morfin,« siger han til DR."
+      ],
+      "whyItMatters": "Det er den ordinære danske nyhed, man bliver spurgt om: et nyt stof, som pårørende og arbejdspladser ikke kender navnet på endnu, og hvor styrken gør en fejldosering til en dødsulykke.",
+      "analysis": "Detektionen er det interessante. Stoffet blev ikke fundet, fordi nogen ledte efter det, men fordi en analyse fangede noget ukendt.",
+      "topics": [
+        "sundhed",
+        "kriminalitet",
+        "danmark",
+        "opioider"
+      ],
+      "entities": [
+        "Sundhedsstyrelsen",
+        "Jørgen Bo Hasselstrøm",
+        "Aarhus Universitet",
+        "Institut for Retsmedicin"
+      ],
+      "materialFacts": [
+        "Cyclorphin er for første gang fundet i Danmark, i to tilfælde",
+        "Sundhedsstyrelsen sendte fredag en advarsel ud",
+        "Stoffet beskrives som mindst lige så potent som fentanyl"
+      ],
+      "scores": {
+        "importance": 68,
+        "decisionValue": 58,
+        "novelty": 80,
+        "sourceQuality": 84,
+        "personalRelevance": 60,
+        "contrast": 58
+      },
+      "claims": [
+        {
+          "text": "Det syntetiske opioid cyclorphin er for første gang fundet i Danmark, i to tilfælde, hvoraf det ene var i en afdød person, og Sundhedsstyrelsen udsendte fredag en advarsel.",
+          "confidence": "high",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/under-obduktion-fandt-joergen-nyt-og-livsfarligt-stof-myndighederne-advarer"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "title": "Under obduktion fandt Jørgen nyt og livsfarligt stof: Myndighederne advarer",
+          "url": "https://www.dr.dk/nyheder/indland/under-obduktion-fandt-joergen-nyt-og-livsfarligt-stof-myndighederne-advarer",
+          "publisher": "DR",
+          "kind": "reporting",
+          "publishedAt": "2026-08-02T18:04:00Z"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/f5plu0ny/000_1ke143_crop001.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "alt": "Arkivfoto anvendt af DR til historien om det syntetiske opioid cyclorphin, der for første gang er fundet i Danmark.",
+        "credit": "Kilde: DR (foto: Eric Baradat, AFP/Ritzau Scanpix)",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/under-obduktion-fandt-joergen-nyt-og-livsfarligt-stof-myndighederne-advarer"
+      }
+    },
+    {
+      "id": "story-fifa-infantino-schweiz-20260803",
+      "eventKey": "fifa-ffe-infantino-mistillid",
+      "section": "Sport",
+      "isLead": false,
+      "isOutsideProfile": false,
+      "headline": "Selv på Infantinos hjemmebane rasler de med sablen trods skrinlagt plan",
+      "subheadline": "Det schweiziske forbund og de europæiske ligaer vender sig mod Fifa-præsidenten, efter at milliardplanen blev lagt frem uden om forbundets hovedorganer.",
+      "primarySourceUrl": "https://www.dr.dk/sporten/selv-paa-infantinos-hjemmebane-rasler-de-med-sablen-trods-skrinlagt-plan",
+      "body": [
+        "Fifa meddelte tirsdag, at forbundet ville rejse 4,2 milliarder dollar — 27,6 milliarder kroner — til et kommercielt selskab ved navn Fifa Forward Enterprise. Planen er nu skrinlagt, men kritikken er ikke stoppet.",
+        "Uefa har mistet tilliden til Gianni Infantino som præsident, og nu vender også hans schweiziske bagland sig. Claudius Schäfer, der står i spidsen for de europæiske ligaer og det schweiziske forbund, siger til DR: »Da jeg så, hvordan alt det her udfoldede sig, og at Fifas hovedorganer ikke var involveret, så er der til syvende og sidst kun én konsekvens i enhver virksomhed eller organisation.«"
+      ],
+      "whyItMatters": "En governance-sag forklædt som sport: en ledelse rejser kapital i milliardklassen uden om de organer, der skal godkende det.",
+      "analysis": "At kritikken fortsætter, efter at planen er trukket tilbage, er signalet. Havde sagen handlet om selskabet, var den slut. Nu handler den om mandatet.",
+      "topics": [
+        "fodbold",
+        "governance",
+        "fifa",
+        "schweiz"
+      ],
+      "entities": [
+        "Fifa",
+        "Gianni Infantino",
+        "Uefa",
+        "Claudius Schäfer",
+        "Fifa Forward Enterprise"
+      ],
+      "materialFacts": [
+        "Fifa ville rejse 4,2 milliarder dollar (27,6 milliarder kroner) til selskabet Fifa Forward Enterprise",
+        "Selskabet skulle værdiansættes til omkring 20 milliarder dollar (131 milliarder kroner)",
+        "Det schweiziske forbund og de europæiske ligaer kritiserer Infantino, efter at planen er skrinlagt"
+      ],
+      "scores": {
+        "importance": 62,
+        "decisionValue": 48,
+        "novelty": 72,
+        "sourceQuality": 82,
+        "personalRelevance": 74,
+        "contrast": 62
+      },
+      "claims": [
+        {
+          "text": "Fifa meddelte tirsdag en plan om at rejse 4,2 milliarder dollar til selskabet Fifa Forward Enterprise med en værdiansættelse på omkring 20 milliarder dollar, og planen er siden skrinlagt.",
+          "confidence": "high",
+          "sourceUrls": [
+            "https://www.dr.dk/sporten/selv-paa-infantinos-hjemmebane-rasler-de-med-sablen-trods-skrinlagt-plan"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "title": "Selv på Infantinos hjemmebane rasler de med sablen trods skrinlagt plan",
+          "url": "https://www.dr.dk/sporten/selv-paa-infantinos-hjemmebane-rasler-de-med-sablen-trods-skrinlagt-plan",
+          "publisher": "DR",
+          "kind": "reporting",
+          "publishedAt": "2026-08-02T15:18:50Z"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/dfeie1w4/20260801-122153-l.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "alt": "Foto anvendt af DR til historien om Fifa-præsident Gianni Infantino og den skrinlagte plan om selskabet Fifa Forward Enterprise.",
+        "credit": "Kilde: DR",
+        "sourceUrl": "https://www.dr.dk/sporten/selv-paa-infantinos-hjemmebane-rasler-de-med-sablen-trods-skrinlagt-plan"
+      }
+    },
+    {
+      "id": "story-tdf-femmes-etape2-wiebes-20260803",
+      "eventKey": "tdf-femmes-2026-etape2",
+      "section": "Sport",
+      "isLead": false,
+      "isOutsideProfile": false,
+      "headline": "Ny magtdemonstration af den gule trøje",
+      "subheadline": "Lorena Wiebes vandt også 2. etape af Tour de France Femmes. Amalie Dideriksen kom i mål som nummer 93.",
+      "primarySourceUrl": "https://sport.tv2.dk/live/cykling/2026-08-02-ny-magtdemonstration-af-den-gule-troeje",
+      "body": [
+        "Lorena Wiebes var helt og aldeles overlegen i massespurten på 2. etape af Tour de France Femmes, der blev afgjort i den schweiziske by Genève. Den hollandske sprinter fra SD Worx har dermed vundet begge etaper i årets udgave og beholder den gule trøje. Elisa Balsamo fra Lidl-Trek og Marianne Vos fra Visma kom i mål på de efterfølgende pladser.",
+        "Fra dansk side var der ikke meget at hente. Amalie Dideriksen kom i mål som nummer 93, mere end syv minutter efter Wiebes."
+      ],
+      "whyItMatters": "To spurtetaper afgør ingenting samlet. Men to sejre ud af to siger noget om SD Worx' kontrol over feltets afslutninger, og det former, hvordan de øvrige hold må køre, når bjergene kommer.",
+      "analysis": "Wiebes vinder ikke løbet på flade etaper, og den gule trøje skifter, når terrænet gør. Det, der er værd at følge, er om holdet kan holde sammen på feltet lige så effektivt uden den hurtigste rytter tilbage.",
+      "topics": [
+        "cykling",
+        "tour de france femmes",
+        "danskere"
+      ],
+      "entities": [
+        "Lorena Wiebes",
+        "SD Worx",
+        "Elisa Balsamo",
+        "Marianne Vos",
+        "Amalie Dideriksen",
+        "Genève"
+      ],
+      "materialFacts": [
+        "Lorena Wiebes vandt 2. etape af Tour de France Femmes i massespurt i Genève",
+        "Wiebes har vundet begge etaper og beholder den gule trøje",
+        "Amalie Dideriksen kom i mål som nummer 93, mere end syv minutter efter"
+      ],
+      "scores": {
+        "importance": 44,
+        "decisionValue": 30,
+        "novelty": 62,
+        "sourceQuality": 78,
+        "personalRelevance": 84,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Lorena Wiebes vandt 2. etape af Tour de France Femmes i massespurt i Genève, har vundet begge etaper og beholder den gule trøje, mens Amalie Dideriksen blev nummer 93.",
+          "confidence": "high",
+          "sourceUrls": [
+            "https://sport.tv2.dk/live/cykling/2026-08-02-ny-magtdemonstration-af-den-gule-troeje"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "title": "Ny magtdemonstration af den gule trøje",
+          "url": "https://sport.tv2.dk/live/cykling/2026-08-02-ny-magtdemonstration-af-den-gule-troeje",
+          "publisher": "TV 2 Sport",
+          "kind": "reporting",
+          "publishedAt": "2026-08-02T12:54:45Z"
+        }
+      ],
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/7/7/d/77d7d95e-5074-4861-8d65-f2c06b49cf7e?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCw2NiwyOTc4LDE2Nzg&s=3ef9e150e73b85f7b00f1a431a55f0f3",
+        "alt": "TV 2's billede til historien om Lorena Wiebes' sejr på 2. etape af Tour de France Femmes.",
+        "credit": "Kilde: TV 2 Sport",
+        "sourceUrl": "https://sport.tv2.dk/live/cykling/2026-08-02-ny-magtdemonstration-af-den-gule-troeje"
+      }
+    }
+  ],
+  "signals": [
+    {
+      "text": "Overblik: Se efterårets politiske kalender",
+      "headline": "Overblik: Se efterårets politiske kalender",
+      "url": "https://www.altinget.dk/artikel/her-er-efteraarets-politiske-kalender",
+      "summary": "Altingets navne- og kalenderredaktion samler efterårets politiske landsmøder, folkemøder og KL-konferencer i dansk og europæisk politik ét sted.",
+      "publisher": "Altinget",
+      "section": "Politik",
+      "publishedAt": "2026-08-03T03:00:00Z"
+    },
+    {
+      "text": "Ti organisationer: I dag gavner verdens skatteregler kun de rigeste. Det skal være slut",
+      "headline": "Ti organisationer: I dag gavner verdens skatteregler kun de rigeste. Det skal være slut",
+      "url": "https://www.altinget.dk/artikel/ti-organisationer-de-nuvaerende-skatteregler-gavner-de-rigeste-det-skal-vaere-slut",
+      "summary": "Kronik forud for forhandlingerne i New York om en ny FN-skattekonvention. De ti afsendere mener, at de nuværende OECD-udviklede regler tilgodeser multinationale selskaber, og at nye regler også vil gavne Danmark.",
+      "publisher": "Altinget",
+      "section": "Skat",
+      "publishedAt": "2026-08-03T00:00:00Z"
+    },
+    {
+      "text": "Tøj fra kinesiske Shein bliver solgt som 'vintage'",
+      "headline": "Tøj fra kinesiske Shein bliver solgt som 'vintage'",
+      "url": "https://www.dr.dk/nyheder/indland/toej-fra-kinesiske-shein-bliver-solgt-som-vintage",
+      "summary": "DR fandt på få timers research ti eksempler på Vinted, hvor tøj magen til Sheins sælges som vintage — og til op til 260 kroner mod 7-70 kroner, når Shein er angivet som mærke. Forbrugerrådet Tænk kalder annoncerne misvisende.",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-08-03T04:00:00Z"
+    },
+    {
+      "text": "En person er anholdt efter flere påsatte brande i Tingbjerg",
+      "headline": "En person er anholdt efter flere påsatte brande i Tingbjerg",
+      "url": "https://www.dr.dk/nyheder/indland/en-person-er-anholdt-efter-flere-paasatte-brande-i-tingbjerg",
+      "summary": "Anholdelsen følger efter en skudepisode og påsatte brande i containere og biler i bydelen.",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-08-03T01:52:25Z"
+    },
+    {
+      "text": "Efter 'afblæst angreb' begynder forhandlinger med Iran ifølge Trump i dag",
+      "headline": "Efter 'afblæst angreb' begynder forhandlinger med Iran ifølge Trump i dag",
+      "url": "https://www.dr.dk/nyheder/udland/efter-afblaest-angreb-begynder-forhandlinger-med-iran-ifoelge-trump-i-dag",
+      "summary": "USA og Israel dropper ifølge Trump et planlagt angreb mod Iran, og forhandlinger skal efter hans udsagn begynde mandag.",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-08-02T23:07:26Z"
+    },
+    {
+      "text": "Iran-krigen: Medieforlydende om aftale sænker oliepriserne seks procent i søndagshandel",
+      "headline": "Iran-krigen: Medieforlydende om aftale sænker oliepriserne seks procent i søndagshandel",
+      "url": "https://ugebrev.dk/flashnews/iran-krigen-medieforlydende-om-aftale-saenker-oliepriserne-seks-procent-i-soendagshandel/",
+      "summary": "Olieprisen faldt seks procent i søndagshandelen på forlydender om en aftale. Bekymringen har været, at en ny angrebsrunde kunne udløse en bredere regional konflikt.",
+      "publisher": "Økonomisk Ugebrev",
+      "section": "Økonomi",
+      "publishedAt": "2026-08-02T15:33:24Z"
+    },
+    {
+      "text": "Den 30-årige US-statsrente lægger nu faretruede afstand til centralt pejlemærke",
+      "headline": "Den 30-årige US-statsrente lægger nu faretruede afstand til centralt pejlemærke",
+      "url": "https://ugebrev.dk/flashnews/den-30-aarige-us-statsrente-laegger-nu-faretruede-afstand-til-centralt-pejlemaerke/",
+      "summary": "Økonomisk Ugebrev peger på, at den stigende amerikanske statsrente kan skabe revner i aktiemarkedet gennem højere finansieringsomkostninger for både erhvervsliv og statsgæld.",
+      "publisher": "Økonomisk Ugebrev",
+      "section": "Økonomi",
+      "publishedAt": "2026-08-02T10:49:45Z"
+    },
+    {
+      "text": "De Konservative foreslår statslig milliardordre på grønt flybrændstof",
+      "headline": "De Konservative foreslår statslig milliardordre på grønt flybrændstof",
+      "url": "https://www.dr.dk/nyheder/seneste/de-konservative-foreslaar-statslig-milliardordre-paa-groent-flybraendstof",
+      "summary": "Staten skal ifølge forslaget købe grønt flybrændstof for to milliarder kroner om året for at sætte skub i den danske produktion.",
+      "publisher": "DR",
+      "section": "Politik",
+      "publishedAt": "2026-08-02T21:19:30Z"
+    },
+    {
+      "text": "Danmark vil øge militær tilstedeværelse på Færøerne",
+      "headline": "Danmark vil øge militær tilstedeværelse på Færøerne",
+      "url": "https://www.dr.dk/nyheder/seneste/danmark-vil-oege-militaer-tilstedevaerelse-paa-faeroeerne",
+      "summary": "Danmark skal i fremtiden have en større militær tilstedeværelse på Færøerne.",
+      "publisher": "DR",
+      "section": "Politik",
+      "publishedAt": "2026-08-02T15:06:51Z"
+    },
+    {
+      "text": "Italienske styrker går ombord på tankskib mistænkt for at tilhøre russisk skyggeflåde",
+      "headline": "Italienske styrker går ombord på tankskib mistænkt for at tilhøre russisk skyggeflåde",
+      "url": "https://www.dr.dk/nyheder/seneste/italienske-styrker-gaar-ombord-paa-tankskib-mistaenkt-tilhoere-russisk-skyggeflaade",
+      "summary": "Italienske styrker er gået om bord på et tankskib, der mistænkes for at tilhøre den russiske skyggeflåde.",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-08-02T15:41:34Z"
+    },
+    {
+      "text": "Dansk otter tager bronze med hjem fra EM i roning",
+      "headline": "Dansk otter tager bronze med hjem fra EM i roning",
+      "url": "https://www.dr.dk/sporten/seneste-sport/dansk-otter-tager-bronze-med-hjem-fra-em-i-roning",
+      "summary": "Danmark tog bronze i den nye kategori mixed otter med styrmand. Det var ifølge Dansk Forening for Rosport første gang, Danmark tog en medalje i en bådklasse på tværs af køn.",
+      "publisher": "DR",
+      "section": "Sport",
+      "publishedAt": "2026-08-02T15:28:23Z"
+    },
+    {
+      "text": "De 10 mest indtjenende musikere: Hitsene er på dansk",
+      "headline": "De 10 mest indtjenende musikere: Hitsene er på dansk",
+      "url": "https://ugebrev.dk/flashnews/de-10-mest-indtjenende-musikere-hitsene-er-paa-dansk/",
+      "summary": "Ni ud af ti sange på Kodas liste over de mest indtjenende danske musiknumre i 2025 har danske tekster. Blæst ligger nummer et med 'Elsker dig så meget'.",
+      "publisher": "Økonomisk Ugebrev",
+      "section": "Kultur",
+      "publishedAt": "2026-08-02T13:30:16Z"
+    }
+  ],
+  "column": {
+    "authoredBy": "ai",
+    "slug": "det-uigenkaldelige",
+    "title": "Det uigenkaldelige",
+    "thesis": "Vi skalerer vores forsigtighed efter hvor stor en beslutning er, og det er den forkerte målestok — det afgørende er, om den kan gøres om.",
+    "body": [
+      "Organisationer bruger deres grundigste procedurer på det dyre. Store beløb udløser analyser, styregrupper og bestyrelsesbehandling; små beløb klares på en eftermiddag. Men pris og fortrydelighed er to forskellige akser, og de falder kun tilfældigvis sammen. En stor investering i noget, der kan sælges igen, er en billig fejl. En lille beslutning om at lukke en funktion eller opgive en tilstedeværelse i et land kan være umulig at rulle tilbage, fordi det, der forsvandt, ikke var aktivet, men de relationer, der gjorde aktivet brugbart.",
+      "Jeg mener, den rigtige regel er: brug tiden dér, hvor døren lukker bag jer. Alt andet bør gå hurtigere, end det føles rart."
+    ],
+    "uncertainty": "Det, der ville vise mig at tage fejl, er, hvis reversibilitet er for svær at bedømme på forhånd. Kan ledelser ikke skelne pålideligt mellem det, der kan gøres om, og det, der ikke kan, er ensartet grundighed efter beløbsstørrelse den mere robuste regel.",
+    "topics": [
+      "beslutninger",
+      "risiko",
+      "ledelse"
+    ]
+  },
+  "recommendations": [
+    {
+      "id": "rec-wto-tariff-profiles-2026",
+      "mode": "try",
+      "kind": "Rapport",
+      "status": "new",
+      "title": "World Tariff Profiles 2026",
+      "creator": "WTO, International Trade Centre og UNCTAD",
+      "provider": "World Trade Organization",
+      "url": "https://www.wto.org/english/res_e/publications_e/world-tariff-profiles-2026_e.htm",
+      "availability": "Gratis PDF samt Excel-tabeller og landeprofiler i HTML. Trykt udgave kan købes i WTO's boghandel. Siden angiver udgivelsesår 2026, ikke måned.",
+      "commitment": "20 minutter for egne markeder",
+      "description": "WTO's årlige opslagsværk med bundne og anvendte toldsatser samt ikke-toldmæssige barrierer for over 150 økonomier. Hvert land har en etsidersprofil med produktopdeling, og tallene findes også som Excel-tabeller.",
+      "rationale": "Det er ikke læsestof, det er et arbejdsredskab til en rådgivningspraksis: slå en kundes marked op og se den faktiske toldmur i stedet for at citere overskrifter. Excel-tabellerne gør det muligt at bygge egne sammenligninger mellem EU, USA, Indien og Brasilien uden abonnement.",
+      "topics": [
+        "told",
+        "handelsdata",
+        "eksport",
+        "emerging markets"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://www.wto.org/images/img_bkshop/tariffprofiles2026.jpg",
+        "alt": "Forsiden af WTO-publikationen World Tariff Profiles 2026.",
+        "credit": "Kilde: World Trade Organization",
+        "sourceUrl": "https://www.wto.org/english/res_e/publications_e/world-tariff-profiles-2026_e.htm"
+      }
+    },
+    {
+      "id": "rec-bruegel-china-shock-20",
+      "mode": "listen",
+      "kind": "Podcast",
+      "status": "timely",
+      "title": "Europe's China shock 2.0",
+      "creator": "Yuyun Zhan og Alicia García-Herrero med gæsten Philippe Le Corre",
+      "provider": "Bruegel",
+      "url": "https://www.bruegel.org/podcast/europes-china-shock-20",
+      "availability": "Gratis, uden login, tilgængelig globalt. Udgivet 23. juni 2026.",
+      "commitment": "Et afsnit til køreturen",
+      "description": "Bruegel-afsnit om Kinas rekordstore handelsoverskud og presset på europæisk kemi, grøn teknologi, medicin og bilindustri. Om EU's handelsinstrumenter rækker, hvor medlemslandene er uenige, og hvordan frygt for kinesisk gengældelse binder Bruxelles.",
+      "rationale": "Præcis det bord, han sad ved i DI og i BusinessEurope: hvem i EU-kredsen der tør bruge instrumenterne, og hvem der holder igen af frygt for modsvar. Bruegel siger det skarpere, end en officiel dansk kilde kan tillade sig.",
+      "topics": [
+        "eu-kina",
+        "handelspolitik",
+        "industri",
+        "eu-konkurrenceevne"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://www.bruegel.org/sites/default/files/styles/og_image/public/2026-06/GettyImages-2282075969.jpg?itok=4koW1TMk",
+        "alt": "Bruegels billede til podcastafsnittet om Europas anden Kina-chok.",
+        "credit": "Kilde: Bruegel",
+        "sourceUrl": "https://www.bruegel.org/podcast/europes-china-shock-20"
+      }
+    },
+    {
+      "id": "rec-cosmos-village-ai-agents",
+      "mode": "read",
+      "kind": "Essay",
+      "status": "new",
+      "title": "We Gave a Village Personal AI Agents. Here's What Happened",
+      "creator": "Timour Kosters, Harry Law og Ivan Vendrov",
+      "provider": "Cosmos Institute",
+      "url": "https://blog.cosmos-institute.org/p/we-gave-a-village-personal-ai-agents",
+      "availability": "Gratis at læse, ingen betalingsmur. Udgivet 31. juli 2026.",
+      "commitment": "15 minutter",
+      "description": "Rapport fra Edge Esmeralda, en midlertidig landsby i Californien, hvor 239 deltagere hver fik en vedvarende AI-agent via Telegram. Agenterne forhandlede indbyrdes om at koble folk sammen, og forfatterne gør op, hvad der faktisk kom ud af det.",
+      "rationale": "Et faktisk feltforsøg frem for endnu en AI-prognose, og pointen er organisatorisk snarere end teknisk: at hver agent var nyttig for sin ejer, gav ikke et bedre fællesskab. Brugbar skepsis, hvis han skal rådgive en virksomhed om at indføre AI-assistenter. Cosmos er en missionsdrevet udgiver med en erklæret position, så læs det som argument.",
+      "topics": [
+        "kunstig intelligens",
+        "feltforsøg",
+        "organisation"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {
+    "sourceQuality": 84,
+    "verification": 92,
+    "outsideProfile": 100
+  }
+}
