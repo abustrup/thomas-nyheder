@@ -1,0 +1,909 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-08-07-r1",
+  "date": "2026-08-07",
+  "generatedAt": "2026-08-07T04:30:00.000Z",
+  "readingMinutes": 12,
+  "title": "Thomas' Nyheder — fredag den 7. august 2026",
+  "dek": "Havvindudbuddet er afgjort, men striden om hvem der leverer møllerne begynder først nu. En muslingefabrik på Mors står stille på grund af en EU-regel, ingen har ændret. Og Pandora skifter finansdirektør.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "quality": {
+    "sourceQuality": 84,
+    "verification": 93,
+    "outsideProfile": 100
+  },
+  "stories": [
+    {
+      "id": "thomas-20260807-havvind-leverandoerkaede",
+      "eventKey": "green-power-denmark-havvind-milliarder-europaeisk-vaerdikaede-kina",
+      "materialFacts": [
+        "Green Power Denmark opgør beskæftigelsen ved Nordsøen Midt og Hesselø til mindst 8.100 årsværk under opførelsen",
+        "Beregningen bygger på en kommende rapport, der sætter én gigawatt havvind i danske farvande til mindst 4.500 årsværk alene i anlægsfasen",
+        "Politisk direktør Thomas Aarestrup Jepsen afviser kinesiske møller i de to projekter",
+        "Kravene stammer fra Lov om styrket beredskab i energisektoren, som implementerer EU's NIS2- og CER-direktiver, og myndighederne fører tilsyn"
+      ],
+      "section": "Energi",
+      "headline": "Danske havvindmilliarder skal styrke Europa – ikke Kina",
+      "primarySourceUrl": "https://greenpowerdenmark.dk/nyheder/danske-havvindmilliarder-skal-styrke-europa-ikke-kina",
+      "subheadline": "Vattenfall vandt udbuddene. Nu handler striden om, hvem der leverer møllerne, og brancheorganisationen afviser kinesiske producenter med henvisning til beredskabsloven.",
+      "body": [
+        "Vattenfall vandt udbuddene af havvindparkerne Nordsøen Midt og Hesselø. Green Power Denmark flytter nu opmærksomheden til det, udbuddet ikke afgjorde: hvem der skal levere møllerne. Brancheorganisationens politiske direktør, Thomas Aarestrup Jepsen, siger, at han ikke kan forestille sig kinesiske møller i de to projekter.",
+        "Begrundelsen er både juridisk og industripolitisk. Den vindende byder skal leve op til Lov om styrket beredskab i energisektoren, der implementerer EU's NIS2- og CER-direktiver, og myndighederne fører tilsyn. Aarestrup Jepsen taler om risikoen for at give Beijing en digital afbryderknap til dansk energiproduktion."
+      ],
+      "whyItMatters": "Beskæftigelsen er det andet argument. En kommende rapport sætter én gigawatt havvind i danske farvande til mindst 4.500 årsværk alene i anlægsfasen, og de to parker på tilsammen 1,8 GW dermed mindst 8.100.",
+      "analysis": "Hjemlen er det interessante. Beredskabsloven flytter en del af spørgsmålet fra udbudsret til sikkerhedstilsyn, men organisationen mener ikke, den rækker: den efterlyser klarere regler i kommende politiske aftaler, fastsat på EU-niveau.",
+      "counterpoint": "Tallene stammer fra en rapport, der endnu ikke er udgivet, og han taler for en branche, der leverer alternativet.",
+      "image": {
+        "url": "https://greenpowerdenmark.dk/files/styles/open_graph/public/media/image/Vestas%20offshore%20vindm%C3%B8lle%20V236-15.jpg?itok=iMOMqyj6",
+        "credit": "Kilde: Green Power Denmark. Arkivbillede: Vestas",
+        "alt": "Havvindmøllepark på havet i en visualisering, som Green Power Denmark bruger til artiklen om leverandørerne til Nordsøen Midt og Hesselø.",
+        "sourceUrl": "https://greenpowerdenmark.dk/nyheder/danske-havvindmilliarder-skal-styrke-europa-ikke-kina"
+      },
+      "topics": [
+        "havvind",
+        "industripolitik",
+        "kina",
+        "kritisk infrastruktur",
+        "leverandørkæde"
+      ],
+      "entities": [
+        "Green Power Denmark",
+        "Thomas Aarestrup Jepsen",
+        "Vattenfall",
+        "Nordsøen Midt",
+        "Hesselø",
+        "Kina"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 78,
+        "decisionValue": 82,
+        "novelty": 74,
+        "sourceQuality": 72,
+        "personalRelevance": 96,
+        "contrast": 76
+      },
+      "claims": [
+        {
+          "text": "Green Power Denmarks politiske direktør Thomas Aarestrup Jepsen siger, at han ikke kan forestille sig kinesiske møller i de to projekter",
+          "sourceUrls": [
+            "https://greenpowerdenmark.dk/nyheder/danske-havvindmilliarder-skal-styrke-europa-ikke-kina"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Den vindende byder skal leve op til Lov om styrket beredskab i energisektoren, som implementerer EU's NIS2- og CER-direktiver, og myndighederne fører tilsyn med kravene",
+          "sourceUrls": [
+            "https://greenpowerdenmark.dk/nyheder/danske-havvindmilliarder-skal-styrke-europa-ikke-kina"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "En kommende rapport sætter én gigawatt havvind i danske farvande til mindst 4.500 årsværk i anlægsfasen, og de to parker på 1,8 GW til mindst 8.100 årsværk",
+          "sourceUrls": [
+            "https://greenpowerdenmark.dk/nyheder/danske-havvindmilliarder-skal-styrke-europa-ikke-kina"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Danske havvindmilliarder skal styrke Europa – ikke Kina",
+          "publisher": "Green Power Denmark",
+          "url": "https://greenpowerdenmark.dk/nyheder/danske-havvindmilliarder-skal-styrke-europa-ikke-kina",
+          "publishedAt": "2026-08-06T11:58:28.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-20260807-vilsund-blue-sorteringskrav",
+      "eventKey": "vilsund-blue-muslingefiskeri-eu-sorteringskrav-produktionsstop",
+      "materialFacts": [
+        "Fiskerikontrollen kræver nu, at hele fangsten sorteres i hver sin kategori af marine arter, ikke kun de salgsmodne muslinger",
+        "Direktør Poul Kærgaard har foreløbig sendt 50 ansatte hjem",
+        "Fiskeristyrelsen har forgæves forsøgt at få en stikprøveordning godkendt i EU, som har afvist at tage stilling, fordi nye regler kommer i 2027",
+        "Miljøstyrelsen er fortsat i dialog med EU-Kommissionen om en løsning",
+        "96 procent af de muslinger, der skrabes på dansk havbund og landes hos Vilsund Blue, eksporteres"
+      ],
+      "section": "Erhverv",
+      "headline": "Slut med moules frites fra Danmark? 'Hul i hovedet-krav' gør udskældt fiskeri umuligt",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/slut-med-moules-frites-fra-danmark-hul-i-hovedet-krav-goer-udskaeldt-fiskeri-umuligt",
+      "subheadline": "Danmarks største muslingeproducent har lagt skraberne i havn. Ingen ny lov er vedtaget, kun en ny håndhævelse af en gammel EU-regel, som hverken styrelsen eller Kommissionen kan lempe lige nu.",
+      "body": [
+        "Hos Danmarks største muslingeproducent, Vilsund Blue på Mors, er der usædvanligt stille. Skraberne er sejlet i havn, efter fiskerikontrollen for et par uger siden krævede, at hele fangsten sorteres i hver sin kategori af marine arter. Poul Kærgaard har foreløbig sendt 50 ansatte hjem.",
+        "Ingen ny lov er vedtaget. Fiskeristyrelsen har forsøgt at få en stikprøveordning godkendt i EU, men EU afviste at tage stilling, fordi der kommer nye regler i 2027. Direktøren siger, der skal være en løsning inden midt september, ellers bliver virksomheden efter hans ord udfaset som leverandør i Frankrig."
+      ],
+      "whyItMatters": "96 procent af muslingerne fra Vilsund Blue eksporteres. Det er regelbyrde i ren form: samme regel, ny håndhævelse.",
+      "analysis": "Sagen handler ikke om regelmængde, men om fortolkningsrum: en styrelse kan stramme en praksis, den ikke selv kan lempe uden Kommissionen. DR bemærker, at det ikke er højsæson nu.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/muuhetcx/muslinger_2_adobe-stock-gul.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Arkivfoto af blåmuslinger anvendt af DR til historien om produktionsstoppet hos Vilsund Blue på Mors.",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/slut-med-moules-frites-fra-danmark-hul-i-hovedet-krav-goer-udskaeldt-fiskeri-umuligt"
+      },
+      "topics": [
+        "regelbyrde",
+        "eu-regulering",
+        "fiskeri",
+        "fødevareeksport",
+        "erhvervsvilkår"
+      ],
+      "entities": [
+        "Vilsund Blue",
+        "Poul Kærgaard",
+        "Fiskeristyrelsen",
+        "Maria Reumert Gjerding",
+        "Miljøstyrelsen",
+        "Mors"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 70,
+        "decisionValue": 74,
+        "novelty": 76,
+        "sourceQuality": 84,
+        "personalRelevance": 90,
+        "contrast": 78
+      },
+      "claims": [
+        {
+          "text": "Fiskerikontrollen kræver nu, at al fangst sorteres i hver sin kategori af marine arter, og Vilsund Blues direktør har sendt 50 ansatte hjem",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/slut-med-moules-frites-fra-danmark-hul-i-hovedet-krav-goer-udskaeldt-fiskeri-umuligt"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Fiskeristyrelsen har forsøgt at få en stikprøveordning godkendt i EU, men EU har afvist at tage stilling, fordi der kommer nye regler i 2027",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/slut-med-moules-frites-fra-danmark-hul-i-hovedet-krav-goer-udskaeldt-fiskeri-umuligt"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "96 procent af de muslinger, der skrabes på dansk havbund og landes hos Vilsund Blue, eksporteres, og direktøren siger, der skal være en løsning inden midt september",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/slut-med-moules-frites-fra-danmark-hul-i-hovedet-krav-goer-udskaeldt-fiskeri-umuligt"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Slut med moules frites fra Danmark? 'Hul i hovedet-krav' gør udskældt fiskeri umuligt",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/slut-med-moules-frites-fra-danmark-hul-i-hovedet-krav-goer-udskaeldt-fiskeri-umuligt",
+          "publishedAt": "2026-08-05T18:00:00.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-20260807-pandora-cfo",
+      "eventKey": "pandora-cfo-skifte-anders-boyer-paulo-garcia",
+      "materialFacts": [
+        "Anders Boyer går på pension 30. november 2026 efter mere end 14 år i Pandora, men bliver i virksomheden indtil 31. marts 2027 for at støtte overgangen",
+        "Paulo Garcia tiltræder 1. oktober 2026 og overtager CFO-rollen 1. december 2026",
+        "Garcia kommer fra posten som CFO i Walmart Mexico & Central America, et selvstændigt børsnoteret selskab med 50 mia. dollar i omsætning og 240.000 ansatte",
+        "Boyer kom i Pandoras bestyrelse i 2012 og blev udnævnt til CFO i 2018"
+      ],
+      "section": "Navne",
+      "headline": "Pandora udnævner Paulo Garcia som ny CFO, da Anders Boyer går på pension",
+      "primarySourceUrl": "https://ugebrev.dk/flashnews/pandora-udnaevner-paulo-garcia-som-ny-cfo-da-anders-boyer-gaar-paa-pension/",
+      "subheadline": "En af de mest profilerede finansdirektører i dansk børsnoteret erhvervsliv stopper. Efterfølgeren kommer fra Walmarts mexicanske selskab og tiltræder allerede 1. oktober.",
+      "body": [
+        "Pandora har udpeget portugisiske Paulo Garcia til ny finansdirektør. Anders Boyer går på pension 30. november 2026 efter mere end 14 år i selskabet. Garcia tiltræder 1. oktober og overtager CFO-rollen 1. december, og Boyer bliver i virksomheden indtil 31. marts 2027 for at støtte overgangen.",
+        "Han kommer fra posten som CFO i Walmart Mexico & Central America, et selvstændigt børsnoteret datterselskab med 50 milliarder dollar i omsætning og 240.000 ansatte. Boyer kom i Pandoras bestyrelse i 2012 og blev CFO i 2018."
+      ],
+      "whyItMatters": "Boyer er et af de navne, danske bestyrelser bruger som reference, når de leder efter en finansdirektør. Når han træder ud, flytter det på listen over, hvem der er ledig.",
+      "analysis": "Bestyrelsesformand Peter Ruzicka fremhæver, at successionen er forberedt sammen med adm. direktør Berta de Pablos-Barbier. Garcia er i selskabet to måneder før overtagelsen, og Boyer bliver fire måneder efter.",
+      "topics": [
+        "direktionsskifte",
+        "navnestof",
+        "børsnoteret",
+        "corporate governance"
+      ],
+      "entities": [
+        "Pandora",
+        "Anders Boyer",
+        "Paulo Garcia",
+        "Peter Ruzicka",
+        "Berta de Pablos-Barbier",
+        "Walmex"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 66,
+        "decisionValue": 80,
+        "novelty": 82,
+        "sourceQuality": 88,
+        "personalRelevance": 94,
+        "contrast": 58
+      },
+      "claims": [
+        {
+          "text": "Anders Boyer går på pension 30. november 2026, og Paulo Garcia tiltræder 1. oktober og bliver CFO 1. december 2026",
+          "sourceUrls": [
+            "https://ugebrev.dk/flashnews/pandora-udnaevner-paulo-garcia-som-ny-cfo-da-anders-boyer-gaar-paa-pension/",
+            "https://pandoragroup.com/news/27941"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Garcia kommer fra CFO-posten i Walmart Mexico & Central America med 50 mia. dollar i omsætning og 240.000 ansatte",
+          "sourceUrls": [
+            "https://pandoragroup.com/news/27941"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Boyer kom i Pandoras bestyrelse i 2012 og blev udnævnt til CFO i 2018",
+          "sourceUrls": [
+            "https://pandoragroup.com/news/27941"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pandora udnævner Paulo Garcia som ny CFO, da Anders Boyer går på pension",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/flashnews/pandora-udnaevner-paulo-garcia-som-ny-cfo-da-anders-boyer-gaar-paa-pension/",
+          "publishedAt": "2026-08-06T06:48:31.000Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Pandora appoints Paulo Garcia as new CFO as Anders Boyer will retire",
+          "publisher": "Pandora",
+          "url": "https://pandoragroup.com/news/27941",
+          "publishedAt": "2026-08-06T06:17:30.000Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "thomas-20260807-ea-pif",
+      "eventKey": "saudi-pif-konsortium-koeber-electronic-arts",
+      "materialFacts": [
+        "Electronic Arts er solgt til et konsortium med Saudi-Arabiens statslige investeringsfond PIF for 55 milliarder dollar, svarende til 356 milliarder kroner",
+        "PIF kontrolleres af Saudi-Arabiens kronprins Mohammed bin Salman",
+        "EA tages af børsen efter 36 år som børsnoteret selskab",
+        "DR beskriver handlen som en af de største i spilbranchens historie; Microsofts køb af Activision Blizzard i 2023 udgjorde 69 milliarder dollar"
+      ],
+      "section": "Udland",
+      "headline": "Oliestat opkøber spilgigant for trecifret milliardbeløb: 'Saudi-Arabien vil gerne være, hvad Hollywood er for film'",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/penge/oliestat-opkoeber-spilgigant-trecifret-milliardbeloeb-saudi-arabien-vil-gerne-vaere-hvad-hollywood",
+      "subheadline": "Saudi-Arabiens statsfond køber Electronic Arts for 356 milliarder kroner og tager selskabet af børsen efter 36 år. Spillerforeningen forsøger at få konkurrencemyndighederne til at blokere handlen.",
+      "body": [
+        "Electronic Arts er solgt til et konsortium med Saudi-Arabiens statslige investeringsfond PIF, som kontrolleres af kronprins Mohammed bin Salman. Prisen er 55 milliarder dollar, svarende til 356 milliarder kroner, og EA tages af børsen efter 36 år.",
+        "Handlen er en af de største, der nogensinde er lavet i spilbranchen. Microsofts køb af Activision Blizzard i 2023 udgjorde 69 milliarder dollar. En spillerforening opfordrer gamere til at få konkurrencemyndighederne i USA, EU og Storbritannien til at blokere handlen."
+      ],
+      "whyItMatters": "En statslig fond køber sig ind i en kulturindustri frem for i infrastruktur, altså samme statskapital, som europæiske regeringer møder i energi og forsvar.",
+      "analysis": "Ejerformen er mere interessant end prisen. Et afnoteret selskab under statsligt ejerskab har hverken kvartalsrapporter eller aktionærmøder, så myndighederne får et selskab, der fremover oplyser markant mindre om sig selv.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/ykubtzju/ea_saudi.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Foto: AFP/Ritzau Scanpix. Grafik: Søren Winther Nørbæk, DR",
+        "alt": "DR's grafik til historien om, at Electronic Arts sælges til et konsortium med Saudi-Arabiens investeringsfond PIF og tages af børsen.",
+        "sourceUrl": "https://www.dr.dk/nyheder/penge/oliestat-opkoeber-spilgigant-trecifret-milliardbeloeb-saudi-arabien-vil-gerne-vaere-hvad-hollywood"
+      },
+      "topics": [
+        "statskapital",
+        "opkøb",
+        "saudi-arabien",
+        "gaming",
+        "konkurrence"
+      ],
+      "entities": [
+        "Electronic Arts",
+        "Public Investment Fund",
+        "Mohammed bin Salman",
+        "Microsoft",
+        "Activision Blizzard",
+        "Saudi-Arabien"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 82,
+        "decisionValue": 58,
+        "novelty": 86,
+        "sourceQuality": 80,
+        "personalRelevance": 52,
+        "contrast": 88
+      },
+      "claims": [
+        {
+          "text": "Electronic Arts er solgt til et konsortium med PIF for 55 milliarder dollar, svarende til 356 milliarder kroner, og tages af børsen efter 36 år",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/oliestat-opkoeber-spilgigant-trecifret-milliardbeloeb-saudi-arabien-vil-gerne-vaere-hvad-hollywood"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "DR beskriver handlen som en af de største i spilbranchens historie, og Microsofts køb af Activision Blizzard i 2023 udgjorde 69 milliarder dollar",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/oliestat-opkoeber-spilgigant-trecifret-milliardbeloeb-saudi-arabien-vil-gerne-vaere-hvad-hollywood"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Oliestat opkøber spilgigant for trecifret milliardbeløb: 'Saudi-Arabien vil gerne være, hvad Hollywood er for film'",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/penge/oliestat-opkoeber-spilgigant-trecifret-milliardbeloeb-saudi-arabien-vil-gerne-vaere-hvad-hollywood",
+          "publishedAt": "2026-08-06T15:50:00.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-20260807-dsb-fjernbusser",
+      "eventKey": "dsb-punktlighed-passagerer-til-fjernbusser-sommer-2026",
+      "materialFacts": [
+        "61,5 procent af passagererne i DSB's fjern- og regionaltog ankom til tiden i juni 2026",
+        "DSB's kontrakt med staten kræver mindst 75 procents rettidighed",
+        "Punktligheden mellem København og Odense var nede på 34,6 procent",
+        "Kombardo Expressen havde 43 procent flere passagerer fra januar til og med juli i år end i samme periode sidste år",
+        "Banedanmark venter normale tilstande, når sporarbejdet efter planen afsluttes 16. august"
+      ],
+      "section": "Danmark",
+      "headline": "Togproblemer sender rekordmange passagerer over i busserne",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/togproblemer-sender-rekordmange-passagerer-over-i-busserne",
+      "subheadline": "DSB ramte 61,5 procents rettidighed i juni mod de 75, kontrakten med staten kræver. Fjernbusselskaberne melder om deres bedste sommer nogensinde.",
+      "body": [
+        "Sommerens sporarbejde har flyttet passagerer fra skinnerne til vejen. Kombardo Expressen, der drives af Molslinjen, havde 43 procent flere passagerer fra januar til og med juli i år end i samme periode sidste år. Flixbus i Norden kobler en bookingstigning på over 30 procent fra én uge til den næste direkte til DSB's problemer.",
+        "DSB's egne tal viser, at 61,5 procent af passagererne i fjern- og regionaltog ankom til tiden i juni. Kontrakten kræver mindst 75 procent. Mellem København og Odense var punktligheden 34,6 procent."
+      ],
+      "whyItMatters": "Banedanmark venter normale tilstande, når sporarbejdet efter planen afsluttes 16. august. Spørgsmålet er, hvor mange passagerer der kommer tilbage.",
+      "analysis": "Kontraktkravet gør tallene til andet end sommerbesvær: 61,5 mod et krav på 75 procent er et brud på det, staten har købt. Både DSB og Banedanmark peger dog på sporarbejdet som årsag, og Banedanmark tager ansvaret på sig.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/ux2j5bqk/image-4.jpg?im=AspectCrop%3D%281024%2C576%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281024%2C576%29",
+        "credit": "Foto: Charlotte Pedersen, DR",
+        "alt": "Laura Gherlan står på bussen i Odense. Hun skal nå et fly og har bevidst valgt Flixbus frem for toget.",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/togproblemer-sender-rekordmange-passagerer-over-i-busserne"
+      },
+      "topics": [
+        "transport",
+        "dsb",
+        "infrastruktur",
+        "danmark"
+      ],
+      "entities": [
+        "DSB",
+        "Banedanmark",
+        "Kombardo Expressen",
+        "Molslinjen",
+        "Flixbus",
+        "Odense"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 62,
+        "decisionValue": 54,
+        "novelty": 72,
+        "sourceQuality": 84,
+        "personalRelevance": 60,
+        "contrast": 58
+      },
+      "claims": [
+        {
+          "text": "61,5 procent af passagererne i DSB's fjern- og regionaltog ankom til tiden i juni 2026, mod et kontraktkrav på mindst 75 procent",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/togproblemer-sender-rekordmange-passagerer-over-i-busserne"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Punktligheden mellem København og Odense var nede på 34,6 procent",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/togproblemer-sender-rekordmange-passagerer-over-i-busserne"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Kombardo Expressen havde 43 procent flere passagerer fra januar til og med juli i år end i samme periode sidste år",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/togproblemer-sender-rekordmange-passagerer-over-i-busserne"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Togproblemer sender rekordmange passagerer over i busserne",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/togproblemer-sender-rekordmange-passagerer-over-i-busserne",
+          "publishedAt": "2026-08-07T03:41:00.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-20260807-hvidovre-ransomware",
+      "eventKey": "hvidovre-hospital-ransomware-bygningsnetvaerk",
+      "materialFacts": [
+        "Et ransomware-angreb har ramt et lokalt bygningsnetværk på Hvidovre Hospital, der styrer og overvåger de fysiske installationer",
+        "Journaler og kliniske systemer er ikke ramt, og patientbehandlingen er ikke påvirket",
+        "Den automatiske overvågning af en række bygningstekniske funktioner er sat ud af spil, og hospitalet holdes kørende med øget bemanding og ændrede arbejdsgange",
+        "Region Hovedstaden vil ikke oplyse, hvem der står bag, eller hvornår systemerne er fuldt genoprettet"
+      ],
+      "section": "Teknologi",
+      "headline": "Ransomware lammer bygningsnetværk på Hvidovre Hospital: \"Vi arbejder på højtryk\"",
+      "primarySourceUrl": "https://www.computerworld.dk/art/296413",
+      "subheadline": "Angrebet ramte ikke journalerne, men det lag af teknik, der styrer hospitalets fysiske installationer. Overvågningen er sat ud af spil, og driften holdes i gang med ekstra bemanding.",
+      "body": [
+        "Et ransomware-angreb har ramt Hvidovre Hospital. Det gik ikke efter journaler eller kliniske systemer, men efter et lokalt bygningsnetværk, altså det lag af teknik, der styrer hospitalets fysiske installationer. Patientbehandlingen er ikke påvirket, oplyser Region Hovedstaden.",
+        "Den automatiske overvågning af en række bygningstekniske funktioner er sat ud af spil. Regionen specificerer ikke hvilke. Hospitalet holdes kørende med øget bemanding, ekstra kontrol og midlertidigt ændrede arbejdsgange."
+      ],
+      "whyItMatters": "Regionen vil af sikkerhedsmæssige årsager hverken oplyse, hvem der står bag, hvornår systemerne er genoprettet, eller om flere hospitaler er ramt.",
+      "analysis": "Målet er det bemærkelsesværdige. Angrebet ramte driftsteknikken frem for patientsystemerne, og regionen oplyser ikke, hvilke bygningstekniske funktioner der er berørt. Hvor stor konsekvensen er, kan derfor ikke vurderes udefra.",
+      "image": {
+        "url": "https://www.computerworld.dk/fil/241683?width=1200&height=630&focus=1",
+        "credit": "Kilde: Computerworld",
+        "alt": "Hvidovre Hospitals facade med hospitalets navn over hovedindgangen.",
+        "sourceUrl": "https://www.computerworld.dk/art/296413"
+      },
+      "topics": [
+        "cybersikkerhed",
+        "kritisk infrastruktur",
+        "sundhed",
+        "danmark"
+      ],
+      "entities": [
+        "Hvidovre Hospital",
+        "Region Hovedstaden",
+        "Center for IT og Medicoteknologi"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 74,
+        "decisionValue": 68,
+        "novelty": 80,
+        "sourceQuality": 76,
+        "personalRelevance": 70,
+        "contrast": 66
+      },
+      "claims": [
+        {
+          "text": "Angrebet ramte et lokalt bygningsnetværk, ikke journaler eller kliniske systemer, og patientbehandlingen er ikke påvirket",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/296413",
+            "https://www.dr.dk/nyheder/seneste/hvidovre-hospital-ramt-af-hackerangreb"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Den automatiske overvågning af en række bygningstekniske funktioner er ude af drift, og hospitalet holdes kørende med øget bemanding og ændrede arbejdsgange",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/296413"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Ransomware lammer bygningsnetværk på Hvidovre Hospital: \"Vi arbejder på højtryk\"",
+          "publisher": "Computerworld",
+          "url": "https://www.computerworld.dk/art/296413",
+          "publishedAt": "2026-08-06T14:15:00.000Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Hvidovre Hospital ramt af hackerangreb",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/seneste/hvidovre-hospital-ramt-af-hackerangreb",
+          "publishedAt": "2026-08-06T12:24:15.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-20260807-genmab-q2",
+      "eventKey": "genmab-q2-2026-regnskab-opjustering",
+      "materialFacts": [
+        "Omsætningen steg 24,9 procent til 1.155 mio. dollar mod en Bloomberg-konsensus på 1.108 mio. dollar",
+        "Driftsmarginen faldt til 32,5 procent fra 38,9 procent året før",
+        "Nettoresultatet faldt til 303 mio. dollar fra 336 mio. dollar",
+        "Omsætningsforventningen for hele året hæves til 4.325-4.523 mio. dollar",
+        "Forventningerne til milepæle sænkes til 105-135 mio. dollar fra 135-155 mio. dollar"
+      ],
+      "section": "Medicinal",
+      "headline": "Genmab Q2 slår analytikernes forventning: Løfter årsforventning",
+      "primarySourceUrl": "https://ugebrev.dk/flashnews/genmab-slaar-analytikernes-forventning-loefter-aarsforventning/",
+      "subheadline": "Omsætningen kom 4,2 procent over konsensus, og årsforventningen hæves. Men marginen falder, nettoresultatet falder, og forventningerne til milepælsbetalinger sænkes.",
+      "body": [
+        "Genmab omsatte for 1.155 millioner dollar i andet kvartal, en stigning på 24,9 procent og over Bloombergs analytikerkonsensus på 1.108 millioner. Selskabet hæver omsætningsforventningen for hele året til 4.325-4.523 millioner dollar.",
+        "Under overskriften ser billedet mere blandet ud. Driftsmarginen faldt til 32,5 procent fra 38,9 procent året før, nettoresultatet faldt til 303 millioner dollar fra 336 millioner, og forventningerne til milepælsbetalinger sænkes til 105-135 millioner fra 135-155 millioner."
+      ],
+      "whyItMatters": "Koncentrationen i dansk eksport gør selskabstal som disse til makrotal. En marginudvikling hos Genmab er ikke kun Genmabs.",
+      "analysis": "Marginfaldet er det, der er værd at følge. Selskabet henviser selv til højere royaltyindtægter fra DARZALEX og højere salg af EPKINLY som drivere bag opjusteringen, mens faldet i driftsmargin står uforklaret i meddelelsen.",
+      "image": {
+        "url": "https://ugebrev.dk/wp-content/uploads/2024/10/Jan-Van-De-Winkel.jpg",
+        "credit": "Foto: Gregers Tycho/Ritzau Scanpix, via Økonomisk Ugebrev",
+        "alt": "Portrætfoto af Genmabs administrerende direktør Jan van de Winkel, anvendt af Økonomisk Ugebrev til kvartalsregnskabet.",
+        "sourceUrl": "https://ugebrev.dk/flashnews/genmab-slaar-analytikernes-forventning-loefter-aarsforventning/"
+      },
+      "topics": [
+        "pharma",
+        "regnskab",
+        "eksportkoncentration",
+        "danmark"
+      ],
+      "entities": [
+        "Genmab",
+        "DARZALEX",
+        "EPKINLY",
+        "Bloomberg"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 64,
+        "decisionValue": 62,
+        "novelty": 70,
+        "sourceQuality": 74,
+        "personalRelevance": 82,
+        "contrast": 54
+      },
+      "claims": [
+        {
+          "text": "Omsætningen steg 24,9 procent til 1.155 mio. dollar mod en Bloomberg-konsensus på 1.108 mio. dollar",
+          "sourceUrls": [
+            "https://ugebrev.dk/flashnews/genmab-slaar-analytikernes-forventning-loefter-aarsforventning/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Driftsmarginen faldt til 32,5 procent fra 38,9 procent, og nettoresultatet faldt til 303 mio. dollar fra 336 mio. dollar",
+          "sourceUrls": [
+            "https://ugebrev.dk/flashnews/genmab-slaar-analytikernes-forventning-loefter-aarsforventning/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Årsforventningen hæves til 4.325-4.523 mio. dollar, mens milepælsforventningen sænkes til 105-135 mio. dollar",
+          "sourceUrls": [
+            "https://ugebrev.dk/flashnews/genmab-slaar-analytikernes-forventning-loefter-aarsforventning/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Genmab Q2 slår analytikernes forventning: Løfter årsforventning",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/flashnews/genmab-slaar-analytikernes-forventning-loefter-aarsforventning/",
+          "publishedAt": "2026-08-06T15:29:36.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-20260807-laudrup-dufour",
+      "eventKey": "laudrup-dufour-verdensrangliste-foersteplads-foer-vm-2026",
+      "materialFacts": [
+        "Cathrine Laudrup-Dufour er gået fra en 31.-plads i juli til førstepladsen på verdensranglisten",
+        "Springet skete efter to sejre i svenske Falsterbo med hesten Freestyle",
+        "Det var hendes sjette sejr ud af seks starter på højeste niveau i denne sæson",
+        "VM begynder tirsdag 11. august med holdkonkurrencerne, og de individuelle konkurrencer begynder fredag 14. august"
+      ],
+      "section": "Sport",
+      "headline": "Laudrup-Dufour slår verdensranglistens rekord lige inden VM",
+      "primarySourceUrl": "https://www.dr.dk/sporten/ridning/laudrup-dufour-slaar-verdensranglistens-rekord-lige-inden-vm",
+      "subheadline": "Fra en 31.-plads i juli til nummer ét på fem uger. Den 34-årige dressurrytter går til VM i næste uge som en af guldfavoritterne.",
+      "body": [
+        "I juli var Cathrine Laudrup-Dufour faldet til en 31.-plads på verdensranglisten. To sejre i svenske Falsterbo med hesten Freestyle løftede hende til førstepladsen, og ifølge Det Internationale Rideforbund er det et nyt rekordspring til toppen af listen.",
+        "Det var samtidig hendes sjette sejr ud af seks starter på højeste niveau i denne sæson. Udsvinget skyldes hendes eget program: hun starter væsentligt færre stævner end sine konkurrenter af hensyn til hoppen Freestyles alder."
+      ],
+      "whyItMatters": "VM begynder tirsdag 11. august med holdkonkurrencerne, og de individuelle konkurrencer begynder fredag den 14. Hun går ind som en af guldfavoritterne.",
+      "analysis": "Ranglisten belønner også antallet af starter, ikke kun niveauet: point falder bort en måned efter de blev vundet. Seks sejre i seks starter er derfor den skarpere oplysning end førstepladsen.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/fhfhalmc/20240804-150909-l_crop001.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Foto: Caroline Brehman, EPA/Ritzau Scanpix",
+        "alt": "Arkivfoto af den danske dressurrytter Cathrine Laudrup-Dufour, der rider ind til VM som en af guldfavoritterne.",
+        "sourceUrl": "https://www.dr.dk/sporten/ridning/laudrup-dufour-slaar-verdensranglistens-rekord-lige-inden-vm"
+      },
+      "topics": [
+        "sport",
+        "dressur",
+        "danske sportsfolk",
+        "vm"
+      ],
+      "entities": [
+        "Cathrine Laudrup-Dufour",
+        "Freestyle",
+        "Falsterbo",
+        "Det Internationale Rideforbund"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 52,
+        "decisionValue": 40,
+        "novelty": 78,
+        "sourceQuality": 80,
+        "personalRelevance": 84,
+        "contrast": 62
+      },
+      "claims": [
+        {
+          "text": "Laudrup-Dufour gik fra en 31.-plads i juli til førstepladsen på verdensranglisten efter to sejre i Falsterbo, hvilket ifølge Det Internationale Rideforbund er et nyt rekordspring",
+          "sourceUrls": [
+            "https://www.dr.dk/sporten/ridning/laudrup-dufour-slaar-verdensranglistens-rekord-lige-inden-vm"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Det var hendes sjette sejr ud af seks starter på højeste niveau i sæsonen",
+          "sourceUrls": [
+            "https://www.dr.dk/sporten/ridning/laudrup-dufour-slaar-verdensranglistens-rekord-lige-inden-vm"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Laudrup-Dufour slår verdensranglistens rekord lige inden VM",
+          "publisher": "DR Sporten",
+          "url": "https://www.dr.dk/sporten/ridning/laudrup-dufour-slaar-verdensranglistens-rekord-lige-inden-vm",
+          "publishedAt": "2026-08-06T11:18:00.000Z",
+          "kind": "reporting"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "Den Europæiske Investeringsfond skifter direktør",
+      "headline": "Den Europæiske Investeringsfond skifter direktør",
+      "url": "https://www.altinget.dk/navnenyt/den-europaeiske-investeringsfond-skifter-direktoer",
+      "summary": "Jean-Christophe Laloux er udpeget til ny direktør for Den Europæiske Investeringsfond med tiltrædelse 1. januar 2027 og afløser Marjut Falkstedt. Altinget bringer kun selve udnævnelsen; resten af artiklen er bag betalingsmur.",
+      "publisher": "Altinget",
+      "section": "Navne",
+      "publishedAt": "2026-08-03T12:50:00.000Z"
+    },
+    {
+      "text": "Forsvarsministeriets pressechef rykker til Udenrigsministeriet",
+      "headline": "Forsvarsministeriets pressechef rykker til Udenrigsministeriet",
+      "url": "https://www.altinget.dk/navnenyt/forsvarsministeriets-pressechef-rykker-til-udenrigsministeriet",
+      "summary": "Morten Kaus tiltrådte mandag som pressechef for udenrigsminister Lars Løkke Rasmussen. Han kommer fra samme rolle i Forsvarsministeriet, hvor han i over fire år har betjent fire forskellige ministre.",
+      "publisher": "Altinget",
+      "section": "Navne",
+      "publishedAt": "2026-08-04T09:31:00.000Z"
+    },
+    {
+      "text": "Dansker i spidsen for Arups arbejde med at udvikle og lande de største europæiske bygge- og infrastrukturprojekter",
+      "headline": "Dansker i spidsen for Arups arbejde med at udvikle og lande de største europæiske bygge- og infrastrukturprojekter",
+      "url": "https://via.ritzau.dk/pressemeddelelse/15078695/dansker-i-spidsen-for-arups-arbejde-med-at-udvikle-og-lande-de-storste-europaeiske-bygge-og-infrastrukturprojekter?publisherId=13562720&lang=da",
+      "summary": "Ingeniør- og designvirksomheden Arup har udnævnt danske Sussi Kristine Abildgaard til European Priority Pursuit and Capture Lead. Hun skal lede arbejdet med at vinde de største europæiske bygge- og infrastrukturprojekter, før de når i udbud.",
+      "publisher": "Arup via Ritzau",
+      "section": "Navne",
+      "publishedAt": "2026-08-06T12:20:00.000Z"
+    },
+    {
+      "text": "Brødrene A. & O. Johansen A/S har modtaget mindst 90% accepter i forbindelse med sit anbefalede frivillige kontante overtagelsestilbud på Elektroimportøren AS",
+      "headline": "Brødrene A. & O. Johansen A/S har modtaget mindst 90% accepter i forbindelse med sit anbefalede frivillige kontante overtagelsestilbud på Elektroimportøren AS",
+      "url": "https://view.news.eu.nasdaq.com/view?id=ba9780665a5fe47d433c08f720d86640a&lang=da&src=listed",
+      "summary": "Den danske el-grossist AO har fået accepter svarende til cirka 92,5 procent af aktiekapitalen og stemmerettighederne i norske Elektroimportøren, og der er ingen udestående gennemførelsesbetingelser tilbage. Afvikling ventes gennemført 26. august 2026 til 22 norske kroner per aktie.",
+      "publisher": "Nasdaq Copenhagen",
+      "section": "Erhverv",
+      "publishedAt": "2026-08-06T06:30:00.000Z"
+    },
+    {
+      "text": "Copenhagen Infrastructure Partners reaches financial close and starts construction on its first project in Mexico",
+      "headline": "Copenhagen Infrastructure Partners reaches financial close and starts construction on its first project in Mexico",
+      "url": "https://www.globenewswire.com/news-release/2026/08/06/3339981/0/en/Copenhagen-Infrastructure-Partners-reaches-financial-close-and-starts-construction-on-its-first-project-in-Mexico.html",
+      "summary": "CIP har nået endelig investeringsbeslutning på La Esperanza Solar i Campeche i Mexico: 420 MWdc sol og et batteri på 150 MW i fem timer. Gældsfinansieringen er cirka 510 millioner dollar fra fem banker, heriblandt BNP Paribas, JPMorgan og Santander.",
+      "publisher": "Copenhagen Infrastructure Partners",
+      "section": "Energi",
+      "publishedAt": "2026-08-06T09:00:00.000Z"
+    },
+    {
+      "text": "Industriledere slår alarm: – Savner en følelse av hastverk",
+      "headline": "Industriledere slår alarm: – Savner en følelse av hastverk",
+      "url": "https://e24.no/energi-og-klima/i/k0KjWk/industriledere-slaar-alarm-savner-en-foelelse-av-hastverk",
+      "summary": "Topcheferne i Yara, Elkem og Norsk Industri samt energidirektørerne i Hydro og Alcoa advarer om, at der bygges for lidt ny kraft i Norge, og at vinduet for at fastholde investeringerne er ved at lukke.",
+      "publisher": "E24",
+      "section": "Energi",
+      "publishedAt": "2026-08-06T13:56:00.000Z"
+    },
+    {
+      "text": "Rheinmetall leverer bedre end forventet i Q2 – aktien ligger stort set flad",
+      "headline": "Rheinmetall leverer bedre end forventet i Q2 – aktien ligger stort set flad",
+      "url": "https://ugebrev.dk/flashnews/rheinmetall-leverer-bedre-end-forventet-i-q2-aktien-ligger-stort-set-flad/",
+      "summary": "Omsætningen steg 69 procent år-til-år til 3,29 milliarder euro, cirka 4 procent over konsensus. Driftsresultatet på 562 millioner euro gav en rekordhøj margin på 17,1 procent.",
+      "publisher": "Økonomisk Ugebrev",
+      "section": "Europa",
+      "publishedAt": "2026-08-06T11:00:26.000Z"
+    },
+    {
+      "text": "Eurozonen: Detailhandlen faldt med 0,3 % i juni, understøtter synspunkt om begrænset vækst i forbrug",
+      "headline": "Eurozonen: Detailhandlen faldt med 0,3 % i juni, understøtter synspunkt om begrænset vækst i forbrug",
+      "url": "https://ugebrev.dk/flashnews/eurozonen-detailhandlen-faldt-med-03-i-juni-understoetter-synspunkt-om-begraenset-vaekst-i-forbrug/",
+      "summary": "Detailhandlen faldt 0,3 procent fra maj til juni efter en stigning på 0,4 procent i maj, og årsvæksten faldt fra 1,9 til 0,7 procent. Beskæftigelsesforventningerne steg til gengæld markant i juli.",
+      "publisher": "Økonomisk Ugebrev",
+      "section": "Økonomi",
+      "publishedAt": "2026-08-06T09:27:58.000Z"
+    },
+    {
+      "text": "Iran og Oman er enige om Hormuz-aftale",
+      "headline": "Iran og Oman er enige om Hormuz-aftale",
+      "url": "https://www.dr.dk/nyheder/seneste/iran-og-oman-er-enige-om-hormuz-aftale",
+      "summary": "De to lande er ifølge Irans viceudenrigsminister principielt enige om en fragtrute gennem Hormuzstrædet. Skibstrafikken åbner ikke med det samme: Iran kræver, at USA samtidig ophæver blokeringen, og USA har ikke deltaget i forhandlingerne.",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-08-06T10:40:00.000Z"
+    },
+    {
+      "text": "Domstol pålægger Meta milliardbetaling til indsats for børns sikkerhed",
+      "headline": "Domstol pålægger Meta milliardbetaling til indsats for børns sikkerhed",
+      "url": "https://www.dr.dk/nyheder/seneste/domstol-paalaegger-meta-milliardbetaling-til-indsats-boerns-sikkerhed",
+      "summary": "En domstol i New Mexico har pålagt Meta at betale yderligere 567 millioner dollar for ikke at have advaret offentligheden om de risici, platformene udgør for børn, og at indføre en række sikkerhedsforanstaltninger for unge.",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-08-07T02:09:44.000Z"
+    },
+    {
+      "text": "Bitter strid om fjernvarme ender i Højesteret",
+      "headline": "Bitter strid om fjernvarme ender i Højesteret",
+      "url": "https://www.dr.dk/nyheder/indland/bitter-strid-om-fjernvarme-ender-i-hoejesteret",
+      "summary": "Erstatningsforeningen i geotermi-sagen fra Viborg har fået fri proces til Højesteret. Et projekt godkendt til 11-13 millioner kroner endte med at koste 165 millioner, som blev sendt videre til fjernvarmekunderne.",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-08-06T10:14:40.000Z"
+    },
+    {
+      "text": "Gæster sad fast i Legoland-rutsjebane i ti meters højde",
+      "headline": "Gæster sad fast i Legoland-rutsjebane i ti meters højde",
+      "url": "https://www.dr.dk/nyheder/indland/gaester-sad-fast-i-legoland-rutsjebane-i-ti-meters-hoejde",
+      "summary": "Tyve gæster sad onsdag aften fast omkring ti meter over jorden i Billund. Brandvæsenet blev tilkaldt klokken 17.19, og først efter klokken 20 var alle hjulpet ned. Ingen kom til skade.",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-08-05T19:22:19.000Z"
+    },
+    {
+      "text": "15-årig pige fra Hedensted er fundet i live i Ungarn",
+      "headline": "15-årig pige fra Hedensted er fundet i live i Ungarn",
+      "url": "https://www.dr.dk/nyheder/seneste/15-aarig-pige-fra-hedensted-er-fundet-i-live",
+      "summary": "Efter mere end to døgns forsvinden er pigen torsdag fundet i live i Ungarn. Sydøstjyllands Politi oplyser, at forældrene er orienteret, og at fokus nu er at få hende sikkert hjem til Danmark.",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-08-06T16:00:34.000Z"
+    }
+  ],
+  "column": {
+    "authoredBy": "ai",
+    "slug": "det-der-gaar-tabt-er-registret",
+    "title": "Det, der går tabt i oversættelse, er ikke betydningen",
+    "thesis": "Det, en oversættelse taber, er sjældent meningen, men registret: den sociale plads, sætningen giver den, der siger den.",
+    "body": [
+      "En sætning gør to ting på én gang. Den siger noget, og den placerer den, der siger det: som ligemand eller underordnet, som insider eller gæst, som en der beder eller en der forventer. Ordbogen dækker det første. Det andet står ikke i den.",
+      "Derfor kan en oversættelse være korrekt og alligevel forkert. Et høfligt japansk afslag bliver til et engelsk nej, der lyder brysk. En dansk underdrivelse bliver til en amerikansk beskedenhed, der lyder som mangel på selvtillid. Indholdet overlevede. Positionen gjorde ikke.",
+      "Jeg mener, det forklarer, hvorfor maskinoversættelse virker rigtig og forkert på samme tid. Den er trænet på, hvad sætninger betyder, ikke på, hvad de gør ved forholdet mellem to mennesker. Den, der læser resultatet, mærker afstanden uden at kunne pege på ordet."
+    ],
+    "uncertainty": "Jeg tager fejl, hvis register er en del af betydningen frem for noget ved siden af. Kan det oversættes lige så systematisk som resten, beskriver skellet kun, hvad vi endnu ikke er gode nok til.",
+    "topics": [
+      "sprog",
+      "oversættelse",
+      "kommunikation"
+    ]
+  },
+  "recommendations": [
+    {
+      "id": "thomas-rec-20260807-freefall-boeing",
+      "mode": "watch",
+      "kind": "Dokumentarfilm",
+      "status": "upcoming",
+      "title": "Freefall: A Reckoning for Boeing",
+      "creator": "Instruktør Rory Kennedy",
+      "provider": "Netflix",
+      "url": "https://www.netflix.com/title/81780118",
+      "availability": "Kræver Netflix-abonnement. Premiere 19. august 2026, altså ikke tilgængelig endnu. Verdenspremiere på DC/DOX 14. juni 2026.",
+      "commitment": "1 t 33 min",
+      "description": "Rory Kennedys opfølgning på Downfall fra 2022. Filmen tager udgangspunkt i whistlebloweren John Barnetts død og bringer flere Boeing-medarbejdere frem, der siger, de meldte sikkerhedsproblemer til ledelsen og fik besked på at se den anden vej.",
+      "rationale": "En industrivirksomhed, der udskiftede ingeniørkultur med afkastkrav, og hvad det kostede. Det er den diskussion, europæisk industripolitik fører abstrakt, fortalt gennem navngivne mennesker. Fra en instruktør, der allerede har leveret én gang på præcis dette stof.",
+      "topics": [
+        "industri",
+        "virksomhedsledelse",
+        "whistleblowing",
+        "regulering"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://i.ytimg.com/vi/7ZDSYBkcH2U/maxresdefault.jpg",
+        "credit": "Kilde: Netflix, officiel trailer",
+        "alt": "Still fra Netflix' officielle trailer til dokumentarfilmen Freefall: A Reckoning for Boeing.",
+        "sourceUrl": "https://www.youtube.com/watch?v=7ZDSYBkcH2U"
+      }
+    },
+    {
+      "id": "thomas-rec-20260807-piie-made-with-china",
+      "mode": "read",
+      "kind": "Policy brief",
+      "status": "available",
+      "title": "Made with China: Global supply chains and the limits of US decoupling",
+      "creator": "Mary E. Lovely og Christine Y. Wan",
+      "provider": "Peterson Institute for International Economics",
+      "url": "https://www.piie.com/publications/policy-briefs/2026/made-china-global-supply-chains-and-limits-us-decoupling",
+      "availability": "Frit tilgængelig uden login. PDF og appendiks kan hentes direkte. Udgivet august 2026.",
+      "commitment": "ca. 58 sider",
+      "description": "Policy Brief 26-12. Kinas andel af USA's bilaterale import faldt syv procentpoint fra 2017 til 2024, men Kinas værditilvækst i den amerikanske import faldt kun to procentpoint. Tolden flyttede ruter, ikke afhængighed.",
+      "rationale": "Det er talgrundlaget for, om de-risking faktisk virker. Skellet mellem handelsstrøm og værditilvækst mangler i de fleste tolddebatter, og det kan bruges direkte over for en direktion, der tror, den har flyttet sin forsyningskæde ud af Kina.",
+      "topics": [
+        "usa-kina",
+        "handelspolitik",
+        "forsyningskæder",
+        "de-risking"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://www.piie.com/sites/default/files/styles/publication_hero_2x/public/2026-08/MT1SIPA000OC81R3.JPG",
+        "credit": "Kilde: PIIE",
+        "alt": "Containerhavn, PIIE's billede til policy brief'et om amerikanske forsyningskæder og Kina.",
+        "sourceUrl": "https://www.piie.com/publications/policy-briefs/2026/made-china-global-supply-chains-and-limits-us-decoupling"
+      }
+    },
+    {
+      "id": "thomas-rec-20260807-oddlots-milanovic",
+      "mode": "listen",
+      "kind": "Podcast",
+      "status": "available",
+      "title": "Branko Milanovic on What Comes After Globalization",
+      "creator": "Med Branko Milanović",
+      "provider": "Bloomberg Odd Lots",
+      "url": "https://omny.fm/shows/odd-lots/branko-milanovic-on-what-comes-after-globalization",
+      "availability": "Gratis. Afspilles direkte i browseren uden login eller Bloomberg-abonnement. Udgivet 27. juli 2026.",
+      "commitment": "1 t 1 min",
+      "description": "Milanović giver den nye orden et navn: national market liberalism. Kapitalens frie bevægelse trækker sig tilbage, mens de stærkeste stater vælger merkantilisme. Undervejs om Kinas udvikling og presset på vestlige eliter.",
+      "rationale": "En time med den økonom, der har leveret den mest brugbare samlede diagnose af det, et helt arbejdsliv i international handel har handlet om. Ikke endnu en toldnyhed, men en ramme at hænge dem op på. Værterne presser ham konkret, så det bliver analyse frem for bogturné.",
+      "topics": [
+        "globalisering",
+        "politisk økonomi",
+        "usa-kina",
+        "merkantilisme"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "thomas-rec-20260807-louisiana-literature",
+      "mode": "experience",
+      "kind": "Litteraturfestival",
+      "status": "timely",
+      "title": "Louisiana Literature",
+      "creator": "Louisiana Museum of Modern Art",
+      "provider": "Louisiana Museum of Modern Art",
+      "url": "https://louisiana.dk/en/whats-on/louisiana-literature/",
+      "availability": "Humlebæk, 20. til 23. august 2026. Adgang med almindelig entrébillet eller medlemskab. Billetten garanterer ikke plads til de enkelte arrangementer.",
+      "commitment": "Vælg en dag ud af fire",
+      "description": "Fire dage med oplæsninger, samtaler og performances i parken ned mod Øresund. Blandt de atten internationale forfattere på programmet er Anne Carson, Kiran Desai, Georgi Gospodinov, Siri Hustvedt, Katie Kitamura, Leïla Slimani, Douglas Stuart og Elizabeth Strout.",
+      "rationale": "Det er om to uger, og navnene er af en kaliber, København ellers ikke får samlet på fire dage. Én dag koster en museumsbillet. Kom tidligt til det, du vil se, for siddepladser er ikke garanteret.",
+      "topics": [
+        "litteratur",
+        "festival",
+        "kultur"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://louisiana.dk/wp-content/uploads/2025/09/Litt.fest_fredag_drone_1-kopi_final-1280x853.jpg",
+        "credit": "Kilde: Louisiana Museum of Modern Art",
+        "alt": "Luftfoto af Louisiana Literature-festivalen i museets park ned mod Øresund.",
+        "sourceUrl": "https://louisiana.dk/en/whats-on/louisiana-literature/"
+      }
+    }
+  ]
+}
