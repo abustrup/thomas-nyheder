@@ -1,0 +1,984 @@
+{
+ "schemaVersion": 1,
+ "kind": "daily",
+ "runId": "thomas-2026-08-08-r1",
+ "date": "2026-08-08",
+ "generatedAt": "2026-08-08T11:40:00.000Z",
+ "readingMinutes": 12,
+ "title": "Thomas' Nyheder — lørdag den 8. august 2026",
+ "dek": "Emballagereglerne bider på onsdag, og vejledningen kom ni dage før. Muslingefiskerne sejler ud igen, efter ministeren kaldte sit eget krav en misforståelse. Og danske selskaber slår forventningerne, uden at nogen belønner dem for det.",
+ "profileWeights": {
+  "importance": 25,
+  "decisionValue": 20,
+  "novelty": 15,
+  "sourceQuality": 15,
+  "personalRelevance": 15,
+  "contrast": 10
+ },
+ "stories": [
+  {
+   "id": "thomas-20260808-emballageforordning-di-boeder",
+   "eventKey": "eu-emballageforordning-ikrafttraeden-di-boedehenstand",
+   "materialFacts": [
+    "EU's nye emballageregler træder i kraft onsdag, og Dansk Industri beder myndighederne om at holde igen med bøder det første år",
+    "EU's vejledning om fortolkningen udkom mandag, omkring ni dage før ikrafttrædelsen",
+    "Virksomheder skal fremover kunne dokumentere alle typer emballage",
+    "Nye definitioner af fabrikant, importør og distributør afgør, hvilket ansvar en virksomhed har",
+    "Der indføres en grænseværdi for PFAS i materialer i kontakt med fødevarer",
+    "Miljøstyrelsen skal kontrollere efterlevelsen i Danmark"
+   ],
+   "section": "Erhverv",
+   "headline": "Danske virksomheder frygter bøder efter nye emballage-regler",
+   "primarySourceUrl": "https://nyheder.tv2.dk/business/2026-08-07-danske-virksomheder-frygter-boeder-efter-nye-emballage-regler",
+   "subheadline": "Vejledningen til, hvordan reglerne skal forstås, kom ni dage før de bider. Dansk Industri vil have Miljøstyrelsen til at vejlede frem for at bøde det første år.",
+   "body": [
+    "Onsdag den 12. august træder EU's nye emballageregler i kraft, og Dansk Industri beder myndighederne om at holde igen med bøderne. EU's vejledning til, hvordan reglerne skal fortolkes, udkom mandag, omkring ni dage før. - Virksomhederne har fået meget kort tid til at efterleve reglerne. Det kan simpelthen ikke lade sig gøre, når man tænker på, hvor komplekst det er, siger DI's erhvervs- og medlemsdirektør Emil Fannikke Kiær.",
+    "Reglerne kræver dokumentation af alle emballagetyper og indfører nye definitioner af aktørerne i kæden: om man er fabrikant, importør eller distributør afgør ansvaret. Dertil kommer en grænseværdi for PFAS i fødevarekontaktemballage. Kontrollen ligger hos Miljøstyrelsen."
+   ],
+   "whyItMatters": "Indholdet er ikke stridspunktet. Afstanden mellem vejledning og håndhævelse er. Ni dage rækker ikke til at klassificere et varekatalog om, og bøderisikoen rammer den, der ikke selv kan afgøre sin rolle i kæden.",
+   "analysis": "Kiær afviser, at implementeringen går langsommere, hvis myndighederne venter med bøder, og medgiver, at definitionerne heller ikke efter vejledningen er fuldt afklarede. Mønsteret: forordningen vedtages i Bruxelles, men den danske styrelses fortolkningsrum afgør, hvad den koster.",
+   "image": {
+    "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/a/9/3/a93ce180-f529-4489-bb30-778d2c1be2db?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCwzOTksNzY2Nyw0MzEz&s=b20c827a3c4e6ca0069abc8dd03c5a3a",
+    "credit": "Foto: Sebastian Elias Uth / Ritzau Scanpix, via TV 2",
+    "alt": "Emballeret ost i køledisken i et dansk supermarked. TV 2's billede til historien om de nye EU-emballageregler, der blandt andet sætter en grænseværdi for PFAS i materialer i kontakt med fødevarer.",
+    "sourceUrl": "https://nyheder.tv2.dk/business/2026-08-07-danske-virksomheder-frygter-boeder-efter-nye-emballage-regler"
+   },
+   "topics": [
+    "regelbyrde",
+    "eu-regulering",
+    "erhvervsvilkår",
+    "dansk-industri",
+    "pfas"
+   ],
+   "entities": [
+    "Dansk Industri",
+    "Emil Fannikke Kiær",
+    "Miljøstyrelsen",
+    "EU-Kommissionen"
+   ],
+   "isLead": true,
+   "isOutsideProfile": false,
+   "scores": {
+    "importance": 72,
+    "decisionValue": 82,
+    "novelty": 74,
+    "sourceQuality": 80,
+    "personalRelevance": 92,
+    "contrast": 60
+   },
+   "claims": [
+    {
+     "text": "EU's nye emballageregler træder i kraft onsdag, og DI's erhvervs- og medlemsdirektør Emil Fannikke Kiær opfordrer myndighederne til at se kontrollen som en vejledningsopgave det første år frem for at uddele bøder",
+     "sourceUrls": [
+      "https://nyheder.tv2.dk/business/2026-08-07-danske-virksomheder-frygter-boeder-efter-nye-emballage-regler"
+     ],
+     "confidence": "high"
+    },
+    {
+     "text": "EU's vejledning om fortolkningen af reglerne udkom mandag, omkring ni dage før ikrafttrædelsen",
+     "sourceUrls": [
+      "https://nyheder.tv2.dk/business/2026-08-07-danske-virksomheder-frygter-boeder-efter-nye-emballage-regler"
+     ],
+     "confidence": "high"
+    },
+    {
+     "text": "Reglerne kræver dokumentation af alle emballagetyper, indfører nye definitioner af fabrikant, importør og distributør og en grænseværdi for PFAS i fødevarekontaktmaterialer; Miljøstyrelsen kontrollerer i Danmark",
+     "sourceUrls": [
+      "https://nyheder.tv2.dk/business/2026-08-07-danske-virksomheder-frygter-boeder-efter-nye-emballage-regler"
+     ],
+     "confidence": "high"
+    },
+    {
+     "text": "Forordning (EU) 2025/40 om emballage og emballageaffald fastsætter, at fødevarekontaktemballage fra 12. august 2026 ikke må markedsføres, hvis den indeholder PFAS i en koncentration på eller over de fastsatte grænseværdier",
+     "sourceUrls": [
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32025R0040"
+     ],
+     "confidence": "high"
+    }
+   ],
+   "sources": [
+    {
+     "title": "Danske virksomheder frygter bøder efter nye emballage-regler",
+     "publisher": "TV 2",
+     "kind": "reporting",
+     "url": "https://nyheder.tv2.dk/business/2026-08-07-danske-virksomheder-frygter-boeder-efter-nye-emballage-regler",
+     "publishedAt": "2026-08-07T07:56:39.403Z"
+    },
+    {
+     "title": "Regulation (EU) 2025/40 of the European Parliament and of the Council of 19 December 2024 on packaging and packaging waste, amending Regulation (EU) 2019/1020 and Directive (EU) 2019/904, and repealing Directive 94/62/EC",
+     "publisher": "EUR-Lex",
+     "kind": "primary",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32025R0040",
+     "publishedAt": "2025-01-22T00:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": "thomas-20260808-muslinger-vejledning-genoptaget",
+   "eventKey": "vilsund-blue-muslingefiskeri-vejledning-genoptaget-2026-08-08",
+   "materialFacts": [
+    "Miljøminister Maria Reumert Gjerding har bedt Fiskeristyrelsen om at gennemgå sorteringskravet igen og udarbejde en skriftlig vejledning",
+    "Vejledningsperioden forlænges i første omgang i tre måneder",
+    "Vilsund Blue tager åbningsprøver mandag og kan sende skibene ud næste søndag",
+    "De daglige landinger hos Vilsund Blue kan nå 500 ton",
+    "En permanent stikprøveordning skal godkendes i EU, og ministeren kan ikke love den",
+    "Socialdemokratiets Simon Kollerup kaldte kravene kvælningsdøden og bad ministeren om en løsning"
+   ],
+   "section": "Erhverv",
+   "headline": "Muslingefiskere genoptager arbejdet efter ‘hul-i-hovedet’-krav",
+   "primarySourceUrl": "https://www.dr.dk/nyheder/indland/muslingefiskere-genoptager-arbejdet-efter-hul-i-hovedet-krav",
+   "subheadline": "Miljøministeren mener, kravet om totalsortering kan være misforstået, og forlænger vejledningsperioden i tre måneder. Den ordning, erhvervet vil have, skal godkendes i EU.",
+   "body": [
+    "Muslingefiskeriet i Limfjorden genoptages. Miljøminister Maria Reumert Gjerding (SF) har bedt Fiskeristyrelsen gennemgå sorteringskravet og lave en skriftlig vejledning. - Jeg har fået den opfattelse, at der er lidt en misforståelse af graden af sortering, siger hun til DR.",
+    "Hos Vilsund Blue på Mors, hvor landingerne kan nå 500 ton dagligt, lød beskeden anderledes. - De sagde bare, vi skulle sortere fangsten 100 procent og sortere i arter og veje det af inden for et gram, siger direktør Poul Kærgaard. Vejledningsperioden forlænges i første omgang i tre måneder, og skibene sejler næste søndag."
+   ],
+   "whyItMatters": "En mundtlig fortolkning har holdt Danmarks største muslingeproducent lukket i snart tre uger. Ingen regel blev ændret undervejs, og ingen ændres nu.",
+   "analysis": "Presset kom indefra: Socialdemokratiets Simon Kollerup kaldte kravene kvælningsdøden, skrev Altinget. Den varige stikprøveordning skal godkendes i EU.",
+   "image": {
+    "url": "https://asset.dr.dk/drdk/umbraco-images/0zjhwp0l/muslinger_3_adobe-stockmytilis-edul.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+    "credit": "Grafik: Nathalie Nystad, foto: Adobe Stock, via DR",
+    "alt": "Grafik med to blåmuslinger, den ene med åben skal, på turkis baggrund. DR's billede til historien om, at muslingefiskeriet i Limfjorden genoptages.",
+    "sourceUrl": "https://www.dr.dk/nyheder/indland/muslingefiskere-genoptager-arbejdet-efter-hul-i-hovedet-krav"
+   },
+   "topics": [
+    "regelbyrde",
+    "fiskeri",
+    "eu-regulering",
+    "fødevareeksport",
+    "erhvervsvilkår"
+   ],
+   "entities": [
+    "Vilsund Blue",
+    "Poul Kærgaard",
+    "Maria Reumert Gjerding",
+    "Fiskeristyrelsen",
+    "Simon Kollerup",
+    "Limfjorden"
+   ],
+   "isLead": false,
+   "isOutsideProfile": false,
+   "scores": {
+    "importance": 66,
+    "decisionValue": 78,
+    "novelty": 80,
+    "sourceQuality": 84,
+    "personalRelevance": 94,
+    "contrast": 70
+   },
+   "claims": [
+    {
+     "text": "Miljøminister Maria Reumert Gjerding har bedt Fiskeristyrelsen om at genbesøge sorteringskravet og lave en meget præcis skriftlig vejledning, og vejledningsperioden forlænges i første omgang i tre måneder",
+     "sourceUrls": [
+      "https://www.dr.dk/nyheder/indland/muslingefiskere-genoptager-arbejdet-efter-hul-i-hovedet-krav"
+     ],
+     "confidence": "high"
+    },
+    {
+     "text": "Vilsund Blues direktør Poul Kærgaard oplyser, at kontrollen krævede 100 procents sortering i arter afvejet inden for et gram, at åbningsprøver tages mandag, og at fiskeriet kan genoptages næste søndag",
+     "sourceUrls": [
+      "https://www.dr.dk/nyheder/indland/muslingefiskere-genoptager-arbejdet-efter-hul-i-hovedet-krav"
+     ],
+     "confidence": "high"
+    },
+    {
+     "text": "En permanent stikprøveordning kan ministeren ikke love, fordi den skal godkendes i EU",
+     "sourceUrls": [
+      "https://www.dr.dk/nyheder/indland/muslingefiskere-genoptager-arbejdet-efter-hul-i-hovedet-krav"
+     ],
+     "confidence": "high"
+    },
+    {
+     "text": "Socialdemokratiets Simon Kollerup, tidligere erhvervsminister, kaldte de nye kontrolkrav kvælningsdøden og opfordrede miljøministeren til at finde en løsning",
+     "sourceUrls": [
+      "https://www.altinget.dk/artikel/regeringspartner-kritiserer-nye-kontrolkrav-fra-gjerding-det-er-kvaelningsdoeden"
+     ],
+     "confidence": "high"
+    }
+   ],
+   "sources": [
+    {
+     "title": "Muslingefiskere genoptager arbejdet efter ‘hul-i-hovedet’-krav",
+     "publisher": "DR",
+     "kind": "reporting",
+     "url": "https://www.dr.dk/nyheder/indland/muslingefiskere-genoptager-arbejdet-efter-hul-i-hovedet-krav",
+     "publishedAt": "2026-08-08T08:30:00.000Z"
+    },
+    {
+     "title": "Nye kontrolkrav til fiskeriet får kold afvisning i S – vil have SF-minister til at lempe",
+     "publisher": "Altinget",
+     "kind": "reporting",
+     "url": "https://www.altinget.dk/artikel/regeringspartner-kritiserer-nye-kontrolkrav-fra-gjerding-det-er-kvaelningsdoeden",
+     "publishedAt": "2026-08-07T00:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": "thomas-20260808-c25-regnskabssaeson-kursreaktion",
+   "eventKey": "danske-c25-q2-2026-regnskaber-analytikerskepsis",
+   "materialFacts": [
+    "De fleste store danske selskaber har leveret bedre driftsoverskud i Q2 end analytikerne ventede",
+    "Kurserne er alligevel faldet i Novo Nordisk, DSV, Danske Bank, Nordea og Ringkjøbing Landbobank; Genmab faldt i USA torsdag aften, men kom stærkt igen fredag",
+    "Analytikernes samlede forventning til C25-overskudsudviklingen i Q2 er forbedret fra minus 23 procent til minus 14 procent på to uger",
+    "Danmark ligger stadig næstlavest blandt 16 europæiske lande i LSEG I/B/E/S' ugentlige opgørelse",
+    "I den kommende uge kommer regnskaber fra Demant og ISS tirsdag, Vestas onsdag og Mærsk, Pandora og Ørsted torsdag"
+   ],
+   "section": "Økonomi",
+   "headline": "Chefredaktøren har ordet – Regnskaber overrasker positivt, men tøvende kursreaktion",
+   "primarySourceUrl": "https://ugebrev.dk/formue/chefredaktoeren-har-ordet-regnskaber-overrasker-positivt-men-toevende-kursreaktion/",
+   "subheadline": "Danske selskaber slår forventningerne på driften, og aktierne falder alligevel. Analytikerne spørger ikke til kvartalet, men til holdbarheden af opjusteringerne.",
+   "body": [
+    "De fleste store danske selskaber slog analytikernes forventninger til driften i andet kvartal. Kursreaktionen har været den modsatte: Novo Nordisk faldt trods en opjusteret årsforventning, og samme mønster ses i DSV, Danske Bank, Nordea og Ringkjøbing Landbobank. Genmab faldt i USA torsdag aften, men kom stærkt igen fredag.",
+    "Forklaringen ligger i investorsamtalerne, skriver Økonomisk Ugebrev. Analytikerne spørger ikke til kvartalet, men til holdbarheden af opjusteringerne. Deres forventning til C25's overskudsudvikling er forbedret fra minus 23 til minus 14 procent på to uger, stadig næstlavest blandt 16 europæiske lande i LSEG I/B/E/S' opgørelse."
+   ],
+   "whyItMatters": "Et dansk selskab kan lige nu slå forventningerne og alligevel blive straffet. Spørgsmålet er flyttet til indtjeningens holdbarhed.",
+   "analysis": "Med ind i ugen: Demant og ISS tirsdag, Vestas onsdag, Mærsk, Pandora og Ørsted torsdag.",
+   "image": {
+    "url": "https://ugebrev.dk/wp-content/uploads/2024/08/regnskab.jpg",
+    "credit": "Arkivfoto: Økonomisk Ugebrev",
+    "alt": "Kuglepen liggende på udskrevne søjlediagrammer med en bærbar computer i baggrunden. Økonomisk Ugebrevs arkivbillede til den ugentlige gennemgang af regnskabssæsonen.",
+    "sourceUrl": "https://ugebrev.dk/formue/chefredaktoeren-har-ordet-regnskaber-overrasker-positivt-men-toevende-kursreaktion/"
+   },
+   "topics": [
+    "aktiemarked",
+    "regnskaber",
+    "dansk-erhvervsliv",
+    "makro",
+    "c25"
+   ],
+   "entities": [
+    "Novo Nordisk",
+    "DSV",
+    "Genmab",
+    "Danske Bank",
+    "Nordea",
+    "Vestas",
+    "Mærsk",
+    "Ørsted",
+    "LSEG"
+   ],
+   "isLead": false,
+   "isOutsideProfile": false,
+   "scores": {
+    "importance": 70,
+    "decisionValue": 86,
+    "novelty": 68,
+    "sourceQuality": 78,
+    "personalRelevance": 88,
+    "contrast": 66
+   },
+   "claims": [
+    {
+     "text": "De fleste store danske selskaber har leveret bedre driftsoverskud end analytikerne ventede i Q2, men kurserne faldt i blandt andet Novo Nordisk, DSV, Genmab, Danske Bank, Nordea og Ringkjøbing Landbobank",
+     "sourceUrls": [
+      "https://ugebrev.dk/formue/chefredaktoeren-har-ordet-regnskaber-overrasker-positivt-men-toevende-kursreaktion/"
+     ],
+     "confidence": "high"
+    },
+    {
+     "text": "Analytikernes samlede forventning til C25-selskabernes Q2-overskudsudvikling er ændret fra minus 23 procent for to uger siden til minus 14 procent, stadig næstlavest blandt 16 europæiske lande i LSEG I/B/E/S' ugentlige opgørelse",
+     "sourceUrls": [
+      "https://ugebrev.dk/formue/chefredaktoeren-har-ordet-regnskaber-overrasker-positivt-men-toevende-kursreaktion/"
+     ],
+     "confidence": "high"
+    },
+    {
+     "text": "I den kommende uge aflægger Demant og ISS regnskab tirsdag, Vestas onsdag og Mærsk, Pandora og Ørsted torsdag",
+     "sourceUrls": [
+      "https://ugebrev.dk/formue/chefredaktoeren-har-ordet-regnskaber-overrasker-positivt-men-toevende-kursreaktion/"
+     ],
+     "confidence": "high"
+    }
+   ],
+   "sources": [
+    {
+     "title": "Chefredaktøren har ordet – Regnskaber overrasker positivt, men tøvende kursreaktion",
+     "publisher": "Økonomisk Ugebrev",
+     "kind": "analysis",
+     "url": "https://ugebrev.dk/formue/chefredaktoeren-har-ordet-regnskaber-overrasker-positivt-men-toevende-kursreaktion/",
+     "publishedAt": "2026-08-08T11:00:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": "thomas-20260808-novo-doustdar-fagforeninger",
+   "eventKey": "novo-nordisk-doustdar-tempo-udtalelser-fagforeningskritik",
+   "materialFacts": [
+    "Mike Doustdar sagde på et online pressemøde onsdag, at Novo Nordisk skal løbe i et helt andet tempo",
+    "Teknisk Landsforbunds formand Jannik Frank Petersen kalder udsagnene uværdige",
+    "Djøf-formand Sara Vergo oplyser, at mange af forbundets knap 800 medlemmer i Novo Nordisk har stresssymptomer",
+    "Teknisk Landsforbund repræsenterer 600 Novo-ansatte, primært i produktionen",
+    "Novo Nordisk har i dag omkring 7.200 færre medarbejdere i Danmark",
+    "Selskabet meldte tidligere ud, at det planlagde at nedlægge 9.000 stillinger globalt, heraf 5.000 i Danmark",
+    "Aktiekursen er faldet fra over 1.000 kroner for to år siden til omkring 300 kroner"
+   ],
+   "section": "Erhverv",
+   "headline": "Novo-boss vil have ansatte til at løbe hurtigere og arbejde mere midt i krise: 'Uværdigt' og 'et hårdt signal', mener fagforeninger",
+   "primarySourceUrl": "https://www.dr.dk/nyheder/penge/novo-boss-vil-have-ansatte-til-loebe-hurtigere-og-arbejde-mere-midt-i-krise-uvaerdigt-og-et-haardt",
+   "subheadline": "Topchefen efterlyser mere arbejde og tidligere morgener. Fagforeningerne svarer, at 5.000 danske stillinger allerede er væk, og at retorikken hører til på et samlebånd i 1950'erne.",
+   "body": [
+    "- Vi skal løbe i et helt andet tempo. Vi skal gøre mere, sagde Novo Nordisks direktør Mike Doustdar på et pressemøde onsdag. Det kræver, at man står tidligere op og går senere i seng, tilføjede han.",
+    "Jannik Frank Petersen, formand for Teknisk Landsforbund med 600 Novo-ansatte, kalder udsagnene uværdige: medlemmerne har givet deres højre arm for virksomheden, og nu skal de give den venstre også. Djøf, der har knap 800 jurister og økonomer i selskabet, oplyser, at mange medlemmer allerede har stresssymptomer, og at nogle medarbejdere kan opleve udmeldingen som et hårdt signal."
+   ],
+   "whyItMatters": "Novo flytter stadig mest i dansk økonomi. Hvordan selskabet taler til sin arbejdsstyrke er også et spørgsmål om, hvor let det kan rekruttere næste gang.",
+   "analysis": "Tallene bag: omkring 7.200 færre medarbejdere i Danmark, 9.000 varslede nedlæggelser globalt heraf 5.000 danske, og en kurs fra over 1.000 kroner til omkring 300.",
+   "image": {
+    "url": "https://asset.dr.dk/drdk/umbraco-images/wwumfxwn/20260805-173924-l.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+    "credit": "Foto: Mads Claus Rasmussen, Ritzau Scanpix, via DR",
+    "alt": "Portrætfoto mod hvid baggrund af Novo Nordisks administrerende direktør Mike Doustdar, som DR anvender til historien.",
+    "sourceUrl": "https://www.dr.dk/nyheder/penge/novo-boss-vil-have-ansatte-til-loebe-hurtigere-og-arbejde-mere-midt-i-krise-uvaerdigt-og-et-haardt"
+   },
+   "topics": [
+    "novo-nordisk",
+    "arbejdsmarked",
+    "dansk-erhvervsliv",
+    "ledelse",
+    "pharma"
+   ],
+   "entities": [
+    "Novo Nordisk",
+    "Mike Doustdar",
+    "Jannik Frank Petersen",
+    "Teknisk Landsforbund",
+    "Sara Vergo",
+    "Djøf"
+   ],
+   "isLead": false,
+   "isOutsideProfile": false,
+   "scores": {
+    "importance": 68,
+    "decisionValue": 66,
+    "novelty": 76,
+    "sourceQuality": 84,
+    "personalRelevance": 90,
+    "contrast": 74
+   },
+   "claims": [
+    {
+     "text": "Mike Doustdar sagde på et online pressemøde onsdag, at Novo Nordisk skal løbe i et helt andet tempo og gøre mere, og at det kræver, at man står tidligere op og går senere i seng",
+     "sourceUrls": [
+      "https://www.dr.dk/nyheder/penge/novo-boss-vil-have-ansatte-til-loebe-hurtigere-og-arbejde-mere-midt-i-krise-uvaerdigt-og-et-haardt"
+     ],
+     "confidence": "high"
+    },
+    {
+     "text": "Jannik Frank Petersen, forbundsformand i Teknisk Landsforbund, som repræsenterer 600 Novo-ansatte primært i produktionen, kalder udsagnene uværdige og tilgangen håbløst forældet",
+     "sourceUrls": [
+      "https://www.dr.dk/nyheder/penge/novo-boss-vil-have-ansatte-til-loebe-hurtigere-og-arbejde-mere-midt-i-krise-uvaerdigt-og-et-haardt"
+     ],
+     "confidence": "high"
+    },
+    {
+     "text": "Djøf, som repræsenterer knap 800 jurister og økonomer i Novo Nordisk, oplyser gennem formand Sara Vergo, at mange medlemmer har stresssymptomer, og at nogle medarbejdere kan opleve udmeldingen som et hårdt signal",
+     "sourceUrls": [
+      "https://www.dr.dk/nyheder/penge/novo-boss-vil-have-ansatte-til-loebe-hurtigere-og-arbejde-mere-midt-i-krise-uvaerdigt-og-et-haardt"
+     ],
+     "confidence": "high"
+    },
+    {
+     "text": "Novo Nordisk har omkring 7.200 færre medarbejdere i Danmark, har meldt ud at nedlægge 9.000 stillinger globalt heraf 5.000 i Danmark, og aktiekursen er faldet fra over 1.000 kroner for to år siden til omkring 300 kroner",
+     "sourceUrls": [
+      "https://www.dr.dk/nyheder/penge/novo-boss-vil-have-ansatte-til-loebe-hurtigere-og-arbejde-mere-midt-i-krise-uvaerdigt-og-et-haardt"
+     ],
+     "confidence": "high"
+    }
+   ],
+   "sources": [
+    {
+     "title": "Novo-boss vil have ansatte til at løbe hurtigere og arbejde mere midt i krise: 'Uværdigt' og 'et hårdt signal', mener fagforeninger",
+     "publisher": "DR",
+     "kind": "reporting",
+     "url": "https://www.dr.dk/nyheder/penge/novo-boss-vil-have-ansatte-til-loebe-hurtigere-og-arbejde-mere-midt-i-krise-uvaerdigt-og-et-haardt",
+     "publishedAt": "2026-08-07T16:20:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": "thomas-20260808-iris2-spacerise-aftale",
+   "eventKey": "eu-iris2-implementeringsaftale-spacerise-348-satellitter",
+   "materialFacts": [
+    "Europa-Kommissionen og konsortiet SpaceRISE har afsluttet forhandlingerne og underskrevet en implementeringsaftale om IRIS²",
+    "Aftalen tilføjer 66 satellitter i lav jordbane, så hovedkonstellationen når 348 satellitter",
+    "Forhandlingerne begyndte i januar, og programmet går fra planlægning til fuld udrulning",
+    "Den første satellit skal sendes op inden slutningen af 2029",
+    "Polen har forpligtet 656 millioner euro, Ungarn 500 millioner euro, og Spanien har annonceret mellem 1,6 og 2 milliarder euro",
+    "Kommissionen varsler stigende omkostninger, og budgetforhandlinger er undervejs"
+   ],
+   "section": "Europa",
+   "headline": "Elon Musks satellit-dominans udfordres af europæisk satsning",
+   "primarySourceUrl": "https://www.dr.dk/nyheder/udland/eu/elon-musks-satellit-dominans-udfordres-af-europaeisk-satsning",
+   "subheadline": "Kommissionen har underskrevet aftalen med SpaceRISE-konsortiet. 348 satellitter, første opsendelse inden slutningen af 2029, og medlemsstater lægger nationale milliarder oveni.",
+   "body": [
+    "Europa-Kommissionen har lukket forhandlingerne om IRIS², EU's egen satellitkonstellation, og underskrevet en implementeringsaftale med konsortiet SpaceRISE. Aftalen lægger 66 satellitter i lav jordbane til, så hovedkonstellationen når 348. Den første satellit skal sendes op inden slutningen af 2029.",
+    "- Det handler fuldstændig fundamentalt om dagsordenen om autonomi for Europa. Altså uafhængighed, primært af USA, siger Michael Linden-Vørnle, astrofysiker ved DTU Space, til DR. Starlink har over 6.750 satellitter i kredsløb."
+   ],
+   "whyItMatters": "Finansieringen kommer fra EU-budgettet for 2028-2034 plus investeringer fra medlemsstater og tredjelande. Polen har forpligtet 656 millioner euro, Ungarn 500 millioner og Spanien mellem 1,6 og 2 milliarder.",
+   "analysis": "Begrundelsen er konkret. Da USA sidste år stoppede efterretningsdelingen med Ukraine, måtte Maxar suspendere ukrainsk adgang til en del af sine satellitbilleder.",
+   "image": {
+    "url": "https://asset.dr.dk/drdk/umbraco-images/v4zh45do/20260725-021448-4-5997x4000ma.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+    "credit": "Foto: Michael Gonzalez, EPA/Ritzau Scanpix, via DR",
+    "alt": "En Starship-raket fra SpaceX under opsendelse med røgskyer over kystlandskab. DR bruger billedet til historien om EU's IRIS²-konstellation, der skal mindske afhængigheden af Elon Musks Starlink.",
+    "sourceUrl": "https://www.dr.dk/nyheder/udland/eu/elon-musks-satellit-dominans-udfordres-af-europaeisk-satsning"
+   },
+   "topics": [
+    "eu",
+    "strategisk-autonomi",
+    "rumfart",
+    "industripolitik",
+    "forsvar"
+   ],
+   "entities": [
+    "Europa-Kommissionen",
+    "SpaceRISE",
+    "Starlink",
+    "SpaceX",
+    "Michael Linden-Vørnle",
+    "DTU Space",
+    "Polen",
+    "Ungarn",
+    "Spanien",
+    "Maxar"
+   ],
+   "isLead": false,
+   "isOutsideProfile": false,
+   "scores": {
+    "importance": 80,
+    "decisionValue": 72,
+    "novelty": 78,
+    "sourceQuality": 90,
+    "personalRelevance": 82,
+    "contrast": 68
+   },
+   "claims": [
+    {
+     "text": "Europa-Kommissionen og SpaceRISE-konsortiet har afsluttet forhandlingerne og underskrevet en implementeringsaftale, der tilføjer 66 satellitter i lav jordbane og bringer hovedkonstellationen til 348 satellitter",
+     "sourceUrls": [
+      "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1726",
+      "https://www.dr.dk/nyheder/udland/eu/elon-musks-satellit-dominans-udfordres-af-europaeisk-satsning"
+     ],
+     "confidence": "high"
+    },
+    {
+     "text": "Polen har forpligtet 656 millioner euro og Ungarn 500 millioner euro, mens Spanien har annonceret investeringer mellem 1,6 og 2 milliarder euro",
+     "sourceUrls": [
+      "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1726"
+     ],
+     "confidence": "high"
+    },
+    {
+     "text": "Michael Linden-Vørnle, astrofysiker ved DTU Space, kobler programmet til europæisk autonomi, primært uafhængighed af USA, og Starlink har over 6.750 satellitter i kredsløb",
+     "sourceUrls": [
+      "https://www.dr.dk/nyheder/udland/eu/elon-musks-satellit-dominans-udfordres-af-europaeisk-satsning"
+     ],
+     "confidence": "high"
+    },
+    {
+     "text": "Maxar måtte suspendere ukrainsk adgang til en del af sine satellitbilleder, da Donald Trump sidste år besluttede at stoppe deling af amerikanske efterretningsdata med Ukraine",
+     "sourceUrls": [
+      "https://www.dr.dk/nyheder/udland/eu/elon-musks-satellit-dominans-udfordres-af-europaeisk-satsning"
+     ],
+     "confidence": "medium"
+    }
+   ],
+   "sources": [
+    {
+     "title": "Elon Musks satellit-dominans udfordres af europæisk satsning",
+     "publisher": "DR",
+     "kind": "reporting",
+     "url": "https://www.dr.dk/nyheder/udland/eu/elon-musks-satellit-dominans-udfordres-af-europaeisk-satsning",
+     "publishedAt": "2026-08-08T07:40:00.000Z"
+    },
+    {
+     "title": "Commission accelerates IRIS² deployment with enhanced security and expanded satellites network",
+     "publisher": "Europa-Kommissionen",
+     "kind": "primary",
+     "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1726",
+     "publishedAt": "2026-08-07T06:51:38.000Z"
+    }
+   ]
+  },
+  {
+   "id": "thomas-20260808-amazonas-skovrydning-fald",
+   "eventKey": "amazonas-skovrydning-2025-2026-fald-inpe",
+   "materialFacts": [
+    "Nye tal fra Brasiliens Nationale Institut for Rumforskning viser, at skovrydningen i Amazonas faldt næsten 37 procent fra august 2025 til juli 2026",
+    "Der blev ryddet 2.874 kvadratkilometer i perioden, mod et højdepunkt på 12.500 kvadratkilometer i 2022",
+    "Lula stiller op til genvalg i oktober og har lovet at stoppe ulovlig skovrydning inden 2030",
+    "Modkandidaten Flávio Bolsonaro ser beskyttelsen som en hindring for væksten",
+    "JBS har droppet sit mål om netto-nuludledning i 2040 og fjernet referencen til at stoppe afskovning i sin brasilianske forsyningskæde"
+   ],
+   "section": "Udland",
+   "headline": "Skovrydningen i verdens største regnskov falder markant",
+   "primarySourceUrl": "https://nyheder.tv2.dk/udland/2026-08-08-skovrydningen-i-verdens-stoerste-regnskov-falder-markant",
+   "subheadline": "Skovrydningen i Amazonas faldt næsten 37 procent på et år. Samtidig har verdens største kødproducent fjernet sit eget afskovningsmål.",
+   "body": [
+    "Nye tal fra Brasiliens Nationale Institut for Rumforskning viser, at skovrydningen i Amazonas faldt næsten 37 procent fra august 2025 til juli 2026. Der blev ryddet 2.874 kvadratkilometer mod 12.500 i 2022. Det er ifølge TV 2 det laveste niveau i et årti.",
+    "Præsident Lula, der genopstiller i oktober, har lovet at stoppe ulovlig skovrydning inden 2030. - Tallene tyder på, at vi kan nå det her mål, hvis vi fastholder det nuværende tempo (...), siger han. Modkandidaten Flávio Bolsonaro ser beskyttelsen som en hindring for væksten."
+   ],
+   "whyItMatters": "En af de få store miljøkurver, der peger nedad, målt fra satellit af et statsligt institut.",
+   "analysis": "Hvorfor kurven falder, siger tallene ikke. Den private side trækker modsat.",
+   "counterpoint": "JBS, verdens største kødvirksomhed, har droppet sit mål om netto-nuludledning i 2040 og fjernet referencen til at stoppe afskovning i sin brasilianske forsyningskæde, skriver Økonomisk Ugebrev.",
+   "image": {
+    "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/f/e/4/fe42d938-e722-4ffb-811b-65de638656e0?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCwzMCw1NDgxLDMwODc&s=e36ef825b756f579bfeb6dce0df39ea5",
+    "credit": "Arkivfoto: Bruno Kelly / Scanpix Denmark, via TV 2",
+    "alt": "Luftfoto af et ryddet område i Amazonas med fældede træer og en jordvej, omgivet af intakt regnskov til horisonten. Arkivfoto anvendt af TV 2.",
+    "sourceUrl": "https://nyheder.tv2.dk/udland/2026-08-08-skovrydningen-i-verdens-stoerste-regnskov-falder-markant"
+   },
+   "topics": [
+    "brasilien",
+    "klima",
+    "afskovning",
+    "fødevarer",
+    "konstruktivt"
+   ],
+   "entities": [
+    "Amazonas",
+    "Brasilien",
+    "Lula",
+    "Flávio Bolsonaro",
+    "JBS",
+    "Jason Weller"
+   ],
+   "isLead": false,
+   "isOutsideProfile": false,
+   "scores": {
+    "importance": 78,
+    "decisionValue": 60,
+    "novelty": 74,
+    "sourceQuality": 82,
+    "personalRelevance": 56,
+    "contrast": 84
+   },
+   "claims": [
+    {
+     "text": "Skovrydningen i Amazonas faldt næsten 37 procent fra august 2025 til juli 2026 til 2.874 kvadratkilometer, det laveste i et årti, mod et højdepunkt på 12.500 kvadratkilometer i 2022, viser tal fra Brasiliens Nationale Institut for Rumforskning",
+     "sourceUrls": [
+      "https://nyheder.tv2.dk/udland/2026-08-08-skovrydningen-i-verdens-stoerste-regnskov-falder-markant"
+     ],
+     "confidence": "high"
+    },
+    {
+     "text": "Lula stiller op til genvalg i oktober mod senator Flávio Bolsonaro, der ser beskyttelsen af regnskoven som en hindring for væksten",
+     "sourceUrls": [
+      "https://nyheder.tv2.dk/udland/2026-08-08-skovrydningen-i-verdens-stoerste-regnskov-falder-markant"
+     ],
+     "confidence": "high"
+    },
+    {
+     "text": "JBS har droppet sit mål om netto-nuludledning i 2040 og fjernet referencen til at stoppe afskovning i sin brasilianske forsyningskæde, og bæredygtighedschef Jason Weller begrunder det med kompleksiteten i at måle udledninger hos hundredtusinder af uafhængige producenter",
+     "sourceUrls": [
+      "https://ugebrev.dk/samfundsansvar/esg-nyt/verdens-stoerste-koedproducent-opgiver-klima-og-afskovningsmaal/"
+     ],
+     "confidence": "high"
+    }
+   ],
+   "sources": [
+    {
+     "title": "Skovrydningen i verdens største regnskov falder markant",
+     "publisher": "TV 2",
+     "kind": "reporting",
+     "url": "https://nyheder.tv2.dk/udland/2026-08-08-skovrydningen-i-verdens-stoerste-regnskov-falder-markant",
+     "publishedAt": "2026-08-08T09:08:01.557Z"
+    },
+    {
+     "title": "Verdens største kødproducent opgiver klima- og afskovningsmål",
+     "publisher": "Økonomisk Ugebrev",
+     "kind": "reporting",
+     "url": "https://ugebrev.dk/samfundsansvar/esg-nyt/verdens-stoerste-koedproducent-opgiver-klima-og-afskovningsmaal/",
+     "publishedAt": "2026-08-07T18:30:34.000Z"
+    }
+   ]
+  },
+  {
+   "id": "thomas-20260808-cambridge-arday-plagiat",
+   "eventKey": "cambridge-jason-arday-plagiatanklager-fratraedelse",
+   "materialFacts": [
+    "Jason Arday har trukket sig fra Cambridge University",
+    "Cambridge indledte en undersøgelse som følge af ny information om hans akademiske kvalifikationer, men nåede ikke en konklusion før han trak sig",
+    "Anklagerne blev rejst af den amerikanske professor Nathan Cofnas i et opslag på Substack for to uger siden, hvorefter andre prominente professorer fulgte efter",
+    "Arday afviser alle former for snyd og plagiat og siger, at eventuelle fejl skyldes hans autismediagnose",
+    "Liverpool John Moores Universitet undersøgte afhandlingen tidligere og droppede anklagerne som en ærlig og rimelig fejl",
+    "Cofnas blev selv fyret fra Cambridge to år tidligere efter udtalelser om sorte forskere",
+    "Arday blev ansat i 2023 som den yngste sorte professor i Cambridges historie, 37 år gammel",
+    "Arday mener, anklagerne er racemæssigt motiverede"
+   ],
+   "section": "Videnskab",
+   "headline": "Efter beskyldninger om løgne og snyd har historisk professor trukket sig",
+   "primarySourceUrl": "https://nyheder.tv2.dk/udland/2026-08-07-efter-beskyldninger-om-loegne-og-snyd-har-historisk-professor-trukket-sig",
+   "subheadline": "Cambridge nåede aldrig en konklusion. Professoren trak sig først, og anklageren var selv fyret fra universitetet to år tidligere.",
+   "body": [
+    "Jason Arday har forladt Cambridge efter anklager om plagiat i flere udgivelser. Universitetet stod først ved hans side, men indledte siden en undersøgelse af hans kvalifikationer, som han trak sig fra.",
+    "Han blev ansat i 2023 som den yngste sorte professor i Cambridges historie, 37 år gammel. Anklagerne blev rejst for to uger siden af den amerikanske professor Nathan Cofnas på Substack, mod ph.d.-afhandlingen fra 2015. Cofnas blev selv fyret fra Cambridge to år før."
+   ],
+   "whyItMatters": "Cambridge afgjorde aldrig sin egen sag.",
+   "analysis": "Arday afviser alle former for snyd og plagiat. Han siger, at eventuelle fejl skyldes hans autismediagnose, ikke bevidst svindel, og taler om en \"velkoordineret og samordnet kampagne for at fjerne mig fra min stilling\". Liverpool John Moores, hvor han fik sin ph.d., undersøgte afhandlingen tidligere og droppede sagen, fordi der var tale om en ærlig og rimelig fejl, skriver BBC.",
+   "image": {
+    "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/f/f/3/ff320aee-a544-488a-8a40-c41b51da8177?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCwxMCw4NDYsNDc2&s=a6c502e1dc7c3ee5b254fcfaf70bd5a5",
+    "credit": "Foto: PR / Cambridge University, via TV 2",
+    "alt": "Portrætfoto af Jason Arday, der sidder på en træbænk foran en gulkalket murstensvæg. Pressefoto fra Cambridge University, som TV 2 anvender til historien.",
+    "sourceUrl": "https://nyheder.tv2.dk/udland/2026-08-07-efter-beskyldninger-om-loegne-og-snyd-har-historisk-professor-trukket-sig"
+   },
+   "topics": [
+    "forskningsintegritet",
+    "universiteter",
+    "storbritannien",
+    "videnskab"
+   ],
+   "entities": [
+    "Jason Arday",
+    "Cambridge University",
+    "Nathan Cofnas",
+    "Liverpool John Moores University"
+   ],
+   "isLead": false,
+   "isOutsideProfile": true,
+   "scores": {
+    "importance": 64,
+    "decisionValue": 44,
+    "novelty": 80,
+    "sourceQuality": 78,
+    "personalRelevance": 30,
+    "contrast": 88
+   },
+   "claims": [
+    {
+     "text": "Jason Arday har trukket sig fra Cambridge University, efter kollegaer rejste omfattende anklager om plagiat, og universitetet indledte en undersøgelse som følge af ny information om hans akademiske kvalifikationer uden at nå en konklusion",
+     "sourceUrls": [
+      "https://nyheder.tv2.dk/udland/2026-08-07-efter-beskyldninger-om-loegne-og-snyd-har-historisk-professor-trukket-sig"
+     ],
+     "confidence": "high"
+    },
+    {
+     "text": "Anklagerne blev rejst offentligt for to uger siden af den amerikanske professor Nathan Cofnas i et opslag på Substack mod Ardays ph.d. fra 2015, hvorefter andre prominente professorer også begyndte at beskylde ham for plagiat, og Cofnas blev selv fyret fra Cambridge to år tidligere efter udtalelser om sorte forskere",
+     "sourceUrls": [
+      "https://nyheder.tv2.dk/udland/2026-08-07-efter-beskyldninger-om-loegne-og-snyd-har-historisk-professor-trukket-sig"
+     ],
+     "confidence": "high"
+    },
+    {
+     "text": "Jason Arday afviser alle former for snyd og plagiat og har indrømmet, at der kan være sket fejl i forskningen på grund af hans autismediagnose, men afviser at have svindlet med vilje. Liverpool John Moores Universitet, hvor han fik sin ph.d., undersøgte afhandlingen tidligere og droppede anklagerne, fordi der var tale om en ærlig og rimelig fejl, skriver BBC",
+     "sourceUrls": [
+      "https://nyheder.tv2.dk/udland/2026-08-07-efter-beskyldninger-om-loegne-og-snyd-har-historisk-professor-trukket-sig"
+     ],
+     "confidence": "high"
+    },
+    {
+     "text": "Arday siger, at der siden han kom til Cambridge har været en velkoordineret og samordnet kampagne for at fjerne ham fra hans stilling, og mener anklagerne er racemæssigt motiverede",
+     "sourceUrls": [
+      "https://nyheder.tv2.dk/udland/2026-08-07-efter-beskyldninger-om-loegne-og-snyd-har-historisk-professor-trukket-sig"
+     ],
+     "confidence": "high"
+    }
+   ],
+   "sources": [
+    {
+     "title": "Efter beskyldninger om løgne og snyd har historisk professor trukket sig",
+     "publisher": "TV 2",
+     "kind": "reporting",
+     "url": "https://nyheder.tv2.dk/udland/2026-08-07-efter-beskyldninger-om-loegne-og-snyd-har-historisk-professor-trukket-sig",
+     "publishedAt": "2026-08-08T03:49:16.089Z"
+    }
+   ]
+  },
+  {
+   "id": "thomas-20260808-us-jobrapport-juli-deltagelse",
+   "eventKey": "us-jobrapport-juli-2026-nedrevisioner-deltagelsesrate",
+   "materialFacts": [
+    "Den amerikanske jobrapport for juli viser et fald i lønningslisterne på 23.000",
+    "De to foregående måneder er nedrevideret med i alt 103.000 job, så tremåneders-gennemsnittet nu er 20.000",
+    "Arbejdsløsheden faldt til 4,1 procent fra 4,2 procent, men fordi deltagelsesraten faldt",
+    "Deltagelsesraten faldt til 61,4 procent, uden for pandemien det laveste siden midt til sidst i 1970'erne",
+    "En kvart million mennesker forlod arbejdsstyrken i løbet af måneden",
+    "Den gennemsnitlige timelønsvækst faldt til 3,2 procent år til år fra 3,5 procent"
+   ],
+   "section": "Økonomi",
+   "headline": "Amerikansk arbejdsmarked lider jobtab i juli, renteforhøjelse mindre sandsynlig før FOMC-mødet 16. september",
+   "primarySourceUrl": "https://ugebrev.dk/flashnews/amerikansk-arbejdsmarked-lider-jobtab-i-juli-renteforhoejelse-mindre-sandsynlig-foer-fomc-moedet-16-september/",
+   "subheadline": "Arbejdsløsheden faldt, men af den forkerte grund: en kvart million mennesker forlod arbejdsstyrken, og deltagelsesraten er den laveste siden 1970'erne uden for pandemien.",
+   "body": [
+    "Den amerikanske jobrapport for juli viser et fald på 23.000 i lønningslisterne, og de to foregående måneder er nedrevideret med i alt 103.000 job. Tremåneders-gennemsnittet er dermed 20.000. Arbejdsløsheden faldt til 4,1 procent fra 4,2, men primært fordi deltagelsesraten faldt yderligere.",
+    "Deltagelsesraten er nu 61,4 procent. Uden for pandemien skal man tilbage til 1970'erne for at finde et lavere tal. En kvart million mennesker forlod arbejdsstyrken i løbet af måneden, og timelønsvæksten faldt til 3,2 procent år til år fra 3,5."
+   ],
+   "whyItMatters": "Et fald i arbejdsløsheden, der kommer af, at folk holder op med at søge, er ikke en styrkelse. Forskellen afgør, hvordan tallet skal læses.",
+   "analysis": "Reaktionen kom i renterne: de toårige obligationsrenter faldt, og dollaren svækkedes. ING, som Økonomisk Ugebrev gengiver, vurderer, at en renteforhøjelse fra Federal Reserve på mødet 16. september nu er mindre sandsynlig.",
+   "image": {
+    "url": "https://think.ing.com/uploads/charts/_w552/juljobs1.png",
+    "credit": "Grafik: ING, via Økonomisk Ugebrev",
+    "alt": "Søjlediagram fra ING over den kumulerede amerikanske jobskabelse fordelt på sektorer fra januar 2023 til 2026. Privat uddannelse og sundhed udgør den største del, og en sort linje viser totalen.",
+    "sourceUrl": "https://ugebrev.dk/flashnews/amerikansk-arbejdsmarked-lider-jobtab-i-juli-renteforhoejelse-mindre-sandsynlig-foer-fomc-moedet-16-september/"
+   },
+   "topics": [
+    "usa",
+    "arbejdsmarked",
+    "renter",
+    "makro"
+   ],
+   "entities": [
+    "Federal Reserve",
+    "ING",
+    "USA"
+   ],
+   "isLead": false,
+   "isOutsideProfile": false,
+   "scores": {
+    "importance": 74,
+    "decisionValue": 70,
+    "novelty": 66,
+    "sourceQuality": 76,
+    "personalRelevance": 72,
+    "contrast": 62
+   },
+   "claims": [
+    {
+     "text": "Den amerikanske jobrapport for juli viser et fald på 23.000 i lønningslisterne og nedrevisioner på 103.000 job for de to foregående måneder, hvilket giver et tremåneders-gennemsnit på 20.000",
+     "sourceUrls": [
+      "https://ugebrev.dk/flashnews/amerikansk-arbejdsmarked-lider-jobtab-i-juli-renteforhoejelse-mindre-sandsynlig-foer-fomc-moedet-16-september/"
+     ],
+     "confidence": "high"
+    },
+    {
+     "text": "Arbejdsløsheden faldt til 4,1 procent fra 4,2 procent, primært fordi deltagelsesraten faldt til 61,4 procent, uden for pandemien det laveste siden midt til sidst i 1970'erne, og en kvart million mennesker forlod arbejdsstyrken",
+     "sourceUrls": [
+      "https://ugebrev.dk/flashnews/amerikansk-arbejdsmarked-lider-jobtab-i-juli-renteforhoejelse-mindre-sandsynlig-foer-fomc-moedet-16-september/"
+     ],
+     "confidence": "high"
+    },
+    {
+     "text": "De toårige obligationsrenter faldt og dollaren svækkedes, og ING vurderer, at en renteforhøjelse fra Federal Reserve i september nu er mindre sandsynlig",
+     "sourceUrls": [
+      "https://ugebrev.dk/flashnews/amerikansk-arbejdsmarked-lider-jobtab-i-juli-renteforhoejelse-mindre-sandsynlig-foer-fomc-moedet-16-september/"
+     ],
+     "confidence": "high"
+    }
+   ],
+   "sources": [
+    {
+     "title": "Amerikansk arbejdsmarked lider jobtab i juli, renteforhøjelse mindre sandsynlig før FOMC-mødet 16. september",
+     "publisher": "Økonomisk Ugebrev",
+     "kind": "reporting",
+     "url": "https://ugebrev.dk/flashnews/amerikansk-arbejdsmarked-lider-jobtab-i-juli-renteforhoejelse-mindre-sandsynlig-foer-fomc-moedet-16-september/",
+     "publishedAt": "2026-08-07T14:02:05.000Z"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  {
+   "text": "NHOs nye sjeføkonom: – Mye synsing i den offentlige debatten",
+   "headline": "NHOs nye sjeføkonom: – Mye synsing i den offentlige debatten",
+   "url": "https://e24.no/norsk-oekonomi/i/16xkre/nhos-nye-sjefoekonom-mye-synsing-i-den-offentlige-debatten",
+   "publisher": "E24",
+   "section": "Navne",
+   "publishedAt": "2026-08-08T08:05:59.000Z",
+   "summary": "Nejra Macic (36) er denne uge tiltrådt som ny sjeføkonom i den norske arbejdsgiverorganisation NHO, hvor hun overtager efter Øystein Dørum og skal lede afdelingen for samfundsøkonomi. Hun afviser en langvarig recession, men tror ikke, Norge får samme vækst de næste to til tre årtier som de seneste."
+  },
+  {
+   "text": "Topchef for den danske supercomputer Gefion fratræder: Her er hans nye job - satser stort på AI i Europa",
+   "headline": "Topchef for den danske supercomputer Gefion fratræder: Her er hans nye job - satser stort på AI i Europa",
+   "url": "https://www.computerworld.dk/art/296405/topchef-for-den-danske-supercomputer-gefion-fratraeder-her-er-hans-nye-job-satser-stort-paa-ai-i-europa",
+   "publisher": "Computerworld",
+   "section": "Navne",
+   "publishedAt": "2026-08-07T10:30:00.000Z",
+   "summary": "Ali Syed forlader Danish Centre for AI Innovation efter at have været med til at opbygge infrastrukturen omkring den danske AI-supercomputer Gefion. Han skifter til et job med fokus på opbygning af AI-infrastruktur i Europa."
+  },
+  {
+   "text": "Efter opkøb: Jesper Nielsen fratræder som topchef for BEC",
+   "headline": "Efter opkøb: Jesper Nielsen fratræder som topchef for BEC",
+   "url": "https://www.computerworld.dk/art/296424/efter-opkoeb-jesper-nielsen-fratraeder-som-topchef-for-bec",
+   "publisher": "Computerworld",
+   "section": "Navne",
+   "publishedAt": "2026-08-07T11:04:00.000Z",
+   "summary": "Topchefen for datacentralen BEC fratræder i kølvandet på Nykredits overtagelse af selskabet."
+  },
+  {
+   "text": "Efter endnu en armlægning i retten fik elselskaber dødsstødet, og omstridt advokat blev sat fra bestillingen",
+   "headline": "Efter endnu en armlægning i retten fik elselskaber dødsstødet, og omstridt advokat blev sat fra bestillingen",
+   "url": "https://www.dr.dk/nyheder/penge/efter-endnu-en-armlaegning-i-retten-fik-elselskaber-doedsstoedet-og-omstridt-advokat-blev-sat-fra",
+   "publisher": "DR",
+   "section": "Erhverv",
+   "publishedAt": "2026-08-07T15:47:16.000Z",
+   "summary": "Elselskaberne Velkommen og Vedvarende samt gasselskabet B.energy blev fredag erklæret konkurs. Striden handlede derefter om, hvem der skulle være kurator. Modparterne kaldte rekonstruktør Flemming Jensen inhabil, og han tabte afstemningen, da retten fandt, at to tidligere ejeres selskaber ikke var stemmeberettigede."
+  },
+  {
+   "text": "100.000 danskere med stærke muskelsmerter har nu fået et biologisk bevis på deres sygdom",
+   "headline": "100.000 danskere med stærke muskelsmerter har nu fået et biologisk bevis på deres sygdom",
+   "url": "https://www.dr.dk/nyheder/indland/100-000-danskere-med-staerke-muskelsmerter-har-nu-faaet-et-biologisk-bevis-paa-deres-sygdom",
+   "publisher": "DR",
+   "section": "Sundhed",
+   "publishedAt": "2026-08-07T19:03:00.000Z",
+   "summary": "Et internationalt forskningsprojekt offentliggjort i Nature Medicine fastslår, at fibromyalgi er en lidelse i nervesystemet med en biologisk årsag. Forskerne har set på genetiske data fra mere end 2,5 millioner voksne i syv lande og fundet 26 områder i arvemassen, der påvirker risikoen."
+  },
+  {
+   "text": "Tænketank og brancheforening stemmer i: Der er brug for mere regulering af datacentre",
+   "headline": "Tænketank og brancheforening stemmer i: Der er brug for mere regulering af datacentre",
+   "url": "https://www.dr.dk/nyheder/udland/taenketank-og-brancheforening-stemmer-i-der-er-brug-mere-regulering-af-datacentre",
+   "publisher": "DR",
+   "section": "Teknologi",
+   "publishedAt": "2026-08-07T13:12:00.000Z",
+   "summary": "Concito mener, der bør stilles krav til AI-ejerne om at regulere datacentrenes aktiviteter, og brancheforeningen Datacenterindustrien er enig i, at det internationale fokus på forbruget af strøm og vand bør øges, særligt hvor vandet er knapt. Ifølge brancheforeningen er der cirka 55 datacentre i Danmark, hvoraf cirka 25 er større."
+  },
+  {
+   "text": "Filippinere boomer som arbejdskraft i Grønland",
+   "headline": "Filippinere boomer som arbejdskraft i Grønland",
+   "url": "https://www.dr.dk/nyheder/indland/groenland/filippinere-boomer-som-arbejdskraft-i-groenland",
+   "publisher": "DR",
+   "section": "Grønland",
+   "publishedAt": "2026-08-08T10:02:00.000Z",
+   "summary": "Antallet af filippinske statsborgere i Grønland er på ti år vokset fra 160 til godt 1.300, og der er nu omkring 1.900 asiater ud af en befolkning på 56.500. Virksomhederne kan ikke finde grønlandsk arbejdskraft, og befolkningstallet ventes at falde 20 procent de kommende årtier."
+  },
+  {
+   "text": "Ulv har opsøgt legende børn i private haver i Vestjylland",
+   "headline": "Ulv har opsøgt legende børn i private haver i Vestjylland",
+   "url": "https://www.dr.dk/nyheder/indland/ulv-har-opsoegt-legende-boern-i-private-haver-i-vestjylland",
+   "publisher": "DR",
+   "section": "Danmark",
+   "publishedAt": "2026-08-07T05:18:05.000Z",
+   "summary": "Der oprettes en ny reguleringszone ved Nørre Nebel, oplyser Ministeriet for Natur og Dyrevelfærd, efter en ulv tre gange 5. august opsøgte legende børn i private haver. Termiske droner tages i brug, og Naturstyrelsen patruljerer med rifler. Zonen strækker sig op til Hvide Sande."
+  },
+  {
+   "text": "Dansk politi lod morder gå, fastslår britisk dom",
+   "headline": "Dansk politi lod morder gå, fastslår britisk dom",
+   "url": "https://nyheder.tv2.dk/krimi/2026-08-08-dansk-politi-lod-morder-gaa-fastslaar-britisk-dom",
+   "publisher": "TV 2",
+   "section": "Krimi",
+   "publishedAt": "2026-08-08T07:11:23.843Z",
+   "summary": "En britisk ligsynsdommer fastslog torsdag, at Paula Leeson blev dræbt af sin mand i et sommerhus ved Varde i 2017. Syd- og Sønderjyllands Politi henlagde dengang sagen som en ulykke. Manden blev frifundet i Manchester i 2021 og er ikke set siden."
+  },
+  {
+   "text": "Da Vismas brøler gav UAE oprejsning",
+   "headline": "Da Vismas brøler gav UAE oprejsning",
+   "url": "https://sport.tv2.dk/cykling/2026-08-07-da-vismas-broeler-gav-uae-oprejsning",
+   "publisher": "TV 2 Sport",
+   "section": "Sport",
+   "publishedAt": "2026-08-07T16:41:50.408Z",
+   "summary": "Dagen efter Bart Lemmens etapesejr i Tour de Pologne begik Visma en fejl, der gav UAE oprejsning på murbjergetapen. TV 2's cykelekspert Emil Axelgaard gennemgår, hvordan det hollandske hold først læste løbet rigtigt og derefter tabte initiativet."
+  },
+  {
+   "text": "August Holmgren bliver bedre og bedre, samtidig med at han daler på ranglisten",
+   "headline": "August Holmgren bliver bedre og bedre, samtidig med at han daler på ranglisten",
+   "url": "https://www.dr.dk/sporten/tennis/august-holmgren-bliver-bedre-og-bedre-samtidig-med-han-daler-paa-ranglisten",
+   "publisher": "DR Sporten",
+   "section": "Sport",
+   "publishedAt": "2026-08-07T10:03:46.000Z",
+   "summary": "Den danske tennisspiller er på et år faldet fra nummer 141 til 224 på verdensranglisten, selv om han har vundet flere kampe end sidste år. Forklaringen er, at han i 2025 hentede mange point på et enkelt godt Wimbledon og en Challenger-sejr i Granby."
+  },
+  {
+   "text": "Danmarks speedwayherrer er klar til VM-finalen trods skidt start",
+   "headline": "Danmarks speedwayherrer er klar til VM-finalen trods skidt start",
+   "url": "https://www.dr.dk/sporten/seneste-sport/danmarks-speedwayherrer-er-klar-til-vm-finalen-trods-skidt-start",
+   "publisher": "DR Sporten",
+   "section": "Sport",
+   "publishedAt": "2026-08-07T18:28:24.000Z",
+   "summary": "Det danske speedwaylandshold er videre til VM-finalen efter en svag indledning."
+  }
+ ],
+ "column": {
+  "authoredBy": "ai",
+  "slug": "gennemsnittet-er-en-holdning",
+  "title": "Gennemsnittet er en holdning",
+  "thesis": "At vælge gennemsnittet frem for medianen er ikke et teknisk valg. Gennemsnittet tillader, at én persons gevinst opvejer en andens tab. Medianen nægter den handel.",
+  "body": [
+   "Et gennemsnit lægger alle sammen og dividerer. En stor gevinst til få tæller derfor præcis som den samme sum spredt tyndt ud over mange. Medianen spørger om noget andet: hvem står i midten. Den kan ikke kompensere. Det er to holdninger til, om mennesker må gøres op mod hinanden, og de ligger i regnestykket, før nogen har argumenteret for dem.",
+   "Det interessante er ikke, at valget findes, men hvordan det træffes. Når et ministerium opgør en reforms virkning som en gennemsnitlig husstandsgevinst, har det afgjort fordelingsspørgsmålet. Ingen i kæden oplever at have gjort det. Statistikken lå i skabelonen. Sådan bliver de fleste normative valg truffet: ikke drøftet, men arvet."
+  ],
+  "uncertainty": "Jeg tager fejl, hvis valget af statistik sjældent ændrer rækkefølgen af de muligheder, der sammenlignes. Så er det en formalitet, jeg har forvekslet med en beslutning. Fordelinger, hvor gennemsnit og median peger samme vej, er almindelige.",
+  "topics": [
+   "statistik",
+   "metode",
+   "fordelingspolitik",
+   "normativitet"
+  ]
+ },
+ "recommendations": [
+  {
+   "id": "thomas-rec-20260808-nationalbanken-stoerste-virksomheder",
+   "mode": "read",
+   "kind": "Analyse",
+   "status": "timely",
+   "title": "Stigende betydning af de største virksomheder",
+   "provider": "Danmarks Nationalbank",
+   "url": "https://www.nationalbanken.dk/da/viden-og-nyheder/publikationer-og-taler/analyse/2025/stigende-betydning-af-de-stoerste-virksomheder",
+   "availability": "Hele analysen ligger frit på nationalbanken.dk på dansk og engelsk, uden betalingsmur og uden login. Udgivet 19. marts 2025.",
+   "commitment": "ca. 25 min",
+   "description": "Nationalbankens analyse af, at et mindre antal store danske virksomheder står for en stigende andel af aktiviteten. De 25 størstes værditilvækst voksede fra 7,6 procent af BNP i 2009 til 12,8 procent i 2023, mens deres andel af beskæftigelsen faldt fra 6,0 til 4,9 procent.",
+   "rationale": "Den sætter tal på præcis den afhængighed, to af dagens historier kredser om. Når et enkelt selskabs halvårstal kan flytte billedet af dansk økonomi, er det værd at have Nationalbankens opgørelse af, hvor koncentreret værdiskabelsen faktisk er, og hvorfor BNP kan svinge mere end kapacitetsudnyttelsen.",
+   "topics": [
+    "dansk-økonomi",
+    "erhvervsstruktur",
+    "bnp",
+    "koncentration"
+   ],
+   "isFeatured": true,
+   "image": {
+    "url": "https://www.nationalbanken.dk/media/nabpfzq2/19-samfund.jpg?rxy=0.466080403768393,0.5019026098935715&width=1200&height=630&v=1dc596dc4de1bb0&hmac=8be3fad06bd9c4a522f223782472c1d5225c58238171aba4248089ff68329cfe",
+    "credit": "Foto: Danmarks Nationalbank",
+    "alt": "Industrihavn med høje skorstene, byggekraner og en bygning under opførelse set hen over vandet. Nationalbankens eget billede til analysen.",
+    "sourceUrl": "https://www.nationalbanken.dk/da/viden-og-nyheder/publikationer-og-taler/analyse/2025/stigende-betydning-af-de-stoerste-virksomheder"
+   }
+  },
+  {
+   "id": "thomas-rec-20260808-eca-single-market-services",
+   "mode": "read",
+   "kind": "Revisionsrapport",
+   "status": "new",
+   "title": "Special report 13/2026: Single market for services",
+   "provider": "Den Europæiske Revisionsret",
+   "url": "https://www.eca.europa.eu/en/publications/SR-2026-13",
+   "availability": "Gratis PDF i alle EU-sprog, også dansk (SR-2026-13_DA.pdf), uden login. Verificeret 8. august 2026.",
+   "commitment": "63 sider (engelsk udgave)",
+   "description": "Revisionsrettens gennemgang af det indre marked for tjenesteydelser: hvor barriererne stadig ligger, hvad Kommissionen og medlemsstaterne har gjort ved dem, og hvor lidt der reelt har flyttet sig.",
+   "rationale": "Tjenesteydelser er den halvdel af det indre marked, der aldrig blev færdig, og barriererne har været det hårdeste punkt på den europæiske erhvervsdagsorden i årevis. Her er en uafhængig revisionsinstans, der skriver konkret hvad der ikke virker, i stedet for endnu et positionspapir fra en part i sagen.",
+   "topics": [
+    "indre-marked",
+    "eu",
+    "tjenesteydelser",
+    "regelbyrde"
+   ],
+   "isFeatured": false
+  },
+  {
+   "id": "thomas-rec-20260808-access2markets-vaerktoej",
+   "mode": "try",
+   "kind": "Værktøj",
+   "status": "available",
+   "title": "Access2Markets",
+   "provider": "Europa-Kommissionen",
+   "url": "https://trade.ec.europa.eu/access-to-markets/en/content",
+   "availability": "Gratis uden login, alle EU-sprog inklusive dansk. Portalversion 2026.7.1.2 fra 31. juli 2026.",
+   "commitment": "20 min",
+   "description": "Kommissionens portal for markedsadgang: told, oprindelsesregler, procedurer og indberettede handelsbarrierer for den enkelte vare og det enkelte marked, med My Trade Assistant og Single Entry Point.",
+   "rationale": "Et værktøj frem for en analyse. Hvis en opgave begynder med spørgsmålet om, hvad en konkret vare møder ved grænsen, er det her svaret ligger, og det er værd at have prøvet på en rigtig varekode en søndag frem for første gang foran en kunde.",
+   "topics": [
+    "handelspolitik",
+    "markedsadgang",
+    "told",
+    "værktøj"
+   ],
+   "isFeatured": false
+  },
+  {
+   "id": "thomas-rec-20260808-wip-ultimate-horse",
+   "mode": "read",
+   "kind": "Essay",
+   "status": "new",
+   "title": "The ultimate horse",
+   "provider": "Works in Progress",
+   "url": "https://worksinprogress.co/issue/the-ultimate-horse",
+   "availability": "Frit tilgængelig uden betalingsmur eller login, global adgang. Publiceret 5. august 2026.",
+   "commitment": "25 min",
+   "description": "Secretariats rekord fra Belmont Stakes i 1973 står stadig, selv om der siden er brugt milliarder på avl og træning. Essayet er om det paradoks: at avlen efter hurtigere heste kan have avlet den genetiske variation væk, der skulle bære forbedringen.",
+   "rationale": "Ingen arbejdsmæssig anvendelse overhovedet, og det er meningen. Det er et velskrevet stykke om et selektionsproblem, der er løbet ind i en biologisk grænse, og den slags spørgsmål er bedre selskab en søndag end endnu en rapport om det indre marked.",
+   "topics": [
+    "biologi",
+    "avl",
+    "evolution",
+    "sport"
+   ],
+   "isFeatured": false
+  }
+ ],
+ "quality": {
+  "sourceQuality": 86,
+  "verification": 94,
+  "outsideProfile": 100
+ }
+}
