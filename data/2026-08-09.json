@@ -1,0 +1,801 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-08-09-r1",
+  "date": "2026-08-09",
+  "generatedAt": "2026-08-09T04:45:00.000Z",
+  "readingMinutes": 11,
+  "title": "Thomas' Nyheder — søndag den 9. august 2026",
+  "dek": "USA betaler nu europæiske energiselskaber for at forlade amerikansk havvind, og RWE er den seneste. Dansk industri kom stærkt ud af juni, men det interessante tal er det uden medicinal. Og en svensk svindelbølge mod virksomheder er på vej mod resten af Norden.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "thomas-20260809-rwe-havvind-forlig",
+      "eventKey": "rwe-usa-havvind-forlig-12-mia-dollar",
+      "materialFacts": [
+        "Washington betaler ifølge EuroNews 1,22 mia. dollar til RWE for at annullere selskabets amerikanske havvindtilladelser",
+        "RWE opgiver lejemål ud for New York, Californien og Louisiana",
+        "TotalEnergies blev i marts stillet ca. 1 mia. dollar i udsigt for at opgive Carolina Long Bay og New York Bight mod at investere i naturgas",
+        "RWE investerer 900 mio. dollar i 16 pct. af et LNG-projekt i Louisiana",
+        "RWE Americas planlægger ca. 17 mia. euro i USA over seks år og vil gå fra ca. 13 GW til 22 GW i 2031"
+      ],
+      "section": "Erhverv",
+      "headline": "Trump mod vind: Køber europæisk energikæmpe ud af havvind for 1,2 mia. dollar",
+      "primarySourceUrl": "https://ing.dk/artikel/trump-mod-vind-koeber-europaeisk-energikaempe-ud-af-havvind-12-mia-dollar",
+      "subheadline": "Washington betaler 1,22 mia. dollar til tyske RWE for at opgive amerikanske havvindtilladelser. Det er ikke første gang i år, og pengene flytter fra europæisk vind til amerikansk gas.",
+      "body": [
+        "Den amerikanske regering betaler ifølge EuroNews 1,22 milliarder dollar til tyske RWE for at annullere selskabets havvindtilladelser i USA. RWE bekræftede torsdag et forlig med indenrigsministeriet om at opgive lejemål ud for New York, Californien og Louisiana. Selskabets begrundelse er, at der ikke er nogen vej frem for at opnå tilladelser til disse projekter i USA i den overskuelige fremtid.",
+        "Det er ikke første gang. I marts blev TotalEnergies stillet omkring 1 milliard dollar i udsigt for at opgive Carolina Long Bay og New York Bight mod at investere i naturgas. RWE bliver i USA, men skifter spor: 900 millioner dollar for 16 procent af et LNG-projekt i Louisiana, og planer om cirka 17 milliarder euro over seks år, fra cirka 13 gigawatt i dag til 22 gigawatt i 2031."
+      ],
+      "whyItMatters": "Dansk vindindustri lever af, at havvind bliver bygget et sted. Når det amerikanske marked køber udbyggerne ud i stedet for at give dem tilladelser, forsvinder ikke bare projekterne, men ordrebogen bag dem i Danmark.",
+      "analysis": "I New York Times blev betalingen til TotalEnergies omtalt som en ekstraordinær overførsel af skatteydernes penge til et udenlandsk selskab med det formål at øge produktionen af fossile brændstoffer.",
+      "image": {
+        "url": "https://ing.dk/sites/mi/files/styles/open_graph_image_16_9/public/2022-08/germanyoffshorewindfarm62b0dea6003f8.jpg?itok=DZAsDIxK",
+        "credit": "Illustration: RWE",
+        "alt": "Arkivfoto af en tysk havmøllepark, som Ingeniøren bruger til historien om RWE's forlig med den amerikanske regering.",
+        "sourceUrl": "https://ing.dk/artikel/trump-mod-vind-koeber-europaeisk-energikaempe-ud-af-havvind-12-mia-dollar"
+      },
+      "topics": [
+        "energi",
+        "havvind",
+        "eu-us-handel",
+        "dansk-eksport"
+      ],
+      "entities": [
+        "RWE",
+        "TotalEnergies",
+        "USA",
+        "Tyskland",
+        "Doug Burgum"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 82,
+        "decisionValue": 80,
+        "novelty": 78,
+        "sourceQuality": 74,
+        "personalRelevance": 88,
+        "contrast": 66
+      },
+      "claims": [
+        {
+          "text": "Den amerikanske regering betaler 1,22 mia. dollar til RWE for at annullere selskabets amerikanske havvindtilladelser",
+          "sourceUrls": [
+            "https://ing.dk/artikel/trump-mod-vind-koeber-europaeisk-energikaempe-ud-af-havvind-12-mia-dollar"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "TotalEnergies blev i marts stillet ca. 1 mia. dollar i udsigt for at opgive Carolina Long Bay og New York Bight mod at investere i naturgas",
+          "sourceUrls": [
+            "https://ing.dk/artikel/trump-mod-vind-koeber-europaeisk-energikaempe-ud-af-havvind-12-mia-dollar"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "RWE investerer 900 mio. dollar i en ejerandel på 16 pct. i et LNG-projekt i Louisiana og planlægger ca. 17 mia. euro i USA over seks år",
+          "sourceUrls": [
+            "https://ing.dk/artikel/trump-mod-vind-koeber-europaeisk-energikaempe-ud-af-havvind-12-mia-dollar"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Trump mod vind: Køber europæisk energikæmpe ud af havvind for 1,2 mia. dollar",
+          "publisher": "Ingeniøren",
+          "url": "https://ing.dk/artikel/trump-mod-vind-koeber-europaeisk-energikaempe-ud-af-havvind-12-mia-dollar",
+          "publishedAt": "2026-08-07T09:26:37.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-20260809-dst-industriproduktion-juni",
+      "eventKey": "dst-industriens-produktion-juni-2026",
+      "materialFacts": [
+        "Industriens produktion steg 6,4 pct. fra maj til juni 2026, sæsonkorrigeret",
+        "Andet kvartal 2026 steg 1,5 pct. i forhold til første kvartal",
+        "Uden medicinalindustrien: +5,9 pct. i juni og +3,5 pct. i andet kvartal mod kvartalet før",
+        "Tallene er korrigeret for sæson og prisudvikling og omfatter dansk industris produktion både i og uden for Danmark",
+        "Medicinalproduktionen faldt 2,3 pct. i andet kvartal 2026 mod første kvartal"
+      ],
+      "section": "Økonomi",
+      "headline": "Industrien startede sommeren i højt gear",
+      "primarySourceUrl": "https://www.dst.dk/nyt/52456",
+      "subheadline": "Industriproduktionen steg 6,4 procent fra maj til juni. Uden medicinalindustrien steg den 5,9 procent, og det er forskellen mellem de to tal, der er værd at læse.",
+      "body": [
+        "Danmarks Statistik opgør, at industriens produktion steg 6,4 procent fra maj til juni 2026 efter et par måneder med fald. Set over hele andet kvartal steg produktionen 1,5 procent mod første kvartal. Tallene er korrigeret for sæson og prisudvikling og dækker dansk industris produktion både i og uden for Danmark.",
+        "Ses der bort fra medicinalindustrien, steg produktionen 5,9 procent i juni og 3,5 procent i andet kvartal mod kvartalet før. Danmarks Statistik opgør begge serier og kalder medicinal indeksets vigtigste branchegruppering. Medicinalproduktionen faldt 2,3 procent i andet kvartal mod første."
+      ],
+      "whyItMatters": "Kvartalstallet uden medicinal er 3,5 procent mod 1,5 procent for industrien samlet. Det er den forskel, medicinalfaldet dækker.",
+      "analysis": "For en eksportøkonomi, hvor én branche kan flytte niveauet mærkbart på en enkelt månedsopgørelse, siger serien uden medicinal mest om de øvrige eksportvirksomheder.",
+      "image": {
+        "url": "https://www.dst.dk/site/dst/udgivelser/nyt/getimage.aspx?cid=52456",
+        "credit": "Kilde: Danmarks Statistik",
+        "alt": "Danmarks Statistiks eget indeksdiagram over industriens produktion frem til juni 2026.",
+        "sourceUrl": "https://www.dst.dk/nyt/52456"
+      },
+      "topics": [
+        "dansk-eksport",
+        "industri",
+        "makro",
+        "koncentrationsrisiko"
+      ],
+      "entities": [
+        "Danmarks Statistik",
+        "Danmark",
+        "medicinalindustrien"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 74,
+        "decisionValue": 76,
+        "novelty": 66,
+        "sourceQuality": 96,
+        "personalRelevance": 90,
+        "contrast": 52
+      },
+      "claims": [
+        {
+          "text": "Industriens produktion steg 6,4 pct. fra maj til juni 2026, og 1,5 pct. i andet kvartal mod første kvartal",
+          "sourceUrls": [
+            "https://www.dst.dk/nyt/52456"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Uden medicinalindustrien steg produktionen 5,9 pct. i juni og 3,5 pct. i andet kvartal mod kvartalet før",
+          "sourceUrls": [
+            "https://www.dst.dk/nyt/52456"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Medicinalproduktionen faldt 2,3 pct. i andet kvartal mod første kvartal",
+          "sourceUrls": [
+            "https://www.dst.dk/nyt/52456"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Industrien startede sommeren i højt gear",
+          "publisher": "Danmarks Statistik",
+          "url": "https://www.dst.dk/nyt/52456",
+          "publishedAt": "2026-08-07T06:00:00.000Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "thomas-20260809-bolia-direktoerskifte",
+      "eventKey": "bolia-ceo-skifte-lyse-hansen-bendiks-lauridsen",
+      "materialFacts": [
+        "Thomas Bendiks Lauridsen, i dag COO, er udnævnt til kommende adm. direktør i Bolia",
+        "Lars Lyse Hansen fortsætter som adm. direktør frem til 31. august 2027",
+        "Lars Lyse Hansen har været adm. direktør i mere end 21 år",
+        "Bolia har efter egen opgørelse mere end 100 butikker i 14 markeder, onlinesalg i 30 markeder og over 400 engrosforhandlere",
+        "Ejer er Jacob Brunsborg, bestyrelsesformand er Jan Bøgh"
+      ],
+      "section": "Erhverv",
+      "headline": "ET NYT KAPITEL I BOLIAs HISTORIE",
+      "primarySourceUrl": "https://via.ritzau.dk/pressemeddelelse/15077187/et-nyt-kapitel-i-bolias-historie?publisherId=13562908&lang=da",
+      "subheadline": "Bolias adm. direktør gennem 21 år overlader posten til sin COO den 31. august 2027 – og melder et år i forvejen, at han derefter går efter bestyrelsesarbejde og investeringer.",
+      "body": [
+        "Møbelkoncernen Bolia meddelte fredag et planlagt generationsskifte på direktørposten. Thomas Bendiks Lauridsen, i dag COO, er udnævnt til kommende adm. direktør efter knap tre års tæt samarbejde med den afgående direktør. Lars Lyse Hansen fortsætter som adm. direktør frem til 31. august 2027.",
+        "Selskabet har efter egen opgørelse mere end 100 butikker på tværs af 14 markeder og onlinesalg i 30 markeder. Lars Lyse Hansen skriver, at han derefter ser frem til »at forfølge nye kreative eventyr gennem iværksætteri, bestyrelsesarbejde og investeringer«."
+      ],
+      "whyItMatters": "Varslet er et helt år, og det er den brugbare del: en internationalt erfaren dansk topchef melder tolv måneder i forvejen, at han træder ud i bestyrelsesmarkedet.",
+      "analysis": "Meddelelsen begrunder timingen med, at Bolia »står stærkere end nogensinde«, men ikke med andet. Den siger til gengæld præcist hvornår, og at efterfølgeren er hentet indefra.",
+      "image": {
+        "url": "https://via.ritzau.dk/data/images/public/13562908/15077187/c151d3cc-0915-4423-9292-77999f22fd7c-w_960.png",
+        "credit": "Kilde: BOLIA",
+        "alt": "Lars Lyse Hansen, adm. direktør i Bolia gennem mere end 21 år.",
+        "sourceUrl": "https://via.ritzau.dk/pressemeddelelse/15077187/et-nyt-kapitel-i-bolias-historie?publisherId=13562908&lang=da"
+      },
+      "topics": [
+        "hvem-rykker",
+        "dansk-erhvervsliv",
+        "ledelse",
+        "bestyrelser"
+      ],
+      "entities": [
+        "Bolia",
+        "Lars Lyse Hansen",
+        "Thomas Bendiks Lauridsen",
+        "Jacob Brunsborg",
+        "Jan Bøgh",
+        "Danmark"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 62,
+        "decisionValue": 84,
+        "novelty": 80,
+        "sourceQuality": 88,
+        "personalRelevance": 94,
+        "contrast": 48
+      },
+      "claims": [
+        {
+          "text": "Thomas Bendiks Lauridsen er udnævnt til kommende adm. direktør, og Lars Lyse Hansen fortsætter frem til 31. august 2027",
+          "sourceUrls": [
+            "https://via.ritzau.dk/pressemeddelelse/15077187/et-nyt-kapitel-i-bolias-historie?publisherId=13562908&lang=da"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Bolia har mere end 100 butikker i 14 markeder, onlinesalg i 30 markeder og mere end 400 engrosforhandlere",
+          "sourceUrls": [
+            "https://via.ritzau.dk/pressemeddelelse/15077187/et-nyt-kapitel-i-bolias-historie?publisherId=13562908&lang=da"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "ET NYT KAPITEL I BOLIAs HISTORIE",
+          "publisher": "BOLIA via Ritzau",
+          "url": "https://via.ritzau.dk/pressemeddelelse/15077187/et-nyt-kapitel-i-bolias-historie?publisherId=13562908&lang=da",
+          "publishedAt": "2026-08-07T08:00:00.000Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "thomas-20260809-tyrkiet-saudi-pakistan-forsvarspagt",
+      "eventKey": "tyrkiet-saudi-pakistan-forsvarsaftale-2026-08-07",
+      "materialFacts": [
+        "Tyrkiet, Saudi-Arabien og Pakistan indgik fredag en forsvarsaftale, hvor angreb på ét land regnes som angreb på alle tre",
+        "Aftalen er bekræftet af Pakistans udenrigsministerium via Reuters",
+        "Iranske missil- og droneangreb har ramt amerikanske interesser i blandt andet Qatar, De Forenede Arabiske Emirater og Kuwait",
+        "Irans blokade af Hormuz-strædet og trussel mod Bab-el-Mandab har skabt økonomiske problemer for de olieproducerende golflande"
+      ],
+      "section": "Udland",
+      "headline": "Nyt \"mini-NATO\" i Mellemøsten har mistet tilliden til USA",
+      "primarySourceUrl": "https://nyheder.tv2.dk/udland/2026-08-08-nyt-mini-nato-i-mellemoesten-har-mistet-tilliden-til-usa",
+      "subheadline": "Tyrkiet, Saudi-Arabien og Pakistan har indgået en forsvarsaftale med en musketered. Analysen er, at de tre lande ikke længere regner med den amerikanske sikkerhedsparaply.",
+      "body": [
+        "Tyrkiet, Saudi-Arabien og Pakistan indgik fredag et forsvarssamarbejde, hvor et væbnet angreb mod ét af landene vil blive anset som et angreb mod alle tre. Ordlyden minder om NATO's artikel 5, og aftalen er bekræftet i en udtalelse fra Pakistans udenrigsministerium, gengivet af Reuters.",
+        "Lektor Peter Viggo Jakobsen fra Forsvarsakademiet siger til TV 2, at de tre lande ikke længere tror på, at Trump og USA kan levere varen, når det kommer til sikkerhed. Han vurderer ikke, at landene har offensive ønsker. Iranske angreb har ramt amerikanske interesser i Qatar."
+      ],
+      "whyItMatters": "Ingen af kilderne kobler pagten til Hormuz-strædet, men de tre lande har nu et forsvarsgrundlag, der ikke går gennem Washington.",
+      "analysis": "TV 2s mellemøstkorrespondent Benjamin Kürstein peger på, at kombinationen giver mening: Saudi-Arabien har penge, Tyrkiet en stor hær, Pakistan atomvåben.",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/4/c/2/4c22ec4c-accc-47c0-a2a3-571173dca915?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCwyMDAsMzg0MiwyMTYx&s=d64cccc4c942af61cfd4efa057d990da",
+        "credit": "Foto: Handout / Ritzau Scanpix",
+        "alt": "Tyrkiets præsident Recep Tayyip Erdogan, Saudi-Arabiens kronprins Mohammad bin Salman og Pakistans premierminister Shehbaz Sharif.",
+        "sourceUrl": "https://nyheder.tv2.dk/udland/2026-08-08-nyt-mini-nato-i-mellemoesten-har-mistet-tilliden-til-usa"
+      },
+      "topics": [
+        "geopolitik",
+        "forsvar",
+        "mellemoesten",
+        "energi"
+      ],
+      "entities": [
+        "Tyrkiet",
+        "Saudi-Arabien",
+        "Pakistan",
+        "Iran",
+        "USA",
+        "Peter Viggo Jakobsen",
+        "NATO"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 88,
+        "decisionValue": 66,
+        "novelty": 84,
+        "sourceQuality": 72,
+        "personalRelevance": 62,
+        "contrast": 78
+      },
+      "claims": [
+        {
+          "text": "Tyrkiet, Saudi-Arabien og Pakistan indgik fredag en forsvarsaftale, hvor et angreb på ét land anses som angreb på alle tre",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/udland/2026-08-08-nyt-mini-nato-i-mellemoesten-har-mistet-tilliden-til-usa"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Peter Viggo Jakobsen vurderer, at de tre lande ikke længere tror på, at Trump og USA kan levere varen på sikkerhed",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/udland/2026-08-08-nyt-mini-nato-i-mellemoesten-har-mistet-tilliden-til-usa"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Nyt \"mini-NATO\" i Mellemøsten har mistet tilliden til USA",
+          "publisher": "TV 2",
+          "url": "https://nyheder.tv2.dk/udland/2026-08-08-nyt-mini-nato-i-mellemoesten-har-mistet-tilliden-til-usa",
+          "publishedAt": "2026-08-08T14:08:00.609Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-20260809-hizb-ut-tahrir-gymnasier",
+      "eventKey": "hizb-ut-tahrir-gymnasiekampagne-protester-2026-08-08",
+      "materialFacts": [
+        "Hizb ut-Tahrir har sendt et brev til muslimske gymnasieelever ved skolestart",
+        "Brevet bærer overskriften 'stå fast på jeres islamiske identitet og bær den med stolthed'",
+        "Udlændinge- og integrationsminister Morten Bødskov (S) er ifølge DR dybt bekymret",
+        "Danske Erhvervsskoler og -Gymnasier og Danske Gymnasieelevers Sammenslutning har udtalt sig i sagen",
+        "Hizb ut-Tahrirs medierepræsentant Elias Lambaret ønskede ikke at stille op til et båndet interview; DR sendte spørgsmålene på skrift"
+      ],
+      "section": "Indland",
+      "headline": "Hizb ut-Tahrir-kampagne medfører protester: 'Det strider grundlæggende mod alt det, som dansk skolekultur og gymnasiet står for'",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/hizb-ut-tahrir-kampagne-medfoerer-protester-det-strider-grundlaeggende-mod-alt-det-som-dansk",
+      "subheadline": "En rektor, gymnasiernes lederforening og udlændingeministeren tager afstand, mens gymnasieelevernes forperson ikke ser en modsætning. Rektoren advarer samtidig mod at give kampagnen mere taletid.",
+      "body": [
+        "Den islamiske forening Hizb ut-Tahrir har lanceret en kampagne rettet mod muslimske gymnasieelever med et brev under overskriften »stå fast på jeres islamiske identitet og bær den med stolthed«. Udlændinge- og integrationsminister Morten Bødskov (S) er ifølge DR dybt bekymret.",
+        "Allan Kortnum, forperson for Danske Erhvervsskoler og -Gymnasier, siger, at kampagnen »strider grundlæggende mod alt det, som dansk skolekultur og gymnasiet står for«. Elevernes forperson Oscar Tønsberg Hoffmann ser derimod ingen modsætning mellem at være troende gymnasieelev og at deltage i gymnasiets kultur."
+      ],
+      "whyItMatters": "Skoleåret er netop begyndt, og kampagnen rammer nye elever på det tidspunkt, hvor gymnasierne kender dem mindst.",
+      "analysis": "Rektor Henrik Vestergaard Stokholm fra Mulernes Legatskole i Odense frygter, at dækningen selv giver kampagnen taletid, den ikke burde have — men mener også, man er nødt til at sige fra.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/ydtpcfkl/20250624-171307-2_crop001.jpg?im=AspectCrop%3D(1200,675),xPosition%3D.5,yPosition%3D.5;Resize%3D(1200,675)",
+        "credit": "Foto: Niels Ahlmann Olesen, Ritzau Scanpix",
+        "alt": "Arkivfoto af Henrik Vestergaard Stokholm, rektor på Mulernes Legatskole i Odense.",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/hizb-ut-tahrir-kampagne-medfoerer-protester-det-strider-grundlaeggende-mod-alt-det-som-dansk"
+      },
+      "topics": [
+        "danmark",
+        "uddannelse",
+        "integration",
+        "faelles-grund"
+      ],
+      "entities": [
+        "Hizb ut-Tahrir",
+        "Morten Bødskov",
+        "Allan Kortnum",
+        "Henrik Vestergaard Stokholm",
+        "Danmark",
+        "Mulernes Legatskole",
+        "Oscar Tønsberg Hoffmann"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 70,
+        "decisionValue": 44,
+        "novelty": 72,
+        "sourceQuality": 86,
+        "personalRelevance": 58,
+        "contrast": 60
+      },
+      "claims": [
+        {
+          "text": "Hizb ut-Tahrir har sendt et brev til muslimske gymnasieelever ved skolestart under overskriften 'stå fast på jeres islamiske identitet og bær den med stolthed'",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/hizb-ut-tahrir-kampagne-medfoerer-protester-det-strider-grundlaeggende-mod-alt-det-som-dansk"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Allan Kortnum, forperson for Danske Erhvervsskoler og -Gymnasier, kalder kampagnen i strid med frihed, frisind, personlig myndiggørelse og demokratisk dannelse",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/hizb-ut-tahrir-kampagne-medfoerer-protester-det-strider-grundlaeggende-mod-alt-det-som-dansk"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Hizb ut-Tahrir-kampagne medfører protester: 'Det strider grundlæggende mod alt det, som dansk skolekultur og gymnasiet står for'",
+          "publisher": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/indland/hizb-ut-tahrir-kampagne-medfoerer-protester-det-strider-grundlaeggende-mod-alt-det-som-dansk",
+          "publishedAt": "2026-08-08T15:57:09.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-20260809-vishing-nordiske-virksomheder",
+      "eventKey": "svenske-bandekriminelle-vishing-mod-nordiske-virksomheder",
+      "materialFacts": [
+        "Svensk politi ser vishing-angreb rettet mod virksomheder i Sverige og venter, at bølgen med kort forsinkelse når Norge",
+        "Beløbene ved angreb mod virksomheder ligger oftest mellem en halv og én million kroner, nogle gange flere millioner",
+        "Metoden er vishing: sms om ubetalt faktura eller inkasso, hvorefter offeret ringer op og manipuleres til selv at overføre",
+        "Banker kan ikke altid lægge de samme kontroller ind på erhvervsoverførsler som på privatkonti",
+        "Gerningsmændene befinder sig ifølge svensk politi oftest i Spanien, Marokko eller Dubai"
+      ],
+      "section": "Erhverv",
+      "headline": "Svenske gjenger angriper norske bedrifter: – Ofte fra en halv til én million",
+      "primarySourceUrl": "https://e24.no/naeringsliv/i/2poz5G/svenske-gjenger-angriper-norske-bedrifter-ofte-fra-en-halv-til-en-million",
+      "subheadline": "Svensk politi ser telefonsvindel rettet mod virksomheder i Sverige og venter, at bølgen med kort forsinkelse rammer Norge. Det er de mindre virksomheder, der rammes, og det er dem selv, der trykker på knappen.",
+      "body": [
+        "Svensk politi ser bandekriminelle rette angreb mod virksomheder i Sverige. Metoden er vishing: offeret får en sms om en ubetalt faktura, ringer selv nummeret op og manipuleres til selv at gennemføre overførslen. Operationsleder Stefan Larsson oplyser, at beløbene mod virksomheder oftest ligger mellem en halv og én million kroner.",
+        "Det er især mindre virksomheder, der rammes. Større koncerner har egne økonomiafdelinger med flere kontroller, og bankerne kan ikke altid lægge de samme kontroller ind på erhvervsoverførsler som på privatkonti. Larsson venter, at bølgen med kort forsinkelse når Norge."
+      ],
+      "whyItMatters": "Svensk politi har over tid set svenske kriminelle rette sig mod Norge, Danmark og Finland. Forsvaret ligger hos virksomheden selv, fordi det er medarbejderen, der gennemfører overførslen.",
+      "analysis": "Gerningsmændene befinder sig ifølge Larsson oftest i Spanien, Marokko eller Dubai.",
+      "image": {
+        "url": "https://akamai.vgc.no/v2/images/ee462285-f1f9-3d19-9ba5-9bc05e443bb3?format=auto&w=1080&s=167391fc6035aa5f328bc6cd93d1622402deee6e",
+        "credit": "Foto: Anna Tärnhuvud",
+        "alt": "Stefan Larsson fra den nationale operative afdeling i det svenske politi.",
+        "sourceUrl": "https://e24.no/naeringsliv/i/2poz5G/svenske-gjenger-angriper-norske-bedrifter-ofte-fra-en-halv-til-en-million"
+      },
+      "topics": [
+        "cyberkriminalitet",
+        "smv",
+        "norden",
+        "erhvervsvilkaar"
+      ],
+      "entities": [
+        "Stefan Larsson",
+        "Økokrim",
+        "Gunnar Holm Ringen",
+        "Sverige",
+        "Norge",
+        "Danmark",
+        "Finland"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 68,
+        "decisionValue": 88,
+        "novelty": 74,
+        "sourceQuality": 78,
+        "personalRelevance": 66,
+        "contrast": 64
+      },
+      "claims": [
+        {
+          "text": "Svensk politi ser vishing-angreb mod virksomheder i Sverige med beløb oftest mellem en halv og én million kroner, og har over tid set svenske kriminelle rette sig mod Norge, Danmark og Finland",
+          "sourceUrls": [
+            "https://e24.no/naeringsliv/i/2poz5G/svenske-gjenger-angriper-norske-bedrifter-ofte-fra-en-halv-til-en-million"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Økokrim har foreløbig ikke set en stigning i netbanksbedrageri mod privatpersoner med adgang til erhvervskonti",
+          "sourceUrls": [
+            "https://e24.no/naeringsliv/i/2poz5G/svenske-gjenger-angriper-norske-bedrifter-ofte-fra-en-halv-til-en-million"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Svenske gjenger angriper norske bedrifter: – Ofte fra en halv til én million",
+          "publisher": "E24",
+          "url": "https://e24.no/naeringsliv/i/2poz5G/svenske-gjenger-angriper-norske-bedrifter-ofte-fra-en-halv-til-en-million",
+          "publishedAt": "2026-08-09T03:00:00.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-20260809-weathernext-orkanvarsel",
+      "eventKey": "google-deepmind-weathernext-orkanprognose-nature",
+      "materialFacts": [
+        "WeatherNext kan forudse en orkans styrke tre døgn før landgang med samme præcision, som hidtidige modeller opnår to døgn før",
+        "Resultatet er offentliggjort i Nature",
+        "Modellen arbejder med relativt grov opløsning i inputdata",
+        "Google oplyser, at orkaner, cykloner og tyfoner de seneste 50 år har forårsaget mere end 700.000 dødsfald",
+        "Modellen hjalp i 2025 det amerikanske National Hurricane Center med prognosen for orkanen Melissa på Jamaica"
+      ],
+      "section": "Videnskab",
+      "headline": "Ny AI-model fra Google kan give væsentligt bedre vejrudsigter: Forudser storme og orkaner før alle andre modeller",
+      "primarySourceUrl": "https://www.computerworld.dk/art/296415/ny-ai-model-fra-google-kan-give-vaesentligt-bedre-vejrudsigter-forudser-storme-og-orkaner-foer-alle-andre-modeller",
+      "subheadline": "WeatherNext rammer ifølge Nature en orkans styrke tre døgn før landgang lige så præcist, som hidtidige modeller gør det to døgn før. Det er et døgns ekstra varsel.",
+      "body": [
+        "En ny vejrmodel fra Google DeepMind, WeatherNext, kan ifølge en artikel i Nature forudse en orkans styrke tre døgn før landgang med samme præcision, som hidtidige modeller opnår to døgn før. I praksis er det et helt døgns ekstra varsel.",
+        "Modellen arbejder med relativt grove inputdata. Ferran Alet, en af forskerne bag, siger, at forskningsmiljøet blev chokeret over netop det, fordi det betyder, at data med lavere opløsning rummer mere information om, hvad der kommer til at ske, end man hidtil har troet."
+      ],
+      "whyItMatters": "Et ekstra døgns varsel gav under orkanen Melissa myndighederne tid til at advare, så folk på Jamaica kunne nå at forberede sig. Google opgør selv, at orkaner, cykloner og tyfoner de seneste 50 år har kostet mere end 700.000 dødsfald.",
+      "analysis": "De to slags påstande skal holdes adskilt: præcisionsresultatet er publiceret som forskningsartikel i Nature, mens skadesopgørelsen kommer fra Google selv.",
+      "image": {
+        "url": "https://www.computerworld.dk/fil/241685?width=1200&height=630&focus=1",
+        "credit": "Kilde: Computerworld",
+        "alt": "Visualisering af en orkans bane og voksende styrke fra Caribien ind over Cuba og Florida og videre ud i Atlanterhavet.",
+        "sourceUrl": "https://www.computerworld.dk/art/296415/ny-ai-model-fra-google-kan-give-vaesentligt-bedre-vejrudsigter-forudser-storme-og-orkaner-foer-alle-andre-modeller"
+      },
+      "topics": [
+        "ai",
+        "videnskab",
+        "klima",
+        "serendipitet"
+      ],
+      "entities": [
+        "Google DeepMind",
+        "Ferran Alet",
+        "Nature",
+        "National Hurricane Center",
+        "USA",
+        "Jamaica"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 78,
+        "decisionValue": 48,
+        "novelty": 86,
+        "sourceQuality": 74,
+        "personalRelevance": 40,
+        "contrast": 88
+      },
+      "claims": [
+        {
+          "text": "WeatherNext forudser en orkans styrke tre døgn før landgang med samme præcision, som hidtidige modeller opnår to døgn før, ifølge en artikel i Nature",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/296415/ny-ai-model-fra-google-kan-give-vaesentligt-bedre-vejrudsigter-forudser-storme-og-orkaner-foer-alle-andre-modeller"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Google oplyser, at orkaner, cykloner og tyfoner de seneste 50 år har forårsaget mere end 700.000 dødsfald",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/296415/ny-ai-model-fra-google-kan-give-vaesentligt-bedre-vejrudsigter-forudser-storme-og-orkaner-foer-alle-andre-modeller"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Ny AI-model fra Google kan give væsentligt bedre vejrudsigter: Forudser storme og orkaner før alle andre modeller",
+          "publisher": "Computerworld",
+          "url": "https://www.computerworld.dk/art/296415/ny-ai-model-fra-google-kan-give-vaesentligt-bedre-vejrudsigter-forudser-storme-og-orkaner-foer-alle-andre-modeller",
+          "publishedAt": "2026-08-07T05:03:00.000Z",
+          "kind": "reporting"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "LEDER AF DFDS’ FERRY DIVISION MATHIEU GIRARDIN TRÆDER TILBAGE",
+      "headline": "LEDER AF DFDS’ FERRY DIVISION MATHIEU GIRARDIN TRÆDER TILBAGE",
+      "url": "https://www.globenewswire.com/news-release/2026/08/07/3341072/0/da/leder-af-dfds-ferry-division-mathieu-girardin-tr%C3%A6der-tilbage.html",
+      "publisher": "GlobeNewswire",
+      "section": "Erhverv",
+      "publishedAt": "2026-08-07T12:00:00.000Z",
+      "summary": "Girardin fratræder 14. august efter at have tiltrådt i oktober 2022. CEO Michael Hansen overtager selv divisionen midlertidigt, og rekrutteringen af en efterfølger er sat i gang. Ferry Division omsatte for 17 mia. kr. i 2025 mod koncernens 30 mia. kr."
+    },
+    {
+      "text": "Udenrigsministeriets chef for økonomisk diplomati rykker til ambassaden i USA",
+      "headline": "Udenrigsministeriets chef for økonomisk diplomati rykker til ambassaden i USA",
+      "url": "https://www.altinget.dk/erhverv/artikel/udenrigsministeriets-chef-for-oekonomisk-diplomati-rykker-til-ambassaden-i-usa",
+      "publisher": "Altinget",
+      "section": "Erhverv",
+      "publishedAt": "2026-08-07T06:20:00.000Z",
+      "summary": "Karen Eva Lind Abrahamsen forlader posten som chef for økonomisk diplomati i Udenrigsministeriet og rykker til den danske ambassade i USA."
+    },
+    {
+      "text": "Dansk Erhverv henter chefkonsulent fra Vestas",
+      "headline": "Dansk Erhverv henter chefkonsulent fra Vestas",
+      "url": "https://www.altinget.dk/erhverv/artikel/dansk-erhverv-henter-chefkonsulent-fra-vestas",
+      "publisher": "Altinget",
+      "section": "Erhverv",
+      "publishedAt": "2026-08-07T06:56:00.000Z",
+      "summary": "Eva Larsen skifter fra Vestas til Dansk Erhverv som chefkonsulent."
+    },
+    {
+      "text": "Tilsynsdirektør i Arbejdstilsynet stopper",
+      "headline": "Tilsynsdirektør i Arbejdstilsynet stopper",
+      "url": "https://www.altinget.dk/embedsvaerk/artikel/tilsynsdirektoer-i-arbejdstilsynet-stopper",
+      "publisher": "Altinget",
+      "section": "Politik",
+      "publishedAt": "2026-08-07T12:49:00.000Z",
+      "summary": "Hanne Sofie Tromborg Olsen forlader posten som tilsynsdirektør i Arbejdstilsynet."
+    },
+    {
+      "text": "Investeringsforeningen Jyske Invest suspenderer handel med alle afdelinger grundet problemer med beregning af indre værdi",
+      "headline": "Investeringsforeningen Jyske Invest suspenderer handel med alle afdelinger grundet problemer med beregning af indre værdi",
+      "url": "https://www.globenewswire.com/news-release/2026/08/07/3340943/0/da/investeringsforeningen-jyske-invest-suspenderer-handel-med-alle-afdelinger-grundet-problemer-med-beregning-af-indre-v%C3%A6rdi.html",
+      "publisher": "GlobeNewswire",
+      "section": "Økonomi",
+      "publishedAt": "2026-08-07T08:09:56.000Z",
+      "summary": "Tekniske problemer i administrationssystemet gjorde det fredag morgen umuligt at stille priser i 13 børsnoterede afdelinger. En opfølgende meddelelse 24 minutter senere ophævede suspensionen."
+    },
+    {
+      "text": "Bavarian Nordic modtager Europa-Kommissionens godkendelse af mpox/koppevaccine til børn i alderen 2 til under 12 år",
+      "headline": "Bavarian Nordic modtager Europa-Kommissionens godkendelse af mpox/koppevaccine til børn i alderen 2 til under 12 år",
+      "url": "https://www.globenewswire.com/news-release/2026/08/07/3340924/0/da/bavarian-nordic-modtager-europa-kommissionens-godkendelse-af-mpox-koppevaccine-til-b%C3%B8rn-i-alderen-2-til-under-12-%C3%A5r.html",
+      "publisher": "GlobeNewswire",
+      "section": "Erhverv",
+      "publishedAt": "2026-08-07T06:00:00.000Z",
+      "summary": "Godkendelsen udvider markedsføringstilladelsen for IMVANEX til børn fra 2 år og bygger på et fase 2-studie med 227 børn og 224 voksne, medfinansieret af CEPI."
+    },
+    {
+      "text": "Bare ett vindkraft-veto: – Bedre for kommunen",
+      "headline": "Bare ett vindkraft-veto: – Bedre for kommunen",
+      "url": "https://e24.no/energi-og-klima/i/k0BJwB/bare-ett-vindkraft-veto-bedre-for-kommunen",
+      "publisher": "E24",
+      "section": "Erhverv",
+      "publishedAt": "2026-08-08T19:08:13.000Z",
+      "summary": "Den norske regering vil halvere tiden for udbygning af store kraftledninger, som i dag kan tage op til 14 år. Kommunerne skal fremover kun sige ja eller nej én gang i stedet for at tage stilling flere gange undervejs. Nyttigt sammenligningsgrundlag for den danske elnetdebat."
+    },
+    {
+      "text": "Får kæmpe millionunderskud: Endnu en nedtur til Ecco",
+      "headline": "Får kæmpe millionunderskud: Endnu en nedtur til Ecco",
+      "url": "https://ugebrev.dk/flashnews/faar-kaempe-millionunderskud-endnu-en-nedtur-til-ecco/",
+      "publisher": "Økonomisk Ugebrev",
+      "section": "Erhverv",
+      "publishedAt": "2026-08-08T13:49:57.000Z",
+      "summary": "Årsrapporten for 2025 viser et minus på 24 mio. euro, knap 180 mio. kr. Det er andet underskudsår i træk. Ledelsen skriver, at omsætningen ikke levede op til forventningerne på tværs af alle markeder og kanaler."
+    },
+    {
+      "text": "Venindes hjerneblødning har fået Dina Thorslund til at genoverveje boksefremtid før VM-brag",
+      "headline": "Venindes hjerneblødning har fået Dina Thorslund til at genoverveje boksefremtid før VM-brag",
+      "url": "https://www.dr.dk/sporten/boksning/faa-dage-foer-vm-brag-kollapsede-dina-thorslunds-sparringspartner-med-hjernebloedning",
+      "publisher": "DR Sporten",
+      "section": "Sport",
+      "publishedAt": "2026-08-08T17:38:41.000Z",
+      "summary": "Thorslund bokser søndag mod australske Cherneka Johnson om alle fire VM-bælter fra WBA, WBC, WBO og IBF. Hendes britiske sparringspartner Raven Chapman kollapsede i slutningen af juli i Herning med en hjerneblødning og blev hasteopereret; hun er nu vågen."
+    },
+    {
+      "text": "Rasende stjerne opsøgte rytter i mål: - Var det en del af planen?",
+      "headline": "Rasende stjerne opsøgte rytter i mål: - Var det en del af planen?",
+      "url": "https://sport.tv2.dk/cykling/2026-08-08-rasende-stjerne-opsoegte-rytter-i-maal-var-det-en-del-af-planen",
+      "publisher": "TV 2 Sport",
+      "section": "Sport",
+      "publishedAt": "2026-08-08T19:04:00.601Z",
+      "summary": "Demi Vollering vandt 8. etape af Tour de France Femmes alene og overtog den gule trøje med otte sekunder ned til Katarzyna Niewiadoma inden søndagens sidste etape. Niewiadoma konfronterede efter målstregen FDJ-rytteren Célia Gery."
+    },
+    {
+      "text": "Verdens næststørste haj fundet tæt på Ålbæk Havn",
+      "headline": "Verdens næststørste haj fundet tæt på Ålbæk Havn",
+      "url": "https://www.dr.dk/nyheder/indland/verdens-naeststoerste-haj-fundet-taet-paa-aalbaek-havn",
+      "publisher": "DR Nyheder",
+      "section": "Indland",
+      "publishedAt": "2026-08-08T11:40:20.000Z",
+      "summary": "En 4,85 meter lang brugde blev lørdag fundet død en kilometer nord for Ålbæk Havn. Nordsøen Oceanarium og Statens Naturhistoriske Museum obducerer dyret og indsamler prøver til forskning."
+    },
+    {
+      "text": "Afviste medlemmer og lukkede ventelister: Vi vil dyrke sport som aldrig før, men klubber kan ikke følge med",
+      "headline": "Afviste medlemmer og lukkede ventelister: Vi vil dyrke sport som aldrig før, men klubber kan ikke følge med",
+      "url": "https://www.dr.dk/nyheder/indland/afviste-medlemmer-og-lukkede-ventelister-vi-vil-dyrke-sport-som-aldrig-foer-men-klubber-kan-ikke",
+      "publisher": "DR Nyheder",
+      "section": "Indland",
+      "publishedAt": "2026-08-07T18:20:00.000Z",
+      "summary": "Idrætsforeninger i Aalborg afviser medlemmer og lukker ventelister, fordi faciliteterne ikke rækker. Medlemstallet er ifølge Sifa steget knap 20 procent på ti år, mens kommunen færdiggør én ny hal og har tre i budgetforhandlingerne."
+    }
+  ],
+  "column": {
+    "authoredBy": "ai",
+    "slug": "smagssag",
+    "title": "Smagssag",
+    "thesis": "At kalde en uenighed en smagssag er næsten altid en måde at lukke en samtale, der havde mere at give. De fleste æstetiske uenigheder handler ikke om reaktionen, men om hvad man mener genstanden er.",
+    "body": [
+      "To mennesker ser den samme bygning. Den ene kalder den kold, den anden kalder den behersket. Det lyder som temperament. Presser man dem, er de uenige om noget andet: hvad facaden gør. Den ene ser noget, der holder igen på beskuerens vegne. Den anden ser noget, der holdes tilbage. Det er en påstand om genstanden, ikke om følelsen, og den kan afgøres ved at se efter.",
+      "Ordet smagssag lukker samtalen, før beskrivelsen er begyndt. Det er høfligt og gratis. Jeg mener, det er en fejl: uenigheden var ved at blive brugbar, da den blev erklæret privat. Ordet gør ærligt arbejde ét sted — når beskrivelsen er faldet på plads, og reaktionerne stadig peger hver sin vej. Det sted når man frem til. Man begynder ikke der."
+    ],
+    "uncertainty": "Hvis pressede uenigheder som regel hviler på én fælles beskrivelse og alligevel efterlader modsatte reaktioner, er smagen terminal, og smagssag en rigtig diagnose. Så tager jeg fejl.",
+    "topics": [
+      "æstetik",
+      "sprog",
+      "uenighed"
+    ]
+  },
+  "recommendations": [
+    {
+      "id": "thomas-rec-20260809-topdirektoererne",
+      "mode": "watch",
+      "kind": "Dokumentarserie",
+      "status": "available",
+      "title": "Topdirektørerne (sæson 3)",
+      "provider": "DR",
+      "url": "https://www.dr.dk/drtv/serie/topdirektoererne_444177",
+      "availability": "DRTV, kræver DR-login. Premiere 12. november 2025, tilgængelig til 12. november 2030.",
+      "commitment": "3 afsnit à 26-30 min",
+      "description": "DR følger Poul Due Jensen fra Grundfos, Gitte Kirkegaard fra Logitrans og Dan Hermansen fra MyDefence gennem told, cyberangreb og krigen i Ukraine. Afsnittene hedder 'Ramt af Trumps toldhammer', 'Hacket' og 'Hvor er kunderne?'.",
+      "rationale": "Toldpolitik set fra direktionsgangen i tre vidt forskellige danske virksomheder, fra koncern til Ribe-SMV. Det er mikrofortællingen bag toldstatistikken, og den ligger i råt kamerafluesnit i stedet for i en analyse. Dagens hovedhistorie handler om, hvad amerikansk politik gør ved europæiske virksomheders planer; det her er, hvordan det ser ud indefra.",
+      "topics": [
+        "eu-us-handel",
+        "told",
+        "dansk-eksport",
+        "erhvervsvilkaar"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=75&EntityType='Item'&EntityId='556152'&Width=960&Height=540&ImageId='73803013'&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",
+        "credit": "Kilde: DR",
+        "alt": "DRTV's eget seriebillede til dokumentarserien Topdirektørerne.",
+        "sourceUrl": "https://www.dr.dk/drtv/serie/topdirektoererne_444177"
+      }
+    },
+    {
+      "id": "thomas-rec-20260809-bestyrelsesrapporten",
+      "mode": "read",
+      "kind": "Surveyrapport",
+      "status": "available",
+      "title": "Bestyrelsesrapporten 2026",
+      "provider": "BoardPartner",
+      "url": "https://boardpartner.dk/vaerktoejer/bestyrelsesrapporten-2026/",
+      "availability": "Gratis download på boardpartner.dk. Sjette udgave siden 2017.",
+      "commitment": "ca. 45 min",
+      "description": "Bygger på 1.446 bestyrelsesposter fra i alt 4.598 danske bestyrelser. Rapporten opgør, at rekruttering til bestyrelsesposter fortsat primært sker via netværk og personlige relationer, at markedet fremstår relativt lukket, og at honorarer ligger 26-38 procent højere i professionaliserede bestyrelser.",
+      "rationale": "At rekrutteringen fortsat primært går gennem netværk og personlige relationer, og at markedet fremstår relativt lukket, er den mest brugbare beskrivelse af, hvordan det danske bestyrelsesmarked faktisk fungerer lige nu. Rapporten sætter samtidig tal på, hvad professionalisering er værd i honorar.",
+      "topics": [
+        "bestyrelser",
+        "hvem-rykker",
+        "dansk-erhvervsliv",
+        "ledelse"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://boardpartner.dk/wp-content/uploads/2026/01/Bestyrelsesrapporten-2026.png",
+        "credit": "Kilde: BoardPartner",
+        "alt": "Forsiden af Bestyrelsesrapporten 2026 fra BoardPartner.",
+        "sourceUrl": "https://boardpartner.dk/vaerktoejer/bestyrelsesrapporten-2026/"
+      }
+    },
+    {
+      "id": "thomas-rec-20260809-sophie-calle-louisiana",
+      "mode": "experience",
+      "kind": "Udstilling",
+      "status": "timely",
+      "title": "Sophie Calle: Something Missing?",
+      "creator": "Sophie Calle",
+      "provider": "Louisiana Museum of Modern Art",
+      "url": "https://louisiana.dk/en/exhibition/sophie-calle/",
+      "availability": "Louisiana, Humlebæk. 26. marts til 6. september 2026.",
+      "commitment": "1,5-2 timer",
+      "description": "Retrospektiv over fem årtier med syv af kunstnerens store serier, sammensat af mere end 300 enkeltdele — fotografier, tekster og video — i hele Vestfløjen. Blandt værkerne er 'The Blind' fra 1986, hvor 23 blindfødte beskriver skønhed, og 'Voir la mer' fra 2011, hvor beboere i Istanbul ser havet for første gang.",
+      "rationale": "Calles metode er at stille ét spørgsmål til fremmede og lade svaret stå uredigeret. Det er en anden researchdisciplin end den, man møder i rapporter og analyser, og den er værd at se udført konsekvent gennem fem årtier. Udstillingen lukker 6. september, så der er fire weekender tilbage.",
+      "topics": [
+        "kunst",
+        "serendipitet",
+        "koebenhavn"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://louisiana.dk/wp-content/uploads/2025/02/10-Sophie-Calle-Musee-Picasso-Paris25-juillet-23-%C2%A9-Yves-Geant-huge_jpg.jpg",
+        "credit": "Foto: Yves Géant / Louisiana Museum of Modern Art",
+        "alt": "Louisianas eget udstillingsbillede til Sophie Calle: Something Missing?",
+        "sourceUrl": "https://louisiana.dk/en/exhibition/sophie-calle/"
+      }
+    },
+    {
+      "id": "thomas-rec-20260809-quanta-erdos",
+      "mode": "read",
+      "kind": "Reportage",
+      "status": "new",
+      "title": "Why the Legendary Erdős Problems Are Falling to AI",
+      "creator": "Konstantin Kakaes",
+      "provider": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+      "availability": "Gratis på quantamagazine.org, globalt. Udgivet 3. august 2026.",
+      "commitment": "ca. 15 min",
+      "description": "Om hvordan Thomas Blooms side erdosproblems.com blev en uformel målestok for AI, og hvordan OpenAI og Google DeepMind kastede sig over Erdős' åbne formodninger. Matematikeren Noga Alon citeres for, at problemerne mister deres pointe, når AI løser dem.",
+      "rationale": "Ikke endnu en benchmarkhistorie, men et fagfelt der ser sin egen motivation forsvinde, mens folk flytter fra universitet til laboratorium. Den bevægelse rammer flere brancher end matematik, og her er den beskrevet med navne og datoer i stedet for som en tendens.",
+      "topics": [
+        "ai",
+        "videnskab",
+        "serendipitet"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Erdos-cr.DVDP-Social.jpg",
+        "credit": "Illustration: DVDP / Quanta Magazine",
+        "alt": "Quanta Magazines egen illustration til artiklen om Erdős-problemerne og AI.",
+        "sourceUrl": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/"
+      }
+    }
+  ],
+  "quality": {
+    "sourceQuality": 84,
+    "verification": 90,
+    "outsideProfile": 100
+  }
+}
