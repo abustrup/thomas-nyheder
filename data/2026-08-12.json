@@ -1,0 +1,828 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-08-12-r1",
+  "date": "2026-08-12",
+  "generatedAt": "2026-08-12T19:30:00.000Z",
+  "readingMinutes": 12,
+  "title": "Thomas' Nyheder — onsdag den 12. august 2026",
+  "dek": "Vestas leverede et kvartal til næsten det dobbelte af forventningen og fik sin bedste børsdag siden 2012. EU's emballageforordning trådte i kraft ni dage efter, vejledningen kom. Og Grønland satte amerikanske olieboringer på pause — med en sagsbehandlingstidsplan.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "quality": {
+    "sourceQuality": 82,
+    "verification": 88,
+    "outsideProfile": 100
+  },
+  "stories": [
+    {
+      "id": "thomas-2026-08-12-vestas-q2",
+      "eventKey": "vestas-q2-2026-kursspring-19-procent",
+      "materialFacts": [
+        "Vestas' overskud efter skat i andet kvartal 2026 blev 285 mio. euro mod en analytikerkonsensus på 144 mio. euro",
+        "Overskudsgraden blev 9,4 procent",
+        "Aktien steg 19,7 procent ved lukketid og trak C25-indekset op med 1,9 procent"
+      ],
+      "section": "Erhverv",
+      "headline": "Bedste børsdag for Vestas i 14 år",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/penge/bedste-boersdag-vestas-i-14-aar",
+      "subheadline": "Et kvartalsoverskud på næsten det dobbelte af forventningen løftede aktien 19,7 procent og hele C25-indekset med.",
+      "body": [
+        "Vestas leverede onsdag et kvartalsregnskab et godt stykke over forventningen: et overskud efter skat på 285 mio. euro mod analytikernes konsensus på 144 mio. euro og en overskudsgrad på 9,4 procent.",
+        "Ved lukketid stod kursen 19,7 procent højere — største enkeltdagsstigning siden 2012 og højeste niveau siden december 2023. Markedsværdien voksede med lige under 35 milliarder kroner, nok til at trække C25-indekset op med 1,9 procent. JPMorgans Akash Gupta skrev ifølge Bloomberg News, at udviklingen kan være den bedste, selskabet har haft i flere år."
+      ],
+      "whyItMatters": "Vestas er stor nok til at trække hele det danske aktieindeks op, og det gjorde selskabet onsdag. Forskellen mellem 144 og 285 mio. euro peger på, at møller og service prissættes anderledes, end markedet havde regnet med.",
+      "analysis": "Kursudsvinget er større end tallene i sig selv: knap 20 procent på en dag handler lige så meget om, hvad markedet troede, som om hvad Vestas tjente. Det afgørende bliver, om overskudsgraden holder, når den nuværende ordrebog er afviklet.",
+      "counterpoint": "JPMorgans vurdering er ét analytikerhus' læsning på dagen, og én kvartalsmargin bærer ikke en flerårig konklusion om et selskab, hvis indtjening svinger med projekternes tidsplaner.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/53ijr55g/20260812-091021-a_crop001.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Vindmølle med Vestas-logo på maskinhuset set gennem trætoppe under en overskyet himmel.",
+        "sourceUrl": "https://www.dr.dk/nyheder/penge/bedste-boersdag-vestas-i-14-aar"
+      },
+      "topics": [
+        "erhverv",
+        "energi",
+        "aktiemarked",
+        "dansk eksport"
+      ],
+      "entities": [
+        "Vestas",
+        "JPMorgan",
+        "Akash Gupta",
+        "C25"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 78,
+        "decisionValue": 74,
+        "novelty": 80,
+        "sourceQuality": 82,
+        "personalRelevance": 88,
+        "contrast": 62
+      },
+      "claims": [
+        {
+          "text": "Vestas' overskud efter skat i andet kvartal blev 285 mio. euro mod en konsensus på 144 mio. euro, og overskudsgraden blev 9,4 procent.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/bedste-boersdag-vestas-i-14-aar"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Aktien steg 19,7 procent ved lukketid, den største enkeltdagsstigning siden 2012, og markedsværdien voksede med lige under 35 milliarder kroner.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/bedste-boersdag-vestas-i-14-aar"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "C25-indekset steg 1,9 procent samme dag.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/bedste-boersdag-vestas-i-14-aar"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Bedste børsdag for Vestas i 14 år",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/penge/bedste-boersdag-vestas-i-14-aar",
+          "publishedAt": "2026-08-12T15:50:57Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Vestas Q2: Her er et referat af investormødet med analytikernes spørgsmål",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/ledelse/vestas-q2-her-er-et-referat-af-investormoedet-med-analytikernes-spoergsmaal/",
+          "publishedAt": "2026-08-12T10:54:55Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-2026-08-12-emballageforordning",
+      "eventKey": "eu-emballageforordning-ikrafttraeden-2026-08-12",
+      "materialFacts": [
+        "Enkelte af emballageforordningens krav gælder fra 12. august 2026; andre indfases løbende frem mod 2030 ifølge Energistyrelsen",
+        "Den endelige vejledning på knap 70 sider blev offentliggjort 3. august, ni dage før ikrafttrædelsen"
+      ],
+      "section": "Erhvervsvilkår",
+      "headline": "Ny emballagelov er trådt i kraft, men danske virksomheder er ikke klar: 'Bureaukratisk sprint med bind for øjnene'",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/ny-emballagelov-er-traadt-i-kraft-men-danske-virksomheder-er-ikke-klar-bureaukratisk-sprint-med",
+      "subheadline": "Vejledningen på knap 70 sider kom ni dage før kravene begyndte at gælde. Orkla Danmark kalder tidsplanen useriøs.",
+      "body": [
+        "Fra onsdag gælder de første krav i EU's emballageforordning: emballagedesign og grænseværdier for tungmetaller og PFAS. Forordningen blev vedtaget i december 2024, men den endelige vejledning på knap 70 sider kom først 3. august — ni dage før.",
+        "Hos Orkla Danmark kalder direktør Simon Mosegaard Fibiger tidsplanen useriøs. Overskriftens formulering er DI-direktør Emil Fannikke Kiærs; han siger, at han endnu har til gode at høre fra en virksomhed, der er klar."
+      ],
+      "whyItMatters": "Problemet er ikke reglernes indhold, men afstanden mellem vedtagelse og anvendelig vejledning. For en leverandør, der skal lægge emballagen om på mange varenumre, er ni dage ingen forberedelse.",
+      "analysis": "Målestokken for regelbyrde er ikke reglernes antal, men vejledningens timing.",
+      "counterpoint": "Energistyrelsen oplyser til DR, at kun enkelte krav gælder fra i dag, mens andre indfases frem mod 2030, og at den i starten vil udvise konduite i tilsynet.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/jo4l0t31/20250317-162034-l.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Arkivfoto anvendt af DR: flasker med Beauvais tomatketchup står i papkasser på hylden i et dansk supermarked.",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/ny-emballagelov-er-traadt-i-kraft-men-danske-virksomheder-er-ikke-klar-bureaukratisk-sprint-med"
+      },
+      "topics": [
+        "erhvervsvilkår",
+        "eu-regulering",
+        "fødevarer",
+        "regelbyrde"
+      ],
+      "entities": [
+        "Orkla Danmark",
+        "Simon Mosegaard Fibiger",
+        "Dansk Industri",
+        "Emil Fannikke Kiær",
+        "Energistyrelsen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 70,
+        "decisionValue": 76,
+        "novelty": 72,
+        "sourceQuality": 80,
+        "personalRelevance": 90,
+        "contrast": 58
+      },
+      "claims": [
+        {
+          "text": "Energistyrelsen oplyser til DR, at enkelte af kravene i emballageforordningen træder i kraft 12. august 2026, mens andre implementeres løbende frem mod 2030, og at styrelsen i starten vil udvise konduite i tilsynet.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/ny-emballagelov-er-traadt-i-kraft-men-danske-virksomheder-er-ikke-klar-bureaukratisk-sprint-med"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Den endelige vejledning på knap 70 sider blev offentliggjort 3. august 2026, ni dage før ikrafttrædelsen. Forordningen blev vedtaget i december 2024.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/ny-emballagelov-er-traadt-i-kraft-men-danske-virksomheder-er-ikke-klar-bureaukratisk-sprint-med"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Ny emballagelov er trådt i kraft, men danske virksomheder er ikke klar: 'Bureaukratisk sprint med bind for øjnene'",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/ny-emballagelov-er-traadt-i-kraft-men-danske-virksomheder-er-ikke-klar-bureaukratisk-sprint-med",
+          "publishedAt": "2026-08-12T04:00:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-2026-08-12-groenland-olieboringer",
+      "eventKey": "groenland-udskyder-amerikanske-proeveboringer-2026",
+      "materialFacts": [
+        "Naalakkersuisut vurderer, at planlagte boreaktiviteter ikke kan gennemføres i vinteren 2026/2027",
+        "Beslutningen omfatter også forberedende aktiviteter",
+        "Begrundelsen er, at godkendelsesprocessen ikke kan nå at blive færdig"
+      ],
+      "section": "Geopolitik",
+      "headline": "Grønland bremser amerikansk olieprojekt",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/groenland/groenland-bremser-amerikansk-olieprojekt",
+      "subheadline": "Naalakkersuisut vurderer, at godkendelsen ikke kan nå at blive færdig, og udskyder boringer i Nordøstgrønland.",
+      "body": [
+        "Den grønlandske regering har sat amerikanske planer om at bore efter olie i Nordøstgrønland på pause. Naalakkersuisut vurderer, at boreaktiviteter ikke kan gennemføres i vinteren 2026/2027, og det gælder også forberedende aktiviteter.",
+        "Begrundelsen er procesmæssig: godkendelsesprocessen kan ikke nå at blive færdig. Departementet for Erhverv og Råstoffer har på et møde med White Flame Energy A/S udtrykt bekymring for den meget stramme tidsplan. Det er uklart, hvornår en godkendelse kan foreligge."
+      ],
+      "whyItMatters": "Grønlands undergrund er et af de få steder, hvor amerikansk ressourceinteresse og grønlandsk selvstyre støder sammen. Her afgøres sagen af en sagsbehandlingstidsplan frem for en erklæring — og den er lige så bindende.",
+      "analysis": "Bemærk hvordan der siges nej. Naalakkersuisut afviser ikke projektet, men konstaterer, at forudsætningerne ikke er opfyldt til tiden — sværere at presse end et principielt afslag.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/ggtkydeg/20260712-201937-3.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Arkivfoto anvendt af DR til historien om olieprojektet: luftfoto af en grønlandsk bygd med farvede huse og store brændstoftanke ved iskanten.",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/groenland/groenland-bremser-amerikansk-olieprojekt"
+      },
+      "topics": [
+        "geopolitik",
+        "råstoffer",
+        "grønland",
+        "usa"
+      ],
+      "entities": [
+        "Naalakkersuisut",
+        "White Flame Energy",
+        "Greenland Energy Company",
+        "80 Mile",
+        "Departementet for Erhverv og Råstoffer"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 80,
+        "decisionValue": 68,
+        "novelty": 78,
+        "sourceQuality": 84,
+        "personalRelevance": 76,
+        "contrast": 70
+      },
+      "claims": [
+        {
+          "text": "Naalakkersuisut vurderer, at planlagte boreaktiviteter ikke kan gennemføres i vinteren 2026/2027, og at beslutningen også gælder forberedende aktiviteter.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/groenland/groenland-bremser-amerikansk-olieprojekt"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Departementet for Erhverv og Råstoffer udtrykte på et møde med White Flame Energy A/S bekymring for den meget stramme tidsplan, og det er uklart, hvornår en godkendelse kan foreligge.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/groenland/groenland-bremser-amerikansk-olieprojekt"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Grønland bremser amerikansk olieprojekt",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/groenland/groenland-bremser-amerikansk-olieprojekt",
+          "publishedAt": "2026-08-12T16:26:26Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-2026-08-12-schengen-notat",
+      "eventKey": "schengen-exit-notat-ministerier-2026-08",
+      "materialFacts": [
+        "Et notat fra Udlændinge- og Integrationsministeriet og Justitsministeriet vurderer konsekvenserne af en dansk Schengen-udtræden",
+        "Danmark ville miste muligheden for at sende asylansøgere tilbage til første ankomstland",
+        "Samarbejdsaftalerne med Europol og Eurojust ville bortfalde"
+      ],
+      "section": "Politik",
+      "headline": "Notat advarer om konsekvenser af dansk Schengen-exit",
+      "primarySourceUrl": "https://nyheder.tv2.dk/politik/2026-08-12-notat-advarer-om-konsekvenser-af-dansk-schengen-exit",
+      "subheadline": "To ministerier vurderer, at en udtræden kan give flere asylansøgere, ikke færre, og koste adgangen til Europol og Eurojust.",
+      "body": [
+        "Dansk Folkepartis ønske om at trække Danmark ud af Schengen kan ende med at føre flere asylansøgere til landet. Det fremgår af et notat fra Udlændinge- og Justitsministeriet, som TV 2 har fået, og som Politiken bragte.",
+        "Uden for Schengen kan Danmark ifølge notatet ikke længere sende asylansøgere tilbage til det første EU-land, de ankom til — ofte Grækenland, Italien eller Spanien. Adgangen til europæiske databaser over uønskede udlændinge forsvinder, og aftalerne med Europol og Eurojust bortfalder."
+      ],
+      "whyItMatters": "Schengen diskuteres som grænsekontrol, men notatet flytter regnestykket til tilbagesendelse og politisamarbejde. Fri bevægelighed er en analytikers tilføjelse — og den del, der koster virksomheder med leverancer over grænser.",
+      "analysis": "Notatet er embedsværkets vurdering, skrevet ind i en politisk strid. Styrken ligger i mekanismerne — Dublin, databaseadgang, Europol — mere end i konklusionen.",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/2/a/3/2a3cb774-aea2-489e-a6a6-46ba8db43798?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCw0NTAsODY0MCw0ODYw&s=a1da7e4878ce771e921839c3a55f702d",
+        "credit": "Foto: Claus Fisker / Ritzau Scanpix",
+        "alt": "Arkivfoto anvendt af TV 2: Dansk Folkepartis formand Morten Messerschmidt interviewet udendørs ved vandet med mikrofoner på skjorten.",
+        "sourceUrl": "https://nyheder.tv2.dk/politik/2026-08-12-notat-advarer-om-konsekvenser-af-dansk-schengen-exit"
+      },
+      "topics": [
+        "politik",
+        "eu",
+        "migration",
+        "erhvervsvilkår"
+      ],
+      "entities": [
+        "Dansk Folkeparti",
+        "Morten Messerschmidt",
+        "Udlændinge- og Integrationsministeriet",
+        "Justitsministeriet",
+        "Europol",
+        "Eurojust",
+        "Ditte Brasso Sørensen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 76,
+        "decisionValue": 70,
+        "novelty": 74,
+        "sourceQuality": 78,
+        "personalRelevance": 80,
+        "contrast": 66
+      },
+      "claims": [
+        {
+          "text": "Ifølge notatet ville Danmark uden for Schengen ikke længere kunne sende asylansøgere tilbage til det første EU-land, de ankom til.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/politik/2026-08-12-notat-advarer-om-konsekvenser-af-dansk-schengen-exit"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Ifølge notatet ville samarbejdsaftalerne med Europol og Eurojust bortfalde, og Danmark ville miste adgang til europæiske databaser over uønskede eller domsudviste udlændinge.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/politik/2026-08-12-notat-advarer-om-konsekvenser-af-dansk-schengen-exit"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Notat advarer om konsekvenser af dansk Schengen-exit",
+          "publisher": "TV 2",
+          "url": "https://nyheder.tv2.dk/politik/2026-08-12-notat-advarer-om-konsekvenser-af-dansk-schengen-exit",
+          "publishedAt": "2026-08-12T05:05:47Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-2026-08-12-datacenterplan",
+      "eventKey": "regeringen-datacenterplan-lidegaard-2026-08",
+      "materialFacts": [
+        "Erhvervs- og konkurrenceminister Martin Lidegaard sætter arbejdet i gang med en plan for udbygningen af datacentre i Danmark",
+        "Klimaminister Samira Nawa udarbejdede før sommerferien en nødplan for elnettet, hvor datacentre blev prioriteret bagest"
+      ],
+      "section": "Energi",
+      "headline": "Regeringen vil udarbejde ny stor-plan for datacentre i Danmark: Sådan skal vi afgøre, hvilke der skal bygges",
+      "primarySourceUrl": "https://www.computerworld.dk/art/296476/regeringen-vil-udarbejde-ny-stor-plan-for-datacentre-i-danmark-saadan-skal-vi-afgoere-hvilke-der-skal-bygges",
+      "subheadline": "Martin Lidegaard vil have styr på hvor mange datacentre Danmark skal have, hvor de skal ligge, og hvad de skal levere.",
+      "body": [
+        "Erhvervs- og konkurrenceminister Martin Lidegaard (R) vil have mere kontrol over udbygningen af datacentre i Danmark. \"Vi har brug for dem. Nu skal vi finde ud af, hvor mange vi skal have, hvor de skal stå, og hvad de skal levere, så de kan hjælpe den grønne omstilling frem for at blive et problem,\" sagde han tirsdag ifølge Ritzau.",
+        "Microsoft, Facebook, Apple og Google har store datacentre her, og udbygningen presser elnettet. Før sommerferien lavede klimaminister Samira Nawa (R) en nødplan, hvor datacentrene kom bagest i køen."
+      ],
+      "whyItMatters": "Spørgsmålet skifter fra om Danmark kan tiltrække datacentre til hvilke der skal have lov. Når netkapacitet er knap, er tilslutningsrækkefølgen reelt industripolitik.",
+      "analysis": "En norsk NTNU/Sintef-rapport om, hvem der skal have strømmen, peger samme vej: datacentre giver mindre lokal værdiskabelse end kraftkrævende industri. Det er afvejningen, en dansk plan skal træffe.",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Martin_Lidegaard_2015-01-20_001.jpg/1280px-Martin_Lidegaard_2015-01-20_001.jpg",
+        "credit": "Foto: Pernille Ingebrigtsen / Arctic Frontiers 2015, CC BY 3.0 via Wikimedia Commons",
+        "alt": "Arkivfoto af Martin Lidegaard, der taler bag en talerstol ved Arctic Frontiers-konferencen i Tromsø.",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Martin_Lidegaard_2015-01-20_001.jpg"
+      },
+      "topics": [
+        "energi",
+        "industripolitik",
+        "datacentre",
+        "erhvervsvilkår"
+      ],
+      "entities": [
+        "Martin Lidegaard",
+        "Samira Nawa",
+        "Radikale Venstre",
+        "Microsoft",
+        "Google",
+        "NTNU",
+        "Sintef"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 72,
+        "decisionValue": 72,
+        "novelty": 64,
+        "sourceQuality": 72,
+        "personalRelevance": 82,
+        "contrast": 60
+      },
+      "claims": [
+        {
+          "text": "Martin Lidegaard sagde tirsdag på Radikales sommergruppemøde, at regeringen nu skal finde ud af, hvor mange datacentre Danmark skal have, hvor de skal stå, og hvad de skal levere.",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/296476/regeringen-vil-udarbejde-ny-stor-plan-for-datacentre-i-danmark-saadan-skal-vi-afgoere-hvilke-der-skal-bygges"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Ingeniørens overskrift på en norsk NTNU/Sintef-rapport lyder, at datacentre skaber mindre lokal værdiskabelse end energikrævende industri. Artiklen er afkortet for ikke-abonnenter, så rapportens tal er ikke læst.",
+          "sourceUrls": [
+            "https://ing.dk/artikel/rapport-datacentre-skaber-mindre-lokal-vaerdiskabelse-end-energikraevende-industri"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Regeringen vil udarbejde ny stor-plan for datacentre i Danmark: Sådan skal vi afgøre, hvilke der skal bygges",
+          "publisher": "Computerworld",
+          "url": "https://www.computerworld.dk/art/296476/regeringen-vil-udarbejde-ny-stor-plan-for-datacentre-i-danmark-saadan-skal-vi-afgoere-hvilke-der-skal-bygges",
+          "publishedAt": "2026-08-12T11:58:00Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Rapport: Datacentre skaber mindre lokal værdiskabelse end energikrævende industri",
+          "publisher": "Ingeniøren",
+          "url": "https://ing.dk/artikel/rapport-datacentre-skaber-mindre-lokal-vaerdiskabelse-end-energikraevende-industri",
+          "publishedAt": "2026-08-12T08:41:31Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-2026-08-12-oljefondet-halvaar",
+      "eventKey": "oljefondet-halvaarsafkast-2026-h1",
+      "materialFacts": [
+        "Oljefondets afkast i første halvår 2026 blev 1.753 milliarder kroner, svarende til 9,4 procent",
+        "Fondets værdi var 22.683 milliarder kroner ved udgangen af juni mod 19.998 milliarder ved udgangen af første kvartal"
+      ],
+      "section": "Økonomi",
+      "headline": "Oljefondet fikk avkastning på 1.753 mrd.",
+      "primarySourceUrl": "https://e24.no/energi-og-klima/i/8px53Q/oljefondet-fikk-avkastning-paa-1-753-mrd",
+      "subheadline": "Norges statslige fond leverede sit højeste halvårsafkast målt i kroner, drevet af aktiemarkedet og især asiatisk teknologi.",
+      "body": [
+        "Det norske oliefond fik et afkast på 1.753 milliarder norske kroner i første halvår 2026, svarende til 9,4 procent. Norges Bank Investment Management oplyser, at det er det højeste halvårsafkast målt i kroner. \"Resultatet er drevet av god avkastning i aksjemarkedet, særlig fra asiatiske teknologiaksjer,\" skriver fondets leder Nicolai Tangen.",
+        "Værdien endte på 22.683 milliarder kroner ved udgangen af juni. Ved udgangen af første kvartal var den nede på 19.998 milliarder efter kursfald i kølvandet på Iran-krigen; ved nytår var den 21.268 milliarder."
+      ],
+      "whyItMatters": "Fondet er en aflæsning af, hvad de globale markeder gjorde ved en meget bred portefølje. Halvåret siger mere om asiatiske teknologiaktier end om norsk økonomi.",
+      "analysis": "Læg mærke til rækkefølgen: ned til knap 20.000 milliarder i første kvartal, op til 22.683 i andet. Samme halvår — og grunden til, at et kronetal er et dårligt mål for forvaltning.",
+      "image": {
+        "url": "https://akamai.vgc.no/v2/images/f2723730-d1e8-3fbd-b728-07840b3d08b5?format=auto&w=1080&s=a9bdacdcc53786c54447f05e080a8895888b790a",
+        "credit": "Foto: Skjalg Bøhmer Vold / E24",
+        "alt": "Oljefondets leder Nicolai Tangen med rygsæk over skulderen under Arendalsuka.",
+        "sourceUrl": "https://e24.no/energi-og-klima/i/8px53Q/oljefondet-fikk-avkastning-paa-1-753-mrd"
+      },
+      "topics": [
+        "økonomi",
+        "kapitalmarkeder",
+        "norge",
+        "makro"
+      ],
+      "entities": [
+        "Oljefondet",
+        "Norges Bank Investment Management",
+        "Nicolai Tangen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 68,
+        "decisionValue": 60,
+        "novelty": 72,
+        "sourceQuality": 80,
+        "personalRelevance": 66,
+        "contrast": 62
+      },
+      "claims": [
+        {
+          "text": "Oljefondets afkast i første halvår 2026 blev 1.753 milliarder kroner, eller 9,4 procent, og ifølge NBIM det højeste halvårsafkast målt i kroner.",
+          "sourceUrls": [
+            "https://e24.no/energi-og-klima/i/8px53Q/oljefondet-fikk-avkastning-paa-1-753-mrd"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Fondets værdi var 22.683 milliarder kroner ved udgangen af juni, 19.998 milliarder ved udgangen af første kvartal og 21.268 milliarder ved nytår.",
+          "sourceUrls": [
+            "https://e24.no/energi-og-klima/i/8px53Q/oljefondet-fikk-avkastning-paa-1-753-mrd"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Oljefondet fikk avkastning på 1.753 mrd.",
+          "publisher": "E24",
+          "url": "https://e24.no/energi-og-klima/i/8px53Q/oljefondet-fikk-avkastning-paa-1-753-mrd",
+          "publishedAt": "2026-08-12T06:01:28Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-2026-08-12-handicapsager-ankestyrelsen",
+      "eventKey": "handicapsager-ankestyrelsen-medhold-2026-08",
+      "materialFacts": [
+        "tvSyd har beskrevet, at familier får medhold i seks ud af ti sager ved Ankestyrelsen i sager om børn med handicap",
+        "Læsere fra hele landsdelen beskriver årelange ankeforløb, sygemeldinger og familier under pres"
+      ],
+      "section": "Samfund",
+      "headline": "Kamp for hjælp til handicappet barn kostede syv år og en skilsmisse",
+      "primarySourceUrl": "https://nyheder.tv2.dk/samfund/2026-08-12-kamp-for-hjaelp-til-handicappet-barn-kostede-syv-aar-og-en-skilsmisse",
+      "subheadline": "Familier får medhold i seks ud af ti klager over kommunernes afgørelser. Prisen for at klage fylder mest i svarene.",
+      "body": [
+        "Efter tvSyds historier om familier med handicappede børn, der får medhold i Ankestyrelsen, fortæller læsere nu om egne forløb. \"Vi er en af de familier, der er blevet ødelagt af at bede om hjælp hos kommunen,\" lyder en af kommentarerne.",
+        "tvSyd har tidligere beskrevet, at familier får medhold i seks ud af ti sager ved Ankestyrelsen, og professor Frederik Waage og Thorkild Olesen fra Danske Handicaporganisationer har kritiseret kommunernes sagsbehandling. I svarene fylder konsekvenserne mest: sygemeldinger, sammenbrud, år brugt på klager."
+      ],
+      "whyItMatters": "Seks ud af ti i medhold betyder ikke, at systemet fanger fejl. Det siger, at fejlene træffes i første instans, og at familierne bærer prisen for at få dem rettet.",
+      "analysis": "To problemer smelter let sammen. Det ene er kvaliteten af kommunernes afgørelser. Det andet er, at ankevejen er så lang, at den sorterer efter, hvem der har ressourcer til at klage.",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/4/0/1/4010c3a7-7bac-4f03-ac2b-20c6cb0072a1?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MSwwLDEyNzgsNzE5&s=75ed4669ce16abcb3cc54ad208f9893b",
+        "credit": "Foto: Ida Marie Odgaard / Ritzau Scanpix",
+        "alt": "Arkivfoto anvendt af TV 2 til historien om forældre, der får medhold i klager til Ankestyrelsen i sager om børn med handicap.",
+        "sourceUrl": "https://nyheder.tv2.dk/samfund/2026-08-12-kamp-for-hjaelp-til-handicappet-barn-kostede-syv-aar-og-en-skilsmisse"
+      },
+      "topics": [
+        "samfund",
+        "kommuner",
+        "handicap",
+        "forvaltning"
+      ],
+      "entities": [
+        "Ankestyrelsen",
+        "tvSyd",
+        "Frederik Waage",
+        "Thorkild Olesen",
+        "Danske Handicaporganisationer"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 70,
+        "decisionValue": 48,
+        "novelty": 62,
+        "sourceQuality": 74,
+        "personalRelevance": 40,
+        "contrast": 72
+      },
+      "claims": [
+        {
+          "text": "tvSyd har tidligere beskrevet, at familier får medhold i seks ud af ti sager ved Ankestyrelsen i sager om børn med handicap.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/samfund/2026-08-12-kamp-for-hjaelp-til-handicappet-barn-kostede-syv-aar-og-en-skilsmisse"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Professor Frederik Waage og Danske Handicaporganisationers formand Thorkild Olesen har over for tvSyd kritiseret kommunernes sagsbehandling.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/samfund/2026-08-12-kamp-for-hjaelp-til-handicappet-barn-kostede-syv-aar-og-en-skilsmisse"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kamp for hjælp til handicappet barn kostede syv år og en skilsmisse",
+          "publisher": "TV 2",
+          "url": "https://nyheder.tv2.dk/samfund/2026-08-12-kamp-for-hjaelp-til-handicappet-barn-kostede-syv-aar-og-en-skilsmisse",
+          "publishedAt": "2026-08-12T10:27:22Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-2026-08-12-vm-dressur-bronze",
+      "eventKey": "vm-dressur-2026-aachen-dansk-bronze",
+      "materialFacts": [
+        "Danmark vandt bronze i holdkonkurrencen ved VM i dressur i Aachen med 229,426 point mod Tysklands 235,063 og Storbritanniens 231,445",
+        "Cathrine Laudrup-Dufour leverede konkurrencens bedste enkeltpræstation med 82,376",
+        "Præstationen sikrede en dansk nationsplads ved OL i 2028",
+        "Kun de tre bedste ekvipager tæller i holdregnskabet"
+      ],
+      "section": "Sport",
+      "headline": "Danmarks første OL-plads sikret efter VM-bronze",
+      "primarySourceUrl": "https://sport.tv2.dk/ridning/2026-08-12-danmarks-foerste-ol-plads-sikret-efter-vm-bronze",
+      "subheadline": "De forsvarende verdensmestre måtte se Tyskland og Storbritannien passere, men bronzen rakte til en OL-billet.",
+      "body": [
+        "Danmark gik ind til holdkonkurrencen ved VM i dressur i Aachen som forsvarende verdensmester efter triumfen i Herning i 2022. Onsdag rakte det til bronze: Tyskland vandt med 235,063 point, Storbritannien tog sølv med 231,445, og Danmark endte på 229,426.",
+        "Cathrine Laudrup-Dufour leverede på hoppen Mount St John Freestyle konkurrencens bedste enkeltpræstation med 82,376 og bragte kortvarigt Danmark i front, før briterne og tyskerne red deres sidste ekvipager. Holdet bestod desuden af Daniel Bachmann Andersen, Carina Cassøe Krüth og Nadja Aaboe Sloth."
+      ],
+      "whyItMatters": "Bronzen er ikke det interessante. Præstationen sikrede en dansk nationsplads ved OL i 2028 — og den rækker længere end medaljen selv.",
+      "analysis": "Danmark vandt OL-guld i 2024 og VM i 2022, og feltet har lukket sig: under seks point op til guldet, fordelt på de tre præstationer der tæller. Forskellen ligger i dybden.",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/4/6/1/461ab8b4-5c54-45e7-bfbc-5f44ceacf3f9?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCwyNjcsNzUwMCw0MjI1&s=0a8ad9f48bc6513e0c8b882769e9e086",
+        "credit": "Foto: Mads Claus Rasmussen / Ritzau Scanpix",
+        "alt": "Foto anvendt af TV 2 til historien om det danske dressurlandshold ved VM i Aachen.",
+        "sourceUrl": "https://sport.tv2.dk/ridning/2026-08-12-danmarks-foerste-ol-plads-sikret-efter-vm-bronze"
+      },
+      "topics": [
+        "sport",
+        "ridning",
+        "danske sportsfolk",
+        "ol"
+      ],
+      "entities": [
+        "Cathrine Laudrup-Dufour",
+        "Daniel Bachmann Andersen",
+        "Carina Cassøe Krüth",
+        "Nadja Aaboe Sloth",
+        "Aachen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 52,
+        "decisionValue": 30,
+        "novelty": 76,
+        "sourceQuality": 76,
+        "personalRelevance": 72,
+        "contrast": 58
+      },
+      "claims": [
+        {
+          "text": "Danmark endte på tredjepladsen i holdkonkurrencen ved VM i dressur i Aachen med 229,426 point mod Tysklands 235,063 og Storbritanniens 231,445.",
+          "sourceUrls": [
+            "https://sport.tv2.dk/ridning/2026-08-12-danmarks-foerste-ol-plads-sikret-efter-vm-bronze"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Cathrine Laudrup-Dufour scorede 82,376 på Mount St John Freestyle, konkurrencens bedste enkeltpræstation.",
+          "sourceUrls": [
+            "https://sport.tv2.dk/ridning/2026-08-12-danmarks-foerste-ol-plads-sikret-efter-vm-bronze"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "TV 2 skriver, at den danske præstation var nok til at sikre en nationsplads ved OL i 2028, og at kun de tre bedste præstationer tæller i holdregnskabet.",
+          "sourceUrls": [
+            "https://sport.tv2.dk/ridning/2026-08-12-danmarks-foerste-ol-plads-sikret-efter-vm-bronze"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Danmarks første OL-plads sikret efter VM-bronze",
+          "publisher": "TV 2",
+          "url": "https://sport.tv2.dk/ridning/2026-08-12-danmarks-foerste-ol-plads-sikret-efter-vm-bronze",
+          "publishedAt": "2026-08-12T16:11:30Z",
+          "kind": "reporting"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "Italiener med fortid hos Gucci og McQueen er ny topchef i Bang & Olufsen",
+      "headline": "Italiener med fortid hos Gucci og McQueen er ny topchef i Bang & Olufsen",
+      "url": "https://www.dr.dk/nyheder/penge/italiener-med-fortid-hos-gucci-mcqueen-er-ny-topchef-i-bang-olufsen",
+      "publisher": "DR",
+      "section": "Navne",
+      "publishedAt": "2026-08-12T07:48:44Z",
+      "summary": "Gianfilippo Testa, siden 2022 topchef i Alexander McQueen og tidligere hos Gucci og Fendi, overtager posten. Kristian Teär trådte tilbage i januar; finansdirektør Nikolaj Wendelboe har haft ansvaret siden. Testa flytter til Danmark."
+    },
+    {
+      "text": "Google skifter AI-chef midt i kapløbet om de bedste modeller",
+      "headline": "Google skifter AI-chef midt i kapløbet om de bedste modeller",
+      "url": "https://www.computerworld.dk/art/296466/google-skifter-ai-chef-midt-i-kaploebet-om-de-bedste-modeller",
+      "publisher": "Computerworld",
+      "section": "Navne",
+      "publishedAt": "2026-08-12T06:17:00Z",
+      "summary": "Koray Kavukcuoglu bliver ny chef for Deepmind. Medstifter Demis Hassabis får en rolle som formand for organisationen. Kavukcuoglu kom til Deepmind i 2012 og står bag blandt andet AlphaGo og WaveNet."
+    },
+    {
+      "text": "Aarhus dropper ambitiøst klimamål",
+      "headline": "Aarhus dropper ambitiøst klimamål",
+      "url": "https://www.dr.dk/nyheder/indland/ambitioes-maalsaetning-om-klimaneutralitet-i-2030-saenkes",
+      "publisher": "DR",
+      "section": "Energi",
+      "publishedAt": "2026-08-12T17:26:45Z",
+      "summary": "Aarhus Kommune går fra 100 procents CO2-neutralitet i 2030 til mindst 85 procents reduktion. Ifølge Venstres Christian Budde var forudsætningerne ikke realiserbare, blandt andet et CO2-fangstprojekt i Lisbjerg, som byrådet standsede i december."
+    },
+    {
+      "text": "Snart skal det være lettere at få repareret telefonen og køleskabet",
+      "headline": "Snart skal det være lettere at få repareret telefonen og køleskabet",
+      "url": "https://www.dr.dk/nyheder/indland/snart-skal-det-vaere-lettere-faa-repareret-telefonen-og-koeleskabet",
+      "publisher": "DR",
+      "section": "EU",
+      "publishedAt": "2026-08-12T14:49:36Z",
+      "summary": "Justitsminister Nicolai Wammens lovforslag, der udmønter et EU-direktiv fra 2024, blev førstebehandlet onsdag. Producenter skal reparere hårde hvidevarer, mobiler og tablets gratis eller til en rimelig pris. Direktivet definerer ikke 'rimelig tid'."
+    },
+    {
+      "text": "Kina øger kontrol med europæisk bilindustri",
+      "headline": "Kina øger kontrol med europæisk bilindustri",
+      "url": "https://ing.dk/artikel/kina-oeger-kontrol-med-europaeisk-bilindustri",
+      "publisher": "Ingeniøren",
+      "section": "Industri",
+      "publishedAt": "2026-08-12T05:58:00Z",
+      "summary": "Kinesiske komponentproducenter får i stigende grad kontrol over dele af Europas bilindustri ved at opkøbe europæiske underleverandører, skriver Ingeniøren med henvisning til Financial Times og konsulentfirmaet Rhodium."
+    },
+    {
+      "text": "Den tyske efterretningstjeneste bliver sluppet løs: Må nu gå til modangreb",
+      "headline": "Den tyske efterretningstjeneste bliver sluppet løs: Må nu gå til modangreb",
+      "url": "https://www.dr.dk/nyheder/udland/den-tyske-efterretningstjeneste-bliver-sluppet-loes-maa-nu-gaa-til-modangreb",
+      "publisher": "DR",
+      "section": "Sikkerhed",
+      "publishedAt": "2026-08-12T15:47:38Z",
+      "summary": "Den tyske regering har godkendt et lovforslag, der ifølge tyske medier vil give tjenesterne lov til at sprede desinformation og udføre cyberangreb som svar på blandt andet hackerangreb, og lettere adgang til overvågning i Tyskland."
+    },
+    {
+      "text": "Over 800 danske soldater er ankommet til Letland",
+      "headline": "Over 800 danske soldater er ankommet til Letland",
+      "url": "https://www.dr.dk/nyheder/indland/over-800-danske-soldater-er-ankommet-til-letland",
+      "publisher": "DR",
+      "section": "Forsvar",
+      "publishedAt": "2026-08-12T11:38:03Z",
+      "summary": "Soldater og køretøjer er nået frem til Camp Valdemar som del af Natos forsvar af Baltikum. Materiellet blev sejlet eskorteret af fregatten Esbern Snare. Det er femte gang siden 2022, at Danmark sender en kampbataljon til Letland."
+    },
+    {
+      "text": "Pandora leverer 3% organisk vækst i andet kvartal – forventninger opgraderet",
+      "headline": "Pandora leverer 3% organisk vækst i andet kvartal – forventninger opgraderet",
+      "url": "https://ugebrev.dk/flashnews/pandora-leverer-3-organisk-vaekst-i-andet-kvartal-forventninger-opgraderet/",
+      "publisher": "Økonomisk Ugebrev",
+      "section": "Erhverv",
+      "publishedAt": "2026-08-12T16:41:20Z",
+      "summary": "Pandora rapporterer 3 procents organisk vækst i andet kvartal og opjusterer 2026-forventningerne til 0-3 procents organisk vækst og en EBIT-margin på 22-23 procent. Økonomisk Ugebrevs referat er selverklæret automatiseret og i beta."
+    },
+    {
+      "text": "Hvor mange ulve er der i Danmark? Forskerne er ikke længere sikre",
+      "headline": "Hvor mange ulve er der i Danmark? Forskerne er ikke længere sikre",
+      "url": "https://www.dr.dk/nyheder/indland/hvor-mange-ulve-er-der-i-danmark-forskerne-er-ikke-laengere-sikre",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-08-12T05:09:00Z",
+      "summary": "Ulveekspert og professor Peter Sunde fra Aarhus Universitet siger, at ingen med sikkerhed ved, hvor mange ulve der er. Den seneste opgørelse viste 49 voksne ulve ved udgangen af april, opgjort før årets hvalpe blev født."
+    },
+    {
+      "text": "Rune afviser at have trukket sig fra US Open",
+      "headline": "Rune afviser at have trukket sig fra US Open",
+      "url": "https://sport.tv2.dk/tennis/2026-08-12-rune-afviser-at-have-trukket-sig-fra-us-open",
+      "publisher": "TV 2",
+      "section": "Sport",
+      "publishedAt": "2026-08-12T04:11:43Z",
+      "summary": "Holger Rune skriver på X, at han ikke har trukket sig, og håber at nå US Open, der begynder 30. august. Han nævnte tirsdag i podcasten 'Served with Andy Roddick' Davis Cup-kampen mod Bulgarien i Hillerød 18.-19. september som mulig comeback-ramme."
+    },
+    {
+      "text": "Forbrugerombudsmanden slår ned på parkeringsapp",
+      "headline": "Forbrugerombudsmanden slår ned på parkeringsapp",
+      "url": "https://nyheder.tv2.dk/business/2026-08-12-forbrugerombudsmanden-slaar-ned-paa-parkeringsapp",
+      "publisher": "TV 2",
+      "section": "Erhverv",
+      "publishedAt": "2026-08-12T06:11:40Z",
+      "summary": "Apcoa har overtrådt markedsføringsloven ved at markedsføre appen Apcoa Flow som gebyrfri, selv om brugerne betalte et driftsgebyr per parkering. Markedsføringen stod i App Store og Google Play i 2024. Forbrugerombudsmanden har indskærpet reglerne."
+    },
+    {
+      "text": "Klippesprængning har ikke virket i Rumænien: Lukning af atomreaktor er »uundgåelig«",
+      "headline": "Klippesprængning har ikke virket i Rumænien: Lukning af atomreaktor er »uundgåelig«",
+      "url": "https://ing.dk/artikel/klippespraengning-har-ikke-virket-i-rumaenien-lukning-af-atomreaktor-er-uundgaaelig",
+      "publisher": "Ingeniøren",
+      "section": "Energi",
+      "publishedAt": "2026-08-11T10:37:49Z",
+      "summary": "Rumænien sprængte klipper i Donau for at føre mere kølevand til Nuclearelectricas atomreaktor. Ifølge Ingeniøren har det ikke virket."
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "thomas-2026-08-12-rec-freud",
+      "mode": "experience",
+      "kind": "Udstilling",
+      "status": "available",
+      "title": "Lucian Freud – Alt er portræt",
+      "creator": "Louisiana Museum of Modern Art og National Portrait Gallery, London",
+      "provider": "Louisiana Museum of Modern Art",
+      "url": "https://louisiana.dk/udstilling/lucian-freud-2026/",
+      "availability": "Humlebæk, 11.6.26 – 27.9.26",
+      "description": "Udstilling om Lucian Freuds livslange optagethed af ansigter og kroppe, med vægt på tegningen i alle dens former og dialogen mellem tegning og maleri. Tilrettelagt af National Portrait Gallery, London.",
+      "rationale": "Udstillingen er bygget om tegningen frem for maleriet, og det er der, en portrætkunstners beslutninger stadig kan ses, før de er malet over. Den er tilrettelagt af National Portrait Gallery i London og lukker 27. september.",
+      "topics": [
+        "kunst",
+        "portræt",
+        "udstilling"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://louisiana.dk/wp-content/uploads/2025/10/BAL_619750-huge_jpg-2.jpg",
+        "credit": "Kilde: Louisiana Museum of Modern Art",
+        "alt": "Værk af Lucian Freud anvendt af Louisiana som billede til udstillingen 'Alt er portræt'.",
+        "sourceUrl": "https://louisiana.dk/udstilling/lucian-freud-2026/"
+      }
+    },
+    {
+      "id": "thomas-2026-08-12-rec-projekt-trump",
+      "mode": "listen",
+      "kind": "Podcast",
+      "status": "new",
+      "title": "Ulrik Bie: Trumps vigtigste økonomiske politik er, at han har lukket døren til resten af verden",
+      "creator": "Altinget, med Ulrik Bie",
+      "provider": "Altinget",
+      "url": "https://www.altinget.dk/artikel/ulrik-bie-trumps-vigtigste-oekonomiske-politik-er-at-han-har-lukket-doeren-til-resten-af-verden",
+      "availability": "Afspilles på altinget.dk; siden henviser til Acast, Apple Podcast og Spotify",
+      "description": "Afsnit af Altingets serie Projekt Trump om, hvad Donald Trumps økonomiske politik går ud på, motivet bag handelspolitikken, og hvor han adskiller sig fra en mere normal republikaner på økonomien.",
+      "rationale": "Siden præsenterer Bie som økonomisk redaktør på Berlingske og USA-iagttager, og formatet giver ham plads til at behandle told som økonomisk strategi frem for som enkeltsager. Emnet er det, læseren selv har arbejdet med på europæisk plan.",
+      "topics": [
+        "handelspolitik",
+        "usa",
+        "økonomi"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "thomas-2026-08-12-rec-teknologiradet",
+      "mode": "read",
+      "kind": "Ekspertgruppe og rapportprojekt",
+      "status": "timely",
+      "title": "Data Centres in Norway",
+      "creator": "Teknologirådet (The Norwegian Board of Technology)",
+      "provider": "Teknologirådet",
+      "url": "https://teknologiradet.no/en/project/data-centres-in-norway/",
+      "availability": "Frit tilgængeligt, engelsk",
+      "description": "Norsk ekspertgruppe om datacentrenes samfundsvirkning. Ifølge projektsiden var der 84 datacentre i Norge i september 2025, svarende til cirka to procent af elforbruget, men 40 procent af den allerede reserverede netkapacitet.",
+      "rationale": "Danmark er ved at stille præcis de spørgsmål, nordmændene har haft et ekspertudvalg på siden september 2025. Tallene for netkapacitet er den type figur, der afgør en datacenterplan, og de er allerede opgjort her frem for i en dansk debat, der endnu er på erklæringsstadiet.",
+      "topics": [
+        "datacentre",
+        "energi",
+        "industripolitik"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "column": {
+    "authoredBy": "ai",
+    "slug": "det-dyre-og-det-uigenkaldelige",
+    "title": "Det dyre og det uigenkaldelige",
+    "thesis": "Det, vi kalder en svær beslutning, er som regel bare en dyr beslutning; det er uigenkaldeligheden, ikke beløbet, der burde afgøre, hvor længe man tænker sig om.",
+    "body": [
+      "Organisationer fordeler betænkningstid efter sagens størrelse. Store beløb får lange processer, små korte. Det er en forståelig nøgle og efter min mening forkert. En dyr investering, der kan sælges videre, koster penge. En billig beslutning, der binder en organisation til ét format eller én leverandør, kan koste år — og bliver sjældent kaldt svær, netop fordi den var billig.",
+      "Jeg mener, den rigtige sortering er, hvor let man kommer tilbage. Kan man fortryde inden for et kvartal, er selv en dyr beslutning et forsøg, og det er spild at bruge et halvt år på den. Kan man ikke fortryde, er selv en billig beslutning en strategi, og den hurtige behandling det egentlige tab."
+    ],
+    "uncertainty": "Indvendingen, jeg tager alvorligst: at uigenkaldelighed sjældent kan ses på forhånd. Viser det sig, at beslutninger, der kunne fortrydes på papiret, alligevel låste sig fast gennem vaner og aftaler, er sondringen ubrugelig.",
+    "topics": [
+      "beslutninger",
+      "organisation",
+      "risiko"
+    ]
+  }
+}
