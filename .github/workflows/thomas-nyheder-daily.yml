@@ -1,0 +1,220 @@
+# Thomas' Nyheder — daily brief from GitHub's runners. Reasons, thresholds and the
+# failure history behind every step: SPEC.md, beside this file.
+# REQUIRED ON BRANCH live/thomas-nyheder — the preflight step asserts all of it:
+#   scripts/ci-preflight.sh  scripts/brief-mode.sh  scripts/ci-attempt-cap.sh
+#   scripts/ci-compose-prompt.sh  scripts/ci-gate.sh  scripts/brief-liveness.sh
+#   scripts/ci-record-ledger.sh  .nvmrc  package-lock.json
+#   docs/routines/backup-from-claude-dir/dagens-kompas-daily.SKILL.md
+#   npm scripts: context, validate:draft, check:draft, publish:pages
+# On 2026-08-12 none of those scripts, no .nvmrc and not that prompt exist here
+# [verified] — the prompt is on feature/news-brief-mvp only, the one-branch
+# dependency that was fatal defect 2. Land the contract on BOTH branches, then
+# dispatch preflight_only before enabling the crons.
+
+name: Thomas' Nyheder — daily
+
+on:
+  # Copenhagen time, so the deadline holds across both DST switches. 07:15 minus
+  # the 222-min worst case (77 delay + 145 run) = 03:33, so 03:19 is the last
+  # attempt that lands; 01:57 is the first that begins after Alexander's 00:37 run
+  # typically ends, and they share one Claude weekly allowance. No :00/:30 (load
+  # peaks) and no 02:xx (October repeats it), so no third slot is left.
+  schedule:
+    - cron: "57 1 * * *"
+      timezone: "Europe/Copenhagen"
+    - cron: "19 3 * * *"
+      timezone: "Europe/Copenhagen"
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Edition date YYYY-MM-DD. Blank = today in Copenhagen."
+        required: false
+      preflight_only:
+        description: "Check branch parity and stop. Run this before the crons."
+        type: boolean
+        default: false
+      force:
+        description: "Ignore today's attempt cap. Recovery only."
+        type: boolean
+        default: false
+
+# The repo default is `read` [verified 2026-08-12], so the push needs this here.
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: thomas-daily
+  cancel-in-progress: false
+
+env:
+  TZ: Europe/Copenhagen
+  BRIEF_PROFILE: thomas
+  ENGINE_REF: live/thomas-nyheder
+  SITE_URL: https://abustrup.github.io/thomas-nyheder
+  DEADLINE_CPH: "07:15"
+  ROUTINE_PROMPT: docs/routines/backup-from-claude-dir/dagens-kompas-daily.SKILL.md
+  # Overrides this profile's Mac path; scripts/profile.mjs honours it [verified].
+  PAGES_REPO_DIR: ${{ github.workspace }}/pages
+  # npm dist-tag `stable` on 2026-08-12. EXPIRES 2026-11-01 — bump, then dispatch.
+  CLAUDE_CLI_VERSION: 2.1.221
+  GIT_AUTHOR_NAME: "github-actions[bot]"
+  GIT_COMMITTER_NAME: "github-actions[bot]"
+  GIT_AUTHOR_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
+  GIT_COMMITTER_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - name: Resolve the edition date
+        env:
+          REQUESTED: ${{ inputs.date }}
+        run: |
+          DATE="${REQUESTED:-$(date +%F)}"
+          [[ "$DATE" =~ ^20[0-9]{2}-[0-1][0-9]-[0-3][0-9]$ ]] || { echo "::error::not a date: '$DATE'"; exit 1; }
+          echo "DATE=$DATE" >> "$GITHUB_ENV"
+
+      - name: Check out the engine (read-only deploy key)
+        uses: actions/checkout@v5
+        with:
+          repository: abustrup/alexanders-brief-source
+          ref: live/thomas-nyheder
+          ssh-key: ${{ secrets.ENGINE_DEPLOY_KEY }}
+          fetch-depth: 1
+          persist-credentials: false
+          path: engine
+
+      # Exits 1 naming the file if a dependency is missing here, or the site URL is not this repo's.
+      - name: Preflight — branch parity
+        run: bash engine/scripts/ci-preflight.sh
+
+      # Live page, then the archive. done = page serves today, green in seconds,
+      # work=false. republish = archive has today but the page does not; build and
+      # prove, no model time. full = produce the edition. Both set work=true.
+      - name: Guard — is today already out?
+        id: guard
+        if: ${{ !inputs.preflight_only }}
+        run: bash engine/scripts/brief-mode.sh "$SITE_URL" "$DATE"
+
+      - name: Check out the website repo
+        if: steps.guard.outputs.work == 'true'
+        uses: actions/checkout@v5
+        with:
+          path: pages
+          persist-credentials: false
+
+      - name: Node
+        if: steps.guard.outputs.mode == 'full'
+        uses: actions/setup-node@v5
+        with:
+          node-version-file: engine/.nvmrc
+          cache: npm
+          cache-dependency-path: engine/package-lock.json
+
+      - name: Install dependencies
+        if: steps.guard.outputs.mode == 'full'
+        working-directory: engine
+        run: npm ci
+
+      - name: Fetch editorial context
+        if: steps.guard.outputs.mode == 'full'
+        continue-on-error: true
+        working-directory: engine
+        env:
+          BRIEF_API_URL: ${{ secrets.BRIEF_API_URL }}
+          BRIEF_PUBLISH_TOKEN: ${{ secrets.BRIEF_PUBLISH_TOKEN }}
+        run: npm run context
+
+      - name: Attempt cap
+        if: steps.guard.outputs.mode == 'full'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          MAX_FULL_ATTEMPTS: ${{ inputs.force && '99' || '2' }}
+        run: bash engine/scripts/ci-attempt-cap.sh
+
+      # Prepends the public-log clause plus the CI overrides the prompt needs, ending in: stop at the draft.
+      - name: Install the agent and compose the prompt
+        if: steps.guard.outputs.mode == 'full'
+        run: |
+          npm i -g "@anthropic-ai/claude-code@$CLAUDE_CLI_VERSION"
+          bash engine/scripts/ci-compose-prompt.sh > run-prompt.md
+
+      # No --bare: bare mode ignores CLAUDE_CODE_OAUTH_TOKEN [verified]. No push
+      # credential and no --add-dir into pages/, so it cannot publish.
+      - name: Run the editorial agent
+        if: steps.guard.outputs.mode == 'full'
+        continue-on-error: true
+        timeout-minutes: 100
+        working-directory: engine
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          claude -p "$(cat ../run-prompt.md)" --output-format text --no-session-persistence \
+            --allowedTools Read Write Edit Glob Grep Bash WebFetch WebSearch TodoWrite \
+            --disallowedTools "Bash(git push:*)" "Bash(git commit:*)" "Bash(gh:*)" "Bash(npm run publish:*)"
+
+      - name: Length report
+        if: steps.guard.outputs.mode == 'full'
+        continue-on-error: true
+        working-directory: engine
+        run: npm run --if-present count:length
+
+      # All that stands between a fabrication and the reader. A check that never ran is red.
+      - name: Quality gate
+        if: steps.guard.outputs.mode == 'full'
+        timeout-minutes: 15
+        env:
+          REQUIRE_FLOOR: "true"
+          REQUIRE_SOURCE_REACH: "true"
+          REQUIRE_SOURCE_ECHO: "true"
+        run: bash engine/scripts/ci-gate.sh "$DATE"
+
+      # Single-quoted, so the token never reaches .git/config, a remote URL or ps.
+      - name: Publish
+        id: publish
+        if: steps.guard.outputs.mode == 'full'
+        working-directory: engine
+        env:
+          GH_PUSH_TOKEN: ${{ github.token }}
+        run: |
+          git -C ../pages config credential.helper '!f(){ echo username=x-access-token; echo "password=$GH_PUSH_TOKEN"; }; f'
+          npm run publish:pages -- "$DATE"
+          git -C ../pages config --unset credential.helper
+          echo "sha=$(git -C ../pages rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+      # Whether a GITHUB_TOKEN push wakes the legacy builder is unsettled
+      # [unverified], so ask. The proof below detects it either way.
+      - name: Ask GitHub Pages to build
+        if: steps.guard.outputs.work == 'true'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/$GITHUB_REPOSITORY/pages/builds" --silent
+
+      # THIS STEP ALONE DECIDES THE JOB'S COLOUR: Pages reports `built` for the
+      # pushed SHA, then the page carries this edition's runId. Built-but-lagging is
+      # a warning; empty PAGES_SHA (republish) means the checkout's HEAD. Every green
+      # run went red here for want of the GH_TOKEN below.
+      - name: Prove the reader is served
+        id: liveness
+        if: steps.guard.outputs.work == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PAGES_SHA: ${{ steps.publish.outputs.sha }}
+        run: bash engine/scripts/brief-liveness.sh "$SITE_URL" "$DATE" "$PAGES_SHA"
+
+      # Its own commit after the proof: the engine key is read-only, and engine write is tomorrow's prompt.
+      - name: Record the ledger
+        if: success() && steps.guard.outputs.mode == 'full'
+        env:
+          GH_PUSH_TOKEN: ${{ github.token }}
+        run: bash engine/scripts/ci-record-ledger.sh "$DATE"
+
+      - name: Summary
+        if: always()
+        env:
+          MODE: ${{ steps.guard.outputs.mode }}
+          VERDICT: ${{ steps.liveness.outputs.verdict }}
+        run: printf '%s\n' "- date \`${DATE:-unresolved}\`" "- mode \`${MODE:-preflight-only}\`" "- verdict \`${VERDICT:-none}\`" "- deadline $DEADLINE_CPH CPH" "- $SITE_URL/" >> "$GITHUB_STEP_SUMMARY"

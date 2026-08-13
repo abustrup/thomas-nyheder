@@ -1,0 +1,98 @@
+name: Watchdog - Alexanders Brief
+# INSTALL IN abustrup/thomas-nyheder. WATCHES abustrup/alexanders-brief. Cross-installed on
+# purpose: a workflow that never starts cannot report that, and a public-repo schedule self-disables
+# after 60 idle days. No `uses:`, no secrets - curl/jq/gh ship on ubuntu-24.04 [verified].
+on:
+  schedule:  # Alexander is due 06:40 CPH. The 06:53 poll may close an issue, never open one.
+    - {cron: '53 6 * * *', timezone: Europe/Copenhagen}
+    - {cron: '17 7 * * *', timezone: Europe/Copenhagen}
+    - {cron: '53 7 * * *', timezone: Europe/Copenhagen}
+    - {cron: '53 8 * * *', timezone: Europe/Copenhagen}
+  workflow_dispatch:
+    inputs:
+      drill:
+        description: Open and self-close a test issue, proving the alarm channel works
+        type: boolean
+        default: false
+permissions: {issues: write}   # the only grant; declaring this sets every other scope to none
+concurrency: {group: watchdog-alexander, cancel-in-progress: false}
+env:
+  TZ: Europe/Copenhagen
+  LABEL: alexander
+  WATCHED: alexanders-brief
+  PAGE_URL: https://abustrup.github.io/alexanders-brief/index.html
+  RAW_DIR: https://raw.githubusercontent.com/abustrup/alexanders-brief/main/data
+  DAILY_WF: daily-alexander.yml
+  DEADLINE: '06:40'
+  ALARM_AFTER: '0705'    # deadline + 25 min. Quoting matters: bare 0705 is YAML octal 453.
+  GH_TOKEN: ${{ github.token }}
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - name: Probe the published edition
+        id: probe
+        run: |
+          case "$PAGE_URL$RAW_DIR" in *"$WATCHED"*"$WATCHED"*) ;; *) echo "::error::URLs do not point at $WATCHED"; exit 1;; esac
+          TODAY=$(date +%F)
+          set +e   # bash -e would kill this step before the verdict is exported
+          PAGE_HTTP=$(curl -sS -m 25 -o page.html -w '%{http_code}' "$PAGE_URL")
+          ARCH_HTTP=$(curl -sS -m 25 -o arch.json -w '%{http_code}' "$RAW_DIR/$TODAY.json")
+          curl -sS -m 25 -o wf.json "https://api.github.com/repos/abustrup/$WATCHED/actions/workflows/$DAILY_WF"
+          grep -qF "\"date\":\"$TODAY\"" page.html; PAGE_OK=$?   # file-then-grep; `curl | grep -q` dies 56 on SIGPIPE
+          [ "$ARCH_HTTP" = 200 ] && [ "$(jq -r '.date // ""' arch.json)" = "$TODAY" ]; ARCH_OK=$?
+          WF_STATE=$(jq -r '.state // "not-installed"' wf.json)
+          set -e
+          if   [ "$PAGE_HTTP" != 200 ]; then V=INCONCLUSIVE   # cannot judge, so never an alarm
+          elif [ "$PAGE_OK" = 0 ];      then V=PUBLISHED
+          elif [ "$ARCH_OK" = 0 ];      then V=PAGES_STALE; else V=NOT_PUBLISHED; fi
+          DIAG="page HTTP $PAGE_HTTP - archive HTTP $ARCH_HTTP - daily workflow: $WF_STATE"
+          { echo "verdict=$V"; echo "today=$TODAY"; echo "diag=$DIAG"; } >> "$GITHUB_OUTPUT"
+          printf '### %s %s: %s\n%s\n' "$LABEL" "$TODAY" "$V" "$DIAG" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Drill the alarm channel
+        env:
+          DRILL: ${{ inputs.drill }}
+        run: |
+          if [ "$DRILL" != true ] && [ "$(date +%d)" != 01 ]; then echo "no drill scheduled today"; exit 0; fi
+          T="[brief-drill] $LABEL $(date +%F)"
+          gh issue list --state all --limit 100 --json title > all.json  # REST list, not the lagging search index
+          if grep -qF "$T" all.json; then echo "drill already ran today"; exit 0; fi
+          U=$(gh issue create --title "$T" --assignee abustrup --body "Monthly proof of life: this watchdog can open an issue and notify @abustrup. No action needed.")
+          gh issue close "$U" --comment "Drill complete - the channel works."
+
+      - name: Close alarms on recovery
+        if: steps.probe.outputs.verdict == 'PUBLISHED'
+        run: |
+          gh issue list --state open --limit 100 --json number,title > open.json
+          jq -r --arg p "[brief-alarm] $LABEL " '.[]|select(.title|startswith($p))|.number' open.json > nums.txt
+          while read -r N; do [ -n "$N" ] && gh issue close "$N" --comment "Recovered: today's edition is live."; done < nums.txt
+
+      - name: Raise or update the alarm
+        if: steps.probe.outputs.verdict == 'PAGES_STALE' || steps.probe.outputs.verdict == 'NOT_PUBLISHED'
+        env:
+          VERDICT: ${{ steps.probe.outputs.verdict }}
+          TODAY: ${{ steps.probe.outputs.today }}
+          DIAG: ${{ steps.probe.outputs.diag }}
+        run: |
+          if [ "$((10#$(date +%H%M)))" -lt "$((10#$ALARM_AFTER))" ]; then echo "before $ALARM_AFTER, reporting only"; exit 0; fi
+          T="[brief-alarm] $LABEL $TODAY"
+          gh issue list --state open --limit 100 --json number,title > open.json
+          N=$(jq -r --arg t "$T" 'map(select(.title==$t))|.[0].number // ""' open.json)
+          cat > body.md <<EOF
+          Alexanders Brief was not readable at its URL by $DEADLINE CPH plus 25 minutes.
+
+          **$VERDICT** - $DIAG
+          Checked $PAGE_URL for the literal \`"date":"$TODAY"\`.
+
+          - The runs, and the step that failed: https://github.com/abustrup/$WATCHED/actions
+          - No run at all means the schedule was dropped or the workflow disabled. Open
+            https://github.com/abustrup/$WATCHED/actions/workflows/$DAILY_WF and press **Enable workflow**, then \`gh workflow run $DAILY_WF -R abustrup/$WATCHED\`.
+          - Fallback: the routine on the Mac still publishes this brief.
+
+          Closes itself on the next poll that finds today's edition live. cc @abustrup
+          EOF
+          if [ -n "$N" ]; then gh issue comment "$N" --body-file body.md
+          else gh issue create --title "$T" --assignee abustrup --body-file body.md; fi
+          exit 1   # a red run is the second notification channel
