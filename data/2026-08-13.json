@@ -1,0 +1,943 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-08-13-daily",
+  "date": "2026-08-13",
+  "generatedAt": "2026-08-13T04:58:00.000Z",
+  "readingMinutes": 11,
+  "title": "Thomas' Nyheder",
+  "dek": "Torsdag 13. august 2026. Skyggeflåden sender regningen videre, retsdokumenter afslører prisen på et vinslot, og presset ved Letlands grænse stiger stille.",
+  "profileWeights": {
+    "importance": 20,
+    "decisionValue": 22,
+    "novelty": 16,
+    "sourceQuality": 18,
+    "personalRelevance": 16,
+    "contrast": 8
+  },
+  "stories": [
+    {
+      "id": "thomas-2026-08-13-oman-skyggeflaade",
+      "eventKey": "oman-caroline-bezengi-olieudslip-skyggeflaade-2026-08",
+      "materialFacts": [
+        "Tankskibet Caroline Bezengi paa 247 meter staar paa grund ud for Oman og har laekket olie i mange uger",
+        "Skibet er sanktioneret af EU, Ukraine og Storbritannien og regnes til den russiske skyggeflaade",
+        "Ejeren har ikke givet sig til kende trods Omans krav i slutningen af juli",
+        "Greenpeace vurderer forureningen til 600 kvadratkilometer mod 45 i slutningen af juli"
+      ],
+      "section": "Handel og sanktioner",
+      "headline": "Mystisk havareret olietankskib truer fredet havområde ud for Omans kyst",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/mystisk-havareret-olietankskib-truer-fredet-havomraadet-ud-omans-kyst",
+      "subheadline": "Et sanktioneret tankskib uden kendt ejer lækker olie ud for Oman. Sagen viser, hvem der ender med regningen, når skyggeflåden går på grund.",
+      "body": [
+        "Det 247 meter lange tankskib Caroline Bezengi ligger på klippefyldt grund ud for Omans kyst ved Det Arabiske Hav og har lækket olie i mange uger. Greenpeace' tyske afdeling, der følger stedet via satellitfotos, vurderer, at forureningen nu dækker 600 kvadratkilometer mod 45 i slutningen af juli.",
+        "Ejeren har ikke givet sig til kende. Ifølge Muscat Daily forlangte Oman i slutningen af juli skibet fjernet under trussel om retlige konsekvenser. Der kom ingen reaktion."
+      ],
+      "whyItMatters": "EU har gjort det ulovligt for anerkendte forsikringsselskaber at dække skibe, der sælger russisk olie over en bestemt pris. Lasten flyttes derfor over i gamle skibe uden dækkende forsikring. Når et af dem går på grund, er der hverken ejer eller forsikring at sende regningen til.",
+      "analysis": "Jessica Larsen fra DIIS opsummerer reglen: forureneren skal betale. Den forudsætter en forurener, man kan finde. Formålet med prisloftet er ifølge DR at presse russisk økonomi; bivirkningen er, at risikoen flytter over på kyststaterne.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/emtkczwd/20260810-134717-3.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR Nyheder (Foto: Planet Labs Pbc, Reuters/Ritzau Scanpix)",
+        "alt": "Satellitbillede af tankskibet Caroline Bezengi, der ligger ud for en klippeø ved Omans kyst.",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/mystisk-havareret-olietankskib-truer-fredet-havomraadet-ud-omans-kyst"
+      },
+      "topics": [
+        "sanktioner",
+        "skyggeflåden",
+        "søfart",
+        "Rusland",
+        "Oman",
+        "EU"
+      ],
+      "entities": [
+        "Caroline Bezengi",
+        "Oman",
+        "EU",
+        "Rusland",
+        "DIIS",
+        "Jessica Larsen",
+        "Yevgeniy Golovchenko",
+        "Muscat Daily",
+        "Greenpeace",
+        "Nina Noelle"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 82,
+        "decisionValue": 74,
+        "novelty": 79,
+        "sourceQuality": 86,
+        "personalRelevance": 81,
+        "contrast": 72
+      },
+      "claims": [
+        {
+          "text": "Caroline Bezengi er 247 meter lang, ligger på klippefyldt grund ud for Omans kyst og har lækket olie i mange uger.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/mystisk-havareret-olietankskib-truer-fredet-havomraadet-ud-omans-kyst"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Skibet står på sanktionslisten hos blandt andre EU, Ukraine og Storbritannien og regnes til den russiske skyggeflåde.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/mystisk-havareret-olietankskib-truer-fredet-havomraadet-ud-omans-kyst"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Ifølge Vesselfinder er skibet bygget i 2001 og sejler under Cameroons flag.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/mystisk-havareret-olietankskib-truer-fredet-havomraadet-ud-omans-kyst"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Oman har fået beregnet en overpumpning af lasten gennem en tusind meter lang ledning.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/mystisk-havareret-olietankskib-truer-fredet-havomraadet-ud-omans-kyst"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Greenpeace' ekspert Nina Noelle vurderer, at forureningen nu dækker 600 kvadratkilometer mod 45 kvadratkilometer i slutningen af juli.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/mystisk-havareret-olietankskib-truer-fredet-havomraadet-ud-omans-kyst"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Mystisk havareret olietankskib truer fredet havområde ud for Omans kyst",
+          "publisher": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/udland/mystisk-havareret-olietankskib-truer-fredet-havomraadet-ud-omans-kyst",
+          "publishedAt": "2026-08-12T08:39:00.000Z",
+          "kind": "reporting"
+        }
+      ],
+      "counterpoint": "Oman har ifølge Muscat Daily fået beregnet en overpumpning af lasten gennem en tusind meter lang ledning, så tankskibet kan trækkes fri."
+    },
+    {
+      "id": "thomas-2026-08-13-lauritz-vinslot-pris",
+      "eventKey": "lauritz-sundstroem-chateau-vignelaure-salgspris-2026-07",
+      "materialFacts": [
+        "Chateau Vignelaure solgt for 11,213 mio. euro, knap 84 mio. kr.",
+        "Prisen fremgaar af en kendelse fra retten i Draguignan af 23. juli 2026",
+        "Slottet var i 2024 prissat til 272 mio. kr. i regnskabet for Bengt Sundstroems ejendomsselskab"
+      ],
+      "section": "Dansk erhvervsliv",
+      "headline": "Retsdokumenter afslører pris på Lauritz-parrets vinslot - tusindvis af kunder står til at få en lang næse",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/penge/retsdokumenter-afsloerer-pris-paa-lauritz-parrets-vinslot-tusindvis-af-kunder-staar-til-faa-en-lang",
+      "subheadline": "Et fransk vinslot vurderet til 272 millioner kroner er solgt for knap 84. Forskellen afgør, om tusindvis af Lauritz-kunder får noget.",
+      "body": [
+        "Chateau Vignelaure i Sydfrankrig, ejet af parret bag det konkursramte Lauritz.com, Bengt og Mette Sundstrøm, blev i slutningen af juli solgt til briten Neil Utley til en hemmelig pris. Via franske retsdokumenter kan DR Nyheder nu vise, at selskabet bag slottet skiftede hænder for 11,213 millioner euro, knap 84 millioner kroner.",
+        "Beløbet fremgår af en kendelse fra retten i Draguignan af 23. juli 2026. Det er under en tredjedel af de 272 millioner kroner, slottet var prissat til i 2024 i regnskabet for Bengt Sundstrøms ejendomsselskab."
+      ],
+      "whyItMatters": "Ifølge DR Nyheders oplysninger bliver der efter alt at dømme ikke penge til overs til de tusindvis af tidligere Lauritz.com-kunder, der stadig har penge til gode.",
+      "analysis": "Afstanden mellem 272 og 84 millioner kroner er historien. En aktivvurdering i et regnskab er en forventning, ikke en pris, og forskellen bæres af den kreditorgruppe, der står bagest.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/sg5eqwrh/20220919-134945-7.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR Nyheder (Foto: Niels Henrik Dam, Ritzau Scanpix)",
+        "alt": "DR's arkivfoto af ægteparret Bengt og Mette Sundstrøm, der gik konkurs med auktionshuset Lauritz.",
+        "sourceUrl": "https://www.dr.dk/nyheder/penge/retsdokumenter-afsloerer-pris-paa-lauritz-parrets-vinslot-tusindvis-af-kunder-staar-til-faa-en-lang"
+      },
+      "topics": [
+        "konkurs",
+        "kreditorer",
+        "Danmark",
+        "Frankrig",
+        "værdiansættelse"
+      ],
+      "entities": [
+        "Lauritz.com",
+        "Bengt Sundstrøm",
+        "Mette Sundstrøm",
+        "Neil Utley",
+        "Chateau Vignelaure",
+        "Draguignan"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 68,
+        "decisionValue": 62,
+        "novelty": 81,
+        "sourceQuality": 84,
+        "personalRelevance": 66,
+        "contrast": 70
+      },
+      "claims": [
+        {
+          "text": "Selskabet bag Chateau Vignelaure blev solgt for 11,213 millioner euro, knap 84 millioner kroner.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/retsdokumenter-afsloerer-pris-paa-lauritz-parrets-vinslot-tusindvis-af-kunder-staar-til-faa-en-lang"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Salgsprisen fremgår af en kendelse fra retten i Draguignan af 23. juli 2026.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/retsdokumenter-afsloerer-pris-paa-lauritz-parrets-vinslot-tusindvis-af-kunder-staar-til-faa-en-lang"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Slottet var i 2024 prissat til 272 millioner kroner i regnskabet for Bengt Sundstrøms ejendomsselskab.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/retsdokumenter-afsloerer-pris-paa-lauritz-parrets-vinslot-tusindvis-af-kunder-staar-til-faa-en-lang"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Slottet var stillet som sikkerhed for et lån på 10 millioner euro, og andre kreditorer står foran de tidligere kunder.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/retsdokumenter-afsloerer-pris-paa-lauritz-parrets-vinslot-tusindvis-af-kunder-staar-til-faa-en-lang"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Retsdokumenter afslører pris på Lauritz-parrets vinslot - tusindvis af kunder står til at få en lang næse",
+          "publisher": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/penge/retsdokumenter-afsloerer-pris-paa-lauritz-parrets-vinslot-tusindvis-af-kunder-staar-til-faa-en-lang",
+          "publishedAt": "2026-08-12T04:26:00.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-2026-08-13-letland-operation-vilkatis",
+      "eventKey": "letland-vilkatis-graenseoperation-belarus-2026-08",
+      "materialFacts": [
+        "9.609 personer er indtil videre i aar forhindret i at krydse graensen fra Belarus til Letland; 12.046 i hele 2025",
+        "88 personer blev standset alene tirsdag",
+        "Operationen Vilkatis samler graensevagt, politi, nationale styrker og specialstyrker"
+      ],
+      "section": "Europa og sikkerhed",
+      "headline": "88 personer forsøgte alene i går at komme ulovligt ind i Letland. Nu skal 'Operation Varulv' bremse migrantpresset",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/88-personer-forsoegte-alene-i-gaar-komme-ulovligt-ind-i-letland-nu-skal-operation-varulv-bremse",
+      "subheadline": "Mens Ceuta fyldte de europæiske hovedstæder, er presset ved Letlands grænse til Belarus steget markant i år. Nu svarer Riga med én samlet operation.",
+      "body": [
+        "Letlands statslige grænsevagt har indtil videre i år forhindret 9.609 personer i at krydse grænsen fra Belarus. Alene tirsdag den 11. august blev 88 standset. I hele 2025 var tallet 12.046.",
+        "Operationen hedder Vilkatis, lettisk for varulv, og lægger grænsevagt, politi, nationale styrker og specialstyrker under én koordineret ledelse. Kulbergs kalder migrantpresset en konstant provokation. Både Belarus og Rusland afviser at bruge migranterne som redskab."
+      ],
+      "whyItMatters": "Over 800 danske soldater ankom 12. august til Camp Valdemar i Letland. Det er den samme grænse, og et land, der omdirigerer grænsevagt, politi og specialstyrker til én operation, har mindre kapacitet tilbage andre steder.",
+      "analysis": "Ceuta fik overskrifterne, fordi omkring 72.000 mennesker krydsede på én gang. Letland viser den anden form: et dagligt pres siden 2021. Den første slags udløser hastemøder. Den anden udløser budgetter.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/ikabbpx5/20260717-153901-4_crop001.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR Nyheder (Foto: Ints Kalnins, Reuters/Ritzau Scanpix)",
+        "alt": "Letlands statsminister, Andris Kulbergs, under et interview med DR Nyheder.",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/88-personer-forsoegte-alene-i-gaar-komme-ulovligt-ind-i-letland-nu-skal-operation-varulv-bremse"
+      },
+      "topics": [
+        "migration",
+        "Letland",
+        "Belarus",
+        "hybrid pres",
+        "EU",
+        "Danmark"
+      ],
+      "entities": [
+        "Letland",
+        "Belarus",
+        "Andris Kulbergs",
+        "Aleksandr Lukasjenko",
+        "Rusland",
+        "Ceuta"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 79,
+        "decisionValue": 68,
+        "novelty": 72,
+        "sourceQuality": 85,
+        "personalRelevance": 74,
+        "contrast": 66
+      },
+      "claims": [
+        {
+          "text": "9.609 personer er indtil videre i år forhindret i at krydse grænsen fra Belarus til Letland, mod 12.046 i hele 2025.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/88-personer-forsoegte-alene-i-gaar-komme-ulovligt-ind-i-letland-nu-skal-operation-varulv-bremse"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "88 personer blev standset ved den lettisk-belarussiske grænse tirsdag.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/88-personer-forsoegte-alene-i-gaar-komme-ulovligt-ind-i-letland-nu-skal-operation-varulv-bremse"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Operationen Vilkatis samler grænsevagt, politi, nationale styrker og specialstyrker under én ledelse.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/88-personer-forsoegte-alene-i-gaar-komme-ulovligt-ind-i-letland-nu-skal-operation-varulv-bremse"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Omkring 72.000 migranter krydsede i slutningen af juli fra Marokko til den spanske eksklave Ceuta.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/88-personer-forsoegte-alene-i-gaar-komme-ulovligt-ind-i-letland-nu-skal-operation-varulv-bremse"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Over 800 danske soldater ankom 12. august 2026 til Camp Valdemar i Letland som del af Natos forsvar af Baltikum.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/over-800-danske-soldater-er-ankommet-til-letland"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "88 personer forsøgte alene i går at komme ulovligt ind i Letland. Nu skal 'Operation Varulv' bremse migrantpresset",
+          "publisher": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/udland/88-personer-forsoegte-alene-i-gaar-komme-ulovligt-ind-i-letland-nu-skal-operation-varulv-bremse",
+          "publishedAt": "2026-08-12T16:30:00.000Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Over 800 danske soldater er ankommet til Letland",
+          "publisher": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/indland/over-800-danske-soldater-er-ankommet-til-letland",
+          "publishedAt": "2026-08-12T11:38:03.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-2026-08-13-usa-inflation-juli",
+      "eventKey": "usa-kpi-juli-2026-3-4-procent",
+      "materialFacts": [
+        "Amerikansk KPI paa 3,4 pct. i juli, ned fra 3,5 pct.",
+        "Kerneinflationen 2,5 pct., ned fra 2,6 pct.",
+        "Sandsynligheden for renteforhoejelse i september 44,1 pct. efter tallene mod 46,1 pct. foer"
+      ],
+      "section": "Makro og renter",
+      "headline": "Prisveksten i USA endte på 3,4 prosent",
+      "primarySourceUrl": "https://e24.no/internasjonal-oekonomi/i/V6aGQV/prisveksten-i-usa-endte-paa-3-4-prosent-i-juli",
+      "subheadline": "Amerikansk inflation faldt som ventet i juli. Det holder en renteforhøjelse i september i live, men ikke sikker.",
+      "body": [
+        "Den amerikanske forbrugerprisindeks endte på 3,4 procent i juli, som ventet, ned fra 3,5 procent måneden før. Kerneinflationen, som Fed normalt følger tættest, endte på 2,5 procent mod 2,6 i juni.",
+        "På rentemødet i juli ønskede tre af tolv medlemmer af rentekomiteen at hæve styringsrenten, der ligger i intervallet 3,50-3,75 procent. Efter tallene prissatte CME's renteværktøj sandsynligheden for en forhøjelse i september til 44,1 procent mod 46,1 procent før."
+      ],
+      "whyItMatters": "Amerikanske renter sætter prisen på dollarfinansiering for danske virksomheder med salg og gæld i USA.",
+      "analysis": "Rente- og valutastrateg Dane Cekov fra Sparebank 1 Markets kalder tallene gode nyheder for risikoappetitten. Spørgsmålet er efter hans vurdering stadig åbent, men tallene og arbejdsmarkedsrapporten fra ugen før hælder mod, at Fed ikke hæver renten.",
+      "image": {
+        "url": "https://akamai.vgc.no/v2/images/79147af7-260e-3f8e-98c8-4262414a5c48?format=auto&w=1080&s=84d2b31a817c9524454567bb47df5682838734eb",
+        "credit": "Kilde: E24 (Foto: LM Otero, AP/NTB)",
+        "alt": "E24's billede til historien om amerikansk inflation: en dagligvarebutik i Dallas, USA.",
+        "sourceUrl": "https://e24.no/internasjonal-oekonomi/i/V6aGQV/prisveksten-i-usa-endte-paa-3-4-prosent-i-juli"
+      },
+      "topics": [
+        "inflation",
+        "Fed",
+        "renter",
+        "USA",
+        "makro"
+      ],
+      "entities": [
+        "USA",
+        "Federal Reserve",
+        "Kevin Warsh",
+        "Dane Cekov",
+        "Sparebank 1 Markets"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 74,
+        "decisionValue": 71,
+        "novelty": 58,
+        "sourceQuality": 80,
+        "personalRelevance": 70,
+        "contrast": 52
+      },
+      "claims": [
+        {
+          "text": "Den amerikanske inflation endte på 3,4 procent i juli, ned fra 3,5 procent måneden før.",
+          "sourceUrls": [
+            "https://e24.no/internasjonal-oekonomi/i/V6aGQV/prisveksten-i-usa-endte-paa-3-4-prosent-i-juli"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Kerneinflationen endte på 2,5 procent mod 2,6 procent i juni.",
+          "sourceUrls": [
+            "https://e24.no/internasjonal-oekonomi/i/V6aGQV/prisveksten-i-usa-endte-paa-3-4-prosent-i-juli"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Tre af tolv medlemmer af rentekomiteen ønskede i juli at hæve styringsrenten, der ligger i intervallet 3,50-3,75 procent.",
+          "sourceUrls": [
+            "https://e24.no/internasjonal-oekonomi/i/V6aGQV/prisveksten-i-usa-endte-paa-3-4-prosent-i-juli"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Sandsynligheden for en renteforhøjelse i september blev prissat til 44,1 procent efter tallene mod 46,1 procent før.",
+          "sourceUrls": [
+            "https://e24.no/internasjonal-oekonomi/i/V6aGQV/prisveksten-i-usa-endte-paa-3-4-prosent-i-juli"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Dane Cekov vurderer, at juli-tallene og arbejdsmarkedsrapporten fra ugen før hælder mod, at Fed ikke hæver renten, men at spørgsmålet ikke er afgjort.",
+          "sourceUrls": [
+            "https://e24.no/internasjonal-oekonomi/i/V6aGQV/prisveksten-i-usa-endte-paa-3-4-prosent-i-juli"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Prisveksten i USA endte på 3,4 prosent",
+          "publisher": "E24",
+          "url": "https://e24.no/internasjonal-oekonomi/i/V6aGQV/prisveksten-i-usa-endte-paa-3-4-prosent-i-juli",
+          "publishedAt": "2026-08-12T12:30:12.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-2026-08-13-bmj-overdoedelighed-trukket",
+      "eventKey": "bmj-public-health-overdoedelighed-retraktion-2026-08",
+      "materialFacts": [
+        "Studiet fra BMJ Public Health 2024 er trukket tilbage",
+        "Begrundelsen er misinformation om doedsaarsager og begraenset originalt arbejde",
+        "Studiet koblede ikke selv overdoedelighed direkte til vaccinerne"
+      ],
+      "section": "Videnskab og troværdighed",
+      "headline": "Kontroversielt corona-studie om overdødelighed er trukket tilbage",
+      "primarySourceUrl": "https://nyheder.tv2.dk/udland/2026-08-12-kontroversielt-corona-studie-om-overdoedelighed-er-trukket-tilbage",
+      "subheadline": "Et studie, der blev brugt som vaccinekritisk bevis, er trukket tilbage cirka to år efter. Det sagde aldrig det, det blev citeret for.",
+      "body": [
+        "Studiet, offentliggjort i tidsskriftet BMJ Public Health i 2024, er trukket tilbage \"på grund af misinformation om dødsårsager og et begrænset omfang af originalt arbejde udført af forfatterne\". Det antydede, at overdødeligheden i Vesten fortsat var unormalt høj efter toppen af covid-19-krisen.",
+        "Studiet blev brugt i adskillige vaccinekritiske artikler og opslag, hvor det fejlagtigt blev hævdet, at det direkte koblede overdødeligheden til coronavaccinerne. Den kobling lavede studiet ikke."
+      ],
+      "whyItMatters": "En konklusion, der nævner restriktioner og vacciner i samme sætning som vedvarende overdødelighed, bliver læst som en årsagssammenhæng, uanset hvad forfatterne mente.",
+      "analysis": "BMJ Group havde tidligere oplyst, at man undersøgte studiet, og retraktionen kommer cirka to år efter offentliggørelsen i 2024. Korrektionen er reel, men rejser ikke nødvendigvis så langt som den oprindelige påstand.",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/4/e/a/4ea35870-8cf4-4d90-9172-9b2d942a4117?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCwyMDYsMzk1NiwyMjI1&s=5df68e8b4fe49b0bba54728eb8f30918",
+        "credit": "Kilde: TV 2 (Foto: Hannah Beier, Ritzau Scanpix)",
+        "alt": "TV 2's arkivfoto til historien om coronavaccination.",
+        "sourceUrl": "https://nyheder.tv2.dk/udland/2026-08-12-kontroversielt-corona-studie-om-overdoedelighed-er-trukket-tilbage"
+      },
+      "topics": [
+        "forskning",
+        "retraktion",
+        "covid-19",
+        "misinformation"
+      ],
+      "entities": [
+        "BMJ Public Health",
+        "BMJ Group"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 66,
+        "decisionValue": 54,
+        "novelty": 76,
+        "sourceQuality": 80,
+        "personalRelevance": 52,
+        "contrast": 78
+      },
+      "claims": [
+        {
+          "text": "Studiet fra BMJ Public Health er trukket tilbage \"på grund af misinformation om dødsårsager og et begrænset omfang af originalt arbejde udført af forfatterne\".",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/udland/2026-08-12-kontroversielt-corona-studie-om-overdoedelighed-er-trukket-tilbage"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Studiet blev offentliggjort i 2024 og antydede, at overdødeligheden i Vesten fortsat var unormalt høj efter toppen af covid-19-krisen.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/udland/2026-08-12-kontroversielt-corona-studie-om-overdoedelighed-er-trukket-tilbage"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Studiet koblede ikke selv overdødeligheden direkte til coronavaccinerne, selv om det blev citeret sådan.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/udland/2026-08-12-kontroversielt-corona-studie-om-overdoedelighed-er-trukket-tilbage"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "BMJ Group havde tidligere oplyst, at man undersøgte studiet.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/udland/2026-08-12-kontroversielt-corona-studie-om-overdoedelighed-er-trukket-tilbage"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kontroversielt corona-studie om overdødelighed er trukket tilbage",
+          "publisher": "TV 2",
+          "url": "https://nyheder.tv2.dk/udland/2026-08-12-kontroversielt-corona-studie-om-overdoedelighed-er-trukket-tilbage",
+          "publishedAt": "2026-08-12T03:21:47.706Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-2026-08-13-norsk-lufthavnstrejke",
+      "eventKey": "norge-hk-parat-nho-luftfart-megling-2026-08",
+      "materialFacts": [
+        "Maeglingsfristen udloeb ved midnat 12. august, og parterne fortsatte maeglingen paa overtid",
+        "Foerste uttak omfatter 287 medlemmer ved otte norske lufthavne",
+        "HK Norge varslede onsdag mulig optrapning fra 18. august"
+      ],
+      "section": "Norden og arbejdsmarked",
+      "headline": "Streikefare på flyplassene",
+      "primarySourceUrl": "https://e24.no/naeringsliv/i/XMajBx/streikefare-paa-flyplassene",
+      "subheadline": "Fristen udløb ved midnat, og parterne mægler videre på overtid. Bliver de ikke enige, kan SAS og Norwegian blive påvirket, og især Menzies Aviation.",
+      "body": [
+        "Ved midnat natten til torsdag udløb mæglingsfristen for bakkepersonalet i norsk luftfart. Parterne blev enige om at fortsætte mæglingen på overtid, oplyser Parat.",
+        "Bliver de ikke enige, er der i første omgang varslet udtag af 287 medlemmer, 186 fra HK Norge og 101 fra Parat, ved otte norske lufthavne fra torsdag morgen. Onsdag varslede HK Norge desuden en mulig optrapning fra tirsdag 18. august."
+      ],
+      "whyItMatters": "Både SAS og Norwegian kan blive påvirket ved en eventuel strejke, men det største udtag rammer internationale selskaber gennem Menzies Aviation. Bakkehåndtering er det led, hvor få hundrede mennesker kan standse en lufthavn.",
+      "analysis": "Forhandlingerne endte hos Riksmekleren efter brud i juni, og hovedkravet er ifølge HK Norges forhandlingsleder Christopher Beckham løn til at leve af. Riksmeklerens egen oversigt opgjorde torsdag morgen begge sager som igangværende mægling og ingen igangværende konflikt.",
+      "image": {
+        "url": "https://akamai.vgc.no/v2/images/c5b7cd8d-4438-36d8-8296-aca12a594d32?format=auto&w=1080&s=c113c5d2dc093e8a98bd2d69efeb9a3b01a3c9ba",
+        "credit": "Kilde: E24 (Foto: Beate Oma Dahle, NTB)",
+        "alt": "E24's arkivfoto fra afgangshallen i Oslo Lufthavn Gardermoen under strejken i 2022.",
+        "sourceUrl": "https://e24.no/naeringsliv/i/XMajBx/streikefare-paa-flyplassene"
+      },
+      "topics": [
+        "arbejdsmarked",
+        "luftfart",
+        "Norge",
+        "SAS",
+        "overenskomst"
+      ],
+      "entities": [
+        "HK Norge",
+        "Parat",
+        "NHO Luftfart",
+        "SAS",
+        "Norwegian",
+        "Menzies Aviation",
+        "Riksmekleren",
+        "Christopher Beckham"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 64,
+        "decisionValue": 72,
+        "novelty": 70,
+        "sourceQuality": 78,
+        "personalRelevance": 60,
+        "contrast": 50
+      },
+      "claims": [
+        {
+          "text": "Ved midnat natten til torsdag udløb mæglingsfristen, og parterne blev enige om at fortsætte mæglingen på overtid, oplyser Parat.",
+          "sourceUrls": [
+            "https://e24.no/naeringsliv/i/XMajBx/streikefare-paa-flyplassene"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Bliver parterne ikke enige, er der varslet udtag af i alt 287 medlemmer, 186 fra HK Norge og 101 fra Parat, ved otte norske lufthavne fra torsdag morgen.",
+          "sourceUrls": [
+            "https://e24.no/naeringsliv/i/XMajBx/streikefare-paa-flyplassene"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "HK Norge varslede onsdag en mulig optrapning af en eventuel strejke fra tirsdag 18. august.",
+          "sourceUrls": [
+            "https://e24.no/naeringsliv/i/XMajBx/streikefare-paa-flyplassene"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Riksmeklerens oversigt angav torsdag morgen begge luftfartssager som igangværende mægling og ingen igangværende konflikt.",
+          "sourceUrls": [
+            "https://e24.no/naeringsliv/i/XMajBx/streikefare-paa-flyplassene",
+            "https://www.riksmekleren.no/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Streikefare på flyplassene",
+          "publisher": "E24",
+          "url": "https://e24.no/naeringsliv/i/XMajBx/streikefare-paa-flyplassene",
+          "publishedAt": "2026-08-12T20:49:14.000Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Riksmekleren",
+          "publisher": "Riksmekleren",
+          "url": "https://www.riksmekleren.no/",
+          "publishedAt": "2026-08-13T04:15:00.000Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "thomas-2026-08-13-koebenhavn-vuggestuetakst",
+      "eventKey": "koebenhavn-dagtilbudstakst-alder-2026-08",
+      "materialFacts": [
+        "Taksten er 3.555 kr. uden frokost indtil barnet fylder tre aar og en maaned, derefter 1.988 kr.",
+        "Taksten foelger barnets alder, ikke den stue barnet gaar paa",
+        "Boerne- og ungdomsborgmester Jakob Naesager er enig i kritikken"
+      ],
+      "section": "Danmark",
+      "headline": "Far kritiserer omdiskuteret vuggestuepris: - Det er tyveri",
+      "primarySourceUrl": "https://nyheder.tv2.dk/samfund/2026-08-12-far-kritiserer-omdiskuteret-vuggestuepris-det-er-tyveri",
+      "subheadline": "En københavnsk far betaler vuggestuetakst for en børnehaveplads i tre måneder. Borgmesteren giver ham ret.",
+      "body": [
+        "En plads i vuggestue eller børnehave i Københavns Kommune koster 3.555 kroner uden frokost, indtil barnet fylder tre år og en måned. Derefter falder prisen til 1.988 kroner, blandt andet fordi der er færre voksne per barn i børnehaven.",
+        "Men taksten følger barnets alder og ikke den stue, barnet faktisk går på. Rykker barnet op i børnehave som to år og ti måneder, betaler forældrene den høje takst tre måneder endnu."
+      ],
+      "whyItMatters": "Det er ikke et stort beløb i en kommunal sammenhæng, men det er en betaling for et serviceniveau, familierne ikke får. Den konservative børne- og ungdomsborgmester, Jakob Næsager, er enig i kritikken.",
+      "analysis": "Kommunen begrunder ikke reglen i artiklen. Effekten er, at prisen følger en alder frem for det tilbud, barnet faktisk får, og at regningen lander hos de familier, hvis barn tilfældigvis rykkes op tidligt. Det er derfor, sagen ender på rådhuset frem for i en klage.",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/8/1/4/814524bc-75f4-4c29-bd8c-1757df1476f2?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCwxMiwyMDc3LDExNzI&s=3a020a5cfe837b3a5b686681057289c0",
+        "credit": "Kilde: TV 2 (Video: TV 2 Kosmopol)",
+        "alt": "Stillbillede fra TV 2 Kosmopols videointerview på en københavnsk gade i historien om vuggestuetaksten.",
+        "sourceUrl": "https://nyheder.tv2.dk/samfund/2026-08-12-far-kritiserer-omdiskuteret-vuggestuepris-det-er-tyveri"
+      },
+      "topics": [
+        "Danmark",
+        "København",
+        "dagtilbud",
+        "takster"
+      ],
+      "entities": [
+        "Københavns Kommune",
+        "Karsten Højstrup Nielsen",
+        "Jakob Næsager",
+        "TV 2 Kosmopol"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 48,
+        "novelty": 68,
+        "sourceQuality": 76,
+        "personalRelevance": 50,
+        "contrast": 62
+      },
+      "claims": [
+        {
+          "text": "En plads koster 3.555 kroner uden frokost indtil barnet fylder tre år og en måned, derefter 1.988 kroner.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/samfund/2026-08-12-far-kritiserer-omdiskuteret-vuggestuepris-det-er-tyveri"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Taksten følger barnets alder og ikke den stue, barnet går på.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/samfund/2026-08-12-far-kritiserer-omdiskuteret-vuggestuepris-det-er-tyveri"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "For Karsten Højstrup Nielsen svarer det til en ekstraudgift på 4.701 kroner.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/samfund/2026-08-12-far-kritiserer-omdiskuteret-vuggestuepris-det-er-tyveri"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Børne- og ungdomsborgmester Jakob Næsager er enig i kritikken.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/samfund/2026-08-12-far-kritiserer-omdiskuteret-vuggestuepris-det-er-tyveri"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Far kritiserer omdiskuteret vuggestuepris: - Det er tyveri",
+          "publisher": "TV 2",
+          "url": "https://nyheder.tv2.dk/samfund/2026-08-12-far-kritiserer-omdiskuteret-vuggestuepris-det-er-tyveri",
+          "publishedAt": "2026-08-12T17:43:26.044Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-2026-08-13-em-hammerkast-koch-jacobsen",
+      "eventKey": "em-atletik-hammerkast-finale-koch-jacobsen-2026-08",
+      "materialFacts": [
+        "Katrine Koch Jacobsen naaede 68,70 meter i tre forsoeg og missede top-8",
+        "Hun kvalificerede sig med kvalifikationens laengste kast paa 72,62 meter",
+        "Guldet gik til finske Silja Kosonen med 76,28 meter"
+      ],
+      "section": "Sport",
+      "headline": "Dansk medaljehåb skuffer i EM-finalen",
+      "primarySourceUrl": "https://sport.tv2.dk/atletik/2026-08-12-dansk-medaljehaab-skuffer-i-em-finalen",
+      "subheadline": "Katrine Koch Jacobsen gik til EM-finalen i hammerkast som en af favoritterne og kom aldrig ind i konkurrencen.",
+      "body": [
+        "Den 27-årige dansker havde kvalificeret sig til finalen med kvalifikationens længste kast, 72,62 meter, og gik ind som en af favoritterne til en medalje. I finalen nåede hun kun 68,70 meter i sine tre indledende forsøg.",
+        "68,70 rakte ikke til top-8 efter tre runder, som var kravet for at fortsætte. Guldet gik til 23-årige finske Silja Kosonen, der kastede 74,97 og siden 76,28 meter. Italienske Sara Fantini tog sølv med 74,35 meter i sit allerførste forsøg."
+      ],
+      "whyItMatters": "Hammerkast afgøres tidligt: både Fantini og norske Beatrice Nedberge Llano leverede deres medaljegivende kast i første forsøg, mens danskeren stadig var med i konkurrencen.",
+      "analysis": "Forskellen mellem kvalifikationen og finalen var knap fire meter på samme dansker. Det er ikke form, det er en dag, der ikke ramte, og det er også derfor, hun gik ind som en af favoritterne. Rekorden på 75,52 meter står stadig.",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/3/2/e/32e308ff-524a-4aee-b278-269a898987d9?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCw1Niw0Njg2LDI2Mzc&s=e7e30179da5b80937b6d8c7574655d1d",
+        "credit": "Kilde: TV 2 Sport (Foto: Edgar Su, Ritzau Scanpix)",
+        "alt": "Katrine Koch Jacobsen i EM-finalen i hammerkast.",
+        "sourceUrl": "https://sport.tv2.dk/atletik/2026-08-12-dansk-medaljehaab-skuffer-i-em-finalen"
+      },
+      "topics": [
+        "sport",
+        "atletik",
+        "EM",
+        "Danmark"
+      ],
+      "entities": [
+        "Katrine Koch Jacobsen",
+        "Silja Kosonen",
+        "Sara Fantini",
+        "Beatrice Nedberge Llano"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 48,
+        "decisionValue": 30,
+        "novelty": 62,
+        "sourceQuality": 78,
+        "personalRelevance": 72,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Katrine Koch Jacobsen nåede 68,70 meter i sine tre indledende forsøg og missede top-8.",
+          "sourceUrls": [
+            "https://sport.tv2.dk/atletik/2026-08-12-dansk-medaljehaab-skuffer-i-em-finalen"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Hun kvalificerede sig til finalen med kvalifikationens længste kast på 72,62 meter.",
+          "sourceUrls": [
+            "https://sport.tv2.dk/atletik/2026-08-12-dansk-medaljehaab-skuffer-i-em-finalen"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Hendes danske rekord fra marts 2026 lyder på 75,52 meter.",
+          "sourceUrls": [
+            "https://sport.tv2.dk/atletik/2026-08-12-dansk-medaljehaab-skuffer-i-em-finalen"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Silja Kosonen vandt guld med 76,28 meter, og Sara Fantini tog sølv med 74,35 meter.",
+          "sourceUrls": [
+            "https://sport.tv2.dk/atletik/2026-08-12-dansk-medaljehaab-skuffer-i-em-finalen"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Dansk medaljehåb skuffer i EM-finalen",
+          "publisher": "TV 2 Sport",
+          "url": "https://sport.tv2.dk/atletik/2026-08-12-dansk-medaljehaab-skuffer-i-em-finalen",
+          "publishedAt": "2026-08-12T19:42:05.591Z",
+          "kind": "reporting"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "Wirtek afslutter opkøb af DitaExchange og ændrer bestyrelsesformand",
+      "url": "https://ugebrev.dk/flashnews/wirtek-afslutter-opkoeb-af-ditaexchange-og-aendrer-bestyrelsesformand/",
+      "headline": "Wirtek afslutter opkøb af DitaExchange og ændrer bestyrelsesformand",
+      "summary": "Kent Mousten Sørensen er trådt tilbage som bestyrelsesformand og erstattet af Martin Dommerby Kristiansen. Købsprisen for det danske SaaS-selskab er 6 mio. kr. kontant plus en earn-out på abonnementsindtægterne.",
+      "publisher": "Økonomisk Ugebrev",
+      "section": "Navne og bestyrelser",
+      "publishedAt": "2026-08-12T11:27:27.000Z"
+    },
+    {
+      "text": "BioMar opjusterer forventningerne for helåret 2026",
+      "url": "https://ugebrev.dk/flashnews/biomar-opjusterer-forventningerne-for-helaaret-2026/",
+      "headline": "BioMar opjusterer forventningerne for helåret 2026",
+      "summary": "Omsætningen ventes nu 17-18 mia. kr. mod 16-17 før, og EBIT 1.200-1.300 mio. kr. Opjusteringen indarbejdes i Schouw & Co.s forventninger, der opdateres i delårsrapporten 14. august 2026.",
+      "publisher": "Økonomisk Ugebrev",
+      "section": "Dansk eksport",
+      "publishedAt": "2026-08-12T11:35:17.000Z"
+    },
+    {
+      "text": "Jeudan A/S – Rapport for 1. halvår 2026",
+      "url": "https://ugebrev.dk/flashnews/jeudan-a-s-rapport-for-1-halvaar-2026/",
+      "headline": "Jeudan A/S – Rapport for 1. halvår 2026",
+      "summary": "Omsætning 914 mio. kr., op 4 procent, og EBIT op 7 procent til 569 mio. kr. Nettoopskrivninger af ejendomsværdier på 517 mio. kr. Forventningerne til 2026 fastholdes.",
+      "publisher": "Økonomisk Ugebrev",
+      "section": "Erhvervsejendomme",
+      "publishedAt": "2026-08-12T11:27:26.000Z"
+    },
+    {
+      "text": "Regeringen ændrer regler for særlige rådgivere: \"Det er en glidebane\"",
+      "url": "https://www.altinget.dk/artikel/regeringen-aendrer-regler-for-saerlige-raadgivere-det-er-en-glidebane",
+      "headline": "Regeringen ændrer regler for særlige rådgivere: \"Det er en glidebane\"",
+      "summary": "Regeringspartierne kan nu flytte særlige rådgivere mellem deres ministre, så antallet ikke længere kun følger ministerfunktionen. Tidligere måtte partiformænd have op til tre, ministre i Koordinations- eller Økonomiudvalget to og øvrige ministre én.",
+      "publisher": "Altinget",
+      "section": "Dansk politik",
+      "publishedAt": "2026-08-13T00:00:00.000Z"
+    },
+    {
+      "text": "500 meter køreledning skabte totalt togkaos: Banedanmark blev advaret ni timer før",
+      "url": "https://ing.dk/artikel/500-meter-koereledning-skabte-totalt-togkaos-banedanmark-blev-advaret-ni-timer-foer",
+      "headline": "500 meter køreledning skabte totalt togkaos: Banedanmark blev advaret ni timer før",
+      "summary": "Ingeniøren har fået aktindsigt i Banedanmarks tidslinje fra 14. april, hvor to IR4-tog rev køreledninger ned ved Ringsted og København H. Kørestrømsanlægget blev skadet syv andre steder, og DSB har siden haft over 30 tog på værksted.",
+      "publisher": "Ingeniøren",
+      "section": "Infrastruktur",
+      "publishedAt": "2026-08-13T03:00:00.000Z"
+    },
+    {
+      "text": "Russisk cyberangreb mere omfattende end antaget: Hackerne fandt en usædvanlig vej ind i systemerne",
+      "url": "https://www.computerworld.dk/art/296461/russisk-cyberangreb-mere-omfattende-end-antaget-hackerne-fandt-en-usaedvanlig-vej-ind-i-systemerne",
+      "headline": "Russisk cyberangreb mere omfattende end antaget: Hackerne fandt en usædvanlig vej ind i systemerne",
+      "summary": "Et nyligt afdækket cyberangreb var ifølge Computerworld tæt på at afskære 50.000 mennesker fra varme under årtiers koldeste vinter. Resten af artiklen ligger bag Computerworld Premium.",
+      "publisher": "Computerworld",
+      "section": "Cybersikkerhed",
+      "publishedAt": "2026-08-12T13:30:00.000Z"
+    },
+    {
+      "text": "Brasilien har fået nok af USA. Og dog",
+      "url": "https://www.information.dk/udland/2026/08/brasilien-faaet-nok-usa",
+      "headline": "Brasilien har fået nok af USA. Og dog",
+      "summary": "Trump-administrationen tilbagekaldte i sidste uge visummet for Brasiliens ambassadør i Washington. Det Hvide Hus kalder det en gengældelsesforanstaltning, fordi Brasilien har forhalet godkendelsen af Daniel Perez som amerikansk ambassadør i landet.",
+      "publisher": "Information",
+      "section": "Handelspolitik",
+      "publishedAt": "2026-08-12T16:40:59.000Z"
+    },
+    {
+      "text": "Grønland rækker ud: Ønsker patienter behandlet i Nordjylland",
+      "url": "https://www.dr.dk/nyheder/indland/groenland/groenland-raekker-ud-oensker-patienter-behandlet-i-nordjylland",
+      "headline": "Grønland rækker ud: Ønsker patienter behandlet i Nordjylland",
+      "summary": "Cirka 1.500 grønlandske patienter sendes hvert år til specialistbehandling i Danmark, hidtil især i hovedstaden. Grønlands minister for sundhed og personer med handicap, Anna Wangenheim, peger på Nordjylland, hvor over 3.000 grønlandskfødte bor. Danmark betaler udgifterne.",
+      "publisher": "DR Nyheder",
+      "section": "Rigsfællesskabet",
+      "publishedAt": "2026-08-12T09:17:00.000Z"
+    },
+    {
+      "text": "Lægeformand om 'Lilly'-kampagne: Man vildleder forbrugeren",
+      "url": "https://www.dr.dk/nyheder/penge/laegeformand-om-lilly-kampagne-man-vildleder-forbrugeren",
+      "headline": "Lægeformand om 'Lilly'-kampagne: Man vildleder forbrugeren",
+      "summary": "Lægeforeningens formand, Josephine Rathenborg, kritiserer Eli Lillys danske annoncekampagne om svær overvægt for at sløre afsenderen. Eli Lilly kalder det en oplysningskampagne. Novo Nordisk trak tidligere en lignende kampagne tilbage.",
+      "publisher": "DR Nyheder",
+      "section": "Medicinalindustri",
+      "publishedAt": "2026-08-11T20:27:00.000Z"
+    },
+    {
+      "text": "Operation endte som mavepuster for landsholdsspiller – nu er VM væk",
+      "url": "https://sport.tv2.dk/haandbold/2026-08-12-operation-endte-som-mavepuster-for-landsholdsspiller-nu-er-vm-vaek",
+      "headline": "Operation endte som mavepuster for landsholdsspiller – nu er VM væk",
+      "summary": "Mads Svane Knudsen fra Bjerringbro-Silkeborg skal holde pause i omkring et halvt år efter en knæoperation. Korsbånd og menisker var intakte, men bruskskaden var værre end forventet på scanningen.",
+      "publisher": "TV 2 Sport",
+      "section": "Sport",
+      "publishedAt": "2026-08-12T13:23:44.000Z"
+    },
+    {
+      "text": "Efter halvandet 'givende og udfordrende' år på podiet stopper Karoline Leavitt",
+      "url": "https://www.dr.dk/nyheder/udland/efter-halvandet-givende-og-udfordrende-aar-paa-podiet-stopper-karoline-leavitt",
+      "headline": "Efter halvandet 'givende og udfordrende' år på podiet stopper Karoline Leavitt",
+      "summary": "Det Hvide Hus' pressesekretær stopper 31. august efter 589 dage på posten. Hun er den yngste i embedets næsten 100-årige historie. Efterfølgeren er endnu ikke offentliggjort.",
+      "publisher": "DR Nyheder",
+      "section": "USA",
+      "publishedAt": "2026-08-13T01:38:01.000Z"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "thomas-rec-2026-08-13-ugebrev-groen-vaekst",
+      "mode": "read",
+      "kind": "Kommentar",
+      "status": "new",
+      "title": "FT og Radio4 spreder fake news om grøn vækst",
+      "creator": "Claus Strue Frederiksen",
+      "provider": "Økonomisk Ugebrev",
+      "url": "https://ugebrev.dk/samfundsansvar/esg-nyt/ft-og-radio4-spreder-fake-news-om-groen-vaekst/",
+      "availability": "Frit tilgængelig",
+      "commitment": "4 minutter",
+      "description": "Financial Times' chief data reporter konkluderede, at lande verden over har sænket deres klima- og naturaftryk samtidig med kraftig BNP-vækst. Ugebrevets redaktør har læst studiet bag og finder noget andet.",
+      "rationale": "Afkoblingsdebatten er den mest citerede og mindst efterprøvede påstand i grøn erhvervspolitik, og den bruges direkte i argumenter om regulering og konkurrenceevne. Her er en dansk kilde, der går til den underliggende forskning frem for til referatet.",
+      "topics": [
+        "grøn omstilling",
+        "vækst",
+        "ESG",
+        "mediekritik"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://ugebrev.dk/wp-content/uploads/2023/06/Klima-bonus-loen.jpg",
+        "credit": "Kilde: Økonomisk Ugebrev",
+        "alt": "Økonomisk Ugebrevs illustration: pengesedler, der vokser som planter op af jorden.",
+        "sourceUrl": "https://ugebrev.dk/samfundsansvar/esg-nyt/ft-og-radio4-spreder-fake-news-om-groen-vaekst/"
+      }
+    },
+    {
+      "id": "thomas-rec-2026-08-13-information-kina-bilfabrik",
+      "mode": "read",
+      "kind": "Leder",
+      "status": "new",
+      "title": "Planer om en kinesisk bilfabrik klos op ad spanske krigsskibe illustrerer EU’s Kina-dilemma",
+      "provider": "Information",
+      "url": "https://www.information.dk/udland/leder/2026/08/planer-kinesisk-bilfabrik-klos-spanske-krigsskibe-illustrerer-eus-kina-dilemma",
+      "availability": "Delvist bag betalingsmur",
+      "commitment": "2 minutter",
+      "description": "Det kan være fornuftigt at invitere kinesiske elbilgiganter til at bygge fabrikker i Europa, skriver Information, men sikkerhedsrisiciene bør overvejes grundigt først. Anledningen er en planlagt fabrik tæt på en spansk flådebase.",
+      "rationale": "Præcis det sted, hvor industripolitik, investeringsscreening og forsvarsinteresser støder sammen. Lederen argumenterer for, at sikkerhedsrisikoen bør afklares før invitationen, ikke efter.",
+      "topics": [
+        "Kina",
+        "EU",
+        "investeringsscreening",
+        "bilindustri"
+      ],
+      "isFeatured": false,
+      "creator": "Lene Winther"
+    },
+    {
+      "id": "thomas-rec-2026-08-13-dst-amerikansk-ejede-firmaer",
+      "mode": "try",
+      "kind": "Statistik",
+      "status": "available",
+      "title": "Stigning i amerikansk ejede firmaer i Danmark",
+      "provider": "Danmarks Statistik",
+      "url": "https://www.dst.dk/nyt/54630",
+      "availability": "Frit tilgængelig, offentliggjort 22. juli 2026",
+      "commitment": "15 minutter",
+      "description": "Danmarks Statistiks opgørelse af udenlandsk ejede firmaer: antallet af amerikansk ejede firmaer i Danmark voksede fra 926 i 2019 til 1.231 i 2024, en stigning på 33 procent. Tallene kan trækkes videre i statistikbanken.",
+      "rationale": "Amerikansk ejerskab i dansk erhvervsliv er et af de få steder, hvor den transatlantiske relation kan måles frem for beskrives. Det er den slags tal, der bærer et argument i et notat.",
+      "topics": [
+        "udenlandske investeringer",
+        "USA",
+        "Danmark",
+        "statistik"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {
+    "sourceDiversity": 78,
+    "primarySourceShare": 62,
+    "outsideProfileShare": 25,
+    "danishHeadlineShare": 88
+  }
+}
