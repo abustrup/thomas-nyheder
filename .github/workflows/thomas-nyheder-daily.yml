@@ -128,6 +128,7 @@ jobs:
         run: npm run context
 
       - name: Attempt cap
+        id: cap
         if: steps.guard.outputs.mode == 'full'
         env:
           GH_TOKEN: ${{ github.token }}
@@ -136,7 +137,7 @@ jobs:
 
       # Prepends the public-log clause plus the CI overrides the prompt needs, ending in: stop at the draft.
       - name: Install the agent and compose the prompt
-        if: steps.guard.outputs.mode == 'full'
+        if: steps.guard.outputs.mode == 'full' && steps.cap.outputs.proceed == 'true'
         run: |
           npm i -g "@anthropic-ai/claude-code@$CLAUDE_CLI_VERSION"
           bash engine/scripts/ci-compose-prompt.sh > run-prompt.md
@@ -144,7 +145,7 @@ jobs:
       # No --bare: bare mode ignores CLAUDE_CODE_OAUTH_TOKEN [verified]. No push
       # credential and no --add-dir into pages/, so it cannot publish.
       - name: Run the editorial agent
-        if: steps.guard.outputs.mode == 'full'
+        if: steps.guard.outputs.mode == 'full' && steps.cap.outputs.proceed == 'true'
         continue-on-error: true
         timeout-minutes: 100
         working-directory: engine
@@ -156,14 +157,14 @@ jobs:
             --disallowedTools "Bash(git push:*)" "Bash(git commit:*)" "Bash(gh:*)" "Bash(npm run publish:*)"
 
       - name: Length report
-        if: steps.guard.outputs.mode == 'full'
+        if: steps.guard.outputs.mode == 'full' && steps.cap.outputs.proceed == 'true'
         continue-on-error: true
         working-directory: engine
         run: npm run --if-present count:length
 
       # All that stands between a fabrication and the reader. A check that never ran is red.
       - name: Quality gate
-        if: steps.guard.outputs.mode == 'full'
+        if: steps.guard.outputs.mode == 'full' && steps.cap.outputs.proceed == 'true'
         timeout-minutes: 15
         env:
           REQUIRE_FLOOR: "true"
