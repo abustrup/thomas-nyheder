@@ -1,0 +1,982 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-08-14-daily",
+  "date": "2026-08-14",
+  "generatedAt": "2026-08-14T04:45:00.000Z",
+  "readingMinutes": 10,
+  "title": "Thomas' Nyheder",
+  "dek": "Fredag 14. august 2026. Tesla køber sig ud af en treårig svensk konflikt, Mærsk siger, at verdenshandlen vokser alligevel, og prisfesten i København er slut.",
+  "profileWeights": {
+    "importance": 20,
+    "decisionValue": 22,
+    "novelty": 16,
+    "sourceQuality": 18,
+    "personalRelevance": 16,
+    "contrast": 8
+  },
+  "stories": [
+    {
+      "id": "thomas-2026-08-14-tesla-frikoeb",
+      "eventKey": "tesla-if-metall-strejke-frikoeb-2026-08",
+      "materialFacts": [
+        "Strejken mellem Tesla og IF Metall er slut efter tre aar uden overenskomst",
+        "Tesla har betalt omkring 80 strejkende medarbejdere for at afslutte deres ansaettelse",
+        "LO i Sverige siger, at metoden ikke er set i landet i naesten 100 aar",
+        "Alle strejketiltag mod Teslas svenske selskab ophoerer onsdag den 19. august"
+      ],
+      "section": "Arbejdsmarked og den nordiske model",
+      "headline": "Tesla køber strejkende ud – ikke set lignende i 100 år",
+      "primarySourceUrl": "https://nyheder.tv2.dk/udland/2026-08-13-tesla-koeber-strejkende-ud-ikke-set-lignende-i-100-aar",
+      "subheadline": "Efter tre år uden overenskomst betalte Tesla omkring 80 strejkende for at sige op. Konflikten sluttede, uden at nogen af parterne skrev under.",
+      "body": [
+        "Efter tre års konflikt er strejken mellem Tesla og den svenske fagforening IF Metall slut. Ifølge Aftonbladet skyldes det, at Tesla har købt alle de strejkende medarbejdere ud. Der er tale om omkring 80 personer. Aftalesekretær Veli-Pekka Säikkälä fra LO i Sverige siger til TT, at den slags metoder ikke er set i Sverige i næsten 100 år.",
+        "Strejken begyndte i oktober 2023, efter at overenskomstforhandlinger brød sammen. Nogen overenskomst kom aldrig. Säikkälä kalder forsøget mislykket, men fremhæver, at Tesla undervejs har forbedret ansættelsesvilkårene."
+      ],
+      "whyItMatters": "Den nordiske aftalemodel hviler på, at en tilstrækkelig lang konflikt til sidst tvinger arbejdsgiveren til bordet. Her holdt en amerikansk arbejdsgiver stand i tre år og betalte sig så ud af konflikten.",
+      "analysis": "Arbejdsmarkedsforsker Laust Høgedahl fra Aalborg Universitet siger til DR, at han ikke har set noget lignende udfald. Blev der først slået hul på Tesla i Sverige, kunne man ifølge ham forestille sig, at andre lande ville få blod på tanden.",
+      "counterpoint": "Teslas kommunikationsansvarlige i Sverige, Maria Lantz, skriver til TT, at selskabets aftaler med de ansatte er \"ligeværdige eller bedre end dem, der er omfattet af en overenskomst\".",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/6/1/7/6172e1de-e640-4f24-9e4c-53889698fd29?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCwwLDYxOTIsMzQ4OQ&s=aab7dcb7539aa0e332692386606f3afa",
+        "credit": "Kilde: TV 2 (Foto: Tt News Agency / Ritzau Scanpix)",
+        "alt": "TV 2's billede til historien: en strejkevagt holder øje med Teslas servicecenter i svenske Segeltorp.",
+        "sourceUrl": "https://nyheder.tv2.dk/udland/2026-08-13-tesla-koeber-strejkende-ud-ikke-set-lignende-i-100-aar"
+      },
+      "topics": [
+        "arbejdsmarked",
+        "overenskomst",
+        "den nordiske model",
+        "Sverige",
+        "Tesla"
+      ],
+      "entities": [
+        "Tesla",
+        "IF Metall",
+        "Landsorganisationen i Sverige",
+        "Veli-Pekka Säikkälä",
+        "Laust Høgedahl",
+        "Maria Lantz",
+        "Sverige"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 84,
+        "decisionValue": 76,
+        "novelty": 88,
+        "sourceQuality": 82,
+        "personalRelevance": 86,
+        "contrast": 74
+      },
+      "claims": [
+        {
+          "text": "Tesla har betalt omkring 80 strejkende medarbejdere for at afslutte deres ansættelse hos selskabet i Sverige.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/udland/2026-08-13-tesla-koeber-strejkende-ud-ikke-set-lignende-i-100-aar"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Veli-Pekka Säikkälä fra Landsorganisationen i Sverige siger, at sådanne metoder ikke er set i Sverige i næsten 100 år.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/udland/2026-08-13-tesla-koeber-strejkende-ud-ikke-set-lignende-i-100-aar"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "IF Metall indledte strejken mod Tesla i oktober 2023, efter at overenskomstforhandlinger var brudt sammen.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/arbejdsmarkedsforsker-om-teslas-nedlukning-af-strejke-ikke-set-foer"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Alle strejketiltag mod Teslas svenske selskab slutter fra og med onsdag den 19. august.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/udland/2026-08-13-tesla-koeber-strejkende-ud-ikke-set-lignende-i-100-aar"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Arbejdsmarkedsforsker Laust Høgedahl fra Aalborg Universitet siger, at han ikke har set noget lignende udfald på en arbejdskonflikt.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/arbejdsmarkedsforsker-om-teslas-nedlukning-af-strejke-ikke-set-foer"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Tesla køber strejkende ud – ikke set lignende i 100 år",
+          "publisher": "TV 2",
+          "url": "https://nyheder.tv2.dk/udland/2026-08-13-tesla-koeber-strejkende-ud-ikke-set-lignende-i-100-aar",
+          "publishedAt": "2026-08-13T16:22:07.000Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Arbejdsmarkedsforsker om Teslas nedlukning af strejke: 'Ikke set før'",
+          "publisher": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/penge/arbejdsmarkedsforsker-om-teslas-nedlukning-af-strejke-ikke-set-foer",
+          "publishedAt": "2026-08-13T16:49:45.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-2026-08-14-maersk-q2",
+      "eventKey": "maersk-q2-2026-opjustering-fragtmaengder",
+      "materialFacts": [
+        "Overskuddet mere end fordoblet til 1,3 mia. dollar i andet kvartal 2026",
+        "Omsaetningen paa naesten 15,8 mia. dollar, 20 procent mere end aaret foer",
+        "Forventningen til driftsresultat hoejnet til 10,5-12,5 mia. dollar fra 8-10",
+        "Opjusteringen bygger paa en forventet vaekst i globale fragtmaengder paa fire procent i 2026"
+      ],
+      "section": "Eksport og verdenshandel",
+      "headline": "Mærsk fordobler milliardoverskud",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/penge/maersk-fordobler-sit-milliardoverskud",
+      "subheadline": "Regnskabet er interessant for ét tal: Mærsk regner nu med, at de globale fragtmængder vokser fire procent i år.",
+      "body": [
+        "A.P. Møller - Mærsk mere end fordoblede sit overskud til 1,3 milliarder dollar i andet kvartal, svarende til 8,5 milliarder kroner. Omsætningen landede på næsten 15,8 milliarder dollar, 20 procent mere end året før, og væksten var især drevet af søfartsdivisionen Ocean.",
+        "Forventningen til hele 2026 hæves: et underliggende driftsresultat før af- og nedskrivninger på 10,5 til 12,5 milliarder dollar mod tidligere otte til ti. Opjusteringen bygger på en forventning om fire procents vækst i de globale fragtmængder."
+      ],
+      "whyItMatters": "Mængdeforventningen er den mest direkte aflæsning af, om verdenshandlen stadig vokser i volumen. Fire procent siger, at Mærsk indtil videre mener, den gør.",
+      "analysis": "Vincent Clerc kalder kvartalet \"endnu et tydeligt bevis på, at vi befinder os i en ny virkelighed præget af markant højere volatilitet\". Første kvartal gav tilbagegang i både omsætning og overskud, drevet af netop Ocean.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/n50aqlva/20260630-125802-l_crop001.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR Nyheder (Foto: Martin Bernetti, AFP/Ritzau Scanpix)",
+        "alt": "DR's billede til historien om A.P. Møller - Mærsks regnskab for andet kvartal 2026.",
+        "sourceUrl": "https://www.dr.dk/nyheder/penge/maersk-fordobler-sit-milliardoverskud"
+      },
+      "topics": [
+        "søfart",
+        "verdenshandel",
+        "regnskab",
+        "told",
+        "Danmark"
+      ],
+      "entities": [
+        "A.P. Møller - Mærsk",
+        "Vincent Clerc",
+        "Ocean",
+        "Danmark"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 86,
+        "decisionValue": 80,
+        "novelty": 62,
+        "sourceQuality": 84,
+        "personalRelevance": 90,
+        "contrast": 58
+      },
+      "claims": [
+        {
+          "text": "Mærsk mere end fordoblede sit overskud til 1,3 milliarder dollar i andet kvartal 2026, svarende til 8,5 milliarder kroner.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/maersk-fordobler-sit-milliardoverskud"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Omsætningen landede på næsten 15,8 milliarder dollar, 20 procent mere end i samme periode sidste år.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/maersk-fordobler-sit-milliardoverskud"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Forventningen til underliggende driftsresultat før af- og nedskrivninger er hævet til 10,5-12,5 milliarder dollar fra tidligere otte til ti milliarder.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/maersk-fordobler-sit-milliardoverskud"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Opjusteringen baserer sig på en forventning om, at de globale fragtmængder vokser sammenlagt fire procent i 2026.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/maersk-fordobler-sit-milliardoverskud"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Mærsk fordobler milliardoverskud",
+          "publisher": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/penge/maersk-fordobler-sit-milliardoverskud",
+          "publishedAt": "2026-08-13T06:05:02.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-2026-08-14-pfa-al-sydbank",
+      "eventKey": "al-sydbank-firmapensionsudbud-pfa-velliv-danica-2026-08",
+      "materialFacts": [
+        "PFA, Danica og Velliv skal inden for faa uger byde paa firmapensionen for 4.000 medarbejdere i AL Sydbank",
+        "I dag har PFA 45 pct., Velliv 45 pct. og AP Pension 10 pct. af pensionerne fra Sydbank, Vestjysk Bank og Arbejdernes Landsbank",
+        "PFA vandt foer sommerferien aftalen om kundernes pensioner i AL Sydbank via Letpension",
+        "AP Pension trak sig kort efter fra udbuddet af medarbejdernes pensioner"
+      ],
+      "section": "Kapitalforvaltning",
+      "headline": "Spektakulært firmapensionsudbud kan koste PFA Pension dyrt",
+      "primarySourceUrl": "https://ugebrev.dk/finans/spektakulaert-firmapensionsudbud-kan-koste-pfa-pension-dyrt/",
+      "subheadline": "En af landets største firmapensionsaftaler skal i udbud. Økonomisk Ugebrev beskriver et magtspil, hvor den oplagte vinder kan blive den økonomiske taber.",
+      "body": [
+        "PFA, Danica og Velliv skal inden for få uger give deres første bud på firmapensionen for 4.000 højtlønnede medarbejdere i AL Sydbank. Af de samlede pensioner fra Sydbank, Vestjysk Bank og Arbejdernes Landsbank sidder PFA i dag på 45 procent, Velliv på 45 procent og AP Pension på de sidste ti.",
+        "Før sommerferien vandt PFA aftalen om kundernes pensioner i AL Sydbank gennem Letpension. AP Pension og Nærpension tabte. Kort efter trak AP Pension sig offentligt fra udbuddet af medarbejdernes pensioner."
+      ],
+      "whyItMatters": "Store firmapensioner følger ofte bankforbindelsen frem for udbuddet. Ugebrevet nævner Mærsk og Danske Bank tæt på Danica, Novo Nordisk på PFA og Nordea på Velliv.",
+      "analysis": "Fagredaktør Carsten Vitoft beskriver et magtspil med fordækte kort. PFA ser på papiret ud som den oplagte vinder, men bag kulisserne er der lagt op til et rænkespil, hvor selskabet let kan ende som økonomisk taber.",
+      "image": {
+        "url": "https://ugebrev.dk/wp-content/uploads/2025/05/PFAs-Ole-Krogh-Petersen.jpg",
+        "credit": "Kilde: Økonomisk Ugebrev",
+        "alt": "Økonomisk Ugebrevs billede til analysen, med sidens egen billedtekst: PFA's Ole Krogh Petersen.",
+        "sourceUrl": "https://ugebrev.dk/finans/spektakulaert-firmapensionsudbud-kan-koste-pfa-pension-dyrt/"
+      },
+      "topics": [
+        "pension",
+        "udbud",
+        "finanssektoren",
+        "Danmark"
+      ],
+      "entities": [
+        "PFA Pension",
+        "Danica",
+        "Velliv",
+        "AP Pension",
+        "AL Sydbank",
+        "Arbejdernes Landsbank",
+        "Vestjysk Bank",
+        "Letpension",
+        "Carsten Vitoft",
+        "Nærpension"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 72,
+        "decisionValue": 78,
+        "novelty": 84,
+        "sourceQuality": 80,
+        "personalRelevance": 82,
+        "contrast": 66
+      },
+      "claims": [
+        {
+          "text": "PFA, Danica og Velliv skal inden for få uger give deres første bud på firmapensionen for 4.000 højtlønnede medarbejdere i AL Sydbank.",
+          "sourceUrls": [
+            "https://ugebrev.dk/finans/spektakulaert-firmapensionsudbud-kan-koste-pfa-pension-dyrt/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Af de samlede pensioner fra Sydbank, Vestjysk Bank og Arbejdernes Landsbank sidder PFA på 45 pct., Velliv på 45 pct. og AP Pension på ti pct.",
+          "sourceUrls": [
+            "https://ugebrev.dk/finans/spektakulaert-firmapensionsudbud-kan-koste-pfa-pension-dyrt/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "PFA vandt før sommerferien aftalen om kundernes pensioner i AL Sydbank via samarbejdet med Letpension, hvor AP Pension og Nærpension tabte.",
+          "sourceUrls": [
+            "https://ugebrev.dk/finans/spektakulaert-firmapensionsudbud-kan-koste-pfa-pension-dyrt/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "AP Pension trak sig kort efter offentligt fra udbuddet af medarbejdernes pensioner.",
+          "sourceUrls": [
+            "https://ugebrev.dk/finans/spektakulaert-firmapensionsudbud-kan-koste-pfa-pension-dyrt/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Spektakulært firmapensionsudbud kan koste PFA Pension dyrt",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/finans/spektakulaert-firmapensionsudbud-kan-koste-pfa-pension-dyrt/",
+          "publishedAt": "2026-08-13T09:55:03.000Z",
+          "kind": "analysis"
+        }
+      ]
+    },
+    {
+      "id": "thomas-2026-08-14-coloplast-comeback",
+      "eventKey": "coloplast-governance-krise-comeback-2026-08",
+      "materialFacts": [
+        "Coloplast-aktien er faldet 45 pct. over de seneste to aar",
+        "Governance-krisen fulgte af, at bestyrelsesformand Lars Rasmussen indsatte sig selv som midlertidig direktoer",
+        "Niels B. Christiansen er ny formand og Gavin Wood ny adm. direktoer",
+        "Det islandske opkoeb Kerecis er ramt af aendrede amerikanske Medicare-tilskudsregler"
+      ],
+      "section": "Selskabsledelse",
+      "headline": "Sådan overvandt Coloplast sin største krise",
+      "primarySourceUrl": "https://ugebrev.dk/formue/saadan-overvandt-coloplast-sin-stoerste-krise-2/",
+      "subheadline": "En udrensning i toppen og et sundt halvårsregnskab. Aktieanalytiker Carsten Dehn ser på, om medico-selskabet er på vej tilbage.",
+      "body": [
+        "Coloplasts status som stabil defensiv havn blev rystet af en governance-krise, efter at bestyrelsesformand Lars Rasmussen indsatte sig selv som midlertidig direktør. Aktien er faldet 45 procent over to år. Ledelsen er skiftet ud: LEGO-direktøren Niels B. Christiansen som formand, Gavin Wood som adm. direktør.",
+        "Wood er sårplejeekspert og har ifølge Ugebrevet haft det globale ansvar for sårplejekategorier hos blandt andet Mölnlycke. Det peger mod det islandske opkøb Kerecis, hvor det ambulante marked i USA genopretter sig langsomt efter ændrede Medicare-regler."
+      ],
+      "whyItMatters": "To ting presser samtidig: amerikansk refusionsregulering og kinesiske konkurrenter på stomimarkedet. Den dobbelteksponering deler dansk medico.",
+      "analysis": "Kerecis er nedskrevet med 3 mia. kr., og vækstforventningen er sat ned fra 7 til 5-6 procent. Analysens pointe er alligevel, at maskinrummet viste operationel modstandskraft gennem krisen.",
+      "image": {
+        "url": "https://ugebrev.dk/wp-content/uploads/2026/04/Ny-CEO-hos-Coloplast-–-Gavin-Wood.png",
+        "credit": "Kilde: Økonomisk Ugebrev",
+        "alt": "Økonomisk Ugebrevs billede til analysen om Coloplast: et portræt af en mand i jakkesæt ved siden af Coloplasts logo.",
+        "sourceUrl": "https://ugebrev.dk/formue/saadan-overvandt-coloplast-sin-stoerste-krise-2/"
+      },
+      "topics": [
+        "medico",
+        "selskabsledelse",
+        "Kina",
+        "USA",
+        "Danmark"
+      ],
+      "entities": [
+        "Coloplast",
+        "Lars Rasmussen",
+        "Niels B. Christiansen",
+        "Gavin Wood",
+        "Kerecis",
+        "Mölnlycke",
+        "Carsten Dehn",
+        "Medicare"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 70,
+        "decisionValue": 72,
+        "novelty": 74,
+        "sourceQuality": 78,
+        "personalRelevance": 80,
+        "contrast": 64
+      },
+      "claims": [
+        {
+          "text": "Coloplast-aktien er faldet 45 procent over de seneste to år.",
+          "sourceUrls": [
+            "https://ugebrev.dk/formue/saadan-overvandt-coloplast-sin-stoerste-krise-2/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Bestyrelsesformand Lars Rasmussen indsatte sig selv som midlertidig direktør, hvilket udløste stærk kritik.",
+          "sourceUrls": [
+            "https://ugebrev.dk/formue/saadan-overvandt-coloplast-sin-stoerste-krise-2/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "LEGO-direktør Niels B. Christiansen er ny bestyrelsesformand og Gavin Wood ny adm. direktør.",
+          "sourceUrls": [
+            "https://ugebrev.dk/formue/saadan-overvandt-coloplast-sin-stoerste-krise-2/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Gavin Wood har tidligere haft det globale ansvar for sårplejekategorier hos blandt andet Mölnlycke.",
+          "sourceUrls": [
+            "https://ugebrev.dk/formue/saadan-overvandt-coloplast-sin-stoerste-krise-2/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Coloplast vil ikke gå ind i en priskrig på det kinesiske stomimarked, men fastholder sin premiumpositionering.",
+          "sourceUrls": [
+            "https://ugebrev.dk/formue/saadan-overvandt-coloplast-sin-stoerste-krise-2/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Den organiske vækstforventning blev nedjusteret fra 7 pct. til 5-6 pct., og nedjusteringen indeholdt en nedskrivning på 3 mia. kr. relateret til Kerecis.",
+          "sourceUrls": [
+            "https://ugebrev.dk/formue/saadan-overvandt-coloplast-sin-stoerste-krise-2/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Sådan overvandt Coloplast sin største krise",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/formue/saadan-overvandt-coloplast-sin-stoerste-krise-2/",
+          "publishedAt": "2026-08-13T09:40:05.000Z",
+          "kind": "analysis"
+        }
+      ]
+    },
+    {
+      "id": "thomas-2026-08-14-boligpriser-juli",
+      "eventKey": "boligsiden-juli-2026-koebenhavn-stagnation-aarhus",
+      "materialFacts": [
+        "Huspriserne paa landsplan er steget 9,6 pct. paa et aar, lejligheder knap 18 pct.",
+        "Priserne er stagneret i Koebenhavn og Frederiksberg kommuner",
+        "Udbuddet af lejligheder i Koebenhavn er vokset 70 pct. paa et aar",
+        "Det aarhusianske lejlighedsmarked stiger kraftigt"
+      ],
+      "section": "Dansk økonomi",
+      "headline": "Priserne på danske boliger stiger stadig – i København er festen forbi",
+      "primarySourceUrl": "https://nyheder.tv2.dk/business/2026-08-13-priserne-paa-danske-boliger-stiger-stadig-i-koebenhavn-er-festen-forbi",
+      "subheadline": "Nye tal for juli fra Boligsiden: huspriserne op 9,6 procent på et år, men hovedstaden er gået i stå, mens Aarhus tager over.",
+      "body": [
+        "Over det seneste år er huspriserne på landsplan steget 9,6 procent, mens lejligheder er steget knap 18 procent. Ifølge Boligsiden er huspriserne højere end for et år siden i samtlige landsdele. Men i København og Frederiksberg er priserne nu stagneret.",
+        "En mulig forklaring er udbuddet: antallet af lejligheder til salg i hovedstaden er vokset 70 procent på et år, hvilket ifølge TV 2 lægger låg på prisstigningerne. I Aarhus er udbuddet omvendt lavt nu."
+      ],
+      "whyItMatters": "Boligmarkedet er den mest følsomme aflæsning af dansk husholdningsøkonomi. At stigningen flytter fra København til Aarhus handler om udbud, ikke om svækket efterspørgsel.",
+      "analysis": "Boligøkonom Lise Nytoft Bergmann peger på stærk dansk økonomi og høj jobvækst, hvor beskæftigelsen nærmest sætter rekord måned efter måned. Men lønchecks er ikke eksploderet, og hendes bud er, at når den ydre tryghed er truet, søger danskerne mod den lille.",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/c/a/d/cade8fc5-17f6-48c1-88cd-3626c17f1aca?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCw0ODksNTc2MCwzMjM1&s=a0cdfe616b0796f63ee1585b551f435a",
+        "credit": "Kilde: TV 2 (Foto: Linda Kastrup / Scanpix Denmark)",
+        "alt": "TV 2's billede til historien om boligpriserne i juli 2026: luftfoto af danske parcel- og rækkehuse.",
+        "sourceUrl": "https://nyheder.tv2.dk/business/2026-08-13-priserne-paa-danske-boliger-stiger-stadig-i-koebenhavn-er-festen-forbi"
+      },
+      "topics": [
+        "boligmarked",
+        "dansk økonomi",
+        "København",
+        "Aarhus"
+      ],
+      "entities": [
+        "Boligsiden",
+        "Lise Nytoft Bergmann",
+        "København",
+        "Frederiksberg",
+        "Aarhus",
+        "Danmark"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 68,
+        "decisionValue": 70,
+        "novelty": 66,
+        "sourceQuality": 76,
+        "personalRelevance": 72,
+        "contrast": 60
+      },
+      "claims": [
+        {
+          "text": "Over det seneste år er huspriserne på landsplan steget 9,6 procent, mens lejligheder er steget knap 18 procent.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/business/2026-08-13-priserne-paa-danske-boliger-stiger-stadig-i-koebenhavn-er-festen-forbi"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Priserne er stagneret i Københavns og Frederiksberg kommuner efter mere end to år med konstante prisstigninger.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/business/2026-08-13-priserne-paa-danske-boliger-stiger-stadig-i-koebenhavn-er-festen-forbi"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Udbuddet af lejligheder i København er vokset med 70 procent i løbet af det seneste år.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/business/2026-08-13-priserne-paa-danske-boliger-stiger-stadig-i-koebenhavn-er-festen-forbi"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Tallene er Boligsidens opgørelse for juli måned 2026.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/business/2026-08-13-priserne-paa-danske-boliger-stiger-stadig-i-koebenhavn-er-festen-forbi"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Priserne på danske boliger stiger stadig – i København er festen forbi",
+          "publisher": "TV 2",
+          "url": "https://nyheder.tv2.dk/business/2026-08-13-priserne-paa-danske-boliger-stiger-stadig-i-koebenhavn-er-festen-forbi",
+          "publishedAt": "2026-08-13T05:28:59.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-2026-08-14-sverige-lavalder",
+      "eventKey": "sverige-kriminel-lavalder-14-aar-2026-08-13",
+      "materialFacts": [
+        "Den svenske rigsdag stemte torsdag aften ja til at saenke den kriminelle lavalder fra 15 til 14 aar",
+        "Aendringen gaelder de mest alvorlige forbrydelser",
+        "Lavalderen har ligget paa 15 aar siden 1864",
+        "Regeringen, Sverigedemokraterne og Socialdemokraterne stemte for"
+      ],
+      "section": "Norden",
+      "headline": "Sveriges politikere stemmer ja til historisk kursændring: ’En brik i puslespillet’ i kampen mod banderne",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/sveriges-politikere-stemmer-ja-til-historisk-kursaendring-en-brik-i-puslespillet-i-kampen-mod",
+      "subheadline": "Efter mere end 160 år sænker Sverige den kriminelle lavalder til 14 år for de alvorligste forbrydelser. Valget er om en måned.",
+      "body": [
+        "Siden 1864 har den kriminelle lavalder i Sverige ligget på 15 år. Torsdag aften stemte et stort flertal i rigsdagen for at sænke den til 14 år ved de mest alvorlige forbrydelser. Ud over regeringen stemte Sverigedemokraterne og Socialdemokraterne for.",
+        "Forud for afstemningen sagde justitsminister Gunnar Strömmer fra Moderaterne, at systemet hverken beskytter borgerne mod livsfarlig vold, giver ofrene oprejsning eller bryder de destruktive mønstre omkring børnene. Socialdemokraternes Teresa Carvalho kaldte det \"en brik i puslespillet\"."
+      ],
+      "whyItMatters": "Sverige er Danmarks nærmeste sammenligningsgrundlag i bandepolitik. Det opsigtsvækkende er, at socialdemokraterne stemmer med de borgerlige om strafskærpelsen.",
+      "analysis": "Forslaget har mødt hård modstand fra organisationer og opposition. Venstrepartiets Gudrun Nordborg sagde, at meget er sket siden 1864, men at børn stadig er børn — og at grænsen snarere burde hæves.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/zkrlntwr/20260602-140006-4_crop001.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR Nyheder (Foto: Tom Little, Reuters/Ritzau Scanpix)",
+        "alt": "DR's billede til historien, med sidens egen billedtekst: fængslet Rosersberg nord for Stockholm, et af de fængsler, der skal huse de 14-årige.",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/sveriges-politikere-stemmer-ja-til-historisk-kursaendring-en-brik-i-puslespillet-i-kampen-mod"
+      },
+      "topics": [
+        "retspolitik",
+        "bandekriminalitet",
+        "Sverige",
+        "Norden"
+      ],
+      "entities": [
+        "Sveriges Riksdag",
+        "Gunnar Strömmer",
+        "Moderaterne",
+        "Sverigedemokraterne",
+        "Socialdemokraterne",
+        "Teresa Carvalho",
+        "Gudrun Nordborg",
+        "Venstrepartiet",
+        "Sverige"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 78,
+        "decisionValue": 58,
+        "novelty": 72,
+        "sourceQuality": 82,
+        "personalRelevance": 54,
+        "contrast": 80
+      },
+      "claims": [
+        {
+          "text": "Den kriminelle lavalder i Sverige har ligget på 15 år siden 1864.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/sveriges-politikere-stemmer-ja-til-historisk-kursaendring-en-brik-i-puslespillet-i-kampen-mod"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Et stort flertal i den svenske rigsdag stemte torsdag aften for at sænke den til 14 år for de mest alvorlige forbrydelser.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/sveriges-politikere-stemmer-ja-til-historisk-kursaendring-en-brik-i-puslespillet-i-kampen-mod"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Ud over regeringen stemte Sverigedemokraterne og Socialdemokraterne for.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/sveriges-politikere-stemmer-ja-til-historisk-kursaendring-en-brik-i-puslespillet-i-kampen-mod"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Justitsminister Gunnar Strömmer er fra det liberalkonservative parti Moderaterne.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/sveriges-politikere-stemmer-ja-til-historisk-kursaendring-en-brik-i-puslespillet-i-kampen-mod"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Sveriges politikere stemmer ja til historisk kursændring: ’En brik i puslespillet’ i kampen mod banderne",
+          "publisher": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/udland/sveriges-politikere-stemmer-ja-til-historisk-kursaendring-en-brik-i-puslespillet-i-kampen-mod",
+          "publishedAt": "2026-08-13T15:52:36.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-2026-08-14-ebola-drcongo",
+      "eventKey": "drcongo-ebola-bundibugyo-udbrud-2026-08",
+      "materialFacts": [
+        "4.381 bekraeftede tilfaelde og 2.011 doede ifoelge DR Congos regering",
+        "Udbruddet har spredt sig til seks provinser ifoelge Africa CDC",
+        "45,9 pct. af de bekraeftede tilfaelde er endt med doedsfald mod 39,6 pct. i 2014-2016",
+        "Sundhedsarbejdere naar kun frem til omkring 30 pct. af tilfaeldene"
+      ],
+      "section": "Global sundhed",
+      "headline": "Ebola spreder sig i DR Congo - WHO frygter det dødeligste udbrud nogensinde",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/ebola-spreder-sig-i-dr-congo-who-frygter-det-doedeligste-udbrud-nogensinde",
+      "subheadline": "2.011 døde og seks ramte provinser. Dødeligheden er højere end under det hidtil værste udbrud, og smitten er 35 kilometer fra Sydsudan.",
+      "body": [
+        "Udbruddet i DR Congo har spredt sig til seks provinser, oplyser Den Afrikanske Unions sundhedsmyndighed Africa CDC. De seneste regeringstal viser 4.381 bekræftede tilfælde og 2.011 døde. Udbruddet blev erklæret 15. maj, men virussen menes at have spredt sig fra februar.",
+        "Det er allerede det næststørste udbrud i historien målt på registrerede tilfælde. Ifølge AP er 45,9 procent af tilfældene endt med dødsfald mod 39,6 procent i Vestafrika 2014-2016, hvor mere end 11.000 døde."
+      ],
+      "whyItMatters": "Sundhedsarbejdere når ifølge WHO kun frem til omkring 30 procent af tilfældene, fordi det østlige DR Congo har været præget af voldelige konflikter i årtier. Tidlige tilfælde blev desuden fejlvurderet som malaria.",
+      "analysis": "WHO-direktør for Afrika Mohamed Janabi siger: \"Vi jagter virussen. Virussen er foran os.\" Mercy Corps advarede torsdag om spredning til Sydsudan; tilfælde er registreret 35 km fra grænsen.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/ydklsa2a/20260811-151709-3.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR Nyheder",
+        "alt": "DR's billede til historien om ebolaudbruddet i DR Congo.",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/ebola-spreder-sig-i-dr-congo-who-frygter-det-doedeligste-udbrud-nogensinde"
+      },
+      "topics": [
+        "global sundhed",
+        "ebola",
+        "DR Congo",
+        "WHO",
+        "Afrika"
+      ],
+      "entities": [
+        "WHO",
+        "Africa CDC",
+        "DR Congo",
+        "Mohamed Janabi",
+        "Tedros Adhanom Ghebreyesus",
+        "Mercy Corps",
+        "Sydsudan",
+        "Ituri"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 88,
+        "decisionValue": 52,
+        "novelty": 70,
+        "sourceQuality": 84,
+        "personalRelevance": 48,
+        "contrast": 82
+      },
+      "claims": [
+        {
+          "text": "DR Congos regering har registreret 4.381 bekræftede tilfælde og 2.011 dødsfald.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/ebola-spreder-sig-i-dr-congo-who-frygter-det-doedeligste-udbrud-nogensinde"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Udbruddet har spredt sig til seks provinser ifølge Africa CDC.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/ebola-spreder-sig-i-dr-congo-who-frygter-det-doedeligste-udbrud-nogensinde"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "45,9 procent af de bekræftede tilfælde er endt med dødsfald mod 39,6 procent under udbruddet i 2014-2016.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/ebola-spreder-sig-i-dr-congo-who-frygter-det-doedeligste-udbrud-nogensinde"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Sundhedsarbejdere når ifølge WHO kun frem til omkring 30 procent af tilfældene.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/ebola-spreder-sig-i-dr-congo-who-frygter-det-doedeligste-udbrud-nogensinde"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Bekræftede tilfælde er registreret blot 35 kilometer fra grænsen til Sydsudan ifølge Mercy Corps.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/ebola-spreder-sig-i-dr-congo-who-frygter-det-doedeligste-udbrud-nogensinde"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Ebola spreder sig i DR Congo - WHO frygter det dødeligste udbrud nogensinde",
+          "publisher": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/udland/ebola-spreder-sig-i-dr-congo-who-frygter-det-doedeligste-udbrud-nogensinde",
+          "publishedAt": "2026-08-13T20:05:00.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-2026-08-14-teton-nattevagt",
+      "eventKey": "vordingborg-teton-ai-nattevagt-2026-08",
+      "materialFacts": [
+        "Vordingborg Kommune skal teste AI-systemet Teton.ai paa to botilbud i Praestoe fra efteraaret 2026",
+        "Systemet bruges allerede i Naestved, Kalundborg, Stevns, Guldborgsund og Holbaek kommuner",
+        "En loftsensor registrerer, om beboeren sover, er faldet, sidder, ligger i sengen eller er ude",
+        "Beboeren vises som en taendstiksfigur, ikke med ansigt og krop"
+      ],
+      "section": "Velfærdsteknologi",
+      "headline": "Nattevagten får kunstig hjælper",
+      "primarySourceUrl": "https://nyheder.tv2.dk/samfund/2026-08-13-nattevagten-faar-kunstig-hjaelper",
+      "subheadline": "Fem kommuner på Sjælland og Lolland-Falster bruger allerede Teton.ai. Nu tester Vordingborg det på to botilbud i Præstø.",
+      "body": [
+        "En loftsensor registrerer, om beboeren sover, er faldet, sidder, ligger i sengen eller har forladt værelset, og sender besked til personalet. Borgeren vises ikke med ansigt og krop, men som en tændstiksfigur.",
+        "Vordingborg Kommune implementerer fra efteråret 2026 systemet på botilbuddene Lundegården og Rødegårdsvej i Præstø. Det er i brug i Næstved, Kalundborg, Stevns, Guldborgsund og Holbæk. Ena Hove, beboer på Kildemarkscenteret i Næstved, kalder det trygt."
+      ],
+      "whyItMatters": "Rekruttering til nattevagter er svær i hele landet, og der er ofte brug for vikarer. Kommunen fremhæver selv, at teknologien ikke kan erstatte relationer eller faglighed.",
+      "analysis": "Fagkonsulent Ida Agnes Riishøj Edelmark siger, at nabokommunernes erfaringer taler for sig selv: medarbejderne får ikke dårlig samvittighed ved at være nærværende hos én borger, fordi systemet slår alarm et andet sted.",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/2/2/d/22d1a1ff-b264-4cae-be7e-d1d73e397507?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MSwwLDEwMTIsNTY5&s=aa2720d28aff487fba7e13776f626809",
+        "credit": "Kilde: TV 2 (Foto: Phillippa Maigaard / TV2 ØST)",
+        "alt": "TV 2's billede til historien: Ena Hove, beboer på Kildemarkscenteret i Næstved, hvor Teton.ai er i brug.",
+        "sourceUrl": "https://nyheder.tv2.dk/samfund/2026-08-13-nattevagten-faar-kunstig-hjaelper"
+      },
+      "topics": [
+        "velfærdsteknologi",
+        "kunstig intelligens",
+        "ældrepleje",
+        "Danmark"
+      ],
+      "entities": [
+        "Vordingborg Kommune",
+        "Teton.ai",
+        "Næstved",
+        "Kalundborg",
+        "Stevns",
+        "Guldborgsund",
+        "Holbæk",
+        "Ida Agnes Riishøj Edelmark",
+        "Ena Hove",
+        "Præstø"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 62,
+        "decisionValue": 64,
+        "novelty": 76,
+        "sourceQuality": 74,
+        "personalRelevance": 58,
+        "contrast": 78
+      },
+      "claims": [
+        {
+          "text": "Teton.ai er i brug i Næstved, Kalundborg, Stevns, Guldborgsund og Holbæk kommuner på botilbud og plejecentre.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/samfund/2026-08-13-nattevagten-faar-kunstig-hjaelper"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Vordingborg Kommune implementerer fra efteråret 2026 systemet på Lundegården og Rødegårdsvej i Præstø.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/samfund/2026-08-13-nattevagten-faar-kunstig-hjaelper"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Loftsensoren viser, om beboeren sover, er faldet, sidder, ligger i sengen eller er ude, og borgeren vises som en tændstiksfigur.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/samfund/2026-08-13-nattevagten-faar-kunstig-hjaelper"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Ida Agnes Riishøj Edelmark er fagkonsulent i Vordingborg Kommune og projektleder på testen.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/samfund/2026-08-13-nattevagten-faar-kunstig-hjaelper"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Nattevagten får kunstig hjælper",
+          "publisher": "TV 2",
+          "url": "https://nyheder.tv2.dk/samfund/2026-08-13-nattevagten-faar-kunstig-hjaelper",
+          "publishedAt": "2026-08-13T14:43:52.000Z",
+          "kind": "reporting"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "NKT A/S: Resultater for 1. halvår 2026 viser solid eksekvering",
+      "url": "https://ugebrev.dk/flashnews/nkt-a-s-resultater-for-1-halvaar-2026-viser-solid-eksekvering/",
+      "headline": "NKT A/S: Resultater for 1. halvår 2026 viser solid eksekvering",
+      "summary": "Omsætningen i standard metalpriser faldt til 657 mio. euro fra 723 mio., en organisk vækst på minus ni procent, mens operationelt EBITDA holdt sig stabilt på 104 mio. euro. For 2026 venter selskabet en omsætning på 2,65-2,75 mia. euro og et operationelt EBITDA på 400-430 mio. euro.",
+      "publisher": "Økonomisk Ugebrev",
+      "section": "Regnskaber",
+      "publishedAt": "2026-08-13T16:20:12.000Z"
+    },
+    {
+      "text": "DFDS’ Delårsrapport for 2. Kvartal 2026 – På Rette Kurs, men Mere At Gøre",
+      "url": "https://ugebrev.dk/flashnews/dfds-delaarsrapport-for-2-kvartal-2026-paa-rette-kurs-men-mere-at-goere/",
+      "headline": "DFDS’ Delårsrapport for 2. Kvartal 2026 – På Rette Kurs, men Mere At Gøre",
+      "summary": "Omsætningen steg ti procent til 8,6 mia. kr., og EBIT steg 291 mio. kr. til 454 mio. kr. Selskabet venter nu 3-5 procents årlig omsætningsvækst og EBIT på 1,2-1,4 mia. kr. CEO Michael Hansen oplyser, at der er igangsat en strategiproces.",
+      "publisher": "Økonomisk Ugebrev",
+      "section": "Regnskaber",
+      "publishedAt": "2026-08-13T16:27:54.000Z"
+    },
+    {
+      "text": "Grønlandsk grafit skal bryde Kinas monopol: Nord for København ulmer et milliardprojekt",
+      "url": "https://ing.dk/artikel/groenlandsk-grafit-skal-bryde-kinas-monopol-nord-koebenhavn-ulmer-et-milliardprojekt",
+      "headline": "Grønlandsk grafit skal bryde Kinas monopol: Nord for København ulmer et milliardprojekt",
+      "summary": "Mineselskabet Greenroc Strategic Materials har igen i sommer hentet grafit fra Amitsoq-minen i Sydgrønland. Ingeniøren skriver, at investorerne har været tøvende, men at den danske stat i ryggen har sat gang i planerne om at male grafitten til batterimaterialer.",
+      "publisher": "Ingeniøren",
+      "section": "Råstoffer og forsyningskæder",
+      "publishedAt": "2026-08-14T03:00:00.000Z"
+    },
+    {
+      "text": "Universiteter skrotter it-projekt til over 300 millioner: »Situationen er alvorlig«",
+      "url": "https://ing.dk/artikel/universiteter-skrotter-it-projekt-til-over-300-millioner-situationen-er-alvorlig",
+      "headline": "Universiteter skrotter it-projekt til over 300 millioner: »Situationen er alvorlig«",
+      "summary": "De syv danske universiteter river kontrakten over på et nyt studieadministrativt system og fortsætter med det gamle fra 1990'erne. Kontrakten blev indgået i 2023 med leverandøren Fluido og lød på 330 mio. kr. Forsøget har stået på i knap ti år.",
+      "publisher": "Ingeniøren",
+      "section": "Offentlig it",
+      "publishedAt": "2026-08-14T03:00:00.000Z"
+    },
+    {
+      "text": "Netcompany brager frem på Europas største it-marked: ”Vi er gået fra at være ukendte til at blive en stor spiller”",
+      "url": "https://www.computerworld.dk/art/296497/netcompany-brager-frem-paa-europas-stoerste-it-marked-vi-er-gaaet-fra-at-vaere-ukendte-til-at-blive-en-stor-spiller",
+      "headline": "Netcompany brager frem på Europas største it-marked: ”Vi er gået fra at være ukendte til at blive en stor spiller”",
+      "summary": "Netcompanys omsætning i Storbritannien voksede 57 procent i det seneste kvartal. Topchef André Rogaczewski siger, at selskabet er gået fra ukendt til at være en betydelig spiller på det britiske marked. Artiklen er bag Computerworlds betalingsmur.",
+      "publisher": "Computerworld",
+      "section": "Dansk eksport",
+      "publishedAt": "2026-08-13T13:00:00.000Z"
+    },
+    {
+      "text": "Danske CyberPilot solgt til udlandet: Værdisat til flere hundrede millioner kroner",
+      "url": "https://www.computerworld.dk/art/296486/danske-cyberpilot-solgt-til-udlandet-vaerdisat-til-flere-hundrede-millioner-kroner",
+      "headline": "Danske CyberPilot solgt til udlandet: Værdisat til flere hundrede millioner kroner",
+      "summary": "Køberen er den schweiziske e-mailsikkerhedsplatform SEPPmail. Aarhusianske CyberPilot er vokset på awareness-træning og phishing-simulationer. Computerworld skriver i rubrikken, at selskabet er værdisat til flere hundrede millioner kroner. Artiklen er bag betalingsmur.",
+      "publisher": "Computerworld",
+      "section": "Opkøb",
+      "publishedAt": "2026-08-13T09:27:00.000Z"
+    },
+    {
+      "text": "Krænkelsessager blandt værnepligtige er fordoblet på et år: \"Det er meget irriterende at se\"",
+      "url": "https://www.altinget.dk/artikel/kraenkelsessager-blandt-vaernepligtige-er-fordoblet-paa-et-aar-det-er-meget-irriterende-at-se",
+      "headline": "Krænkelsessager blandt værnepligtige er fordoblet på et år: \"Det er meget irriterende at se\"",
+      "summary": "Antallet af krænkelsessager blandt værnepligtige er ifølge Altinget næsten fordoblet på et år: 29 sager om krænkende eller kønskrænkende adfærd blev sidste år indberettet til Forsvarsministeriets Auditørkorps. Forsvaret erkender, at arbejdet med kulturen langtfra er i mål.",
+      "publisher": "Altinget",
+      "section": "Forsvar",
+      "publishedAt": "2026-08-14T00:00:00.000Z"
+    },
+    {
+      "text": "Klar grønlandsk besked til oliefirma: Vi vil ikke finde os i det",
+      "url": "https://www.dr.dk/nyheder/indland/groenland/klar-groenlandsk-besked-til-oliefirma-vi-vil-ikke-finde-os-i-det",
+      "headline": "Klar grønlandsk besked til oliefirma: Vi vil ikke finde os i det",
+      "summary": "Selvstyrets råstofdepartementschef Jørgen Hammeken-Holm kritiserer det amerikanske selskab Greenland Energy: \"Det er ikke måden at agere på i Grønland.\" Myndighederne meldte onsdag ud, at tilladelser til boringer i Østgrønland tidligst kan ligge klar næste år.",
+      "publisher": "DR Nyheder",
+      "section": "Grønland",
+      "publishedAt": "2026-08-13T08:31:00.000Z"
+    },
+    {
+      "text": "Israel sender flere soldater for at fjerne bosættere på Vestbredden",
+      "url": "https://www.dr.dk/nyheder/udland/israel-sender-flere-soldater-fjerne-bosaettere-paa-vestbredden",
+      "headline": "Israel sender flere soldater for at fjerne bosættere på Vestbredden",
+      "summary": "Israelske bosættere har siden søndag belejret palæstinensiske familier i landsbyen Qusra syd for Nablus. Et forsøg på at fjerne dem onsdag mislykkedes. Omkring 12 palæstinensiske husstande har fået besked af israelske styrker på at forlade deres boliger.",
+      "publisher": "DR Nyheder",
+      "section": "Mellemøsten",
+      "publishedAt": "2026-08-13T20:07:00.000Z"
+    },
+    {
+      "text": "Minister går ind i fingeraftryks-sagen: Kræver redegørelse fra Rigspolitiet",
+      "url": "https://ing.dk/artikel/minister-gaar-ind-i-fingeraftryks-sagen-kraever-redegoerelse-fra-rigspolitiet",
+      "headline": "Minister går ind i fingeraftryks-sagen: Kræver redegørelse fra Rigspolitiet",
+      "summary": "Ministeren har bedt Rigspolitiet om en redegørelse om fejlen i politiets fingeraftryksregister. En lang række partier i Folketinget kritiserer sagen og kræver svar fra både ministeren og Rigspolitiet — blandt andet fordi Rigspolitiet ikke tidligere har informeret politikerne.",
+      "publisher": "Ingeniøren",
+      "section": "Retssikkerhed",
+      "publishedAt": "2026-08-13T10:22:00.000Z"
+    },
+    {
+      "text": "Blev efterladt med en bitter smag i munden - nu vil dansk stjerne have revanche",
+      "url": "https://www.dr.dk/sporten/golf-2/sidste-aars-vinder-har-ikke-ladet-rasmus-hoejgaard-glemme-nederlaget-nu-vil-han-tage-revanche",
+      "headline": "Blev efterladt med en bitter smag i munden - nu vil dansk stjerne have revanche",
+      "summary": "Danish Golf Championship er i gang på Great Northern-banen ved Kerteminde. Rasmus Højgaard fra Billund er fortsat den eneste dansker, der har vundet turneringen, som har eksisteret siden 2014.",
+      "publisher": "DR Sporten",
+      "section": "Golf",
+      "publishedAt": "2026-08-13T04:45:00.000Z"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "thomas-rec-2026-08-14-rockwool-medicinal",
+      "mode": "read",
+      "kind": "Analyse",
+      "status": "new",
+      "title": "Hvordan ville dansk økonomi blive påvirket af en stor tilbagegang i medicinalindustrien?",
+      "provider": "ROCKWOOL Fonden",
+      "url": "https://rockwoolfonden.dk/udgivelser/hvordan-ville-dansk-oekonomi-blive-paavirket-af-en-stor-tilbagegang-i-medicinalindustrien/",
+      "availability": "Frit tilgængelig, pdf kan hentes",
+      "commitment": "30 minutter",
+      "description": "Analysen regner på, hvad der sker, hvis produktionen i medicinalindustrien halveres: realt BNP falder på sigt med knap 2 procent, reallønnen med knap 1 procent, og de offentlige finanser forværres med cirka 13 mia. kr., i høj grad på grund af faldende selskabsskat. Effekten sammenlignes med fire andre brancher.",
+      "rationale": "Eksportkoncentrationen i pharma er den vigtigste ubesvarede risiko i dansk økonomi, og den bliver oftest diskuteret uden tal. Her er et modelleret bud på størrelsen, med byggeri, kemi og maskinindustri som sammenligningsgrundlag.",
+      "topics": [
+        "dansk økonomi",
+        "medicinalindustri",
+        "eksportkoncentration",
+        "Novo Nordisk"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://rockwoolfonden.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/06/COLOURBOX66368380.jpg",
+        "credit": "Kilde: ROCKWOOL Fonden",
+        "alt": "ROCKWOOL Fondens illustrationsbillede til analysen af medicinalindustriens betydning for dansk økonomi.",
+        "sourceUrl": "https://rockwoolfonden.dk/udgivelser/hvordan-ville-dansk-oekonomi-blive-paavirket-af-en-stor-tilbagegang-i-medicinalindustrien/"
+      }
+    },
+    {
+      "id": "thomas-rec-2026-08-14-bruegel-china-shock",
+      "mode": "listen",
+      "kind": "Podcast",
+      "status": "available",
+      "title": "Europe's China shock 2.0",
+      "creator": "Yuyun Zhan, Alicia García-Herrero og Philippe Le Corre",
+      "provider": "Bruegel",
+      "url": "https://www.bruegel.org/podcast/europes-china-shock-20",
+      "availability": "Frit tilgængelig",
+      "commitment": "En episode af The Sound of Economics",
+      "description": "Samtalen tager udgangspunkt i, at Kina sidste år meldte et handelsoverskud på 1,2 billioner dollar, og at europæisk industri nu mødes af konkurrence i langt flere brancher end før — kemi, grøn teknologi, medicinalindustri og især bilindustrien.",
+      "rationale": "Værterne spørger, om EU's nye handelsinstrumenter overhovedet er tilstrækkelige, og deres pointe er, at fragmenteringen mellem medlemslandene kan være en større hindring end Beijing selv. Det er den analyse, en dansk handelspolitisk rådgiver skal kunne genfortælle.",
+      "topics": [
+        "EU",
+        "Kina",
+        "handelspolitik",
+        "industripolitik"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "thomas-rec-2026-08-14-global-trade-alert",
+      "mode": "try",
+      "kind": "Data",
+      "status": "available",
+      "title": "Data Center - Global Trade Alert",
+      "provider": "Global Trade Alert",
+      "url": "https://globaltradealert.org/data-center",
+      "availability": "Gratis til ikke-kommerciel brug (CC BY-NC 4.0). Betalt rådgivningsarbejde kræver en kommerciel GTA-licens.",
+      "commitment": "20 minutter til første udtræk",
+      "description": "Databasen over handelspolitiske indgreb kan filtreres og hentes ud som datasæt — blandt andet på eksport- og importrestriktioner, investeringsrestriktioner og told. Der er både fri filtrering og en række færdigbyggede udtræk.",
+      "rationale": "Det er den hurtigste vej fra en handelspolitisk påstand til et kildebelagt tal. Bemærk licensen: databasen er fri til ikke-kommerciel brug, mens betalt rådgivning kræver en kommerciel aftale med Global Trade Alert.",
+      "topics": [
+        "handelspolitik",
+        "told",
+        "data",
+        "protektionisme"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "thomas-rec-2026-08-14-glyptoteket-magt-mode",
+      "mode": "experience",
+      "kind": "Udstilling",
+      "status": "upcoming",
+      "title": "Magt og mode i Romerriget",
+      "provider": "Ny Carlsberg Glyptotek",
+      "url": "https://glyptoteket.dk/udstillinger/kommende-udstillinger/magt-mode",
+      "availability": "Åbner 1. oktober 2026 og vises til 29. marts 2027, Glyptoteket i København",
+      "commitment": "En eftermiddag",
+      "description": "Udstillingen undersøger, hvordan mennesker i Romerriget brugte påklædning og udsmykning til at signalere status, identitet og magt, med udgangspunkt i Glyptotekets samling af romerske portrætskulpturer og indlån fra internationale museer. Det er museets største særudstilling om antikken.",
+      "rationale": "Tre romerske dragter fra British Museum er udlånt for første gang nogensinde — tekstiler, der ellers ligger på magasin, fordi de er for skrøbelige. Det er sjældent, at man kan se den slags materiale fra antikken overhovedet.",
+      "topics": [
+        "kunst",
+        "antikken",
+        "Rom",
+        "København"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {
+    "sourceDiversity": 76,
+    "primarySourceShare": 58,
+    "outsideProfileShare": 38,
+    "danishHeadlineShare": 100
+  }
+}
