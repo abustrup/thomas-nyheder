@@ -1,0 +1,932 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-08-16-daily",
+  "date": "2026-08-16",
+  "generatedAt": "2026-08-16T04:40:00.000Z",
+  "readingMinutes": 11,
+  "title": "Thomas' Nyheder",
+  "dek": "Søndag 16. august 2026. En hollandsk appelret åbner det danske udbyttekrav mod finansmanden Frank Vogel, Mekka-pagten består ikke sin første prøve, og Apple-forhandleren Humac lukker alle sine butikker.",
+  "profileWeights": {
+    "importance": 22,
+    "decisionValue": 20,
+    "novelty": 16,
+    "sourceQuality": 16,
+    "personalRelevance": 18,
+    "contrast": 8
+  },
+  "stories": [
+    {
+      "id": "thomas-2026-08-16-vogel-udbytteskat",
+      "eventKey": "frank-vogel-udbytteskat-appelret-amsterdam-2026-08",
+      "materialFacts": [
+        "Appelretten i Amsterdam har givet de danske skattemyndigheder lov til at foere et krav mod finansmanden Frank Vogel",
+        "Kravet lyder paa cirka 95 millioner kroner mod Vogel og en raekke af hans selskaber",
+        "En hollandsk domstol havde siden 2024 blokeret sagen; dommen blev offentliggjort i slutningen af juli",
+        "Sagen udspringer af tre canadiske pensionsfondes udbytterefusioner mellem 2013 og 2015"
+      ],
+      "section": "Skattesager og retsopgør",
+      "headline": "Danmark tager et stik i retsopgør mod hollandsk milliardær",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/penge/danmark-tager-et-stik-i-retsopgoer-mod-hollandsk-milliardaer",
+      "subheadline": "Appelretten i Amsterdam ophæver en blokering fra 2024. Skattestyrelsen kan nu forfølge et krav på cirka 95 millioner kroner mod finansmanden Frank Vogel.",
+      "body": [
+        "Appelretten i Amsterdam har givet de danske skattemyndigheder lov til at føre et krav på cirka 95 millioner kroner mod den hollandske finansmand Frank Vogel og en række af hans selskaber. En hollandsk domstol havde siden 2024 blokeret sagen. Dommen, offentliggjort i slutningen af juli, omstøder den blokering.",
+        "Sagen udspringer af 2020, hvor de danske myndigheder sagsøgte tre små canadiske pensionsfonde for mellem 2013 og 2015 at have hentet pengene ud af statskassen uden at eje de aktier, de fik udbytteskat refunderet for. Myndighederne kalder Vogel \"hjernen bag\". Han ønsker ikke at kommentere sagen, oplyser hans advokat."
+      ],
+      "whyItMatters": "Det, der flytter sig, er ikke beløbet, men rækkevidden: Danmark kan nu forfølge en privatperson ved en hollandsk domstol uden først at afvente udfaldet i Canada.",
+      "analysis": "Ifølge den hollandske dom slog Landsskatteretten 13. maj sidste år fast, at pensionsfondene ikke havde løftet bevisbyrden for at eje aktierne. Den canadiske sag ventes efter myndighedernes egen vurdering først afgjort om flere år.",
+      "counterpoint": "Tilladelsen til at føre sagen er ikke en afgørelse af den. Vogels advokat kaldte for år siden det danske krav \"en falsk anklage\".",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/cvibra5j/vogel-org_sloeret_crop001.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR Nyheder (Foto: Privatfoto)",
+        "alt": "Privatfoto anvendt af DR til historien om det danske skattekrav: en gråhåret mand i hvid skjorte sidder smilende på en restaurant med et glas i hånden, mens gæsterne bag ham er slørede.",
+        "sourceUrl": "https://www.dr.dk/nyheder/penge/danmark-tager-et-stik-i-retsopgoer-mod-hollandsk-milliardaer"
+      },
+      "topics": [
+        "udbytteskat",
+        "skat",
+        "Holland",
+        "retssag"
+      ],
+      "entities": [
+        "Frank Vogel",
+        "Skattestyrelsen",
+        "Landsskatteretten",
+        "Appelretten i Amsterdam"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 84,
+        "decisionValue": 62,
+        "novelty": 78,
+        "sourceQuality": 86,
+        "personalRelevance": 66,
+        "contrast": 52
+      },
+      "claims": [
+        {
+          "text": "Appelretten i Amsterdam har ophævet en blokering, så de danske skattemyndigheder kan føre et krav på cirka 95 millioner kroner mod Frank Vogel og en række af hans selskaber.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/danmark-tager-et-stik-i-retsopgoer-mod-hollandsk-milliardaer"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Ifølge den hollandske dom slog Landsskatteretten 13. maj sidste år fast, at de canadiske pensionsfonde ikke havde løftet bevisbyrden for ejerskab til aktierne.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/danmark-tager-et-stik-i-retsopgoer-mod-hollandsk-milliardaer"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Vogels advokat Jasper Hagers kaldte for år siden det danske krav en falsk anklage.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/danmark-tager-et-stik-i-retsopgoer-mod-hollandsk-milliardaer"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Danmark tager et stik i retsopgør mod hollandsk milliardær",
+          "publisher": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/penge/danmark-tager-et-stik-i-retsopgoer-mod-hollandsk-milliardaer",
+          "publishedAt": "2026-08-15T11:00:00.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-2026-08-16-mjda-mekka",
+      "eventKey": "tyrkiet-saudi-pakistan-forsvarspagt-mekka-2026-08",
+      "materialFacts": [
+        "Tyrkiet, Saudi-Arabien og Pakistan underskrev Mecca Joint Defense Agreement i Mekka i begyndelsen af august",
+        "Pakistans udenrigsministerium siger, at et eksternt vaebnet angreb paa et af de tre lande betragtes som et angreb paa dem alle",
+        "Pakistans premierminister skrev, at MJDA hverken ophaever eller erstatter eksisterende aftaler",
+        "Houthierne angreb faa dage efter igen saudiarabiske olieanlaeg, uden at Tyrkiet eller Pakistan blandede sig"
+      ],
+      "section": "Sikkerhed og geopolitik",
+      "headline": "En ny alliance er født i Mellemøsten – hvad betyder det for USA og Nato?",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/en-ny-alliance-er-foedt-i-mellemoesten-hvad-betyder-det-usa-og-nato",
+      "subheadline": "Tyrkiet, Saudi-Arabien og Pakistan har underskrevet en forsvarspagt med en formulering, der ligner Natos artikel 5. Et Nato-land binder sig dermed til to lande uden for alliancen.",
+      "body": [
+        "Tyrkiet, Saudi-Arabien og Pakistan underskrev i begyndelsen af august Mecca Joint Defense Agreement i Mekka. Ifølge Pakistans udenrigsministerium vil et eksternt væbnet angreb på et af de tre lande blive betragtet som et angreb på dem alle.",
+        "De tre lægger hver sit i puljen: saudisk økonomisk tyngde, tyrkisk militærindustri og et stort pakistansk militær, som det eneste med atomvåben. Pakistans premierminister skrev, at pagten ikke erstatter eksisterende aftaler."
+      ],
+      "whyItMatters": "Tyrkiet råder over Natos næststørste militær og er omfattet af artikel 5. Nu binder det sig parallelt til to lande uden for alliancen.",
+      "analysis": "Khalid al-Jaber fra Middle East Council on Global Affairs ser en region, der \"forbereder sig på en mulig amerikansk tilbagetrækning\".",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/dy1dc1i0/20260807-131526-2.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR Nyheder (Foto: Murat Cetinmuhurdar, Reuters/Ritzau Scanpix)",
+        "alt": "DR's billede til historien, ifølge billedteksten af kronprins Mohammed bin Salman, præsident Recep Tayyip Erdogan og premierminister Shehbaz Sharif. To giver hånd, alle tre holder en mappe.",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/en-ny-alliance-er-foedt-i-mellemoesten-hvad-betyder-det-usa-og-nato"
+      },
+      "topics": [
+        "forsvar",
+        "Mellemøsten",
+        "Nato",
+        "Tyrkiet",
+        "Pakistan"
+      ],
+      "entities": [
+        "Tyrkiet",
+        "Saudi-Arabien",
+        "Pakistan",
+        "Hakan Fidan",
+        "Nato"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 88,
+        "decisionValue": 58,
+        "novelty": 82,
+        "sourceQuality": 80,
+        "personalRelevance": 54,
+        "contrast": 66
+      },
+      "claims": [
+        {
+          "text": "Tyrkiet, Saudi-Arabien og Pakistan underskrev Mecca Joint Defense Agreement i Mekka i begyndelsen af august 2026.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/en-ny-alliance-er-foedt-i-mellemoesten-hvad-betyder-det-usa-og-nato"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Pakistans premierminister skrev kort efter underskrivelsen, at MJDA hverken ophæver eller erstatter eksisterende bilaterale eller multilaterale aftaler.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/en-ny-alliance-er-foedt-i-mellemoesten-hvad-betyder-det-usa-og-nato"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Houthierne angreb få dage efter underskrivelsen igen saudiarabiske olieanlæg, uden at Tyrkiet eller Pakistan blandede sig.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/en-ny-alliance-er-foedt-i-mellemoesten-hvad-betyder-det-usa-og-nato"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "En ny alliance er født i Mellemøsten – hvad betyder det for USA og Nato?",
+          "publisher": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/udland/en-ny-alliance-er-foedt-i-mellemoesten-hvad-betyder-det-usa-og-nato",
+          "publishedAt": "2026-08-15T17:10:00.000Z",
+          "kind": "reporting"
+        }
+      ],
+      "counterpoint": "Løftet holdt ikke ved første lejlighed: Houthierne angreb få dage senere igen saudiarabiske olieanlæg, \"men hverken Tyrkiet eller Pakistan blandede sig\"."
+    },
+    {
+      "id": "thomas-2026-08-16-humac-rekonstruktion",
+      "eventKey": "humac-rekonstruktion-butikslukning-2026-08",
+      "materialFacts": [
+        "Humac gaar i rekonstruktion og lukker midlertidigt alle 14 butikker i Danmark samt webshoppen",
+        "Sagen behandles i skifteretten under Soe- og Handelsretten",
+        "Ejeren C&C Denmark tabte godt 27 millioner kroner i 2025 og har hverken egenkapital eller likviditet",
+        "Selskabet har akut brug for knap 30 millioner kroner"
+      ],
+      "section": "Detailhandel",
+      "headline": "Humac i alvorlige problemer efter kæmpe-underskud - lukker alle danske butikker i redningsforsøg",
+      "primarySourceUrl": "https://www.computerworld.dk/art/296507/humac-i-alvorlige-problemer-efter-kaempe-underskud-lukker-alle-danske-butikker-i-redningsforsoeg",
+      "subheadline": "Apple-forhandleren går i rekonstruktion og lukker 14 butikker og webshoppen. Det italienske moderselskab er selv i rekonstruktion.",
+      "body": [
+        "Apple-forhandleren Humac er gået i rekonstruktion og har midlertidigt lukket alle sine 14 danske butikker og sin webshop. Skifteretten under Sø- og Handelsretten skal nu vurdere, om selskabet kan overleve, helt eller delvist salg og kreditoraftaler indbefattet. Lykkes det ikke, ender det med konkurs.",
+        "Ejeren, C&C Denmark, tabte godt 27 millioner kroner i 2025 ifølge årsregnskabet offentliggjort for en måneds tid siden. Der er hverken egenkapital eller likviditet tilbage, og selskabet mangler akut knap 30 millioner kroner."
+      ],
+      "whyItMatters": "Kæden har rødder tilbage til 1993 som AUC Unicom og har heddet Humac siden 2006. Falder et specialiseret led bort, flytter salget til producenten og kæderne.",
+      "analysis": "Ledelsen skrev i regnskabet, at den forventede at kunne skaffe kapitalen. Rekonstruktionen kom en måned senere, og at det italienske moderselskab selv er i rekonstruktion, begrænser hvor pengene kan komme fra.",
+      "image": {
+        "url": "https://www.computerworld.dk/fil/230578?width=1200&height=630&focus=1",
+        "credit": "Kilde: Computerworld",
+        "alt": "Computerworlds topbillede til historien: facaden af en Humac-butik med lysende logo og et Apple Premium Reseller-skilt, set gennem glasruden ind mod udstillede computere og tilbehør.",
+        "sourceUrl": "https://www.computerworld.dk/art/296507/humac-i-alvorlige-problemer-efter-kaempe-underskud-lukker-alle-danske-butikker-i-redningsforsoeg"
+      },
+      "topics": [
+        "detailhandel",
+        "rekonstruktion",
+        "Danmark",
+        "Apple"
+      ],
+      "entities": [
+        "Humac",
+        "C&C Denmark",
+        "Sø- og Handelsretten"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 66,
+        "decisionValue": 62,
+        "novelty": 70,
+        "sourceQuality": 72,
+        "personalRelevance": 62,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Humac er gået i rekonstruktion og har midlertidigt lukket alle 14 danske butikker og webshoppen.",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/296507/humac-i-alvorlige-problemer-efter-kaempe-underskud-lukker-alle-danske-butikker-i-redningsforsoeg"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "C&C Denmark tabte godt 27 millioner kroner i 2025 og har akut brug for knap 30 millioner kroner.",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/296507/humac-i-alvorlige-problemer-efter-kaempe-underskud-lukker-alle-danske-butikker-i-redningsforsoeg"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Det italienske moderselskab C&C er selv i gang med en rekonstruktion.",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/296507/humac-i-alvorlige-problemer-efter-kaempe-underskud-lukker-alle-danske-butikker-i-redningsforsoeg"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Humac i alvorlige problemer efter kæmpe-underskud - lukker alle danske butikker i redningsforsøg",
+          "publisher": "Computerworld",
+          "url": "https://www.computerworld.dk/art/296507/humac-i-alvorlige-problemer-efter-kaempe-underskud-lukker-alle-danske-butikker-i-redningsforsoeg",
+          "publishedAt": "2026-08-14T09:43:00.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-2026-08-16-roskilde-knivdrab",
+      "eventKey": "roskilde-knivdrab-puttefest-gymnasieelev-2026-08",
+      "materialFacts": [
+        "En 16-aarig dreng doede efter knivstik ved Louisevej taet paa Folkeparken i Roskilde fredag aften",
+        "En anden 16-aarig er anholdt og skulle fremstilles i grundlovsforhoer loerdag",
+        "Vicepolitiinspektoer Michael Sehested kalder det et internt opgoer mellem de to",
+        "Offeret var elev paa Himmelev Gymnasium"
+      ],
+      "section": "Danmark i dag",
+      "headline": "Gymnasieelev knivdræbt under 'internt opgør' til puttefest",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/teenager-er-knivdraebt-i-roskilde-under-internt-opgoer",
+      "subheadline": "En 16-årig døde efter knivstik ved Folkeparken i Roskilde. En jævnaldrende er anholdt, og ifølge DR tyder intet på en forbindelse til kriminelle miljøer.",
+      "body": [
+        "En 16-årig dreng døde fredag aften efter knivstik ved Louisevej tæt på Folkeparken i Roskilde. En jævnaldrende er anholdt og skulle ifølge politiet fremstilles i grundlovsforhør lørdag. Vicepolitiinspektør Michael Sehested fra Midt- og Vestsjællands Politi beskriver det som et internt opgør mellem de to, der eskalerede.",
+        "Det skete til en puttefest, et tilbagevendende arrangement for nye gymnasieelever i parken ved skolestart. Himmelev Gymnasium oplyser, at offeret var elev på skolen. Ifølge DR tyder intet på, at drabet har forbindelse til kriminelle miljøer."
+      ],
+      "whyItMatters": "Det er den historie, hele Danmark læser i dag, og der er foreløbig intet, der peger mod kriminelle miljøer.",
+      "analysis": "Politiet fandt spor fra gerningsmanden på gerningsstedet og nåede hurtigt frem til ham. Klaus Walmod fra Natteravnene i Roskilde fortæller, at parken hurtigt fyldtes med udrykning, og at en lægehelikopter blev tilkaldt.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/yuwkzfql/20260814-211802-l_crop001.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR Nyheder (Foto: Steven Knap, Ritzau Scanpix)",
+        "alt": "DR's billede fra afspærringen i Roskilde: betjente står bag rød-hvid afspærringstape på en villavej i aftenlys, med parkerede biler til venstre og en politibil mærket indsatsleder til højre.",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/teenager-er-knivdraebt-i-roskilde-under-internt-opgoer"
+      },
+      "topics": [
+        "kriminalitet",
+        "Roskilde",
+        "unge",
+        "Danmark"
+      ],
+      "entities": [
+        "Midt- og Vestsjællands Politi",
+        "Michael Sehested",
+        "Himmelev Gymnasium"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 74,
+        "decisionValue": 34,
+        "novelty": 76,
+        "sourceQuality": 82,
+        "personalRelevance": 46,
+        "contrast": 38
+      },
+      "claims": [
+        {
+          "text": "En 16-årig dreng døde efter knivstik ved Louisevej tæt på Folkeparken i Roskilde, og en jævnaldrende er anholdt.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/teenager-er-knivdraebt-i-roskilde-under-internt-opgoer"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Vicepolitiinspektør Michael Sehested beskriver hændelsen som et internt opgør mellem de to 16-årige.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/teenager-er-knivdraebt-i-roskilde-under-internt-opgoer"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Himmelev Gymnasium oplyser, at offeret var elev på skolen.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/teenager-er-knivdraebt-i-roskilde-under-internt-opgoer"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gymnasieelev knivdræbt under 'internt opgør' til puttefest",
+          "publisher": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/indland/teenager-er-knivdraebt-i-roskilde-under-internt-opgoer",
+          "publishedAt": "2026-08-15T06:33:07.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-2026-08-16-noah-vilum-port",
+      "eventKey": "sydals-11-aarig-redder-mor-traeport-2026-08",
+      "materialFacts": [
+        "En cirka 400 kilo tung traeport vaeltede ned over Malene Jensen paa familiens ejendom paa Sydals",
+        "Hendes 11-aarige soen Noah Vilum fik en saekkevogn ind under porten og loeftede den nok til at hun kom fri",
+        "Han ringede til alarmcentralen, sin morfar og sine storebroedre",
+        "Malene Jensen fik brud paa nederste laendehvirvel og paa begge sider af baekkenet og var indlagt i 13 dage"
+      ],
+      "section": "Danmark i dag",
+      "headline": "Hun vågnede stolt i ambulancen: 11-årig reddede sin mor fri under voldsom ulykke",
+      "primarySourceUrl": "https://nyheder.tv2.dk/samfund/2026-08-15-hun-vaagnede-stolt-i-ambulancen-11-aarig-reddede-sin-mor-fri-under-voldsom-ulykke",
+      "subheadline": "En 400 kilo tung port væltede ned over Malene Jensen på Sydals. Ingen voksne var i nærheden, kun hendes 11-årige søn.",
+      "body": [
+        "En cirka 400 kilo tung træport hoppede af skinnen og væltede ned over Malene Jensen på familiens nykøbte ejendom på Sydals. Ingen andre voksne var til stede. Hendes 11-årige søn, Noah Vilum, forsøgte først selv at løfte porten og kunne holde den kortvarigt, men måtte lægge den ned igen.",
+        "Han fandt en sækkevogn i en nærliggende lade, fik den ind under porten og løftede den lige længe nok til, at moderen kom fri. Undervejs ringede han til alarmcentralen, sin morfar og sine storebrødre. Hun har brud på nederste lændehvirvel og på begge sider af bækkenet."
+      ],
+      "whyItMatters": "En historie om, at det gik godt, fortalt lige så præcist som en om, at det gik galt.",
+      "analysis": "Malene Jensen husker kun et glimt af, at hun ramte jorden, og derefter intet, før hun kom til sig selv i ambulancen. Hun var indlagt i 13 dage i Aabenraa og Odense og er fortsat bundet til kørestol og seng det meste af tiden.",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/a/e/4/ae4e4fa7-da8a-45bb-b3bd-71bc89b171af?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MSwwLDExNDUsNjQ0&s=b1e9a4b6316f13d85dce1085666139ab",
+        "credit": "Kilde: TV 2 (Foto: Privatfoto)",
+        "alt": "TV 2's billede til historien, ifølge mediets egen billedtekst et privatfoto af Malene Jensen og hendes 11-årige søn Noah Vilum.",
+        "sourceUrl": "https://nyheder.tv2.dk/samfund/2026-08-15-hun-vaagnede-stolt-i-ambulancen-11-aarig-reddede-sin-mor-fri-under-voldsom-ulykke"
+      },
+      "topics": [
+        "Danmark",
+        "ulykke",
+        "konstruktiv journalistik"
+      ],
+      "entities": [
+        "Malene Jensen",
+        "Noah Vilum",
+        "Sydals"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 44,
+        "decisionValue": 22,
+        "novelty": 72,
+        "sourceQuality": 74,
+        "personalRelevance": 40,
+        "contrast": 70
+      },
+      "claims": [
+        {
+          "text": "Noah Vilum, 11 år, fik en sækkevogn ind under en cirka 400 kilo tung træport og løftede den nok til, at hans mor kom fri.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/samfund/2026-08-15-hun-vaagnede-stolt-i-ambulancen-11-aarig-reddede-sin-mor-fri-under-voldsom-ulykke"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Malene Jensen fik brud på nederste lændehvirvel og på begge sider af bækkenet og var indlagt i 13 dage.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/samfund/2026-08-15-hun-vaagnede-stolt-i-ambulancen-11-aarig-reddede-sin-mor-fri-under-voldsom-ulykke"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Hun vågnede stolt i ambulancen: 11-årig reddede sin mor fri under voldsom ulykke",
+          "publisher": "TV 2",
+          "url": "https://nyheder.tv2.dk/samfund/2026-08-15-hun-vaagnede-stolt-i-ambulancen-11-aarig-reddede-sin-mor-fri-under-voldsom-ulykke",
+          "publishedAt": "2026-08-15T20:22:16.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-2026-08-16-dgc-finalerunde",
+      "eventKey": "danish-golf-championship-kerteminde-finalerunde-2026-08",
+      "materialFacts": [
+        "Jeff Winther er bedste dansker paa sjettepladsen med ti slag under par foer finalerunden",
+        "Rasmus Hoejgaard deler syvendepladsen med ni slag under par",
+        "Franske Romain Langasque foerer turneringen",
+        "Praemiepuljen er steget fra 2,75 til 3 millioner dollar siden sidste aar"
+      ],
+      "section": "Sport",
+      "headline": "Danskere snuser til toppen før finalerunden i Kerteminde",
+      "primarySourceUrl": "https://sport.tv2.dk/golf/2026-08-15-danskere-snuser-til-toppen-foer-finalerunden-i-kerteminde",
+      "subheadline": "Jeff Winther og Rasmus Højgaard ligger begge i top-10 ved Danish Golf Championship. Finalerunden spilles i dag.",
+      "body": [
+        "38-årige Jeff Winther er bedste dansker på sjettepladsen med ti slag under par før søndagens finalerunde ved Danish Golf Championship i Kerteminde. Han lavede lørdag syv birdies og tre bogeys. Franske Romain Langasque fører fire slag foran ham.",
+        "Rasmus Højgaard, 25 år, deler syvendepladsen med ni slag under par efter en dobbeltbogey på hul 6 og en eagle på hul 16. Jacob Skov Olesen og Marcus Helligkilde deler 15.-pladsen, mens Lucas Bjerregaard er faldet til 52.-pladsen."
+      ],
+      "whyItMatters": "Det er første gang, banen i Kerteminde er ramme om turneringen, og præmiepuljen er steget fra 2,75 til 3 millioner dollar, knap 19,5 millioner kroner, siden sidste år.",
+      "analysis": "Danmark har med undtagelse af 2020 været vært for en DP World Tour-turnering siden 2014. Næsten hele den danske elite deltager; kun Nicolai Højgaard mangler, fordi han spiller slutspil på PGA Touren.",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/e/e/e/eeeff030-b6ed-49e4-b8f1-2da3c61db472?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCw4MzEsODAzOSw0NTI4&s=b686918167a10fed951fad41e89e4bb0",
+        "credit": "Kilde: TV 2 (Foto: Frank Cilius, Ritzau Scanpix)",
+        "alt": "TV 2's billede til historien om Danish Golf Championship, ifølge mediets billedtekst af Rasmus Højgaard og Jeff Winther, der begge ligger i top-10.",
+        "sourceUrl": "https://sport.tv2.dk/golf/2026-08-15-danskere-snuser-til-toppen-foer-finalerunden-i-kerteminde"
+      },
+      "topics": [
+        "golf",
+        "Danmark",
+        "DP World Tour"
+      ],
+      "entities": [
+        "Jeff Winther",
+        "Rasmus Højgaard",
+        "Romain Langasque",
+        "Danish Golf Championship"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 40,
+        "decisionValue": 26,
+        "novelty": 62,
+        "sourceQuality": 70,
+        "personalRelevance": 78,
+        "contrast": 34
+      },
+      "claims": [
+        {
+          "text": "Jeff Winther ligger på sjettepladsen med ti slag under par, fire slag efter føreren Romain Langasque.",
+          "sourceUrls": [
+            "https://sport.tv2.dk/golf/2026-08-15-danskere-snuser-til-toppen-foer-finalerunden-i-kerteminde"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Præmiepuljen ved Danish Golf Championship er steget fra 2,75 til 3 millioner dollar siden sidste år.",
+          "sourceUrls": [
+            "https://sport.tv2.dk/golf/2026-08-15-danskere-snuser-til-toppen-foer-finalerunden-i-kerteminde"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Danskere snuser til toppen før finalerunden i Kerteminde",
+          "publisher": "TV 2",
+          "url": "https://sport.tv2.dk/golf/2026-08-15-danskere-snuser-til-toppen-foer-finalerunden-i-kerteminde",
+          "publishedAt": "2026-08-15T15:16:23.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-2026-08-16-dorgu-united-milan",
+      "eventKey": "manchester-united-ac-milan-testkamp-dorgu-2026-08",
+      "materialFacts": [
+        "Manchester United tabte 2-4 til AC Milan i en traeningskamp i Polen loerdag",
+        "Harry Maguire bragte United foran 1-0 efter to minutter, og Samuel Chukwueze udlignede til 1-1",
+        "Patrick Dorgu scorede godt fem minutter efter pausen efter en daarlig tilbagelaegning",
+        "AC Milans nye cheftraener er Ruben Amorim, der tidligere traente Manchester United"
+      ],
+      "section": "Sport",
+      "headline": "Dorgu scorer i United-nedtur",
+      "primarySourceUrl": "https://sport.tv2.dk/fodbold/2026-08-15-dorgu-scorer-i-united-nedtur",
+      "subheadline": "Den 21-årige danske landsholdsspiller scorede efter pausen, men blev skiftet ud efter en time og så holdet tabe 2-4 i Polen.",
+      "body": [
+        "Patrick Dorgu scorede for Manchester United i lørdagens træningskamp mod AC Milan i Polen. Harry Maguire headede United foran 1-0 efter to minutter, og Samuel Chukwueze udlignede til 1-1 senere i første halvleg. Dorgus scoring kom godt fem minutter efter pausen, da den 21-årige dansker udnyttede en dårlig tilbagelægning i det italienske forsvar.",
+        "Dorgu blev skiftet ud efter en time. Derefter kollapsede United, og Alphadjo Cisse, Gonçalo Ramos og Ruben Loftus-Cheek sørgede for Milans sejr på 4-2. Kampen var et gensyn mellem Milans nye cheftræner, Ruben Amorim, og hans tidligere klub."
+      ],
+      "whyItMatters": "Dorgu er den danske spiller tættest på en fast plads i den engelske storklubs hold, og en optaktskamp er stedet, hvor den slags afgøres inden sæsonstart.",
+      "analysis": "Amorim mødte som Milan-træner sin tidligere klub, og hans nye hold vendte kampen. For United er de tre mål efter Dorgus scoring det, der bliver hængende.",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/2/d/a/2da1964a-19e6-4964-b0fc-632fbe03bedf?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=NjAwLDYyLDIwMDAsMTEyNA&s=42a20ec2ce2462a1c82fe27f2ee70a95",
+        "credit": "Kilde: TV 2 (Foto: Cathal Mcnaughton, Ritzau Scanpix)",
+        "alt": "TV 2's billede til historien, ifølge mediets billedtekst af Patrick Dorgu, der scorede forgæves for Manchester United i testkampen.",
+        "sourceUrl": "https://sport.tv2.dk/fodbold/2026-08-15-dorgu-scorer-i-united-nedtur"
+      },
+      "topics": [
+        "fodbold",
+        "Manchester United",
+        "Danmark"
+      ],
+      "entities": [
+        "Patrick Dorgu",
+        "Manchester United",
+        "AC Milan",
+        "Ruben Amorim"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 36,
+        "decisionValue": 18,
+        "novelty": 58,
+        "sourceQuality": 68,
+        "personalRelevance": 80,
+        "contrast": 30
+      },
+      "claims": [
+        {
+          "text": "Patrick Dorgu scorede godt fem minutter efter pausen, og Manchester United tabte 2-4 til AC Milan i en træningskamp i Polen.",
+          "sourceUrls": [
+            "https://sport.tv2.dk/fodbold/2026-08-15-dorgu-scorer-i-united-nedtur"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Harry Maguire scorede til 1-0 efter to minutter, og Samuel Chukwueze udlignede til 1-1 i første halvleg.",
+          "sourceUrls": [
+            "https://sport.tv2.dk/fodbold/2026-08-15-dorgu-scorer-i-united-nedtur"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "AC Milans nye cheftræner Ruben Amorim mødte sin tidligere klub Manchester United.",
+          "sourceUrls": [
+            "https://sport.tv2.dk/fodbold/2026-08-15-dorgu-scorer-i-united-nedtur"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Dorgu scorer i United-nedtur",
+          "publisher": "TV 2",
+          "url": "https://sport.tv2.dk/fodbold/2026-08-15-dorgu-scorer-i-united-nedtur",
+          "publishedAt": "2026-08-15T17:31:48.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-2026-08-16-riksbanken-renovering",
+      "eventKey": "riksbanken-brunkebergstorg-renovering-billeder-2026-08",
+      "materialFacts": [
+        "Riksbankens lokaler paa Brunkebergstorg i Stockholm skal renoveres for 3,3 milliarder svenske kroner",
+        "De foerste billeder af de renoverede lokaler er nu offentliggjort",
+        "Ifoelge Svenska Dagbladet er beloebet naesten tre gange hoejere end renoveringen af Sveriges nationalmuseum",
+        "Riksbanken har haft til huse i den fredede bygning i 50 aar, og der er ikke renoveret gennemgribende siden 1976"
+      ],
+      "section": "Nordisk oekonomi",
+      "headline": "Sveriges sentralbank skal pusses opp for 3,3 milliarder",
+      "primarySourceUrl": "https://e24.no/internasjonal-oekonomi/i/k0BQkQ/sveriges-sentralbank-skal-pusses-opp-for-3-3-milliarder",
+      "subheadline": "De første billeder af Riksbankens renovering er offentliggjort. Marmorgarderobe og dampbad har udløst kritik på bankens egne sociale medier.",
+      "body": [
+        "Sveriges Riksbank skal renovere sine lokaler på Brunkebergstorg i Stockholm for 3,3 milliarder svenske kroner. Prisen blev kendt før sommeren; det nye er, at de første billeder af de renoverede lokaler er lagt ud. Ifølge Svenska Dagbladet er beløbet næsten tre gange højere end renoveringen af Sveriges nationalmuseum.",
+        "Billeder af en marmorbeklædt garderobe med dampbad har udløst kritik på bankens Instagram- og Facebook-sider, hvor brugere peger på behovet for lærere og sygeplejersker. Andre forsvarer projektet med, at bygningen er fredet."
+      ],
+      "whyItMatters": "En centralbank, der bruger 3,3 milliarder på sit eget hus, bruger også af sin autoritet over for et publikum, der samtidig hører om mangel på lærere.",
+      "analysis": "Riksbanken afviser at have hævet standarden og siger, at den blot er opretholdt. Banken har haft til huse i bygningen i 50 år, og der er ikke renoveret større siden 1976. Beløbet er et første estimat.",
+      "image": {
+        "url": "https://akamai.vgc.no/v2/images/54d156da-4164-3142-8dd7-8fbc58c7178a?format=auto&w=1080&s=fcf8ce0335c20829ddcaa5845c1c175abc2c815f",
+        "credit": "Foto: Bob Strong, Reuters/NTB, via E24",
+        "alt": "E24's billede af Riksbankens bygning på Brunkebergstorg 11 i Stockholm: en mørk stenfacade set nedefra gennem bladløse træer med lyskæder. Arkivfoto taget om vinteren.",
+        "sourceUrl": "https://e24.no/internasjonal-oekonomi/i/k0BQkQ/sveriges-sentralbank-skal-pusses-opp-for-3-3-milliarder"
+      },
+      "topics": [
+        "Sverige",
+        "centralbank",
+        "offentlige udgifter"
+      ],
+      "entities": [
+        "Riksbanken",
+        "Brunkebergstorg",
+        "Svenska Dagbladet"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 48,
+        "decisionValue": 30,
+        "novelty": 66,
+        "sourceQuality": 70,
+        "personalRelevance": 52,
+        "contrast": 62
+      },
+      "claims": [
+        {
+          "text": "Riksbankens lokaler på Brunkebergstorg i Stockholm skal renoveres for 3,3 milliarder svenske kroner.",
+          "sourceUrls": [
+            "https://e24.no/internasjonal-oekonomi/i/k0BQkQ/sveriges-sentralbank-skal-pusses-opp-for-3-3-milliarder"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Ifølge Svenska Dagbladet er prisen næsten tre gange højere end renoveringen af Sveriges nationalmuseum.",
+          "sourceUrls": [
+            "https://e24.no/internasjonal-oekonomi/i/k0BQkQ/sveriges-sentralbank-skal-pusses-opp-for-3-3-milliarder"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Riksbanken har haft til huse i den fredede bygning i 50 år, og der er ikke foretaget større renoveringer siden 1976.",
+          "sourceUrls": [
+            "https://e24.no/internasjonal-oekonomi/i/k0BQkQ/sveriges-sentralbank-skal-pusses-opp-for-3-3-milliarder"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Sveriges sentralbank skal pusses opp for 3,3 milliarder",
+          "publisher": "E24",
+          "url": "https://e24.no/internasjonal-oekonomi/i/k0BQkQ/sveriges-sentralbank-skal-pusses-opp-for-3-3-milliarder",
+          "publishedAt": "2026-08-15T10:29:04.000Z",
+          "kind": "reporting"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "headline": "Højrefløjen angriber høje energipriser overalt. Deres nye våben kan ryste Europas klimapolitik",
+      "url": "https://www.altinget.dk/artikel/energipriser-er-hoejrefloejens-nye-slagnummer-det-foerer-nu-til-opgoer-med-baerende-soejle-i-europas-klimapolitik",
+      "publisher": "Altinget",
+      "section": "EU og klimapolitik",
+      "publishedAt": "2026-08-16T00:00:00.000Z",
+      "summary": "Altingets EU-korrespondent Peter Ingemann Nielsen skriver, at en reform af EU's vigtigste klimaværktøj markerer kulminationen på højrefløjens felttog mod dyr grøn regulering, og at alle øjne i Europa-Parlamentet hviler på én gruppe. Artiklen er bag betalingsmur; kun rubrik og manchet er læst her.",
+      "text": "Højrefløjen angriber høje energipriser overalt. Deres nye våben kan ryste Europas klimapolitik"
+    },
+    {
+      "headline": "Efter afpresningsforsøg: Hackere frigiver store mængder hemmelig Novo Nordisk-data - lægger alt gratis ud",
+      "url": "https://www.computerworld.dk/art/296511/efter-afpresningsforsoeg-hackere-frigiver-store-maengder-hemmelig-novo-nordisk-data-laegger-alt-gratis-ud",
+      "publisher": "Computerworld",
+      "section": "Cybersikkerhed",
+      "publishedAt": "2026-08-14T11:45:00.000Z",
+      "summary": "En hackergruppe har efter et afpresningsforsøg offentliggjort stjålne data fra Novo Nordisk og hævder ifølge Computerworld at have 30 modeller, 70 datasæt og et halvt terabyte mikroskopibilleder fra selskabets egen laboratorieplatform. Artiklens brødtekst er bag Premium-mur; kun manchetten er læst her.",
+      "text": "Efter afpresningsforsøg: Hackere frigiver store mængder hemmelig Novo Nordisk-data - lægger alt gratis ud"
+    },
+    {
+      "headline": "Flere evakueret som følge af rekordstor naturbrand i Belgien",
+      "url": "https://www.dr.dk/nyheder/udland/eu/flere-evakueret-som-foelge-af-rekordstor-naturbrand-i-belgien",
+      "publisher": "DR Nyheder",
+      "section": "Klima og beredskab",
+      "publishedAt": "2026-08-16T00:39:18.000Z",
+      "summary": "Den belgiske naturbrand havde sent lørdag aften bredt sig til mere end 2.700 hektar og er landets største i nyere tid. Flere er evakueret, og EU sendte lørdag tre helikoptere og to brandslukningsfly efter anmodning fra Belgien.",
+      "text": "Flere evakueret som følge af rekordstor naturbrand i Belgien"
+    },
+    {
+      "headline": "Briter mødes med sms-advarsler og forbud mod køb af engangsgrill",
+      "url": "https://www.dr.dk/nyheder/udland/briter-moedes-med-sms-advarsler-og-forbud-mod-koeb-af-engangsgrill",
+      "publisher": "DR Nyheder",
+      "section": "Klima og beredskab",
+      "publishedAt": "2026-08-15T08:03:31.000Z",
+      "summary": "Britiske myndigheder frygter flere skovbrande i et knastørt landskab og tager sms-advarsler og forbud mod salg af engangsgrill i brug.",
+      "text": "Briter mødes med sms-advarsler og forbud mod køb af engangsgrill"
+    },
+    {
+      "headline": "Kameraer får bilister til at stoppe ved jernbaneoverkørsler",
+      "url": "https://www.dr.dk/nyheder/indland/kameraer-faar-bilister-til-stoppe-ved-jernbaneoverkoersler",
+      "publisher": "DR Nyheder",
+      "section": "Infrastruktur",
+      "publishedAt": "2026-08-15T14:30:00.000Z",
+      "summary": "Efter opsætning af kameraer ved seks jernbaneoverkørsler i Sønderjylland stopper bilisterne nu, når klokkerne ringer og varselssignalerne blinker.",
+      "text": "Kameraer får bilister til at stoppe ved jernbaneoverkørsler"
+    },
+    {
+      "headline": "Togulykke kostede 60-årig kvinde livet, men et år efter er der stadig ikke svar på, hvad der skete",
+      "url": "https://www.dr.dk/nyheder/indland/togulykke-kostede-60-aarig-kvinde-livet-men-et-aar-efter-er-der-stadig-ikke-svar-paa-hvad-der-skete",
+      "publisher": "DR Nyheder",
+      "section": "Infrastruktur",
+      "publishedAt": "2026-08-15T08:00:00.000Z",
+      "summary": "For præcis et år siden mistede en kvinde livet, og to personer kom alvorligt til skade, da et tog ramte en gylletransport i Sønderjylland. Årsagen er stadig ikke fastslået.",
+      "text": "Togulykke kostede 60-årig kvinde livet, men et år efter er der stadig ikke svar på, hvad der skete"
+    },
+    {
+      "headline": "I 15 annoncer sælger ung kvinde tøj identisk med varer fra Shein som vintage. Og hun er ikke den eneste",
+      "url": "https://www.dr.dk/nyheder/indland/i-15-annoncer-saelger-ung-kvinde-toej-identisk-med-varer-fra-shein-som-vintage-og-hun-er-ikke-den",
+      "publisher": "DR Nyheder",
+      "section": "Forbrug og handel",
+      "publishedAt": "2026-08-15T09:20:00.000Z",
+      "summary": "En bruger har 15 stykker tøj til salg som vintage, der ifølge DR ser ud til at være identisk med varer fra kinesiske Shein, og tager sig godt betalt for dem. Hun er ikke den eneste.",
+      "text": "I 15 annoncer sælger ung kvinde tøj identisk med varer fra Shein som vintage. Og hun er ikke den eneste"
+    },
+    {
+      "headline": "Partier forstår ikke ti timers tavshed om ulvenedskydning",
+      "url": "https://nyheder.tv2.dk/politik/2026-08-15-partier-forstaar-ikke-ti-timers-tavshed-om-ulvenedskydning",
+      "publisher": "TV 2",
+      "section": "Dansk politik",
+      "publishedAt": "2026-08-15T11:35:34.000Z",
+      "summary": "En medarbejder fra Naturstyrelsen skød torsdag klokken 21.48 en såkaldt problemulv i Vestjylland. Flere partier kritiserer, at der gik ti timer, før det blev meldt ud.",
+      "text": "Partier forstår ikke ti timers tavshed om ulvenedskydning"
+    },
+    {
+      "headline": "Laudrup-Dufour henter sin tredje VM-medalje",
+      "url": "https://sport.tv2.dk/ridning/2026-08-15-laudrup-dufour-henter-sin-tredje-vm-medalje",
+      "publisher": "TV 2",
+      "section": "Sport",
+      "publishedAt": "2026-08-15T20:52:08.000Z",
+      "summary": "Cathrine Laudrup-Dufour fik sin tredje medalje ved dette VM i dressur, da hun sluttede bag en brite i Grand Prix Freestyle.",
+      "text": "Laudrup-Dufour henter sin tredje VM-medalje"
+    },
+    {
+      "headline": "I S arbejder topprofiler på en ny strategi. Her er de foreløbige hovedpunkter",
+      "url": "https://www.altinget.dk/artikel/med-disse-tre-fokusomraader-vil-socialdemokratiet-bevare-en-selvstaendig-politisk-profil",
+      "publisher": "Altinget",
+      "section": "Dansk politik",
+      "publishedAt": "2026-08-16T00:00:00.000Z",
+      "summary": "Kommentator Lars Olsen skriver i Altinget, at flere markante socialdemokrater arbejder på et politisk projekt, der skal overbevise vælgerne om, at partiet stadig arbejder for jævne danskeres interesser. Hverken Mattias Tesfaye eller Kaare Dybvad fik ministerpost denne gang, og begge er dybt involveret. Artiklen er bag betalingsmur; kun rubrik og manchet er læst her.",
+      "text": "I S arbejder topprofiler på en ny strategi. Her er de foreløbige hovedpunkter"
+    },
+    {
+      "headline": "Frygt for stigende intolerance over for homoseksuelle: Minister vil have nye tal om muslimer",
+      "url": "https://www.dr.dk/nyheder/politik/frygt-stigende-intolerance-over-homoseksuelle-minister-vil-have-nye-tal-om-muslimer",
+      "publisher": "DR Nyheder",
+      "section": "Dansk politik",
+      "publishedAt": "2026-08-15T14:46:19.000Z",
+      "summary": "En minister vil have nye tal om holdninger blandt muslimer i Danmark på grund af frygt for stigende intolerance over for homoseksuelle.",
+      "text": "Frygt for stigende intolerance over for homoseksuelle: Minister vil have nye tal om muslimer"
+    }
+  ],
+  "column": {
+    "authoredBy": "ai",
+    "slug": "det-der-ikke-blev-skrevet-i-dag",
+    "title": "Datoen på en nyhed er ikke datoen på begivenheden",
+    "thesis": "En nyhedsstrøm daterer artikler, ikke hændelser. Forskellen er lille de fleste dage og afgørende de dage, hvor den ikke er.",
+    "body": [
+      "Denne udgave skulle have haft en anden tophistorie. Økonomisk Ugebrev bragte i går en artikel om, at Saxo Banks stifter Kim Fournais træder tilbage som topchef efter J. Safra Sarasin Groups overtagelse. Alt i den var rigtigt. Kun tidspunktet var det ikke: Saxo Bank har på sit eget pressesite en meddelelse om præcis den beslutning, og billedet i artiklen ligger i et arkiv fra marts 2026.",
+      "Det er ikke svindel, og det er ikke sjældent. Et medie kan genudsende eller referere en ældre sag, og feedets dato følger udsendelsen, ikke begivenheden. En læser, der kun ser rubrik og dato, får en korrekt sætning præsenteret som en ny oplysning. Den eneste pålidelige kontrol er at gå til den, der handlede: selskabet, myndigheden, retten."
+    ],
+    "uncertainty": "Kontrollen koster tid og fanger ikke alt. Den fanger den slags fejl, hvor hver sætning kan forsvares, og helheden alligevel er misvisende.",
+    "topics": [
+      "kildekritik",
+      "nyhedsstrøm",
+      "medier"
+    ],
+    "claims": [
+      {
+        "text": "Saxo Bank har på sit eget pressesite en meddelelse med titlen \"J. Safra Sarasin Group completes the acquisition of majority stake in Saxo Bank\", hvoraf det fremgår, at Kim Fournais træder tilbage som CEO og bliver bestyrelsesformand, og at Daniel Belfer bliver ny CEO.",
+        "sourceUrls": [
+          "https://www.home.saxo/content/commentaries/pr/press-release/j-safra-sarasin-group-completes-the-acquisition-of-majority-stake-in-saxo-bank-02032026"
+        ],
+        "confidence": "high"
+      },
+      {
+        "text": "Økonomisk Ugebrevs artikel fra 15. august 2026 om samme beslutning bruger et billede, der ligger under uploadstien /wp-content/uploads/2026/03/.",
+        "sourceUrls": [
+          "https://ugebrev.dk/flashnews/efter-kaempe-handel-dansk-milliardaer-stopper-som-topchef/"
+        ],
+        "confidence": "high"
+      }
+    ],
+    "sources": [
+      {
+        "title": "J. Safra Sarasin Group completes the acquisition of majority stake in Saxo Bank",
+        "publisher": "Saxo Bank",
+        "url": "https://www.home.saxo/content/commentaries/pr/press-release/j-safra-sarasin-group-completes-the-acquisition-of-majority-stake-in-saxo-bank-02032026",
+        "kind": "primary",
+        "publishedAt": "2026-03-02T00:00:00.000Z"
+      },
+      {
+        "title": "Efter kæmpe handel: Dansk milliardær stopper som topchef",
+        "publisher": "Økonomisk Ugebrev",
+        "url": "https://ugebrev.dk/flashnews/efter-kaempe-handel-dansk-milliardaer-stopper-som-topchef/",
+        "publishedAt": "2026-08-15T13:44:33.000Z",
+        "kind": "reporting"
+      }
+    ]
+  },
+  "recommendations": [
+    {
+      "id": "thomas-rec-2026-08-16-piie-europe-2050",
+      "mode": "read",
+      "kind": "Policy brief",
+      "status": "timely",
+      "title": "Europe of the Future 2050—Trade Policy",
+      "creator": "Alan Wm. Wolff",
+      "provider": "Peterson Institute for International Economics",
+      "url": "https://www.piie.com/publications/policy-briefs/2026/europe-future-2050-trade-policy",
+      "availability": "Frit tilgængeligt. PIIE Policy Brief 26-11, juni 2026",
+      "commitment": "45 minutter",
+      "description": "Wolff argumenterer for, at EU som verdens største handelsaktør har både evnen og ansvaret for at fylde tomrummet, når USA går over til en magtbaseret handelspolitik og Kina læner sig op ad statslig indgriben. Køreplanen mod 2050: forsvar for WTO, tættere bånd til CPTPP-landene og kollektiv modstand mod handelspression.",
+      "rationale": "Det er den strategiske ramme om netop det transatlantiske spørgsmål, europæisk erhvervsdiplomati har arbejdet med siden 2021: hvad EU gør, når USA ikke længere holder systemet oppe.",
+      "topics": [
+        "handelspolitik",
+        "EU",
+        "USA",
+        "WTO"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://www.piie.com/sites/default/files/2026-06/RC2NFDAWV8CE.JPG",
+        "credit": "Foto: Reuters/Yves Herman, via Peterson Institute for International Economics",
+        "alt": "PIIE's billede til policy briefet om EU's handelspolitik frem mod 2050.",
+        "sourceUrl": "https://www.piie.com/publications/policy-briefs/2026/europe-future-2050-trade-policy"
+      }
+    },
+    {
+      "id": "thomas-rec-2026-08-16-businesseurope-burden",
+      "mode": "read",
+      "kind": "Rapport",
+      "status": "classic",
+      "title": "Reducing regulatory burden to restore the EU's competitive edge",
+      "creator": "BusinessEurope",
+      "provider": "BusinessEurope",
+      "url": "https://www.businesseurope.eu/publications/reducing-regulatory-burden-to-restore-the-eus-competitive-edge-2/",
+      "availability": "Frit tilgængeligt. Udgivet 18. december 2025",
+      "commitment": "30 minutter",
+      "description": "BusinessEurope's tredje omgang konkrete forslag til byrdelettelser: 44 forslag fordelt på ni politikområder, fremsat som støtte til Kommissionens forenklingsarbejde. De få forslag markeret med stjerne er dem, BusinessEurope ikke selv har arbejdet aktivt med, men som medlemmerne har fremsat.",
+      "rationale": "Listen viser, hvilke dossierer der reelt er i spil i omnibus-arbejdet, skrevet af den organisation, der lobbyer på dem.",
+      "topics": [
+        "regelbyrde",
+        "EU",
+        "konkurrenceevne",
+        "omnibus"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://www.businesseurope.eu/wp-content/uploads/2025/12/BusinessEurope_Mapping-of-regulatory-burden_December-2025_cover-1.jpg",
+        "credit": "Kilde: BusinessEurope",
+        "alt": "Forsiden af BusinessEuropes kortlægning af regelbyrder fra december 2025.",
+        "sourceUrl": "https://www.businesseurope.eu/publications/reducing-regulatory-burden-to-restore-the-eus-competitive-edge-2/"
+      }
+    },
+    {
+      "id": "thomas-rec-2026-08-16-piie-tariff-tracker",
+      "mode": "try",
+      "kind": "Datakilde",
+      "status": "timely",
+      "title": "Trump's tariff revenue tracker: How much is the US collecting? Which imports are hit?",
+      "creator": "Gary Clyde Hufbauer og Ye Zhang",
+      "provider": "Peterson Institute for International Economics",
+      "url": "https://www.piie.com/research/piie-charts/2025/trumps-tariff-revenue-tracker-how-much-us-collecting-which-imports-are",
+      "availability": "Frit tilgængeligt. Senest opdateret 14. august 2026",
+      "commitment": "15 minutter",
+      "description": "En løbende opdateret datatracker, der måler, hvad de amerikanske toldsatser faktisk indbringer: månedlig toldindtægt divideret med månedlig importværdi, fordelt på varekategori og land. De realiserede satser ligger under de annoncerede, fordi overskrifterne ikke tager højde for undtagelser eller udsættelser.",
+      "rationale": "Et arbejdsredskab frem for en artikel: de faktiske toldsatser bag overskrifterne, når spørgsmålet er amerikansk markedsadgang.",
+      "topics": [
+        "told",
+        "USA",
+        "import",
+        "data"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://www.piie.com/sites/default/files/2025-08/2025-08-06-hufbauer-zhang-feature.png",
+        "credit": "Kilde: Peterson Institute for International Economics",
+        "alt": "PIIE's grafik til datatrackeren over amerikanske toldindtægter.",
+        "sourceUrl": "https://www.piie.com/research/piie-charts/2025/trumps-tariff-revenue-tracker-how-much-us-collecting-which-imports-are"
+      }
+    },
+    {
+      "id": "thomas-rec-2026-08-16-bruegel-jobs",
+      "mode": "listen",
+      "kind": "Podcast",
+      "status": "available",
+      "title": "Are jobs disposable now?",
+      "creator": "Rebecca Christie med Paul Osterman og Alexandre Mendonça",
+      "provider": "Bruegel, The Sound of Economics",
+      "url": "https://www.bruegel.org/podcast/are-jobs-disposable-now",
+      "availability": "Frit tilgængeligt. Udgivet 22. juli 2026",
+      "commitment": "Et podcastafsnit",
+      "description": "En samtale om, hvordan kunstig intelligens, teknologi og kontraktformer ændrer forholdet mellem virksomheder og medarbejdere. Udgangspunktet er, at virksomheder i både USA og EU bevæger sig væk fra langvarige faste ansættelser mod et system med mindre sikkerhed.",
+      "rationale": "Går direkte på den danske models kerne: hvad der sker med arbejdsmarkedets kontrakt, når arbejdsudbud og teknologi flytter sig samtidig.",
+      "topics": [
+        "arbejdsmarked",
+        "AI",
+        "ansættelse"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://www.bruegel.org/sites/default/files/styles/og_image/public/2026-07/GettyImages-674977783.jpg?itok=7vetxxHZ",
+        "credit": "Kilde: Bruegel (Foto: Getty Images)",
+        "alt": "Bruegels billede til podcastafsnittet om ansættelsesformer og teknologi.",
+        "sourceUrl": "https://www.bruegel.org/podcast/are-jobs-disposable-now"
+      }
+    },
+    {
+      "id": "thomas-rec-2026-08-16-arken-superflex",
+      "mode": "experience",
+      "kind": "Udstilling",
+      "status": "timely",
+      "title": "Come Hell Or High Water",
+      "creator": "SUPERFLEX",
+      "provider": "ARKEN Museum for Samtidskunst",
+      "url": "https://www.arken.dk/udstillinger/come-hell-or-high-water",
+      "availability": "ARKEN, Ishøj. Vises 7.5.26 - 3.1.27",
+      "commitment": "1-2 timer",
+      "description": "Kunstnergruppen SUPERFLEX har omdannet ARKEN til et scenarie, hvor museet en dag ligger under vand. I Kunstaksen tårner transportkasser sig op med værker fra gruppens mere end 30 år lange karriere, både som arkiv og som last på et skib. Udstillingen løber til 3. januar 2027.",
+      "rationale": "Valgt fordi den er god, ikke fordi den er relevant: en stor dansk kunstnergruppe, der tager bygningen selv som materiale.",
+      "topics": [
+        "kunst",
+        "SUPERFLEX",
+        "Danmark"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://cdn.prod.website-files.com/649025fd8b383baeda56283d/69fb4203bdb081cabf8bc535_Come%20Hell%20or%20High%20Water_SUPERFLEX.Foto_Anders%20Sune%20Berg_09.webp",
+        "credit": "Foto: Anders Sune Berg, via ARKEN",
+        "alt": "ARKENs billede til SUPERFLEX-udstillingen Come Hell Or High Water.",
+        "sourceUrl": "https://www.arken.dk/udstillinger/come-hell-or-high-water"
+      }
+    }
+  ],
+  "quality": {
+    "sourceDiversity": 75,
+    "primarySourceShare": 0,
+    "outsideProfileShare": 50,
+    "danishHeadlineShare": 88
+  }
+}
