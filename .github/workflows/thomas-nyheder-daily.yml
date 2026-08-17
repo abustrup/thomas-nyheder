@@ -20,9 +20,9 @@ on:
   # typically ends, and they share one Claude weekly allowance. No :00/:30 (load
   # peaks) and no 02:xx (October repeats it), so no third slot is left.
   schedule:
-    - cron: "57 1 * * *"
+    - cron: "17 5 * * *"
       timezone: "Europe/Copenhagen"
-    - cron: "19 3 * * *"
+    - cron: "03 6 * * *"
       timezone: "Europe/Copenhagen"
   workflow_dispatch:
     inputs:
@@ -163,6 +163,14 @@ jobs:
         run: npm run --if-present count:length
 
       # All that stands between a fabrication and the reader. A check that never ran is red.
+      # A dead image URL renders as an empty grey box. Prune before the gate so the
+      # gate and the renderer both see known-good images. Never fails the run.
+      - name: Prune dead story images
+        if: steps.guard.outputs.mode == 'full'
+        continue-on-error: true
+        working-directory: engine
+        run: npm run --silent prune:images -- "data/${DATE}/draft.json"
+
       - name: Quality gate
         if: steps.guard.outputs.mode == 'full' && steps.cap.outputs.proceed == 'true'
         timeout-minutes: 15
