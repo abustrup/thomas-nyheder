@@ -1,0 +1,966 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-08-17-daily",
+  "date": "2026-08-17",
+  "generatedAt": "2026-08-17T05:20:00.000Z",
+  "readingMinutes": 11,
+  "title": "Thomas’ Nyheder",
+  "dek": "Mandag 17. august 2026. Studiestarten flytter arbejdskraften mod Aarhus, en britisk dom lægger skylden for branden på Maersk Seoul hos et indisk kemiselskab, og colombianske Ukraine-veteraner tager dronekrigen med hjem.",
+  "profileWeights": {
+    "importance": 22,
+    "decisionValue": 20,
+    "novelty": 16,
+    "sourceQuality": 16,
+    "personalRelevance": 18,
+    "contrast": 8
+  },
+  "stories": [
+    {
+      "id": "thomas-2026-08-17-unge-aarhus",
+      "eventKey": "unge-flyttestroem-aarhus-uddannelsesskaevhed-2026-08",
+      "materialFacts": [
+        "Paa laereruddannelsen begynder 505 studerende i Aarhus og 45 i Esbjerg",
+        "Omkring hver tredje flytning blandt unge fra Syd-, Vest- og Oestjylland gaar nu til Aarhus, markant mere end i 2010, ifoelge tal fra Danmarks Statistik",
+        "UC Syd har skullet spare 70 millioner kroner paa omkring fem aar og har fyret undervisere",
+        "Haderslev, Skive, Hobro, Ikast og Noerre Nissum har mistet omkring hver tredje studerende paa fem aar, ifoelge tal fra Uddannelsesministeriet"
+      ],
+      "section": "Arbejdsmarked og uddannelse",
+      "headline": "Stærk strøm af unge flytter mod Aarhus. Andre landsdele betaler prisen",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/staerk-stroem-af-unge-flytter-mod-aarhus-andre-landsdele-betaler-prisen",
+      "subheadline": "Studiestarten er i næste uge, og de unge fordeler sig stadig skævere. På læreruddannelsen begynder 505 i Aarhus og 45 i Esbjerg, mens UC Syd har sparet 70 millioner kroner og fyret undervisere.",
+      "body": [
+        "På læreruddannelsen begynder 505 studerende i Aarhus og 45 i Esbjerg, landets sjettestørste by. Omkring hver tredje gang unge flytter fra Syd-, Vest- og Østjylland, går turen nu til Aarhus, markant mere end i 2010, viser tal fra Danmarks Statistik.",
+        "Regningen lander i provinsen. UC Syd har skullet spare 70 millioner kroner på omkring fem år og har fyret undervisere, og byer som Haderslev, Skive, Hobro, Ikast og Nørre Nissum har mistet omkring hver tredje studerende på fem år. \"Man skal huske, at når unge fraflytter, så kommer mange ikke tilbage,\" siger UC Syds rektor, Alexander Christian von Oettingen."
+      ],
+      "whyItMatters": "Karsten Rieder, direktør for Business Esbjerg, mener, at politisk regulering – færre pladser i de store studiebyer og lettere adgang til at oprette uddannelser i provinsen – er den eneste måde at stoppe strømmen på.",
+      "analysis": "Uddannelsesminister Christina Egelund (M) kalder det en megatrend og peger på, at ungdomsårgangene samtidig er små. Hun henviser til flere penge og gennemførte reformer, men kalder opgaven vanskelig.",
+      "counterpoint": "Anders Graae Rasmussen, rektor på Erhvervsakademiet Dania, mener, de unge skal have lov at søge mod de store byer. Problemet er balancen mellem studiesteder og job.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/rmfjvy5v/14915232_krd_indland_magnetby_aarhus_case-00281602.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR Nyheder (Foto: Martin Sorgenfrei)",
+        "alt": "DR’s billede til historien, ifølge billedteksten Freya Louise Broe Lund, der netop er flyttet fra Lemvig til Aarhus og samler et skab.",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/staerk-stroem-af-unge-flytter-mod-aarhus-andre-landsdele-betaler-prisen"
+      },
+      "topics": [
+        "arbejdskraft",
+        "uddannelse",
+        "regional udvikling",
+        "Danmark"
+      ],
+      "entities": [
+        "Aarhus Universitet",
+        "UC Syd",
+        "Business Esbjerg",
+        "Christina Egelund",
+        "Danmarks Statistik"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 78,
+        "decisionValue": 74,
+        "novelty": 66,
+        "sourceQuality": 84,
+        "personalRelevance": 80,
+        "contrast": 46
+      },
+      "claims": [
+        {
+          "text": "Paa laereruddannelsen begynder 505 studerende i Aarhus og blot 45 i Esbjerg, der er landets sjette stoerste by.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/staerk-stroem-af-unge-flytter-mod-aarhus-andre-landsdele-betaler-prisen"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Omkring hver tredje gang unge flytter fra Syd-, Vest- og Oestjylland, gaar turen til Aarhus, hvilket er markant mere end i 2010 ifoelge tal fra Danmarks Statistik.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/staerk-stroem-af-unge-flytter-mod-aarhus-andre-landsdele-betaler-prisen"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "UC Syd har skullet skaere 70 millioner kroner paa omkring fem aar og har fyret undervisere.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/staerk-stroem-af-unge-flytter-mod-aarhus-andre-landsdele-betaler-prisen"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Byer som Haderslev, Skive, Hobro, Ikast og Noerre Nissum har mistet omkring hver tredje studerende paa fem aar, viser tal fra Uddannelsesministeriet.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/staerk-stroem-af-unge-flytter-mod-aarhus-andre-landsdele-betaler-prisen"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Stærk strøm af unge flytter mod Aarhus. Andre landsdele betaler prisen",
+          "publisher": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/indland/staerk-stroem-af-unge-flytter-mod-aarhus-andre-landsdele-betaler-prisen",
+          "publishedAt": "2026-08-16T16:20:00.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-2026-08-17-maersk-seoul",
+      "eventKey": "maersk-seoul-brand-britisk-dom-sree-2026-08",
+      "materialFacts": [
+        "Branden opstod 19. juli 2015 om bord paa Maersk Seoul paa vej gennem Hormuzstraedet",
+        "Den britiske High Court paalagde Sree Rayalaseema Hi-Strength Hypo at betale lige over 13 millioner dollar, lige over 85 millioner kroner",
+        "Dommen er paa 54 sider og er det foerste stoerre offentlige vidnesbyrd om haendelsen",
+        "Det indiske selskab moedte ikke op og havde anlagt en parallel sag i Kurnool i Indien"
+      ],
+      "section": "Shipping og erhvervsjura",
+      "headline": "11 år efter eksplosion på Mærsk-skib: Ny dom afslører, hvad der gik galt",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/penge/11-aar-efter-eksplosion-paa-maersk-skib-ny-dom-afsloerer-hvad-der-gik-galt",
+      "subheadline": "En 54 sider lang britisk dom pålægger et indisk kemikalieselskab at betale Mærsk lige over 85 millioner kroner efter branden på Maersk Seoul i 2015 og den efterfølgende brand i Jebel Ali.",
+      "body": [
+        "Klokken 13.33 den 19. juli 2015 så andenstyrmanden på Maersk Seoul en sky af hvid røg over lasten på vej gennem Hormuzstrædet. Om bord var tre containere med calciumhypoklorit ejet af det indiske børsnoterede Sree Rayalaseema Hi-Strength Hypo. Da yderligere containere med samme produkt blev losset i Jebel Ali i Dubai for en sikkerheds skyld, gik det galt igen.",
+        "Den anden brand blev central. Brand- og eksplosionsspecialisten Mark Phillips, udpeget af Mærsk, vurderede, at Sree ikke havde sikret tilstrækkelig luftcirkulation i kasserne. Dommeren gav Mærsk medhold."
+      ],
+      "whyItMatters": "Beløbet er lille for Mærsk. Værnetinget er ikke: transportaftalen henlagde alle tvister til britiske domstole, og det holdt, selv om en indisk domstol forsøgte at spærre sagen.",
+      "analysis": "Sree mødte ikke op i London og førte i stedet sin egen sag i Kurnool. Selskabet skal desuden betale Mærsks advokatomkostninger i begge lande.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/5l1okcdy/20260724-132401-3_crop002.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR Nyheder (Foto: Imago, Ritzau Scanpix)",
+        "alt": "DR’s billede til historien. Ifølge billedteksten er det et arkivfoto, og skibet på billedet er ikke Maersk Seoul.",
+        "sourceUrl": "https://www.dr.dk/nyheder/penge/11-aar-efter-eksplosion-paa-maersk-skib-ny-dom-afsloerer-hvad-der-gik-galt"
+      },
+      "topics": [
+        "shipping",
+        "voldgift",
+        "Indien",
+        "Mærsk"
+      ],
+      "entities": [
+        "A.P. Møller-Mærsk",
+        "Sree Rayalaseema Hi-Strength Hypo",
+        "High Court i London",
+        "Mark Phillips"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 66,
+        "decisionValue": 58,
+        "novelty": 84,
+        "sourceQuality": 86,
+        "personalRelevance": 72,
+        "contrast": 60
+      },
+      "claims": [
+        {
+          "text": "Dommeren paalagde Sree Rayalaseema Hi-Strength Hypo at betale en erstatning paa lige over 13 millioner dollar, lige over 85 millioner kroner, der blandt andet skal daekke omkostninger ved selve branden og betalinger til bjaergningsselskaberne.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/11-aar-efter-eksplosion-paa-maersk-skib-ny-dom-afsloerer-hvad-der-gik-galt"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Branden begyndte 19. juli 2015 klokken 13.33, da skibets andenstyrmand observerede en massiv sky af hvid roeg.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/11-aar-efter-eksplosion-paa-maersk-skib-ny-dom-afsloerer-hvad-der-gik-galt"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Sree Rayalaseema Hi-Strength Hypo moedte ikke op i High Court i London og havde anlagt sag i den indiske by Kurnool.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/11-aar-efter-eksplosion-paa-maersk-skib-ny-dom-afsloerer-hvad-der-gik-galt"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Selskabet skal ogsaa betale Maersks advokatomkostninger for baade den britiske og den indiske retssag.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/11-aar-efter-eksplosion-paa-maersk-skib-ny-dom-afsloerer-hvad-der-gik-galt"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "11 år efter eksplosion på Mærsk-skib: Ny dom afslører, hvad der gik galt",
+          "publisher": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/penge/11-aar-efter-eksplosion-paa-maersk-skib-ny-dom-afsloerer-hvad-der-gik-galt",
+          "publishedAt": "2026-08-16T18:30:00.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-2026-08-17-colombia-droner",
+      "eventKey": "colombianske-ukraine-veteraner-droneviden-karteller-2026-08",
+      "materialFacts": [
+        "ACLED-tal analyseret af The Guardian viser 1 droneangreb i Colombia i 2023, 38 i 2024 og 149 i 2025",
+        "Colombias forsvarsministerium opgoer nul angreb i 2023, 61 i 2024 og 333 i 2025",
+        "Colombias udenrigsministerium har anerkendt mindst 300 doede colombianere i Ukraine",
+        "Erin McFee fra Corioli Institute siger, at en haandfuld erfarne folk raekker til at aendre kartellernes teknologiske landskab"
+      ],
+      "section": "Sikkerhed og organiseret kriminalitet",
+      "headline": "De rejser til Ukraine for pengene – og vender hjem med viden, som narkokartellerne vil betale for",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/de-rejser-til-ukraine-pengene-og-vender-hjem-med-viden-som-narkokartellerne-vil-betale",
+      "subheadline": "Colombianske veteraner tager til Ukraine for lønnen, og en ekspert vurderer, at deres droneerfaring kan blive værdifuld for kartellerne. Antallet af droneangreb er på to år gået fra ét til trecifret.",
+      "body": [
+        "The Defense Post opgjorde ved udgangen af 2025 op mod 2.000 colombianere med kontrakt i Ukraines forsvar siden februar 2022; BBC vurderer op mod 7.000. Colombias udenrigsministerium har anerkendt mindst 300 døde.",
+        "Hjemme stiger dronekrigen. En ACLED-analyse foretaget af The Guardian tæller ét droneangreb i Colombia i 2023, 38 i 2024 og 149 i 2025. Colombias forsvarsministerium opgør en stejlere kurve: nul, 61 og 333."
+      ],
+      "whyItMatters": "Antropolog Erin McFee fra Corioli Institute har mistanke om, at der er langt færre hjemvendte, end medierne rapporterer, men siger, at \"man skal kun bruge en håndfuld folk med erfaring\" til at ændre kartellernes landskab.",
+      "analysis": "Presset kommer fra økonomien: den private sikkerhedsbranche er mættet, og militærlønnen levner sjældent en opsparing. McFee nævner tilbud på op mod 2.500 dollar for én dags undervisning, men kan ikke selv verificere beløbet.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/hneiynu1/20260612-151901-6.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR Nyheder (Foto: Reuters/Ritzau Scanpix)",
+        "alt": "DR’s billede til historien om colombianske frivillige i Ukraine: soldater i en gade bærer en kiste, mens andre bærer et ukrainsk og et colombiansk flag og et trækors.",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/de-rejser-til-ukraine-pengene-og-vender-hjem-med-viden-som-narkokartellerne-vil-betale"
+      },
+      "topics": [
+        "droner",
+        "Colombia",
+        "Ukraine",
+        "organiseret kriminalitet"
+      ],
+      "entities": [
+        "Corioli Institute",
+        "Erin McFee",
+        "ACLED",
+        "Colombias forsvarsministerium"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 72,
+        "decisionValue": 40,
+        "novelty": 88,
+        "sourceQuality": 80,
+        "personalRelevance": 34,
+        "contrast": 90
+      },
+      "claims": [
+        {
+          "text": "En ACLED-analyse foretaget af The Guardian registrerede ét droneangreb i Colombia i 2023, 38 i 2024 og 149 i 2025.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/de-rejser-til-ukraine-pengene-og-vender-hjem-med-viden-som-narkokartellerne-vil-betale"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Colombias forsvarsministerium opgoer nul droneangreb i 2023, 61 i 2024 og 333 i 2025.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/de-rejser-til-ukraine-pengene-og-vender-hjem-med-viden-som-narkokartellerne-vil-betale"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "The Defense Post opgjorde ved udgangen af 2025 op mod 2.000 colombianere med kontrakt i det ukrainske forsvar siden februar 2022, mens BBC vurderer op mod 7.000 udrejste.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/de-rejser-til-ukraine-pengene-og-vender-hjem-med-viden-som-narkokartellerne-vil-betale"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Erin McFee har mistanke om, at der er langt faerre hjemvendte end rapporteret, og naevner tilbud paa op mod 2.500 dollar for en enkelt dags undervisning, som hun ikke selv kan verificere.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/de-rejser-til-ukraine-pengene-og-vender-hjem-med-viden-som-narkokartellerne-vil-betale"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "De rejser til Ukraine for pengene – og vender hjem med viden, som narkokartellerne vil betale for",
+          "publisher": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/udland/de-rejser-til-ukraine-pengene-og-vender-hjem-med-viden-som-narkokartellerne-vil-betale",
+          "publishedAt": "2026-08-16T15:30:00.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-2026-08-17-heimdal",
+      "eventKey": "heimdal-slagelse-erstatningssag-oestre-landsret-2026-08",
+      "materialFacts": [
+        "Oestre Landsret behandler mandag, om Slagelse Kommune er erstatningspligtig",
+        "Lucas Gildberg Kaiser blev erklaeret doed 3. februar 2012 klokken 05.41 af en lungebetaendelse",
+        "Lucas foraeldre kraever 300.000 kroner, Maigens mor 422.804 kroner",
+        "Slagelse Kommune mener ikke, at der foreligger et erstatningsansvar"
+      ],
+      "section": "Samfund og ret",
+      "headline": "Forældre til død dreng og pige i livsfare sagsøger kommune",
+      "primarySourceUrl": "https://nyheder.tv2.dk/samfund/2026-08-17-foraeldre-til-doed-dreng-og-pige-i-livsfare-sagsoeger-kommune",
+      "subheadline": "Østre Landsret behandler fra mandag over tre dage, om Slagelse Kommune skal betale erstatning for svigt på det kommunale bosted Heimdal. Kravene løber samlet op over en million kroner.",
+      "body": [
+        "I nattens notater stod der, at Lucas havde sovet godt. Den toårige dreng, født med en hjerneskade og jævnligt i aflastning på bostedet Heimdal, blev erklæret død 3. februar 2012 klokken 05.41 af en lungebetændelse. Maigen Juki Butzbach, i aflastning fra hun var fem til oktober 2020, udviklede i februar 2020 en livstruende forstoppelse.",
+        "Myndighederne har flere gange fastslået, at hjælpen var mangelfuld. Pramming Advokater fører sagen for Lucas’ forældre og Maigens mor og gør gældende, at børnenes ret til beskyttelse efter Den Europæiske Menneskerettighedskonvention ikke er opfyldt."
+      ],
+      "whyItMatters": "Lucas’ forældre kræver 300.000 kroner og Maigens mor 422.804 kroner plus procesrente fra efteråret 2022. Samlet over en million kroner mod én kommune for tilsyn med to børn.",
+      "analysis": "Kommunen erkender ikke et erstatningsansvar, selv om fejlene er fastslået. Det er det spørgsmål, landsretten skal skille ad.",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/e/7/e/e7e2028f-f7a8-4ff5-a72f-e654b01f30e1?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MjcwNCwxMTI3LDU0OTIsMzA4OQ&s=007f2d552d306605708d9fcc2391de51",
+        "credit": "Kilde: TV 2 (Foto: Mads Claus Rasmussen / Ritzau Scanpix)",
+        "alt": "TV 2’s billede til historien, ifølge billedteksten et arkivfoto af Østre Landsret i København.",
+        "sourceUrl": "https://nyheder.tv2.dk/samfund/2026-08-17-foraeldre-til-doed-dreng-og-pige-i-livsfare-sagsoeger-kommune"
+      },
+      "topics": [
+        "retssag",
+        "kommuner",
+        "handicap",
+        "Danmark"
+      ],
+      "entities": [
+        "Østre Landsret",
+        "Slagelse Kommune",
+        "Heimdal",
+        "Pramming Advokater"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 70,
+        "decisionValue": 36,
+        "novelty": 74,
+        "sourceQuality": 80,
+        "personalRelevance": 40,
+        "contrast": 66
+      },
+      "claims": [
+        {
+          "text": "Sagen behandles over tre dage i denne uge, hvorefter den optages til dom; Oestre Landsret skal afgoere, om Slagelse Kommune er erstatningspligtig.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/samfund/2026-08-17-foraeldre-til-doed-dreng-og-pige-i-livsfare-sagsoeger-kommune"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Lucas Gildberg Kaiser blev erklaeret doed 3. februar 2012 klokken 05.41, og doedsaarsagen var en lungebetaendelse.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/samfund/2026-08-17-foraeldre-til-doed-dreng-og-pige-i-livsfare-sagsoeger-kommune"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Lucas foraeldre kraever 300.000 kroner, mens Maigens mor forlanger 422.804 kroner plus saedvanlig procesrente fra efteraaret 2022.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/samfund/2026-08-17-foraeldre-til-doed-dreng-og-pige-i-livsfare-sagsoeger-kommune"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Slagelse Kommune mener ikke, at der foreligger et egentligt erstatningsansvar.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/samfund/2026-08-17-foraeldre-til-doed-dreng-og-pige-i-livsfare-sagsoeger-kommune"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Forældre til død dreng og pige i livsfare sagsøger kommune",
+          "publisher": "TV 2",
+          "url": "https://nyheder.tv2.dk/samfund/2026-08-17-foraeldre-til-doed-dreng-og-pige-i-livsfare-sagsoeger-kommune",
+          "publishedAt": "2026-08-17T03:38:40.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-2026-08-17-golf-pause",
+      "eventKey": "dp-world-tour-danmark-pause-2027-2026-08",
+      "materialFacts": [
+        "Der kommer ingen DP World Tour-turnering i Danmark i 2027",
+        "Danmark har vaeret vaert siden 2014, kun afbrudt af coronaaaret 2020",
+        "GolfPromote lancerer showturneringen The Viking mellem Danmark og Norge fra naeste aar",
+        "Der kommer ogsaa en dansk turnering paa Challenge Tour"
+      ],
+      "section": "Sport",
+      "headline": "Ingen dansk World Tour-turnering næste år: - Vi tager en pause",
+      "primarySourceUrl": "https://sport.tv2.dk/golf/2026-08-16-ingen-dansk-world-tour-turnering-naeste-aar-vi-tager-en-pause",
+      "subheadline": "Promotor Flemming Astrup dropper den danske DP World Tour-turnering i 2027 og arbejder på en nordisk udgave fra 2028. Great Northern i Kerteminde debuterede som vært i denne uge.",
+      "body": [
+        "Danmark har siden 2014, kun afbrudt af coronaåret 2020, været vært for en golfturnering på DP World Tour. Det ophører i 2027. \"Vi tager en pause og ser, hvordan fremtiden skal se ud. Vi vil gerne planlægge de næste ti år for dansk golf,\" siger promotor Flemming Astrup ifølge 19hul.dk.",
+        "Kommercielt er der plads til forbedring. \"Vi har gode partnere, men vi er nødt til at finde et par flere for at gøre turneringen succesfuld,\" siger Mark Casey, chef for forretningsdelen af DP World Tour, til Ekstra Bladet. Himmerland har været vært otte gange."
+      ],
+      "whyItMatters": "Astrup arbejder på en nordisk turnering fra 2028 og lancerer fra næste år showturneringen The Viking mellem Danmark og Norge. Der kommer også en dansk turnering på Challenge Tour.",
+      "analysis": "Rasmus og Nicolai Højgaard er medejere af GolfPromote og spillende kaptajner i The Viking, med Viktor Hovland og Kristoffer Reitan som norske kaptajner.",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/0/9/2/092434c8-df09-47d5-9f6d-2fa52e3b0f68?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCw1ODUsNTYxNiwzMTU5&s=cc3332f8a06d58b445a8ff1b2d9eb26c",
+        "credit": "Kilde: TV 2 (Foto: Mads Claus Rasmussen / Ritzau Scanpix)",
+        "alt": "TV 2’s billede til historien, ifølge billedteksten finalerunden i Danish Golf Championship i Kerteminde søndag den 16. august 2026.",
+        "sourceUrl": "https://sport.tv2.dk/golf/2026-08-16-ingen-dansk-world-tour-turnering-naeste-aar-vi-tager-en-pause"
+      },
+      "topics": [
+        "golf",
+        "DP World Tour",
+        "sportsøkonomi",
+        "Danmark"
+      ],
+      "entities": [
+        "Flemming Astrup",
+        "GolfPromote",
+        "DP World Tour",
+        "Great Northern"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 46,
+        "decisionValue": 30,
+        "novelty": 76,
+        "sourceQuality": 72,
+        "personalRelevance": 74,
+        "contrast": 44
+      },
+      "claims": [
+        {
+          "text": "Der kommer ikke en DP World Tour-turnering i Danmark i 2027, oplyser promotor Flemming Astrup.",
+          "sourceUrls": [
+            "https://sport.tv2.dk/golf/2026-08-16-ingen-dansk-world-tour-turnering-naeste-aar-vi-tager-en-pause"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Danmark har siden 2014, kun afbrudt af coronaaaret 2020, vaeret vaert for en golfturnering paa DP World Tour.",
+          "sourceUrls": [
+            "https://sport.tv2.dk/golf/2026-08-16-ingen-dansk-world-tour-turnering-naeste-aar-vi-tager-en-pause"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Mark Casey, chef for forretningsdelen af DP World Tour, siger til Ekstra Bladet, at turneringen har gode partnere, men mangler et par flere.",
+          "sourceUrls": [
+            "https://sport.tv2.dk/golf/2026-08-16-ingen-dansk-world-tour-turnering-naeste-aar-vi-tager-en-pause"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "GolfPromote lancerer fra naeste aar showturneringen The Viking med Rasmus og Nicolai Hoejgaard som spillende kaptajner.",
+          "sourceUrls": [
+            "https://sport.tv2.dk/golf/2026-08-16-ingen-dansk-world-tour-turnering-naeste-aar-vi-tager-en-pause"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Ingen dansk World Tour-turnering næste år: - Vi tager en pause",
+          "publisher": "TV 2 Sport",
+          "url": "https://sport.tv2.dk/golf/2026-08-16-ingen-dansk-world-tour-turnering-naeste-aar-vi-tager-en-pause",
+          "publishedAt": "2026-08-16T12:36:31.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-2026-08-17-em-soelv",
+      "eventKey": "rosendahl-bach-em-soelv-200-butterfly-paris-2026-08",
+      "materialFacts": [
+        "Helena Rosendahl Bach vandt soelv paa 200 meter butterfly ved langbane-EM i Paris",
+        "Tiden var 2 minutter og 6,14 sekunder, 0,24 sekunder efter briten Keanna Macinnes",
+        "Det var ifoelge TV 2 Danmarks foerste medalje ved mesterskabet",
+        "Det er tredje gang i traek, hun henter medalje i disciplinen ved langbane-EM"
+      ],
+      "section": "Sport",
+      "headline": "Dansk svømmer henter sølv ved EM",
+      "primarySourceUrl": "https://sport.tv2.dk/svoemning/2026-08-16-dansk-svoemmer-henter-soelv-ved-em",
+      "subheadline": "Helena Rosendahl Bach svømmede 200 meter butterfly i 2.06,14 og kom 0,24 sekunder efter briten Keanna Macinnes. Det var ifølge TV 2 Danmarks første medalje ved mesterskabet i Paris.",
+      "body": [
+        "Den 26-årige svømmer fra Holstebro vendte som nummer tre efter 50 meter, svømmede sig kort efter op på andenpladsen og nærmede sig briten på de sidste meter uden at nå op. Spanske Laura Cabanes Garzas fik bronze i en tid, der var lidt mere end et sekund langsommere.",
+        "Det er tredje gang i træk, hun henter medalje i 200 butterfly ved langbane-EM: sølv i Rom i 2022 og guld i Beograd for to år siden. Hun har desuden sølv fra langbane-VM i Doha i 2024 og fra kortbane-EM i både 2021 og 2025."
+      ],
+      "whyItMatters": "Danmark gik ind i mesterskabets sidste dag uden medaljer. Rosendahl Bach var på forhånd regnet som kandidat og var lørdag hurtigst af alle i de indledende heats.",
+      "analysis": "Konsistensen er det bemærkelsesværdige: tredje langbane-EM-medalje i træk i 200 butterfly, plus VM-sølv i Doha i 2024 og kortbane-EM-sølv i både 2021 og 2025.",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/4/9/7/49768869-09ab-411a-ac42-a820ebaa1333?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MTI1LDkyLDQ1MzAsMjU1MA&s=988067ae842e9792498de716359d3a9e",
+        "credit": "Kilde: TV 2 Sport (Foto: Gonzalo Fuentes / Ritzau Scanpix)",
+        "alt": "TV 2’s billede til historien: en svømmer midt i et butterflytag med hvid DEN-badehætte, ifølge billedteksten Helena Rosendahl Bach, der fik sølv i Paris.",
+        "sourceUrl": "https://sport.tv2.dk/svoemning/2026-08-16-dansk-svoemmer-henter-soelv-ved-em"
+      },
+      "topics": [
+        "svømning",
+        "EM",
+        "danske sportsfolk",
+        "Paris"
+      ],
+      "entities": [
+        "Helena Rosendahl Bach",
+        "Keanna Macinnes",
+        "Laura Cabanes Garzas"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 44,
+        "decisionValue": 22,
+        "novelty": 70,
+        "sourceQuality": 74,
+        "personalRelevance": 78,
+        "contrast": 38
+      },
+      "claims": [
+        {
+          "text": "Helena Rosendahl Bach svoemmede finalen i 2 minutter og 6,14 sekunder og var 0,24 sekunder fra den britiske guldvinder Keanna Macinnes.",
+          "sourceUrls": [
+            "https://sport.tv2.dk/svoemning/2026-08-16-dansk-svoemmer-henter-soelv-ved-em"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "TV 2 skriver, at det var Danmarks foerste medalje ved dette EM.",
+          "sourceUrls": [
+            "https://sport.tv2.dk/svoemning/2026-08-16-dansk-svoemmer-henter-soelv-ved-em"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Det er tredje gang i traek, at den 26-aarige svoemmer fra Holstebro henter medalje i 200 butterfly ved langbane-EM: soelv i Rom i 2022 og guld i Beograd for to aar siden.",
+          "sourceUrls": [
+            "https://sport.tv2.dk/svoemning/2026-08-16-dansk-svoemmer-henter-soelv-ved-em"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Dansk svømmer henter sølv ved EM",
+          "publisher": "TV 2 Sport",
+          "url": "https://sport.tv2.dk/svoemning/2026-08-16-dansk-svoemmer-henter-soelv-ved-em",
+          "publishedAt": "2026-08-16T17:19:05.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-2026-08-17-flygelederstreik",
+      "eventKey": "norsk-flygelederstreik-megling-riksmekleren-2026-08",
+      "materialFacts": [
+        "Meglingen mellem Norsk Flygelederforening og Spekter starter onsdag klokken 10 hos Riksmekleren",
+        "Uden enighed kan flygelederne strejke fra fredag klokken 06.30",
+        "Tolv flygeledere tages ud i foerste strejkeudtag paa Roeyken, Flesland, Gardermoen og Stavanger",
+        "Meglingen ledes af riksmekler Mats Wilhelm Ruland"
+      ],
+      "section": "Nordisk arbejdsmarked",
+      "headline": "Nå kan det bli flygelederstreik",
+      "primarySourceUrl": "https://e24.no/naeringsliv/i/0pgqd0/naa-kan-det-bli-flygelederstreik",
+      "subheadline": "Norske flyveledere kan strejke fra fredag klokken 06.30, hvis mæglingen onsdag ikke lykkes. Ved en strejke udtages tolv flyveledere i første omgang på fire enheder, blandt andre Gardermoen og Flesland.",
+      "body": [
+        "Onsdag klokken 10 begynder mæglingen mellem Norsk Flygelederforening og arbejdsgiverorganisationen Spekter hos Riksmekleren. Går den i stykker, kan flyvelederne gå i strejke fredag klokken 06.30. Tolv flyveledere tages ud i første omgang, fordelt på kontrolcentralen i Røyken samt Flesland, Gardermoen og Stavanger.",
+        "Kravene handler om kollektive vilkår i overenskomsten, siger foreningens leder Robert Gjønnes til E24: pauseregime, rammer for instruktørvirksomhed og livsfasepolitik. Konsekvenserne for flytrafikken vil han ikke forudsige: \"det vet man jo ikke\"."
+      ],
+      "whyItMatters": "Norsk luftrum er transitrum for dansk trafik, og første strejkeudtag rammer fire enheder, blandt dem Gardermoen og Flesland.",
+      "analysis": "Begge parter siger, de går efter en løsning. Ingvild Dahl Dørnes fra Spekter oplyser, at mæglingen gælder løn- og arbejdsvilkår for flyvelederne i Avinors flysikring efter hovedopgøret.",
+      "image": {
+        "url": "https://akamai.vgc.no/v2/images/29859024-d77b-3c13-ab92-074b376755cc?format=auto&w=1080&s=f6784112a539df888ddde5404106d25c10f6123a",
+        "credit": "Kilde: E24 (Foto: Gorm Kallestad / NTB)",
+        "alt": "E24’s billede til historien om mulig flyvelederstrejke: et kontroltårn i en lufthavn med et passagerfly på vej op i baggrunden.",
+        "sourceUrl": "https://e24.no/naeringsliv/i/0pgqd0/naa-kan-det-bli-flygelederstreik"
+      },
+      "topics": [
+        "arbejdsmarked",
+        "luftfart",
+        "Norge",
+        "strejke"
+      ],
+      "entities": [
+        "Norsk Flygelederforening",
+        "Spekter",
+        "Avinor",
+        "Riksmekleren"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 58,
+        "decisionValue": 62,
+        "novelty": 66,
+        "sourceQuality": 76,
+        "personalRelevance": 56,
+        "contrast": 42
+      },
+      "claims": [
+        {
+          "text": "Meglingen mellem Norsk Flygelederforening og Spekter starter onsdag klokken 10 hos Riksmekleren, og uden enighed kan flygelederne strejke fra fredag klokken 06.30.",
+          "sourceUrls": [
+            "https://e24.no/naeringsliv/i/0pgqd0/naa-kan-det-bli-flygelederstreik"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Tolv flygeledere tages ud i foerste strejkeudtag, fordelt paa kontrolcentralen paa Roeyken, Flesland, Gardermoen og Stavanger.",
+          "sourceUrls": [
+            "https://e24.no/naeringsliv/i/0pgqd0/naa-kan-det-bli-flygelederstreik"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Robert Gjoennes naevner pauseregime, rammer for instruktoervirksomhed og livsfasepolitik som krav.",
+          "sourceUrls": [
+            "https://e24.no/naeringsliv/i/0pgqd0/naa-kan-det-bli-flygelederstreik"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Ingvild Dahl Doernes fra Spekter siger, at meglingen handler om loen- og arbejdsvilkaar for flygelederne i Avinors flysikring efter hovedoppgjoeret.",
+          "sourceUrls": [
+            "https://e24.no/naeringsliv/i/0pgqd0/naa-kan-det-bli-flygelederstreik"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Nå kan det bli flygelederstreik",
+          "publisher": "E24",
+          "url": "https://e24.no/naeringsliv/i/0pgqd0/naa-kan-det-bli-flygelederstreik",
+          "publishedAt": "2026-08-16T14:52:24.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-2026-08-17-manhattan-leje",
+      "eventKey": "manhattan-rekordleje-juli-2026-08",
+      "materialFacts": [
+        "Medianlejen for nye lejekontrakter paa Manhattan naaede 5.000 dollar i juli, en stigning paa 6,4 procent paa et aar",
+        "Gennemsnitslejen er 6.306 dollar om maaneden",
+        "Antallet af tilgaengelige lejeboliger paa Manhattan er faldet med over 39 procent paa et aar",
+        "Tallene kommer fra Miller Samuel og The Real Deal, omtalt af Bloomberg"
+      ],
+      "section": "International økonomi",
+      "headline": "Leieprisene på Manhattan har eksplodert",
+      "primarySourceUrl": "https://e24.no/internasjonal-oekonomi/i/Bxzzbl/leieprisene-paa-manhattan-har-eksplodert",
+      "subheadline": "Medianlejen for nye kontrakter på Manhattan ramte 5.000 dollar i juli, og udbuddet af lejeboliger er faldet med over 39 procent på et år. Kritikere peger på New Yorks egne politiske beslutninger.",
+      "body": [
+        "Medianlejen for nye lejekontrakter på Manhattan nåede 5.000 dollar i juli, en stigning på 6,4 procent og en ny rekord ifølge tal fra Miller Samuel og The Real Deal, omtalt af Bloomberg. Gennemsnitslejen er 6.306 dollar om måneden.",
+        "Udbuddet er problemet. Antallet af tilgængelige lejeboliger er faldet med over 39 procent på et år. Jonathan Miller fra StreetMatrix siger, at en del af faldet skyldes, at udlejere og mæglere i stigende grad holder boliger væk fra åbne portaler."
+      ],
+      "whyItMatters": "Ifølge Jonathan Miller holder høje boliglånsrenter folk, der ellers ville købe, tilbage som lejere.",
+      "analysis": "Kritikere peger på New Yorks egne beslutninger: FARE Act, der flytter mæglerhonoraret fra lejer til udlejer, og en fastfrysning af lejen i regulerede lejligheder, som borgmester Zohran Mamdani har kæmpet igennem. E24 oplyser, at artiklen er produceret med AI-værktøj og kvalitetssikret af redaktionen.",
+      "image": {
+        "url": "https://akamai.vgc.no/v2/images/f1293a50-9dc3-370b-8e0a-13b057ce1a22?format=auto&w=1080&s=4b05468e1be1f3d7a35c42a0aa3e201ea5296582",
+        "credit": "Kilde: E24 (Foto: Jeenah Moon / Reuters / NTB)",
+        "alt": "E24’s billede til historien, ifølge billedteksten om rekordhøje lejepriser på Manhattan.",
+        "sourceUrl": "https://e24.no/internasjonal-oekonomi/i/Bxzzbl/leieprisene-paa-manhattan-har-eksplodert"
+      },
+      "topics": [
+        "boligmarked",
+        "USA",
+        "regulering",
+        "renter"
+      ],
+      "entities": [
+        "Manhattan",
+        "Miller Samuel",
+        "Zohran Mamdani",
+        "StreetMatrix"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 50,
+        "decisionValue": 34,
+        "novelty": 64,
+        "sourceQuality": 62,
+        "personalRelevance": 44,
+        "contrast": 70
+      },
+      "claims": [
+        {
+          "text": "Medianlejen for nye lejekontrakter paa Manhattan naaede 5.000 dollar i juli, en stigning paa 6,4 procent fra aaret foer, ifoelge tal fra Miller Samuel og The Real Deal omtalt af Bloomberg.",
+          "sourceUrls": [
+            "https://e24.no/internasjonal-oekonomi/i/Bxzzbl/leieprisene-paa-manhattan-har-eksplodert"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Gennemsnitslejen er 6.306 dollar per maaned.",
+          "sourceUrls": [
+            "https://e24.no/internasjonal-oekonomi/i/Bxzzbl/leieprisene-paa-manhattan-har-eksplodert"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Antallet af tilgaengelige lejeboliger paa Manhattan er faldet med over 39 procent sammenlignet med aaret foer.",
+          "sourceUrls": [
+            "https://e24.no/internasjonal-oekonomi/i/Bxzzbl/leieprisene-paa-manhattan-har-eksplodert"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Kritikere peger paa FARE Act og en fastfrysning af lejen i regulerede lejligheder, som borgmester Zohran Mamdani har kaempet igennem.",
+          "sourceUrls": [
+            "https://e24.no/internasjonal-oekonomi/i/Bxzzbl/leieprisene-paa-manhattan-har-eksplodert"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Leieprisene på Manhattan har eksplodert",
+          "publisher": "E24",
+          "url": "https://e24.no/internasjonal-oekonomi/i/Bxzzbl/leieprisene-paa-manhattan-har-eksplodert",
+          "publishedAt": "2026-08-16T19:47:29.000Z",
+          "kind": "reporting"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "headline": "Netselskaber tegner dystert billede for fremtidens el-kunder: »Bliver nødt til at vente i mange år«",
+      "url": "https://ing.dk/artikel/netselskaber-tegner-dystert-billede-fremtidens-el-kunder-bliver-noedt-til-vente-i-mange-aar",
+      "publisher": "Ingeniøren",
+      "section": "Energi og infrastruktur",
+      "publishedAt": "2026-08-17T03:00:00.000Z",
+      "summary": "Efter at Energinet i marts satte en stopper for nye tilslutninger til elnettet, har det jyske netselskab N1 over 140 kunder, der venter på svar om, hvorvidt de kan få strøm. Cerius fortæller om ansøgninger fra sidste år, der ikke kan behandles. Resten af artiklen er bag betalingsmur.",
+      "text": "Netselskaber tegner dystert billede for fremtidens el-kunder: »Bliver nødt til at vente i mange år«"
+    },
+    {
+      "headline": "Venstre skifter kurs om forvaltningsdomstol",
+      "url": "https://www.altinget.dk/artikel/venstre-skifter-kurs-om-forvaltningsdomstol-efter-exit-fra-regeringen-der-var-aabenbart-ikke-stemning-for-det-i-svm",
+      "publisher": "Altinget",
+      "section": "Dansk politik",
+      "publishedAt": "2026-08-17T00:00:00.000Z",
+      "summary": "Venstre har tilsluttet sig et beslutningsforslag fra Alternativet, Liberal Alliance og Danmarksdemokraterne om at undersøge en model for forvaltningsdomstole. Retsordfører Preben Bang Henriksen bekræfter kursen, men afviser, at partiet grundlæggende har skiftet holdning. Artiklen er delvist bag betalingsmur.",
+      "text": "Venstre skifter kurs om forvaltningsdomstol"
+    },
+    {
+      "headline": "Han er måske den næste S-formand. Nu er han landets mest populære politiker",
+      "url": "https://www.altinget.dk/artikel/mulig-s-arvtager-maatte-forlade-finansministeriet-nu-er-han-landets-mest-populaere-toppolitiker",
+      "publisher": "Altinget",
+      "section": "Dansk politik",
+      "publishedAt": "2026-08-17T00:00:00.000Z",
+      "summary": "En ny popularitetsmåling placerer den ene af Mette Frederiksens to uofficielle kronprinser øverst, mens den anden er blandt de ti mest upopulære. Nicolai Wammen afgav finansministerposten til Peter Hummelgaard ved rokaden. Artiklen er delvist bag betalingsmur.",
+      "text": "Han er måske den næste S-formand. Nu er han landets mest populære politiker"
+    },
+    {
+      "headline": "Sommerens elpriser har været de højeste i flere år",
+      "url": "https://www.dr.dk/nyheder/indland/sommerens-elpriser-har-vaeret-de-hoejeste-i-flere-aar",
+      "publisher": "DR Nyheder",
+      "section": "Energi",
+      "publishedAt": "2026-08-16T08:45:33.000Z",
+      "summary": "Andel Energis tal viser, at gennemsnitsprisen for juni, juli og august i 2023-2025 ikke kom over 0,7 kroner per kilowatt-time, mens den i år har ligget stabilt over. Selskabet tilskriver den geopolitiske uro en stor del af skylden og advarer om efteråret; DR peger på det lukkede Hormuzstræde.",
+      "text": "Sommerens elpriser har været de højeste i flere år"
+    },
+    {
+      "headline": "Grønland med løftet pegefinger til krydstogtskibe: Begræns jeres sejlads",
+      "url": "https://www.dr.dk/nyheder/indland/groenland/groenland-med-loeftet-pegefinger-til-krydstogtskibe-begraens-jeres-sejlads",
+      "publisher": "DR Nyheder",
+      "section": "Arktis og erhverv",
+      "publishedAt": "2026-08-16T07:55:00.000Z",
+      "summary": "Naalakkersuisut opfordrer rederierne til at begrænse sejladsen i udvalgte fjorde. Det er ikke et lovkrav, og borgmester Avaaraq Olsen i Kommuneqarfik Sermersooq regner ikke med, at rederierne retter sig efter en anbefaling. Grønlands Statistik talte 232 krydstogter i 2025.",
+      "text": "Grønland med løftet pegefinger til krydstogtskibe: Begræns jeres sejlads"
+    },
+    {
+      "headline": "Udryddelsen er startet. For sikahjorten truer den danske kronhjort, lød det: Nu fejer ny rapport hovedargumentet af banen",
+      "url": "https://www.dr.dk/nyheder/indland/udryddelsen-er-startet-sikahjorten-truer-den-danske-kronhjort-loed-det-nu-fejer-ny-rapport",
+      "publisher": "DR Nyheder",
+      "section": "Natur og regulering",
+      "publishedAt": "2026-08-16T05:50:00.000Z",
+      "summary": "En kromosomanalyse af blodprøver fra 56 sikahjorte og 22 krondyr har ikke fundet krydsninger. Seniorforsker Niels Tommerup siger, det ikke sker. Seniorrådgiver Morten Elmeros holder alligevel fast i forsigtighedsprincippet, fordi processen er irreversibel.",
+      "text": "Udryddelsen er startet. For sikahjorten truer den danske kronhjort, lød det: Nu fejer ny rapport hovedargumentet af banen"
+    },
+    {
+      "headline": "Drone skudt ned for 4. gang på få uger i rumænsk luftrum: 'Rumænien er i frontlinjen'",
+      "url": "https://www.dr.dk/nyheder/udland/drone-skudt-ned-4-gang-paa-faa-uger-i-rumaensk-luftrum-rumaenien-er-i-frontlinjen",
+      "publisher": "DR Nyheder",
+      "section": "Sikkerhed",
+      "publishedAt": "2026-08-16T12:30:00.000Z",
+      "summary": "Et spansk F-18-jagerfly skød søndag morgen en drone ned, der var fløjet ind i Rumænien via Moldovas luftrum. Det er fjerde gang på under en måned. Forsvarsminister Radu-Dinel Miruță skriver på Facebook, at landet er EU’s frontlinje.",
+      "text": "Drone skudt ned for 4. gang på få uger i rumænsk luftrum: 'Rumænien er i frontlinjen'"
+    },
+    {
+      "headline": "Knud Brix blev udsat for kendis-stalking: 'Hun blev fascineret af ham'",
+      "url": "https://www.dr.dk/nyheder/indland/knud-brix-blev-udsat-kendis-stalking-hun-blev-fascineret-af-ham",
+      "publisher": "DR Nyheder",
+      "section": "Samfund",
+      "publishedAt": "2026-08-16T19:10:00.000Z",
+      "summary": "Chefredaktøren fortæller i DR’s Genstart om en kvinde, der opsøgte ham i hans hjem og forsøgte at blive ansat på hans søns skole. Op mod 100.000 danskere udsættes hvert år for stalking, oplyser DR med henvisning til Dansk Stalking Center.",
+      "text": "Knud Brix blev udsat for kendis-stalking: 'Hun blev fascineret af ham'"
+    },
+    {
+      "headline": "12 personer er dræbt i busulykke i Ungarn",
+      "url": "https://nyheder.tv2.dk/udland/2026-08-16-12-personer-er-draebt-i-busulykke-i-ungarn",
+      "publisher": "TV 2",
+      "section": "Udland",
+      "publishedAt": "2026-08-16T07:17:22.000Z",
+      "summary": "En polsk bus kørte i grøften og væltede tidligt søndag nær Mezőkeresztes i det østlige Ungarn. Tolv er dræbt og ti såret, skriver premierminister Péter Magyar på Facebook.",
+      "text": "12 personer er dræbt i busulykke i Ungarn"
+    },
+    {
+      "headline": "Hayden Panettiere er død",
+      "url": "https://nyheder.tv2.dk/udland/2026-08-17-hayden-panettiere-er-doed",
+      "publisher": "TV 2",
+      "section": "Navne",
+      "publishedAt": "2026-08-17T03:26:03.000Z",
+      "summary": "Den amerikanske skuespiller, kendt fra serien 'Heroes', er død, 36 år gammel. Det oplyser en repræsentant til ABC News. Hun udgav i maj en selvbiografi om misbrug og depression.",
+      "text": "Hayden Panettiere er død"
+    },
+    {
+      "headline": "Djokovic tæt på kollaps: - Ikke værdigt, mener ekspert",
+      "url": "https://sport.tv2.dk/tennis/2026-08-16-djokovic-taet-paa-kollaps-ikke-vaerdigt-mener-ekspert",
+      "publisher": "TV 2 Sport",
+      "section": "Sport",
+      "publishedAt": "2026-08-16T07:19:42.000Z",
+      "summary": "Den 39-årige serber måtte have lægehjælp i andet sæt ved en luftfugtighed omkring 80 procent og taler om et helbredsproblem, der har generet ham i flere år, ifølge det serbiske medie Sportklub.n1info.",
+      "text": "Djokovic tæt på kollaps: - Ikke værdigt, mener ekspert"
+    },
+    {
+      "headline": "DGI bakker op om Enhedslisten-forslag: Fodbolden skal ejes af folket – ikke grådige præsidenter",
+      "url": "https://www.altinget.dk/artikel/dgi-vil-have-idraetspolitisk-strategi-folket-skal-eje-fodbolden-ikke-graadige-praesidenter",
+      "publisher": "Altinget",
+      "section": "Idrætspolitik",
+      "publishedAt": "2026-08-17T00:00:00.000Z",
+      "summary": "DGI’s formand Charlotte Bach Thomassen bakker i et debatindlæg op om Enhedslistens ønske om en international idrætspolitisk strategi i Danmark, med henvisning til sommerens VM i herrefodbold.",
+      "text": "DGI bakker op om Enhedslisten-forslag: Fodbolden skal ejes af folket – ikke grådige præsidenter"
+    }
+  ],
+  "column": {
+    "authoredBy": "ai",
+    "slug": "danmark-loeber-ikke-toer-for-penge",
+    "title": "Danmark løber ikke tør for penge. Det løber tør for strøm og folk",
+    "thesis": "To af dagens historier handler om det samme: en økonomi, hvor det knappe ikke længere er kapital, men adgang – til nettet og til folk.",
+    "body": [
+      "Ingeniøren beskriver i dag et elnet, hvor Energinet i marts satte en stopper for nye tilslutninger, og hvor N1 har over 140 kunder, der venter på at få at vide, om de kan få strøm. DR beskriver et uddannelseslandskab, hvor UC Syd har skullet spare 70 millioner kroner, mens 505 begynder på læreruddannelsen i Aarhus og 45 i Esbjerg.",
+      "Formerne for knaphed er ikke ens. På elnettet er der en egentlig kø: kapaciteten skal bygges, før kunderne kan kobles på. På uddannelserne er der ingen kø, men for få ansøgere uden for de store byer, og UC Syd har måttet skære, netop fordi de studerende bliver væk. Fælles er, at det afgørende for en virksomhed ikke længere er, om kapitalen er der, men om strømmen og folkene er det dér, hvor den vil ligge."
+    ],
+    "uncertainty": "Sammenstillingen er redaktionens. Ingeniøren beskriver en kø til elnettet; DR beskriver en skæv fordeling af studerende. De to forhold er ikke målt sammen, og ingen af kilderne kobler dem.",
+    "topics": [
+      "elnet",
+      "arbejdskraft",
+      "erhvervsvilkår"
+    ],
+    "claims": [
+      {
+        "text": "Energinet satte i marts en stopper for nye tilslutninger til elnettet, og N1 har over 140 kunder, der venter paa svar om, hvorvidt de kan faa stroem.",
+        "sourceUrls": [
+          "https://ing.dk/artikel/netselskaber-tegner-dystert-billede-fremtidens-el-kunder-bliver-noedt-til-vente-i-mange-aar"
+        ],
+        "confidence": "high"
+      },
+      {
+        "text": "UC Syd savner studerende, hvilket blandt andet har foert til, at institutionen har skullet skaere 70 millioner kroner paa omkring fem aar; paa laereruddannelsen begynder 505 studerende i Aarhus mod 45 i Esbjerg.",
+        "sourceUrls": [
+          "https://www.dr.dk/nyheder/indland/staerk-stroem-af-unge-flytter-mod-aarhus-andre-landsdele-betaler-prisen"
+        ],
+        "confidence": "high"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Netselskaber tegner dystert billede for fremtidens el-kunder: »Bliver nødt til at vente i mange år«",
+        "publisher": "Ingeniøren",
+        "url": "https://ing.dk/artikel/netselskaber-tegner-dystert-billede-fremtidens-el-kunder-bliver-noedt-til-vente-i-mange-aar",
+        "publishedAt": "2026-08-17T03:00:00.000Z",
+        "kind": "reporting"
+      },
+      {
+        "title": "Stærk strøm af unge flytter mod Aarhus. Andre landsdele betaler prisen",
+        "publisher": "DR Nyheder",
+        "url": "https://www.dr.dk/nyheder/indland/staerk-stroem-af-unge-flytter-mod-aarhus-andre-landsdele-betaler-prisen",
+        "publishedAt": "2026-08-16T16:20:00.000Z",
+        "kind": "reporting"
+      }
+    ]
+  },
+  "recommendations": [
+    {
+      "id": "thomas-rec-2026-08-17-ae-toldfoelsomhed",
+      "mode": "read",
+      "kind": "Analyse",
+      "status": "timely",
+      "title": "Danmarks eksport er mindre følsom over for Trumps told end tidligere",
+      "creator": "Frederik Olsen, Sofie Holme Andersen og Anna Horup Mathiasen",
+      "provider": "Arbejderbevægelsens Erhvervsråd",
+      "url": "https://www.ae.dk/analyse/2026-02-danmarks-eksport-er-mindre-foelsom-over-for-trumps-told-end-tidligere",
+      "availability": "Frit tilgængeligt. AE-analyse, 24. februar 2026",
+      "commitment": "20 minutter",
+      "description": "AE opgør, at Danmark i august-december 2025 eksporterede toldfølsomme varer for 26,9 mia. kr. til USA, det laveste siden 2018, og at den fysiske vareeksport til USA nu udgør 2,9 procent af den samlede eksport. En yderligere toldsats får derfor begrænsede direkte effekter; den indirekte via EU-handlen kan mærkes.",
+      "rationale": "Den mest konkrete danske opgørelse af eksponeringen mod amerikansk told, med tal der kan bruges i et notat. Rammer både eksportpræstationen og sammensætningen af den.",
+      "topics": [
+        "dansk eksport",
+        "told",
+        "usa",
+        "eksportstruktur"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://www.ae.dk/files/styles/open_graph/public/media/image/iStock-2243502965-modified-864d7409-f5b5-4d2a-a3e1-df99a1b782f0_v2.jpg?itok=kv3my5H2",
+        "credit": "Kilde: Arbejderbevægelsens Erhvervsråd",
+        "alt": "Luftfoto af en containerterminal med blå portalkraner, stakke af containere og et Maersk-containerskib ved kaj. Topbillede til AE-analysen om dansk eksports følsomhed over for amerikansk told.",
+        "sourceUrl": "https://www.ae.dk/analyse/2026-02-danmarks-eksport-er-mindre-foelsom-over-for-trumps-told-end-tidligere"
+      }
+    },
+    {
+      "id": "thomas-rec-2026-08-17-kiel-tariffs-monitor",
+      "mode": "try",
+      "kind": "Værktøj",
+      "status": "classic",
+      "title": "Kiel Trade and Tariffs Monitor",
+      "creator": "Julian Hinz m.fl.",
+      "provider": "Kiel Institute for the World Economy",
+      "url": "https://www.kielinstitut.de/topics/kiel-trade-and-tariffs-monitor/",
+      "availability": "Frit tilgængeligt. Data kan hentes som CSV",
+      "commitment": "30-45 minutter",
+      "description": "En platform med analyser og simuleringer af told og handelskonflikter, bygget på instituttets KITE-model. Den regner scenarier igennem for amerikansk told, EU-modsvar og de globale følgevirkninger på eksport, produktion og priser, og tolddataene kan hentes ned.",
+      "rationale": "Adgang til tallene bag toldscenarierne i stedet for en andens konklusion. Brugbart som opslagsværktøj, ikke kun som læsning.",
+      "topics": [
+        "told",
+        "handelspolitik",
+        "eu-usa",
+        "data"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "thomas-rec-2026-08-17-trade-off-econsec",
+      "mode": "listen",
+      "kind": "Podcast",
+      "status": "timely",
+      "title": "When trade is weaponised - Guaranteeing economic security",
+      "creator": "Brian Talty, serien Trade-Off",
+      "provider": "Europa-Kommissionen",
+      "url": "https://audiovisual.ec.europa.eu/en/media/podcast/C-000016/S-009379",
+      "availability": "Frit tilgængeligt. På engelsk, 16. juli 2026",
+      "commitment": "28 minutter",
+      "description": "Episode af Kommissionens egen handelspodcast om økonomisk sikkerhed: kan Europa forblive åbent for handel og samtidig beskytte sig mod afhængighed? Kritiske råstoffer og 5G-net er de konkrete eksempler, og spørgsmålet er, om økonomiske sikkerhedsforanstaltninger er protektionisme eller risikostyring.",
+      "rationale": "Handelspolitikken hørt indefra Kommissionen, i det sprog EU faktisk bruger om de-risking.",
+      "topics": [
+        "økonomisk sikkerhed",
+        "eu",
+        "de-risking",
+        "råstoffer"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "thomas-rec-2026-08-17-christiania-dok",
+      "mode": "watch",
+      "kind": "Dokumentar",
+      "status": "available",
+      "title": "Christiania",
+      "creator": "Karl Friis Forchhammer",
+      "provider": "Det Danske Filminstitut, Filmdatabasen",
+      "url": "https://www.dfi.dk/viden-om-film/filmdatabasen/film/131407",
+      "availability": "Dansk dokumentarfilm, premiere 19. februar 2026",
+      "commitment": "1 time 35 minutter",
+      "description": "Dokumentaren følger Christiania fra 800 unge besatte den forladte kaserne på Bådsmandsstræde og gennem fristadens 50 år: kvindernes opgør med hashhandlen, fællesmøderne, konflikterne og sejrene i et samfund styret ved konsensus.",
+      "rationale": "Dagens sidespring: et 50 år langt eksperiment i, hvordan kollektive beslutninger faktisk træffes, langt fra handelspolitik.",
+      "topics": [
+        "dokumentar",
+        "christiania",
+        "danmark",
+        "fællesskab"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {
+    "sourceDiversity": 50,
+    "primarySourceShare": 0,
+    "outsideProfileShare": 38,
+    "danishHeadlineShare": 75
+  }
+}
