@@ -26,6 +26,7 @@ env:
   DEADLINE: '06:40'
   ALARM_AFTER: '0705'    # deadline + 25 min. Quoting matters: bare 0705 is YAML octal 453.
   GH_TOKEN: ${{ github.token }}
+  GH_REPO: ${{ github.repository }}
 jobs:
   watch:
     runs-on: ubuntu-latest
