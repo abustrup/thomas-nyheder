@@ -82,7 +82,7 @@ jobs:
           repository: abustrup/alexanders-brief-source
           ref: live/thomas-nyheder
           ssh-key: ${{ secrets.ENGINE_DEPLOY_KEY }}
-          fetch-depth: 1
+          fetch-depth: 0
           persist-credentials: false
           path: engine
 
