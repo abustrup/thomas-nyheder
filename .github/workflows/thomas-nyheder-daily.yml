@@ -20,9 +20,9 @@ on:
   # typically ends, and they share one Claude weekly allowance. No :00/:30 (load
   # peaks) and no 02:xx (October repeats it), so no third slot is left.
   schedule:
-    - cron: "17 5 * * *"
+    - cron: "11 5 * * *"
       timezone: "Europe/Copenhagen"
-    - cron: "03 6 * * *"
+    - cron: "53 5 * * *"
       timezone: "Europe/Copenhagen"
   workflow_dispatch:
     inputs:
