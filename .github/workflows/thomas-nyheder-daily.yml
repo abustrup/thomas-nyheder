@@ -186,6 +186,7 @@ jobs:
         if: steps.guard.outputs.mode == 'full'
         working-directory: engine
         env:
+          BRIEF_FEEDBACK_URL: ${{ secrets.BRIEF_API_URL }}
           GH_PUSH_TOKEN: ${{ github.token }}
         run: |
           git -C ../pages config credential.helper '!f(){ echo username=x-access-token; echo "password=$GH_PUSH_TOKEN"; }; f'
