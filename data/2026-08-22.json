@@ -1,0 +1,427 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-nyheder-daily-2026-08-22-01",
+  "date": "2026-08-22",
+  "generatedAt": "2026-08-22T04:49:27Z",
+  "readingMinutes": 10,
+  "title": "Thomas' Nyheder",
+  "dek": "Lørdagens overblik: dansk BNP uden medicinalmotor, tre ledelsesskifter i rådgivningsbranchen, dansk forsvarsboom i erhvervslivet — og Pogačars jagt på alle tre Grand Tours.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 20,
+    "contrast": 5
+  },
+  "stories": [
+    {
+      "id": "dk-gdp-q2-pharma-slowdown-20260822",
+      "eventKey": "dk-gdp-q2-pharma-slowdown-2026-08",
+      "materialFacts": [
+        "Dansk BNP steg 0,3 pct. i 2. kvartal 2026, sæsonkorrigeret",
+        "Beskæftigelsen steg 0,2 pct. i samme periode",
+        "Medicinalindustrien bidrog kun svagt til væksten i 2. kvartal efter et stort bidrag i 1. kvartal",
+        "Eksport og investeringer voksede, mens privat og offentligt forbrug faldt"
+      ],
+      "section": "Økonomi",
+      "headline": "Afdæmpet vækst i dansk økonomi i 2. kvartal",
+      "primarySourceUrl": "https://www.dst.dk/nyt/52205",
+      "subheadline": "Eksport og investeringer bar væksten i 2. kvartal, mens medicinalindustrien holdt pause efter et stort bidrag i 1. kvartal",
+      "body": [
+        "Det danske bruttonationalprodukt steg 0,3 procent i andet kvartal 2026, sæsonkorrigeret, og beskæftigelsen steg 0,2 procent, viser Danmarks Statistik. Væksten var fordelt over flere brancher, men medicinalindustrien bidrog denne gang kun svagt til fremgangen – stik modsat første kvartal, hvor branchen alene trak en stor del af væksten.",
+        "På anvendelsessiden voksede eksporten og investeringerne, mens både det private og det offentlige forbrug faldt. Resten af erhvervslivet stod altså for en selvstændig fremgang uden hjælp fra medicinalindustrien, mens forbrugssiden af økonomien var svagere end produktionssiden."
+      ],
+      "whyItMatters": "Medicinalindustrien har længe trukket en uforholdsmæssig stor del af dansk BNP-vækst, og et kvartal uden det bidrag er en stresstest af, hvor robust resten af eksporterhvervet reelt er. At eksport og investeringer bar væksten alene, taler imod, at dansk vækst reelt kun er ét selskabs vækst.",
+      "analysis": "Tallet kommer samme uge, som Novo Nordisks tidligere topchef fik en fratrædelsespakke på 123 millioner kroner offentliggjort – en påmindelse om, hvor tæt dansk BNP-debat og ét selskabs interne anliggender hænger sammen i disse år.",
+      "image": {
+        "url": "https://www.dst.dk/site/dst/udgivelser/nyt/getimage.aspx?cid=52205",
+        "credit": "Kilde: Danmarks Statistik",
+        "alt": "Grafik: Dansk BNP og bruttoværditilvækst med og uden medicinalindustrien, sæsonkorrigeret, 2018-2026 (Danmarks Statistik)",
+        "sourceUrl": "https://www.dst.dk/nyt/52205"
+      },
+      "topics": ["dansk økonomi", "BNP", "medicinalindustri", "eksport"],
+      "entities": ["Danmarks Statistik", "Novo Nordisk"],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {"importance": 85, "decisionValue": 75, "novelty": 60, "sourceQuality": 95, "personalRelevance": 90, "contrast": 55},
+      "claims": [
+        {"text": "Dansk BNP steg 0,3 pct. sæsonkorrigeret i 2. kvartal 2026, og beskæftigelsen steg 0,2 pct.", "sourceUrls": ["https://www.dst.dk/nyt/52205"], "confidence": "high"},
+        {"text": "Medicinalindustrien bidrog kun svagt til væksten i 2. kvartal efter et stort bidrag i 1. kvartal", "sourceUrls": ["https://www.dst.dk/nyt/52205"], "confidence": "high"},
+        {"text": "Eksport og investeringer voksede, mens privat og offentligt forbrug faldt i 2. kvartal", "sourceUrls": ["https://www.dst.dk/nyt/52205"], "confidence": "high"}
+      ],
+      "sources": [
+        {"title": "Afdæmpet vækst i dansk økonomi i 2. kvartal", "publisher": "Danmarks Statistik", "url": "https://www.dst.dk/nyt/52205", "publishedAt": "2026-08-21T07:40:00Z", "kind": "primary"}
+      ]
+    },
+    {
+      "id": "cowi-ceo-steps-down-20260822",
+      "eventKey": "cowi-ceo-steps-down-2026-08",
+      "materialFacts": [
+        "Henrik Winther stopper som direktør i Cowi Danmark efter 23 år i virksomheden",
+        "Han har været direktør i 6,5 år",
+        "Cowis bestyrelse bad ham før sommer om at give stafetten videre",
+        "Winther sidder i Dansk Industris hovedbestyrelse",
+        "Ingen efterfølger er udpeget"
+      ],
+      "section": "Erhverv",
+      "headline": "Cowi-direktør stopper efter 23 år",
+      "primarySourceUrl": "https://www.altinget.dk/erhverv/artikel/cowi-direktoer-stopper-efter-23-aar",
+      "subheadline": "Henrik Winther forlader Cowi Danmark efter 23 år i virksomheden og 6,5 år som direktør – uden en udpeget efterfølger",
+      "body": [
+        "Henrik Winther stopper frivilligt som direktør i Cowi Danmark efter 23 sammenhængende år i virksomheden, de seneste 6,5 år som direktør. Det skriver han i et opslag på LinkedIn, ifølge Altinget. Cowis bestyrelse gav ham besked før sommerferien om, at det var tid til at give stafetten videre.",
+        "Cowi tilbød Winther en anden ledende stilling, men han takkede nej. Der er endnu ikke udpeget en efterfølger. Winther sidder samtidig i Dansk Industris hovedbestyrelse, hvilket gør skiftet til mere end en intern Cowi-sag."
+      ],
+      "whyItMatters": "Cowi er en af Danmarks største ingeniørrådgivere, og et direktørskifte uden en klar efterfølger efterlader både virksomheden og DI's hovedbestyrelse med en ledig stol.",
+      "analysis": "At skiftet falder sammen med tilsvarende topskifter hos Rud Pedersen og Ulveman & Børsting samme uge, tyder på en bredere rokade i toppen af rådgivnings- og kommunikationsmiljøet end én virksomheds interne beslutning.",
+      "topics": ["ledelsesskifte", "Dansk Industri", "rådgivningsbranchen"],
+      "entities": ["Cowi", "Henrik Winther", "Dansk Industri"],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {"importance": 55, "decisionValue": 60, "novelty": 70, "sourceQuality": 80, "personalRelevance": 80, "contrast": 50},
+      "claims": [
+        {"text": "Henrik Winther stopper som direktør i Cowi Danmark efter 23 år, de seneste 6,5 år som direktør, uden udpeget efterfølger", "sourceUrls": ["https://www.altinget.dk/erhverv/artikel/cowi-direktoer-stopper-efter-23-aar"], "confidence": "high"},
+        {"text": "Henrik Winther er medlem af Dansk Industris hovedbestyrelse", "sourceUrls": ["https://www.altinget.dk/erhverv/artikel/cowi-direktoer-stopper-efter-23-aar"], "confidence": "high"}
+      ],
+      "sources": [
+        {"title": "Cowi-direktør stopper efter 23 år", "publisher": "Altinget", "url": "https://www.altinget.dk/erhverv/artikel/cowi-direktoer-stopper-efter-23-aar", "publishedAt": "2026-08-21T11:22:00Z", "kind": "primary"}
+      ]
+    },
+    {
+      "id": "novo-nordisk-ceo-severance-20260822",
+      "eventKey": "novo-nordisk-ceo-severance-2026-08",
+      "materialFacts": [
+        "Lars Fruergaard Jørgensen fik en samlet fratrædelsespakke på 123 mio. kr.",
+        "Heraf 42,9 mio. kr. i fratrædelsesgodtgørelse og 22 mio. kr. for en konkurrenceklausul",
+        "Novo Nordisks 2025-omsætning var lidt over 309 mia. kr., en fremgang på 6 pct.",
+        "Aktien faldt 18 pct. efter regnskabet på svagere salg af vægttabsmedicin"
+      ],
+      "section": "Erhverv",
+      "headline": "Trecifret millionbeløb til Novo-Boss: scorede formue på fyring",
+      "primarySourceUrl": "https://ugebrev.dk/flashnews/trecifret-millionbeloeb-til-novo-boss-scorede-formue-paa-fyring/",
+      "subheadline": "Novo Nordisks fyrede topchef Lars Fruergaard Jørgensen fik i alt 123 millioner kroner med sig ud af døren, viser selskabets lønrapport",
+      "body": [
+        "Novo Nordisks tidligere direktør Lars Fruergaard Jørgensen fik en samlet fratrædelsespakke på 123 mio. kr., viser selskabets lønrapport for 2025, omtalt af Økonomisk Ugebrev. Heraf er 42,9 mio. kr. fratrædelsesgodtgørelse og 22 mio. kr. kompensation for en konkurrenceklausul.",
+        "De 123 mio. kr. dækker både opsigelsen og en løn- og pensionspakke på 22,2 mio. kr., han fik frem til august 2025. Novo Nordisks omsætning landede i 2025 på lidt over 309 mia. kr. (+6 pct.), men aktien faldt 18 pct. efter regnskabet på svagere salg af vægttabsmedicin."
+      ],
+      "whyItMatters": "Pakken bliver offentlig, mens Novo Nordisk-effekten på dansk BNP er til debat, og sætter et kronebeløb på governance-diskussionen efter direktørskiftet i Danmarks største virksomhed.",
+      "analysis": "Pakken vil indgå i bestyrelsens forhandlinger om vederlagspolitik, især fordi den falder samme uge, som DST viser, at medicinalindustriens vækstbidrag er stoppet op.",
+      "image": {
+        "url": "https://ugebrev.dk/wp-content/uploads/2026/02/Lars-Fruergaard-Joergensen.png",
+        "credit": "Kilde: Økonomisk Ugebrev",
+        "alt": "Lars Fruergaard Jørgensen, tidligere administrerende direktør i Novo Nordisk",
+        "sourceUrl": "https://ugebrev.dk/flashnews/trecifret-millionbeloeb-til-novo-boss-scorede-formue-paa-fyring/"
+      },
+      "topics": ["Novo Nordisk", "ledelsesvederlag", "governance"],
+      "entities": ["Novo Nordisk", "Lars Fruergaard Jørgensen"],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {"importance": 60, "decisionValue": 55, "novelty": 65, "sourceQuality": 80, "personalRelevance": 75, "contrast": 60},
+      "claims": [
+        {"text": "Lars Fruergaard Jørgensen fik en samlet fratrædelsespakke på 123 mio. kr. fra Novo Nordisk, heraf 42,9 mio. kr. i fratrædelsesgodtgørelse og 22 mio. kr. for en konkurrenceklausul", "sourceUrls": ["https://ugebrev.dk/flashnews/trecifret-millionbeloeb-til-novo-boss-scorede-formue-paa-fyring/"], "confidence": "high"},
+        {"text": "Novo Nordisks 2025-omsætning var lidt over 309 mia. kr. (+6 pct.), og aktien faldt 18 pct. efter regnskabet", "sourceUrls": ["https://ugebrev.dk/flashnews/trecifret-millionbeloeb-til-novo-boss-scorede-formue-paa-fyring/"], "confidence": "high"}
+      ],
+      "sources": [
+        {"title": "Trecifret millionbeløb til Novo-Boss: scorede formue på fyring", "publisher": "Økonomisk Ugebrev", "url": "https://ugebrev.dk/flashnews/trecifret-millionbeloeb-til-novo-boss-scorede-formue-paa-fyring/", "publishedAt": "2026-08-21T14:06:51Z", "kind": "primary"}
+      ]
+    },
+    {
+      "id": "consultancy-leadership-reshuffle-20260822",
+      "eventKey": "consultancy-leadership-reshuffle-2026-08",
+      "materialFacts": [
+        "Sofie Ustrup bliver ny topchef i Rud Pedersen Danmark fra 1. oktober 2026",
+        "Hun efterfølger Jens Hjorth-Larsen, der stopper efter ti år i branchen",
+        "Ulveman & Børsting har dannet ny direktion med Andreas Thyrring som ny administrerende direktør",
+        "Tre medarbejdere hos Ulveman & Børsting er forfremmet til partner"
+      ],
+      "section": "Erhverv",
+      "headline": "Rud Pedersen får ny topchef",
+      "primarySourceUrl": "https://www.altinget.dk/navnenyt/rud-pedersen-faar-ny-topchef",
+      "subheadline": "Sofie Ustrup bliver ny topchef i Rud Pedersen Danmark 1. oktober – samme uge skifter også Ulveman & Børsting sin direktion",
+      "body": [
+        "Sofie Ustrup, hidtil partner i Rud Pedersen Danmark, bliver fra 1. oktober 2026 ny administrerende direktør i rådgivningsbureauet. Hun efterfølger Jens Hjorth-Larsen, der stopper efter ti år i branchen, skriver Altinget.",
+        "Skiftet falder sammen med, at bureauet Ulveman & Børsting samme uge har dannet en ny direktion og udpeget partner Andreas Thyrring som administrerende direktør, mens tre medarbejdere er forfremmet til partner, ifølge Altinget."
+      ],
+      "whyItMatters": "To af Københavns største public affairs-bureauer skifter topledelse i samme uge. For enhver i det danske rådgivningslandskab er det et signal om en bredere generationsrokade i branchen.",
+      "analysis": "Begge skift er interne forfremmelser snarere end eksterne rekrutteringer – en branche, der bygger videre på egne folk frem for at hente ledelse udefra, i et efterår med tæt EU- og forsvarsdagsorden for bureauernes kunder.",
+      "image": {
+        "url": "https://legacy.altinget.dk/images/article/305568/159548.jpg",
+        "credit": "Kilde: Altinget",
+        "alt": "Rud Pedersens ledelse og bestyrelsesformænd (arkivfoto)",
+        "sourceUrl": "https://www.altinget.dk/navnenyt/rud-pedersen-faar-ny-topchef"
+      },
+      "topics": ["ledelsesskifte", "public affairs", "rådgivningsbranchen"],
+      "entities": ["Rud Pedersen", "Sofie Ustrup", "Ulveman & Børsting", "Andreas Thyrring"],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {"importance": 45, "decisionValue": 55, "novelty": 65, "sourceQuality": 78, "personalRelevance": 78, "contrast": 45},
+      "claims": [
+        {"text": "Sofie Ustrup bliver ny administrerende direktør i Rud Pedersen Danmark fra 1. oktober 2026 og efterfølger Jens Hjorth-Larsen", "sourceUrls": ["https://www.altinget.dk/navnenyt/rud-pedersen-faar-ny-topchef"], "confidence": "high"},
+        {"text": "Ulveman & Børsting har udpeget Andreas Thyrring som ny administrerende direktør og forfremmet tre medarbejdere til partner", "sourceUrls": ["https://www.altinget.dk/navnenyt/ulveman-boersting-danner-direktion-og-udpeger-ny-administrerende-direktoer"], "confidence": "high"}
+      ],
+      "sources": [
+        {"title": "Rud Pedersen får ny topchef", "publisher": "Altinget", "url": "https://www.altinget.dk/navnenyt/rud-pedersen-faar-ny-topchef", "publishedAt": "2026-08-21T08:57:00Z", "kind": "primary"},
+        {"title": "Ulveman & Børsting udpeger ny direktion og administrerende direktør", "publisher": "Altinget", "url": "https://www.altinget.dk/navnenyt/ulveman-boersting-danner-direktion-og-udpeger-ny-administrerende-direktoer", "publishedAt": "2026-08-21T09:15:00Z", "kind": "primary"}
+      ]
+    },
+    {
+      "id": "dk-defense-supplier-boom-20260822",
+      "eventKey": "dk-defense-supplier-boom-2026-08",
+      "materialFacts": [
+        "14 pct. af danske virksomheder med 10-499 ansatte leverer allerede til forsvaret",
+        "15 pct. overvejer at blive forsvarsleverandører",
+        "Over 7.000 virksomheder har enten kunder i eller overvejer forsvarssektoren",
+        "Blandt industrivirksomheder leverer 19 pct. allerede, og 29 pct. overvejer det"
+      ],
+      "section": "Erhverv",
+      "headline": "Danske virksomheder sværmer om Forsvaret",
+      "primarySourceUrl": "https://www.danskindustri.dk/di-business/arkiv/nyheder/2026/8/over-7.000-virksomheder-ser-muligheder-i-forsvarsoprustningen",
+      "subheadline": "14 procent af danske virksomheder med 10-499 ansatte leverer allerede til forsvaret, og yderligere 15 procent overvejer det, viser ny analyse for DI",
+      "body": [
+        "Over 7.000 danske virksomheder har kunder i forsvarssektoren eller overvejer det, viser en analyse fra AL Sydbank og Voxmeter, offentliggjort af Dansk Industri. 14 pct. af virksomheder med 10-499 ansatte leverer allerede til forsvaret, 15 pct. overvejer det. Blandt industrivirksomheder er andelen højere: 19 og 29 pct.",
+        "»Analysen bekræfter det, vi oplever i DI: Mange virksomheder vil gerne bidrage til Danmarks og Europas sikkerhed,« siger Joachim Finkielman, branchedirektør i DI. DI lancerer i september et forsvarsforum."
+      ],
+      "whyItMatters": "Dansk forsvarsforbrug nærmer sig 100 mia. kr. om året, og tallene viser, at det breder sig ud i virksomhedsbasen – ikke kun blandt etablerede leverandører.",
+      "analysis": "Et eksempel er samarbejdet mellem Mekoprint og idoc, der siden årsskiftet har skabt projekter for et tocifret millionbeløb – nye, mindre kendte industrielle alliancer i kølvandet på oprustningen.",
+      "image": {
+        "url": "https://www.danskindustri.dk/globalassets/di-business/forsvar-og-aerospace/lyseroed-raket_16x9-foto-morten-flint.jpg",
+        "credit": "Foto: Morten Flint / Dansk Industri",
+        "alt": "Den danske langtrækkende angrebsdrone FP-5 Flamingo fremvist ved en forsvarsmesse",
+        "sourceUrl": "https://www.danskindustri.dk/di-business/arkiv/nyheder/2026/8/over-7.000-virksomheder-ser-muligheder-i-forsvarsoprustningen"
+      },
+      "topics": ["forsvarsindustri", "Dansk Industri", "danske virksomheder"],
+      "entities": ["Dansk Industri", "Joachim Finkielman", "Mekoprint", "idoc"],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {"importance": 70, "decisionValue": 70, "novelty": 65, "sourceQuality": 85, "personalRelevance": 82, "contrast": 50},
+      "claims": [
+        {"text": "14 pct. af danske virksomheder med 10-499 ansatte leverer allerede til forsvaret, og 15 pct. overvejer det; blandt industrivirksomheder er tallene 19 pct. og 29 pct.", "sourceUrls": ["https://www.danskindustri.dk/di-business/arkiv/nyheder/2026/8/over-7.000-virksomheder-ser-muligheder-i-forsvarsoprustningen"], "confidence": "high"},
+        {"text": "Mekoprint og idoc har siden årsskiftet skabt forsvarsrelaterede projekter for et tocifret millionbeløb gennem et strategisk samarbejde", "sourceUrls": ["https://www.danskindustri.dk/di-business/arkiv/nyheder/2026/8/virksomheder-gar-sammen-om-europaiske-forsvarsleverancer/"], "confidence": "high"}
+      ],
+      "sources": [
+        {"title": "Danske virksomheder sværmer om Forsvaret", "publisher": "Dansk Industri", "url": "https://www.danskindustri.dk/di-business/arkiv/nyheder/2026/8/over-7.000-virksomheder-ser-muligheder-i-forsvarsoprustningen", "publishedAt": "2026-08-21T06:00:00Z", "kind": "primary"},
+        {"title": "Virksomheder går sammen om europæiske forsvarsleverancer", "publisher": "Dansk Industri", "url": "https://www.danskindustri.dk/di-business/arkiv/nyheder/2026/8/virksomheder-gar-sammen-om-europaiske-forsvarsleverancer/", "publishedAt": "2026-08-21T06:00:00Z", "kind": "primary"}
+      ]
+    },
+    {
+      "id": "nord-stream-denmark-germany-20260822",
+      "eventKey": "nord-stream-denmark-germany-2026-08",
+      "materialFacts": [
+        "Rigsadvokaten modtog en tysk retsanmodning om Nord Stream i februar 2024",
+        "Danmark henviser til samarbejde mellem landenes efterretningstjenester frem for direkte retsassistance",
+        "PET oplyser, at dets efterforskninger er klassificerede af hensyn til statens sikkerhed",
+        "Jurist Birgit Feldtmann peger på oplysninger, der tilsyneladende ikke er nået frem til den tyske anklagemyndighed"
+      ],
+      "section": "Sikkerhed",
+      "headline": "PET og Rigsadvokaten: Vi hjalp tyskerne med Nord Stream i et 'efterretningsspor'",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/pet-og-rigsadvokaten-vi-hjalp-tyskerne-med-nord-stream-i-et-efterretningsspor",
+      "subheadline": "Danske myndigheder afviser at have nægtet Tyskland hjælp til efterforskningen af Nord Stream-sabotagen, men en jurist peger på oplysninger, der ikke er nået frem",
+      "body": [
+        "Rigsadvokaten og PET afviser, at Danmark har nægtet at hjælpe Tysklands efterforskning af Nord Stream-sabotagen i 2022. Rigsadvokaten bekræfter en tysk retsanmodning fra februar 2024 og oplyser, at samarbejdet foregik via efterretningstjenesterne. PET henviser til, at efterforskningerne er klassificerede.",
+        "Et tysk anklagedokument skal pege på, at Danmark afviste anmodninger om Bornholm og Christiansø. Juraprofessor Birgit Feldtmann (Aalborg Universitet) siger, noget tyder på, at tyskerne ikke har fået adgang til afhøringer om vidner til et ukrainsk fartøj."
+      ],
+      "whyItMatters": "Nord Stream-sabotagen er et af de groveste angreb på europæisk infrastruktur i nyere tid, og en dansk-tysk uenighed rejser spørgsmål om Danmarks samarbejdsvilje med en NATO-allieret.",
+      "analysis": "Sagen viser et mønster: Danmark henviser til efterretningssamarbejde ved retsanmodninger – mindre indsigt i, om samarbejdet er så tæt som hævdet.",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Nord_Stream_pipe_in_Kotka.jpg",
+        "credit": "Foto: Vuo / Wikimedia Commons (CC BY-SA 4.0)",
+        "alt": "Et rørstykke fra Nord Stream-gasledningen udstillet i Kotka, Finland (arkivfoto)",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nord_Stream_pipe_in_Kotka.jpg"
+      },
+      "topics": ["Nord Stream", "sikkerhedspolitik", "Danmark-Tyskland"],
+      "entities": ["PET", "Rigsadvokaten", "Birgit Feldtmann"],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {"importance": 75, "decisionValue": 40, "novelty": 70, "sourceQuality": 88, "personalRelevance": 35, "contrast": 80},
+      "claims": [
+        {"text": "Rigsadvokaten modtog en tysk retsanmodning om Nord Stream i februar 2024 og henviste til efterretningssamarbejde mellem landene", "sourceUrls": ["https://www.dr.dk/nyheder/indland/pet-og-rigsadvokaten-vi-hjalp-tyskerne-med-nord-stream-i-et-efterretningsspor"], "confidence": "high"},
+        {"text": "Juraprofessor Birgit Feldtmann (Aalborg Universitet) siger, der er noget, der tyder på, at oplysninger ikke er nået frem til den tyske anklagemyndighed", "sourceUrls": ["https://www.dr.dk/nyheder/indland/pet-og-rigsadvokaten-vi-hjalp-tyskerne-med-nord-stream-i-et-efterretningsspor"], "confidence": "high"}
+      ],
+      "sources": [
+        {"title": "PET og Rigsadvokaten: Vi hjalp tyskerne med Nord Stream i et 'efterretningsspor'", "publisher": "DR", "url": "https://www.dr.dk/nyheder/indland/pet-og-rigsadvokaten-vi-hjalp-tyskerne-med-nord-stream-i-et-efterretningsspor", "publishedAt": "2026-08-21T16:34:58Z", "kind": "primary"}
+      ]
+    },
+    {
+      "id": "east-greenland-whales-20260822",
+      "eventKey": "east-greenland-whales-2026-08",
+      "materialFacts": [
+        "Studiet talte ca. 4.000 pukkelhvaler, 6.000 finhvaler og 6.000 vågehvaler ud for Østgrønland sommeren 2024",
+        "De tre hvalarter æder tilsammen mindst 800.000 tons fisk og krill i løbet af en sommer",
+        "Pakisen, der tidligere blokerede kysten, er ifølge forskerne forsvundet med klimaændringerne",
+        "Studiet er publiceret i Frontiers in Marine Science"
+      ],
+      "section": "Klima",
+      "headline": "Isen forsvinder, så nu rykker tusindvis af hvaler ind i Østgrønland",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/viden/klima/isen-forsvinder-saa-nu-rykker-tusindvis-af-hvaler-ind-i-oestgroenland",
+      "subheadline": "Et nyt studie tæller omkring 16.000 hvaler i farvandet ud for Østgrønland, efter at pakisen, der tidligere blokerede kysten, er forsvundet",
+      "body": [
+        "Et nyt studie i Frontiers in Marine Science har talt omkring 4.000 pukkelhvaler, 6.000 finhvaler og 6.000 vågehvaler ud for Østgrønland i sommeren 2024 – en markant ændring fra tidligere mønstre, skriver DR. Det skyldes, at pakisen, som tidligere blokerede kysten, er forsvundet.",
+        "»Den pakke is, som tidligere blokerede hele kysten, er forsvundet med klimaændringerne,« siger professor Mads Peter Heide-Jørgensen. Hvalerne æder tilsammen mindst 800.000 tons fisk og krill i løbet af en sommer, mens arktiske arter presses af atlantiske arter, der rykker længere ind."
+      ],
+      "whyItMatters": "Historien viser med tal, hvor hurtigt et økosystem flytter sig, når isen forsvinder – en målbar konsekvens af klimaforandringer i Kongeriget, som forskerne allerede har talt op.",
+      "analysis": "800.000 tons fisk og krill spist af hvaler er et pres på et fødenet, der skal forsørge det fiskeri, som er en del af Grønlands økonomi.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/pt4d2na4/fu235478_cr.jpg",
+        "credit": "Kilde: DR",
+        "alt": "Hvalhale ved isfjelde i Arktis (arkivfoto)",
+        "sourceUrl": "https://www.dr.dk/nyheder/viden/klima/isen-forsvinder-saa-nu-rykker-tusindvis-af-hvaler-ind-i-oestgroenland"
+      },
+      "topics": ["klimaforandringer", "Grønland", "hvaler"],
+      "entities": ["Mads Peter Heide-Jørgensen", "Østgrønland"],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {"importance": 55, "decisionValue": 25, "novelty": 80, "sourceQuality": 85, "personalRelevance": 30, "contrast": 85},
+      "claims": [
+        {"text": "Et studie i Frontiers in Marine Science talte ca. 4.000 pukkelhvaler, 6.000 finhvaler og 6.000 vågehvaler ud for Østgrønland i sommeren 2024", "sourceUrls": ["https://www.dr.dk/nyheder/viden/klima/isen-forsvinder-saa-nu-rykker-tusindvis-af-hvaler-ind-i-oestgroenland"], "confidence": "high"},
+        {"text": "De tre hvalarter æder tilsammen mindst 800.000 tons fisk og krill i løbet af en sommer", "sourceUrls": ["https://www.dr.dk/nyheder/viden/klima/isen-forsvinder-saa-nu-rykker-tusindvis-af-hvaler-ind-i-oestgroenland"], "confidence": "high"}
+      ],
+      "sources": [
+        {"title": "Isen forsvinder, så nu rykker tusindvis af hvaler ind i Østgrønland", "publisher": "DR", "url": "https://www.dr.dk/nyheder/viden/klima/isen-forsvinder-saa-nu-rykker-tusindvis-af-hvaler-ind-i-oestgroenland", "publishedAt": "2026-08-21T18:45:00Z", "kind": "primary"}
+      ]
+    },
+    {
+      "id": "pogacar-vuelta-goal-20260822",
+      "eventKey": "pogacar-vuelta-goal-2026-08",
+      "materialFacts": [
+        "Vuelta a España 2026 indledes lørdag med en enkeltstart på 9,4 km i Monaco",
+        "Pogačar vandt Tour de France for femte gang mindre end en måned tidligere",
+        "Jonas Vingegaard deltager ikke pga. et brækket kraveben fra Tour de France",
+        "Otte danske ryttere deltager i årets Vuelta"
+      ],
+      "section": "Sport",
+      "headline": "Pogačar har klart mål for Vueltaen",
+      "primarySourceUrl": "https://sport.tv2.dk/cykling/2026-08-22-pogacar-har-klart-maal-for-vueltaen",
+      "subheadline": "Mindre end en måned efter sin femte Tour-sejr indleder Tadej Pogačar Vuelta a España lørdag med et klart mål: at vinde alle tre Grand Tours",
+      "body": [
+        "Tadej Pogačar (UAE) indleder lørdag Vuelta a España med en enkeltstart på 9,4 km i Monaco. Målet for den 27-årige slovener er en sejr, der gør ham til vinder af alle tre Grand Tours. »Det er et mål, jeg endnu mangler at få opfyldt i min karriere, så jeg vil gøre mit bedste for at vinde,« siger Pogačar til Cyclingnews.com, gengivet af TV 2.",
+        "Sidste års vinder, danske Jonas Vingegaard, deltager ikke efter et brækket kraveben på Tour de Frances 15. etape. Pogačar afviser, at sejren bliver nem: »Det bliver et meget hårdt løb. Jeg forventer, at alle, der er her, er i topform.« Otte danske ryttere er med i årets Vuelta, ifølge TV 2."
+      ],
+      "whyItMatters": "En Pogačar-sejr gør ham til vinder af alle tre Grand Tours, mindre end en måned efter hans femte Tour-triumf.",
+      "analysis": "Med otte danske ryttere på start er der dansk håb i etapesejre, selv uden Vingegaard, i en tidlig test af dansk cykling uden den forsvarende vinder.",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/3/8/0/3801fcf8-f24f-4e67-ad9e-e0f6cfd966cf?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MjgyLDcwLDI4MjYsMTU4OQ&s=62694c835754710801bea7843aa74eec",
+        "credit": "Kilde: TV 2",
+        "alt": "Tadej Pogačar med Tour de France-trofæet i sin gule førertrøje (arkivfoto)",
+        "sourceUrl": "https://sport.tv2.dk/cykling/2026-08-22-pogacar-har-klart-maal-for-vueltaen"
+      },
+      "topics": ["cykling", "Vuelta a España", "Tadej Pogačar"],
+      "entities": ["Tadej Pogačar", "Jonas Vingegaard", "UAE Team Emirates"],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {"importance": 50, "decisionValue": 20, "novelty": 60, "sourceQuality": 82, "personalRelevance": 70, "contrast": 40},
+      "claims": [
+        {"text": "Pogačar indleder Vuelta a España lørdag med mål om at vinde alle tre Grand Tours; citatet er givet til Cyclingnews.com", "sourceUrls": ["https://sport.tv2.dk/cykling/2026-08-22-pogacar-har-klart-maal-for-vueltaen"], "confidence": "high"},
+        {"text": "Jonas Vingegaard deltager ikke i årets Vuelta pga. et brækket kraveben fra Tour de Frances 15. etape", "sourceUrls": ["https://sport.tv2.dk/cykling/2026-08-22-pogacar-har-klart-maal-for-vueltaen"], "confidence": "high"},
+        {"text": "Otte danske ryttere deltager i Vuelta a España 2026", "sourceUrls": ["https://sport.tv2.dk/cykling/2026-08-21-her-er-de-vigtigste-starttider-i-vueltaen"], "confidence": "high"}
+      ],
+      "sources": [
+        {"title": "Pogačar har klart mål for Vueltaen", "publisher": "TV 2", "url": "https://sport.tv2.dk/cykling/2026-08-22-pogacar-har-klart-maal-for-vueltaen", "publishedAt": "2026-08-22T04:14:09Z", "kind": "primary"},
+        {"title": "Her er de vigtigste starttider i Vueltaen", "publisher": "TV 2", "url": "https://sport.tv2.dk/cykling/2026-08-21-her-er-de-vigtigste-starttider-i-vueltaen", "publishedAt": "2026-08-21T15:27:03Z", "kind": "reporting"}
+      ]
+    }
+  ],
+  "signals": [
+    {"text": "ECB Consumer Expectations Survey results – July 2026", "headline": "ECB Consumer Expectations Survey results – July 2026", "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260821~a044fdddd9.en.html", "summary": "Median forventning til inflation 12 måneder frem faldt til 2,9 pct. fra 3,0 pct., og til 2,7 pct. tre år frem, ifølge ECB's forbrugerundersøgelse.", "publisher": "ECB", "section": "Makroøkonomi", "publishedAt": "2026-08-21T08:00:00Z"},
+    {"text": "PMI-forbrug i eurozonen holder sig stærkt i august trods usikkerheder", "headline": "PMI-forbrug i eurozonen holder sig stærkt i august trods usikkerheder", "url": "https://ugebrev.dk/flashnews/pmi-forbrug-i-eurozonen-holder-sig-staerkt-i-august-trods-usikkerheder/", "summary": "Industri-PMI'en for eurozonen steg til 53,4 i august, det højeste i fire et halvt år, mens serviceindekset lå stabilt på 51,7.", "publisher": "Økonomisk Ugebrev", "section": "Makroøkonomi", "publishedAt": "2026-08-21T09:57:00Z"},
+    {"text": "Tidligere Coop-direktør bliver ny sekretariatschef hos Lederne", "headline": "Tidligere Coop-direktør bliver ny sekretariatschef hos Lederne", "url": "https://www.altinget.dk/navnenyt/tidligere-coop-direktoer-bliver-ny-sekretariatschef-hos-lederne", "summary": "Mike Dranov, tidligere direktør i Coop Amba, bliver ny sekretariatschef hos interesseorganisationen Lederne fra 1. august 2026.", "publisher": "Altinget", "section": "Erhverv", "publishedAt": "2026-08-20T07:35:00Z"},
+    {"text": "Politi massivt til stede efter knivstikkeri i København", "headline": "Politi massivt til stede efter knivstikkeri i København", "url": "https://www.dr.dk/nyheder/seneste/politi-massivt-til-stede-efter-knivstikkeri-i-koebenhavn", "summary": "En mand blev stukket ned på Tagensvej i København og er i let tilstand. Gerningsmanden er ikke anholdt.", "publisher": "DR", "section": "Indland", "publishedAt": "2026-08-21T16:11:20Z"},
+    {"text": "Mand fra minkbranchen dømt i sag om hvidvask af 7,7 millioner kroner", "headline": "Mand fra minkbranchen dømt i sag om hvidvask af 7,7 millioner kroner", "url": "https://www.dr.dk/nyheder/seneste/mand-fra-minkbranchen-doemt-i-sag-om-hvidvask-af-7-7-millioner-kroner", "summary": "En 71-årig mand fra Sæby er idømt 1 år og 9 måneders fængsel for hvidvask af 7,7 mio. kr.", "publisher": "DR", "section": "Krimi", "publishedAt": "2026-08-21T14:02:32Z"},
+    {"text": "Mand anholdt efter anmeldelse fra 10-årig pige", "headline": "Mand anholdt efter anmeldelse fra 10-årig pige", "url": "https://www.dr.dk/nyheder/seneste/mand-anholdt-efter-anmeldelse-fra-10-aarig-pige", "summary": "En 52-årig mand er anholdt, efter han forsøgte at trække en 10-årig pige mod en bil i Vindinge ved Roskilde.", "publisher": "DR", "section": "Krimi", "publishedAt": "2026-08-21T19:56:20Z"},
+    {"text": "Dansker tæt på førstepladsen på Trumps golfbane", "headline": "Dansker tæt på førstepladsen på Trumps golfbane", "url": "https://www.dr.dk/nyheder/seneste/dansker-taet-paa-foerstepladsen-paa-trumps-golfbane", "summary": "Jacob Skov Olesen ligger delt sjettepladsen ved Nexo Championship, to slag efter føreren, efter anden runde.", "publisher": "DR", "section": "Sport", "publishedAt": "2026-08-21T20:40:54Z"},
+    {"text": "Her er de vigtigste starttider i Vueltaen", "headline": "Her er de vigtigste starttider i Vueltaen", "url": "https://sport.tv2.dk/cykling/2026-08-21-her-er-de-vigtigste-starttider-i-vueltaen", "summary": "TV 2 samler starttiderne for lørdagens enkeltstart i Monaco, heriblandt de otte danske ryttere.", "publisher": "TV 2", "section": "Sport", "publishedAt": "2026-08-21T15:27:03Z"},
+    {"text": "Rekordmange passagerer skaber vækst hos Københavns Lufthavn", "headline": "Rekordmange passagerer skaber vækst hos Københavns Lufthavn", "url": "https://www.dr.dk/nyheder/seneste/rekordmange-passagerer-skaber-vaekst-hos-koebenhavns-lufthavn", "summary": "16,1 mio. passagerer rejste gennem Københavns Lufthavn i 1. halvår, det højeste nogensinde. Omsætning ca. 2,8 mia. kr., overskud 664 mio. kr.", "publisher": "DR", "section": "Erhverv", "publishedAt": "2026-08-21T11:18:35Z"},
+    {"text": "Bilister holder i kilometerlange køer i motorvejskaos: »De næste tre uger bliver rigtig hårde«", "headline": "Bilister holder i kilometerlange køer i motorvejskaos: »De næste tre uger bliver rigtig hårde«", "url": "https://www.dr.dk/nyheder/indland/bilister-holder-i-kilometerlange-koeer-i-motorvejskaos-de-naeste-tre-uger-bliver-rigtig-haarde", "summary": "Udvidelsen af E45 ved Aarhus har lukket en central tilkørsel til Aalborg-retningen frem til 10. september og skaber lange køer.", "publisher": "DR", "section": "Indland", "publishedAt": "2026-08-21T13:56:00Z"},
+    {"text": "Tidligere statsløse palæstinensere taber i Højesteret", "headline": "Tidligere statsløse palæstinensere taber i Højesteret", "url": "https://www.dr.dk/nyheder/seneste/tidligere-statsloese-palaestinensere-taber-i-hoejesteret", "summary": "Højesteret afviste erstatningskrav fra 22 tidligere statsløse palæstinensere mod Udlændinge- og Integrationsministeriet i en sag, der går tilbage til 2012.", "publisher": "DR", "section": "Indland", "publishedAt": "2026-08-21T10:09:29Z"}
+  ],
+  "recommendations": [
+    {
+      "id": "rec-ones-and-tooze-245-20260822",
+      "mode": "listen",
+      "kind": "podcast",
+      "status": "available",
+      "title": "Adam Tooze: Is Europe Falling Behind? (Plus: History of Morocco) | Ones and Tooze Ep. 245",
+      "creator": "Adam Tooze og Cameron Abadi",
+      "provider": "Foreign Policy",
+      "url": "https://www.youtube.com/watch?v=Deo6uoYFewc",
+      "commitment": "45 min",
+      "description": "Episode 245 af Foreign Policys podcast Ones and Tooze, hvor historikeren Adam Tooze og Cameron Abadi diskuterer, om Europa sakker bagud økonomisk i forhold til USA.",
+      "rationale": "To økonomer, der argumenterer med tal frem for temperament, om præcis det spørgsmål om europæisk konkurrenceevne, han har brugt en karriere på i Bruxelles.",
+      "topics": ["EU-konkurrenceevne", "makroøkonomi"],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-eu-china-industrial-20260822",
+      "mode": "read",
+      "kind": "artikel",
+      "status": "new",
+      "title": "What the EU Should Learn from China's Industrial Policy",
+      "creator": "Alicia García Herrero",
+      "provider": "Intereconomics",
+      "url": "https://www.intereconomics.eu/contents/year/2026/number/2/article/what-the-eu-should-learn-from-china-s-industrial-policy.html",
+      "commitment": "10 min",
+      "description": "Kort videnskabelig artikel, der argumenterer for, at EU fejlfortolker Kinas industripolitik ved kun at fokusere på højteknologisk støtte og overser de langt større tilskud til modne industrier.",
+      "rationale": "To siders skarp analyse af netop det spørgsmål om europæisk industripolitik over for Kina, som han har arbejdet med fra Bruxelles-siden i årevis.",
+      "topics": ["EU industripolitik", "Kina"],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-pekingology-dual-economy-20260822",
+      "mode": "listen",
+      "kind": "podcast",
+      "status": "available",
+      "title": "Inside China's Dual Economy",
+      "creator": "Henrietta Levin og Alicia García-Herrero",
+      "provider": "CSIS",
+      "url": "https://www.csis.org/podcasts/pekingology/inside-chinas-dual-economy",
+      "commitment": "35 min",
+      "description": "CSIS' Kina-podcast Pekingology ser på, hvorfor Xi har prioriteret global teknologisk lederskab over indenlandsk økonomisk velstand, og hvorfor mange succesfulde kinesiske firmaer ikke kan tjene penge.",
+      "rationale": "Et dybere blik på Kinas indenlandske politiske økonomi som modstykke til handelsdebatten – relevant for en, der byggede dansk erhvervslivs Kina-tilstedeværelse.",
+      "topics": ["Kina", "emerging markets"],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-enter-art-fair-20260822",
+      "mode": "experience",
+      "kind": "kunstmesse",
+      "status": "upcoming",
+      "title": "Enter Art Fair 2026",
+      "provider": "Enter Art Fair",
+      "url": "https://www.enterartfair.com/",
+      "availability": "27.-30. august 2026, Lokomotivværkstedet, København",
+      "commitment": "2-3 timer",
+      "description": "Skandinaviens største internationale kunstmesse med 88 gallerier fra omkring 20 lande, et talks-program med kunstnere og kuratorer samt et nyt samarbejde med Den Frie Udstillingsbygning.",
+      "rationale": "En kulturel udflugt i hjemmebyen samme uge som denne udgave, uden for hans faglige felt – en oplagt serendipitet-anbefaling, der ikke kræver rejse.",
+      "topics": ["kunst", "København"],
+      "isFeatured": true,
+      "image": {
+        "url": "https://www.enterartfair.com/wp-content/uploads/2026/06/54869562455_0347d92c50_k.jpg",
+        "credit": "Kilde: Enter Art Fair",
+        "alt": "Kunstværk med en figur i rødt tøj på revnet jord, fra Enter Art Fairs talks-program",
+        "sourceUrl": "https://www.enterartfair.com/"
+      }
+    },
+    {
+      "id": "rec-viking-textile-site-20260822",
+      "mode": "read",
+      "kind": "artikel",
+      "status": "new",
+      "title": "Were Vikings Really 'Uncivilized' Barbarians? Large Textile-Production Site Discovered in Denmark Challenges That Stereotype",
+      "creator": "Sarah Kuta",
+      "provider": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/large-textile-production-site-discovered-in-denmark-challenges-the-stereotype-of-vikings-as-uncivilized-barbarians-180989014/",
+      "commitment": "8 min",
+      "description": "Et udgravet vikingetids-tekstilanlæg ved Søften uden for Aarhus med 82 værkstedshytter og redskaber til hør-forarbejdning, dateret til år 600-950, viser en organiseret produktionslinje knyttet til vikingernes handelsnetværk.",
+      "rationale": "Ren arkæologi, uden for hans daglige felt, men med et skævt ekko af hans egen karriere: en organiseret dansk produktionslinje koblet til et europæisk handelsnetværk, tusind år før BusinessEurope fandtes.",
+      "topics": ["arkæologi", "vikingetiden"],
+      "isFeatured": false
+    }
+  ],
+  "quality": {
+    "sourceVerification": 90,
+    "publisherDiversity": 85,
+    "personalRelevanceFit": 82,
+    "outsideProfileCoverage": 80,
+    "imageCompleteness": 75
+  }
+}
