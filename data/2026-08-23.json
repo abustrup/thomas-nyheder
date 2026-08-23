@@ -1,0 +1,863 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-20260823",
+  "date": "2026-08-23",
+  "generatedAt": "2026-08-23T04:26:04.000Z",
+  "readingMinutes": 12,
+  "title": "Thomas' Nyheder",
+  "dek": "Søndag 23. august 2026 – dansk økonomi, landbrugsregulering, en kinesisk robotaxi til Danmark og en dansk bokser, der tog verden med storm",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-ae-dk-gdp-forecast-2026",
+      "eventKey": "ae-dk-gdp-forecast-2026",
+      "materialFacts": [
+        "AE venter 4,2 pct. BNP-vækst i 2026, op fra 3,9 pct. (2024) og 3,5 pct. (2025)",
+        "Eksporten ventes at stige 4,4 pct. i 2026",
+        "Beskæftigelsen er steget med 301.000 personer siden start-2021, 84 pct. i den private sektor"
+      ],
+      "section": "Økonomi",
+      "headline": "Ny prognose viser overraskende udvikling i dansk økonomi",
+      "primarySourceUrl": "https://nyheder.tv2.dk/business/2026-08-18-ny-prognose-viser-overraskende-udvikling-i-dansk-oekonomi",
+      "subheadline": "AE venter 4,2 procent vækst i 2026 og fremhæver eksportvirksomhedernes modstandskraft",
+      "body": [
+        "AE venter nu 4,2 procent BNP-vækst i 2026 – op fra 3,9 procent i 2024 og 3,5 procent i 2025. Eksporten ventes at stige 4,4 procent, efter en periode med et gennemsnit på 6,5 procent om året, med medicinalindustrien som drivkraft.",
+        "Beskæftigelsen er steget med 301.000 personer siden 2021, 84 procent i den private sektor. AE-analytiker Frederik Olsen: »De danske eksportvirksomheder har vist sig meget modstandsdygtige over for den uro, vi har set i verden, og der er ikke udsigt til nogen tilbagegang lige nu.«"
+      ],
+      "whyItMatters": "Medicinalbranchen har længe »holdt hånden under dansk økonomi«, som Olsen formulerer det – men han påpeger selv, at der nu også er »kommet mere gang i andre dele af økonomien«, hvilket gør væksten bredere funderet, end et rent pharma-fokus antyder.",
+      "analysis": "Olsen understreger, at fremgangen »skaber en masse nye job« – men de risici, AE selv nævner, er netop dem, en eksporttung økonomi ikke kontrollerer: oliepriser, amerikansk told og AI's effekt på arbejdsmarkedet.",
+      "topics": [
+        "macro",
+        "export-machinery",
+        "pharma-concentration"
+      ],
+      "entities": [
+        "Arbejderbevægelsens Erhvervsråd",
+        "Novo Nordisk",
+        "Mærsk",
+        "DSV",
+        "Frederik Olsen"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 78,
+        "decisionValue": 70,
+        "novelty": 60,
+        "sourceQuality": 80,
+        "personalRelevance": 90,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "AE venter 4,2 pct. BNP-vækst i 2026, op fra 3,9 pct. (2024) og 3,5 pct. (2025)",
+          "sourceUrls": [
+            "https://www.ae.dk/prognose/2026-08-prognose-danmark-har-udsigt-til-historisk-hoej-vaekst-i-2026"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Eksporten ventes at stige 4,4 pct. i 2026 efter et gennemsnit på 6,5 pct./år 2021-2025",
+          "sourceUrls": [
+            "https://www.ae.dk/prognose/2026-08-prognose-danmark-har-udsigt-til-historisk-hoej-vaekst-i-2026"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Beskæftigelsen er steget med 301.000 personer siden start-2021, 84 pct. i den private sektor",
+          "sourceUrls": [
+            "https://www.ae.dk/prognose/2026-08-prognose-danmark-har-udsigt-til-historisk-hoej-vaekst-i-2026"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Ny prognose viser overraskende udvikling i dansk økonomi",
+          "publisher": "TV 2",
+          "url": "https://nyheder.tv2.dk/business/2026-08-18-ny-prognose-viser-overraskende-udvikling-i-dansk-oekonomi",
+          "publishedAt": "2026-08-18T03:26:32.891Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Prognose: Danmark har udsigt til historisk høj vækst i 2026",
+          "publisher": "Arbejderbevægelsens Erhvervsråd (AE)",
+          "url": "https://www.ae.dk/prognose/2026-08-prognose-danmark-har-udsigt-til-historisk-hoej-vaekst-i-2026",
+          "publishedAt": "2026-08-18T00:00:00.000Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/9/e/0/9e00ea8c-e1de-4dd2-8e02-25a2d3b83645?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCw0NTAsODY0MCw0ODYw&s=fed9b31c707b243291869333450c26fd",
+        "credit": "Kilde: TV 2",
+        "alt": "Ny prognose viser overraskende udvikling i dansk økonomi",
+        "sourceUrl": "https://nyheder.tv2.dk/business/2026-08-18-ny-prognose-viser-overraskende-udvikling-i-dansk-oekonomi"
+      }
+    },
+    {
+      "id": "story-lf-krisemode-kvaelstof-pesticid",
+      "eventKey": "lf-krisemode-kvaelstof-pesticid-2026",
+      "materialFacts": [
+        "L&F indkalder til krisemøde 31. august i Odense Congress Center",
+        "Ny kvælstofkvote-lov med virkning fra 1. januar 2027, med tilbagevirkende kraft",
+        "Seges Innovation: 2-6 ha brak pr. ha grøntsager, op mod 20.000 ha nationalt"
+      ],
+      "section": "Landbrug",
+      "headline": "L&F kalder erhvervet til krisemøde",
+      "primarySourceUrl": "https://effektivtlandbrug.landbrugnet.dk/artikler/politik/124312/l-f-kalder-erhvervet-til-krisemoede",
+      "subheadline": "Landbrug & Fødevarer indkalder til krisemøde 31. august over ny kvælstofregulering og forslag om sprøjteforbud",
+      "body": [
+        "Landbrug & Fødevarer indkalder branchen til krisemøde 31. august i Odense. Anledningen er en ny kvælstofkvote-lov med virkning fra 1. januar 2027 – med tilbagevirkende kraft – og et bebudet nationalt sprøjteforbud.",
+        "Formand Søren Søndergaard kalder reguleringen »fagligt svag, men ekstremt hård«. Seges Innovation vurderer, at avlere kan komme til at skulle lægge 2-6 hektar brak pr. hektar grøntsager – op mod 20.000 hektar for at fastholde cirka 8.300 hektar produktion."
+      ],
+      "whyItMatters": "L&F er en organisation, DI måler sig med i erhvervslandskabet, og en retroaktiv kvælstoflov rammer et centralt princip: retssikkerheden i regulering, der ændrer vilkårene for allerede foretagne investeringer.",
+      "analysis": "Søndergaard peger på afstanden mellem retorik og politik: »Der er ingen sammenhæng mellem de mange pæne ord om at styrke dansk fødevareproduktion og den politik, der føres.« Afgøres i høringsprocessen.",
+      "topics": [
+        "business-organisation-landscape",
+        "regulation",
+        "agriculture"
+      ],
+      "entities": [
+        "Landbrug & Fødevarer",
+        "Søren Søndergaard",
+        "Seges Innovation",
+        "Regeringen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 65,
+        "decisionValue": 60,
+        "novelty": 65,
+        "sourceQuality": 65,
+        "personalRelevance": 75,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "L&F-formand: regeringen kører videre med en 'fagligt svag, men ekstremt hård kvælstofregulering', tilbagevirkende fra 1. januar 2027",
+          "sourceUrls": [
+            "https://effektivtlandbrug.landbrugnet.dk/artikler/politik/124312/l-f-kalder-erhvervet-til-krisemoede"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Krisemøde 31. august kl. 15.00 i Odense Congress Center",
+          "sourceUrls": [
+            "https://effektivtlandbrug.landbrugnet.dk/artikler/politik/124312/l-f-kalder-erhvervet-til-krisemoede"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Seges Innovation: 2-6 ha brak pr. ha grøntsager, op mod 20.000 ha nationalt for at fastholde ca. 8.300 ha produktion",
+          "sourceUrls": [
+            "https://effektivtlandbrug.landbrugnet.dk/artikler/politik/124312/l-f-kalder-erhvervet-til-krisemoede"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "L&F kalder erhvervet til krisemøde",
+          "publisher": "Effektivt Landbrug",
+          "url": "https://effektivtlandbrug.landbrugnet.dk/artikler/politik/124312/l-f-kalder-erhvervet-til-krisemoede",
+          "publishedAt": "2026-08-20T08:34:00.000Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.lfmedia.dk/cmscontent/media/pagecontent/xlarge/182545.JPG",
+        "credit": "Arkivfoto: Anne Wolfenberg / Effektivt Landbrug",
+        "alt": "Arkivfoto i forbindelse med Landbrug & Fødevarers krisemøde om regeringens landbrugspolitik.",
+        "sourceUrl": "https://effektivtlandbrug.landbrugnet.dk/artikler/politik/124312/l-f-kalder-erhvervet-til-krisemoede"
+      }
+    },
+    {
+      "id": "story-dk-erhvervsfonde-lovforslag",
+      "eventKey": "dk-erhvervsfonde-lovforslag-2026",
+      "materialFacts": [
+        "Lovforslag om erhvervsdrivende fonde kan lade bestyrelser lede uddelinger til stifterfamilier",
+        "Op mod 25 pct. af skattefrie uddelinger fra familie-/blandede fonde går allerede ikke til almene formål",
+        "Enhedslistens Sinem Dybvad Demir har bedt minister Martin Lidegaard klarlægge lovforslaget"
+      ],
+      "section": "Erhvervsliv",
+      "headline": "Ny lov kan flytte fondspenge fra almennytte til private lommer",
+      "primarySourceUrl": "https://www.altinget.dk/erhverv/artikel/ny-lov-om-erhvervsfonde-kan-saette-almene-formaal-under-pres",
+      "subheadline": "CBS-forsker advarer om, at forslag til ny lov om erhvervsdrivende fonde åbner for at lede uddelinger til stifterfamilier",
+      "body": [
+        "Et lovforslag om erhvervsdrivende fonde kan lade fondsbestyrelser lede uddelinger fra almennyttige formål til stifterfamiliens lommer, hvis det vedtages uændret. Det advarer Mark Ørberg, CBS, om ifølge Altinget.",
+        "Allerede i dag går op mod 25 pct. af de skattefrie uddelinger fra familie- og blandede fonde ikke til almene formål. Enhedslistens Sinem Dybvad Demir har bedt minister Martin Lidegaard klarlægge, om reglerne utilsigtet lempes."
+      ],
+      "whyItMatters": "Erhvervsdrivende fonde ejer store dele af dansk erhvervsliv og finansierer forskning og velgørenhed for milliarder årligt – en lempelse rammer selve begrundelsen for fondenes skattefordel.",
+      "analysis": "Ørbergs advarsel er en vurdering af ordlyden, ikke en dokumenteret konsekvens, og ministerens svar foreligger endnu ikke. Men med en fjerdedel af uddelingerne allerede uden for almennyttigt formål er spørgsmålet langt fra kosmetisk.",
+      "topics": [
+        "corporate-governance",
+        "regulation",
+        "business-conditions"
+      ],
+      "entities": [
+        "Mark Ørberg",
+        "Martin Lidegaard",
+        "Sinem Dybvad Demir",
+        "CBS"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 62,
+        "decisionValue": 55,
+        "novelty": 68,
+        "sourceQuality": 70,
+        "personalRelevance": 72,
+        "contrast": 30
+      },
+      "claims": [
+        {
+          "text": "Mark Ørberg (CBS) advarer om, at lovforslaget kan flytte milliarder af kroner fra almennyttige formål til stifterfamilier (paraphrase, ikke direkte citat)",
+          "sourceUrls": [
+            "https://www.altinget.dk/erhverv/artikel/ny-lov-om-erhvervsfonde-kan-saette-almene-formaal-under-pres"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Op mod 25 pct. af de skattefrie uddelinger fra familie- og blandede fonde går allerede ikke til almene formål",
+          "sourceUrls": [
+            "https://www.altinget.dk/erhverv/artikel/ny-lov-om-erhvervsfonde-kan-saette-almene-formaal-under-pres"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Enhedslistens Sinem Dybvad Demir har bedt erhvervsminister Martin Lidegaard klarlægge lovforslagets rækkevidde",
+          "sourceUrls": [
+            "https://www.altinget.dk/erhverv/artikel/ny-lov-om-erhvervsfonde-kan-saette-almene-formaal-under-pres"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Ny lov kan flytte fondspenge fra almennytte til private lommer",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/erhverv/artikel/ny-lov-om-erhvervsfonde-kan-saette-almene-formaal-under-pres",
+          "publishedAt": "2026-08-20T23:00:00.000Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://legacy.altinget.dk/images/article/305485/156840.jpg",
+        "credit": "Foto: Altinget",
+        "alt": "Sinem Dybvad Demir (Enhedslisten), der har bedt erhvervs- og konkurrencekraftminister Martin Lidegaard klarlægge lovforslaget om erhvervsdrivende fonde.",
+        "sourceUrl": "https://www.altinget.dk/erhverv/artikel/ny-lov-om-erhvervsfonde-kan-saette-almene-formaal-under-pres"
+      }
+    },
+    {
+      "id": "story-norway-dk-datacentre-industripolitik",
+      "eventKey": "norway-dk-datacentre-industripolitik-2026",
+      "materialFacts": [
+        "Norges digitaliseringsminister Karianne Tung: vil hverken forbyde datacentre generelt eller indføre en selvstændig koncessionsordning",
+        "Norge har indført det, Tung selv kalder blandt Europas mest omfattende reguleringer af branchen",
+        "Computerworld sætter Norges linje op mod en fortsat uafklaret dansk debat om datacentre og netadgang"
+      ],
+      "section": "Energi og industri",
+      "headline": "Mens Danmark diskuterer datacentre: Sådan vil Norge sikre sig kontrol over branchen",
+      "primarySourceUrl": "https://www.computerworld.dk/art/296556/",
+      "subheadline": "Norges digitaliseringsminister Karianne Tung: Vi skal ikke sige nej til datacentre som branche, men stille krav om samfundsnytte",
+      "body": [
+        "Mens datacentre fylder i den danske debat om elnet og strøm, trækker Norge en klarere linje for, hvilke datacentre landet vil have, skriver Computerworld. Minister Karianne Tung: »Vi skal ikke si ja til alle datasentre, men vi skal heller ikke si nei til datasentre som næring.«",
+        "Hun vil stille krav om samfundsnytte og fremhæver, at Norge har indført »blant Europas mest omfattende reguleringer av næringen«. Computerworld sætter det op mod en uafklaret dansk debat om netadgang."
+      ],
+      "whyItMatters": "Norge og Danmark konkurrerer om de samme datacenterinvesteringer, og et land, der tidligt kræver »samfundsnytte« for netadgang, sætter en standard, danske myndigheder før eller siden skal forholde sig til.",
+      "analysis": "Pointen er ikke, at Norge lukker af for branchen – men vælger kontrol frem for forbud eller fri adgang. Det er den tredje vej, den danske debat om datacentre og kapacitetsstop mangler et klart svar på.",
+      "topics": [
+        "energy",
+        "industry-policy",
+        "datacentres"
+      ],
+      "entities": [
+        "Karianne Tung",
+        "Norge",
+        "Danmark"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 58,
+        "decisionValue": 55,
+        "novelty": 62,
+        "sourceQuality": 60,
+        "personalRelevance": 65,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Karianne Tung: vil hverken forbyde datacentre generelt eller indføre en selvstændig koncessionsordning, men stille krav om samfundsnytte",
+          "sourceUrls": [
+            "https://www.adressa.no/debatt/i/L4aEWQ/vi-skal-ha-kontroll-paa-datasentrene"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Computerworld sætter Norges linje op mod en fortsat uafklaret dansk debat om datacentre, elnet og strøm",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/296556/"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Mens Danmark diskuterer datacentre: Sådan vil Norge sikre sig kontrol over branchen",
+          "publisher": "Computerworld",
+          "url": "https://www.computerworld.dk/art/296556/",
+          "publishedAt": "2026-08-19T11:28:00.000Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Vi skal ha kontroll på datasentrene",
+          "publisher": "Adresseavisen",
+          "url": "https://www.adressa.no/debatt/i/L4aEWQ/vi-skal-ha-kontroll-paa-datasentrene",
+          "publishedAt": "2026-08-18T18:40:25.000Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://www.computerworld.dk/fil/234648?width=1200&height=630&focus=1",
+        "credit": "Kilde: Computerworld",
+        "alt": "Mens Danmark diskuterer datacentre: Sådan vil Norge sikre sig kontrol over branchen",
+        "sourceUrl": "https://www.computerworld.dk/art/296556/"
+      }
+    },
+    {
+      "id": "story-weride-greenmobility-denmark",
+      "eventKey": "weride-greenmobility-denmark-2026",
+      "materialFacts": [
+        "GreenMobility og WeRide sigter mod førerløse delebiler i København i H1 2027",
+        "Betinget af godkendelse fra Vejdirektoratet og Færdselsstyrelsen",
+        "Danmark bliver WeRides sjette europæiske marked"
+      ],
+      "section": "Mobilitet",
+      "headline": "Delebilstjeneste indgår nyt samarbejde - vil sende førerløse biler på gaden i 2027",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/delebilstjeneste-indgaar-nyt-samarbejde-vil-sende-foererloese-biler-paa-gaden-i-2027",
+      "subheadline": "GreenMobility og kinesiske WeRide vil have selvkørende delebiler i København i første halvår af 2027",
+      "body": [
+        "GreenMobility har indgået samarbejde med kinesiske WeRide om autonome delebiler i Danmark. Parterne sigter mod at lancere førerløse delebiler i København i første halvår af 2027 – forudsat godkendelse fra myndighederne.",
+        "GreenMobility-direktør Kasper Gjedsted: »Vi er stolte af at indgå samarbejde med en verdensklassepartner som WeRide, hvis teknologi er blandt de mest avancerede i branchen, mens vi sammen planlægger at bringe autonome delte køretøjer til Danmark.«"
+      ],
+      "whyItMatters": "Historien vender billedet af Kina-eksponering på hovedet: Hvor debatten om Kina normalt handler om afhængighed og de-risking, søger her et kinesisk teknologiselskab adgang til det danske marked – gennem en dansk partner.",
+      "analysis": "Om planen holder, afhænger af myndighedernes godkendelse, som parterne selv fremhæver som forudsætning. Sagen er derfor lige så meget en test af dansk regulering af autonom kørsel som af WeRides teknologi.",
+      "topics": [
+        "china",
+        "market-entry",
+        "mobility",
+        "outside-profile"
+      ],
+      "entities": [
+        "WeRide",
+        "GreenMobility",
+        "Kasper Gjedsted"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 50,
+        "decisionValue": 45,
+        "novelty": 70,
+        "sourceQuality": 75,
+        "personalRelevance": 55,
+        "contrast": 75
+      },
+      "claims": [
+        {
+          "text": "GreenMobility og WeRide sigter mod at lancere førerløse delebiler i København i H1 2027, betinget af myndighedsgodkendelse",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/delebilstjeneste-indgaar-nyt-samarbejde-vil-sende-foererloese-biler-paa-gaden-i-2027"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "GreenMobility-CEO Kasper Gjedsteds citat om samarbejdet",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/delebilstjeneste-indgaar-nyt-samarbejde-vil-sende-foererloese-biler-paa-gaden-i-2027"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Delebilstjeneste indgår nyt samarbejde - vil sende førerløse biler på gaden i 2027",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/delebilstjeneste-indgaar-nyt-samarbejde-vil-sende-foererloese-biler-paa-gaden-i-2027",
+          "publishedAt": "2026-08-03T05:58:58.000Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/wffirv3v/20250722-154238-l.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Delebilstjeneste indgår nyt samarbejde - vil sende førerløse biler på gaden i 2027",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/delebilstjeneste-indgaar-nyt-samarbejde-vil-sende-foererloese-biler-paa-gaden-i-2027"
+      }
+    },
+    {
+      "id": "story-dk-ukraine-ophold-stramning",
+      "eventKey": "dk-ukraine-ophold-stramning-2026",
+      "materialFacts": [
+        "Ukrainere fra de 14 mindst krigshærgede regioner mister adgang til ophold under særloven",
+        "Rammer cirka en tredjedel af de 48.000 ukrainere, kommunerne har boende",
+        "Borgmestre i Rødovre og Ishøj kalder tiltaget utilstrækkeligt for kommunernes boligpres"
+      ],
+      "section": "Politik",
+      "headline": "Regeringen strammer ukraineres adgang til Danmark. Men det løser ikke problemerne, siger borgmester",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/politik/regeringen-strammer-ukraineres-adgang-til-danmark-men-det-loeser-ikke-problemerne-siger-borgmester",
+      "subheadline": "Ukrainere fra de 14 mindst krigshærgede regioner mister fremover adgang til ophold i Danmark efter særloven",
+      "body": [
+        "Regeringen strammer adgangen for ukrainske flygtninge: Ukrainere fra de 14 regioner, vurderet mindst krigshærgede, mister adgang til ophold under særloven. Det rammer cirka en tredjedel af de 48.000 ukrainere, kommunerne har boende.",
+        "Minister Morten Bødskov: »Kommunerne har bedt om, at vi hjælper dem med at løfte lidt af trykket.« Borgmester Britt Jensen (Rødovre): »Det løser ikke de problemer, vi reelt har. Vi får stadig tildelt ukrainske flygtninge til Vestegnen, hvor vi ikke har plads.«"
+      ],
+      "whyItMatters": "Ishøjs borgmester Merete Amdisen: »Vi kan ikke få dispensation til at lave flygtningeboliger i vores grønne områder, så vi havner i en situation, hvor det ender med at blive barakbyer på parkeringspladser.«",
+      "analysis": "Bødskov kan ikke garantere, at de hårdest belastede kommuner slipper for flere: »Det kan jeg ikke, fordi der stadig kommer ukrainere til Danmark.« Effekten er en opbremsning, ikke en løsning.",
+      "topics": [
+        "politics",
+        "migration",
+        "domestic"
+      ],
+      "entities": [
+        "Morten Bødskov",
+        "Britt Jensen",
+        "Merete Amdisen",
+        "Rødovre Kommune",
+        "Ishøj Kommune"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 68,
+        "decisionValue": 50,
+        "novelty": 70,
+        "sourceQuality": 80,
+        "personalRelevance": 40,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "De 14 regioner er dem, Udlændingestyrelsen vurderer som mindst krigshærgede; ukrainere derfra mister fremover adgang til ophold under særloven",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/samfund/2026-08-22-regeringen-vil-begraense-antallet-af-ukrainere-i-danmark"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Rammer cirka en tredjedel af de 48.000 ukrainere, kommunerne i dag har boende",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/politik/regeringen-strammer-ukraineres-adgang-til-danmark-men-det-loeser-ikke-problemerne-siger-borgmester"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Borgmestrenes citater om utilstrækkelig løsning på boligpres",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/politik/regeringen-strammer-ukraineres-adgang-til-danmark-men-det-loeser-ikke-problemerne-siger-borgmester"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Regeringen strammer ukraineres adgang til Danmark. Men det løser ikke problemerne, siger borgmester",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/politik/regeringen-strammer-ukraineres-adgang-til-danmark-men-det-loeser-ikke-problemerne-siger-borgmester",
+          "publishedAt": "2026-08-22T19:22:00.000Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Regeringen vil begrænse antallet af ukrainere i Danmark",
+          "publisher": "TV 2",
+          "url": "https://nyheder.tv2.dk/samfund/2026-08-22-regeringen-vil-begraense-antallet-af-ukrainere-i-danmark",
+          "publishedAt": "2026-08-22T09:18:00.000Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/tinpo02b/20240221-145327-7-1920x1280web.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Foto: © Søren Bidstrup / Ritzau Scanpix",
+        "alt": "Den ukrainske familie Polishchuk, der er flygtet fra det østlige Ukraine, i deres etværelses-lejlighed i København.",
+        "sourceUrl": "https://www.dr.dk/nyheder/politik/regeringen-strammer-ukraineres-adgang-til-danmark-men-det-loeser-ikke-problemerne-siger-borgmester"
+      }
+    },
+    {
+      "id": "story-mortensen-wba-vm-titel",
+      "eventKey": "mortensen-wba-vm-titel-2026",
+      "materialFacts": [
+        "Melissa Mortensen vandt WBA-titlen i superbantamvægt over Mayelli Flores på splitpoints",
+        "Forbedrer sin rekord til 10-0; comeback efter albueskade fra januar",
+        "Kun den anden danske bokser til at vinde VM i denne vægtklasse, efter Dina Thorslund"
+      ],
+      "section": "Sport",
+      "headline": "Hun tænkte 'fuck det', og minutter senere var Melissa verdensmester",
+      "primarySourceUrl": "https://www.dr.dk/sporten/boksning/hun-taenkte-fuck-det-og-minutter-senere-var-melissa-verdensmester",
+      "subheadline": "Melissa Mortensen fra Varde vandt VM-titlen i superbantamvægt ved sit comeback efter en albueskade",
+      "body": [
+        "Den 24-årige bokser Melissa Mortensen fra Varde er ny VM-mester i superbantamvægt (WBA) efter en sejr på splitpoints (95-94, 94-95, 95-94) over tidligere verdensmester Mayelli Flores fra Mexico i Temecula, Californien, natten til lørdag. Sejren var comeback efter en albueskade fra januar.",
+        "Med sejren forbedrer Mortensen sin rekord til 10-0 og bliver kun den anden danske bokser til at vinde et VM i denne vægtklasse, efter Dina Thorslund. »Jeg tænkte bare 'fuck det'. Nu går jeg ind og viser, at det er min ring,« siger hun til DR."
+      ],
+      "whyItMatters": "En dansker uden for de etablerede verdensmestre, der tager et VM-bælte på modstanderens hjemmebane, er blandt de stærkeste danske individuelle præstationer i en internationalt anerkendt disciplin i år.",
+      "analysis": "Mortensen sætter ambitionerne højt: »Jeg vil rigtig gerne samle alle bælter,« siger hun.",
+      "topics": [
+        "sport",
+        "boxing",
+        "danish-athlete-abroad"
+      ],
+      "entities": [
+        "Melissa Mortensen",
+        "Mayelli Flores",
+        "Dina Thorslund"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 20,
+        "novelty": 80,
+        "sourceQuality": 75,
+        "personalRelevance": 70,
+        "contrast": 60
+      },
+      "claims": [
+        {
+          "text": "Mortensen slog Mayelli Flores på split decision (95-94, 94-95, 95-94) og vandt WBA-titlen i superbantamvægt, rekord 10-0",
+          "sourceUrls": [
+            "https://www.dr.dk/sporten/boksning/hun-taenkte-fuck-det-og-minutter-senere-var-melissa-verdensmester"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Kun den anden danske bokser til at vinde VM i superbantamvægt, efter Dina Thorslund",
+          "sourceUrls": [
+            "https://www.dr.dk/sporten/boksning/hun-taenkte-fuck-det-og-minutter-senere-var-melissa-verdensmester"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Hun tænkte 'fuck det', og minutter senere var Melissa verdensmester",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/sporten/boksning/hun-taenkte-fuck-det-og-minutter-senere-var-melissa-verdensmester",
+          "publishedAt": "2026-08-22T18:03:33.000Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/2tjlejvi/20260822-052830-2_crop004.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Foto: © Luke Hales, AFP/Ritzau Scanpix",
+        "alt": "Melissa Mortensen fejrer VM-titlen i superbantamvægt efter sejren over Mayelli Flores i Temecula, Californien.",
+        "sourceUrl": "https://www.dr.dk/sporten/boksning/hun-taenkte-fuck-det-og-minutter-senere-var-melissa-verdensmester"
+      }
+    },
+    {
+      "id": "story-matthias-koetter-nazi-dna",
+      "eventKey": "matthias-koetter-nazi-dna-2026",
+      "materialFacts": [
+        "DNA-test afslørede donorinsemination via Karolinska Sygehus og 15 halvsøskende",
+        "Biologisk far var Walther Frisch, en dansk Waffen-SS-soldat",
+        "Adoptivfar Heinz Kötter tvangssteriliseret af nazisterne i 1944 efter psykiatrisk indlæggelse"
+      ],
+      "section": "Historie og samfund",
+      "headline": "Matthias fik to gange nazi-chok i fødselsdagsgave",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/matthias-fik-gange-nazi-chok-i-foedselsdagsgave",
+      "subheadline": "En DNA-test afslørede, at tyske Matthias Kötters biologiske far var en dansk Waffen-SS-soldat – og at hans adoptivfar blev tvangssteriliseret af nazisterne",
+      "body": [
+        "En DNA-test i fødselsdagsgave vendte op og ned på Matthias Kötters liv: Han blev til ved donorinsemination på Karolinska Sygehus, har 15 halvsøskende, og hans biologiske far var Walther Frisch, en dansk Waffen-SS-soldat.",
+        "Kort efter fandt han ud af, at adoptivfar Heinz Kötter blev tvangssteriliseret af nazisterne i 1944 efter en psykiatrisk indlæggelse. »Hvorfor havnede min far der?« spørger han, og kræver nu svar fra Karolinska Sygehus."
+      ],
+      "whyItMatters": "Historien viser, hvordan et DNA-testresultat kan afdække flere lag af skjult europæisk historie på én gang – doneret sæd, tvangssterilisering under nazismen og dansk krigsfortid – uden at familien kendte til nogen af delene.",
+      "analysis": "Matthias Kötter tror ikke, hans mor kendte til tvangssteriliseringen. Sagen er en påmindelse om, hvor tæt nazitidens overgreb stadig ligger på almindelige familiehistorier i Nordeuropa.",
+      "topics": [
+        "human-interest",
+        "history",
+        "outside-profile"
+      ],
+      "entities": [
+        "Matthias Kötter",
+        "Walther Frisch",
+        "Heinz Kötter",
+        "Karolinska Sygehus"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 40,
+        "decisionValue": 10,
+        "novelty": 85,
+        "sourceQuality": 75,
+        "personalRelevance": 25,
+        "contrast": 85
+      },
+      "claims": [
+        {
+          "text": "DNA-test afslørede donorinsemination via Karolinska Sygehus, 15 halvsøskende, biologisk far dansk Waffen-SS-soldat Walther Frisch",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/matthias-fik-gange-nazi-chok-i-foedselsdagsgave"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Adoptivfar Heinz Kötter tvangssteriliseret af nazisterne i 1944 efter psykiatrisk indlæggelse",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/matthias-fik-gange-nazi-chok-i-foedselsdagsgave"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Matthias fik to gange nazi-chok i fødselsdagsgave",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/matthias-fik-gange-nazi-chok-i-foedselsdagsgave",
+          "publishedAt": "2026-08-22T18:02:00.000Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/en0ep3qj/dr-260806085038959jpg.jpeg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Foto: © Morten Stig Nielsen / DR",
+        "alt": "Matthias Kötter, der via en DNA-test i fødselsdagsgave opdagede, at hans biologiske far var en dansk Waffen-SS-soldat.",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/matthias-fik-gange-nazi-chok-i-foedselsdagsgave"
+      }
+    }
+  ],
+  "signals": [
+    {
+      "text": "Regeringens store slagnummer koster 17,4 milliarder hvert år - her er tre kritikpunkter mod momsplanen",
+      "headline": "Regeringens store slagnummer koster 17,4 milliarder hvert år - her er tre kritikpunkter mod momsplanen",
+      "url": "https://www.dr.dk/nyheder/penge/regeringens-store-slagnummer-koster-17-4-milliarder-hvert-aar-her-er-tre-kritikpunkter-mod",
+      "publisher": "DR",
+      "section": "Penge",
+      "publishedAt": "2026-08-19T19:35:00.000Z",
+      "summary": "Regeringens momslettelse på frugt og grønt koster 17,4 mia. kr. årligt. DI vurderer, at differentieret moms lægger cirka 1 mia. kr. ekstra administrativt besvær på virksomhederne, mens en økonom advarer om, at besparelsen kan blive absorberet i forsyningskæderne i stedet for at nå forbrugerne."
+    },
+    {
+      "text": "Eksperter jubler over ny havvind: Staten slipper billigere end frygtet",
+      "headline": "Eksperter jubler over ny havvind: Staten slipper billigere end frygtet",
+      "url": "https://ing.dk/artikel/eksperter-jubler-over-ny-havvind-staten-slipper-billigere-end-frygtet",
+      "publisher": "Ingeniøren",
+      "section": "Energi",
+      "publishedAt": "2026-08-04T10:42:21.000Z",
+      "summary": "Vattenfall Vindkraft og to datterselskaber vandt udbuddet om havvindmølleparkerne Nordsøen Midt (504 kr./MWh) og Hesselø (542 kr./MWh) i Nordsøen og Kattegat. Projektet ventes i fuld drift inden udgangen af 2032."
+    },
+    {
+      "text": "Totalkredit rokerer på toppost",
+      "headline": "Totalkredit rokerer på toppost",
+      "url": "https://www.dr.dk/nyheder/seneste/totalkredit-rokerer-paa-toppost",
+      "publisher": "DR",
+      "section": "Penge",
+      "publishedAt": "2026-08-17T08:58:09.000Z",
+      "summary": "Maiken Moltke Olesen har med øjeblikkelig virkning forladt posten som adm. direktør i Totalkredit efter fælles aftale. Iben Rohde, hidtil ansvarlig for forretningsudvikling, overtager direktørposten i realkreditselskabet, der sidder på omkring halvdelen af det danske realkreditmarked."
+    },
+    {
+      "text": "Nu øjner Holger Rune opsigtsvækkende comeback på dansk jord",
+      "headline": "Nu øjner Holger Rune opsigtsvækkende comeback på dansk jord",
+      "url": "https://www.dr.dk/sporten/tennis/intet-us-open-til-rune-nu-oejner-han-comeback-i-danmark",
+      "publisher": "DR",
+      "section": "Tennis",
+      "publishedAt": "2026-08-21T19:48:00.000Z",
+      "summary": "Holger Rune dropper US Open på grund af en achillessene-skade, men sigter mod comeback ved Davis Cup-kampen Danmark-Bulgarien 18.-19. september på hjemmebane. Han har trænet med Carlos Alcaraz op til beslutningen."
+    },
+    {
+      "text": "Hovedstadens Letbane åbner i dag - folkefest og gratis kørsel",
+      "headline": "Hovedstadens Letbane åbner i dag - folkefest og gratis kørsel",
+      "url": "https://www.dr.dk/nyheder/indland/reels/hovedstadens-letbane-aabner-i-dag-folkefest-og-gratis-koersel",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-08-22T13:23:43.000Z",
+      "summary": "Den 28 km lange Hovedstadens Letbane mellem Ishøj og Lundtofte kørte lørdag sin første komplette dag med alle 17 stationer åbne. Gratis kørsel og folkefest ved Gladsaxe Rådhus markerede åbningen; banen ventes at få omkring 12.000 daglige passagerer."
+    },
+    {
+      "text": "Danske svineproducenter i opråb: Vi vil gerne lave færre grise, men slagteri holder os 'i benlås'",
+      "headline": "Danske svineproducenter i opråb: Vi vil gerne lave færre grise, men slagteri holder os 'i benlås'",
+      "url": "https://www.dr.dk/nyheder/indland/danske-svineproducenter-i-opraab-vi-vil-gerne-lave-faerre-grise-men-slagteri-holder-os-i-benlaas",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-08-20T09:40:00.000Z",
+      "summary": "Danish Crown sætter et loft på 5 procent for, hvor meget svineproducenter må ændre deres leverancemængde, hvilket Danske Svineproducenter kalder at være sat 'i benlås'. Landmænd taber ifølge Seges Innovations beregninger for DR i snit 350-400 kr. pr. gris, de sender til slagteriet."
+    },
+    {
+      "text": "Vestas mere end fordoblede sin driftsindtjening i andet kvartal",
+      "headline": "Vestas mere end fordoblede sin driftsindtjening i andet kvartal",
+      "url": "https://www.dr.dk/nyheder/seneste/vestas-mere-end-fordoblede-sin-driftsindtjening-i-andet-kvartal",
+      "publisher": "DR",
+      "section": "Erhverv",
+      "publishedAt": "2026-08-12T06:07:16.000Z",
+      "summary": "Vestas' driftsindtjening (EBIT) i andet kvartal 2026 var 446 mio. euro mod 206 mio. euro året før. Selskabet fastholder en omsætningsforventning på 20-22 mia. euro for hele 2026, og aktien steg 14 procent på nyheden."
+    },
+    {
+      "text": "Dansk landshold misser akkurat første OL-kvalifikation siden 1948",
+      "headline": "Dansk landshold misser akkurat første OL-kvalifikation siden 1948",
+      "url": "https://www.dr.dk/sporten/seneste-sport/dansk-landshold-misser-akkurat-foerste-ol-kvalifikation-siden-1948",
+      "publisher": "DR",
+      "section": "Sport",
+      "publishedAt": "2026-08-21T21:30:58.000Z",
+      "summary": "Det danske springridningslandshold blev nummer 9 i holdfinalen ved VM - én plads fra den top-8-placering, der havde givet Danmarks første OL-kvalifikation i disciplinen siden 1948. Det var samtidig landsholdets første VM-finale nogensinde."
+    },
+    {
+      "text": "Landsholdet i paradressur sikrer OL-plads",
+      "headline": "Landsholdet i paradressur sikrer OL-plads",
+      "url": "https://www.dr.dk/sporten/seneste-sport/landsholdet-i-paradressur-sikrer-ol-plads",
+      "publisher": "DR",
+      "section": "Sport",
+      "publishedAt": "2026-08-22T13:36:07.000Z",
+      "summary": "Det danske paradressur-landshold sikrede sig en plads til OL i Los Angeles 2028 ved VM i Aachen - Danmarks første nogensinde olympiske kvalifikation i disciplinen."
+    },
+    {
+      "text": "Forsvundne guldsmykker hos politiet forklares med flytterod",
+      "headline": "Forsvundne guldsmykker hos politiet forklares med flytterod",
+      "url": "https://nyheder.tv2.dk/krimi/2026-08-22-forsvundne-guldsmykker-hos-politiet-forklares-med-flytterod",
+      "publisher": "TV 2",
+      "section": "Krimi",
+      "publishedAt": "2026-08-22T10:42:34.358Z",
+      "summary": "Fire guldgenstande beslaglagt hos et Bandidos-medlem i maj 2024 forsvandt fra politiets varetægt i omkring 10 måneder, før de dukkede op i en medarbejders flyttekasser. Statsadvokaten rejser ikke sigtelse mod NSK-ansatte, og politiet har siden strammet proceduren for beslaglagte genstande."
+    },
+    {
+      "text": "NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents",
+      "headline": "NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents",
+      "url": "https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/",
+      "publisher": "NVIDIA Developer Blog",
+      "section": "Teknologi",
+      "publishedAt": "2026-08-21T13:00:00.000Z",
+      "summary": "NVIDIA's kodende AI-agent AVO, bygget på Claude Opus 5, opnåede 100 procent på den offentlige del af benchmarken ARC-AGI-3 - en fremgang, forfatterne selv understreger skyldes agentarkitekturen, ikke selve grundmodellen, der alene scorer omkring 30 procent."
+    }
+  ],
+  "column": {
+    "authoredBy": "ai",
+    "slug": "fremskridt-er-ikke-en-skralde",
+    "title": "Fremskridt er ikke en skralde",
+    "thesis": "Vi går ud fra, at teknisk og videnskabelig kunnen kun ophobes – at det, der én gang er opdaget, forbliver kendt. Historien rummer stille modeksempler, og vi har næsten ingen institutionel evne til at opdage tabet, mens det sker.",
+    "body": [
+      "Antikythera-mekanismen blev bygget i det andet århundrede f.Kr. og fundet i et skibsvrag i 1901. Den er så avanceret, at maskiner af tilsvarende kompleksitet ifølge historisk konsensus først dukkede op igen i 1300-tallets Europa. I over tusind år eksisterede evnen ikke, selvom den engang havde gjort.",
+      "Det interessante er ikke mekanismen selv, men at ingen i mellemtiden vidste, hvad der var gået tabt. Der findes ingen samtidig kilde, der skriver, at man ikke længere kunne det, forfædrene kunne. Tabet var usynligt, fordi der ikke fandtes noget register at måle sig mod."
+    ],
+    "uncertainty": "Hvis nogen kan pege på et system, der faktisk opdager specifik færdighedstab i realtid – ikke bare dokumenterer viden, men registrerer, når en kompetence forsvinder, mens den forsvinder – ville det modbevise pointen. Jeg kender ikke selv et overbevisende eksempel, men har ikke ledt udtømmende.",
+    "topics": [
+      "videnshistorie",
+      "teknologi",
+      "epistemologi"
+    ],
+    "claims": [
+      {
+        "text": "Antikythera-mekanismen er bygget i det andet århundrede f.Kr., fundet i et skibsvrag i 1901, og maskiner af tilsvarende mekaniske kompleksitet dukkede først op igen i 1300-tallets Europa",
+        "sourceUrls": [
+          "https://en.wikipedia.org/wiki/Antikythera_mechanism"
+        ],
+        "confidence": "medium"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Antikythera mechanism",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Antikythera_mechanism",
+        "publishedAt": "2026-08-23T04:00:00.000Z",
+        "kind": "reporting"
+      }
+    ]
+  },
+  "recommendations": [
+    {
+      "id": "rec-a16z-borderless-founder",
+      "mode": "read",
+      "kind": "Essay",
+      "status": "new",
+      "title": "Rise of the Borderless Founder",
+      "creator": "Gabriel Vasquez og Angela Strange",
+      "provider": "a16z",
+      "url": "https://www.a16z.news/p/rise-of-the-borderless-founder",
+      "availability": "Gratis, offentligt tilgængelig",
+      "commitment": "10 min læsning",
+      "description": "Essay om, hvordan grundlæggere, der kombinerer hjemmemarkedets netværk med Silicon Valley-kapital og -hastighed, får en strukturel fordel i kundeerhvervelse, brandgenkendelse og talentrekruttering.",
+      "rationale": "Rammer direkte den type grænseoverskridende netværkstænkning, en international karriere bygget på markedsadgang i Kina, Indien, Brasilien og Europa hviler på – og giver et konkret, aktuelt sprog for, hvad det netværk faktisk er værd i dag.",
+      "topics": [
+        "business-networks",
+        "globalization",
+        "venture-capital"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://substackcdn.com/image/fetch/$s_!f2a2!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F49137d2b-203b-49b0-bd60-daeaf744fe90_1460x650.png",
+        "credit": "Illustration: a16z",
+        "alt": "Illustration til a16z-essayet om 'grænseløse grundlæggere'.",
+        "sourceUrl": "https://www.a16z.news/p/rise-of-the-borderless-founder"
+      }
+    },
+    {
+      "id": "rec-cosmos-swarms-sand-gods",
+      "mode": "read",
+      "kind": "Essay",
+      "status": "new",
+      "title": "Of Swarms and Sand Gods: Alignment in a multi-agent world",
+      "creator": "Séb Krier og Cosmos Institute",
+      "provider": "Cosmos Institute",
+      "url": "https://blog.cosmos-institute.org/p/of-swarms-and-sand-gods",
+      "availability": "Gratis, offentligt tilgængelig",
+      "commitment": "12 min læsning",
+      "description": "Essay om, hvorfor AI-alignment bør behandles som et systemisk, institutionelt designproblem – med overvågning, arkitektur og organisatoriske spærrer – snarere end som en egenskab ved den enkelte model.",
+      "rationale": "En markant anderledes indgang til AI-styring end det sædvanlige fokus på selve modellen: argumentet handler om at bygge de samme slags strukturelle spærrer omkring AI-systemer, som allerede findes omkring mennesker i institutioner – relevant for enhver, der tænker på regulering og governance som mere end tekniske retningslinjer.",
+      "topics": [
+        "ai-governance",
+        "philosophy-of-mind"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-dwarkesh-continual-learning",
+      "mode": "read",
+      "kind": "Essay",
+      "status": "new",
+      "title": "8 Predictions for the Era of Continual Learning",
+      "creator": "Dwarkesh Patel",
+      "provider": "Dwarkesh Patel (dwarkesh.com)",
+      "url": "https://www.dwarkesh.com/p/era-of-continual-learning",
+      "availability": "Gratis, offentligt tilgængelig",
+      "commitment": "15 min læsning",
+      "description": "Otte forudsigelser om, hvordan AI-regulering, markedsstruktur og konkurrenceforhold ændrer sig, når modeller begynder at lære løbende af faktisk brug i stedet for at være fastfrosne efter træning.",
+      "rationale": "Et konkret bud på, hvorfor regulering bygget til statiske modeller kan blive forældet meget hurtigere end ventet – relevant for enhver, der rådgiver om AI-politik eller -risiko, og et andet argument end Cosmos-essayet, så de to ikke blot gentager samme pointe.",
+      "topics": [
+        "ai-regulation",
+        "technology-policy"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-louisiana-literature-2026",
+      "mode": "experience",
+      "kind": "Festival",
+      "status": "timely",
+      "title": "Louisiana Literature 2026",
+      "provider": "Louisiana Museum of Modern Art",
+      "url": "https://louisiana.dk/en/whats-on/louisiana-literature/",
+      "availability": "Humlebæk, sidste dag i dag (festivalen løber 20.-23. august 2026), adgang med almindelig museumsbillet",
+      "commitment": "2-3 timer",
+      "description": "International litteraturfestival på Louisiana med danske og internationale forfattere, afholdt over fire dage i august.",
+      "rationale": "Et rent serendipitetsvalg uden for arbejdsprofilen: en eftermiddag med litteratur og samtale i stedet for endnu en analyse – og i dag er sidste chance i år.",
+      "topics": [
+        "literature",
+        "culture"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {
+    "sourceCoverage": 90,
+    "freshness": 85,
+    "novelty": 75,
+    "perspectiveBalance": 78,
+    "render": 100
+  }
+}
