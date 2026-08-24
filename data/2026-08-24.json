@@ -1,0 +1,742 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-08-24-01",
+  "date": "2026-08-24",
+  "generatedAt": "2026-08-24T04:40:00Z",
+  "readingMinutes": 10,
+  "title": "Thomas' Nyheder",
+  "dek": "Erhverv, EU-politik, Arktis og sport - mandag den 24. august 2026",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-groenland-arktis-indsats-20260824",
+      "eventKey": "groenland-arktis-indsats-kritik-2026-08",
+      "materialFacts": [
+        "Grønlands regeringsleder Jens-Frederik Nielsen kalder dansk arktisk indsats 'ikke tilfredsstillende'",
+        "Inspektionsskibet Hvidbjørnen ligger ved Frederikshavn i stedet for at patruljere ved Grønland pga. mandskabsmangel",
+        "573 dage efter beslutningen om nye inspektionsskibe er der stadig ikke skrevet kontrakt"
+      ],
+      "section": "Forsvar",
+      "headline": "Grønlands leder dumper dansk indsats i Arktis: 'Ikke tilfredsstillende'",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/groenlands-leder-dumper-dansk-indsats-i-arktis-ikke-tilfredsstillende",
+      "subheadline": "Inspektionsskibet Hvidbjørnen bliver i havn pga. mandskabsmangel, og 573 dage efter beslutningen er der stadig ikke kontrakt på nye skibe",
+      "body": [
+        "Grønlands regeringsleder, Jens-Frederik Nielsen, kalder den danske indsats i Arktis 'ikke tilfredsstillende'. Kritikken kommer, efter at inspektionsskibet Hvidbjørnen er blevet liggende ved Frederikshavn i stedet for at patruljere ved Grønland, fordi den arktiske enhed mangler mandskab - to besætningsrotationer er taget ud af vagtplanen. 573 dage efter beslutningen om nye skibe er der stadig ikke skrevet kontrakt.",
+        "'Jeg synes, det er meget alvorligt,' siger Pipaluk Lynge, formand for Inatsisartuts udenrigs- og sikkerhedsudvalg, der kalder forsvar og sikkerhed en topprioritet. Forsvarsminister Jeppe Bruus (S) erkender behovet for både materiel og personel, men lover intet: 'Jeg opererer ikke med garantier,' siger han."
+      ],
+      "whyItMatters": "Sagen rammer, mens USA under Donald Trump viser fornyet interesse for Grønland, og rejser tvivl om Danmarks evne til at hævde suverænitet og sikkerhed i Arktis - et spørgsmål Grønlands egen leder nu stiller offentligt.",
+      "analysis": "Militæranalytiker Jon Rahbek-Clemmensen fra Forsvarsakademiet peger på, at manglende materiel svækker Danmarks forhandlingsposition: havde droner eller skibe været på vej, ville Danmark ifølge ham have stået stærkere i 'armlægningen' med Trump.",
+      "topics": [
+        "forsvar",
+        "groenland",
+        "arktis",
+        "sikkerhedspolitik"
+      ],
+      "entities": [
+        "Jens-Frederik Nielsen",
+        "Pipaluk Lynge",
+        "Jeppe Bruus",
+        "Jon Rahbek-Clemmensen",
+        "Grønland",
+        "Danmark",
+        "Forsvarsakademiet",
+        "Inatsisartut",
+        "Hvidbjørnen"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 80,
+        "decisionValue": 55,
+        "novelty": 65,
+        "sourceQuality": 80,
+        "personalRelevance": 45,
+        "contrast": 60
+      },
+      "claims": [
+        {
+          "text": "Grønlands regeringsleder Jens-Frederik Nielsen kalder den danske arktiske indsats 'ikke tilfredsstillende'",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/groenlands-leder-dumper-dansk-indsats-i-arktis-ikke-tilfredsstillende"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Inspektionsskibet Hvidbjørnen er blevet liggende ved Frederikshavn i stedet for at patruljere ved Grønland pga. mandskabsmangel i den arktiske enhed",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/groenlands-leder-dumper-dansk-indsats-i-arktis-ikke-tilfredsstillende"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Forsvarsminister Jeppe Bruus siger, at Danmark har brug for nyt materiel og mere personel, men lover ingen garantier",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/groenlands-leder-dumper-dansk-indsats-i-arktis-ikke-tilfredsstillende"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Grønlands leder dumper dansk indsats i Arktis: 'Ikke tilfredsstillende'",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/groenlands-leder-dumper-dansk-indsats-i-arktis-ikke-tilfredsstillende",
+          "publishedAt": "2026-08-23T12:32:00Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/skfkj5ix/jensfrederiknielsen-inspektionsskibe.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Jens-Frederik Nielsen, Grønlands regeringsleder, ved en pressebriefing om Danmarks arktiske indsats",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/groenlands-leder-dumper-dansk-indsats-i-arktis-ikke-tilfredsstillende"
+      }
+    },
+    {
+      "id": "story-eu-kommissionen-konsekvensanalyser-20260824",
+      "eventKey": "eu-kommissionen-konsekvensanalyser-kritik-2026-08",
+      "materialFacts": [
+        "Folketingets Europaudvalg advarede i foråret 2026 om, at kun 14 ud af 64 EU-lovforslag de seneste 14 måneder var fulgt af en konsekvensanalyse",
+        "Kommissær Valdis Dombrovskis svarer skriftligt, at det ikke sker ved hvert lovudspil, men afviser at det er nødvendigt",
+        "Udvalgets formand kalder svaret 'for vagt' ifølge Altinget"
+      ],
+      "section": "EU & Erhverv",
+      "headline": "EU-Kommissionen svarer \"for vagt\" på dansk klage om lovsjusk, mener udvalgsformand",
+      "primarySourceUrl": "https://www.altinget.dk/erhverv/artikel/eu-kommissionen-svarer-for-vagt-paa-dansk-klage-om-lovsjusk-mener-udvalgsformand",
+      "subheadline": "Kommissær Valdis Dombrovskis erkender, at konsekvensanalyser ikke laves ved hvert lovforslag - det svar kalder Folketingets Europaudvalg utilstrækkeligt",
+      "body": [
+        "Folketingets Europaudvalg advarede i foråret 2026 om, at kun 14 ud af 64 EU-lovforslag fra de seneste 14 måneder var fulgt af en konsekvensanalyse. Nu svarer kommissær Valdis Dombrovskis, med ansvar for økonomi og produktivitet.",
+        "Dombrovskis erkender skriftligt, at 'der bliver langtfra lavet konsekvensanalyser ved hvert eneste lovudspil', men vurderer, det heller ikke er nødvendigt hver gang. Udvalgets formand kalder svaret 'for vagt' og mener, Kommissionen nedtoner problemet, skriver Altinget."
+      ],
+      "whyItMatters": "Manglende konsekvensanalyser er kernen i kritikken af EU's regelbyrde - når størstedelen af lovforslagene ikke er belyst, svækkes grundlaget for hele forenklingsdagsordenen.",
+      "analysis": "Sagen viser afstanden mellem EU's retorik om mindre bureaukrati og praksis i lovgivningsmaskinen - og at selv et lille land som Danmark kan presse på for indsigt, uden at det nødvendigvis ændrer adfærden i Bruxelles.",
+      "topics": [
+        "eu-regulering",
+        "konkurrenceevne",
+        "lovkvalitet"
+      ],
+      "entities": [
+        "Valdis Dombrovskis",
+        "Folketingets Europaudvalg",
+        "EU-Kommissionen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 60,
+        "decisionValue": 65,
+        "novelty": 55,
+        "sourceQuality": 75,
+        "personalRelevance": 70,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "Folketingets Europaudvalg advarede i foråret 2026 om, at kun 14 ud af 64 EU-lovforslag fra de seneste 14 måneder var fulgt af en konsekvensanalyse",
+          "sourceUrls": [
+            "https://www.eubureauet.dk/2026/06/24/europaudvalget-advarer-eu-love-presses-alt-for-lemfaeldigt-igennem/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Kommissær Valdis Dombrovskis skriver, at 'der bliver langtfra lavet konsekvensanalyser ved hvert eneste lovudspil', men vurderer det ikke nødvendigt hver gang",
+          "sourceUrls": [
+            "https://www.altinget.dk/erhverv/artikel/eu-kommissionen-svarer-for-vagt-paa-dansk-klage-om-lovsjusk-mener-udvalgsformand"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Ifølge Altinget kalder udvalgets formand svaret 'for vagt' og mener, at Kommissionen nedtoner problemet",
+          "sourceUrls": [
+            "https://www.altinget.dk/erhverv/artikel/eu-kommissionen-svarer-for-vagt-paa-dansk-klage-om-lovsjusk-mener-udvalgsformand"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "EU-Kommissionen svarer \"for vagt\" på dansk klage om lovsjusk, mener udvalgsformand",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/erhverv/artikel/eu-kommissionen-svarer-for-vagt-paa-dansk-klage-om-lovsjusk-mener-udvalgsformand",
+          "publishedAt": "2026-08-21T00:00:00Z",
+          "kind": "primary"
+        },
+        {
+          "title": "Europaudvalget advarer: EU-love presses alt for lemfældigt igennem",
+          "publisher": "EU-bureauet",
+          "url": "https://www.eubureauet.dk/2026/06/24/europaudvalget-advarer-eu-love-presses-alt-for-lemfaeldigt-igennem/",
+          "publishedAt": "2026-06-24T00:00:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://legacy.altinget.dk/images/article/305511/159401.jpg",
+        "credit": "Kilde: Altinget",
+        "alt": "Illustration til historien om EU-Kommissionens svar til Folketingets Europaudvalg om konsekvensanalyser",
+        "sourceUrl": "https://www.altinget.dk/erhverv/artikel/eu-kommissionen-svarer-for-vagt-paa-dansk-klage-om-lovsjusk-mener-udvalgsformand"
+      }
+    },
+    {
+      "id": "story-di-udbud-syndebuk-20260824",
+      "eventKey": "di-udbud-syndebuk-rigsrevisionen-2026-08",
+      "materialFacts": [
+        "Rigsrevisionen kritiserer Transportministeriet for udeblevne besparelser på facility management på tværs af statslige institutioner",
+        "Forsvarsministeriet brugte i 2024 473 mio. kr. mere end den tidligere private kontrakt kostede i 2022",
+        "DI advarer mod at gøre udbudsværktøjet til syndebuk for statens egne effektiviseringsproblemer"
+      ],
+      "section": "Erhverv",
+      "headline": "DI: Det er for let at gøre udbud til syndebuk for statens manglende effektiviseringer",
+      "primarySourceUrl": "https://www.altinget.dk/erhverv/artikel/di-det-er-for-let-at-goere-udbud-til-syndebuk-for-statens-manglende-effektiviseringer",
+      "subheadline": "Efter Rigsrevisionens kritik af udeblevne besparelser advarer DI mod at lægge skylden på udbudsmodellen frem for statens egen omstilling",
+      "body": [
+        "Rigsrevisionen kritiserer Transportministeriet for ikke at hente besparelser ved at samle facility management på tværs af statslige institutioner. Forsvarsministeriet brugte i 2024 hele 473 mio. kr. mere end den private kontrakt kostede i 2022 - tre gange dyrere end ventet.",
+        "Jakob Scharff, branchedirektør i DI Service, advarer mod at gøre udbudsværktøjet til syndebuk: 'Man skyder forbi skiven, hvis man tror, besparelserne alene skulle hentes via kontrakter med private,' siger han og peger også på manglende reduktion af administrative stillinger."
+      ],
+      "whyItMatters": "Sagen er et testcase for planen om at centralisere statslige indkøb - hvis udbud fejlagtigt får skylden for besparelser, der udebliver af andre grunde, bliver det politiske svar forkert.",
+      "analysis": "DI's indblanding viser dobbeltrollen: den repræsenterer leverandørerne til det offentlige og ønsket om en model, der holder markedet åbent for private aktører.",
+      "topics": [
+        "dansk-industri",
+        "offentlige-udbud",
+        "erhvervsorganisationer"
+      ],
+      "entities": [
+        "Jakob Scharff",
+        "Dansk Industri",
+        "Rigsrevisionen",
+        "Transportministeriet",
+        "Forsvarsministeriet"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 50,
+        "decisionValue": 55,
+        "novelty": 50,
+        "sourceQuality": 75,
+        "personalRelevance": 75,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "Rigsrevisionen kritiserer Transportministeriet for ikke at hente ventede besparelser ved at samle facility management på tværs af statslige institutioner",
+          "sourceUrls": [
+            "https://www.altinget.dk/erhverv/artikel/di-det-er-for-let-at-goere-udbud-til-syndebuk-for-statens-manglende-effektiviseringer"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Forsvarsministeriet brugte i 2024 473 mio. kr. mere på facility management, end den tidligere private kontrakt kostede i 2022",
+          "sourceUrls": [
+            "https://www.altinget.dk/erhverv/artikel/di-det-er-for-let-at-goere-udbud-til-syndebuk-for-statens-manglende-effektiviseringer"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Jakob Scharff, branchedirektør i DI Service, siger at man 'skyder forbi skiven', hvis man tror besparelserne alene skulle hentes via kontrakter med private",
+          "sourceUrls": [
+            "https://www.altinget.dk/erhverv/artikel/di-det-er-for-let-at-goere-udbud-til-syndebuk-for-statens-manglende-effektiviseringer"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "DI: Det er for let at gøre udbud til syndebuk for statens manglende effektiviseringer",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/erhverv/artikel/di-det-er-for-let-at-goere-udbud-til-syndebuk-for-statens-manglende-effektiviseringer",
+          "publishedAt": "2026-08-23T23:00:00Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://legacy.altinget.dk/images/article/305270/158962.jpg",
+        "credit": "Kilde: Altinget",
+        "alt": "Illustration til historien om DI's kritik af brugen af udbud som syndebuk for statens effektiviseringsproblemer",
+        "sourceUrl": "https://www.altinget.dk/erhverv/artikel/di-det-er-for-let-at-goere-udbud-til-syndebuk-for-statens-manglende-effektiviseringer"
+      }
+    },
+    {
+      "id": "story-ae-vaekstprognose-20260824",
+      "eventKey": "ae-prognose-historisk-hoej-vaekst-2026-08",
+      "materialFacts": [
+        "AE venter 4,2 pct. BNP-vækst i 2026, op fra 3,9 pct. (2024) og 3,5 pct. (2025)",
+        "Eksporten ventes at stige 4,4 pct. i 2026 med lægemiddelindustrien som central drivkraft",
+        "Beskæftigelsen ventes at stige med 23.000 personer i 2026"
+      ],
+      "section": "Økonomi",
+      "headline": "Prognose: Danmark har udsigt til historisk høj vækst i 2026",
+      "primarySourceUrl": "https://www.ae.dk/prognose/2026-08-prognose-danmark-har-udsigt-til-historisk-hoej-vaekst-i-2026",
+      "subheadline": "AE hæver vækstskønnet til 4,2 procent og peger på eksport og produktivitet - ikke kun lægemiddelindustrien - som drivkraft",
+      "body": [
+        "Arbejderbevægelsens Erhvervsråd venter en vækst i dansk BNP på 4,2 procent i 2026, op fra 3,9 i 2024 og 3,5 i 2025. Eksporten ventes at stige 4,4 procent, med lægemiddelindustrien som central drivkraft, mens produktiviteten er opjusteret markant.",
+        "Beskæftigelsen ventes at stige med 23.000 personer i 2026. AE peger dog på risici: stiger oliepriserne, presses inflationen op, og der er usikkerhed om 2028, hvor elafgiften genindføres, og EU's CO2-kvotesystem ETS2 skal implementeres."
+      ],
+      "whyItMatters": "Tallene kontrasterer fortællingen om en økonomi bremset af svag lægemiddelvækst - her trækker eksport og produktivitet op, med lægemiddelindustrien som medspiller snarere end hele forklaringen.",
+      "analysis": "Afhængigheden af eksportsucces gør prognosen sårbar over for netop de forhold, AE fremhæver som usikre: oliepriser, energiafgifter og et EU-kvotesystem, der endnu ikke er fuldt implementeret.",
+      "topics": [
+        "makrooekonomi",
+        "eksport",
+        "produktivitet",
+        "pharma-koncentration"
+      ],
+      "entities": [
+        "Arbejderbevægelsens Erhvervsråd",
+        "Sofie Holme Andersen",
+        "Danmark"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 65,
+        "decisionValue": 55,
+        "novelty": 45,
+        "sourceQuality": 70,
+        "personalRelevance": 70,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "AE venter en vækst i dansk BNP på 4,2 procent i 2026, op fra 3,9 procent i 2024 og 3,5 procent i 2025",
+          "sourceUrls": [
+            "https://www.ae.dk/prognose/2026-08-prognose-danmark-har-udsigt-til-historisk-hoej-vaekst-i-2026"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Eksporten ventes at stige 4,4 procent i 2026 med lægemiddelindustrien som en central drivkraft",
+          "sourceUrls": [
+            "https://www.ae.dk/prognose/2026-08-prognose-danmark-har-udsigt-til-historisk-hoej-vaekst-i-2026"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Beskæftigelsen ventes at stige med 23.000 personer i 2026",
+          "sourceUrls": [
+            "https://www.ae.dk/prognose/2026-08-prognose-danmark-har-udsigt-til-historisk-hoej-vaekst-i-2026"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Prognose: Danmark har udsigt til historisk høj vækst i 2026",
+          "publisher": "Arbejderbevægelsens Erhvervsråd (AE)",
+          "url": "https://www.ae.dk/prognose/2026-08-prognose-danmark-har-udsigt-til-historisk-hoej-vaekst-i-2026",
+          "publishedAt": "2026-08-18T00:00:00Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://www.ae.dk/files/styles/open_graph/public/media/image/iStock-906635026_0.jpg?itok=4l0XVGBT",
+        "credit": "Kilde: Arbejderbevægelsens Erhvervsråd (AE)",
+        "alt": "Prognose: Danmark har udsigt til historisk høj vækst i 2026",
+        "sourceUrl": "https://www.ae.dk/prognose/2026-08-prognose-danmark-har-udsigt-til-historisk-hoej-vaekst-i-2026"
+      }
+    },
+    {
+      "id": "story-impact-fund-denmark-bestyrelse-20260824",
+      "eventKey": "impact-fund-denmark-bestyrelse-2026-08",
+      "materialFacts": [
+        "Impact Fund Denmark udpeger Sofie Carsten Nielsen (Dansk Industri) og Morten Langager (Dansk Erhverv) til bestyrelsen",
+        "Elsebeth Søndergaard Krone fra Udenrigsministeriet indtræder som observatør",
+        "Fonden har medinvesteret i over 1.300 virksomheder i mere end 100 udviklingslande"
+      ],
+      "section": "Erhverv",
+      "headline": "Impact Fund Denmark appoints two new board members from Danish Industry and the Danish Chamber of Commerce",
+      "primarySourceUrl": "https://impactfund.dk/news/impact-fund-denmark-appoints-two-new-board-members-from-danish-industry-and-the-danish-chamber-of-commerce/",
+      "subheadline": "Dansk Industri og Dansk Erhverv får hver en plads i bestyrelsen for statens udviklingsfinansieringsinstitution, der investerer i vækstmarkeder",
+      "body": [
+        "Impact Fund Denmark, Danmarks udviklingsfinansieringsinstitution, har udpeget to nye bestyrelsesmedlemmer: Sofie Carsten Nielsen, EVP for internationale relationer i Dansk Industri, og Morten Langager, direktør for politik og analyse i Dansk Erhverv.",
+        "Fonden har medinvesteret i over 1.300 virksomheder i mere end 100 lande i Afrika, Asien, Latinamerika og Ukraine. Bestyrelsesformand Michael Rasmussen kalder ifølge fonden de to nye medlemmer vigtige sparringspartnere i arbejdet med at hjælpe danske virksomheder ind på verdens hurtigst voksende markeder."
+      ],
+      "whyItMatters": "Udpegningen sætter to erhvervsorganisationer direkte ind i beslutninger om, hvilke danske virksomheder der får statslig medfinansiering til vækstmarkeder - vigtigere, som eksportusikkerheden stiger.",
+      "analysis": "For en erhvervsorganisatorisk verden i søgen efter indflydelse er bestyrelsesposter i statslige investeringsfonde en stille, men voksende vej.",
+      "topics": [
+        "vaekstmarkeder",
+        "who-is-moving",
+        "udviklingsfinansiering",
+        "afrika"
+      ],
+      "entities": [
+        "Sofie Carsten Nielsen",
+        "Morten Langager",
+        "Elsebeth Søndergaard Krone",
+        "Michael Rasmussen",
+        "Impact Fund Denmark",
+        "Dansk Industri",
+        "Dansk Erhverv"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 45,
+        "decisionValue": 60,
+        "novelty": 60,
+        "sourceQuality": 70,
+        "personalRelevance": 80,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Impact Fund Denmark har udpeget Sofie Carsten Nielsen (Dansk Industri) og Morten Langager (Dansk Erhverv) som nye bestyrelsesmedlemmer",
+          "sourceUrls": [
+            "https://impactfund.dk/news/impact-fund-denmark-appoints-two-new-board-members-from-danish-industry-and-the-danish-chamber-of-commerce/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Fonden har medinvesteret i over 1.300 virksomheder i mere end 100 lande i Afrika, Asien, Latinamerika og Ukraine",
+          "sourceUrls": [
+            "https://impactfund.dk/news/impact-fund-denmark-appoints-two-new-board-members-from-danish-industry-and-the-danish-chamber-of-commerce/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Impact Fund Denmark appoints two new board members from Danish Industry and the Danish Chamber of Commerce",
+          "publisher": "Impact Fund Denmark",
+          "url": "https://impactfund.dk/news/impact-fund-denmark-appoints-two-new-board-members-from-danish-industry-and-the-danish-chamber-of-commerce/",
+          "publishedAt": "2026-08-19T07:27:15Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://impactfund.dk/wp-content/uploads/2026/08/19/sofie-morten-3.png",
+        "credit": "Kilde: Impact Fund Denmark",
+        "alt": "Sofie Carsten Nielsen og Morten Langager, nye bestyrelsesmedlemmer i Impact Fund Denmark",
+        "sourceUrl": "https://impactfund.dk/news/impact-fund-denmark-appoints-two-new-board-members-from-danish-industry-and-the-danish-chamber-of-commerce/"
+      }
+    },
+    {
+      "id": "story-ulvedebat-sang-solplet-20260824",
+      "eventKey": "ulvedebat-sang-solplet-2026-08",
+      "materialFacts": [
+        "Bandet Solplet fra Esbjerg har skrevet sangen 'Vi hyler for livet' om den danske ulvedebat",
+        "Sangen kommer efter en formodet problemulv blev skudt ved Nørre Nebel i Vestjylland",
+        "Solplet holdt en session ved Blåbjerg Plantage, hvor ulven blev skudt"
+      ],
+      "section": "Danmark",
+      "headline": "Sang skal samle danskerne i ulvedebatten",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/sang-skal-samle-danskerne-i-ulvedebatten",
+      "subheadline": "Esbjerg-bandet Solplet håber, sangen 'Vi hyler for livet' kan mildne den polariserede debat om ulve i Danmark",
+      "body": [
+        "Bandet Solplet fra Esbjerg har skrevet sangen 'Vi hyler for livet', som forsanger Gustav Hendriksen håber kan samle danskerne i den ophedede ulvedebat. Sangen kommer, efter en formodet problemulv blev skudt ved Nørre Nebel. Solplet holdt en session ved Blåbjerg Plantage, hvor ulven blev skudt.",
+        "'Jeg synes, det er ærgerligt, vi bliver så splittede pga. denne ulv og en frygt,' siger Hendriksen, der ikke selv møder ulve som beboere i området. Sangen handler om ensomhed, men peger også på klimakrise og krig. Ingen ulv har slået et menneske ihjel i Europa i 50 år, siger han."
+      ],
+      "whyItMatters": "Historien er et skævt vindue ind i en landdistriktsdebat, der sjældent når længere end skudepisoder og ministersvar - her forsøger nogen at synge sig til en fælles samtale.",
+      "analysis": "At en lokal parodi bliver landsdækkende, siger noget om, hvor udtømt det traditionelle format for ulvedebatten er blevet.",
+      "topics": [
+        "kultur",
+        "natur",
+        "landdistrikter",
+        "ulve"
+      ],
+      "entities": [
+        "Gustav Hendriksen",
+        "Solplet",
+        "Nørre Nebel",
+        "Blåbjerg Plantage"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 30,
+        "decisionValue": 20,
+        "novelty": 60,
+        "sourceQuality": 65,
+        "personalRelevance": 10,
+        "contrast": 70
+      },
+      "claims": [
+        {
+          "text": "Bandet Solplet fra Esbjerg har skrevet sangen 'Vi hyler for livet' for at samle danskerne i ulvedebatten, ifølge forsanger Gustav Hendriksen",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/sang-skal-samle-danskerne-i-ulvedebatten"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Sangen kommer, efter at en formodet problemulv blev skudt ved Nørre Nebel i Vestjylland",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/sang-skal-samle-danskerne-i-ulvedebatten"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Sang skal samle danskerne i ulvedebatten",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/sang-skal-samle-danskerne-i-ulvedebatten",
+          "publishedAt": "2026-08-23T11:38:00Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/h1kjvl5v/combined-image.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Gustav Hendriksen fra bandet Solplet ved Blåbjerg Plantage, hvor sangen 'Vi hyler for livet' blev fremført",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/sang-skal-samle-danskerne-i-ulvedebatten"
+      }
+    },
+    {
+      "id": "story-manutd-dorgu-hull-20260824",
+      "eventKey": "manutd-dorgu-hull-saesonaabning-2026-08",
+      "materialFacts": [
+        "Manchester United tabte 0-2 til det oprykkede Hull City i Premier League-åbningen",
+        "Patrick Dorgu blev skiftet ud i pausen",
+        "Det er første gang nogensinde, Hull slår Manchester United i Premier League"
+      ],
+      "section": "Sport",
+      "headline": "Engelske medier slagter Dorgu og United",
+      "primarySourceUrl": "https://sport.tv2.dk/fodbold/2026-08-22-engelske-medier-slagter-dorgu-og-united",
+      "subheadline": "Manchester United tabte 0-2 til oprykkede Hull City i sæsonåbningen, og danske Patrick Dorgu blev skiftet ud i pausen",
+      "body": [
+        "Manchester United tabte 0-2 til det oprykkede Hull City i sæsonens Premier League-åbning, og danske Patrick Dorgu blev skiftet ud i pausen. Det er første gang, Hull slår United i Premier League, og United taber en sæsonåbning mod et oprykket hold for første gang nogensinde.",
+        "Nederlaget har udløst hård kritik i engelske medier af cheftræner Michael Carrick. The Sun skriver, Carricks midtbane var 'rædselsfuld', Sky Sports beskriver et 'chokeret' United. United sluttede sidste sæson på tredjepladsen under Carrick, bedste placering i tre år."
+      ],
+      "whyItMatters": "For en klub, der netop havde genvundet lidt sportslig troværdighed, er en åbningsfiasko mod en oprykker et alvorligt tilbageslag - og hurtigt pres på en træner, der ellers var kommet godt fra land.",
+      "analysis": "At kritikken samler sig om Carrick frem for enkeltspillere tyder på, medierne ser nederlaget som et strukturelt problem snarere end en enkelt fejlvurdering.",
+      "topics": [
+        "fodbold",
+        "manchester-united",
+        "premier-league"
+      ],
+      "entities": [
+        "Patrick Dorgu",
+        "Michael Carrick",
+        "Manchester United",
+        "Hull City"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 30,
+        "decisionValue": 15,
+        "novelty": 55,
+        "sourceQuality": 60,
+        "personalRelevance": 55,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "Manchester United tabte 0-2 til det oprykkede Hull City i Premier League-åbningen, og Patrick Dorgu blev skiftet ud i pausen",
+          "sourceUrls": [
+            "https://sport.tv2.dk/fodbold/2026-08-22-engelske-medier-slagter-dorgu-og-united"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Det er første gang nogensinde, Hull slår Manchester United i Premier League",
+          "sourceUrls": [
+            "https://sport.tv2.dk/fodbold/2026-08-22-engelske-medier-slagter-dorgu-og-united"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Engelske medier slagter Dorgu og United",
+          "publisher": "TV 2 Sport",
+          "url": "https://sport.tv2.dk/fodbold/2026-08-22-engelske-medier-slagter-dorgu-og-united",
+          "publishedAt": "2026-08-22T13:35:00Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/1/1/3/11302dc7-1cb5-4236-93d9-764553f18c65?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=NjUsMjU1LDI1MTYsMTQxNQ&s=3d11fa17ddf3ab31afa928ebdee566ad",
+        "credit": "Foto: Adam Vaughan / Ritzau Scanpix",
+        "alt": "Patrick Dorgu bliver skiftet ud af Manchester United i pausen mod Hull City",
+        "sourceUrl": "https://sport.tv2.dk/fodbold/2026-08-22-engelske-medier-slagter-dorgu-og-united"
+      }
+    }
+  ],
+  "signals": [
+    {
+      "text": "Thorning vinder endnu en sølvmedalje ved VM i paradressur",
+      "headline": "Thorning vinder endnu en sølvmedalje ved VM i paradressur",
+      "url": "https://www.dr.dk/sporten/seneste-sport/thorning-vinder-endnu-en-soelvmedalje-ved-vm-i-paradressur",
+      "publisher": "DR Sporten",
+      "section": "Sport",
+      "publishedAt": "2026-08-23T11:17:40Z",
+      "summary": "Den danske parasportsrytter Tobias Thorning vandt sølv i freestyle-disciplinen ved VM i paradressur i Aachen - hans anden sølvmedalje ved mesterskabet."
+    },
+    {
+      "text": "Nicolai Højgaard går glip af PGA Tours sæsonfinale",
+      "headline": "Nicolai Højgaard går glip af PGA Tours sæsonfinale",
+      "url": "https://www.dr.dk/sporten/seneste-sport/nicolai-hoejgaard-gaar-glip-af-pga-tours-saesonfinale",
+      "publisher": "DR Sporten",
+      "section": "Sport",
+      "publishedAt": "2026-08-23T20:50:04Z",
+      "summary": "Nicolai Højgaard sikrede sig ikke en plads i Tour Championship, PGA Tourens 30-mands-saesonfinale, efter en placering som nummer 41 ved BMW Championship."
+    },
+    {
+      "text": "Etiopier slår verdensrekord på halvmaraton",
+      "headline": "Etiopier slår verdensrekord på halvmaraton",
+      "url": "https://www.dr.dk/sporten/seneste-sport/etiopier-slaar-verdensrekord-paa-halvmaraton",
+      "publisher": "DR Sporten",
+      "section": "Sport",
+      "publishedAt": "2026-08-23T13:31:38Z"
+    },
+    {
+      "text": "Kong Haralds helbredstilstand forværret",
+      "headline": "Kong Haralds helbredstilstand forværret",
+      "url": "https://www.dr.dk/nyheder/seneste/kong-haralds-helbredstilstand-forvaerret",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-08-23T18:00:23Z",
+      "summary": "Den 89-årige norske konge har fået det værre og får antibiotika mod en bakteriel blodinfektion efter en indlæggelse 17. august."
+    },
+    {
+      "text": "Titusindvis evakueres under skovbrand i Nevada",
+      "headline": "Titusindvis evakueres under skovbrand i Nevada",
+      "url": "https://www.dr.dk/nyheder/seneste/titusindvis-evakueres-under-skovbrand-i-nevada",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-08-24T03:43:22Z"
+    },
+    {
+      "text": "Dømt for at drive skyggehotel syv steder i København",
+      "headline": "Dømt for at drive skyggehotel syv steder i København",
+      "url": "https://www.dr.dk/nyheder/seneste/doemt-drive-skyggehotel-syv-steder-i-koebenhavn",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-08-23T14:21:21Z"
+    },
+    {
+      "text": "Nye tal: Regeringen anviser kun tiltag til en fjerdedel af sit beskæftigelsesmål",
+      "headline": "Nye tal: Regeringen anviser kun tiltag til en fjerdedel af sit beskæftigelsesmål",
+      "url": "https://www.altinget.dk/erhverv/artikel/nye-tal-regeringen-anviser-kun-tiltag-til-en-fjerdedel-af-sit-beskaeftigelsesmaal",
+      "publisher": "Altinget",
+      "section": "Erhverv",
+      "publishedAt": "2026-08-20T03:00:00Z",
+      "summary": "Regeringens hidtidige initiativer dækker kun 3.750 af de 15.000 personer, den har sat som mål for øget arbejdsudbud frem mod 2030."
+    },
+    {
+      "text": "Flere får en abort senere i graviditeten efter nye regler",
+      "headline": "Flere får en abort senere i graviditeten efter nye regler",
+      "url": "https://www.dr.dk/nyheder/indland/flere-faar-en-abort-senere-i-graviditeten-efter-nye-regler",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-08-23T08:01:01Z"
+    },
+    {
+      "text": "Ekspert om knive i nattelivet: 'Det er bekymrende, når flere tal går den forkerte vej'",
+      "headline": "Ekspert om knive i nattelivet: 'Det er bekymrende, når flere tal går den forkerte vej'",
+      "url": "https://www.dr.dk/nyheder/indland/ekspert-om-knive-i-nattelivet-det-er-bekymrende-naar-flere-tal-gaar-den-forkerte-vej",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-08-23T05:40:00Z"
+    },
+    {
+      "text": "Nye emballagekrav giver stor opgave for virksomheder",
+      "headline": "Nye emballagekrav giver stor opgave for virksomheder",
+      "url": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/august/nye-emballagekrav-rammer-stor-dokumentationsopgave-venter-virksomhederne/",
+      "publisher": "Dansk Erhverv",
+      "section": "Erhverv",
+      "publishedAt": "2026-08-12T06:47:17Z",
+      "summary": "EU's emballageforordning (PPWR) trådte i kraft 12. august og pålægger virksomheder en stor ny dokumentationsopgave, siger Dansk Erhverv."
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-manutd-carrick-insidecarrington36",
+      "mode": "watch",
+      "kind": "Videointerview",
+      "status": "new",
+      "title": "Michael Carrick Looks Ahead To 2026/27 | Inside Carrington: Ep 36",
+      "creator": "Manchester United",
+      "provider": "Manchester United (officiel kanal)",
+      "url": "https://www.youtube.com/watch?v=RqSFO7adbSQ",
+      "availability": "Gratis på YouTube, ingen regional begrænsning",
+      "commitment": "40 min video",
+      "description": "Officiel klubproduceret samtale med cheftræner Michael Carrick om forventningerne til den nye sæson, optaget i klubbens træningsanlæg i Carrington.",
+      "rationale": "En sjælden uredigeret vinkel på, hvordan en Premier League-klub selv rammesætter forventninger internt - relevant efter en åbningsfiasko, der allerede har sat træneren under pres i den engelske presse.",
+      "topics": [
+        "fodbold",
+        "manchester-united",
+        "ledelse"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://i.ytimg.com/vi/RqSFO7adbSQ/maxresdefault.jpg",
+        "credit": "Kilde: Manchester United (YouTube)",
+        "alt": "Michael Carrick i samtale foran kameraet i Inside Carrington-serien",
+        "sourceUrl": "https://www.youtube.com/watch?v=RqSFO7adbSQ"
+      }
+    },
+    {
+      "id": "rec-ec-eu-us-trade-deal",
+      "mode": "read",
+      "kind": "Officiel oversigt",
+      "status": "available",
+      "title": "The EU-US trade deal: restoring stability and predictability",
+      "provider": "Europa-Kommissionen",
+      "url": "https://commission.europa.eu/topics/trade/eu-us-trade-deal_en",
+      "availability": "Gratis, offentligt tilgængelig",
+      "commitment": "10 min læsning",
+      "description": "Kommissionens egen opsummering af rammerne i EU-US-handelsaftalen: hvad den dækker, hvilke sektorer der er undtaget, og hvordan den skal forvaltes fremadrettet.",
+      "rationale": "Den primære kilde til selve aftalen, ikke et referat af den - relevant baggrund for enhver vurdering af, hvor transatlantisk handelspolitik bevæger sig hen efter den mest turbulente periode i årtier.",
+      "topics": [
+        "eu-us-handel",
+        "handelspolitik"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-rhodium-china-industrial-policy",
+      "mode": "read",
+      "kind": "Analyserapport",
+      "status": "new",
+      "title": "China's Next-Generation Industrial Policy",
+      "creator": "Rhodium Group",
+      "provider": "US Chamber of Commerce / Rhodium Group",
+      "url": "https://rhg.com/research/chinas-next-generation-industrial-policy/",
+      "availability": "Gratis, offentligt tilgængelig",
+      "commitment": "25 min læsning",
+      "description": "Dybdegående analyse af, hvordan Kinas industripolitik har udviklet sig fra bred subsidiering til målrettet satsning på specifikke teknologisektorer.",
+      "rationale": "Central baggrundsviden for enhver vurdering af de-risking og China+1-strategier: rapporten dokumenterer, hvor Kinas statslige kapital reelt bevæger sig hen, frem for hvor debatten tror, den gør.",
+      "topics": [
+        "kina",
+        "industripolitik",
+        "vaekstmarkeder"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-goldman-india-outlook",
+      "mode": "read",
+      "kind": "Analyse",
+      "status": "timely",
+      "title": "The outlook for India's economy in 2026 amid new US trade deal",
+      "provider": "Goldman Sachs",
+      "url": "https://www.goldmansachs.com/insights/articles/the-outlook-for-indias-economy-in-2026-amid-new-us-tradedeal",
+      "availability": "Gratis, offentligt tilgængelig",
+      "commitment": "10 min læsning",
+      "description": "Goldman Sachs' vurdering af Indiens vækstudsigter for 2026, set i lyset af den nye handelsaftale mellem Indien og USA.",
+      "rationale": "Indien er det klareste eksempel på et vækstmarked, der omdefineres af egne handelsaftaler snarere end af Kinas dagsorden - timingen gør analysen mere end endnu en generisk landerapport.",
+      "topics": [
+        "indien",
+        "vaekstmarkeder",
+        "handelspolitik"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {
+    "sourceCoverage": 85,
+    "freshness": 70,
+    "novelty": 70,
+    "perspectiveBalance": 70,
+    "render": 100
+  }
+}
