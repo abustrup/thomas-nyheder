@@ -1,0 +1,905 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-08-29-full",
+  "date": "2026-08-29",
+  "generatedAt": "2026-08-29T11:10:00Z",
+  "readingMinutes": 12,
+  "title": "Thomas' Nyheder",
+  "dek": "Lørdag 29. august 2026 — dagens vigtigste for en dansk erhvervs- og handelspolitisk læser, plus sport og landets nyheder.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-nepal-tibet-flood-20260829",
+      "eventKey": "nepal-tibet-flood-2026-08",
+      "materialFacts": [
+        "Dødstallet i Nepal er steget til 626, og i alt 2.482 personer er meldt savnet i Nepal og Tibet",
+        "Mindst 93.000 mennesker har akut brug for hjælp ifølge Røde Kors"
+      ],
+      "section": "Udland",
+      "headline": "De ringer igen og igen, men ingen svarer: Familier venter på nyt efter katastrofen i Nepal",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/de-ringer-igen-og-igen-men-ingen-svarer-familier-venter-paa-nyt-efter-katastrofen-i-nepal",
+      "subheadline": "626 er bekræftet døde, og 2.482 er meldt savnet i Nepal og Tibet, efter at en gletsjer kollapsede og satte floder i Himalaya-dalene under vand.",
+      "body": [
+        "Et stykke klippegrund under en gletsjer højt i Himalaya kollapsede og rev is med sig. Klipper og smeltevand fik floder til at gå over deres bredder og skylle bygninger og broer bort gennem Nepal og det tibetanske grænseområde. Nepalesisk politi oplyser, at dødstallet i Nepal er steget til 626, mens yderligere fem er døde i Tibet og syv i indiske floder nedstrøms.",
+        "2.482 er meldt savnet — 1.924 i Nepal, 558 i Tibet, heriblandt over 540 udlændinge fra 31 lande. Englænderen Pramod Poudel har mistet kontakten til sin familie: 'Man håber selvfølgelig på det bedste og frygter det værste.' Otteårige Zoyal Ghale overlevede ved at klatre op i et træ og blev genforenet med sin mor, Matti Maya Tamang."
+      ],
+      "whyItMatters": "Røde Kors anslår, at mindst 93.000 har akut brug for hjælp. Katastrofen er Nepals dødeligste siden jordskælvet i 2015, der kostede over 8.000 livet.",
+      "analysis": "Redningsarbejdet blev midlertidigt standset i Kina fredag af frygt for endnu en oversvømmelse fra en nyopstået sø, og mere regn er varslet i weekenden — tallene for døde og savnede ventes derfor at ændre sig yderligere.",
+      "topics": [
+        "naturkatastrofe",
+        "udland"
+      ],
+      "entities": [
+        "Nepal",
+        "Tibet",
+        "Indien"
+      ],
+      "isLead": true,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 92,
+        "decisionValue": 35,
+        "novelty": 75,
+        "sourceQuality": 85,
+        "personalRelevance": 15,
+        "contrast": 70
+      },
+      "claims": [
+        {
+          "text": "Dødstallet i Nepal er 626, med yderligere 5 døde i Tibet og 7 i Indien; i alt 2.482 savnede",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/de-ringer-igen-og-igen-men-ingen-svarer-familier-venter-paa-nyt-efter-katastrofen-i-nepal"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Mindst 93.000 mennesker har akut brug for hjælp ifølge Røde Kors",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/de-ringer-igen-og-igen-men-ingen-svarer-familier-venter-paa-nyt-efter-katastrofen-i-nepal"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Katastrofen er Nepals dødeligste siden jordskælvet i 2015, der kostede over 8.000 livet",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/antal-savnede-er-naesten-fordoblet-efter-naturkatastrofe-i-nepal"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "De ringer igen og igen, men ingen svarer: Familier venter på nyt efter katastrofen i Nepal",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/de-ringer-igen-og-igen-men-ingen-svarer-familier-venter-paa-nyt-efter-katastrofen-i-nepal",
+          "publishedAt": "2026-08-29T03:00:00Z",
+          "kind": "primary"
+        },
+        {
+          "title": "Antal savnede er næsten fordoblet efter naturkatastrofe i Nepal",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/antal-savnede-er-naesten-fordoblet-efter-naturkatastrofe-i-nepal",
+          "publishedAt": "2026-08-28T17:30:21Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Nepal-Tibet floods: What happened, what caused them and who is missing?",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/27/nepal-tibet-floods-what-happened-what-caused-them-and-who-is-missing",
+          "publishedAt": "2026-08-27T00:00:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/3xvfgir4/20260829-041516-7.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Eftersøgnings- og redningsarbejde i de oversvømmede områder i Nepal efter gletsjerkollapset",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/de-ringer-igen-og-igen-men-ingen-svarer-familier-venter-paa-nyt-efter-katastrofen-i-nepal"
+      }
+    },
+    {
+      "id": "story-dansk-vaekst-pharma-koncentration-20260829",
+      "eventKey": "dansk-vaekst-pharma-koncentration-2026-08",
+      "materialFacts": [
+        "Ugebrevets leder viser, at medicinalindustriens vækstbidrag på ca. 2 procentpoint udgør mere end halvdelen af regeringens forventede BNP-vækst på 3,7 pct.",
+        "Fraregnet medicinaleksport og offentlig efterspørgsel vurderes den brede økonomi kun at vokse mellem 0 og 1 pct. i år"
+      ],
+      "section": "Erhverv",
+      "headline": "Leder: Vækstminister tegner skønmaleri af dansk økonomi",
+      "primarySourceUrl": "https://ugebrev.dk/finans/leder-vaekstminister-tegner-skoenmaleri-af-dansk-oekonomi/",
+      "subheadline": "Ugebrevets leder viser, at næsten hele regeringens vækstopjustering fra i sidste uge er drevet af Novo Nordisks eksport og offentligt forbrug — ikke af resten af dansk erhvervsliv.",
+      "body": [
+        "Engel-Schmidt fremlagde i denne uge et opjusteret vækstskøn på 3,7 pct. for 2026. Ugebrevets leder regner efter: medicinalindustriens vækstbidrag er ca. 2 procentpoint — over halvdelen — og hele eksportfremgangen på 5 pct. tilskrives medicinalindustrien.",
+        "Produktionen foregår mest i udlandet, så eksporten giver begrænset effekt på dansk beskæftigelse og skat. Resten kommer især fra det offentlige — forbrug +4,4 pct., investeringer +18,1 pct. — med stort importindhold."
+      ],
+      "whyItMatters": "Den brede økonomi vokser reelt kun 0-1 pct., mod regeringens 3,7 pct. — økonomien har ifølge lederen kørt på vågeblus omkring nulvækst tre kvartaler, baseret på tal fra Danmarks Statistik.",
+      "analysis": "Vækstregnskabet er i stigende grad et Novo Nordisk-regnskab. En opbremsning i Wegovy-salget ville ramme hovedtallet hårdt uden at ramme bredden lige så meget.",
+      "topics": [
+        "makroøkonomi",
+        "dansk-erhvervsliv"
+      ],
+      "entities": [
+        "Jakob Engel-Schmidt",
+        "Novo Nordisk",
+        "Danmarks Statistik"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 62,
+        "decisionValue": 68,
+        "novelty": 60,
+        "sourceQuality": 68,
+        "personalRelevance": 90,
+        "contrast": 65
+      },
+      "claims": [
+        {
+          "text": "Medicinalindustriens vækstbidrag er ca. 2 procentpoint af den forventede BNP-vækst på 3,7 pct.; hele den forventede eksportvækst på 5 pct. tilskrives medicinalindustrien",
+          "sourceUrls": [
+            "https://ugebrev.dk/finans/leder-vaekstminister-tegner-skoenmaleri-af-dansk-oekonomi/"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Offentligt forbrug vokser 4,4 pct. og offentlige investeringer 18,1 pct. i regeringens redegørelse",
+          "sourceUrls": [
+            "https://ugebrev.dk/finans/leder-vaekstminister-tegner-skoenmaleri-af-dansk-oekonomi/"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Ugebrevet vurderer den brede økonomi til at vokse 0-1 pct. i år, mod dansk økonomis nulvækst de seneste tre kvartaler ifølge Danmarks Statistik",
+          "sourceUrls": [
+            "https://ugebrev.dk/finans/leder-vaekstminister-tegner-skoenmaleri-af-dansk-oekonomi/"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Leder: Vækstminister tegner skønmaleri af dansk økonomi",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/finans/leder-vaekstminister-tegner-skoenmaleri-af-dansk-oekonomi/",
+          "publishedAt": "2026-08-29T09:17:23Z",
+          "kind": "analysis"
+        },
+        {
+          "title": "Dansk økonomi brager afsted: Regeringen opjusterer markant",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/penge/dansk-oekonomi-brager-afsted-regeringen-opjusterer-markant",
+          "publishedAt": "2026-08-27T10:59:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://ugebrev.dk/wp-content/uploads/2026/06/Skatteminister-Jakob-Engel-Schmidt.jpg",
+        "credit": "Foto: Moderaterne/Presse",
+        "alt": "Jakob Engel-Schmidt, vækstminister, hvis vækstopjustering Ugebrevets leder sætter til debat",
+        "sourceUrl": "https://ugebrev.dk/finans/leder-vaekstminister-tegner-skoenmaleri-af-dansk-oekonomi/"
+      }
+    },
+    {
+      "id": "story-island-eu-folkeafstemning-20260829",
+      "eventKey": "island-eu-folkeafstemning-2026-08",
+      "materialFacts": [
+        "Island stemmer i dag om at genoptage optagelsesforhandlinger med EU, sat på pause i 2013 og formelt opgivet i marts 2015",
+        "Meningsmåling fra Maskína viser 51,3 pct. for og 48,7 pct. imod — et meget tæt løb"
+      ],
+      "section": "Udland",
+      "headline": "Iceland's EU referendum: What to know ahead of vote and what's at stake for Europe",
+      "primarySourceUrl": "https://www.euronews.com/my-europe/2026/08/28/icelands-eu-referendum-what-to-know-ahead-of-vote-and-whats-at-stake-for-europe",
+      "subheadline": "Islændingene stemmer i dag om at genoptage EU-forhandlinger, i en afstemning der ifølge en dansk analyse handler mindst lige så meget om forholdet til Danmark som om Trumps trusler mod Grønland.",
+      "body": [
+        "Lørdag stemmer Island om ét spørgsmål: skal landet genoptage EU-forhandlingerne, opgivet i 2015? En augustmåling fra Maskína viser 51,3 pct. for mod 48,7 pct. imod — en knivsæg, kalder Euronews det. Kun genoptagelse af forhandlinger er på sedlen; medlemskab kræver en ny folkeafstemning.",
+        "Debatten er ifølge DR mindst lige så drevet af Islands forhold til Danmark — landet løsrev sig i 1944 — som af Trumps trusler mod Grønland. Frostadóttir: 'Det er et rigtig godt tidspunkt for Island at blive medlem,' og ledere, der taler som Trump om naboområder, er 'et meget alvorligt problem'."
+      ],
+      "whyItMatters": "Islands fiskeindustri (ca. 6,5 pct. af BNP) og leveomkostninger fylder ifølge Euronews mindst lige så meget i debatten som sikkerheden.",
+      "analysis": "Sagen er dobbelt relevant herhjemme: endnu et land under amerikansk pres, i en debat der trækker tråde til Grønland. Resultat ventes timer efter, valgstederne lukker kl. 22.",
+      "topics": [
+        "eu-politik",
+        "handelspolitik",
+        "udland"
+      ],
+      "entities": [
+        "Island",
+        "EU",
+        "Kristrún Frostadóttir",
+        "Danmark"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 66,
+        "decisionValue": 45,
+        "novelty": 72,
+        "sourceQuality": 78,
+        "personalRelevance": 55,
+        "contrast": 60
+      },
+      "claims": [
+        {
+          "text": "Maskína-måling: 51,3 pct. for genoptagelse af EU-forhandlinger, 48,7 pct. imod",
+          "sourceUrls": [
+            "https://www.euronews.com/my-europe/2026/08/28/icelands-eu-referendum-what-to-know-ahead-of-vote-and-whats-at-stake-for-europe"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Optagelsesforhandlingerne blev sat på pause i 2013 og Island formelt ikke længere behandlet som kandidatland fra marts 2015",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/analyse-trump-truer-godt-nok-med-overtage-naboen-men-i-island-er-det-mere-forhistorien-med-danmark"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Islands fiskeindustri udgør ca. 6,5 pct. af BNP; leveomkostninger fylder mindst lige så meget i debatten som sikkerhedsspørgsmålet",
+          "sourceUrls": [
+            "https://www.euronews.com/my-europe/2026/08/28/icelands-eu-referendum-what-to-know-ahead-of-vote-and-whats-at-stake-for-europe"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Iceland's EU referendum: What to know ahead of vote and what's at stake for Europe",
+          "publisher": "Euronews",
+          "url": "https://www.euronews.com/my-europe/2026/08/28/icelands-eu-referendum-what-to-know-ahead-of-vote-and-whats-at-stake-for-europe",
+          "publishedAt": "2026-08-28T14:02:00Z",
+          "kind": "primary"
+        },
+        {
+          "title": "ANALYSE Trump truer godt nok med at overtage naboen. Men i Island er det mere forhistorien med Danmark, der præger EU-debatten",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/analyse-trump-truer-godt-nok-med-overtage-naboen-men-i-island-er-det-mere-forhistorien-med-danmark",
+          "publishedAt": "2026-08-29T05:00:00Z",
+          "kind": "analysis"
+        }
+      ],
+      "image": {
+        "url": "https://images.euronews.com/articles/stories/09/89/02/01/1200x675_cmsv2_3ac1c46e-23e4-531b-8464-dd337241a2ef-9890201.jpg",
+        "credit": "Kilde: Euronews",
+        "alt": "Iceland&rsquo;s EU referendum: What to know ahead of vote and what's at stake for Europe",
+        "sourceUrl": "https://www.euronews.com/my-europe/2026/08/28/icelands-eu-referendum-what-to-know-ahead-of-vote-and-whats-at-stake-for-europe"
+      }
+    },
+    {
+      "id": "story-totalenergies-lillebaelt-jammerland-20260829",
+      "eventKey": "totalenergies-lillebaelt-jammerland-2026-08",
+      "materialFacts": [
+        "TotalEnergies (72 pct. ejer) trækker sig fra LillebæltSyd Vindmøllepark, og ifølge Sonfor gælder trækket også et andet projekt",
+        "Sonfor overtager aktiemajoriteten og leder efter en ny partner; projektet omfatter 11 møller på 15 MW, i alt 165 MW"
+      ],
+      "section": "Erhverv",
+      "headline": "Investor trækker sig i 11. time fra stor vindmølleplan: Nu håber kritikere, at planen droppes",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/investor-traekker-sig-i-11-time-fra-stor-vindmoelleplan-nu-haaber-kritikere-planen-droppes",
+      "subheadline": "TotalEnergies dropper sin ejerandel i to danske havvindprojekter, deriblandt LillebæltSyd, og efterlader lokale kritikere med håb om, at hele planen skrinlægges.",
+      "body": [
+        "TotalEnergies, der ejede 72 pct. af LillebæltSyd Vindmøllepark mellem Helnæs og Als, trækker sig fra projektet — det vurderer, det ikke giver mening at investere i. Ifølge Sonfor gælder trækket også et andet projekt. Sonfor overtager majoriteten og søger en ny partner.",
+        "Projektet: 11 møller, i alt 165 MW, nok til ca. 150.000 husstande, ventet færdigt 2029-30. Sommerhusejer Pauline Nielsen på Als: 'Jeg er glad, hvis ikke det bliver til noget. Vi har siden 2012 kæmpet for, at der ikke skal laves store havvindmøller i Lillebælt.'"
+      ],
+      "whyItMatters": "Assens-borgmester Søren Steen Andersen (V): håbet om at stoppe projektet 'er så stigende igen'; Sønderborg-borgmester Erik Lauritzen (S) tror på investorer, men peger på skæv statsstøtte: 'Der er en grænse for, hvor stor en risiko vi kan tage.'",
+      "analysis": "Sagen illustrerer en spænding i dansk havvind: støtten favoriserer store parker frem for mellemstore.",
+      "topics": [
+        "energi",
+        "dansk-erhvervsliv"
+      ],
+      "entities": [
+        "TotalEnergies",
+        "Sonfor",
+        "European Energy"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 62,
+        "novelty": 55,
+        "sourceQuality": 78,
+        "personalRelevance": 78,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "TotalEnergies ejede 72 pct. af LillebæltSyd og trækker sig fra projektet; Sonfor oplyser, at trækket også gælder et andet projekt",
+          "sourceUrls": [
+            "https://sonfor.dk/nyheder/sonfor-gaar-paa-jagt-efter-ny-partner-til-vindmoellepark/",
+            "https://www.dr.dk/nyheder/indland/investor-traekker-sig-i-11-time-fra-stor-vindmoelleplan-nu-haaber-kritikere-planen-droppes"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Projektet omfatter 11 møller a 15 MW (165 MW i alt), ca. 650 GWh/år svarende til ca. 150.000 husstandes forbrug, forventet færdigt 2029-30",
+          "sourceUrls": [
+            "https://sonfor.dk/nyheder/koeb-af-aktiemajoriteten-i-lillebaelt-vind-a-s-godkendt/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Investor trækker sig i 11. time fra stor vindmølleplan: Nu håber kritikere, at planen droppes",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/investor-traekker-sig-i-11-time-fra-stor-vindmoelleplan-nu-haaber-kritikere-planen-droppes",
+          "publishedAt": "2026-08-29T07:18:37Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Sonfor går på jagt efter ny partner til vindmøllepark",
+          "publisher": "Sonfor",
+          "url": "https://sonfor.dk/nyheder/sonfor-gaar-paa-jagt-efter-ny-partner-til-vindmoellepark/",
+          "publishedAt": "2026-08-20T09:19:38Z",
+          "kind": "primary"
+        },
+        {
+          "title": "Køb af aktiemajoriteten i Lillebælt Vind A/S godkendt",
+          "publisher": "Sonfor",
+          "url": "https://sonfor.dk/nyheder/koeb-af-aktiemajoriteten-i-lillebaelt-vind-a-s-godkendt/",
+          "publishedAt": "2026-08-21T13:30:12Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/4b0pgqmp/20240530-114709-3.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Foto: Thea Bjørn/DR",
+        "alt": "Kyststrækningen ved Helnæs, hvor havvindmølleparken LillebæltSyd er planlagt opført",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/investor-traekker-sig-i-11-time-fra-stor-vindmoelleplan-nu-haaber-kritikere-planen-droppes"
+      }
+    },
+    {
+      "id": "story-rockwool-russisk-koebstilbud-20260829",
+      "eventKey": "rockwool-russisk-koebstilbud-2026-08",
+      "materialFacts": [
+        "Et lækket dokument viser, at russiske interesser i marts 2026 fremsatte et købstilbud på Rockwools fire russiske fabrikker",
+        "Rockwool afviser blankt at handle med russiske myndigheder eller oligarker"
+      ],
+      "section": "Erhverv",
+      "headline": "Dokument afslører russisk købstilbud: Danske milliardfabrikker skulle købes til spotpris",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/penge/dokument-afsloerer-russisk-koebstilbud-danske-milliardfabrikker-skulle-koebes-til-spotpris",
+      "subheadline": "Et lækket dokument viser, at et russisk selskab i marts forsøgte at købe Rockwools fire russiske fabrikker til en pris langt under, hvad de var værd før krigen.",
+      "body": [
+        "Den 3. marts modtog Rockwool en uopfordret købshenvendelse om selskabets fire russiske fabrikker, viser et lækket dokument. Afsenderen fik efter et Putin-dekret i januar kontrol over Rockwools russiske forretning. Prisen var, skriver DR, 'som skrevet lige ind i Vladimir Putins drejebog' — milevidt fra førkrigsværdien.",
+        "Pressechef Rasmus Windfeld afviser kontant: 'Vi er ikke interesserede i at sælge vores russiske fabrikker til nogen i Rusland. Vi vil ikke handle med de russiske myndigheder eller en russisk oligark.'"
+      ],
+      "whyItMatters": "Sagen bygger på et russisk regelsæt fra 2024 for salg af 'uvenlige landes' aktiver: en vurderingsmand sætter markedsværdien, 60 pct. trækkes fra som salgspris, og staten opkræver 35 pct. i skat.",
+      "analysis": "Den præcise pris er sløret, men mekanismen er kendt — relevant for enhver dansk virksomhed med aktiver i Rusland: et system designet til at gøre et salg uattraktivt for ejeren.",
+      "topics": [
+        "dansk-erhvervsliv",
+        "krig-ukraine",
+        "handelspolitik"
+      ],
+      "entities": [
+        "Rockwool",
+        "Rusland",
+        "Rasmus Windfeld"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 42,
+        "novelty": 75,
+        "sourceQuality": 78,
+        "personalRelevance": 80,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Et russisk selskab fremsatte 3. marts 2026 et ikke-bindende købstilbud på Rockwools fire russiske fabrikker til en pris langt under førkrigsværdien",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/dokument-afsloerer-russisk-koebstilbud-danske-milliardfabrikker-skulle-koebes-til-spotpris"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Russisk regelsæt (protokol fra oktober 2024) fastsætter, at 'uvenlige landes' aktiver sælges til 40 pct. af vurderet markedsværdi, mens der desuden opkræves 35 pct. i statsskat af den oprindelige vurdering",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/dokument-afsloerer-russisk-koebstilbud-danske-milliardfabrikker-skulle-koebes-til-spotpris"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Dokument afslører russisk købstilbud: Danske milliardfabrikker skulle købes til spotpris",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/penge/dokument-afsloerer-russisk-koebstilbud-danske-milliardfabrikker-skulle-koebes-til-spotpris",
+          "publishedAt": "2026-08-28T10:15:00Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/rzknvinz/20221123-125021-l.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Arkivfoto af et Rockwool-fabriksanlæg med stenuldsballer og skorstene",
+        "sourceUrl": "https://www.dr.dk/nyheder/penge/dokument-afsloerer-russisk-koebstilbud-danske-milliardfabrikker-skulle-koebes-til-spotpris"
+      }
+    },
+    {
+      "id": "story-green-power-denmark-hansen-20260829",
+      "eventKey": "green-power-denmark-viceadm-hansen-2026-08",
+      "materialFacts": [
+        "Martin Hansen, hidtil afdelingschef i Miljøministeriet, bliver ny viceadm. direktør for Industri og Energiproduktion i Green Power Denmark fra 1. september",
+        "Han afløser Jan Hylleberg, der i midten af august blev adm. direktør i Foreningen af Rådgivende Ingeniører"
+      ],
+      "section": "Erhverv",
+      "headline": "Martin Hansen bliver ny viceadm. direktør i Green Power Denmark",
+      "primarySourceUrl": "https://via.ritzau.dk/pressemeddelelse/15070652/martin-hansen-bliver-ny-viceadm-direktor-i-green-power-denmark",
+      "subheadline": "Green Power Denmark henter Martin Hansen fra Miljøministeriet som ny viceadm. direktør for Industri og Energiproduktion, efter at Jan Hylleberg er rejst til Foreningen af Rådgivende Ingeniører.",
+      "body": [
+        "Martin Hansen, siden 2024 afdelingschef i Miljøministeriet, tiltræder 1. september som viceadm. direktør i Green Power Denmark for Industri og Energiproduktion. Han afløser Jan Hylleberg, der i august blev adm. direktør i Foreningen af Rådgivende Ingeniører. Hansen har 20 års erfaring i sektoren.",
+        "Hansen selv: 'Den aktuelle situation med konflikterne i Mellemøsten og Ukraine understreger, at vores sektor spiller en kritisk samfundsrolle som leverandør af energi, der er grøn, sikker og til at betale.'"
+      ],
+      "whyItMatters": "For en læser, der følger pendulering mellem embedsværk og erhvervsorganisationer, er rokaden et eksempel — samme uge, Energinet også skiftede topchef.",
+      "analysis": "Adm. direktør Kristian Jensen: 'Vi står i en energimæssig brydningstid i både Danmark og Europa. Der er et presserende behov for at frigøre os fra importerede brændsler og styrke vores energimæssige selvstændighed.'",
+      "topics": [
+        "personaleskift",
+        "dansk-erhvervsliv",
+        "energi"
+      ],
+      "entities": [
+        "Green Power Denmark",
+        "Martin Hansen",
+        "Jan Hylleberg",
+        "Kristian Jensen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 42,
+        "decisionValue": 58,
+        "novelty": 60,
+        "sourceQuality": 72,
+        "personalRelevance": 92,
+        "contrast": 30
+      },
+      "claims": [
+        {
+          "text": "Martin Hansen tiltræder 1. september som viceadm. direktør for Industri og Energiproduktion i Green Power Denmark, og afløser Jan Hylleberg, der blev adm. direktør i Foreningen af Rådgivende Ingeniører i midten af august",
+          "sourceUrls": [
+            "https://via.ritzau.dk/pressemeddelelse/15070652/martin-hansen-bliver-ny-viceadm-direktor-i-green-power-denmark"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Martin Hansen bliver ny viceadm. direktør i Green Power Denmark",
+          "publisher": "Green Power Denmark (Ritzau)",
+          "url": "https://via.ritzau.dk/pressemeddelelse/15070652/martin-hansen-bliver-ny-viceadm-direktor-i-green-power-denmark",
+          "publishedAt": "2026-08-03T07:42:28Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://via.ritzau.dk/data/images/public/13560944/15070652/f97a7718-e99d-474b-805c-e04fe5d989d0-w_960.jpg",
+        "credit": "Pressefoto: Green Power Denmark",
+        "alt": "Martin Hansen, ny viceadm. direktør for Industri og Energiproduktion i Green Power Denmark",
+        "sourceUrl": "https://via.ritzau.dk/pressemeddelelse/15070652/martin-hansen-bliver-ny-viceadm-direktor-i-green-power-denmark"
+      }
+    },
+    {
+      "id": "story-ukraine-drone-yaroslavl-20260829",
+      "eventKey": "ukraine-drone-strike-yaroslavl-2026-08",
+      "materialFacts": [
+        "Ukrainske droner satte ild til Slavneft-Janos-raffinaderiet i Jaroslavl, en af Ruslands fem største, ifølge Zelenskyj 1.000 km fra frontlinjen",
+        "En person dræbt og 27 sårede ifølge den lokale guvernør"
+      ],
+      "section": "Udland",
+      "headline": "Over 1.100 kilometer fra Kyiv forårsager droner brand i et af Ruslands største olieraffinaderier",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/over-1-100-kilometer-fra-kyiv-foraarsager-droner-brand-i-et-af-ruslands-stoerste-olieraffinaderier",
+      "subheadline": "Ukrainske droner satte natten til fredag ild til Slavneft-Janos-raffinaderiet i den russiske by Jaroslavl — en af Ruslands fem største, langt bag frontlinjen.",
+      "body": [
+        "Ukrainske droner ramte natten til fredag Slavneft-Janos-raffinaderiet i Jaroslavl, ca. 250 km nordøst for Moskva. Zelenskyj: 'Soldater fra vores væbnede styrker har ramt et olieraffinaderi i Jaroslavl-regionen. Det er 1.000 kilometer fra frontlinjen.' Raffinaderiet er tidligere ramt i december og marts.",
+        "Guvernør Mikhail Jevrajev oplyste, at man havde 'afværget fjendens angreb', men bekræftede 67 nedskudte droner, brande og at én dræbt og 27 sårede. Efterforskningsudvalgets Svetlana Petrenko kaldte det en terrorhandling."
+      ],
+      "whyItMatters": "Angrebet føjer sig til ukrainske droneangreb mod russisk olieinfrastruktur, en indtægtskilde for krigsøkonomien — Moscow Times bekræfter dødstallet og forsvarets tal for 512 nedskudte droner den nat.",
+      "analysis": "At et mål så langt fra fronten kan rammes, understreger Ukraines voksende rækkevidde og lægger pres på Ruslands raffinaderikapacitet, svækket af gentagne angreb i år.",
+      "topics": [
+        "krig-ukraine",
+        "energi",
+        "udland"
+      ],
+      "entities": [
+        "Ukraine",
+        "Rusland",
+        "Zelensky",
+        "Jaroslavl"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 76,
+        "decisionValue": 32,
+        "novelty": 60,
+        "sourceQuality": 85,
+        "personalRelevance": 25,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Zelenskyj bekræftede angrebet på raffinaderiet i Jaroslavl og oplyste distancen som 1.000 km fra frontlinjen",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/over-1-100-kilometer-fra-kyiv-foraarsager-droner-brand-i-et-af-ruslands-stoerste-olieraffinaderier"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "1 dræbt og 27 sårede ifølge guvernør Mikhail Jevrajev; 67 droner nedskudt ifølge samme",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/over-1-100-kilometer-fra-kyiv-foraarsager-droner-brand-i-et-af-ruslands-stoerste-olieraffinaderier",
+            "https://www.themoscowtimes.com/2026/08/28/drone-attack-kills-one-sparks-fire-at-yaroslavl-oil-refinery-a93595"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Det russiske forsvarsministerium oplyste at have nedskudt 512 droner på tværs af Rusland samme nat",
+          "sourceUrls": [
+            "https://www.themoscowtimes.com/2026/08/28/drone-attack-kills-one-sparks-fire-at-yaroslavl-oil-refinery-a93595"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Over 1.100 kilometer fra Kyiv forårsager droner brand i et af Ruslands største olieraffinaderier",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/over-1-100-kilometer-fra-kyiv-foraarsager-droner-brand-i-et-af-ruslands-stoerste-olieraffinaderier",
+          "publishedAt": "2026-08-28T19:50:00Z",
+          "kind": "primary"
+        },
+        {
+          "title": "Ukrainian Drone Attack Kills One, Sparks Fire at Yaroslavl Oil Refinery",
+          "publisher": "The Moscow Times",
+          "url": "https://www.themoscowtimes.com/2026/08/28/drone-attack-kills-one-sparks-fire-at-yaroslavl-oil-refinery-a93595",
+          "publishedAt": "2026-08-28T00:00:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/q4pfcuwi/20130710-155458-3.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Arkivfoto af Slavneft-Janos-raffinaderiet i Jaroslavl, som blev ramt af ukrainske droner",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/over-1-100-kilometer-fra-kyiv-foraarsager-droner-brand-i-et-af-ruslands-stoerste-olieraffinaderier"
+      }
+    },
+    {
+      "id": "story-roskilde-etnicitet-20260829",
+      "eventKey": "roskilde-drab-etnicitet-politik-2026-08",
+      "materialFacts": [
+        "Efter drabet på en 16-årig ved en gymnasiefest i Roskilde åbner statsminister Mette Frederiksen for, at politiet fremover skal kunne oplyse gerningspersoners etnicitet, ikke kun nationalitet"
+      ],
+      "section": "Indland",
+      "headline": "Efter drab på gymnasieelev i Roskilde: Mette Frederiksen åbner for, at politiet skal oplyse om etnicitet på gerningspersoner",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/politik/efter-drab-paa-gymnasieelev-i-roskilde-mette-frederiksen-aabner-politiet-skal-oplyse-om-etnicitet",
+      "subheadline": "Efter drabet på en 16-årig gymnasieelev i Roskilde svarer statsminister Mette Frederiksen 'ja' til, at offentligheden fortjener at kende gerningspersoners etnicitet, ikke kun nationalitet.",
+      "body": [
+        "En 16-årig dreng blev stukket ned og dræbt ved en gymnasiefest i Roskilde. På et pressemøde blev Frederiksen spurgt, om offentligheden fortjener at kende etniciteten på gerningspersoner. Svaret: 'Ja.'",
+        "Frederiksen: 'Vi har ikke nogen berøringsangst. Der er en kraftig overrepræsentation af unge mænd med rødder i Mellemøsten og nogle steder i Afrika, som begår alt for meget kriminalitet i Europa og Danmark.' Om regeringen vil pålægge det: 'Det er ikke noget, vi har diskuteret, og jeg ved ikke, om det er relevant i alle tilfælde. Men jeg har ikke noget problem med, at etnicitet kommer frem. Det er en del af det billede, vi er nødt til at forholde os til som borgere.'"
+      ],
+      "whyItMatters": "Politiet oplyser i dag nationalitet, mens etnicitet kun oplyses ved særlige grunde, oplyser Rigspolitiets René Gyldensten.",
+      "analysis": "S-gruppeformand Mattias Tesfaye, hvis søn var til festen, kalder dele af debatten 'lidt pseudo'.",
+      "topics": [
+        "politik-dk",
+        "kriminalitet"
+      ],
+      "entities": [
+        "Mette Frederiksen",
+        "Roskilde",
+        "Mattias Tesfaye"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 62,
+        "decisionValue": 32,
+        "novelty": 68,
+        "sourceQuality": 78,
+        "personalRelevance": 15,
+        "contrast": 50
+      },
+      "claims": [
+        {
+          "text": "En 16-årig blev dræbt ved en gymnasiefest i Roskilde; Mette Frederiksen svarede 'ja' til at offentligheden fortjener at kende gerningspersoners etnicitet",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/politik/efter-drab-paa-gymnasieelev-i-roskilde-mette-frederiksen-aabner-politiet-skal-oplyse-om-etnicitet"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Politiet oplyser som udgangspunkt nationalitet, mens etnicitet kun oplyses ved særlige politifaglige grunde, ifølge Rigspolitiets kommunikationschef René Gyldensten",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/politik/efter-drab-paa-gymnasieelev-i-roskilde-mette-frederiksen-aabner-politiet-skal-oplyse-om-etnicitet"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Efter drab på gymnasieelev i Roskilde: Mette Frederiksen åbner for, at politiet skal oplyse om etnicitet på gerningspersoner",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/politik/efter-drab-paa-gymnasieelev-i-roskilde-mette-frederiksen-aabner-politiet-skal-oplyse-om-etnicitet",
+          "publishedAt": "2026-08-26T19:25:00Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/mstnedpv/20260826-140340-l.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Foto: Mads Claus Rasmussen/Ritzau Scanpix",
+        "alt": "Statsminister Mette Frederiksen på pressemøde ved Socialdemokratiets sommergruppemøde",
+        "sourceUrl": "https://www.dr.dk/nyheder/politik/efter-drab-paa-gymnasieelev-i-roskilde-mette-frederiksen-aabner-politiet-skal-oplyse-om-etnicitet"
+      }
+    },
+    {
+      "id": "story-cursor-ai-russiske-hackere-20260829",
+      "eventKey": "cursor-ai-russiske-hackere-2026-08",
+      "materialFacts": [
+        "Sikkerhedsfirmaet Gambit Security fandt, at hackergruppen AurOra brugte SpaceX' AI-kodeassistent Cursor til at bryde ind hos mindst syv europæiske virksomheder ved at overbevise agenten om, at angrebet var en simulation"
+      ],
+      "section": "Sikkerhed",
+      "headline": "Elon Musks AI-assistent hjalp russiske hackere ind i europæiske virksomheders systemer",
+      "primarySourceUrl": "https://www.computerworld.dk/art/296648/elon-musks-ai-assistent-hjalp-russiske-hackere-ind-i-europaeiske-virksomheders-systemer",
+      "subheadline": "Hackerne brugte SpaceX's kodeassistent Cursor som springbræt til at trænge ind i mindst syv virksomheder, skriver Reuters.",
+      "body": [
+        "Elon Musks SpaceX' AI-kodeassistent, Cursor, har ifølge Reuters hjulpet russiske hackere ind hos en belgisk kemivirksomhed, en tysk garageportproducent og et skotsk helipad-firma, blandt mindst syv ramte. Gambit Security fandt en server, hackerbanden AurOra brugte, og læste chats med Cursors agent. Hackerne overbeviste agenten om en simulering — reelt stjal de data, herunder kodeord.",
+        "Agenten benyttede Anthropics Claude Sonnet 4.5, en mindre udgave af selskabets førende modeller, som den amerikanske regering har krævet adgangskontrol til."
+      ],
+      "whyItMatters": "Mindst én virksomhed har været udsat for forsøg på afpresning. Sagen er et eksempel på et ellers teoretisk mønster: en AI-agent narret til skadelig kode, fordi den tror, den er i et testmiljø.",
+      "analysis": "For virksomheder med AI-agenter er pointen ikke, hvem der ejer værktøjet, men at 'simulation' er nok til at få en model til at handle mod sin egen sikkerhedslogik.",
+      "topics": [
+        "it-sikkerhed",
+        "kunstig-intelligens"
+      ],
+      "entities": [
+        "SpaceX",
+        "Cursor",
+        "Anthropic",
+        "Gambit Security"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 46,
+        "decisionValue": 28,
+        "novelty": 72,
+        "sourceQuality": 62,
+        "personalRelevance": 20,
+        "contrast": 75
+      },
+      "claims": [
+        {
+          "text": "Gambit Security fandt at hackergruppen AurOra brugte Cursors AI-agent til at bryde ind hos mindst syv virksomheder ved at overbevise den om en simulation, ifølge Reuters",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/296648/elon-musks-ai-assistent-hjalp-russiske-hackere-ind-i-europaeiske-virksomheders-systemer"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Cursors agent brugte Anthropics Claude Sonnet 4.5",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/296648/elon-musks-ai-assistent-hjalp-russiske-hackere-ind-i-europaeiske-virksomheders-systemer"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Elon Musks AI-assistent hjalp russiske hackere ind i europæiske virksomheders systemer",
+          "publisher": "Computerworld",
+          "url": "https://www.computerworld.dk/art/296648/elon-musks-ai-assistent-hjalp-russiske-hackere-ind-i-europaeiske-virksomheders-systemer",
+          "publishedAt": "2026-08-28T10:55:00Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://www.computerworld.dk/fil/210442?width=1200&height=630&focus=1",
+        "credit": "Kilde: Computerworld",
+        "alt": "Opsendelse fra SpaceX, som artiklen omtaler som ejer af AI-kodeassistenten Cursor",
+        "sourceUrl": "https://www.computerworld.dk/art/296648/elon-musks-ai-assistent-hjalp-russiske-hackere-ind-i-europaeiske-virksomheders-systemer"
+      }
+    }
+  ],
+  "signals": [
+    {
+      "text": "Intern uro i Venstre inden afstemning om omstridt miljølov",
+      "headline": "Intern uro i Venstre inden afstemning om omstridt miljølov",
+      "url": "https://www.dr.dk/nyheder/politik/intern-uro-i-venstre-inden-afstemning-om-omstridt-miljoelov",
+      "publisher": "DR",
+      "section": "Politik",
+      "publishedAt": "2026-08-27T19:35:14Z",
+      "summary": "Venstres folketingsgruppe er splittet forud for afstemningen 3. september om en omstridt kvælstof-/miljølov; flere borgmestre og partistifter Søren Gade er bekymrede for konsekvenserne for landmændene."
+    },
+    {
+      "text": "Nu fortæller regeringen, hvor stor en del af momsnedsættelsen den forventer lander i indkøbskurven",
+      "headline": "Nu fortæller regeringen, hvor stor en del af momsnedsættelsen den forventer lander i indkøbskurven",
+      "url": "https://www.dr.dk/nyheder/politik/nu-fortaeller-regeringen-hvor-stor-en-del-af-momsnedsaettelsen-den-forventer-lander-i-indkoebskurven",
+      "publisher": "DR",
+      "section": "Politik",
+      "publishedAt": "2026-08-27T09:51:02Z",
+      "summary": "Skatteminister Jakob Engel-Schmidt oplyser, at regeringen forventer, at 96 pct. af fødevaremomsnedsættelsen ender som lavere priser hos forbrugerne."
+    },
+    {
+      "text": "Efter kold skulder: Kæmpe it-opkøb til 350 milliarder kroner går i vasken",
+      "headline": "Efter kold skulder: Kæmpe it-opkøb til 350 milliarder kroner går i vasken",
+      "url": "https://www.computerworld.dk/art/296647",
+      "publisher": "Computerworld",
+      "section": "Erhverv",
+      "publishedAt": "2026-08-28T08:19:00Z",
+      "summary": "Kapitalfondene Advent International og Stripe trækker deres ca. 53 mia. dollar-bud på PayPal tilbage efter bestyrelsens vurdering af, at prisen var for lav og de regulatoriske risici for store."
+    },
+    {
+      "text": "12 kinesere fængsles i sag om hvidvask og momssvig",
+      "headline": "12 kinesere fængsles i sag om hvidvask og momssvig",
+      "url": "https://www.dr.dk/nyheder/indland/12-kinesere-faengsles-i-sag-om-hvidvask-og-momssvig",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-08-28T14:33:18Z",
+      "summary": "Københavns Byret varetægtsfængsler 12 personer i sag om hvidvask for 121 mio. kr. og momssvig for 23 mio. kr. via en luksusvarebutik i København."
+    },
+    {
+      "text": "'Bekymrende' siger forsker om andelen af patienter, der stopper på Wegovy",
+      "headline": "'Bekymrende' siger forsker om andelen af patienter, der stopper på Wegovy",
+      "url": "https://www.dr.dk/nyheder/indland/bekymrende-siger-forsker-om-andelen-af-patienter-der-stopper-paa-wegovy",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-08-29T04:33:00Z",
+      "summary": "Studie fra Aarhus Universitet: omkring halvdelen af danske Wegovy-brugere stopper behandlingen inden for et år, primært pga. pris og bivirkninger."
+    },
+    {
+      "text": "Holger Rune spillede afgørende rolle i superstjernens comeback",
+      "headline": "Holger Rune spillede afgørende rolle i superstjernens comeback",
+      "url": "https://www.dr.dk/sporten/holger-rune-spillede-afgoerende-rolle-i-superstjernens-comeback",
+      "publisher": "DR",
+      "section": "Sport",
+      "publishedAt": "2026-08-29T09:44:00Z",
+      "summary": "Holger Rune trænede med Carlos Alcaraz i fem dage før US Open og hjalp ham tilbage efter en håndledsskade; Alcaraz er klar til turneringen, men møder ikke den skadede Jannik Sinner."
+    },
+    {
+      "text": "Skjelmose i tvivl om planen for resten af Vueltaen",
+      "headline": "Skjelmose i tvivl om planen for resten af Vueltaen",
+      "url": "https://sport.tv2.dk/cykling/2026-08-29-skjelmose-i-tvivl-om-planen-for-resten-af-vueltaen",
+      "publisher": "TV 2 Sport",
+      "section": "Sport",
+      "publishedAt": "2026-08-29T07:33:42Z",
+      "summary": "Mattias Skjelmose faldt til en 8.-plads i Vuelta-samlet efter 7. etape og overvejer nu, om han skal jagte en top-10-placering eller satse på etapesejre."
+    },
+    {
+      "text": "Politiet vil efterforske påstande om vold og overgreb i Faderhuset",
+      "headline": "Politiet vil efterforske påstande om vold og overgreb i Faderhuset",
+      "url": "https://www.dr.dk/nyheder/indland/politiet-vil-efterforske-paastande-om-vold-og-overgreb-i-faderhuset",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-08-29T03:30:50Z",
+      "summary": "Politiet vil undersøge nye påstande om vold og overgreb i trossamfundet Faderhuset efter en ny bog om organisationen."
+    },
+    {
+      "text": "Haakon er en ensom majestæt: Overtager kongehus i stormvejr",
+      "headline": "Haakon er en ensom majestæt: Overtager kongehus i stormvejr",
+      "url": "https://www.dr.dk/nyheder/udland/haakon-er-en-ensom-majestaet-overtager-kongehus-i-stormvejr",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-08-28T16:44:00Z",
+      "summary": "Analyse: Norges nye konge Haakon overtager kongehuset midt i sager om dronning Mette-Marits søn Marius Borg Høiby, efter kong Haralds død."
+    },
+    {
+      "text": "Bådvrag hober sig op i danske havne: Ejerne er som sunket i vandet",
+      "headline": "Bådvrag hober sig op i danske havne: Ejerne er som sunket i vandet",
+      "url": "https://www.dr.dk/nyheder/indland/baadvrag-hober-sig-op-i-danske-havne-ejerne-er-som-sunket-i-vandet",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-08-29T06:35:00Z",
+      "summary": "Omkring 900 efterladte både hober sig op i danske havne årligt; brancheforening opfordrer til et nationalt bådregister efter svensk forbillede."
+    }
+  ],
+  "column": {
+    "authoredBy": "ai",
+    "slug": "usikkerhed-er-ikke-det-samme-som-risiko",
+    "title": "Usikkerhed er ikke det samme som risiko",
+    "thesis": "Risiko kan beregnes ud fra kendte sandsynligheder; ægte usikkerhed kan det ikke, og at behandle de to som samme sag er en stille kilde til falsk selvsikkerhed i økonomiske prognoser og politiske beslutninger.",
+    "body": [
+      "Et terningkast er risiko: udfaldene er kendte, og sandsynligheden kan beregnes på forhånd. Det meste, vi skal træffe beslutninger om, er noget andet — vi kender hverken alle udfald eller deres sandsynlighed, fordi situationen ikke har været der før i en form, statistikken kan fange. Skellet er blevet upopulært, fordi et tal med én decimal føles mere solidt end en sætning fuld af forbehold.",
+      "Konsekvensen er en asymmetrisk straf for ærlighed: den, der siger 'det ved vi ikke præcist, men her er retningen', lyder svagere end den, der siger et præcist tal — selv når tallet hviler på lige så meget gætteri. Det er et argument for at sige højt, hvornår vi reelt kun gætter kvalificeret."
+    ],
+    "uncertainty": "Hvis prognoser viste sig velkalibrerede over tid — at det, modellerne selv angav som usandsynligt, kun indtraf sjældent i praksis — ville skellet, jeg trækker her, være mindre vigtigt, end jeg hævder.",
+    "topics": [
+      "beslutningsteori",
+      "epistemologi"
+    ]
+  },
+  "recommendations": [
+    {
+      "id": "rec-mondragon-rtbc-20260829",
+      "mode": "read",
+      "kind": "essay",
+      "status": "new",
+      "title": "The Spanish Town Doing Capitalism Better",
+      "creator": "Peter Yeung",
+      "provider": "Reasons to be Cheerful",
+      "url": "https://reasonstobecheerful.world/mondragon-cooperatives-spain/",
+      "availability": "Frit tilgængelig, ingen betalingsmur",
+      "commitment": "Ca. 10 minutters læsning",
+      "description": "Portræt af Mondragón-koncernen i Baskerlandet, verdens største andelsselskab af arbejderejede virksomheder, der leverer konkurrencedygtige overskud samtidig med demokratisk medbestemmelse — fortalt med de reelle udfordringer, herunder kønsskævhed i ledelsen og svær eksport af modellen.",
+      "rationale": "Konstruktiv journalistik er en af hans stående interesser, og denne artikel angriber konkurrenceevne fra en vinkel, der ligger uden for hans egen baggrund i markedsorienteret erhvervsorganisering — uden at pynte på, hvor modellen reelt kæmper.",
+      "topics": [
+        "konstruktiv-journalistik",
+        "erhvervsmodeller"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://reasonstobecheerful.world/wp-content/uploads/2026/08/1920px-San_Andres_y_Amboto_-_panoramio-1.jpg",
+        "credit": "Kilde: Reasons to be Cheerful",
+        "alt": "Bjerglandskab i det baskiske Mondragón-område, hjemsted for verdens største andelsvirksomhed",
+        "sourceUrl": "https://reasonstobecheerful.world/mondragon-cooperatives-spain/"
+      }
+    },
+    {
+      "id": "rec-dan-wang-csis-20260829",
+      "mode": "listen",
+      "kind": "podcast",
+      "status": "available",
+      "title": "China's Quest to Engineer the Future: A Conversation with Dan Wang",
+      "creator": "Henrietta Levin og Brian Hart med Dan Wang",
+      "provider": "CSIS (Pekingology/ChinaPower Podcast)",
+      "url": "https://www.csis.org/podcasts/chinapower/chinas-quest-engineer-future-conversation-dan-wang",
+      "availability": "Frit tilgængelig på csis.org og gængse podcast-platforme",
+      "commitment": "Én podcastepisode",
+      "description": "Samtale med Stanford-forskeren Dan Wang om hans bog 'Breakneck' — hvordan Kinas ingeniørdrevne styre får store projekter bygget, og hvad det koster i overvågning og social kontrol.",
+      "rationale": "Han byggede selv DI's kontorer i Kina; denne samtale går tættere på mekanismen bag kinesisk industripolitik end de fleste paneldebatter, uden at underslå prisen for modellen.",
+      "topics": [
+        "kina",
+        "industripolitik"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-ecipe-draghi-20260829",
+      "mode": "read",
+      "kind": "essay",
+      "status": "available",
+      "title": "The Draghi Report Turns One Today. Yet It Is Still More Crawling Than Walking.",
+      "creator": "Andrea Dugo",
+      "provider": "ECIPE",
+      "url": "https://ecipe.org/insights/draghi-report-turns-one/",
+      "availability": "Frit tilgængelig, ingen betalingsmur",
+      "commitment": "Ca. 15 minutters læsning",
+      "description": "Et års status på Mario Draghis EU-konkurrenceevnerapport: retorikken har ifølge analysen overhalet handlingen langt på forskning, finansiering og regelforenkling.",
+      "rationale": "En ædru facitliste på den Draghi-dagsorden, han og BusinessEurope selv skubbede på for i Bruxelles — nyttig netop fordi den er en status, ikke en gentagelse af den oprindelige rapport.",
+      "topics": [
+        "eu-konkurrenceevne",
+        "regulering"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-piie-malmstrom-20260829",
+      "mode": "read",
+      "kind": "essay",
+      "status": "timely",
+      "title": "Can the EU lead a new world order in trade?",
+      "creator": "Cecilia Malmström",
+      "provider": "Peterson Institute for International Economics (PIIE)",
+      "url": "https://www.piie.com/blogs/realtime-economics/2026/can-eu-lead-new-world-order-trade",
+      "availability": "Frit tilgængelig, ingen betalingsmur",
+      "commitment": "Ca. 6-8 minutters læsning",
+      "description": "Tidligere EU-handelskommissær Cecilia Malmström skriver om EU's søgen efter nye handelsalliancer med Mercosur, Indien og CPTPP for at mindske afhængigheden af USA.",
+      "rationale": "Fra den, der sad i den stol, han selv forhandlede overfor som chef for BusinessEuropes transatlantiske netværk — hans tidligere professionelle register, skrevet af en central aktør i det.",
+      "topics": [
+        "handelspolitik",
+        "eu-politik"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {
+    "editorialConfidence": 80,
+    "sourceDiversity": 62
+  }
+}
