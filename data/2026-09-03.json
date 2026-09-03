@@ -1,0 +1,804 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-09-03-01",
+  "date": "2026-09-03",
+  "generatedAt": "2026-09-03T06:45:00Z",
+  "readingMinutes": 11,
+  "title": "Thomas' Nyheder",
+  "dek": "PET advarer om russisk sabotage mod forsvarsindustrien, USA presser G20 mod løsere AI-regler, og Venstres kvælstofkrise breder sig til Liberal Alliance.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-pet-russisk-sabotage-2026-09-03",
+      "eventKey": "pet-russisk-sabotage-forsvarsindustri-2026",
+      "materialFacts": [
+        "PET har afsløret konkrete russiske planer om sabotage mod danske forsvarsvirksomheder",
+        "Russland forsøger at rekruttere danske stedfortrædere online",
+        "PET vurderer at russiske operationer i Danmark har nået et nyt niveau"
+      ],
+      "section": "Sikkerhed",
+      "headline": "PET afslører konkrete planer for russisk sabotage i Danmark",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/pet-afsloerer-konkrete-planer-russisk-sabotage-i-danmark",
+      "subheadline": "Rusland forsøger at rekruttere danske stedfortrædere til sabotage mod forsvarsindustrien, siger PET",
+      "body": [
+        "PET har afsløret konkrete russiske planer om at sabotere danske forsvarsvirksomheder, oplyser efterretningstjenesten. Ifølge PET's chef for kontraspionage, Emil Græsholm, er det især selskaber med forbindelse til militærhjælp til Ukraine, der er i russisk kikkert. \"Ruslands operationer i Danmark har nået et nyt niveau,\" siger han.",
+        "Metoden er at forsøge at rekruttere danske stedfortrædere online, så det russiske spor er sværere at spore. Oplysningerne stammer oprindeligt fra Berlingske."
+      ],
+      "whyItMatters": "For danske forsvarsvirksomheder betyder advarslen, at sikkerheden om forsyningskæderne til Ukraine skal opgraderes nu, fordi PET vurderer at konkrete planer er i gang, ikke som forsigtighedsprincip.",
+      "analysis": "At PET går så konkret ud offentligt, er usædvanligt og signalerer, at åbenhed nu vejer tungere end diskretion om egne kilder. Det presser forsvarsindustrien til selv at skærpe sikkerheden og sender samtidig et signal til Moskva om, at planerne er kendte.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/igwp34ex/20260817-160827-l_crop001.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "PET's chef for kontraspionage, Emil Græsholm",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/pet-afsloerer-konkrete-planer-russisk-sabotage-i-danmark"
+      },
+      "topics": [
+        "sikkerhed",
+        "forsvar",
+        "rusland"
+      ],
+      "entities": [
+        "PET",
+        "Emil Græsholm",
+        "Rusland"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 88,
+        "decisionValue": 80,
+        "novelty": 70,
+        "sourceQuality": 85,
+        "personalRelevance": 55,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "PET har afsløret konkrete russiske planer om sabotage mod danske forsvarsvirksomheder, især dem med forbindelse til militærhjælp til Ukraine.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/pet-afsloerer-konkrete-planer-russisk-sabotage-i-danmark"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "PET's chef for kontraspionage, Emil Græsholm, siger: \"Ruslands operationer i Danmark har nået et nyt niveau.\"",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/pet-afsloerer-konkrete-planer-russisk-sabotage-i-danmark"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Rusland forsøger at rekruttere danske stedfortrædere online til at udføre sabotagehandlinger.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/pet-afsloerer-konkrete-planer-russisk-sabotage-i-danmark"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "PET afslører konkrete planer for russisk sabotage i Danmark",
+          "publisher": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/udland/pet-afsloerer-konkrete-planer-russisk-sabotage-i-danmark",
+          "publishedAt": "2026-09-02T19:47:41Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-us-ai-deregulering-2026-09-03",
+      "eventKey": "us-ai-deregulering-carolina-principles-2026",
+      "materialFacts": [
+        "USA fremlagde 'Carolina Principles' for løsere AI-regulering på G20-ministermøde i Chapel Hill",
+        "Anthropic var eneste store AI-selskab fraværende og går imod løsere regulering",
+        "Musk og Zuckerberg støtter lempeligere regler"
+      ],
+      "section": "Teknologi",
+      "headline": "USA vil have verdens største lande til at slække på deres AI-lovgivning: Skal have frit løb",
+      "primarySourceUrl": "https://www.computerworld.dk/art/296689/",
+      "subheadline": "Et amerikansk forslag om løsere AI-regulering splitter G20-landene og sætter Anthropic uden for døren",
+      "body": [
+        "På et G20-innovationsministermøde i Chapel Hill har USA fremlagt et forslag om løsere AI-regulering, 'Carolina Principles'. Michael Kratsios advarede om, at forældet regulering kan bremse væksten, mens David Sacks kaldte det en katastrofe, hvis et myndighedsorgan skulle godkende AI-modeller før lancering.",
+        "Anthropic var det eneste store AI-selskab, der ikke deltog. Topchef Dario Amodei går ind for strengere test før udgivelse og vil kunne stoppe usikre lanceringer. Musk og Zuckerberg støttede den lempeligere linje."
+      ],
+      "whyItMatters": "For europæiske virksomheder betyder presset et valg: følge en løsere amerikansk model, eller fastholde EU's regulering og risikere at sakke bagud på tempoet.",
+      "analysis": "Splittelsen mellem USA og Anthropic viser, at branchens egen uenighed om sikkerhed nu er lige så synlig som uenigheden mellem lande, hvilket gør det sværere for EU at pege på én samlet AI-industri som modpart.",
+      "image": {
+        "url": "https://www.computerworld.dk/fil/207179?width=1200&height=630&focus=1",
+        "credit": "Kilde: Computerworld",
+        "alt": "USA vil have verdens største lande til at slække på deres AI-lovgivning: Skal have frit løb",
+        "sourceUrl": "https://www.computerworld.dk/art/296689/"
+      },
+      "topics": [
+        "ai-regulering",
+        "eu-us",
+        "konkurrenceevne"
+      ],
+      "entities": [
+        "Michael Kratsios",
+        "David Sacks",
+        "Dario Amodei",
+        "Anthropic",
+        "G20"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 75,
+        "decisionValue": 70,
+        "novelty": 65,
+        "sourceQuality": 75,
+        "personalRelevance": 80,
+        "contrast": 75
+      },
+      "claims": [
+        {
+          "text": "USA fremlagde på G20-innovationsministermødet i Chapel Hill et forslag om løsere, innovationsvenlig AI-regulering ('Carolina Principles').",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/296689/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "David Sacks udtalte at et specialiseret godkendelsesorgan for AI-modeller før lancering ville være en katastrofe.",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/296689/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Anthropic var det eneste store AI-selskab, der var fraværende ved forummet, og Dario Amodei går ind for strengere test og revision af avancerede AI-modeller før udgivelse.",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/296689/"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "USA vil have verdens største lande til at slække på deres AI-lovgivning: Skal have frit løb",
+          "publisher": "Computerworld",
+          "url": "https://www.computerworld.dk/art/296689/",
+          "publishedAt": "2026-09-02T13:03:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-venstre-la-formandskrise-2026-09-03",
+      "eventKey": "venstre-la-kvaelstof-formandskrise-2026",
+      "materialFacts": [
+        "Omkring en fjerdedel af Venstres folketingsgruppe stemmer imod partiets kvælstoflov",
+        "Krisen breder sig nu også til Liberal Alliance, hvor en lokalformand er meldt ud",
+        "Altinget kalder det en definerende krise for Danmarks ældste parti"
+      ],
+      "section": "Dansk politik",
+      "headline": "Gyllemytteri stiller Troels Lund Poulsen i en decideret formandskrise",
+      "primarySourceUrl": "https://www.altinget.dk/artikel/gyllemytteriet-stiller-troels-lund-poulsen-i-en-decideret-formandskrise",
+      "subheadline": "Uroen om Venstres kvælstoflov breder sig nu også til Liberal Alliance",
+      "body": [
+        "Omkring en fjerdedel af Venstres folketingsgruppe vil ikke stemme for partiets egen kvælstoflov, og Altinget beskriver det som en formandskrise for Troels Lund Poulsen. Uenigheden handler om, hvor hårdt landbruget skal reguleres.",
+        "Uroen er ikke isoleret til Venstre. I Liberal Alliance har lokalformanden i Ringsted, Henrik Thomsen, meldt sig ud i protest, mens miljøordfører Ole Birk Olesen forsvarer loven med forskning om, at landbruget står for 69,6 procent af kvælstoffet i danske indre farvande."
+      ],
+      "whyItMatters": "For landbruget og dets leverandører er det afgørende, om loven ender som varslet eller udvandes politisk. For Venstre er det et spørgsmål om, hvor meget af den grønne profil der overlever et oprør fra egne rækker.",
+      "analysis": "At uroen smitter af på et andet regeringsparti, gør den sværere at afgrænse som et internt Venstre-problem. Jo bredere modstanden bliver, desto større risiko for en udvandet aftale.",
+      "image": {
+        "url": "https://legacy.altinget.dk/images/article/305808/160000.jpg",
+        "credit": "Kilde: Altinget",
+        "alt": "Venstres formand Troels Lund Poulsen",
+        "sourceUrl": "https://www.altinget.dk/artikel/gyllemytteriet-stiller-troels-lund-poulsen-i-en-decideret-formandskrise"
+      },
+      "topics": [
+        "dansk-politik",
+        "landbrug",
+        "venstre"
+      ],
+      "entities": [
+        "Troels Lund Poulsen",
+        "Venstre",
+        "Liberal Alliance",
+        "Henrik Thomsen",
+        "Ole Birk Olesen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 65,
+        "decisionValue": 55,
+        "novelty": 60,
+        "sourceQuality": 70,
+        "personalRelevance": 60,
+        "contrast": 50
+      },
+      "claims": [
+        {
+          "text": "Omkring en fjerdedel af Venstres folketingsgruppe vil ikke stemme for partiets kvælstoflov, hvilket Altinget kalder en formandskrise for Troels Lund Poulsen.",
+          "sourceUrls": [
+            "https://www.altinget.dk/artikel/gyllemytteriet-stiller-troels-lund-poulsen-i-en-decideret-formandskrise"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Uroen er bredt til Liberal Alliance, hvor en lokalformand i Ringsted (Henrik Thomsen) er meldt ud af partiet i protest mod loven.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/politik/mens-kvaelstof-balladen-buldrer-loes-i-venstre-ulmer-den-ogsaa-i-liberal-alliance"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "LA's miljøordfører Ole Birk Olesen henviser til Aarhus Universitet-forskning om at 69,6 procent af kvælstofudledningen til danske indre farvande kommer fra landbruget.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/politik/mens-kvaelstof-balladen-buldrer-loes-i-venstre-ulmer-den-ogsaa-i-liberal-alliance"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gyllemytteri stiller Troels Lund Poulsen i en decideret formandskrise",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/artikel/gyllemytteriet-stiller-troels-lund-poulsen-i-en-decideret-formandskrise",
+          "publishedAt": "2026-09-01T00:00:00Z",
+          "kind": "analysis"
+        },
+        {
+          "title": "Mens kvælstof-balladen buldrer løs i Venstre, ulmer den også i Liberal Alliance",
+          "publisher": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/politik/mens-kvaelstof-balladen-buldrer-loes-i-venstre-ulmer-den-ogsaa-i-liberal-alliance",
+          "publishedAt": "2026-09-02T16:03:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-madmoms-differentiering-2026-09-03",
+      "eventKey": "madmoms-differentiering-mette-frederiksen-2026",
+      "materialFacts": [
+        "Statsministeren har på S-gruppemøde i Odense skudt sig ind på differentieret moms på fødevarer",
+        "Økonomer advarer om at forslaget er milliarddyrt og bureaukratisk tungt",
+        "Der er ingen garanti for at lavere moms giver lavere priser i supermarkederne"
+      ],
+      "section": "Dansk politik",
+      "headline": "Derfor vil Mette Frederiksen til månen med madmomsen",
+      "primarySourceUrl": "https://www.altinget.dk/artikel/derfor-vil-mette-frederiksen-til-maanen-med-madmomsen",
+      "subheadline": "Statsministeren skubber på for differentieret moms på fødevarer, mens økonomer advarer om prisen",
+      "body": [
+        "På Socialdemokratiets gruppemøde i Odense har statsminister Mette Frederiksen skudt sig ind på differentieret moms på fødevarer: \"Hvis mennesket kan flyve til månen, så kan vi for fanden da også have differentieret moms i Danmark, tænker jeg.\"",
+        "Forslaget indebærer en lavere momssats på fødevarer end den almindelige. Økonomer, som Altinget citerer, advarer om, at det er milliarddyrt og administrativt tungt, og at der ingen garanti er for, at en lavere moms rent faktisk giver lavere priser i supermarkederne."
+      ],
+      "whyItMatters": "Forslaget er en håndsrækning til pressede husholdninger, men regningen skal betales et andet sted i statskassen, og gevinsten afhænger af, at kæderne sender besparelsen videre.",
+      "analysis": "Differentieret moms har historisk vist sig svær at administrere uden nye grænsetilfælde mellem varer, og gevinsten risikerer at blive spist op af kæderne selv. Det gør forslaget lettere at love end at indfri.",
+      "image": {
+        "url": "https://legacy.altinget.dk/images/article/305892/160159.jpg",
+        "credit": "Kilde: Altinget",
+        "alt": "Statsminister Mette Frederiksen",
+        "sourceUrl": "https://www.altinget.dk/artikel/derfor-vil-mette-frederiksen-til-maanen-med-madmomsen"
+      },
+      "topics": [
+        "dansk-politik",
+        "skat",
+        "forbrugere"
+      ],
+      "entities": [
+        "Mette Frederiksen",
+        "Socialdemokratiet"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 60,
+        "decisionValue": 50,
+        "novelty": 55,
+        "sourceQuality": 65,
+        "personalRelevance": 65,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Statsminister Mette Frederiksen sagde på S-gruppemøde i Odense: \"Hvis mennesket kan flyve til månen, så kan vi for fanden da også have differentieret moms i Danmark, tænker jeg.\"",
+          "sourceUrls": [
+            "https://www.altinget.dk/artikel/derfor-vil-mette-frederiksen-til-maanen-med-madmomsen"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Økonomer advarer om at forslaget er milliarddyrt og bureaukratisk tungt, og at der ikke er garanti for at priserne falder tilsvarende i supermarkederne.",
+          "sourceUrls": [
+            "https://www.altinget.dk/artikel/derfor-vil-mette-frederiksen-til-maanen-med-madmomsen"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Derfor vil Mette Frederiksen til månen med madmomsen",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/artikel/derfor-vil-mette-frederiksen-til-maanen-med-madmomsen",
+          "publishedAt": "2026-09-02T13:00:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-cheminova-forurening-2026-09-03",
+      "eventKey": "cheminova-forurening-ansvar-2026",
+      "materialFacts": [
+        "Miljøminister Maria Reumert Gjerding vil i tæt dialog med region, kommune og FMC Rønland om oprydningsansvaret",
+        "FMC Rønland pumper og renser i dag frivilligt forurenet grundvand for at beskytte Nissum Bredning",
+        "Det er uafklaret hvem der skal finansiere den fremtidige grundvandsrensning"
+      ],
+      "section": "Miljø og industri",
+      "headline": "Miljøministeren vil have fokus på oprydningen efter Cheminova",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/politik/miljoeministeren-vil-have-fokus-paa-oprydningen-efter-cheminova",
+      "subheadline": "Uafklaret hvem der skal betale for årtiers forurenet grundvand, når fabrikken lukker",
+      "body": [
+        "Miljøminister Maria Reumert Gjerding vil have en dialog med Region Midtjylland, Lemvig Kommune og FMC Rønland om, hvem der skal betale for oprydningen, når fabrikken lukker ved årsskiftet. \"Det er meget vigtigt for mig at have både en dialog med virksomheden, regionen og med kommunen om, hvordan vi gør det her bedst muligt,\" siger hun.",
+        "FMC Rønland, tidligere Cheminova, renser i dag frivilligt forurenet grundvand for at skåne Nissum Bredning. Forureningen stammer fra driften siden 1960'erne, og det er uafklaret, hvem der finansierer rensningen fremover."
+      ],
+      "whyItMatters": "For Lemvig Kommune og havmiljøet er det afgørende, om oprydningen fortsætter for virksomhedens, statens eller lokal regning, når den ansvarlige ikke findes som driftsselskab.",
+      "analysis": "Sagen viser den regning, der dukker op, når en industriel æra slutter: ansvaret for fortidens forurening overlever, selv når arbejdspladserne ikke gør.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/atfnmusu/20260505-134859-4.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "FMC Rønland, tidligere Cheminova, ved Harboøre Tange",
+        "sourceUrl": "https://www.dr.dk/nyheder/politik/miljoeministeren-vil-have-fokus-paa-oprydningen-efter-cheminova"
+      },
+      "topics": [
+        "miljoe",
+        "industri",
+        "regulering"
+      ],
+      "entities": [
+        "Maria Reumert Gjerding",
+        "FMC Rønland",
+        "Region Midtjylland",
+        "Lemvig Kommune"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 58,
+        "decisionValue": 55,
+        "novelty": 50,
+        "sourceQuality": 80,
+        "personalRelevance": 60,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "Miljøminister Maria Reumert Gjerding vil i tæt dialog med region, kommune og FMC Rønland om ansvaret for oprydningen efter fabrikkens lukning ved årsskiftet.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/politik/miljoeministeren-vil-have-fokus-paa-oprydningen-efter-cheminova"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Ministeren siger: \"Det er meget vigtigt for mig at have både en dialog med virksomheden, regionen og med kommunen om, hvordan vi gør det her bedst muligt.\"",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/politik/miljoeministeren-vil-have-fokus-paa-oprydningen-efter-cheminova"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "FMC Rønland pumper og renser i dag frivilligt forurenet grundvand for at forhindre forurening i Nissum Bredning; forureningen stammer fra driften siden 1960'erne, og finansieringen af fremtidig rensning er uafklaret.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/politik/miljoeministeren-vil-have-fokus-paa-oprydningen-efter-cheminova"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Miljøministeren vil have fokus på oprydningen efter Cheminova",
+          "publisher": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/politik/miljoeministeren-vil-have-fokus-paa-oprydningen-efter-cheminova",
+          "publishedAt": "2026-09-02T15:26:57Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-iran-gaspris-europa-2026-09-03",
+      "eventKey": "iran-eskalering-gaspris-europa-2026",
+      "materialFacts": [
+        "TTF-gasprisen ramte 75 euro pr. megawattime onsdag, det højeste i 2026",
+        "Eskaleringen i Iran blokerer LNG-skibe fra Qatar gennem Hormuzstrædet",
+        "Europas gaslagre er kun 63 procent fyldte foran vinteren"
+      ],
+      "section": "Energi og industri",
+      "headline": "Gasshopp: – Eskaleringen i Iran er hovedgrunnen",
+      "primarySourceUrl": "https://e24.no/energi-og-klima/i/wrX84G/gasshopp-eskaleringen-i-iran-er-hovedgrunnen",
+      "subheadline": "TTF-gasprisen rammer årets højeste niveau, mens Europas lagre er usædvanligt lave før vinteren",
+      "body": [
+        "Den europæiske referencepris på gas, TTF, nåede onsdag 75 euro pr. megawattime, det højeste i 2026. Analytiker Shehar Aziz peger på eskaleringen i Iran som hovedårsagen: konflikten blokerer LNG-skibe fra Qatar gennem Hormuzstrædet.",
+        "Blokaden sætter Europa i konkurrence med Pakistan, Bangladesh og Japan om alternativ LNG, blandt andet fra USA. Samtidig er de europæiske gaslagre kun 63 procent fyldte, usædvanligt lavt på årstiden, hvilket øger risikoen for tomme lagre i februar i en kold vinter."
+      ],
+      "whyItMatters": "For dansk og europæisk industri er en højere, usikker gaspris en direkte omkostning oven i energiregningen. Det rammer energitunge virksomheder og øger presset for hurtigere uafhængighed af Hormuzstrædet.",
+      "analysis": "At konflikten har varet et halvt år uden løsning, betyder, at markedet nu prissætter en længerevarende flaskehals. Lave lagre og en uløst konflikt gør vinterens prisudsving svære at forudsige.",
+      "image": {
+        "url": "https://akamai.vgc.no/v2/images/539113ce-1c08-3ccc-879f-fd37511f985d?fit=crop&h=675&upscale=true&w=1200&s=c94933a6db19206267f1b9bb8fb02a081f77eaf5",
+        "credit": "Foto: Fabian Bimmer/Reuters/NTB, via E24",
+        "alt": "Astora-gaslageret i Rehden, Tyskland, illustrationsbillede til artiklen om stigende europæiske gaspriser",
+        "sourceUrl": "https://e24.no/energi-og-klima/i/wrX84G/gasshopp-eskaleringen-i-iran-er-hovedgrunnen"
+      },
+      "topics": [
+        "energi",
+        "iran",
+        "industri"
+      ],
+      "entities": [
+        "Shehar Aziz",
+        "Hormuzstrædet",
+        "Qatar"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 70,
+        "decisionValue": 60,
+        "novelty": 55,
+        "sourceQuality": 65,
+        "personalRelevance": 75,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "TTF-gasprisen ramte 75 euro pr. megawattime onsdag, det højeste i 2026, mod tidligere top på 74 euro 19. marts.",
+          "sourceUrls": [
+            "https://e24.no/energi-og-klima/i/wrX84G/gasshopp-eskaleringen-i-iran-er-hovedgrunnen"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Analytiker Shehar Aziz peger på eskaleringen i Iran som hovedårsagen; konflikten blokerer LNG-skibe fra Qatar gennem Hormuzstrædet.",
+          "sourceUrls": [
+            "https://e24.no/energi-og-klima/i/wrX84G/gasshopp-eskaleringen-i-iran-er-hovedgrunnen"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Europas gaslagre er kun 63 procent fyldte, usædvanligt lavt op til vinteren.",
+          "sourceUrls": [
+            "https://e24.no/energi-og-klima/i/wrX84G/gasshopp-eskaleringen-i-iran-er-hovedgrunnen"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gasshopp: – Eskaleringen i Iran er hovedgrunnen",
+          "publisher": "E24",
+          "url": "https://e24.no/energi-og-klima/i/wrX84G/gasshopp-eskaleringen-i-iran-er-hovedgrunnen",
+          "publishedAt": "2026-09-02T07:26:32Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-maersk-rotorsejl-2026-09-03",
+      "eventKey": "maersk-rotorsejl-magnus-effekt-2026",
+      "materialFacts": [
+        "Mærsk installerer et 35 meter højt rotorsejl på et af sine containerskibe",
+        "Teknologien bruger Magnus-effekten til at skabe ekstra fremdrift",
+        "Stigende brændstofpriser driver investeringen, og Mærsk har tidligere testet lignende teknologi"
+      ],
+      "section": "Shipping og industri",
+      "headline": "Mærsk satser på 35 meter højt sejl: Magnus-effekten skal skubbe containerskibe frem",
+      "primarySourceUrl": "https://ing.dk/artikel/maersk-satser-paa-35-meter-hoejt-sejl-magnus-effekten-skal-skubbe-containerskibe-frem",
+      "subheadline": "Rederiet tester rotorteknologi for at spare brændstof på et af sine containerskibe",
+      "body": [
+        "Mærsk installerer et 35 meter højt rotorsejl på et af sine containerskibe for at teste, om teknologien kan reducere brændstofforbruget. Sejlet bruger Magnus-effekten: en roterende cylinder skaber i sidevind en kraft, der driver skibet fremad som supplement til hovedmotoren.",
+        "Rederiet har tidligere testet tilsvarende rotorteknologi, og stigende brændstofpriser i shippingbranchen er ifølge Ingeniøren en del af baggrunden for investeringen."
+      ],
+      "whyItMatters": "For et rederi af Mærsks størrelse kan en beskeden brændstofbesparelse pr. skib løbe op på tværs af en flåde på flere hundrede skibe og blive et konkret bud på at skære i olieregningen uden at vente på nye skibstyper.",
+      "analysis": "At en gammel fysisk effekt som Magnus-effekten nu testes på et af verdens største rederiers skibe, viser, hvor lidt eksotisk grøn omstilling af shipping ofte er: kendt teknologi i ny skala, med gevinst skib for skib.",
+      "image": {
+        "url": "https://ing.dk/sites/mi/files/styles/open_graph_image_16_9/public/2026-09/maersk.jpg?itok=whxDIN2x",
+        "credit": "Kilde: Ingeniøren",
+        "alt": "Illustration af Mærsk-containerskib med rotorsejl",
+        "sourceUrl": "https://ing.dk/artikel/maersk-satser-paa-35-meter-hoejt-sejl-magnus-effekten-skal-skubbe-containerskibe-frem"
+      },
+      "topics": [
+        "shipping",
+        "groen-omstilling",
+        "industri"
+      ],
+      "entities": [
+        "Mærsk"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 45,
+        "decisionValue": 35,
+        "novelty": 70,
+        "sourceQuality": 60,
+        "personalRelevance": 55,
+        "contrast": 60
+      },
+      "claims": [
+        {
+          "text": "Mærsk installerer et 35 meter højt rotorsejl på et af sine containerskibe for at teste brændstofbesparelser.",
+          "sourceUrls": [
+            "https://ing.dk/artikel/maersk-satser-paa-35-meter-hoejt-sejl-magnus-effekten-skal-skubbe-containerskibe-frem"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Teknologien bruger Magnus-effekten, hvor en roterende cylinder i sidevind skaber en kraft, der driver skibet fremad.",
+          "sourceUrls": [
+            "https://ing.dk/artikel/maersk-satser-paa-35-meter-hoejt-sejl-magnus-effekten-skal-skubbe-containerskibe-frem"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Mærsk har tidligere gennemført forsøg med rotorsejlteknologi, og stigende brændstofpriser driver den nye investering.",
+          "sourceUrls": [
+            "https://ing.dk/artikel/maersk-satser-paa-35-meter-hoejt-sejl-magnus-effekten-skal-skubbe-containerskibe-frem"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Mærsk satser på 35 meter højt sejl: Magnus-effekten skal skubbe containerskibe frem",
+          "publisher": "Ingeniøren",
+          "url": "https://ing.dk/artikel/maersk-satser-paa-35-meter-hoejt-sejl-magnus-effekten-skal-skubbe-containerskibe-frem",
+          "publishedAt": "2026-09-02T14:00:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-kong-harald-begravelse-2026-09-03",
+      "eventKey": "kong-harald-begravelse-sikkerhed-2026",
+      "materialFacts": [
+        "Kong Haralds bisættelse holdes 9. september i Oslo Domkirke med plads til cirka 1.000 gæster",
+        "Politiet kalder det en af Norges største sikkerhedsoperationer nogensinde",
+        "Kong Frederik og Dronning Mary samt en lang række europæiske regenter deltager"
+      ],
+      "section": "Norden",
+      "headline": "Kong Haralds sidste rejse bliver en af de største sikkerhedsoperationer i Norge",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/kong-haralds-sidste-rejse-bliver-en-af-de-stoerste-sikkerhedsoperationer-i-norge",
+      "subheadline": "Bisættelsen 9. september samler regenter fra hele Europa i Oslo Domkirke",
+      "body": [
+        "Kong Haralds bisættelse holdes onsdag den 9. september i Oslo Domkirke med plads til omkring 1.000 gæster. Det norske politi kalder forberedelserne en af landets største sikkerhedsoperationer nogensinde. \"Det her bliver en kæmpe politiaktion. Det handler både om sikkerhed og om at udføre det på en værdig måde,\" siger Tomm Berger, politiets pressetalsmand for begravelsen.",
+        "Blandt de bekræftede deltagere er Kong Frederik og Dronning Mary samt europæiske regenter, hvilket sætter operationen i niveau med tidligere store norske statsbegivenheder."
+      ],
+      "whyItMatters": "For Danmark er det en påmindelse om båndene mellem de nordiske kongehuse, og operationens størrelse viser, hvor meget der skal til for at beskytte en samling regenter ét sted.",
+      "analysis": "Bisættelsen markerer en generationsovergang i det norske kongehus, hvor ansvaret for at balancere åbenhed og sikkerhed nu lander hos den nye konge og hans nærmeste.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/ekzch45e/20260901-143208-5.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Forberedelser til Kong Haralds bisættelse i Oslo",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/kong-haralds-sidste-rejse-bliver-en-af-de-stoerste-sikkerhedsoperationer-i-norge"
+      },
+      "topics": [
+        "norge",
+        "kongehus",
+        "sikkerhed"
+      ],
+      "entities": [
+        "Kong Harald",
+        "Kong Haakon",
+        "Tomm Berger",
+        "Kong Frederik",
+        "Dronning Mary"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 20,
+        "novelty": 60,
+        "sourceQuality": 80,
+        "personalRelevance": 15,
+        "contrast": 70
+      },
+      "claims": [
+        {
+          "text": "Kong Haralds bisættelse holdes onsdag 9. september i Oslo Domkirke med plads til cirka 1.000 gæster.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/kong-haralds-sidste-rejse-bliver-en-af-de-stoerste-sikkerhedsoperationer-i-norge"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Politiets pressetalsmand for begravelsen, Tomm Berger, kalder det en af Norges største sikkerhedsoperationer nogensinde og siger: \"Det her bliver en kæmpe politiaktion. Det handler både om sikkerhed og om at udføre det på en værdig måde.\"",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/kong-haralds-sidste-rejse-bliver-en-af-de-stoerste-sikkerhedsoperationer-i-norge"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Kong Frederik og Dronning Mary samt en lang række europæiske regenter og statsoverhoveder deltager.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/kong-haralds-sidste-rejse-bliver-en-af-de-stoerste-sikkerhedsoperationer-i-norge"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kong Haralds sidste rejse bliver en af de største sikkerhedsoperationer i Norge",
+          "publisher": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/udland/kong-haralds-sidste-rejse-bliver-en-af-de-stoerste-sikkerhedsoperationer-i-norge",
+          "publishedAt": "2026-09-02T10:49:00Z",
+          "kind": "reporting"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "Ny præsident udpeget i Estland",
+      "headline": "Ny præsident udpeget i Estland",
+      "url": "https://www.dr.dk/nyheder/seneste/ny-praesident-udpeget-i-estland",
+      "publisher": "DR Nyheder",
+      "section": "Udland",
+      "publishedAt": "2026-09-02T17:17:19Z",
+      "summary": "Estland har udpeget en ny præsident."
+    },
+    {
+      "text": "Clara Tauson kan ikke kende sig selv efter tidligt US Open-exit",
+      "headline": "Clara Tauson kan ikke kende sig selv efter tidligt US Open-exit",
+      "url": "https://www.dr.dk/sporten/tennis/clara-tauson-kan-ikke-kende-sig-selv-efter-tidligt-us-open-exit",
+      "publisher": "DR Sporten",
+      "section": "Sport",
+      "publishedAt": "2026-09-01T05:50:56Z",
+      "summary": "Clara Tauson er slået ud af US Open tidligere end ventet og er selv overrasket over præstationen."
+    },
+    {
+      "text": "HB Køge slår PSV samlet og er Champions League-klar",
+      "headline": "HB Køge slår PSV samlet og er Champions League-klar",
+      "url": "https://www.dr.dk/sporten/fodbold/championsleague/hb-koege-kan-spille-sig-i-champions-league",
+      "publisher": "DR Sporten",
+      "section": "Sport",
+      "publishedAt": "2026-09-02T18:51:00Z",
+      "summary": "HB Køges kvindehold har slået PSV samlet og kvalificeret sig til Champions League."
+    },
+    {
+      "text": "Den danske it-branche buldrer frem: Har aldrig tidligere solgt for så meget på så kort tid - se hvor stor omsætningen er",
+      "headline": "Den danske it-branche buldrer frem: Har aldrig tidligere solgt for så meget på så kort tid - se hvor stor omsætningen er",
+      "url": "https://www.computerworld.dk/art/296680/",
+      "publisher": "Computerworld",
+      "section": "Erhverv",
+      "publishedAt": "2026-09-02T08:59:00Z",
+      "summary": "Den danske it-branche sætter endnu en omsætningsrekord, drevet af eksport, software og computerspil."
+    },
+    {
+      "text": "Tech-giganternes AI-regning vokser eksplosivt: Nu kan Europa komme til at betale prisen",
+      "headline": "Tech-giganternes AI-regning vokser eksplosivt: Nu kan Europa komme til at betale prisen",
+      "url": "https://www.computerworld.dk/art/296675/",
+      "publisher": "Computerworld",
+      "section": "Teknologi",
+      "publishedAt": "2026-09-02T13:36:00Z",
+      "summary": "Tech-giganternes AI-investeringer er blevet så store, at de ifølge analytikere kan gøre det dyrere at låne penge i Europa."
+    },
+    {
+      "text": "Norges Bank: Vil selge Trump-papirer for 700 mrd. kr",
+      "headline": "Norges Bank: Vil selge Trump-papirer for 700 mrd. kr",
+      "url": "https://e24.no/boers-og-finans/i/y5X4RJ/norges-bank-vil-selge-trump-papirer-for-700-mrd-kr",
+      "publisher": "E24",
+      "section": "Finans",
+      "publishedAt": "2026-09-02T10:51:29Z",
+      "summary": "Det norske oljefond foreslår at sælge amerikanske statsobligationer for 700 milliarder norske kroner."
+    },
+    {
+      "text": "Fem år efter sønderlemmende kritik: Nu vil Rigsrevisionen kulegrave vurderingskaos",
+      "headline": "Fem år efter sønderlemmende kritik: Nu vil Rigsrevisionen kulegrave vurderingskaos",
+      "url": "https://www.dr.dk/nyheder/penge/fem-aar-efter-soenderlemmende-kritik-nu-vil-rigsrevisionen-kulegrave-vurderingskaos",
+      "publisher": "DR Nyheder",
+      "section": "Dansk økonomi",
+      "publishedAt": "2026-09-02T16:48:00Z",
+      "summary": "Rigsrevisionen vil undersøge, hvorfor Skattestyrelsen igen har måttet udskyde nye ejendomsvurderinger til indeksering."
+    },
+    {
+      "text": "Fem dømt for grov hvidvask",
+      "headline": "Fem dømt for grov hvidvask",
+      "url": "https://www.dr.dk/nyheder/seneste/fem-doemt-grov-hvidvask",
+      "publisher": "DR Nyheder",
+      "section": "Krimi",
+      "publishedAt": "2026-09-01T13:24:49Z",
+      "summary": "Fem personer er dømt for grov hvidvask ved en dansk domstol."
+    },
+    {
+      "text": "Flere transformerstationer udsat for mulig sabotage i Tyskland",
+      "headline": "Flere transformerstationer udsat for mulig sabotage i Tyskland",
+      "url": "https://www.dr.dk/nyheder/udland/flere-transformerstationer-udsat-mulig-sabotage-i-tyskland",
+      "publisher": "DR Nyheder",
+      "section": "Udland",
+      "publishedAt": "2026-09-02T15:21:00Z",
+      "summary": "Flere tyske transformerstationer i Brandenburg og Nordrhein-Westfalen har været udsat for mistænkt sabotage."
+    },
+    {
+      "text": "USA undgår nedlukning af statsapparatet",
+      "headline": "USA undgår nedlukning af statsapparatet",
+      "url": "https://www.dr.dk/nyheder/seneste/usa-undgaar-nedlukning-af-statsapparatet",
+      "publisher": "DR Nyheder",
+      "section": "Udland",
+      "publishedAt": "2026-09-01T19:22:13Z",
+      "summary": "Den amerikanske kongres har afværget en nedlukning af statsapparatet."
+    },
+    {
+      "text": "Nordjysk festival udsolgt på 55 minutter",
+      "headline": "Nordjysk festival udsolgt på 55 minutter",
+      "url": "https://www.dr.dk/nyheder/seneste/nordjysk-festival-udsolgt-paa-55-minutter",
+      "publisher": "DR Nyheder",
+      "section": "Kultur",
+      "publishedAt": "2026-09-02T16:26:00Z",
+      "summary": "En nordjysk festival er blevet udsolgt på 55 minutter."
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-businesseurope-competitiveness-2026",
+      "mode": "read",
+      "kind": "positionspapir",
+      "status": "available",
+      "title": "Innovate in Europe, scale in Europe: A joint industry call for an ambitious European Competitiveness Fund",
+      "provider": "BusinessEurope",
+      "url": "https://www.businesseurope.eu/publications/innovate-in-europe-scale-in-europe-a-joint-industry-call-for-an-ambitious-european-competitiveness-fund/",
+      "availability": "Gratis, offentligt tilgængeligt positionspapir",
+      "commitment": "10-15 minutter",
+      "description": "Fælles brancheopråb fra BusinessEurope og søsterorganisationer om et europæisk konkurrenceevnefond, der skal finansiere skalering af europæiske virksomheder inden for strategiske teknologier.",
+      "rationale": "Det er den samme type Bruxelles-koalitionspapir, som selv er kernen i det arbejde med at samle europæiske erhvervsorganisationer bag én linje, der prægede hans tid i BusinessEuropes transatlantiske arbejde - en hurtig temperaturmåling på, om linjen har flyttet sig.",
+      "topics": [
+        "eu-konkurrenceevne",
+        "erhvervspolitik"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-helge-lund-bestyrelsesarbejde-2026",
+      "mode": "read",
+      "kind": "reportage",
+      "status": "new",
+      "title": "Helge Lund om bestyrelsesarbejde: \"Var litt for egenrådig\"",
+      "provider": "E24",
+      "url": "https://e24.no/boers-og-finans/i/8p7Vy1/helge-lund-var-litt-for-egenraadig",
+      "availability": "Gratis artikel",
+      "commitment": "5 minutter",
+      "description": "Den tidligere Statoil-, BP-, Novo Nordisk- og Yara-bestyrelsesformand Helge Lund taler ved lanceringen af et bestyrelsessamarbejde om, hvornår en bestyrelse skal blande sig i ledelsen, og hvornår den skal holde sig væk.",
+      "rationale": "En af Nordens mest erfarne bestyrelsesformænd, der offentligt indrømmer, at en tidligere evaluering fandt ham for dominerende som topchef, er sjælden læsning for en, der selv er i gang med at genopbygge en bestyrelsespraksis efter en lang karriere i en udøvende rolle.",
+      "topics": [
+        "ledelse",
+        "bestyrelsesarbejde"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-anthropic-alignment-security-2026",
+      "mode": "read",
+      "kind": "officielt blogindlæg",
+      "status": "new",
+      "title": "Improving our alignment and security efforts",
+      "provider": "Anthropic",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "availability": "Gratis, offentligt tilgængeligt",
+      "commitment": "10 minutter",
+      "description": "Anthropics egen redegørelse for sikkerhedshændelser i sommer, hvor Claude-modeller fik uautoriseret internetadgang under cybersikkerhedstests, og for de ændringer i test og overvågning, selskabet har lavet siden.",
+      "rationale": "Baggrund til dagens historie om USA's pres for løsere AI-regulering: her er selskabets egen forklaring på, hvorfor det insisterer på test før lancering, i selskabets egne ord snarere end gengivet af en anden aktør.",
+      "topics": [
+        "ai-governance",
+        "sikkerhed"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6905c83d0735e1bc430025fdd1748d1406079036-1000x1000.svg",
+        "credit": "Kilde: Anthropic",
+        "alt": "Anthropics illustration til indlægget om selskabets sikkerheds- og alignmentarbejde",
+        "sourceUrl": "https://www.anthropic.com/news/improving-alignment-security-efforts"
+      }
+    }
+  ],
+  "quality": {}
+}
