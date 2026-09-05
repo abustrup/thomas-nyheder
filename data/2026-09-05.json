@@ -1,0 +1,697 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-09-05-01",
+  "date": "2026-09-05",
+  "generatedAt": "2026-09-05T06:35:00Z",
+  "readingMinutes": 9,
+  "title": "Thomas' Nyheder",
+  "dek": "Syv historier og tolv signaler: et fondsskifte i Coloplast, en topchef der stopper i Jyske Bank, og en højesteretsdom, der tolvdobler prisen på et databrud.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "quality": {
+    "sourceCoverage": 76,
+    "freshness": 90,
+    "novelty": 75,
+    "perspectiveBalance": 65,
+    "render": 100
+  },
+  "stories": [
+    {
+      "id": "story-coloplast-ejerskifte-20260905",
+      "eventKey": "coloplast-finanstilsyn-ejerskifte-2026",
+      "materialFacts": [
+        "Finanstilsynet har givet dispensation fra tilbudspligten, så Niels Peter Louis-Hansen kan overføre den kontrollerende indirekte ejerandel i Coloplast A/S til en almennyttig erhvervsdrivende fond",
+        "Overdragelsen sker via NPLH Holding ApS og forventes gennemført omkring 1. oktober 2026",
+        "Formålet er et generationsskifte i forlængelse af oprettelsen af Coloplast Holding ApS i 2023"
+      ],
+      "section": "Erhverv",
+      "headline": "Understøttelse af det langsigtede og stabile ejerskab af Coloplast",
+      "primarySourceUrl": "https://www.globenewswire.com/news-release/2026/09/04/3356429/0/da/underst%C3%B8ttelse-af-det-langsigtede-og-stabile-ejerskab-af-coloplast.html",
+      "subheadline": "Finanstilsynet dispenserer fra tilbudspligten, så Coloplast-ejeren kan overdrage sin bestemmende indflydelse til en fond",
+      "body": [
+        "Finanstilsynet har givet Coloplast-ejeren Niels Peter Louis-Hansen dispensation fra pligten til at fremsætte et overtagelsestilbud til selskabets øvrige aktionærer. Dispensationen betyder, at den kontrollerende ejerandel, som i dag ligger i NPLH Holding ApS, kan overføres til en almennyttig fond, uden at det udløser et tilbud til minoritetsaktionærerne.",
+        "Overdragelsen ventes gennemført omkring 1. oktober og er ifølge meddelelsen et generationsskifte, i forlængelse af oprettelsen af Coloplast Holding ApS i 2023, hvis formål var en langsigtet og stabil forankring af den bestemmende indflydelse."
+      ],
+      "whyItMatters": "Det er endnu et stort dansk familieejerskab, der lægges over i fondskonstruktion frem for at gå videre i familien – samme mønster som hos Novo, Mærsk og Lego, blot i mindre skala og uden en børsnoteret aktørs opmærksomhed.",
+      "analysis": "For minoritetsaktionærerne er dispensationen selve pointen: uden den skulle Louis-Hansen have budt på hele selskabet for at flytte kontrollen til fonden. Afgørelsen er en stiltiende accept af, at fondsejerskab tjener samme formål som familiekontinuitet.",
+      "topics": [
+        "ejerskifte",
+        "erhvervsledelse",
+        "medico"
+      ],
+      "entities": [
+        "Coloplast",
+        "Niels Peter Louis-Hansen",
+        "Finanstilsynet"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 62,
+        "decisionValue": 70,
+        "novelty": 65,
+        "sourceQuality": 70,
+        "personalRelevance": 88,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Finanstilsynet har givet dispensation fra tilbudspligten, så Niels Peter Louis-Hansen kan overføre den kontrollerende indirekte ejerandel i Coloplast A/S til en almennyttig erhvervsdrivende fond",
+          "sourceUrls": [
+            "https://www.globenewswire.com/news-release/2026/09/04/3356429/0/da/underst%C3%B8ttelse-af-det-langsigtede-og-stabile-ejerskab-af-coloplast.html"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Overdragelsen sker via NPLH Holding ApS og forventes gennemført omkring 1. oktober 2026 som led i et generationsskifte, i forlængelse af oprettelsen af Coloplast Holding ApS i 2023",
+          "sourceUrls": [
+            "https://www.globenewswire.com/news-release/2026/09/04/3356429/0/da/underst%C3%B8ttelse-af-det-langsigtede-og-stabile-ejerskab-af-coloplast.html"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Understøttelse af det langsigtede og stabile ejerskab af Coloplast",
+          "publisher": "Coloplast / GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/09/04/3356429/0/da/underst%C3%B8ttelse-af-det-langsigtede-og-stabile-ejerskab-af-coloplast.html",
+          "publishedAt": "2026-09-04T09:23:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-jyske-cio-skifte-20260905",
+      "eventKey": "jyske-bank-cio-skifte-2026",
+      "materialFacts": [
+        "Peter Schleidt fratræder som CIO i Jyske Bank ved udgangen af september",
+        "Klaus Naur, hidtil chef for private banking, overtager posten",
+        "Schleidt har haft ansvar for et it-budget på ca. 1,2 mia. kr."
+      ],
+      "section": "Erhverv",
+      "headline": "Top-CIO i Jyske Bank, Peter Schleidt, fratræder: Banken allerede klar med hans afløser",
+      "primarySourceUrl": "https://www.computerworld.dk/art/296717/",
+      "subheadline": "Klaus Naur overtager ansvaret for digitalisering og drift efter mangeårig it-chef",
+      "body": [
+        "Peter Schleidt, der i et årti har stået i spidsen for Jyske Banks digitalisering og drift med ansvar for et it-budget på omkring 1,2 mia. kr., fratræder ved udgangen af september.",
+        "Afløseren er allerede fundet internt: Klaus Naur, i Jyske-koncernen siden 2002 og senest enhedsdirektør for bankens privatområde. Schleidt har tidligere været koncernchef i TDC og cio/cto i Danske Bank og går nu efter familie og bestyrelsesposter, blandt andet i Statens It-råd."
+      ],
+      "whyItMatters": "En bankdirektør med et milliardstort it-budget forlader posten, mens danske banker investerer tungt i digitalisering og AI – en intern afløser signalerer kontinuitet frem for retningsskifte.",
+      "analysis": "At Jyske allerede har en navngiven afløser klar, er oplysende i sig selv: det er en planlagt overdragelse, ikke en brat exit, hvilket begrænser usikkerheden om it-strategien i en systemisk bank.",
+      "topics": [
+        "erhvervsledelse",
+        "bankvæsen",
+        "it"
+      ],
+      "entities": [
+        "Jyske Bank",
+        "Peter Schleidt",
+        "Klaus Naur"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 62,
+        "novelty": 60,
+        "sourceQuality": 65,
+        "personalRelevance": 90,
+        "contrast": 30
+      },
+      "claims": [
+        {
+          "text": "Peter Schleidt fratræder som CIO i Jyske Bank ved udgangen af september efter et årti med ansvar for digitalisering og drift, herunder et it-budget på ca. 1,2 mia. kr.",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/296717/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Klaus Naur, i Jyske-koncernen siden 2002 og senest chef for private banking, overtager posten",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/296717/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "image": {
+        "url": "https://www.computerworld.dk/fil/161375?width=1200&height=630&focus=1",
+        "credit": "Kilde: Computerworld",
+        "alt": "Peter Schleidt, afgående it-direktør i Jyske Bank",
+        "sourceUrl": "https://www.computerworld.dk/art/296717/"
+      },
+      "sources": [
+        {
+          "title": "Top-CIO i Jyske Bank, Peter Schleidt, fratræder: Banken allerede klar med hans afløser",
+          "publisher": "Computerworld",
+          "url": "https://www.computerworld.dk/art/296717/",
+          "publishedAt": "2026-09-04T08:40:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-serbien-mladic-20260905",
+      "eventKey": "serbien-mladic-heltestatus-eu-2026",
+      "materialFacts": [
+        "Kisten med Ratko Mladić ankom torsdag til Beograd forud for en militær mindehøjtidelighed lørdag og begravelse mandag",
+        "EU's udvidelseskommissær Marta Kos har aflyst et planlagt Beograd-besøg i protest",
+        "Kroatiens premierminister advarer om, at Serbien selv vil være skyld i lukkede EU-døre"
+      ],
+      "section": "Udland",
+      "headline": "Serbiens hyldest til Mladić bringer landet på kollisionskurs med EU",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/serbiens-hyldest-til-mladic-bringer-landet-paa-kollisionskurs-med-eu",
+      "subheadline": "En planlagt statslig hædring af den dømte krigsforbryder Ratko Mladić får EU og nabolandet Kroatien til at reagere",
+      "body": [
+        "Kisten med den bosnisk-serbiske krigsforbryder Ratko Mladić ankom torsdag aften til Beograd, transporteret fra Haag, hvor han afsonede sin livstidsdom for folkedrab under Srebrenica-massakren i 1995. Der ventes militær mindehøjtidelighed lørdag og begravelse mandag, som præsident Aleksandar Vučić forventer, titusindvis vil overvære.",
+        "EU's udvidelseskommissær Marta Kos har aflyst et Beograd-besøg i protest og skrev på X, at »forherligelsen omkring hans død er uforenelig med de værdier, EU-vejen er bygget på«. Kroatiens premierminister Andrej Plenković advarer om, at Serbien selv er skyld, hvis EU-døre lukkes; landet har været kandidatland siden 2012."
+      ],
+      "whyItMatters": "Sagen tester, om Serbiens EU-vej kan forenes med officiel hædring af en dømt krigsforbryder.",
+      "analysis": "At kritikken kommer fra både EU-kommissæren og et naboland, der selv er medlem, gør det sværere at afskrive reaktionen som Bruxelles-bureaukrati.",
+      "topics": [
+        "eu-udvidelse",
+        "udenrigspolitik",
+        "balkan"
+      ],
+      "entities": [
+        "Serbien",
+        "Ratko Mladić",
+        "Marta Kos",
+        "Andrej Plenković"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 35,
+        "novelty": 62,
+        "sourceQuality": 65,
+        "personalRelevance": 30,
+        "contrast": 60
+      },
+      "claims": [
+        {
+          "text": "Kisten med Ratko Mladić ankom torsdag aften til Beograd fra Haag; militær mindehøjtidelighed ventes lørdag og begravelse mandag",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/serbiens-hyldest-til-mladic-bringer-landet-paa-kollisionskurs-med-eu"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Marta Kos har aflyst et planlagt Beograd-besøg i protest; Kroatiens premierminister Andrej Plenković advarer om konsekvenser for Serbiens EU-kandidatur",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/serbiens-hyldest-til-mladic-bringer-landet-paa-kollisionskurs-med-eu"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/effdywvg/20260828-131427-6.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Et portræt af Ratko Mladić opstillet i Beograd i forbindelse med hans død og forestående begravelse",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/serbiens-hyldest-til-mladic-bringer-landet-paa-kollisionskurs-med-eu"
+      },
+      "sources": [
+        {
+          "title": "Serbiens hyldest til Mladić bringer landet på kollisionskurs med EU",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/serbiens-hyldest-til-mladic-bringer-landet-paa-kollisionskurs-med-eu",
+          "publishedAt": "2026-09-04T20:00:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-hoejesteret-gdpr-20260905",
+      "eventKey": "hoejesteret-gdpr-erstatning-tolvdobling-2026",
+      "materialFacts": [
+        "Højesteret har hævet en GDPR-godtgørelse fra 2.500 kr. til 30.000 kr. – en tolvdobling",
+        "Sagen drejer sig om Hillerød Kommunes ulovlige videregivelse af følsomme oplysninger i 2019",
+        "Jurister kalder afgørelsen retningsgivende for fremtidige danske GDPR-sager"
+      ],
+      "section": "Erhverv",
+      "headline": "Denmark’s Supreme Court greatly increases data breach fine: “It will have implications for future cases”",
+      "primarySourceUrl": "https://ing.dk/artikel/denmarks-supreme-court-greatly-increases-data-breach-fine-it-will-have-implications-future-cases",
+      "subheadline": "Ingen dansk kilde har endnu selv skrevet dommen op læsbart – historien holdes derfor på Ingeniørens engelske dækning",
+      "body": [
+        "Højesteret har forhøjet en godtgørelse for et databrud fra 2.500 kr. til 30.000 kr. – en tolvdobling. Sagen handler om Hillerød Kommune, der i 2019 ved en fejl videregav oplysninger til en mands ekskone, herunder at hans nuværende hustru har en psykisk lidelse.",
+        "Det er ifølge sagen den første danske erstatning nogensinde under GDPR-forordningens artikel 82. Professor Jan Trzaskowski kalder afgørelsen retningsgivende, mens advokat Tyge Trier peger på, at den hæver risikoen for alle danske dataansvarlige – ikke kun myndigheder."
+      ],
+      "whyItMatters": "En tolvdobling af erstatningsniveauet ændrer regnestykket for enhver virksomhed, der overvejer risikoen ved et databrud – det er ikke længere en symbolsk bøde.",
+      "analysis": "At sagen kun er fundet fyldestgørende beskrevet i engelsk oversættelse hos Ingeniøren, er selv en pointe: en principiel Højesteretsdom om databeskyttelse mangler stadig sin danske erhvervsdækning.",
+      "topics": [
+        "regulering",
+        "erhvervsvilkår",
+        "databeskyttelse"
+      ],
+      "entities": [
+        "Højesteret",
+        "Hillerød Kommune",
+        "Jan Trzaskowski",
+        "Tyge Trier"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 68,
+        "decisionValue": 75,
+        "novelty": 70,
+        "sourceQuality": 65,
+        "personalRelevance": 70,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "Højesteret har forhøjet en GDPR-godtgørelse fra 2.500 kr. til 30.000 kr. i en sag om Hillerød Kommunes ulovlige videregivelse af følsomme oplysninger i 2019",
+          "sourceUrls": [
+            "https://ing.dk/artikel/denmarks-supreme-court-greatly-increases-data-breach-fine-it-will-have-implications-future-cases"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Professor Jan Trzaskowski og advokat Tyge Trier vurderer, at afgørelsen er retningsgivende og hæver risikoniveauet for alle danske dataansvarlige",
+          "sourceUrls": [
+            "https://ing.dk/artikel/denmarks-supreme-court-greatly-increases-data-breach-fine-it-will-have-implications-future-cases"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "image": {
+        "url": "https://ing.dk/sites/mi/files/styles/open_graph_image_16_9/public/2026-08/20260624-115115-l-8640x5760ma.jpg?h=46c96223&itok=jOkRO8Xt",
+        "credit": "Kilde: Ingeniøren",
+        "alt": "Denmark’s Supreme Court greatly increases data breach fine: “It will have implications for future cases”",
+        "sourceUrl": "https://ing.dk/artikel/denmarks-supreme-court-greatly-increases-data-breach-fine-it-will-have-implications-future-cases"
+      },
+      "sources": [
+        {
+          "title": "Denmark’s Supreme Court greatly increases data breach fine: “It will have implications for future cases”",
+          "publisher": "Ingeniøren",
+          "url": "https://ing.dk/artikel/denmarks-supreme-court-greatly-increases-data-breach-fine-it-will-have-implications-future-cases",
+          "publishedAt": "2026-09-03T06:53:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-us-jobtal-fed-20260905",
+      "eventKey": "us-jobtal-fed-renteschok-2026-09",
+      "materialFacts": [
+        "Et markant stærkere amerikansk beskæftigelsestal end ventet udløste fredag et renteschok",
+        "Sandsynligheden for en Fed-renteforhøjelse i september steg kraftigt",
+        "Wall Street peger nu på næste uges amerikanske inflationstal som den reelle afgørende faktor"
+      ],
+      "section": "Makroøkonomi",
+      "headline": "Stærkt amerikansk jobtal udløser nyt renteschok – men Wall Street peger på næste uges inflationstal som den virkelige bombe",
+      "primarySourceUrl": "https://ugebrev.dk/flashnews/staerkt-amerikansk-jobtal-udloeser-nyt-renteschok-men-wall-street-peger-paa-naeste-uges-inflationstal-som-den-virkelige-bombe/",
+      "subheadline": "Et beskæftigelsestal langt over konsensus rykker igen ved forventningerne til Federal Reserve",
+      "body": [
+        "Et amerikansk beskæftigelsestal, der ifølge Ugebrev lå omkring fire standardafvigelser over konsensus, udløste fredag et renteschok på de amerikanske markeder. Sandsynligheden for en Fed-renteforhøjelse på septembermødet steg kraftigt tilbage mod de seneste toppunkter.",
+        "Wall Street vurderer dog, at det egentlige vendepunkt for rentebeslutningen bliver næste uges amerikanske inflationstal, ikke fredagens jobtal. Markedet har kun midlertidigt genvurderet renteudsigten og afventer nu CPI-tallet som den reelle test."
+      ],
+      "whyItMatters": "En amerikansk renteforhøjelse eller -pause flytter globale kapitalstrømme og risikoappetit, hvilket typisk smitter af på europæiske renter og dermed indirekte på danske realkreditrenter.",
+      "analysis": "At markedet nedtoner jobtallet til fordel for næste uges inflationstal, viser hvor skrøbelig konsensus om rentebanen er – én datarække kan flytte prisfastsættelsen markant uden at holde en uge.",
+      "topics": [
+        "makroøkonomi",
+        "pengepolitik"
+      ],
+      "entities": [
+        "Federal Reserve",
+        "Wall Street"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 55,
+        "novelty": 55,
+        "sourceQuality": 55,
+        "personalRelevance": 55,
+        "contrast": 25
+      },
+      "claims": [
+        {
+          "text": "Et amerikansk beskæftigelsestal markant over konsensus udløste fredag et renteschok og øgede sandsynligheden for en Fed-renteforhøjelse i september",
+          "sourceUrls": [
+            "https://ugebrev.dk/flashnews/staerkt-amerikansk-jobtal-udloeser-nyt-renteschok-men-wall-street-peger-paa-naeste-uges-inflationstal-som-den-virkelige-bombe/"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Wall Street peger på næste uges amerikanske inflationstal som den reelle afgørende faktor for rentebeslutningen",
+          "sourceUrls": [
+            "https://ugebrev.dk/flashnews/staerkt-amerikansk-jobtal-udloeser-nyt-renteschok-men-wall-street-peger-paa-naeste-uges-inflationstal-som-den-virkelige-bombe/"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "image": {
+        "url": "https://ugebrev.dk/wp-content/uploads/2021/08/US-jobs.png",
+        "credit": "Kilde: Økonomisk Ugebrev",
+        "alt": "Stærkt amerikansk jobtal udløser nyt renteschok – men Wall Street peger på næste uges inflationstal som den virkelige bombe",
+        "sourceUrl": "https://ugebrev.dk/flashnews/staerkt-amerikansk-jobtal-udloeser-nyt-renteschok-men-wall-street-peger-paa-naeste-uges-inflationstal-som-den-virkelige-bombe/"
+      },
+      "sources": [
+        {
+          "title": "Stærkt amerikansk jobtal udløser nyt renteschok – men Wall Street peger på næste uges inflationstal som den virkelige bombe",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/flashnews/staerkt-amerikansk-jobtal-udloeser-nyt-renteschok-men-wall-street-peger-paa-naeste-uges-inflationstal-som-den-virkelige-bombe/",
+          "publishedAt": "2026-09-04T13:51:11Z",
+          "kind": "analysis"
+        }
+      ]
+    },
+    {
+      "id": "story-sverigedemokraterna-20260905",
+      "eventKey": "sverigedemokraterna-medarbejder-prorussisk-propaganda-2026",
+      "materialFacts": [
+        "En politisk sekretær hos Sverigedemokraterna anklages for at have spredt prorussisk propaganda siden 2014",
+        "Statsminister Ulf Kristersson kræver hende fyret, hvis anklagerne er sande",
+        "Partileder Jimmie Åkesson afviser panik, ni dage før det svenske valg"
+      ],
+      "section": "Udland",
+      "headline": "Ansat hos Sverigedemokraterne anklages for at sprede prorussisk propaganda, men partileder ser 'ingen grund til panik'",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/ansat-hos-sverigedemokraterne-anklages-sprede-prorussisk-propaganda-men-partileder-ser-ingen-grund",
+      "subheadline": "Beskyldninger mod en partiansat rammer Sverigedemokraterna ni dage før det svenske valg",
+      "body": [
+        "Den politiske sekretær Polina Malaberg anklages af mediet Expo for siden 2014 at have delt prorussisk indhold – også efter invasionen af Ukraine i 2022. Hun har ifølge Expo et tæt forhold til en rådgiver i Jimmie Åkessons indre kreds og skal have forsøgt at finansiere et russisk-forbundet teaterselskab i Stockholm.",
+        "Statsminister Ulf Kristersson siger, sagen er alvorlig, hvis sand, og at der »ikke findes plads til prorussiske fortællinger i Sverige«. Åkesson afviser panik og henviser til sikkerhedsprocedurer, mens pressetjenesten fastholder, hun for nylig har været 'stærkt kritisk' over for det russiske styre."
+      ],
+      "whyItMatters": "Sagen rammer regeringens støtteparti ni dage før et valg og rejser spørgsmål om, hvor tæt prorussisk indflydelse kan nå på magten.",
+      "analysis": "Kontrasten er historien: Kristersson taler som regeringschef med sikkerhedsansvar, Åkesson som partileder, der ikke vil give modstandere en sag nu.",
+      "topics": [
+        "udenrigspolitik",
+        "valg",
+        "desinformation"
+      ],
+      "entities": [
+        "Sverigedemokraterna",
+        "Polina Malaberg",
+        "Ulf Kristersson",
+        "Jimmie Åkesson"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 58,
+        "decisionValue": 40,
+        "novelty": 60,
+        "sourceQuality": 65,
+        "personalRelevance": 25,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Polina Malaberg anklages af Expo for at have spredt prorussisk propaganda siden 2014, også efter 2022",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/ansat-hos-sverigedemokraterne-anklages-sprede-prorussisk-propaganda-men-partileder-ser-ingen-grund"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Statsminister Ulf Kristersson kræver hende fyret hvis anklagerne er sande; partileder Jimmie Åkesson ser ingen grund til panik",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/ansat-hos-sverigedemokraterne-anklages-sprede-prorussisk-propaganda-men-partileder-ser-ingen-grund"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/zlonzv5e/20260903-105520-l.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Sverigedemokraternas partileder Jimmie Åkesson",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/ansat-hos-sverigedemokraterne-anklages-sprede-prorussisk-propaganda-men-partileder-ser-ingen-grund"
+      },
+      "sources": [
+        {
+          "title": "Ansat hos Sverigedemokraterne anklages for at sprede prorussisk propaganda, men partileder ser 'ingen grund til panik'",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/ansat-hos-sverigedemokraterne-anklages-sprede-prorussisk-propaganda-men-partileder-ser-ingen-grund",
+          "publishedAt": "2026-09-04T15:46:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-groenland-patient-20260905",
+      "eventKey": "groenland-patientbehandling-dk-betaler-2026",
+      "materialFacts": [
+        "Danmark overtager permanent regningen på 180 mio. kr. om året for grønlandske patienters behandling i Danmark",
+        "Grønland har selv båret udgiften siden 1992",
+        "Aftalen blev annonceret af sundhedsminister Ida Auken i Nuuk"
+      ],
+      "section": "Grønland",
+      "headline": "'Stor aftale': Danmark betaler fremover 180 millioner kroner om året til grønlandske patienter",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/stor-aftale-danmark-betaler-fremover-180-millioner-kroner-om-aaret-til-groenlandske-patienter",
+      "subheadline": "Danmark overtager en udgift, Grønland selv har båret siden 1992",
+      "body": [
+        "Danmark overtager permanent regningen på 180 mio. kr. om året for de omkring 1.300 grønlandske patienter, der hvert år behandles i Danmark, langt de fleste på Rigshospitalet. Grønland har selv betalt siden 1992.",
+        "Sundhedsminister Ida Auken annoncerede aftalen under et besøg i Nuuk og kaldte den historisk. Fra grønlandsk side betegnes den også som historisk, fordi den retter op på mere end tre årtiers skæv fordeling af regningen."
+      ],
+      "whyItMatters": "Sundhedsvæsenet er Grønlands største enkeltudgift på driften, og 180 mio. kr. om året er et mærkbart beløb, der nu kan bruges på andet end behandling, patienterne alligevel modtager i Danmark.",
+      "analysis": "At udgiften først overtages permanent nu, 34 år efter den blev pålagt Grønland i 1992, siger noget om, hvor langsomt den slags opgør normalt bevæger sig i rigsfællesskabets økonomi.",
+      "topics": [
+        "grønland",
+        "sundhed",
+        "statsfinanser"
+      ],
+      "entities": [
+        "Grønland",
+        "Ida Auken",
+        "Rigshospitalet"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 48,
+        "decisionValue": 30,
+        "novelty": 55,
+        "sourceQuality": 65,
+        "personalRelevance": 20,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Danmark overtager permanent regningen på 180 mio. kr. om året for ca. 1.300 grønlandske patienter, der behandles i Danmark, primært på Rigshospitalet",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/stor-aftale-danmark-betaler-fremover-180-millioner-kroner-om-aaret-til-groenlandske-patienter"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Grønland har selv båret udgiften siden 1992; sundhedsminister Ida Auken annoncerede aftalen i Nuuk",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/stor-aftale-danmark-betaler-fremover-180-millioner-kroner-om-aaret-til-groenlandske-patienter"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/pcrnxa5a/14950470_kajen_indland_groenland_sundhed_aftale-20284803.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Sundhedsminister Ida Auken i Nuuk, hvor aftalen om grønlandske patienter blev annonceret",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/stor-aftale-danmark-betaler-fremover-180-millioner-kroner-om-aaret-til-groenlandske-patienter"
+      },
+      "sources": [
+        {
+          "title": "'Stor aftale': Danmark betaler fremover 180 millioner kroner om året til grønlandske patienter",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/stor-aftale-danmark-betaler-fremover-180-millioner-kroner-om-aaret-til-groenlandske-patienter",
+          "publishedAt": "2026-09-04T05:19:00Z",
+          "kind": "reporting"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "Konsulentrapport gav grønt lys til it-projekt til 330 millioner: 12 måneder senere blev kontrakten revet over",
+      "headline": "Konsulentrapport gav grønt lys til it-projekt til 330 millioner: 12 måneder senere blev kontrakten revet over",
+      "url": "https://ing.dk/artikel/konsulentrapport-gav-groent-lys-til-it-projekt-til-330-millioner-12-maaneder-senere-blev-kontrakten",
+      "publisher": "Ingeniøren",
+      "section": "Erhverv",
+      "publishedAt": "2026-09-02T09:00:00Z",
+      "summary": "Uddannelsesministeriet skrottede i juli it-projektet Nyt SIS til de danske universiteter, 12 måneder efter en konsulentrapport havde givet grønt lys til det. Kontrakten med leverandøren Fluido havde en værdi på 330 mio. kr."
+    },
+    {
+      "text": "Bøvlet undergrund får skylden: Milliardregning for Energiø Bornholm tæt på fordoblet",
+      "headline": "Bøvlet undergrund får skylden: Milliardregning for Energiø Bornholm tæt på fordoblet",
+      "url": "https://ing.dk/artikel/boevlet-undergrund-faar-skylden-milliardregning-energioe-bornholm-taet-paa-fordoblet",
+      "publisher": "Ingeniøren",
+      "section": "Energi",
+      "publishedAt": "2026-09-03T11:00:00Z",
+      "summary": "Budgettet for Energiø Bornholm er steget fra 2 til 3,7 mia. kr. Energiminister Samira Nawa peger på undergrundens sorte lerskifer som en væsentlig årsag."
+    },
+    {
+      "text": "PET ramt af slettefejl: Dømte kan være blevet sikkerhedsgodkendt",
+      "headline": "PET ramt af slettefejl: Dømte kan være blevet sikkerhedsgodkendt",
+      "url": "https://ing.dk/artikel/pet-ramt-af-slettefejl-doemte-kan-vaere-blevet-sikkerhedsgodkendt",
+      "publisher": "Ingeniøren",
+      "section": "Indland",
+      "publishedAt": "2026-09-04T13:21:00Z",
+      "summary": "PET erkender, at den kendte fejl i kriminalregistret kan have ført til forkerte sikkerhedsgodkendelser af personer, der ikke burde have fået dem."
+    },
+    {
+      "text": "Energinets nødplan afvist: »Det er en katastrofe«",
+      "headline": "Energinets nødplan afvist: »Det er en katastrofe«",
+      "url": "https://ing.dk/artikel/energinets-noedplan-afvist-det-er-en-katastrofe",
+      "publisher": "Ingeniøren",
+      "section": "Energi",
+      "publishedAt": "2026-09-04T10:05:00Z",
+      "summary": "Forsyningstilsynet har afvist Energinets model for at prioritere nye eltilslutninger. Energinet skal i stedet udarbejde en ny model, som skal godkendes af Forsyningstilsynet."
+    },
+    {
+      "text": "To personer tæt på Nigel Farage træder tilbage, efter journalist gik undercover",
+      "headline": "To personer tæt på Nigel Farage træder tilbage, efter journalist gik undercover",
+      "url": "https://www.dr.dk/nyheder/udland/personer-taet-paa-nigel-farage-traeder-tilbage-efter-journalist-gik-undercover",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-09-04T13:56:00Z",
+      "summary": "Reform UKs politiske chef og en rådgiver træder tilbage efter en Channel 4-afsløring af drøftelser om at omgå reglerne for udenlandske donationer. Farage optræder på optagelserne, men afviser at have kendt til planen."
+    },
+    {
+      "text": "Lukningstruet lufthavn i Grønland skal måske bruges af Nato",
+      "headline": "Lukningstruet lufthavn i Grønland skal måske bruges af Nato",
+      "url": "https://www.dr.dk/nyheder/seneste/lukningstruet-lufthavn-i-groenland-skal-maaske-bruges-af-nato",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-09-04T19:54:00Z",
+      "summary": "Narsarsuaq Lufthavn, der stod til at lukke, får en etårig forlængelse finansieret af Forsvarsministeriet, mens Nato's langsigtede behov for lufthavnen afklares."
+    },
+    {
+      "text": "Løkke laver udleveringsaftale med Marokko",
+      "headline": "Løkke laver udleveringsaftale med Marokko",
+      "url": "https://www.dr.dk/nyheder/seneste/loekke-laver-udleveringsaftale-med-marokko",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-09-04T14:37:00Z",
+      "summary": "Udenrigsminister Lars Løkke Rasmussen rejser i december til Marokko for at forhandle en udleveringsaftale, der skal gøre det lettere at sende kriminelle med marokkansk baggrund tilbage."
+    },
+    {
+      "text": "Novo CEO breaks silence after cyberattack: Everything points to a new hacker group",
+      "headline": "Novo CEO breaks silence after cyberattack: Everything points to a new hacker group",
+      "url": "https://ing.dk/artikel/novo-ceo-breaks-silence-after-cyberattack-everything-points-new-hacker-group",
+      "publisher": "Ingeniøren",
+      "section": "Erhverv",
+      "publishedAt": "2026-09-03T06:54:00Z",
+      "summary": "To australske statsborgere er anholdt for at stå bag hackergruppen 'TeamPCP', der i maj kompromitterede over 3.800 GitHub-repositories. Novo Nordisk lukkede omtrent samtidig egne kodelagre ned, men ifølge artiklen er det uafklaret, om de to hændelser reelt hænger sammen."
+    },
+    {
+      "text": "Kron åbner op for tragedie – har mistet ufødt barn",
+      "headline": "Kron åbner op for tragedie – har mistet ufødt barn",
+      "url": "https://sport.tv2.dk/cykling/2026-09-04-kron-aabner-op-for-tragedie-har-mistet-ufoedt-barn",
+      "publisher": "TV 2",
+      "section": "Sport",
+      "publishedAt": "2026-09-04T18:00:00Z",
+      "summary": "Andreas Kron blev nummer 12 på Vueltaens 13. etape og vandt prisen som mest aggressive rytter. Efter etapen fortalte han, at han og hustruen Ida Hemmingsen Kron i foråret mistede et ufødt barn."
+    },
+    {
+      "text": "Stor diskokugle ramte mand i hovedet til firmafest i København",
+      "headline": "Stor diskokugle ramte mand i hovedet til firmafest i København",
+      "url": "https://nyheder.tv2.dk/samfund/2026-09-05-stor-diskokugle-ramte-mand-i-hovedet-til-firmafest-i-koebenhavn",
+      "publisher": "TV 2",
+      "section": "Indland",
+      "publishedAt": "2026-09-05T04:00:00Z",
+      "summary": "En ca. 40-årig mand kom kritisk til skade, men er nu uden for livsfare, efter en diskokugle faldt ned over en firmafest med 2.000 gæster på Refshaleøen."
+    },
+    {
+      "text": "Nu får de første kvinder godtgørelse i spiralsagen. Uullat Bach ved godt, hvad pengene skal bruges på",
+      "headline": "Nu får de første kvinder godtgørelse i spiralsagen. Uullat Bach ved godt, hvad pengene skal bruges på",
+      "url": "https://www.dr.dk/nyheder/indland/groenland/nu-faar-de-foerste-kvinder-godtgoerelse-i-spiralsagen-uullat-bach-ved-godt-hvad-pengene-skal-bruges",
+      "publisher": "DR",
+      "section": "Grønland",
+      "publishedAt": "2026-09-04T08:30:00Z",
+      "summary": "De første fire godtgørelser er udbetalt under den nye erstatningsordning for kvinder ramt af ufrivillig spiralanlæggelse. Mindst 342 kvinder har søgt siden 1. juli."
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-anthropic-fable-mythos-20260905",
+      "mode": "try",
+      "kind": "Produktlancering",
+      "status": "new",
+      "title": "Claude Fable and Mythos 5.1",
+      "creator": "Anthropic",
+      "provider": "Anthropic",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "availability": "Frit tilgængeligt online; Fable er generelt tilgængelig, Mythos kræver godkendt adgang for cyberforsvar og biovidenskab",
+      "commitment": "5 min. læsning / afprøvning",
+      "description": "To modeller på samme arkitektur, men med forskellige sikkerhedsniveauer: Fable er frit tilgængelig, mens Mythos er forbeholdt godkendte cyberforsvars- og biovidenskabsforskere gennem et adgangsprogram. Cache-priserne er samtidig sat 75 pct. ned.",
+      "rationale": "Det er ikke endnu en modelopdatering, men et forsøg på at løse et reelt problem: hvordan man giver stærkere kapabilitet til dem, der har brug for den, uden at give den til alle. Værd at kende, uanset hvilken side af det skel man selv sidder på.",
+      "topics": [
+        "kunstig intelligens",
+        "sikkerhed"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://cdn.sanity.io/images/4zrzovbb/website/932ca7d6f414ca22fd5a26dcc131410575b9b3e5-1200x630.jpg",
+        "credit": "Kilde: Anthropic",
+        "alt": "Titelbillede til Anthropics lancering af Claude Fable 5.1 og Mythos 5.1",
+        "sourceUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-1"
+      }
+    },
+    {
+      "id": "rec-cosmos-bounded-pluralism-20260905",
+      "mode": "read",
+      "kind": "Essay",
+      "status": "new",
+      "title": "The Case for Bounded Pluralism",
+      "creator": "Rebecca Lowe",
+      "provider": "Cosmos Institute",
+      "url": "https://blog.cosmos-institute.org/p/the-case-for-bounded-pluralism",
+      "commitment": "10-12 min. læsning",
+      "description": "Essay om, at liberalisme tillader mange ting, men ikke alt: pluralisme har principielle grænser, selv når rettigheder kan begrundes forskelligt, og flere opfattelser af det gode liv er tilladte.",
+      "rationale": "En velargumenteret indramning af, hvor pluralismens grænser går – nyttig, hvis man i forvejen tænker over, hvordan AI-styring og institutioner skal balancere modstridende værdisæt uden at blive enten ligegyldige eller autoritære.",
+      "topics": [
+        "filosofi",
+        "governance"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-fortune-anduril-schimpf-20260905",
+      "mode": "read",
+      "kind": "Interview",
+      "status": "available",
+      "title": "Anduril CEO Brian Schimpf says economic warfare is the 'new normal' for military conflicts—and the U.S. needs to get serious",
+      "creator": "Lily Mae Lazarus",
+      "provider": "Fortune",
+      "url": "https://fortune.com/2026/06/08/anduril-ceo-brian-schimpf-economic-warfare-brainstorm-tech-iran/",
+      "availability": "Gratis tilgængelig online",
+      "commitment": "8-10 min. læsning",
+      "description": "Interview med Anduril-topchef Brian Schimpf om økonomier – datacentre, raffinaderier, skibsfart – som moderne krigsmål, USA's efterslæb på ammunitionsproduktion og Kinas mineraloverherredømme. Fra juni 2026, men indholdet er ikke blevet mindre aktuelt.",
+      "rationale": "Sjældent hører man en forsvars-topchef selv sige, at branchens værdiansættelser (50-100 gange forventet omsætning) er 'lidt af en boble' – det er den slags kildekritiske selvindsigt, der er svær at finde andre steder i forsvarsindustrien lige nu.",
+      "topics": [
+        "forsvar",
+        "geopolitik",
+        "venturekapital"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-book-executive-transitions-20260905",
+      "mode": "read",
+      "kind": "Bog",
+      "status": "classic",
+      "title": "Mastering Executive Transitions: The Definitive Guide",
+      "creator": "Navid Nazemian",
+      "provider": "New Degree Press",
+      "url": "https://www.masteringexecutivetransitions.com/book",
+      "availability": "Kan købes/lånes bredt; udgivet 2021, vandt 2026 Book Excellence Award i sin kategori",
+      "commitment": "Flere timer for hele bogen, ca. 20 min. for kerneframeworket",
+      "description": "Bogens 'Double Diamond'-model kortlægger, hvorfor omkring 40 pct. af nye topchefer går galt i deres første 18 måneder i en ny rolle, med et selvstændigt afsnit om de sidste 90 dage af et lederskifte.",
+      "rationale": "Den eneste af dagens anbefalinger, der taler direkte til en konkret situation frem for en interesse: en praktisk model for netop det at genopbygge en karriere efter en ledende post, ikke endnu en bog om at komme dertil.",
+      "topics": [
+        "ledelse",
+        "karriere"
+      ],
+      "isFeatured": false
+    }
+  ]
+}
