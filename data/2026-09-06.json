@@ -1,0 +1,817 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-09-06",
+  "date": "2026-09-06",
+  "generatedAt": "2026-09-06T04:42:21Z",
+  "readingMinutes": 12,
+  "title": "Thomas' Nyheder",
+  "dek": "Lørdagens udgave: fredsdiplomati i Moskva, en åben splittelse mellem DI og Dansk Erhverv, et bestyrelsesskifte med Mads Nipper, og et Claude-agentsystem, der har formaliseret Fermats sidste sætning.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-witkoff-kushner1",
+      "eventKey": "witkoff-kushner-moskva-putin-samtaler",
+      "materialFacts": [
+        "Witkoff og Kushner mødtes 5. september 2026 med Putin i Kreml.",
+        "Rusland stopper angreb på Kyiv i tre døgn; Ukraine pauser angreb på Moskva til mandag.",
+        "Delegationen ventede at rejse videre til Kyiv."
+      ],
+      "section": "Verden",
+      "headline": "Trump's envoys Witkoff and Kushner visit Moscow in latest push to end war in Ukraine",
+      "primarySourceUrl": "https://www.cbsnews.com/news/ukraine-russia-war-trump-peace-proposal-witkoff-kushner/",
+      "subheadline": "Kort pusterum om Kyiv og Moskva, mens Trumps udsendinge lægger en fredsplan på bordet hos Putin",
+      "body": [
+        "Trumps udsendinge Steve Witkoff og Jared Kushner mødtes lørdag med Vladimir Putin i Kreml i endnu et forsøg på at afslutte krigen i Ukraine. Kreml-rådgiver Jurij Usjakov kaldte samtalerne \"ekstremt ærlige og tillidsfulde\" og sagde, at amerikanerne fremlagde flere mulige veje til en løsning.",
+        "Rusland har indvilget i ikke at angribe Kyiv i tre døgn fra midnat, mens Ukraine har indvilget i at pause angreb på Moskva frem til mandag. Delegationen ventes at rejse videre til Kyiv for at fortsætte det diplomatiske pres."
+      ],
+      "whyItMatters": "En gensidig, tidsbegrænset våbenpause om to hovedstæder er sjælden i denne krig, mens Det Hvide Hus taler om substantielle planer for næste skridt. Om pausen holder, afgør, om dette bliver et vendepunkt eller endnu en kort pause i en krig på vej ind i sit femte år.",
+      "analysis": "Gensidig tilbageholdenhed plejer at signalere, at begge sider vurderer, at der er noget reelt at forhandle om. Men Rusland har tidligere brudt lignende pauser, så den egentlige test kommer, når fristen udløber mandag.",
+      "counterpoint": "Ingen af parterne har bekræftet indrømmelser ud over selve pausen, og lignende håndsrækninger er før brudt sammen inden for dage.",
+      "topics": [
+        "geopolitik",
+        "ukraine",
+        "diplomati"
+      ],
+      "entities": [
+        "Steve Witkoff",
+        "Jared Kushner",
+        "Vladimir Putin",
+        "Donald Trump"
+      ],
+      "isLead": true,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 82,
+        "decisionValue": 35,
+        "novelty": 70,
+        "sourceQuality": 82,
+        "personalRelevance": 30,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Witkoff og Kushner mødtes 5. september 2026 med Putin i Kreml.",
+          "sourceUrls": [
+            "https://www.cbsnews.com/news/ukraine-russia-war-trump-peace-proposal-witkoff-kushner/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Rusland stopper angreb på Kyiv i tre døgn fra midnat; Ukraine pauser angreb på Moskva til mandag.",
+          "sourceUrls": [
+            "https://www.cbsnews.com/news/ukraine-russia-war-trump-peace-proposal-witkoff-kushner/",
+            "https://www.dr.dk/nyheder/seneste/putin-beordrer-ingen-angreb-paa-kyiv-i-tre-dage"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Trump's envoys Witkoff and Kushner visit Moscow in latest push to end war in Ukraine",
+          "publisher": "CBS News",
+          "url": "https://www.cbsnews.com/news/ukraine-russia-war-trump-peace-proposal-witkoff-kushner/",
+          "publishedAt": "2026-09-05T00:00:00Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Putin beordrer: Ingen angreb på Kyiv i tre dage",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/seneste/putin-beordrer-ingen-angreb-paa-kyiv-i-tre-dage",
+          "publishedAt": "2026-09-05T12:45:30Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/05/dd3f1809-6824-4e1c-a37b-8d4268045d08/thumbnail/1200x630/4bf68c84206f974bbdcb3ad0f9b79657/ap26248632986964.jpg",
+        "credit": "Foto: AP, via CBS News",
+        "alt": "Steve Witkoff giver hånd til Vladimir Putin ved mødet i Kreml, med Jared Kushner til venstre",
+        "sourceUrl": "https://www.cbsnews.com/news/ukraine-russia-war-trump-peace-proposal-witkoff-kushner/"
+      }
+    },
+    {
+      "id": "story-danskerhverv-skat1",
+      "eventKey": "dansk-erhverv-selskabsskat-oprab",
+      "materialFacts": [
+        "Dansk Erhverv kræver selskabsskat på 19 pct. og afskaffelse af topskat inden 2027.",
+        "Seks oppositionspartier bakkede op ved årsdagen 2. september.",
+        "Finansminister Morten Bødskov afviste forslaget kategorisk."
+      ],
+      "section": "Erhverv og politik",
+      "headline": "Dansk Erhverv i markant opråb til politikerne: Sæt tempo på skattelettelser og byrdereduktioner allerede i 2027",
+      "primarySourceUrl": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/september/dansk-erhverv-i-markant-oprab-til-politikerne-sat-tempo-pa-skattelettelser-og-byrdereduktioner-allerede-i-2027/",
+      "subheadline": "Seks oppositionspartier bakker op om lavere selskabsskat - regeringen afviser kategorisk",
+      "body": [
+        "Dansk Erhverv kræver ved sin årsdag i Bella Sky, at selskabsskatten sænkes til 19 pct., og at topskatten afskaffes inden udgangen af 2027. Kravet blev fremsat foran ca. 1.300 tilhørere.",
+        "Seks oppositionspartier - Venstre, Moderaterne, Konservative, Danmarksdemokraterne, Liberal Alliance og Dansk Folkeparti - bakkede op om lavere selskabsskat på mødet. Finansminister Morten Bødskov afviste det på stedet: \"Det er ikke Socialdemokratiets politik at sænke selskabsskatten.\""
+      ],
+      "whyItMatters": "Et bredt oppositionsflertal, der samler sig om et konkret skattekrav foran regeringen, er sjældent så eksplicit. Det lægger pres på finansministeren op mod de kommende finanslovsforhandlinger.",
+      "analysis": "For virksomheder, der mærker stigende energipriser og administrative byrder, er selskabsskatten det letteste tal at samle sig om. Men afvisningen fra Bødskov betyder, at kravet realistisk først bliver politik efter et regeringsskifte.",
+      "topics": [
+        "skat",
+        "dansk erhverv",
+        "erhvervsvilkår"
+      ],
+      "entities": [
+        "Dansk Erhverv",
+        "Brian Mikkelsen",
+        "Morten Bødskov"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 68,
+        "decisionValue": 65,
+        "novelty": 65,
+        "sourceQuality": 82,
+        "personalRelevance": 88,
+        "contrast": 50
+      },
+      "claims": [
+        {
+          "text": "Dansk Erhverv kræver selskabsskatten sænket til 19 pct. og topskatten afskaffet inden 2027.",
+          "sourceUrls": [
+            "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/september/dansk-erhverv-i-markant-oprab-til-politikerne-sat-tempo-pa-skattelettelser-og-byrdereduktioner-allerede-i-2027/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Seks oppositionspartier bakkede op ved Dansk Erhvervs årsdag 2. september 2026; finansminister Morten Bødskov afviste forslaget.",
+          "sourceUrls": [
+            "https://www.altinget.dk/erhverv/artikel/seks-partier-vil-saenke-selskabsskatten-men-foran-1300-fejede-morten-boedskov-forslaget-af-bordet"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Dansk Erhverv i markant opråb til politikerne: Sæt tempo på skattelettelser og byrdereduktioner allerede i 2027",
+          "publisher": "Dansk Erhverv",
+          "url": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/september/dansk-erhverv-i-markant-oprab-til-politikerne-sat-tempo-pa-skattelettelser-og-byrdereduktioner-allerede-i-2027/",
+          "publishedAt": "2026-09-02T00:00:00Z",
+          "kind": "primary"
+        },
+        {
+          "title": "Seks partier vil sænke selskabsskatten, men foran 1.300 fejede Morten Bødskov forslaget af bordet",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/erhverv/artikel/seks-partier-vil-saenke-selskabsskatten-men-foran-1300-fejede-morten-boedskov-forslaget-af-bordet",
+          "publishedAt": "2026-09-02T00:00:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://danskerhverv.imgix.net/siteassets/mediafolder/billeder/07-medarbejdere/pressefoto-af-medarbejdere/bmk_900-aENDWTBJOWxvbjFja3RocjhyM3NpMitNS1B3PQ.jpg",
+        "credit": "Kilde: Dansk Erhverv",
+        "alt": "Dansk Erhverv i markant opråb til politikerne: Sæt tempo på skattelettelser og byrdereduktioner allerede i 2027",
+        "sourceUrl": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/september/dansk-erhverv-i-markant-oprab-til-politikerne-sat-tempo-pa-skattelettelser-og-byrdereduktioner-allerede-i-2027/"
+      }
+    },
+    {
+      "id": "story-di-de-ets-split1",
+      "eventKey": "di-dansk-erhverv-split-ets-reform",
+      "materialFacts": [
+        "DI støtter offentligt Kommissionens ETS-reformforslag.",
+        "Dansk Erhverv kalder sig skuffet over samme forslag.",
+        "Efterårets EU-forhandlinger om reformen forestår."
+      ],
+      "section": "EU og klimapolitik",
+      "headline": "DI bakker op om udskældt klimaudspil: \"Hvis nogen synes, vi er uambitiøse, vil jeg gerne tale med dem om, hvad ambitioner egentlig er\"",
+      "primarySourceUrl": "https://www.altinget.dk/eu/artikel/di-bakker-op-om-udskaeldt-klimaudspil-hvis-nogen-synes-vi-er-uambitioese-vil-jeg-gerne-tale-med-dem-om-hvad-ambitioner-egentlig-er",
+      "subheadline": "Dansk Industri støtter Kommissionens ETS-reform, mens Dansk Erhverv er skuffet - en sjælden åben splittelse i erhvervslivets EU-linje",
+      "body": [
+        "Dansk Industri bakker op om Kommissionens forslag til reform af kvotehandelssystemet ETS, selv om forslaget mødes med udbredt kritik. DI's argument: alternativet ville være værre for danske virksomheder, der i årevis har investeret ud fra de nuværende ETS-regler.",
+        "Dansk Erhverv indtager den modsatte position og kalder sig \"skuffet\" over samme forslag - en åben splittelse mellem to store erhvervsorganisationer, mens efterårets EU-forhandlinger om reformen forestår."
+      ],
+      "whyItMatters": "Når DI og Dansk Erhverv ikke taler med én stemme om et centralt EU-forslag, mister forhandlerne det samlede pres, dansk erhvervsliv normalt kan lægge bag et krav.",
+      "analysis": "Splittelsen afspejler nok, hvor forskelligt eksponerede de to organisationers medlemmer er: DI's industrivirksomheder har investeret tungt i den nuværende ETS-ramme og frygter en løsere reform mere, end de frygter status quo.",
+      "topics": [
+        "eu konkurrenceevne",
+        "klimapolitik",
+        "dansk industri"
+      ],
+      "entities": [
+        "Dansk Industri",
+        "Dansk Erhverv",
+        "European Commission"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 62,
+        "decisionValue": 60,
+        "novelty": 65,
+        "sourceQuality": 68,
+        "personalRelevance": 90,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "DI bakker offentligt op om Kommissionens ETS-reformforslag.",
+          "sourceUrls": [
+            "https://www.altinget.dk/eu/artikel/di-bakker-op-om-udskaeldt-klimaudspil-hvis-nogen-synes-vi-er-uambitioese-vil-jeg-gerne-tale-med-dem-om-hvad-ambitioner-egentlig-er"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Dansk Erhverv kalder sig skuffet over samme forslag.",
+          "sourceUrls": [
+            "https://www.altinget.dk/eu/artikel/di-bakker-op-om-udskaeldt-klimaudspil-hvis-nogen-synes-vi-er-uambitioese-vil-jeg-gerne-tale-med-dem-om-hvad-ambitioner-egentlig-er"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "DI bakker op om udskældt klimaudspil: \"Hvis nogen synes, vi er uambitiøse, vil jeg gerne tale med dem om, hvad ambitioner egentlig er\"",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/eu/artikel/di-bakker-op-om-udskaeldt-klimaudspil-hvis-nogen-synes-vi-er-uambitioese-vil-jeg-gerne-tale-med-dem-om-hvad-ambitioner-egentlig-er",
+          "publishedAt": "2026-09-04T03:00:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://legacy.altinget.dk/images/article/305893/160183.jpg",
+        "credit": "Kilde: Altinget",
+        "alt": "Arkivfoto: kulkraftværk og vindmøller, brugt af Altinget til at illustrere EU's kvotehandelssystem ETS",
+        "sourceUrl": "https://www.altinget.dk/eu/artikel/di-bakker-op-om-udskaeldt-klimaudspil-hvis-nogen-synes-vi-er-uambitioese-vil-jeg-gerne-tale-med-dem-om-hvad-ambitioner-egentlig-er"
+      }
+    },
+    {
+      "id": "story-di-certordning1",
+      "eventKey": "folketing-certificeringsordning-udenlandsk-arbejdskraft",
+      "materialFacts": [
+        "Folketinget vedtog en certificeringsordning for udenlandsk arbejdskraft fra 16 lande.",
+        "Ordningen træder i kraft 1. januar 2027.",
+        "Krav: mindst 10 danske fuldtidsansatte, 2 års levetid, overenskomst, løn på mindst 322.000 kr."
+      ],
+      "section": "Arbejdsmarked",
+      "headline": "Folketing vedtager vigtig løsning på reelt problem",
+      "primarySourceUrl": "https://www.danskindustri.dk/di-business/arkiv/nyheder/2026/9/folketing-vedtager-vigtig-losning-pa-reelt-problem/",
+      "subheadline": "Ny certificeringsordning fra 1. januar 2027 skal lette adgangen til faglært arbejdskraft fra 16 lande",
+      "body": [
+        "Folketinget har vedtaget en certificeringsordning, der fra 1. januar 2027 letter adgangen til kvalificeret arbejdskraft fra 16 lande, bl.a. Indien, Kina, Japan og Brasilien. Krav: mindst ti fuldtidsansatte danskere, mindst to års levetid, overenskomstdækning og minimumsløn på 322.000 kr. årligt.",
+        "DI's adm. direktør Lars Sandahl Sørensen kalder vedtagelsen \"stort og vigtigt\". International arbejdskraft udgør i dag hver syvende lønmodtager i Danmark."
+      ],
+      "whyItMatters": "Ordningen løser ikke manglen på faglærte i sig selv, men fjerner en administrativ barriere for virksomheder, der allerede rekrutterer i udlandet, og giver dem et lovligt spor, der ikke fandtes før.",
+      "analysis": "DI har selv bygget rekrutteringskanaler i flere af de 16 lande gennem årtier, og ordningen giver nu et regelsæt, de kanaler kan bruges lovligt til i stor skala - relevant, når Danmark ifølge DI mangler 135.000 faglærte i 2035.",
+      "topics": [
+        "arbejdsmarked",
+        "international arbejdskraft",
+        "dansk industri"
+      ],
+      "entities": [
+        "Dansk Industri",
+        "Lars Sandahl Sørensen",
+        "Folketinget"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 62,
+        "decisionValue": 68,
+        "novelty": 60,
+        "sourceQuality": 85,
+        "personalRelevance": 88,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "Folketinget har vedtaget en certificeringsordning for arbejdskraft fra 16 lande, gældende fra 1. januar 2027.",
+          "sourceUrls": [
+            "https://www.danskindustri.dk/di-business/arkiv/nyheder/2026/9/folketing-vedtager-vigtig-losning-pa-reelt-problem/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Krav: mindst 10 fuldtidsansatte danskere, 2 års levetid, overenskomst, minimumsløn på 322.000 kr. årligt.",
+          "sourceUrls": [
+            "https://www.danskindustri.dk/di-business/arkiv/nyheder/2026/9/folketing-vedtager-vigtig-losning-pa-reelt-problem/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Folketing vedtager vigtig løsning på reelt problem",
+          "publisher": "Dansk Industri",
+          "url": "https://www.danskindustri.dk/di-business/arkiv/nyheder/2026/9/folketing-vedtager-vigtig-losning-pa-reelt-problem/",
+          "publishedAt": "2026-09-03T00:00:00Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://www.danskindustri.dk/globalassets/om-di/personfoto-af-talspersoner/169-talspersoner-og-direktorer/lars-sandahl-sorensen/lars-sandahl-sorensen_ulrik-jantzen_014_1600x900.png",
+        "credit": "Kilde: Dansk Industri",
+        "alt": "Lars Sandahl Sørensen, adm. direktør i Dansk Industri",
+        "sourceUrl": "https://www.danskindustri.dk/di-business/arkiv/nyheder/2026/9/folketing-vedtager-vigtig-losning-pa-reelt-problem/"
+      }
+    },
+    {
+      "id": "story-knudhojgaard1",
+      "eventKey": "knud-hoejgaards-fond-formandsskifte",
+      "materialFacts": [
+        "Sten Scheibye stopper som formand for Knud Højgaards Fond efter 12 år.",
+        "Henrik Dahl bliver ny formand, Henrik Sjøgreen ny næstformand.",
+        "Mads Nipper indtræder i bestyrelsen; uddelingerne hæves til 110 mio. kr."
+      ],
+      "section": "Ledelse og bestyrelser",
+      "headline": "Stor erhvervsdrivende fond udpeger ny formand og ryster posen i bestyrelsen",
+      "primarySourceUrl": "https://www.altinget.dk/erhverv/navnenyt/stor-erhvervsdrivende-fond-udpeger-ny-formand-og-ryster-posen-i-bestyrelsen",
+      "subheadline": "Sten Scheibye stopper efter 12 år - Mads Nipper indtræder i bestyrelsen for Knud Højgaards Fond",
+      "body": [
+        "Sten Scheibye fratræder som formand for Knud Højgaards Fond efter 12 år på posten. Han afløses af advokat Henrik Dahl, der har siddet i bestyrelsen siden 2013 og været næstformand siden 2020. Henrik Sjøgreen bliver ny næstformand.",
+        "Samtidig indtræder Mads Nipper, tidligere adm. direktør for både Ørsted og Grundfos, som nyt medlem af fondens bestyrelse. Fonden oplyser, at den vil hæve sine årlige uddelinger til 110 millioner kroner."
+      ],
+      "whyItMatters": "Et samlet formandsskifte og en ny bestyrelsesplads til en af Danmarks mest profilerede tidligere topchefer signalerer, at fonden vil være mere aktiv fremadrettet - både i sin uddelingspraksis og i sit erhvervspolitiske fodaftryk.",
+      "analysis": "For en fond, der historisk har prioriteret kontinuitet, er det bemærkelsesværdigt at hente en nyligt fratrådt topleder direkte ind i bestyrelsen - det peger på en strategi om at bruge Nippers netværk og erfaring aktivt.",
+      "topics": [
+        "who is moving",
+        "fonde",
+        "bestyrelser"
+      ],
+      "entities": [
+        "Sten Scheibye",
+        "Henrik Dahl",
+        "Henrik Sjøgreen",
+        "Mads Nipper",
+        "Knud Højgaards Fond"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 60,
+        "decisionValue": 65,
+        "novelty": 65,
+        "sourceQuality": 80,
+        "personalRelevance": 80,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "Henrik Dahl afløser Sten Scheibye som formand; Henrik Sjøgreen bliver næstformand.",
+          "sourceUrls": [
+            "https://www.altinget.dk/erhverv/navnenyt/stor-erhvervsdrivende-fond-udpeger-ny-formand-og-ryster-posen-i-bestyrelsen"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Mads Nipper indtræder i fondens bestyrelse; de årlige uddelinger hæves til 110 mio. kr.",
+          "sourceUrls": [
+            "https://www.altinget.dk/erhverv/navnenyt/stor-erhvervsdrivende-fond-udpeger-ny-formand-og-ryster-posen-i-bestyrelsen"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Stor erhvervsdrivende fond udpeger ny formand og ryster posen i bestyrelsen",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/erhverv/navnenyt/stor-erhvervsdrivende-fond-udpeger-ny-formand-og-ryster-posen-i-bestyrelsen",
+          "publishedAt": "2026-09-03T09:54:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://legacy.altinget.dk/images/article/305938/160249.jpg",
+        "credit": "Kilde: Altinget",
+        "alt": "Henrik Dahl, ny formand for Knud Højgaards Fond",
+        "sourceUrl": "https://www.altinget.dk/erhverv/navnenyt/stor-erhvervsdrivende-fond-udpeger-ny-formand-og-ryster-posen-i-bestyrelsen"
+      }
+    },
+    {
+      "id": "story-fermat-claude1",
+      "eventKey": "claude-agenter-formaliserer-fermat-lean",
+      "materialFacts": [
+        "Claude-agenter formaliserede Fermats sidste sætning i Lean på 11 dage.",
+        "13 mio. linjer kode, 30.300 sætninger bevist, 29.500 brugt i det endelige bevis.",
+        "Kevin Buzzard har verificeret beviset uafhængigt."
+      ],
+      "section": "Kunstig intelligens og videnskab",
+      "headline": "Formalizing Fermat's Last Theorem",
+      "primarySourceUrl": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "subheadline": "Et hold af Claude-agenter har på 11 dage skrevet det første maskinelt verificerede bevis for et af matematikkens mest berømte resultater",
+      "body": [
+        "Et system af Claude-agenter fra Anthropic har produceret det første komplette, computertjekkede bevis for Fermats sidste sætning i bevisassistenten Lean. Forløbet tog 11 dage, genererede 13 mio. linjer kode og beviste 30.300 sætninger, hvoraf 29.500 indgår i det endelige bevis.",
+        "Imperial College-matematikeren Kevin Buzzard, der selv leder et rivaliserende formaliseringsprojekt, har gennemgået beviset og bekræftet, at det holder ud fra matematikkens aksiomer alene."
+      ],
+      "whyItMatters": "Anthropic understreger selv, at der ikke er ny matematik - kun at et kendt bevis er gjort maskinelt verificerbart. Resultatet siger mere om automatiseret formel verifikation end om AI's evne til at opdage ny matematik.",
+      "analysis": "Fristelsen til at kalde det \"AI løser et 350 år gammelt problem\" er stor, men både Anthropic og Buzzard afviser den ramme - et eksempel på, hvor let overdrivelse opstår, selv når resultatet er reelt imponerende.",
+      "topics": [
+        "ai",
+        "matematik",
+        "videnskab"
+      ],
+      "entities": [
+        "Anthropic",
+        "Claude",
+        "Kevin Buzzard"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 75,
+        "decisionValue": 35,
+        "novelty": 85,
+        "sourceQuality": 85,
+        "personalRelevance": 40,
+        "contrast": 60
+      },
+      "claims": [
+        {
+          "text": "Claude-agenter producerede på 11 dage det første computertjekkede bevis for Fermats sidste sætning i Lean, med 13 mio. linjer kode og 30.300 beviste sætninger (29.500 brugt i det endelige bevis).",
+          "sourceUrls": [
+            "https://www.anthropic.com/research/formalizing-fermats-last-theorem"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Kevin Buzzard har gennemgået og bekræftet beviset.",
+          "sourceUrls": [
+            "https://www.anthropic.com/research/formalizing-fermats-last-theorem"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Formalizing Fermat's Last Theorem",
+          "publisher": "Anthropic",
+          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+          "publishedAt": "2026-09-04T00:00:00Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.sanity.io/images/4zrzovbb/website/578f91575c42231f0994e341014614255149af80-1200x630.jpg",
+        "credit": "Kilde: Anthropic",
+        "alt": "Matematisk illustration med elliptiske kurver til Anthropics artikel om Fermats sidste sætning",
+        "sourceUrl": "https://www.anthropic.com/research/formalizing-fermats-last-theorem"
+      }
+    },
+    {
+      "id": "story-eu-byrdeudvalg1",
+      "eventKey": "danmark-nedlaegger-eu-implementeringsudvalg",
+      "materialFacts": [
+        "Lidegaard nedlægger EU-Implementeringsudvalget uden erstatning.",
+        "Udvalget blev genoprettet af SVM-regeringen i efteråret 2024.",
+        "Samme uge annoncerede Lidegaard et mål om 25 pct. lavere administrative byrder inden 2035."
+      ],
+      "section": "EU og erhvervsregulering",
+      "headline": "Regeringen dropper udvalg til at bekæmpe EU-byrder",
+      "primarySourceUrl": "https://www.altinget.dk/erhverv/artikel/regeringen-dropper-udvalg-til-at-bekaempe-eu-byrder",
+      "subheadline": "Erhvervsminister Martin Lidegaard nedlægger udvalget, den tidligere regering genoprettede for at standse dansk overimplementering af EU-regler",
+      "body": [
+        "Erhvervsminister Martin Lidegaard nedlægger EU-Implementeringsudvalget, som SVM-regeringen genoprettede i efteråret 2024 for at modvirke, at Danmark implementerer EU-regler hårdere end krævet. Lidegaard har intet konkret alternativ: \"Vi kommer til at tage et andet greb på det her.\"",
+        "Beslutningen falder samme uge, som Lidegaard ved Dansk Erhvervs årsdag lancerede en plan om at skære virksomhedernes byrder 25 pct. inden 2035 - 17,5 af de i alt 70 mia. kr., byrderne koster årligt."
+      ],
+      "whyItMatters": "Overimplementering af EU-regler har i årevis været dansk erhvervslivs konkrete klage - og det udvalg, der skulle løse netop det problem, forsvinder nu uden erstatning, mens et langt langsommere mål sættes i stedet.",
+      "analysis": "Et redskab nedlægges, mens et vagt, langsigtet mål annonceres samme uge - nøjagtig den erstatning af handling med hensigtserklæringer, DI's og BusinessEuropes byrdekampagne er skabt for at holde øje med.",
+      "topics": [
+        "eu byrder",
+        "overimplementering",
+        "erhvervsregulering"
+      ],
+      "entities": [
+        "Martin Lidegaard",
+        "EU-Implementeringsudvalget",
+        "Dansk Erhverv"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 60,
+        "novelty": 65,
+        "sourceQuality": 78,
+        "personalRelevance": 85,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "Lidegaard nedlægger EU-Implementeringsudvalget uden at angive et konkret alternativ.",
+          "sourceUrls": [
+            "https://www.altinget.dk/erhverv/artikel/regeringen-dropper-udvalg-til-at-bekaempe-eu-byrder"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Lidegaard vil skære administrative byrder 25 pct. (17,5 mia. kr.) inden 2035.",
+          "sourceUrls": [
+            "https://www.altinget.dk/erhverv/artikel/lidegaard-vil-skaere-administrative-byrder-for-175-milliarder"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Regeringen dropper udvalg til at bekæmpe EU-byrder",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/erhverv/artikel/regeringen-dropper-udvalg-til-at-bekaempe-eu-byrder",
+          "publishedAt": "2026-09-02T00:00:00Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Lidegaard vil skære administrative byrder for 17,5 milliarder",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/erhverv/artikel/lidegaard-vil-skaere-administrative-byrder-for-175-milliarder",
+          "publishedAt": "2026-09-02T15:45:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://legacy.altinget.dk/images/article/305768/159870.jpg",
+        "credit": "Foto: Mathias Svold/Ritzau Scanpix, via Altinget",
+        "alt": "Erhvervsminister Martin Lidegaard",
+        "sourceUrl": "https://www.altinget.dk/erhverv/artikel/regeringen-dropper-udvalg-til-at-bekaempe-eu-byrder"
+      }
+    },
+    {
+      "id": "story-cheminova-fmc1",
+      "eventKey": "fmc-roenland-lukning-genansaettelse",
+      "materialFacts": [
+        "FMC Rønland (tidl. Cheminova) lukker med udgangen af 2026; ca. 400 job forsvinder.",
+        "Flere arbejdsgivere, bl.a. Vestas, har allerede tilbudt job til de opsagte.",
+        "3F forventer, at de fleste finder nyt arbejde inden for et år."
+      ],
+      "section": "Industri og arbejdsmarked",
+      "headline": "Der er allerede rift om medarbejdere fra det tidligere Cheminova",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/der-er-allerede-rift-efter-medarbejdere-fra-det-tidligere-cheminova",
+      "subheadline": "400 job forsvinder, når FMC Rønland lukker - men efterspørgslen efter de fyrede medarbejdere er øjeblikkelig",
+      "body": [
+        "FMC Rønland, tidligere Cheminova, lukker sit anlæg på Harboøre Tange med udgangen af 2026 efter flere års milliardunderskud. Ca. 400 medarbejdere mister jobbet, men flere arbejdsgivere har allerede henvendt sig til 3F Holstebro-Lemvig for at ansætte dem - bl.a. Vestas i Lem, der har 25 ledige stillinger.",
+        "3F's næstformand Frank Abildtrup forventer, at de fleste opsagte finder nyt arbejde inden for et år, i et lokalområde hvor efterspørgslen efter faglærte tilsyneladende overstiger den frigivne arbejdsstyrke."
+      ],
+      "whyItMatters": "Historien modsiger, at fabrikslukninger nødvendigvis efterlader et hul: arbejdskraften er attraktiv nok til, at konkurrenter rykker ind, før fabrikken er lukket.",
+      "analysis": "Det siger noget om, hvor stramt arbejdsmarkedet for faglærte er i Vestjylland - en mangel, DI mener rammer hele landet og er baggrund for både certificeringsordningen og DI's egen rekruttering i udlandet.",
+      "topics": [
+        "industri",
+        "arbejdsmarked",
+        "vestjylland"
+      ],
+      "entities": [
+        "FMC Rønland",
+        "Cheminova",
+        "Frank Abildtrup",
+        "3F Holstebro-Lemvig",
+        "Vestas"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 50,
+        "novelty": 60,
+        "sourceQuality": 82,
+        "personalRelevance": 55,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "FMC Rønland lukker med udgangen af 2026; ca. 400 medarbejdere mister jobbet.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/der-er-allerede-rift-efter-medarbejdere-fra-det-tidligere-cheminova"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Flere arbejdsgivere, bl.a. Vestas i Lem med 25 ledige stillinger, har henvendt sig til 3F Holstebro-Lemvig.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/der-er-allerede-rift-efter-medarbejdere-fra-det-tidligere-cheminova"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Der er allerede rift om medarbejdere fra det tidligere Cheminova",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/der-er-allerede-rift-efter-medarbejdere-fra-det-tidligere-cheminova",
+          "publishedAt": "2026-09-05T16:46:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/v1ahsgys/1_crop001.jpeg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Foto: Frank Abildtrup",
+        "alt": "Frank Abildtrup, næstformand i 3F Holstebro-Lemvig",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/der-er-allerede-rift-efter-medarbejdere-fra-det-tidligere-cheminova"
+      }
+    }
+  ],
+  "signals": [
+    {
+      "text": "China must deliver concrete results by October or face 'harsher measures', EU trade chief tells Euronews",
+      "headline": "China must deliver concrete results by October or face 'harsher measures', EU trade chief tells Euronews",
+      "url": "https://www.euronews.com/my-europe/2026/09/02/china-must-deliver-concrete-results-by-october-or-face-harsher-measures-eu-trade-chief-tel",
+      "publisher": "Euronews",
+      "section": "EU-handelspolitik",
+      "publishedAt": "2026-09-02T00:00:00Z",
+      "summary": "EU's handelskommissær Maroš Šefčovič siger, at Kina skal levere konkrete resultater inden oktober eller stå over for hårdere tiltag; alle 27 EU-lande har handelsunderskud med Kina."
+    },
+    {
+      "text": "Ny DI service hjælper med international rekruttering",
+      "headline": "Ny DI service hjælper med international rekruttering",
+      "url": "https://www.danskindustri.dk/di-business/arkiv/nyheder/2026/9/ny-di-service-kan-hjalpe-med-international-rekruttering/",
+      "publisher": "Dansk Industri",
+      "section": "Arbejdsmarked",
+      "publishedAt": "2026-09-04T00:00:00Z",
+      "summary": "DI's kontorer i Mumbai og Chennai tilbyder nu fuld rekrutteringsservice, så danske virksomheder kan bruge den nye certificeringsordning til at hente faglærte fra Indien og 15 andre lande."
+    },
+    {
+      "text": "Anna de Klauman bliver ny viceadministrerende direktør i Landbrug & Fødevarer",
+      "headline": "Anna de Klauman bliver ny viceadministrerende direktør i Landbrug & Fødevarer",
+      "url": "https://lf.dk/aktuelt/nyheder/2026/anna-de-klauman-bliver-ny-viceadministrerende-direktoer-i-landbrug-foedevarer/",
+      "publisher": "Landbrug & Fødevarer",
+      "section": "Who is moving",
+      "publishedAt": "2026-08-10T00:00:00Z",
+      "summary": "Anna de Klauman tiltrådte 1. september som viceadministrerende direktør i Landbrug & Fødevarer med reference til adm. direktør Morten Boje Hviid."
+    },
+    {
+      "text": "Danmark vinder milliardsag i USA: På papiret handlede finansmænd 10 procent af Novo Nordisk",
+      "headline": "Danmark vinder milliardsag i USA: På papiret handlede finansmænd 10 procent af Novo Nordisk",
+      "url": "https://www.dr.dk/nyheder/penge/danmark-vinder-milliardsag-i-usa-paa-papiret-handlede-finansmaend-10-procent-af-novo-nordisk",
+      "publisher": "DR",
+      "section": "Erhverv",
+      "publishedAt": "2026-08-31T16:30:00Z",
+      "summary": "En amerikansk appeldomstol har stadfæstet en dom om, at to finansmænd skal betale ca. 3,2 mia. kr. til de danske skattemyndigheder i den mangeårige udbyttesag."
+    },
+    {
+      "text": "Politiet fjerner demonstranter, der blokerer gade i København",
+      "headline": "Politiet fjerner demonstranter, der blokerer gade i København",
+      "url": "https://www.dr.dk/nyheder/indland/politiet-fjerner-demonstranter-der-blokerer-gade-i-koebenhavn",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-09-05T18:00:00Z",
+      "summary": "På flagdagen ryddede politiet en gade i København, efter at en march og en moddemonstration mødtes; mindst tre blev anholdt."
+    },
+    {
+      "text": "Stor diskokugle ramte mand i hovedet til firmafest i København",
+      "headline": "Stor diskokugle ramte mand i hovedet til firmafest i København",
+      "url": "https://www.dr.dk/nyheder/indland/stor-diskokugle-ramte-mand-i-hovedet-til-firmafest-i-koebenhavn",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-09-05T12:00:00Z",
+      "summary": "En mand blev alvorligt kvæstet, da en diskokugle faldt ned over ham til PwC's firmafest på Refshaleøen; han er nu uden for livsfare."
+    },
+    {
+      "text": "Han har 'kæmpestor taknemmelighed' for deres indsats, men minister vil ikke love soldater samme hæder som deres kolleger",
+      "headline": "Han har 'kæmpestor taknemmelighed' for deres indsats, men minister vil ikke love soldater samme hæder som deres kolleger",
+      "url": "https://www.dr.dk/nyheder/indland/han-har-kaempestor-taknemmelighed-deres-indsats-men-minister-vil-ikke-love-soldater-samme-haeder",
+      "publisher": "DR",
+      "section": "Forsvar",
+      "publishedAt": "2026-09-05T16:00:00Z",
+      "summary": "Soldater på Forsvarets arktiske skibe i grønlandske farvande er udelukket fra veteranstatus; forsvarsminister Jeppe Bruus vil ikke love ændringer."
+    },
+    {
+      "text": "Dansker misser tidsgrænse – men får lov til at blive i Vueltaen",
+      "headline": "Dansker misser tidsgrænse – men får lov til at blive i Vueltaen",
+      "url": "https://sport.tv2.dk/cykling/2026-09-05-dansker-misser-tidsgraense-men-faar-lov-til-at-blive-i-vueltaen",
+      "publisher": "TV 2 Sport",
+      "section": "Cykling",
+      "publishedAt": "2026-09-05T00:00:00Z",
+      "summary": "Mathias Norsgaard oversteg tidsgrænsen på Vueltaens 14. etape, men fik efter appel justeret sin tid til fire sekunder inden for grænsen."
+    },
+    {
+      "text": "Hun blev endnu engang Williams' bøddel og håber at møde hende igen",
+      "headline": "Hun blev endnu engang Williams' bøddel og håber at møde hende igen",
+      "url": "https://www.dr.dk/sporten/tennis/hun-blev-endnu-engang-williams-boeddel-og-haaber-moede-hende-igen",
+      "publisher": "DR",
+      "section": "Tennis",
+      "publishedAt": "2026-09-06T00:00:00Z",
+      "summary": "Australske Maya Joint slog Serena og Venus Williams i US Opens doubleturnering - hendes anden Grand Slam-sejr i træk over Serena Williams."
+    },
+    {
+      "text": "Højlund scorer forgæves i kollaps mod Inter",
+      "headline": "Højlund scorer forgæves i kollaps mod Inter",
+      "url": "https://sport.tv2.dk/fodbold/2026-09-05-hoejlund-scorer-forgaeves-i-kollaps-mod-inter",
+      "publisher": "TV 2 Sport",
+      "section": "Fodbold",
+      "publishedAt": "2026-09-05T00:00:00Z",
+      "summary": "Napoli tabte 3-2 til Inter i Serie A; Rasmus Højlund scorede sit første Napoli-mål i sæsonen, før Inter vendte kampen."
+    },
+    {
+      "text": "Death toll from devastating floods in China and Nepal surpasses 1,000",
+      "headline": "Death toll from devastating floods in China and Nepal surpasses 1,000",
+      "url": "https://www.aljazeera.com/news/2026/9/1/death-toll-from-devastating-floods-in-china-and-nepal-surpasses-1000",
+      "publisher": "Al Jazeera",
+      "section": "Verden",
+      "publishedAt": "2026-09-01T00:00:00Z",
+      "summary": "Et gletsjerkollaps i Himalaya har udløst oversvømmelser, der har kostet over 1.000 mennesker livet i Nepal og Kina, med over 4.400 fortsat meldt savnet."
+    }
+  ],
+  "column": {
+    "authoredBy": "ai",
+    "slug": "simpsons-paradoks",
+    "title": "Gennemsnittet, der lyver",
+    "thesis": "Et samlet gennemsnit kan pege modsat af hver gruppe, det er bygget af - ikke en regnefejl, men en fælde i enhver sammenligning på tværs af skæve grupper.",
+    "body": [
+      "To hospitaler behandler nyresten. Hospital A har den højeste samlede succesrate. Men opdel patienterne i lette og svære tilfælde, og hospital B er faktisk bedre i begge kategorier hver for sig - en effekt opkaldt efter statistikeren Edward Simpson, som optræder, når en sammenligning slår grupper af forskellig størrelse sammen til ét tal.",
+      "B tager sig af flere svære tilfælde, som har lavere succesrate uanset dygtighed, og det trækker det samlede tal ned, selvom B er bedst i begge undergrupper. Samme mønster ses i lønstatistik og kvartalsrapporter, der sammenligner et samlet tal på tværs af segmenter med skiftende vægt - spørg altid, hvad der ligger bag tallet, før det bruges til at rangere to alternativer."
+    ],
+    "uncertainty": "Hvis nogen kan vise et samlet tal, der modsiger sine undergrupper, hvor beslutningsenheden reelt er hele populationen, ikke dens dele, er pointen forkert der. Jeg har ikke fundet et sådant eksempel, men har ikke ledt udtømmende.",
+    "topics": [
+      "statistik",
+      "matematik",
+      "beslutningstagning"
+    ]
+  },
+  "recommendations": [
+    {
+      "id": "rec-trade-world-conway1",
+      "mode": "read",
+      "kind": "bog",
+      "status": "new",
+      "title": "Trade World: The Ties That Bound Our Past and Could Unravel Our Future",
+      "creator": "Ed Conway",
+      "provider": "WH Allen / Penguin Random House",
+      "url": "https://www.penguin.co.uk/books/476890/trade-world-by-conway-ed/9780753562277",
+      "availability": "Udkom 3. september 2026 i Storbritannien som hardback, e-bog og lydbog; ingen bekræftet dansk udgave endnu.",
+      "commitment": "512 sider, ca. 10-12 timer",
+      "description": "Sky News' økonomiredaktør og forfatter til Material World bruger tre hverdagsprodukter - brød, tekstil og biler - til at spore den globale handels historie og argumentere for, at æraen med åben handel afløses af restriktioner og indgreb.",
+      "rationale": "Udkommer, samtidig med at flere af dagens historier handler om EU's handels- og reguleringslinje. Conways metode - fysiske varer og førstehåndsadgang til beslutningstagere frem for teori - passer godt til en læser med egen erfaring fra handelspolitik.",
+      "topics": [
+        "handel",
+        "geopolitik",
+        "globalisering"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://cdn.penguin.co.uk/dam-assets/books/9780753562277/9780753562277-jacket-large.jpg",
+        "credit": "Kilde: Penguin Random House",
+        "alt": "Bogforsiden til Ed Conways \"Trade World\"",
+        "sourceUrl": "https://www.penguin.co.uk/books/476890/trade-world-by-conway-ed/9780753562277"
+      }
+    },
+    {
+      "id": "rec-topdirektoerne-dr1",
+      "mode": "watch",
+      "kind": "dokumentarserie",
+      "status": "available",
+      "title": "Topdirektørerne: Sæson 3",
+      "provider": "DR1 / DRTV",
+      "url": "https://www.dr.dk/drtv/serie/topdirektoererne_444177",
+      "availability": "Gratis med DR-login på DRTV, tilgængelig til november 2030.",
+      "commitment": "3 afsnit à ca. 28 minutter",
+      "description": "DR følger tre danske virksomhedsledere - Grundfos' Poul Due Jensen, Logitrans' Gitte Kirkegaard og MyDefences Dan Hermansen - gennem amerikanske toldmure, et cyberangreb og jagten på nye eksportkunder.",
+      "rationale": "Et konkret, kamera-i-rummet blik på præcis det pres, dagens politiske handelshistorier beskriver ovenfra - relevant for en læser, der selv rådgiver eksportvirksomheder om samme problemstillinger.",
+      "topics": [
+        "dansk erhverv",
+        "eksport",
+        "told"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-munich-secreport1",
+      "mode": "read",
+      "kind": "rapport",
+      "status": "new",
+      "title": "Munich Security Report 2026 – Global Economy: Terms of Trade",
+      "provider": "Munich Security Conference",
+      "url": "https://securityconference.org/en/publications/munich-security-report/2026/global-economy/",
+      "availability": "Gratis online, ingen betalingsmur.",
+      "commitment": "Ca. 25 minutter",
+      "description": "Kapitel af den årlige Münchner sikkerhedsrapport, der analyserer, hvordan våbengjorte handelsværktøjer, toldmure og eksportkontrol omformer den internationale økonomiske orden.",
+      "rationale": "Det sted, hvor europæiske beslutningstagere selv kalibrerer deres læsning af amerikansk handelspolitik - mere nyttigt end sekundær kommentar for en læser, der rådgiver om samme risiko.",
+      "topics": [
+        "geopolitik",
+        "handel",
+        "sikkerhed"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-louisiana-varo1",
+      "mode": "experience",
+      "kind": "udstilling",
+      "status": "upcoming",
+      "title": "Remedios Varo: Painting Magic",
+      "provider": "Louisiana Museum of Modern Art",
+      "url": "https://louisiana.dk/en/exhibition/remedios-varo/",
+      "availability": "Åbner 18. september 2026, vises til 10. januar 2027. Almindelig Louisiana-billet.",
+      "commitment": "Ca. 1,5-2 timer på stedet",
+      "description": "Første store nordiske udstilling med den spansk-mexicanske surrealist Remedios Varo (1908-1963) - omkring 70 malerier, tegninger og fotografier fra store private samlinger og museer.",
+      "rationale": "Det bevidst udenforstående valg: intet med handel, erhverv eller AI at gøre - en sjælden lejlighed til at se en stadig underkendt surrealist, 30 minutter fra København. Åbner om to uger, så den kan lægges i kalenderen nu.",
+      "topics": [
+        "kunst",
+        "udstilling",
+        "surrealisme"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {
+    "sourceCoverage": 96,
+    "freshness": 88,
+    "novelty": 82,
+    "perspectiveBalance": 85,
+    "render": 100
+  }
+}
