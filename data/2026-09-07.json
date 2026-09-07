@@ -1,0 +1,839 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-09-07",
+  "date": "2026-09-07",
+  "generatedAt": "2026-09-07T04:31:08Z",
+  "readingMinutes": 12,
+  "title": "Thomas' Nyheder",
+  "dek": "Historisk delstatsvalg i Tyskland, amerikansk-iransk optrapning i Hormuzstrædet og en europæisk raket i kredsløb — plus dronningens indlæggelse, en dansk pensionschef efter 23 år, og hvem der egentlig gamer sine egne mål.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-sachsen-anhalt-afd-2026-09-07",
+      "eventKey": "sachsen-anhalt-election-2026",
+      "materialFacts": [
+        "AfD fik 43,8% og 39 mandater, en fremgang på 23 procentpoint siden 2021",
+        "AfD manglede 3 mandater i absolut flertal",
+        "CDU kollapsede til 17,2% uden et eneste direkte mandat",
+        "Første gang siden 2. verdenskrig et parti klassificeret som højreekstremt kommer så tæt på delstatsmagt"
+      ],
+      "section": "Udland",
+      "headline": "AfD misser absolut flertal i en ellers historisk sejr i tysk delstatsvalg",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/afd-misser-absolut-flertal-i-en-ellers-historisk-sejr-i-tysk-delstatsvalg",
+      "subheadline": "Partiet fik 43,8 procent af stemmerne og sit bedste delstatsresultat nogensinde, men mangler tre mandater i et absolut flertal",
+      "body": [
+        "Alternative für Deutschland (AfD) fik 43,8 procent af stemmerne ved søndagens delstatsvalg i Sachsen-Anhalt og vandt 39 mandater — en fremgang på 23 procentpoint siden 2021 og partiets bedste resultat nogensinde i en tysk delstat. Det er første gang siden Anden Verdenskrig, at et parti klassificeret som højreekstremt kommer så tæt på reel delstatsmagt i Tyskland.",
+        "AfD mangler dog tre mandater i et absolut flertal og kan derfor ikke regere alene. CDU kollapsede til 17,2 procent og vandt ikke et eneste direkte mandat; den siddende ministerpræsident tabte sin egen valgkreds."
+      ],
+      "whyItMatters": "De øvrige partier i landdagen afviser indtil videre en koalition med AfD, hvilket gør regeringsdannelsen i Sachsen-Anhalt uafklaret. Resultatet er et pejlemærke for, hvor tæt et parti de øvrige tyske partier officielt friholder sig fra, nu er på at kunne besætte en delstatsregering.",
+      "analysis": "At AfD trods fremgangen ikke opnåede absolut flertal, betyder, at 'brandmuren' mod partiet formelt holder — men kun fordi de øvrige partier kan finde sammen om et alternativ. Lykkes det ikke, står Sachsen-Anhalt uden en stabil regering, hvilket i sig selv styrker AfD's fortælling om et politisk system, der ikke leverer.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/1yupp34b/20260906-211720-1.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Valgplakater og optælling fra delstatsvalget i Sachsen-Anhalt, september 2026",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/afd-misser-absolut-flertal-i-en-ellers-historisk-sejr-i-tysk-delstatsvalg"
+      },
+      "topics": [
+        "politik",
+        "Tyskland",
+        "EU-medlemsland",
+        "højrepopulisme"
+      ],
+      "entities": [
+        "AfD",
+        "Ulrich Siegmund",
+        "CDU",
+        "Sachsen-Anhalt",
+        "Tyskland"
+      ],
+      "isLead": true,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 90,
+        "decisionValue": 50,
+        "novelty": 80,
+        "sourceQuality": 85,
+        "personalRelevance": 20,
+        "contrast": 85
+      },
+      "claims": [
+        {
+          "text": "AfD fik 43,8% af stemmerne og 39 mandater i delstatsvalget i Sachsen-Anhalt, en fremgang på 23 procentpoint siden 2021, men manglede 3 mandater i absolut flertal.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/afd-misser-absolut-flertal-i-en-ellers-historisk-sejr-i-tysk-delstatsvalg"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Det er første gang siden 2. verdenskrig, at et parti klassificeret som højreekstremt står med mulighed for at få regeringsmagten i en tysk delstat.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/afd-misser-absolut-flertal-i-en-ellers-historisk-sejr-i-tysk-delstatsvalg"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "AfD misser absolut flertal i en ellers historisk sejr i tysk delstatsvalg",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/afd-misser-absolut-flertal-i-en-ellers-historisk-sejr-i-tysk-delstatsvalg",
+          "publishedAt": "2026-09-07T03:00:44Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-us-iran-hormuz-2026-09-07",
+      "eventKey": "us-iran-hormuz-escalation-2026",
+      "materialFacts": [
+        "USA angreb tre iranske olietankere nær Kharg Island 5. september",
+        "Mindst én tanker sat varigt ud af drift",
+        "Irans Revolutionsgarde svarede med angreb på seks skibe",
+        "60-dages våbenhvile udløb måneden før"
+      ],
+      "section": "Udland",
+      "headline": "USA har angrebet tre iranske olieskibe",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/seneste/usa-har-angrebet-tre-iranske-olieskibe",
+      "subheadline": "Angrebet nær Kharg Island er gengæld for iranske missilangreb på to amerikanske krigsskibe, og Iran svarer igen mod seks skibe i Hormuzstrædet",
+      "body": [
+        "Det amerikanske militær angreb den 5. september tre iranske olietankere nær Kharg Island som gengæld for iranske missilangreb på to amerikanske krigsskibe. Mindst én tanker blev sat varigt ud af drift; én af tankerne tilhører ifølge USA direkte Irans Revolutionsgarde, de øvrige et netværk, der finansierer garden.",
+        "Revolutionsgarden svarede igen med angreb på seks skibe: tre olietankere i Hormuzstrædet og tre fartøjer med tilknytning til USA andre steder i regionen. Det iranske statsmedie Irib meldte ingen dræbte eller sårede fra det amerikanske angreb."
+      ],
+      "whyItMatters": "Optrapningen kommer, efter en 60-dages våbenhvile udløb måneden før, og rammer et af verdens vigtigste olie-transitpunkter.",
+      "analysis": "At begge parter angriber skibe direkte uden at erklære åben krig, er et mønster, der har kendetegnet konflikten i flere år: gengældelse holdes lige under tærsklen for fuld eskalering.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/cyzpth5w/20260905-171418-7.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Militærskib i Hormuzstrædet under den amerikansk-iranske optrapning, september 2026",
+        "sourceUrl": "https://www.dr.dk/nyheder/seneste/usa-har-angrebet-tre-iranske-olieskibe"
+      },
+      "topics": [
+        "geopolitik",
+        "Mellemøsten",
+        "militær eskalering",
+        "olie/energi"
+      ],
+      "entities": [
+        "USA",
+        "Iran",
+        "Revolutionsgarden",
+        "Hormuzstrædet"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 90,
+        "decisionValue": 40,
+        "novelty": 80,
+        "sourceQuality": 75,
+        "personalRelevance": 20,
+        "contrast": 90
+      },
+      "claims": [
+        {
+          "text": "USA's militær angreb den 5. september tre iranske olietankere nær Kharg Island som gengæld for iranske missilangreb på to amerikanske krigsskibe.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/seneste/usa-har-angrebet-tre-iranske-olieskibe"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Irans revolutionsgarde svarede med angreb på seks skibe: tre olietankere i Hormuzstrædet og tre USA-forbundne fartøjer andetsteds i regionen.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/seneste/iran-melder-om-angreb-paa-seks-skibe-efter-amerikanske-angreb"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "USA har angrebet tre iranske olieskibe",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/seneste/usa-har-angrebet-tre-iranske-olieskibe",
+          "publishedAt": "2026-09-05T13:53:01Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Iran melder om angreb på seks skibe efter amerikanske angreb",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/seneste/iran-melder-om-angreb-paa-seks-skibe-efter-amerikanske-angreb",
+          "publishedAt": "2026-09-05T22:57:02Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-isar-aerospace-orbit-2026-09-07",
+      "eventKey": "isar-aerospace-first-we-orbit-2026",
+      "materialFacts": [
+        "Spectrum 2 nåede kredsløb 5. september fra Andøya",
+        "Første privatudviklede raket fra vesteuropæisk jord i kredsløb",
+        "Medbragte fem satellitter inkl. norsk FramSat-1",
+        "Efter eksplosion i marts 2025 og fem aflyste forsøg"
+      ],
+      "section": "Videnskab",
+      "headline": "Historisk milepæl: Første raket fra Vesteuropa er nået i kredsløb",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/historisk-milepael-foerste-raket-fra-vesteuropa-er-naaet-i-kredsloeb",
+      "subheadline": "Den tyske raket Spectrum 2 fra Isar Aerospace nåede kredsløb fra Andøya i Nordnorge lørdag, efter en eksplosion og fem aflyste forsøg",
+      "body": [
+        "Raketten Spectrum 2 fra det tyske selskab Isar Aerospace nåede lørdag klokken 22.12 kredsløb syv minutter efter opsendelse fra Andøya Spaceport i Nordnorge. Det er første gang, en privatudviklet raket opsendt fra vesteuropæisk jord når kredsløb — efter en eksplosion i marts 2025 og fem aflyste forsøg.",
+        "Raketten medbragte fem små satellitter, heriblandt det norske FramSat-1. Isar Aerospace skrev: 'We are in orbit! And we have just written European history.' Norges statsminister Jonas Gahr Støre kaldte det 'et gennembrud for Norge som rumfartsnation.'"
+      ],
+      "whyItMatters": "Milepælen styrker Europas uafhængige adgang til rummet og mindsker afhængigheden af SpaceX og ArianeGroup, som hidtil har haft en de facto monopolstilling.",
+      "analysis": "At det lykkedes på andet forsøg, efter en eksplosion og fem udskudte datoer, viser, hvor svært det er at bygge en raketindustri fra bunden.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/xysft31q/20260121-124424-1.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Historisk milepæl: Første raket fra Vesteuropa er nået i kredsløb",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/historisk-milepael-foerste-raket-fra-vesteuropa-er-naaet-i-kredsloeb"
+      },
+      "topics": [
+        "rumfart",
+        "teknologi",
+        "Norge",
+        "europæisk industripolitik"
+      ],
+      "entities": [
+        "Isar Aerospace",
+        "Spectrum 2",
+        "Andøya Space",
+        "Jonas Gahr Støre"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 65,
+        "decisionValue": 30,
+        "novelty": 90,
+        "sourceQuality": 80,
+        "personalRelevance": 15,
+        "contrast": 90
+      },
+      "claims": [
+        {
+          "text": "Raketten Spectrum 2 fra Isar Aerospace nåede kredsløb syv minutter efter opsendelse fra Andøya Spaceport i Nordnorge den 5. september.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/historisk-milepael-foerste-raket-fra-vesteuropa-er-naaet-i-kredsloeb",
+            "https://isaraerospace.com/mission-updates-overview"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Historisk milepæl: Første raket fra Vesteuropa er nået i kredsløb",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/historisk-milepael-foerste-raket-fra-vesteuropa-er-naaet-i-kredsloeb",
+          "publishedAt": "2026-09-05T21:54:17Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Mission Updates Overview",
+          "publisher": "Isar Aerospace",
+          "url": "https://isaraerospace.com/mission-updates-overview",
+          "publishedAt": "2026-09-05T09:09:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-dronning-margrethe-2026-09-07",
+      "eventKey": "dronning-margrethe-hospitalized-blodprop",
+      "materialFacts": [
+        "Ny blodansamling i hoftepartiet og mild dehydrering",
+        "Deltager ikke i kong Haralds begravelse i Oslo",
+        "Tilsvarende blodansamling i maj 2026"
+      ],
+      "section": "Indland",
+      "headline": "Dronning Margrethe indlagt på Rigshospitalet",
+      "primarySourceUrl": "https://nyheder.tv2.dk/samfund/2026-09-06-dronning-margrethe-indlagt-paa-rigshospitalet",
+      "subheadline": "Lægerne har konstateret en ny blodansamling i hoftepartiet samt mild dehydrering; dronningen ventes indlagt den kommende uge",
+      "body": [
+        "Dronning Margrethe er indlagt på Rigshospitalet, efter at lægerne har konstateret en ny blodansamling i hoftepartiet samt mild dehydrering. Hun ventes indlagt til observation og behandling i den kommende uge.",
+        "Det betyder, at dronningen ikke deltager i kong Haralds begravelse i Oslo på onsdag. Danmark repræsenteres i stedet af kong Frederik, dronning Mary, kronprins Christian og prinsesse Benedikte. Dronning Margrethe havde en tilsvarende blodansamling i hoften i maj 2026."
+      ],
+      "whyItMatters": "Indlæggelsen kommer, mens kongehuset er i internationalt fokus omkring en europæisk kongelig begravelse, og understreger, hvor skrøbeligt fremmødet kan være for en 86-årig med gentagne blodansamlinger.",
+      "analysis": "At dronningen i maj havde en lignende blodansamling og nu igen indlægges, peger på et tilbagevendende helbredsproblem snarere end en enkeltstående hændelse.",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/9/2/9/9297df4e-9271-41bb-b218-2210a02a4bef?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCw0NSwxNzA2LDk2MA&s=20dbbd898c53b9135ee219325b028817",
+        "credit": "Kilde: TV 2",
+        "alt": "Dronning Margrethe, som er indlagt på Rigshospitalet efter en ny blodansamling, september 2026",
+        "sourceUrl": "https://nyheder.tv2.dk/samfund/2026-09-06-dronning-margrethe-indlagt-paa-rigshospitalet"
+      },
+      "topics": [
+        "kongehus",
+        "sundhed"
+      ],
+      "entities": [
+        "Dronning Margrethe",
+        "Rigshospitalet",
+        "Kong Frederik",
+        "Dronning Mary",
+        "Kronprins Christian",
+        "Prinsesse Benedikte",
+        "Kong Harald"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 85,
+        "decisionValue": 20,
+        "novelty": 65,
+        "sourceQuality": 90,
+        "personalRelevance": 15,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Dronning Margrethe er indlagt på Rigshospitalet med en ny blodansamling i hoftepartiet samt mild dehydrering og ventes indlagt den kommende uge.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/samfund/2026-09-06-dronning-margrethe-indlagt-paa-rigshospitalet",
+            "https://www.dr.dk/nyheder/indland/dronning-margrethe-indlagt"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Hun deltager derfor ikke i kong Haralds begravelse i Oslo på onsdag; Kong Frederik, Dronning Mary, Kronprins Christian og Prinsesse Benedikte repræsenterer i stedet Danmark.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/dronning-margrethe-indlagt"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Dronning Margrethe indlagt på Rigshospitalet",
+          "publisher": "TV 2",
+          "url": "https://nyheder.tv2.dk/samfund/2026-09-06-dronning-margrethe-indlagt-paa-rigshospitalet",
+          "publishedAt": "2026-09-06T15:55:00Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Dronning Margrethe indlagt",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/dronning-margrethe-indlagt",
+          "publishedAt": "2026-09-06T15:55:53Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-nuuk-eu-groenland-2026-09-07",
+      "eventKey": "groenland-eu-partnerskab-nuuk-besoeg",
+      "materialFacts": [
+        "Frederiksen og von der Leyen ankommet til Nuuk",
+        "To-dages besøg for at styrke EU-Grønland-forholdet",
+        "Fælles erklæring om styrket partnerskab underskrives dagen efter ankomsten"
+      ],
+      "section": "Udland",
+      "headline": "Mette Frederiksen og Ursula von der Leyen er ankommet til Nuuk",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/groenland/mette-frederiksen-og-ursula-von-der-leyen-er-ankommet-til-nuuk",
+      "subheadline": "Det to-dages besøg skal styrke forholdet mellem EU og Grønland med en sejltur til indlandsisen og en fælles erklæring om partnerskabet",
+      "body": [
+        "Statsminister Mette Frederiksen er ankommet til Nuuk, hvor hun blev budt velkommen af Grønlands formand for Naalakkersuisut, Jens-Frederik Nielsen. Kort efter landede EU-Kommissionens formand Ursula von der Leyen samme sted. Besøget skal styrke forholdet mellem EU og Grønland.",
+        "Senere i dag skal lederne på en sejltur til indlandsisen, og en fælles erklæring om et styrket partnerskab underskrives dagen efter. Ifølge DR kan en aftale give et økonomisk rygstød til projekter i Grønland, blandt andet forbedret satellitforbindelse."
+      ],
+      "whyItMatters": "Besøget kommer, mens Grønlands strategiske placering og digitale infrastruktur tiltrækker stigende international interesse.",
+      "analysis": "At von der Leyen selv rejser til Nuuk, og ikke blot sender en kommissær, signalerer, at EU nu behandler Grønland som et selvstændigt geopolitisk tyngdepunkt snarere end et dansk anliggende alene.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/fzyarlyt/20260906-152046-l.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Mette Frederiksen og Ursula von der Leyen ved ankomsten til Nuuk, september 2026",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/groenland/mette-frederiksen-og-ursula-von-der-leyen-er-ankommet-til-nuuk"
+      },
+      "topics": [
+        "udenrigspolitik",
+        "Grønland",
+        "EU"
+      ],
+      "entities": [
+        "Mette Frederiksen",
+        "Ursula von der Leyen",
+        "Jens-Frederik Nielsen",
+        "Nuuk",
+        "EU",
+        "Grønland"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 75,
+        "decisionValue": 15,
+        "novelty": 60,
+        "sourceQuality": 85,
+        "personalRelevance": 25,
+        "contrast": 50
+      },
+      "claims": [
+        {
+          "text": "Mette Frederiksen og Ursula von der Leyen ankom begge til Nuuk for et to-dages besøg for at styrke forholdet mellem EU og Grønland.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/groenland/mette-frederiksen-og-ursula-von-der-leyen-er-ankommet-til-nuuk"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "En aftale mellem EU og Grønland kan give et økonomisk rygstød til projekter i Grønland, blandt andet et projekt for forbedret satellitforbindelse.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/groenland/mette-frederiksen-og-ursula-von-der-leyen-er-ankommet-til-nuuk"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Mette Frederiksen og Ursula von der Leyen er ankommet til Nuuk",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/groenland/mette-frederiksen-og-ursula-von-der-leyen-er-ankommet-til-nuuk",
+          "publishedAt": "2026-09-06T13:53:41Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-dk-datacentre-2026-09-07",
+      "eventKey": "dk-29-new-datacenters",
+      "materialFacts": [
+        "29 nye datacenterprojekter på vej mod Danmark",
+        "Microsoft-anlæg planlagt i Varde Kommune",
+        "Datacentre brugte ca. en tredjedel af eltilslutningskøen i 2025",
+        "Hastelovgivning vil nedprioritere datacentre i strømforsyningen"
+      ],
+      "section": "Erhverv",
+      "headline": "Mens protesterne vokser, er 29 nye datacentre på vej mod Danmark: Her skal de ligge",
+      "primarySourceUrl": "https://ing.dk/artikel/mens-protesterne-vokser-er-29-nye-datacentre-paa-vej-mod-danmark-her-skal-de-ligge",
+      "subheadline": "Datacentre brugte næsten en tredjedel af køen til nye eltilslutninger i 2025, og regeringen har fremsat hastelovgivning, der vil nedprioritere dem i strømforsyningen",
+      "body": [
+        "29 nye datacenterprojekter er på vej mod Danmark, viser en gennemgang, på trods af regeringens forsøg på at bremse udviklingen. Et navngivet Microsoft-anlæg er planlagt i Varde Kommune nær landsbyen Tinghøj.",
+        "Datacentre brugte næsten en tredjedel af køen til nye eltilslutninger i 2025. Regeringen har fremsat hastelovgivning, der vil rangere nye datacentre lavest i prioritet for strømforsyning. Cheføkonom Finn Lauritzen siger, det umiddelbart ser sort ud for branchen, sådan som lovforslaget ser ud nu."
+      ],
+      "whyItMatters": "Konflikten sætter Danmarks AI- og datacenter-ambitioner op mod den samme elnet-kapacitet, som resten af erhvervslivet og den grønne omstilling konkurrerer om.",
+      "analysis": "At så mange projekter fortsætter, mens loven strammes, tyder på, at investorerne enten regner med at nå i drift før reglerne slår igennem, eller vurderer, at efterspørgslen er stærk nok til at bære risikoen.",
+      "image": {
+        "url": "https://ing.dk/sites/mi/files/styles/open_graph_image_16_9/public/2026-06/dji_20260319103328_0009_d.jpg?itok=6lX8IIF9",
+        "credit": "Kilde: Ingeniøren",
+        "alt": "Luftfoto af en landsby i Varde Kommune, nær hvor et nyt datacenter er planlagt",
+        "sourceUrl": "https://ing.dk/artikel/mens-protesterne-vokser-er-29-nye-datacentre-paa-vej-mod-danmark-her-skal-de-ligge"
+      },
+      "topics": [
+        "AI-infrastruktur",
+        "energi",
+        "dansk politik",
+        "datacentre"
+      ],
+      "entities": [
+        "Microsoft",
+        "Varde Kommune",
+        "Tinghøj",
+        "Erhvervslivets Tænketank",
+        "Finn Lauritzen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 70,
+        "decisionValue": 50,
+        "novelty": 60,
+        "sourceQuality": 60,
+        "personalRelevance": 80,
+        "contrast": 60
+      },
+      "claims": [
+        {
+          "text": "29 nye datacenterprojekter er på vej mod Danmark trods regeringens forsøg på at bremse udviklingen; et Microsoft-anlæg er planlagt i Varde Kommune nær Tinghøj.",
+          "sourceUrls": [
+            "https://ing.dk/artikel/mens-protesterne-vokser-er-29-nye-datacentre-paa-vej-mod-danmark-her-skal-de-ligge"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Datacentre brugte næsten en tredjedel af køen til nye eltilslutninger i 2025, og regeringen har fremsat hastelovgivning, der vil rangere nye datacentre lavest i prioritet for strømforsyning.",
+          "sourceUrls": [
+            "https://ing.dk/artikel/mens-protesterne-vokser-er-29-nye-datacentre-paa-vej-mod-danmark-her-skal-de-ligge"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Mens protesterne vokser, er 29 nye datacentre på vej mod Danmark: Her skal de ligge",
+          "publisher": "Ingeniøren",
+          "url": "https://ing.dk/artikel/mens-protesterne-vokser-er-29-nye-datacentre-paa-vej-mod-danmark-her-skal-de-ligge",
+          "publishedAt": "2026-09-07T03:00:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-pensiondanmark-stampe-2026-09-07",
+      "eventKey": "pensiondanmark-stampe-departure-2026-09",
+      "materialFacts": [
+        "Claus Stampe fratræder efter 23 år som investeringsdirektør",
+        "Ingen efterfølger udpeget endnu",
+        "Fratræder ved udgangen af januar 2027"
+      ],
+      "section": "Erhverv",
+      "headline": "Investeringsdirektør i Pensiondanmark stopper efter 23 år",
+      "primarySourceUrl": "https://www.altinget.dk/erhverv/navnenyt/investeringsdirektoer-i-pensiondanmark-stopper-efter-23-aar",
+      "subheadline": "Claus Stampe fratræder uden en udpeget efterfølger, efter at have leveret et af branchens bedste og mest robuste afkast",
+      "body": [
+        "Claus Stampe fratræder som investeringsdirektør i Pensiondanmark efter 23 år i rollen. Han begrunder sin exit med et ønske om mere tid til interesser uden for arbejdslivet. Han fratræder ved udgangen af januar 2027.",
+        "Under Stampe har Pensiondanmark leveret et af branchens bedste og mest robuste afkast. Ingen efterfølger er udpeget endnu, hvilket efterlader en periode uden en fast investeringschef i en af landets største pensionskasser."
+      ],
+      "whyItMatters": "Skiftet er en af de mest markante lederrokader i dansk pensionsbranche i år, fordi Stampes resultater har gjort ham til en reference for, hvordan pensionskapital forvaltes.",
+      "analysis": "At en investeringschef med så lang en periode stopper uden en klar efterfølger på plads, er usædvanligt for en sektor, der normalt planlægger lederskifter i god tid.",
+      "image": {
+        "url": "https://legacy.altinget.dk/images/article/305958/160275.jpg",
+        "credit": "Kilde: Altinget",
+        "alt": "Illustrationsbillede til Altingets navnenyt-dækning af lederskifte i pensionsbranchen",
+        "sourceUrl": "https://www.altinget.dk/erhverv/navnenyt/investeringsdirektoer-i-pensiondanmark-stopper-efter-23-aar"
+      },
+      "topics": [
+        "pensionskapital",
+        "appointments",
+        "institutionelle investorer"
+      ],
+      "entities": [
+        "Claus Stampe",
+        "Pensiondanmark"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 60,
+        "decisionValue": 50,
+        "novelty": 60,
+        "sourceQuality": 70,
+        "personalRelevance": 80,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Claus Stampe fratræder som investeringsdirektør i Pensiondanmark efter 23 år; ingen efterfølger er udpeget, og han fratræder ved udgangen af januar 2027.",
+          "sourceUrls": [
+            "https://www.altinget.dk/erhverv/navnenyt/investeringsdirektoer-i-pensiondanmark-stopper-efter-23-aar"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Investeringsdirektør i Pensiondanmark stopper efter 23 år",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/erhverv/navnenyt/investeringsdirektoer-i-pensiondanmark-stopper-efter-23-aar",
+          "publishedAt": "2026-09-03T14:10:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-aldersgraense-sociale-medier-2026-09-07",
+      "eventKey": "lovforslag-aldersgraense-sociale-medier-15-aar",
+      "materialFacts": [
+        "Lovforslag om 15-års aldersgrænse sendt i høring",
+        "Ikrafttræden planlagt 1. juli 2027",
+        "Seks partier bakker op",
+        "Konservative rejser fortsat spørgsmål om dispensation for 13-15-årige"
+      ],
+      "section": "Indland",
+      "headline": "Nu kommer aldersgrænse: Regering og aftalepartier sætter hårdt ind mod sociale medier",
+      "primarySourceUrl": "https://via.ritzau.dk/pressemeddelelse/15141645/nu-kommer-aldersgraense-regering-og-aftalepartier-saetter-hardt-ind-mod-sociale-medier?lang=da",
+      "subheadline": "Seks partier bakker op om en 15-års aldersgrænse, med planlagt ikrafttræden 1. juli 2027",
+      "body": [
+        "Regeringen har sendt et lovforslag om en 15-års aldersgrænse for brug af sociale medier i høring. Loven ventes fremsat i begyndelsen af 2027 med planlagt ikrafttræden 1. juli 2027. Seks partier bakker op: firkløverregeringen (S, SF, M, RV) samt Venstre og Det Konservative Folkeparti.",
+        "Aftalen er del af en politisk aftale fra november 2025 om digital børnebeskyttelse med 160 mio. kr. afsat 2026-2029. Platforme anslås at tjene 327 mio. kr. årligt på annoncering til danske børn på 8-17 år."
+      ],
+      "whyItMatters": "Uden en fast dispensation bliver den danske model en af de strengeste i EU og vil ændre adgangsvilkårene for hundredtusindvis af danske børn og unge.",
+      "analysis": "At seks partier bakker op, gør det sandsynligt, at loven vedtages — men Konservatives åbne spørgsmål om 13-15-åriges adgang viser, at opbakningen ikke nødvendigvis holder i detaljen.",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Christina_Egelund_%2854985656778%29.jpg/1920px-Christina_Egelund_%2854985656778%29.jpg",
+        "credit": "Foto: Christian Ursilva / Wikimedia Commons (CC BY-SA 4.0)",
+        "alt": "Digitaliseringsminister Christina Egelund, der står bag lovforslaget om en 15-års aldersgrænse for sociale medier",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Christina_Egelund_(54985656778).jpg"
+      },
+      "topics": [
+        "indenrigspolitik",
+        "digitalpolitik",
+        "børn og unge"
+      ],
+      "entities": [
+        "Christina Egelund",
+        "Forsknings- Uddannelses- og Digitaliseringsministeriet",
+        "Socialdemokratiet",
+        "SF",
+        "Moderaterne",
+        "Radikale Venstre",
+        "Venstre",
+        "Det Konservative Folkeparti"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 65,
+        "decisionValue": 40,
+        "novelty": 60,
+        "sourceQuality": 80,
+        "personalRelevance": 20,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "Regeringen har sendt et lovforslag i høring om en 15-års aldersgrænse for brug af sociale medier, ventet fremsat i begyndelsen af 2027 med planlagt ikrafttræden 1. juli 2027.",
+          "sourceUrls": [
+            "https://via.ritzau.dk/pressemeddelelse/15141645/nu-kommer-aldersgraense-regering-og-aftalepartier-saetter-hardt-ind-mod-sociale-medier?lang=da"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Seks partier bakker op: firkløverregeringen (S, SF, M, RV) samt Venstre og Det Konservative Folkeparti.",
+          "sourceUrls": [
+            "https://via.ritzau.dk/pressemeddelelse/15141645/nu-kommer-aldersgraense-regering-og-aftalepartier-saetter-hardt-ind-mod-sociale-medier?lang=da"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Konservative peger fortsat på 13-15-åriges adgang med forældresamtykke som en udfordring, de fortsat ønsker en indsats overfor.",
+          "sourceUrls": [
+            "https://via.ritzau.dk/pressemeddelelse/15141645/nu-kommer-aldersgraense-regering-og-aftalepartier-saetter-hardt-ind-mod-sociale-medier?lang=da"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Nu kommer aldersgrænse: Regering og aftalepartier sætter hårdt ind mod sociale medier",
+          "publisher": "Forsknings-, Uddannelses- og Digitaliseringsministeriet",
+          "url": "https://via.ritzau.dk/pressemeddelelse/15141645/nu-kommer-aldersgraense-regering-og-aftalepartier-saetter-hardt-ind-mod-sociale-medier?lang=da",
+          "publishedAt": "2026-09-07T04:00:00Z",
+          "kind": "primary"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "Største fund af lattergas i Danmark nogensinde",
+      "headline": "Største fund af lattergas i Danmark nogensinde",
+      "summary": "Politiet har beslaglagt over 14 ton lattergas i forbindelse med DR-podcasten 'Lyssky'; tre mænd med tilknytning til bandemiljøet er varetægtsfængslet.",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-09-06T08:27:00Z",
+      "url": "https://www.dr.dk/nyheder/indland/reels/stoerste-fund-af-lattergas-i-danmark-nogensinde"
+    },
+    {
+      "text": "Spøgelsesbilist forårsager flere uheld på Amagermotorvejen",
+      "headline": "Spøgelsesbilist forårsager flere uheld på Amagermotorvejen",
+      "summary": "En ældre, forvirret mand forårsagede flere sammenstød; ingen kom til skade, og manden blev standset af politiet.",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-09-06T19:56:51Z",
+      "url": "https://www.dr.dk/nyheder/seneste/spoegelsesbilist-foraarsager-flere-uheld-paa-amagermotorvejen"
+    },
+    {
+      "text": "Passagerer evakueret fra tog på Fyn efter røgudvikling",
+      "headline": "Passagerer evakueret fra tog på Fyn efter røgudvikling",
+      "summary": "Omkring 200 passagerer måtte forlade et Kbh.-Odense-tog ved Langeskov Station; toget blev efterfølgende aflyst.",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-09-06T11:34:34Z",
+      "url": "https://www.dr.dk/nyheder/seneste/passagerer-evakueret-fra-tog-paa-fyn-efter-roegudvikling"
+    },
+    {
+      "text": "Nets Danmark får finansveteran som ny bestyrelsesformand",
+      "headline": "Nets Danmark får finansveteran som ny bestyrelsesformand",
+      "summary": "Gert R. Jonassen, tidligere adm. direktør i Arbejdernes Landsbank i 19 år, bliver ny formand; bestyrelsen udvides fra fem til otte medlemmer.",
+      "publisher": "Altinget",
+      "section": "Erhverv",
+      "publishedAt": "2026-09-02T12:30:00Z",
+      "url": "https://www.altinget.dk/erhverv/jobskifte/nets-danmark-faar-finansveteran-som-ny-bestyrelsesformand"
+    },
+    {
+      "text": "Mærsk henter ny personaledirektør",
+      "headline": "Mærsk henter ny personaledirektør",
+      "summary": "Roberta Duarte, der tidligere har arbejdet ti år hos Mærsk, vender tilbage som Chief People Officer og indtræder i topledelsen.",
+      "publisher": "Altinget",
+      "section": "Erhverv",
+      "publishedAt": "2026-09-04T09:13:00Z",
+      "url": "https://www.altinget.dk/erhverv/navnenyt/maersk-henter-ny-personaledirektoer"
+    },
+    {
+      "text": "Gasprisen har nået sit højeste siden starten af 2023 - og det kan også ramme dig, der ikke har gas",
+      "headline": "Gasprisen har nået sit højeste siden starten af 2023 - og det kan også ramme dig, der ikke har gas",
+      "summary": "Ventet prisstigning på 2.000-3.000 kr. årligt for gasopvarmede husstande, hvis vinteren ligner sidste års.",
+      "publisher": "DR",
+      "section": "Penge",
+      "publishedAt": "2026-09-04T12:47:00Z",
+      "url": "https://www.dr.dk/nyheder/penge/gasprisen-har-naaet-sit-hoejeste-siden-starten-af-2023-og-det-kan-ogsaa-ramme-dig-der-ikke-har"
+    },
+    {
+      "text": "Tavsheden sænkede sig over Bruxelles, da Island sagde nej til EU",
+      "headline": "Tavsheden sænkede sig over Bruxelles, da Island sagde nej til EU",
+      "summary": "Islændingene stemte i slutningen af august nej til at genoptage EU-medlemskabsforhandlinger; Islands naturressourcer var det centrale stridspunkt.",
+      "publisher": "Altinget",
+      "section": "EU",
+      "publishedAt": "2026-09-04T14:37:00Z",
+      "url": "https://www.altinget.dk/eu/artikel/tavsheden-saenkede-sig-over-bruxelles-da-island-sagde-nej-til-eu"
+    },
+    {
+      "text": "USA og Rusland taler om brugbart og produktivt møde i Moskva",
+      "headline": "USA og Rusland taler om brugbart og produktivt møde i Moskva",
+      "summary": "Kushner og Witkoff mødtes med Putin i tre timer; Putin beordrede en tre-dages pause i angreb på Kyiv, og udsendingene rejste videre til Ukraine.",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-09-05T22:32:29Z",
+      "url": "https://www.dr.dk/nyheder/udland/efter-tre-timer-med-putin-amerikanerne-kom-med-ideer-til-en-mulig-aftale"
+    },
+    {
+      "text": "Hackerangreb får Berlin til at iværksætte kriseberedskab",
+      "headline": "Hackerangreb får Berlin til at iværksætte kriseberedskab",
+      "summary": "5,79 terabyte data blev stjålet fra Berlins kommunale myndigheder, angiveligt af hackergruppen Rhysida.",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-09-05T17:45:45Z",
+      "url": "https://www.dr.dk/nyheder/seneste/hackerangreb-faar-berlin-til-ivaerksaette-kriseberedskab"
+    },
+    {
+      "text": "Eksperter giver bud på favoritter til VM uden Pogacar",
+      "headline": "Eksperter giver bud på favoritter til VM uden Pogacar",
+      "summary": "Pogačar er færdig for sæsonen efter et styrt i Vueltaen; Evenepoel, Ayuso og Van der Poel nævnes som topfavoritter, Pedersen og Skjelmose som danske outsidere.",
+      "publisher": "TV 2",
+      "section": "Cykling",
+      "publishedAt": "2026-09-05T06:27:00Z",
+      "url": "https://sport.tv2.dk/cykling/2026-09-05-eksperter-giver-bud-paa-favoritter-til-vm-uden-pogacar"
+    },
+    {
+      "text": "OpenAI åbner for sit nye cyber-supervåben Astra til lille udvalgt skare: Men hvor god er den egentlig?",
+      "headline": "OpenAI åbner for sit nye cyber-supervåben Astra til lille udvalgt skare: Men hvor god er den egentlig?",
+      "summary": "GPT-6 Astra scorer 100% på Exploitbench, et benchmark for at forbinde exploits til kendte sårbarheder; adgang er begrænset via 'Daybreak Blue'-programmet.",
+      "publisher": "Computerworld",
+      "section": "Teknologi",
+      "publishedAt": "2026-09-04T11:30:00Z",
+      "url": "https://www.computerworld.dk/art/296724"
+    }
+  ],
+  "column": {
+    "authoredBy": "ai",
+    "slug": "goodharts-lov",
+    "title": "Målet, der spiser sit eget formål",
+    "thesis": "Enhver metrik, der bliver stabil og synlig nok til at blive belønnet, ender med at blive optimeret på egne præmisser hurtigere, end nogen når at redesigne den.",
+    "body": [
+      "Et mål vælges, fordi det korrelerer med noget, man vil opnå. Det gøres synligt og belønnes. Og fra det øjeblik holder korrelationen op med at være gratis: dem, hvis adfærd målet skal styre, begynder at optimere målet selv. Skoler, der belønnes for testresultater, ender med at undervise til testen. Det er ikke svindel — det er rationel tilpasning til reglerne.",
+      "Det velkendte, kaldet Goodharts lov, er ikke, at det sker. Det er asymmetrien: gaming er billigt, redesign er dyrt, fordi nogen først skal indrømme, at det gamle mål har mistet sin værdi. Det giver enhver metrik en levetid, hvor institutionen opdager overgangen for sent."
+    ],
+    "uncertainty": "Det, der ville vise mig, at jeg tager fejl, er en metrik brugt som belønningsgrundlag længe uden at blive udhulet — ikke fordi den blev vogtet godt, men fordi den var svær at game uden reelt at opnå det, den måler. Jeg kender ikke et overbevisende eksempel, men har heller ikke ledt systematisk.",
+    "topics": [
+      "måling",
+      "institutioner",
+      "incitamenter"
+    ]
+  },
+  "recommendations": [
+    {
+      "id": "rec-epic-draghi-implementation-index",
+      "mode": "read",
+      "kind": "report",
+      "status": "available",
+      "title": "Draghi Observatory & Implementation Index: Only 1 in 10 Measures Implemented",
+      "creator": "European Policy Innovation Council (EPIC)",
+      "provider": "EPIC / draghiwatch.eu",
+      "url": "https://thinkepic.eu/draghi-observatory-implementation-index-only-1-in-10-measures-implemented/",
+      "availability": "Frit tilgængelig rapport og interaktiv tracker (draghiwatch.eu), ingen login krævet, opdateret til februar 2026.",
+      "commitment": "15 minutter",
+      "description": "Uafhængig gennemgang af alle 383 Draghi-anbefalinger til EU's konkurrenceevne: 11,2 procent er fuldt implementeret, 20,1 procent delvist, og 22,7 procent er slet ikke påbegyndt. Energi og digitalisering halter mest; transport og råstoffer er længst fremme.",
+      "rationale": "Giver et præcist, tal-baseret svar på et spørgsmål, han som tidligere DI-stemme jævnligt får: hvor meget af Draghi-dagsordenen er reel fremdrift, og hvor meget er retorik. Sektoropdelingen er direkte brugbar i en klientbriefing om EU's konkurrenceevne.",
+      "topics": [
+        "EU-konkurrenceevne",
+        "industripolitik",
+        "Draghi-rapporten"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://thinkepic.eu/wp-content/uploads/2026/02/35.png",
+        "credit": "Kilde: EPIC",
+        "alt": "Grafik fra EPIC's Draghi Implementation Index, der viser andelen af implementerede anbefalinger",
+        "sourceUrl": "https://thinkepic.eu/draghi-observatory-implementation-index-only-1-in-10-measures-implemented/"
+      }
+    },
+    {
+      "id": "rec-eu-us-trade-deal-explainer",
+      "mode": "read",
+      "kind": "report",
+      "status": "available",
+      "title": "The EU-US trade deal: restoring stability and predictability",
+      "creator": "European Commission (DG Trade)",
+      "provider": "European Commission",
+      "url": "https://commission.europa.eu/topics/trade/eu-us-trade-deal_en",
+      "availability": "Frit tilgængelig, ingen betalingsmur; siden sidst opdateret 27. juli 2026.",
+      "commitment": "10 minutter",
+      "description": "Kommissionens egen forklaring af EU-US handelsrammen, der har været i kraft siden 1. juli 2026: et toldloft på 15 procent på de fleste EU-varer, en frist ved udgangen af 2026 for amerikansk told på stål og aluminium, og en solnedgangsklausul til revision i 2029.",
+      "rationale": "Et præcist opslagsværk over den toldarkitektur, der nu gælder for transatlantisk handel, inklusive den nært forestående stål- og aluminiumsfrist — det niveau af detalje, han har brug for at have ret i, når han rådgiver klienter om eksponering mod USA.",
+      "topics": [
+        "EU-US handel",
+        "told",
+        "handelspolitik"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-fortune-retired-ceos-boards",
+      "mode": "read",
+      "kind": "essay",
+      "status": "available",
+      "title": "Boards are hiring retired CEOs as succession pipelines run dry",
+      "creator": "Phil Wahba",
+      "provider": "Fortune",
+      "url": "https://fortune.com/2026/08/07/retired-ceos-succession-planning/",
+      "availability": "Frit tilgængelig på fortune.com, ingen betalingsmur konstateret.",
+      "commitment": "8 minutter",
+      "description": "Fortune-analyse fra 7. august 2026: 34 procent af S&P 500-selskabernes CEO-udnævnelser i første halvår 2026 var gengangere eller tidligere topchefer, op fra 22 procent året før, med eksempler fra Cracker Barrel, Verizon og Boeing.",
+      "rationale": "Ligger lige på hans faglige felt — bestyrelsesrekruttering og executive search — med et konkret tal, han kan bruge eller udfordre over for klienter, og som rammer en svaghed i mange virksomheders interne lederpipeline.",
+      "topics": [
+        "bestyrelsesrekruttering",
+        "executive search",
+        "corporate governance"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-am-i-documentary-2026",
+      "mode": "watch",
+      "kind": "documentary",
+      "status": "available",
+      "title": "AM I?",
+      "creator": "Milo Reed",
+      "provider": "am-i.film / YouTube",
+      "url": "https://am-i.film/",
+      "availability": "Selvfinansieret film, der distribueres via YouTube-kanalen @AM_I_FILM og am-i.film; tjek kanalen for om hele filmen aktuelt er lagt op, da siden også lægger vægt på merchandise og donationer.",
+      "commitment": "60-90 minutter",
+      "description": "Selvfinansieret debutfilm, der følger AI-forskeren Cameron Berg gennem et år, hvor han undersøger, om nutidige AI-systemer allerede kan have egenskaber forbundet med bevidsthed, i samtale med filosoffer, AI-pionerer og bevidsthedsforskere.",
+      "rationale": "Rammer hans interesse for AI-etik og bevidsthedsfilosofi som et åbent, undersøgende spørgsmål frem for hype eller dommedag — gratis og kort nok til at se mellem møder, og giver et sprog til bestyrelsesdiskussioner om AI-governance.",
+      "topics": [
+        "AI-etik",
+        "bevidsthedsfilosofi",
+        "AI-governance"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://am-i.film/assets/film-poster.webp",
+        "credit": "Kilde: am-i.film",
+        "alt": "Officiel plakat for dokumentarfilmen AM I?",
+        "sourceUrl": "https://am-i.film/"
+      }
+    }
+  ],
+  "quality": {
+    "sourceCoverage": 90,
+    "freshness": 85,
+    "novelty": 80,
+    "perspectiveBalance": 75,
+    "render": 100
+  }
+}
