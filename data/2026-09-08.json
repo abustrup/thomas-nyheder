@@ -1,0 +1,750 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-09-08",
+  "date": "2026-09-08",
+  "generatedAt": "2026-09-08T04:46:32Z",
+  "readingMinutes": 10,
+  "title": "Thomas' Nyheder",
+  "dek": "Dansk Erhverv sætter tal på det indre marked, ECB nærmer sig en renteafgørelse, og EU lukker for brasiliansk kød fire måneder efter Mercosur-aftalen — plus et nyt formandskab i Dansk Design Center, opgøret efter Nordic Waste, en kystaftale efter 13 år og Vueltaens sidste uge.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "dansk-erhverv-eu-indre-marked-118-forslag",
+      "eventKey": "dansk-erhverv-eu-indre-marked-118-forslag",
+      "materialFacts": [
+        "Dansk Erhverv fremlægger 118 forslag til at fjerne barrierer i EU's indre marked",
+        "Organisationens eget skøn: op mod 95 mia. kr. i årlig dansk BNI-gevinst ved 10 procentpoints reduktion af barrierer"
+      ],
+      "section": "EU og det indre marked",
+      "headline": "Fra 27 markeder til ét – 118 forslag med et dansk potentiale på knap 95 mia. kr.",
+      "primarySourceUrl": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/september/dansk-erhverv-fra-27-markeder-til-et---118-forslag-og-et-dansk-potentiale-alene-pa-knap-95-mia.-kr",
+      "subheadline": "Dansk Erhverv sætter tal på, hvad et fuldt fungerende indre marked er værd for Danmark – og rammer det ind som geopolitik, ikke kun vækstpolitik.",
+      "body": [
+        "Dansk Erhverv har offentliggjort 118 forslag til at fjerne barrierer i EU's indre marked – overgangen \"fra 27 markeder til ét\". Egne beregninger viser, at dansk BNI kan stige op mod 95 mia. kr. årligt ved ti procentpoints barrierereduktion, svarende til ca. 11 mia. kr. per point.",
+        "Vicedirektør Jakob Ellemann-Jensen siger: \"Vores strategiske konkurrenter befinder sig ikke i Europa, men primært i USA og Kina, hvor virksomhederne kan operere med en helt anden skala.\" Det indre marked er, siger han, \"et af vores vigtigste geopolitiske aktiver\"."
+      ],
+      "whyItMatters": "For en organisation, der i årtier har talt det indre markeds sag, er de 118 forslag en konkret dagsorden at holde politikere op på – ikke endnu en programerklæring uden adresse.",
+      "analysis": "De 95 mia. kr. er Dansk Erhvervs eget skøn, ikke en myndighedsberegning. Sprogbruget – \"geopolitisk aktiv\" – tegner dog et skifte: det indre marked rammes nu ind som sikkerhedspolitik, i takt med at USA og Kina strammer egne handelsbetingelser.",
+      "counterpoint": "Erhvervsorganisationers gevinstopgørelser ved et \"fuldført\" indre marked har historisk vist sig svære at indfri, fordi barriererne – skatteret, arbejdsmarkedsregler, standarder – er sejere end de toldmure, 1993-markedet nedbrød.",
+      "image": {
+        "url": "https://www.danskerhverv.dk/contentassets/78e307ee67e748bf8c9253a1e9e83f3b/kreakom-dansk-erhverv-dobbeltmedlemskab-c3c5NDVmWDdqM1ZoYUJSQytuMCtnc25sNlFJPQ.jpg",
+        "credit": "Kilde: Dansk Erhverv",
+        "alt": "Fra 27 markeder til ét – 118 forslag med et dansk potentiale på knap 95 mia. kr.",
+        "sourceUrl": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/september/dansk-erhverv-fra-27-markeder-til-et---118-forslag-og-et-dansk-potentiale-alene-pa-knap-95-mia.-kr"
+      },
+      "topics": [
+        "eu-competitiveness",
+        "single-market",
+        "draghi-agenda",
+        "dansk-erhverv"
+      ],
+      "entities": [
+        "Dansk Erhverv",
+        "Jakob Ellemann-Jensen",
+        "Europa-Kommissionen"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 78,
+        "decisionValue": 75,
+        "novelty": 70,
+        "sourceQuality": 72,
+        "personalRelevance": 92,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Dansk Erhverv har fremlagt 118 konkrete forslag til at fjerne barrierer i EU's indre marked.",
+          "sourceUrls": [
+            "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/september/dansk-erhverv-fra-27-markeder-til-et---118-forslag-og-et-dansk-potentiale-alene-pa-knap-95-mia.-kr"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Op mod 95 mia. kr. i årlig dansk BNI-gevinst er Dansk Erhvervs eget skøn ved en 10-procentpoints reduktion af indre marked-barrierer.",
+          "sourceUrls": [
+            "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/september/dansk-erhverv-fra-27-markeder-til-et---118-forslag-og-et-dansk-potentiale-alene-pa-knap-95-mia.-kr"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Fra 27 markeder til ét – 118 forslag med et dansk potentiale på knap 95 mia. kr.",
+          "publisher": "Dansk Erhverv",
+          "url": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/september/dansk-erhverv-fra-27-markeder-til-et---118-forslag-og-et-dansk-potentiale-alene-pa-knap-95-mia.-kr",
+          "publishedAt": "2026-09-01T06:34:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "ecb-renteafgoerelse-10-september-2026",
+      "eventKey": "ecb-renteafgoerelse-10-september-2026",
+      "materialFacts": [
+        "ECB's Styrelsesråd holder rentemøde 9.-10. september 2026",
+        "Nationalbanken fulgte ECB's juni-forhøjelse for at fastholde rentespændet bag fastkurspolitikken",
+        "Gasprisen er på sit højeste niveau siden starten af 2023"
+      ],
+      "section": "Makroøkonomi",
+      "headline": "Gasprisen har nået sit højeste siden starten af 2023 - og det kan også ramme dig, der ikke har gasfyr",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/penge/gasprisen-har-naaet-sit-hoejeste-siden-starten-af-2023-og-det-kan-ogsaa-ramme-dig-der-ikke-har",
+      "subheadline": "ECB holder rentemøde 9.-10. september, mens gasprisen presser inflationsbilledet op – og Nationalbanken plejer at følge trop for at holde kronen fast.",
+      "body": [
+        "Gasprisen på Rotterdam TTF er nået sit højeste niveau siden 2023, ifølge DR drevet af usikkerhed om Mellemøsten. OK's Troels Skipper venter en merudgift på 2.000-3.000 kr./år, hvis vinteren forløber nogenlunde ligesom sidste år, men tilføjer: \"Vi er slet ikke på energikrise-niveau endnu.\"",
+        "AL Sydbanks Kim Blindbæk: \"Regningen spreder sig som ringe i vandet til resten af danskerne,\" fordi gasprisen løfter elprisen. Stigningen falder sammen med ECB's rentemøde 9.-10. september; Nationalbanken fulgte i juni ECB's forhøjelse for at holde spændet bag fastkurspolitikken."
+      ],
+      "whyItMatters": "En dyrere gaspris er en ekstra regning oven i en mulig renteforhøjelse samme uge: den rammer husholdninger via varmen og elprisen, mens finansieringsomkostninger kan stige samtidig.",
+      "analysis": "Nationalbanken reagerer formelt på kronekursen, ikke ECB direkte, men de to har fulgtes tæt nok til, at en ECB-stigning forudsiger en dansk.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/oujpen2a/317.png?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Gasprisen har nået sit højeste siden starten af 2023 - og det kan også ramme dig, der ikke har gasfyr",
+        "sourceUrl": "https://www.dr.dk/nyheder/penge/gasprisen-har-naaet-sit-hoejeste-siden-starten-af-2023-og-det-kan-ogsaa-ramme-dig-der-ikke-har"
+      },
+      "topics": [
+        "monetary-policy",
+        "ecb",
+        "danish-krone-peg",
+        "inflation"
+      ],
+      "entities": [
+        "ECB",
+        "Danmarks Nationalbank",
+        "Christine Lagarde"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 82,
+        "decisionValue": 78,
+        "novelty": 55,
+        "sourceQuality": 85,
+        "personalRelevance": 75,
+        "contrast": 30
+      },
+      "claims": [
+        {
+          "text": "ECB holdt indlånsrenten på 2,25 pct. i juli 2026 og har rentemøde 9.-10. september 2026.",
+          "sourceUrls": [
+            "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Nationalbanken hævede foliorenten til 1,85 pct. i juni 2026.",
+          "sourceUrls": [
+            "https://www.nationalbanken.dk/da/viden-og-nyheder/presse/arkiv/2026/renteforhoejelse-11-06-2026"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Gasprisen (Rotterdam TTF) er på sit højeste niveau siden starten af 2023; gaskunder kan se en merudgift på 2.000-3.000 kr./år, ifølge OK's Troels Skipper.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/gasprisen-har-naaet-sit-hoejeste-siden-starten-af-2023-og-det-kan-ogsaa-ramme-dig-der-ikke-har"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gasprisen har nået sit højeste siden starten af 2023 - og det kan også ramme dig, der ikke har gasfyr",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/penge/gasprisen-har-naaet-sit-hoejeste-siden-starten-af-2023-og-det-kan-ogsaa-ramme-dig-der-ikke-har",
+          "publishedAt": "2026-09-04T12:47:00Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Monetary policy decisions",
+          "publisher": "European Central Bank",
+          "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html",
+          "publishedAt": "2026-07-23T12:00:00Z",
+          "kind": "primary"
+        },
+        {
+          "title": "Renteforhøjelse",
+          "publisher": "Danmarks Nationalbank",
+          "url": "https://www.nationalbanken.dk/da/viden-og-nyheder/presse/arkiv/2026/renteforhoejelse-11-06-2026",
+          "publishedAt": "2026-06-11T12:00:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "eu-suspenderer-brasiliansk-koedimport-2026",
+      "eventKey": "eu-suspenderer-brasiliansk-koedimport-2026",
+      "materialFacts": [
+        "EU fjernede fra 3. september 2026 Brasilien fra listen over godkendte lande for oksekød, fjerkræ, akvakultur og honning",
+        "Årsag: manglende garanti for overholdelse af EU's regler om antimikrobielle vækstfremmere",
+        "Kommer ca. fire måneder efter EU-Mercosur-aftalens midlertidige ikrafttræden"
+      ],
+      "section": "EU-handelspolitik",
+      "headline": "Commission Implementing Regulation (EU) 2026/1189 of 4 June 2026",
+      "primarySourceUrl": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R1189",
+      "subheadline": "EU-Kommissionen har lukket for brasiliansk oksekød, fjerkræ og honning – fire måneder efter at EU-Mercosur-aftalen begyndte at gælde midlertidigt.",
+      "body": [
+        "EU's forordning 2026/1189 fjernede fra 3. september Brasilien fra listen over godkendte lande for oksekød, fjerkræ, akvakultur og honning. Begrundelse: Brasilien har ikke garanteret overholdelse af EU's regler om antimikrobielle stoffer forbeholdt medicin eller forbudt som vækstfremmere.",
+        "Suspensionen er reversibel, uden tidsfrist. Den kommer fire måneder efter, at EU-Mercosurs handelsaftale trådte i midlertidig anvendelse 1. maj 2026 – en aftale, der ellers skulle lette handlen."
+      ],
+      "whyItMatters": "For en handelspolitik, der netop har åbnet til Sydamerika via Mercosur, er en samtidig lukning for en stor eksportvare et eksempel på skrøbelig markedsadgang, når den hviler på regelefterlevelse, ikke en éngangsaftale.",
+      "analysis": "EU's fødevareregler er løbende kontrol, Mercosur-aftalen ikke ophæver. For virksomheder, der har set frem til markedet, er det en påmindelse om, at ikrafttræden og adgang er to forskellige ting.",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Nelore_cattle_Brasil.jpg/1920px-Nelore_cattle_Brasil.jpg",
+        "credit": "Foto: Carlos Ebert / Wikimedia Commons (CC BY 2.0)",
+        "alt": "Nelore-kvæg på græsmark i Goiás, Brasilien – den dominerende brasilianske oksekødsrace",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nelore_cattle_Brasil.jpg"
+      },
+      "topics": [
+        "growth-markets",
+        "brazil",
+        "market-access",
+        "mercosur"
+      ],
+      "entities": [
+        "Europa-Kommissionen",
+        "Brasilien",
+        "Mercosur"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 68,
+        "decisionValue": 55,
+        "novelty": 75,
+        "sourceQuality": 88,
+        "personalRelevance": 60,
+        "contrast": 70
+      },
+      "claims": [
+        {
+          "text": "Kommissionens gennemførelsesforordning (EU) 2026/1189 fjernede fra 3. september 2026 Brasilien fra listen over godkendte lande for bl.a. oksekød, fjerkræ og honning på grund af manglende garanti for overholdelse af antimikrobiel-reglerne.",
+          "sourceUrls": [
+            "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R1189"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "EU-Mercosur's interimshandelsaftale trådte i midlertidig anvendelse 1. maj 2026.",
+          "sourceUrls": [
+            "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/mercosur_en"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Commission Implementing Regulation (EU) 2026/1189 of 4 June 2026",
+          "publisher": "EUR-Lex / European Commission",
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R1189",
+          "publishedAt": "2026-06-04T00:00:00Z",
+          "kind": "primary"
+        },
+        {
+          "title": "EU-Mercosur trade relations",
+          "publisher": "European Commission - DG Trade",
+          "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/mercosur_en",
+          "publishedAt": "2026-05-01T00:00:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "dansk-design-center-nyt-formandskab-2026",
+      "eventKey": "dansk-design-center-nyt-formandskab-2026",
+      "materialFacts": [
+        "Tom Knutzen bliver ny bestyrelsesformand i Dansk Design Center",
+        "Ditte Lysgaard Vind bliver ny næstformand",
+        "Lotte Clemmen Christensen (VELUX) indtræder i bestyrelsen, udpeget af Dansk Industri"
+      ],
+      "section": "Ledelse og bestyrelser",
+      "headline": "Design og tungt erhverv forenes i nyt formandskab i Dansk Design Center",
+      "primarySourceUrl": "https://via.ritzau.dk/pressemeddelelse/15139894/design-og-tungt-erhverv-forenes-i-nyt-formandskab-i-dansk-design-center?lang=da",
+      "subheadline": "Tom Knutzen, tidligere topchef i Danisco og NKT, overtager formandsposten i Dansk Design Center fra Camilla Haustrup Hermansen.",
+      "body": [
+        "Tom Knutzen, tidl. adm. direktør for Danisco, NKT og Jungbunzlauer, er ny bestyrelsesformand i Dansk Design Center. Ditte Lysgaard Vind, formand for Designrådet, bliver næstformand. Afgående formand Camilla Haustrup Hermansen stopper efter over seks år.",
+        "Lotte Clemmen Christensen, SVP i VELUX, indtræder i bestyrelsen, udpeget af Dansk Industri. Knutzen: \"Design er et stærkt, men undervurderet strategisk greb til at afprøve nye veje, dirke komplekse problemer op og skabe reel værdi.\""
+      ],
+      "whyItMatters": "Et formandsskifte, der kobler tung industrierfaring til designfeltet, og hvor Dansk Industri selv udpeger et bestyrelsesmedlem, signalerer, hvor centralt design nu vægtes i konkurrenceevne-dagsordenen.",
+      "analysis": "Valget af Knutzen kan læses som et signal om, at opgaven nu er at sælge design ind i forretningsmodellen, ikke kun æstetikken – men det er ét bestyrelsesvalg, ikke belæg for en bredere tendens i branchen.",
+      "image": {
+        "url": "https://via.ritzau.dk/data/images/public/13562063/15139894/02b7f00f-5645-40a1-8f55-fb1d1374dfbb-w_960.jpg",
+        "credit": "Kilde: Dansk Design Center / Via Ritzau",
+        "alt": "Ditte Lysgaard Vind (tv.) er ny næstformand, mens Tom Knutzen (th.) er ny bestyrelsesformand",
+        "sourceUrl": "https://via.ritzau.dk/pressemeddelelse/15139894/design-og-tungt-erhverv-forenes-i-nyt-formandskab-i-dansk-design-center?lang=da"
+      },
+      "topics": [
+        "who-is-moving",
+        "dansk-industri",
+        "erhvervsliv",
+        "boards"
+      ],
+      "entities": [
+        "Tom Knutzen",
+        "Ditte Lysgaard Vind",
+        "Lotte Clemmen Christensen",
+        "Dansk Design Center",
+        "Dansk Industri"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 45,
+        "decisionValue": 40,
+        "novelty": 80,
+        "sourceQuality": 65,
+        "personalRelevance": 88,
+        "contrast": 25
+      },
+      "claims": [
+        {
+          "text": "Tom Knutzen er blevet ny bestyrelsesformand i Dansk Design Center, og Ditte Lysgaard Vind er blevet ny næstformand.",
+          "sourceUrls": [
+            "https://via.ritzau.dk/pressemeddelelse/15139894/design-og-tungt-erhverv-forenes-i-nyt-formandskab-i-dansk-design-center?lang=da"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Lotte Clemmen Christensen (SVP i VELUX) indtræder i bestyrelsen udpeget af Dansk Industri.",
+          "sourceUrls": [
+            "https://via.ritzau.dk/pressemeddelelse/15139894/design-og-tungt-erhverv-forenes-i-nyt-formandskab-i-dansk-design-center?lang=da"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Design og tungt erhverv forenes i nyt formandskab i Dansk Design Center",
+          "publisher": "Dansk Design Center / Via Ritzau",
+          "url": "https://via.ritzau.dk/pressemeddelelse/15139894/design-og-tungt-erhverv-forenes-i-nyt-formandskab-i-dansk-design-center?lang=da",
+          "publishedAt": "2026-09-07T03:00:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "nordic-waste-konkursbo-krav-17-mio",
+      "eventKey": "nordic-waste-konkursbo-krav-17-mio",
+      "materialFacts": [
+        "Konkursboerne efter Nordic Waste kræver 17 mio. kr. fra tre USTC-relaterede selskaber",
+        "Sagen afgøres ved 11 retsmøder i Randers",
+        "Oprydningen efter jordskredet ved Ølst koster over 500 mio. kr."
+      ],
+      "section": "Indland",
+      "headline": "Konkursboerne efter Nordic Waste kræver 17 millioner kroner fra rigmands virksomheder",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/konkursboerne-efter-nordic-waste-kraever-17-millioner-kroner-fra-rigmands-virksomheder",
+      "subheadline": "Konkursboet efter Nordic Waste kræver penge tilbage fra selskaber i milliardærens USTC-koncern, mens retten i Randers behandler sagen over 11 retsmøder.",
+      "body": [
+        "Konkursboerne efter Nordic Waste kræver 17 mio. kr. tilbage fra tre selskaber i Torben Østergaard Nielsens USTC-koncern. Sagen behandles ved retten i Randers over 11 retsmøder og handler om, hvorvidt betalinger foretaget tæt på konkursen skal tilbageføres til boet.",
+        "Advokat Jacob Skude Rasmussen afviser kravet: \"Vores synspunkt er, at ingenting skal betales tilbage. Der skal ske frifindelse.\" Professor Frederik Waage (SDU) peger på, at Randers Kommune og kreditorerne har stor interesse i udfaldet."
+      ],
+      "whyItMatters": "Endnu et kapitel i opgøret efter en af Danmarks største miljøskandaler, hvor oprydningen ved Ølst koster over 500 mio. kr. – og hvor spørgsmålet om, hvem der betaler, fortsat er uafklaret.",
+      "analysis": "At kravet rettes mod selskaber i ejerens øvrige koncern, ikke det konkursramte selskab selv, er det juridisk interessante: det tester, hvor langt en kurator kan anfægte koncerninterne pengestrømme ved konkurs.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/ik3n2unn/20240508-065948-l.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Oprydningsarbejde efter jordskredet ved Nordic Wastes fabrik i Ølst",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/konkursboerne-efter-nordic-waste-kraever-17-millioner-kroner-fra-rigmands-virksomheder"
+      },
+      "topics": [
+        "miljoe",
+        "erhvervsansvar",
+        "generel-dansk-nyhed"
+      ],
+      "entities": [
+        "Torben Østergaard Nielsen",
+        "USTC",
+        "DSH Environment ApS",
+        "Retten i Randers",
+        "Jacob Skude Rasmussen",
+        "Frederik Waage"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 58,
+        "decisionValue": 35,
+        "novelty": 65,
+        "sourceQuality": 75,
+        "personalRelevance": 25,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "Konkursboerne efter Nordic Waste kræver 17 mio. kr. tilbage fra tre selskaber med tilknytning til USTC-koncernen; sagen behandles ved 11 retsmøder i Randers.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/konkursboerne-efter-nordic-waste-kraever-17-millioner-kroner-fra-rigmands-virksomheder"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Oprydningen efter jordskredet ved Ølst i 2023-24 koster over 500 mio. kr.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/konkursboerne-efter-nordic-waste-kraever-17-millioner-kroner-fra-rigmands-virksomheder"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Konkursboerne efter Nordic Waste kræver 17 millioner kroner fra rigmands virksomheder",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/konkursboerne-efter-nordic-waste-kraever-17-millioner-kroner-fra-rigmands-virksomheder",
+          "publishedAt": "2026-09-07T14:27:28Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "nordkystens-fremtid-kystsikring-aftale-2026",
+      "eventKey": "nordkystens-fremtid-kystsikring-aftale-2026",
+      "materialFacts": [
+        "36 af 57 km nordkyst mellem Gribskov, Halsnæs og Helsingør får sandfodring plus kunstigt stenrev",
+        "Projektet koster over 900 mio. kr.; staten betaler 86,7 mio.",
+        "Forventes færdigt i 2029, 13 år efter de første forhandlinger"
+      ],
+      "section": "Indland",
+      "headline": "Efter 13 års diskussion, tvivl og klager: Storstilet kystsikringsprojekt endelig på plads",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/efter-13-aars-diskussion-tvivl-og-klager-storstilet-kystsikringsprojekt-endelig-paa-plads",
+      "subheadline": "Efter 13 års forhandlinger er det store kystsikringsprojekt \"Nordkystens Fremtid\" endelig faldet på plads – udløst af stormen Bodil.",
+      "body": [
+        "Efter 13 års diskussion er kystsikringsprojektet \"Nordkystens Fremtid\" faldet på plads. 36 af 57 km nordkyst i Gribskov, Halsnæs og Helsingør kommuner får sandfodring plus et kunstigt stenrev. Projektet, udløst af stormen Bodil, ventes færdigt i 2029.",
+        "Prisen er over 900 mio. kr., hvoraf staten betaler 86,7 mio.; resten fordeles mellem kommuner og grundejere. Gribskovs borgmester Trine Egetved (K): \"Vi er lidt pressede de næste år. Der kan ikke bygges så mange cykelstier eller renoveres dagtilbud, skoler og den slags.\""
+      ],
+      "whyItMatters": "13 år er lang tid selv for et dansk anlægsprojekt: sommerhusejeren Birgit Lund siger, at \"før sandet ligger på stranden, har jeg ikke fred i sjælen.\"",
+      "analysis": "Sagen viser en dansk udfordring: finansieringsansvaret for klimatilpasning er delt mellem stat, kommuner og grundejere uden fast nøgle, hvilket kan forlænge forhandlinger ud over den tekniske løsning.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/bipj3vrc/20220129-220107-l.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Arkivfoto af stormvejr og høj vandstand ved den nordsjællandske kyst",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/efter-13-aars-diskussion-tvivl-og-klager-storstilet-kystsikringsprojekt-endelig-paa-plads"
+      },
+      "topics": [
+        "klimatilpasning",
+        "infrastruktur",
+        "generel-dansk-nyhed"
+      ],
+      "entities": [
+        "Gribskov Kommune",
+        "Halsnæs Kommune",
+        "Helsingør Kommune",
+        "Trine Egetved",
+        "Birgit Lund"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 30,
+        "novelty": 60,
+        "sourceQuality": 75,
+        "personalRelevance": 15,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "36 af 57 km nordkyst får sandfodring plus et kunstigt stenrev; projektet koster over 900 mio. kr., hvoraf staten betaler 86,7 mio.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/efter-13-aars-diskussion-tvivl-og-klager-storstilet-kystsikringsprojekt-endelig-paa-plads"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Projektet forventes færdigt i 2029 og blev udløst af stormen Bodil.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/efter-13-aars-diskussion-tvivl-og-klager-storstilet-kystsikringsprojekt-endelig-paa-plads"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Efter 13 års diskussion, tvivl og klager: Storstilet kystsikringsprojekt endelig på plads",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/efter-13-aars-diskussion-tvivl-og-klager-storstilet-kystsikringsprojekt-endelig-paa-plads",
+          "publishedAt": "2026-09-07T13:17:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "vuelta-espana-2026-slutuge-podium",
+      "eventKey": "vuelta-espana-2026-slutuge-podium",
+      "materialFacts": [
+        "Skjelmose mistede tid på etape 14 og ligger nu nummer 7, 35 sekunder fra en 6.-plads",
+        "Van Aert overraskede alle og vandt etape 15 efter et angreb ved en mellemsprint"
+      ],
+      "section": "Cykling",
+      "headline": "“I lose a couple of years of my life every time” - Mattias Skjelmose dreaming of home as Vuelta exhaustion leaves Lidl-Trek leader running on empty",
+      "primarySourceUrl": "https://cyclinguptodate.com/cycling/i-lose-a-couple-of-years-of-my-life-every-time-mattias-skjelmose-dreaming-of-home-as-vuelta-exhaustion-leaves-lidl-trek-leader-running-on-empty",
+      "subheadline": "Mattias Skjelmoses kamp om en top-10-plads i Vueltaen svækkes, mens Wout van Aert overraskede alle og tog endnu en etapesejr.",
+      "body": [
+        "Mattias Skjelmose mistede tid til Enric Mas og Felix Gall på etape 14 og ligger nu nummer 7 sammenlagt, 35 sekunder fra en 6.-plads. Danskeren lægger ikke skjul på sliddet: \"It's horrible. I lose a couple of years of my life every time,\" siger han, og tilføjer, at \"the tank is empty.\"",
+        "På etape 15 overraskede Wout van Aert til gengæld alle – inklusive eget hold, der havde lagt op til spurt til Matthew Brennan – med et angreb ved en mellemsprint knap 30 km fra mål. Det gav belgieren hans anden etapesejr i årets Vuelta."
+      ],
+      "whyItMatters": "For en dansk rytter i kamp om en top-10-plads i Vueltaens hårdeste uge er udmattelsen en sjælden indrømmelse midt i en igangværende kamp, ikke bagklogt efter løbet.",
+      "analysis": "At Van Aerts angreb kom bag om ryggen på eget hold, viser hvor uforudsigelig Vueltaens sidste uge er: selv velforberedte spurtoptræk kan overhales af en rytter, der ser en åbning andre ikke havde regnet med.",
+      "image": {
+        "url": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-09%2Fmattias-skjelmose-at-the-2026-vuelta-a-espana-6a9bfe3d6f24e.jpg",
+        "credit": "Kilde: CyclingUpToDate",
+        "alt": "Mattias Skjelmose under Vuelta a España 2026",
+        "sourceUrl": "https://cyclinguptodate.com/cycling/i-lose-a-couple-of-years-of-my-life-every-time-mattias-skjelmose-dreaming-of-home-as-vuelta-exhaustion-leaves-lidl-trek-leader-running-on-empty"
+      },
+      "topics": [
+        "cykling",
+        "vuelta-a-espana",
+        "sport"
+      ],
+      "entities": [
+        "Mattias Skjelmose",
+        "Wout van Aert",
+        "Enric Mas",
+        "Felix Gall",
+        "Lidl-Trek"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 40,
+        "decisionValue": 15,
+        "novelty": 65,
+        "sourceQuality": 60,
+        "personalRelevance": 70,
+        "contrast": 20
+      },
+      "claims": [
+        {
+          "text": "Mattias Skjelmose mistede tid til Enric Mas og Felix Gall på etape 14 og ligger nummer 7 sammenlagt, 35 sekunder fra en 6.-plads.",
+          "sourceUrls": [
+            "https://cyclinguptodate.com/cycling/i-lose-a-couple-of-years-of-my-life-every-time-mattias-skjelmose-dreaming-of-home-as-vuelta-exhaustion-leaves-lidl-trek-leader-running-on-empty"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Wout van Aert vandt etape 15 efter et angreb ved en mellemsprint, sin anden etapesejr i årets Vuelta.",
+          "sourceUrls": [
+            "https://sport.tv2.dk/cykling/2026-09-07-han-tog-fusen-paa-alle-siger-rolf-soerensen"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "“I lose a couple of years of my life every time” - Mattias Skjelmose dreaming of home as Vuelta exhaustion leaves Lidl-Trek leader running on empty",
+          "publisher": "CyclingUpToDate",
+          "url": "https://cyclinguptodate.com/cycling/i-lose-a-couple-of-years-of-my-life-every-time-mattias-skjelmose-dreaming-of-home-as-vuelta-exhaustion-leaves-lidl-trek-leader-running-on-empty",
+          "publishedAt": "2026-09-06T12:30:00Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "- Han tog fusen på alle, siger Rolf Sørensen",
+          "publisher": "TV 2 Sport",
+          "url": "https://sport.tv2.dk/cykling/2026-09-07-han-tog-fusen-paa-alle-siger-rolf-soerensen",
+          "publishedAt": "2026-09-07T06:24:30Z",
+          "kind": "reporting"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "EU udvider samarbejdet med Grønland: Der får milliardinvestering",
+      "headline": "EU udvider samarbejdet med Grønland: Der får milliardinvestering",
+      "summary": "Konkret resultat af Nuuk-besøget: en ny EU-Grønland-partnerskabspakke på 200 mio. euro over to år, der dækker kritiske råstoffer, boliger, turisme, energi og digital forbindelse.",
+      "publisher": "DR",
+      "section": "Grønland",
+      "publishedAt": "2026-09-07T00:00:00Z",
+      "url": "https://www.dr.dk/nyheder/udland/eu-udvider-samarbejdet-med-groenland-der-faar-milliardinvestering"
+    },
+    {
+      "text": "Commission sets type of evidence to be provided by importers to prove country of \"melt and pour\" for steel products",
+      "headline": "Commission sets type of evidence to be provided by importers to prove country of \"melt and pour\" for steel products",
+      "summary": "Nye regler fra 1. oktober 2026 fastlægger, hvilke dokumenter der skal bevise oprindelsesland for stål, og hænger sammen med EU's reducerede stålkvote og straftold over kvoten.",
+      "publisher": "Europa-Kommissionen (DG Trade)",
+      "section": "EU-handelspolitik",
+      "publishedAt": "2026-08-31T00:00:00Z",
+      "url": "https://policy.trade.ec.europa.eu/news/commission-sets-type-evidence-be-provided-importers-prove-country-melt-and-pour-steel-products-2026-08-31_en"
+    },
+    {
+      "text": "DI henter Morten Dahlins tidligere spindoktor til posten som chef for DI Hovedstaden",
+      "headline": "DI henter Morten Dahlins tidligere spindoktor til posten som chef for DI Hovedstaden",
+      "summary": "Jens Husted, tidligere særlig rådgiver for minister Morten Dahlin og tidligere seniorkonsulent i DI, bliver ny direktør for DI Hovedstaden.",
+      "publisher": "Altinget",
+      "section": "Who is moving",
+      "publishedAt": "2026-08-31T08:15:00Z",
+      "url": "https://www.altinget.dk/jobskifte/di-henter-morten-dahlins-tidligere-spindoktor-til-posten-som-chef-for-di-hovedstaden"
+    },
+    {
+      "text": "Nordic Outlook: New sources of growth",
+      "headline": "Nordic Outlook: New sources of growth",
+      "summary": "Danske Bank Research: dansk BNP-vækst er stærk på overskriftsniveau, men kun moderat for de fleste virksomheder og forbrugere; arbejdsstyrken vokser lidt hurtigere end beskæftigelsen.",
+      "publisher": "Danske Bank",
+      "section": "Makroøkonomi",
+      "publishedAt": "2026-09-03T00:00:00Z",
+      "url": "https://danskebank.com/news-and-insights/news-archive/insights/2026/03092026"
+    },
+    {
+      "text": "Mærsk finder ny nordisk topchef",
+      "headline": "Mærsk finder ny nordisk topchef",
+      "summary": "Kenni Callesen (39) er nu bekræftet permanent som Mærsks nordisk/baltiske topchef efter at have fungeret i rollen siden juni.",
+      "publisher": "Altinget",
+      "section": "Who is moving",
+      "publishedAt": "2026-09-01T12:13:00Z",
+      "url": "https://www.altinget.dk/erhverv/navnenyt/maersk-finder-ny-nordisk-topchef"
+    },
+    {
+      "text": "Direktør for Sundhed.dk takker af efter 25 år",
+      "headline": "Direktør for Sundhed.dk takker af efter 25 år",
+      "summary": "Morten Elbæk Petersen stopper som Sundhed.dk's eneste direktør nogensinde; enheden opløses og indgår i en ny samlet enhed, Digital Sundhed Danmark.",
+      "publisher": "Altinget",
+      "section": "Who is moving",
+      "publishedAt": "2026-09-02T14:00:00Z",
+      "url": "https://www.altinget.dk/jobskifte/sunheddk-direktoer-takker-af-efter-kvart-aarhundrede"
+    },
+    {
+      "text": "Efter 149 år er sportens mest elegante slag sendt til tælling",
+      "headline": "Efter 149 år er sportens mest elegante slag sendt til tælling",
+      "summary": "2026 er første år nogensinde uden en enhåndet-baghånd-spiller i en Grand Slam-semifinale ved US Open.",
+      "publisher": "DR Sporten",
+      "section": "Tennis",
+      "publishedAt": "2026-09-07T20:50:00Z",
+      "url": "https://www.dr.dk/sporten/tennis/i-new-york-ser-ingen-159-aars-tennishistorie-er-slut"
+    },
+    {
+      "text": "Danmark skal sende tonstung jernmeteorit tilbage til Grønland",
+      "headline": "Danmark skal sende tonstung jernmeteorit tilbage til Grønland",
+      "summary": "Politisk aftale om at sende den ca. 10.000 år gamle Agpalilik-meteorit, fundet i 1963 og i Danmark siden 1965, tilbage til Grønland. Overdragelsesdato er endnu ikke fastlagt.",
+      "publisher": "DR",
+      "section": "Grønland",
+      "publishedAt": "2026-09-07T19:29:00Z",
+      "url": "https://www.dr.dk/nyheder/indland/danmark-skal-sende-tonstung-jernmeteorit-tilbage-til-groenland"
+    },
+    {
+      "text": "Everton - Manchester United",
+      "headline": "Everton - Manchester United",
+      "summary": "Everton og Manchester United spillede 2-2, efter Ainsley Maitland-Niles scorede i overtiden på sin Everton-debut.",
+      "publisher": "TV 2 Sport",
+      "section": "Fodbold",
+      "publishedAt": "2026-09-06T19:00:00Z",
+      "url": "https://sport.tv2.dk/fodbold/premier-league/herrer/kamp/2026-09-06-everton-mod-manchester-united"
+    },
+    {
+      "text": "Robotstøvsuger skal suge Snesere Sø fri for fosfor",
+      "headline": "Robotstøvsuger skal suge Snesere Sø fri for fosfor",
+      "summary": "Robotten \"Søbotten\" fra Aarhus Universitet skal i november fjerne de øverste 20 cm sediment fra Snesere Sø som led i et forskningsprojekt mod overgødskning.",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-09-07T17:10:00Z",
+      "url": "https://www.dr.dk/nyheder/indland/robotstoevsuger-skal-suge-snesere-soe-fri-kvaelstof"
+    },
+    {
+      "text": "2.500 fik ved en fejl adgang til andres oplysninger",
+      "headline": "2.500 fik ved en fejl adgang til andres oplysninger",
+      "summary": "Et SMS-spørgeskema fra Kolding Kommune parrede forkert telefonnumre med navne, så modtagere kunne se andre borgeres sagstype og navn.",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-09-07T18:23:01Z",
+      "url": "https://www.dr.dk/nyheder/seneste/2-500-fik-ved-en-fejl-adgang-til-andres-oplysninger"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-heidrick-board-monitor-2026",
+      "mode": "read",
+      "kind": "report",
+      "status": "timely",
+      "title": "2026 Board Monitor US: The Day-One Director",
+      "creator": "Heidrick & Struggles",
+      "provider": "Heidrick & Struggles",
+      "url": "https://www.heidrick.com/en/insights/boards-governance/board-monitor-us-2026-demographic-report",
+      "availability": "Frit tilgængelig rapport, ingen login krævet.",
+      "commitment": "15 minutter",
+      "description": "Gennemgang af 2025's Fortune 500-bestyrelsesudnævnelser: 74 pct. gik til kandidater med tidligere bestyrelseserfaring, mens kun 6 pct. af de nye medlemmer har en CTO/CIO/CDO-baggrund, selvom AI-tilsyn efterspørges stigende.",
+      "rationale": "Et præcist, tal-baseret svar på, hvad bestyrelser reelt belønner lige nu – direkte brugbart for en, der overvejer bestyrelsesposter efter en lang topchefkarriere, og som kan se, hvor efterspørgslen efter hans egen type erfaring reelt står i tallene.",
+      "topics": [
+        "boards-governance",
+        "executive-transitions"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://www.heidrick.com/-/media/heidrickcom/images/insights/2026-board-monitor-us/2026_03_social-2026-board-monitor-us-demographic-data-report.jpg?rev=0743b76cd09c46999d13d27f4fab5932",
+        "credit": "Kilde: Heidrick & Struggles",
+        "alt": "Grafik fra Heidrick & Struggles' 2026 Board Monitor US-rapport",
+        "sourceUrl": "https://www.heidrick.com/en/insights/boards-governance/board-monitor-us-2026-demographic-report"
+      }
+    },
+    {
+      "id": "rec-schmidt-ocean-romanche-2026",
+      "mode": "experience",
+      "kind": "science expedition / livestream",
+      "status": "upcoming",
+      "title": "Life at the Romanche Fracture Zone",
+      "creator": "Schmidt Ocean Institute (Dr. Jose Angel A. Perez; Prof. Kerry Howell)",
+      "provider": "Schmidt Ocean Institute",
+      "url": "https://schmidtocean.org/cruises/schmidt-ocean-institute-2026-expeditions/",
+      "availability": "Gratis live ROV-dyk, 17. september - 26. oktober 2026, Den Midtatlantiske Ryg mellem Brasilien og Vestafrika.",
+      "commitment": "Valgfrit, live-streams",
+      "description": "Et forskningsskib kortlægger dybhavsøkosystemer og potentielle sårbare marine økosystemer ved Romanche-forkastningszonen, ledet af navngivne forskere fra Brasilien og Storbritannien.",
+      "rationale": "Ren serendipitet uden nogen forbindelse til erhverv eller EU-politik: levende, primærkildebaseret videnskab man kan følge i realtid, fra et sted (Midtatlanten mellem Brasilien og Vestafrika) langt fra det sædvanlige felt.",
+      "topics": [
+        "videnskab",
+        "havforskning"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-cosmos-liberal-institutions",
+      "mode": "read",
+      "kind": "essay",
+      "status": "timely",
+      "title": "Liberal Institutions Are Dead",
+      "creator": "Harry Law",
+      "provider": "Cosmos Institute",
+      "url": "https://blog.cosmos-institute.org/p/liberal-institutions-are-dead",
+      "availability": "Gratis, Substack.",
+      "commitment": "12 minutter",
+      "description": "Argumenterer for, at liberale institutioner historisk har hvilet på, at det var besværligt at gøre krav gældende – og at AI-værktøjer nu fjerner netop den friktion, hvilket kan overvælde institutioners kapacitet.",
+      "rationale": "Kobler hans interesse for AI-styring til institutionel og regulatorisk design – relevant for en, der har brugt en karriere på at forme, hvordan regler og organisationer reagerer på nye kræfter, nu anvendt på AI som den nyeste kraft.",
+      "topics": [
+        "ai-governance",
+        "institutioner"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-kimi-k3-open-weights",
+      "mode": "try",
+      "kind": "open-weights model",
+      "status": "new",
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "creator": "Moonshot AI",
+      "provider": "Moonshot AI",
+      "url": "https://www.kimi.ai/blog/kimi-k3",
+      "availability": "Gratis, fuldt åbne modelvægte, udgivet 27. juli 2026.",
+      "commitment": "30 minutter for at afprøve",
+      "description": "En kinesisk model på 2,8 billioner parametre med et kontekstvindue på 1 mio. tokens og en ny sparse-MoE-arkitektur – den første model i sin størrelsesklasse med frit tilgængelige vægte.",
+      "rationale": "Et konkret datapunkt i den kinesiske AI-konkurrenceevne, han har fulgt tæt fra sin tid med at opbygge DI's Kina-kontor: et kinesisk laboratorium, der offentligt overhaler amerikanske selskaber på åbne modelvægte.",
+      "topics": [
+        "ai",
+        "china",
+        "industripolitik"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {
+    "sourceCoverage": 78,
+    "freshness": 82,
+    "novelty": 72,
+    "perspectiveBalance": 70,
+    "render": 100
+  }
+}
