@@ -1,0 +1,680 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-09-09",
+  "date": "2026-09-09",
+  "generatedAt": "2026-09-09T04:11:30Z",
+  "readingMinutes": 11,
+  "title": "Thomas' Nyheder",
+  "dek": "Pisa-krisemøde, dansk eksportrekord, en golfliga går konkurs, og en solcellepark bremses af oddere.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-pisa-danmark-2026",
+      "eventKey": "danmark-pisa-2026-krisemoede",
+      "materialFacts": [
+        "Danmark har fået sit historisk dårligste PISA-resultat med det stejleste fald i læsefærdigheder siden 2000",
+        "Uddannelsesminister Magnus Heunicke har indkaldt til akut krisemøde",
+        "Opfølgende møde med kommunale skoleledere er sat til mandag"
+      ],
+      "section": "Danmark",
+      "headline": "Alarmklokkerne bimler: Flere krisemøder efter historisk dårlig Pisa-måling",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/politik/alarmklokkerne-bimler-flere-krisemoeder-efter-historisk-daarlig-pisa-maaling",
+      "subheadline": "Danmark har sit dårligste Pisa-resultat nogensinde, og uddannelsesminister Magnus Heunicke har indkaldt til akut krisemøde.",
+      "body": [
+        "Danmark har fået sit historisk dårligste resultat i PISA-undersøgelsen. Faldet i danske elevers læsefærdigheder er det stejleste siden testen begyndte i 2000, og det er samtidig det største fald blandt de nordiske lande.",
+        "Uddannelsesminister Magnus Heunicke indkaldte til et akut krisemøde, da resultatet kom frem, og et opfølgende møde med landets kommunale skoleledere er sat til mandag. Der er endnu ikke meldt konkrete initiativer ud ud over selve møderækken.",
+        "Reaktionerne fra opposition og fagforeninger har været usædvanligt hårde. Flere beskriver resultatet som chokerende og efterlyser en indsats, der rækker videre end krisemøder."
+      ],
+      "whyItMatters": "Læsefærdigheder i grundskolen er en tidlig indikator for den fremtidige arbejdsstyrkes produktivitet. Et historisk fald i dag rammer virksomhedernes adgang til kvalificeret arbejdskraft mange år frem, uanset hvordan konjunkturerne ellers udvikler sig.",
+      "analysis": "At både ministerium og kommuner nu mødes akut, er i sig selv et signal om, at sagen opfattes som mere end en statistisk kuriositet. Hvad krisemøderne konkret fører til - ressourcer, læreplansændringer eller andet - er endnu ukendt, og det er her den reelle test af reaktionen ligger.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/2cfdjdj2/20260624-155534-l.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Arkivfoto fra Folketingssalen, anvendt af DR til historien om Pisa-krisemøderne",
+        "sourceUrl": "https://www.dr.dk/nyheder/politik/alarmklokkerne-bimler-flere-krisemoeder-efter-historisk-daarlig-pisa-maaling"
+      },
+      "topics": [
+        "uddannelse",
+        "danmark",
+        "arbejdsmarked"
+      ],
+      "entities": [
+        "Magnus Heunicke",
+        "Danmark",
+        "PISA"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 90,
+        "decisionValue": 70,
+        "novelty": 85,
+        "sourceQuality": 90,
+        "personalRelevance": 55,
+        "contrast": 60
+      },
+      "claims": [
+        {
+          "text": "Danmark har fået sit historisk dårligste PISA-resultat med det stejleste fald i læsefærdigheder siden testens start i 2000",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/politik/alarmklokkerne-bimler-flere-krisemoeder-efter-historisk-daarlig-pisa-maaling"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Uddannelsesminister Magnus Heunicke har indkaldt til akut krisemøde, og et opfølgende møde med kommunale ledere er planlagt til mandag",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/politik/alarmklokkerne-bimler-flere-krisemoeder-efter-historisk-daarlig-pisa-maaling"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Alarmklokkerne bimler: Flere krisemøder efter historisk dårlig Pisa-måling",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/politik/alarmklokkerne-bimler-flere-krisemoeder-efter-historisk-daarlig-pisa-maaling",
+          "publishedAt": "2026-09-08T09:40:28Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-eksport-rekord-2026",
+      "eventKey": "danmark-eksport-rekord-juli-2026",
+      "materialFacts": [
+        "Danmarks samlede eksport af varer og tjenester steg 4,0 pct. til 202,7 mia. kr. i juli 2026, det højeste niveau nogensinde",
+        "Eksporten til USA steg til 37,1 mia. kr. i juli, på trods af amerikanske toldtrusler"
+      ],
+      "section": "Erhverv",
+      "headline": "Rekordhøj eksport af varer og tjenester i juli",
+      "primarySourceUrl": "https://www.dst.dk/nyt/52342",
+      "subheadline": "Danmarks eksport af varer og tjenester steg til 202,7 mia. kr. i juli - det højeste niveau nogensinde, viser Danmarks Statistik.",
+      "body": [
+        "Danmarks samlede eksport af varer og tjenester steg 4,0 pct. til 202,7 mia. kr. i juli, ifølge Danmarks Statistik - det højeste niveau, der nogensinde er målt. Vareeksporten steg 4,5 pct., tjenesteeksporten 3,3 pct., mens importen faldt 4,4 pct. til 162,2 mia. kr.",
+        "Eksporten af varer og tjenester til USA steg til 37,1 mia. kr. i juli, 4,4 mia. kr. mere end i juni - stigningen kommer, selvom amerikanske toldtrusler har hængt over dansk erhvervsliv hele året."
+      ],
+      "whyItMatters": "Tallet er et af de mest direkte mål for, om dansk erhvervsliv mærker konsekvenserne af den amerikanske toldpolitik. At eksporten til USA stiger snarere end falder, taler imod frygten for, at truslerne skulle lukke det amerikanske marked.",
+      "analysis": "Et enkelt månedstal kan ikke stå alene. Spørgsmålet er, om stigningen afspejler fremrykkede leverancer forud for nye toldsatser, eller en mere holdbar udvikling.",
+      "image": {
+        "url": "https://www.dst.dk/site/dst/udgivelser/nyt/getimage.aspx?cid=52342",
+        "credit": "Kilde: Danmarks Statistik",
+        "alt": "Danmarks Statistiks graf over eksport og import af varer og tjenester, sæsonkorrigeret, 2024-2026",
+        "sourceUrl": "https://www.dst.dk/nyt/52342"
+      },
+      "topics": [
+        "eksport",
+        "dansk-erhverv",
+        "makroøkonomi"
+      ],
+      "entities": [
+        "Danmarks Statistik",
+        "Danmark",
+        "USA"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 75,
+        "decisionValue": 60,
+        "novelty": 55,
+        "sourceQuality": 95,
+        "personalRelevance": 95,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "Danmarks samlede eksport af varer og tjenester steg 4,0 pct. til 202,7 mia. kr. i juli 2026 (sæsonkorrigeret), det højeste niveau nogensinde",
+          "sourceUrls": [
+            "https://www.dst.dk/nyt/52342"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Eksporten af varer og tjenester til USA steg til 37,1 mia. kr. i juli, 4,4 mia. kr. mere end i juni",
+          "sourceUrls": [
+            "https://www.dst.dk/nyt/52342"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Rekordhøj eksport af varer og tjenester i juli",
+          "publisher": "Danmarks Statistik",
+          "url": "https://www.dst.dk/nyt/52342",
+          "publishedAt": "2026-09-08T06:17:14Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-livgolf-konkurs-2026",
+      "eventKey": "liv-golf-konkursbeskyttelse-2026",
+      "materialFacts": [
+        "LIV Golf har søgt om konkursbeskyttelse (Chapter 11) med 500 mio.-1 mia. dollar i gæld",
+        "BC Partners bliver ny primær kapitalkilde i en genstart, 'LIV Golf 2.0', med sigte på 2027"
+      ],
+      "section": "Sport",
+      "headline": "LIV Golf files for bankruptcy protection as it tries to survive in a smaller version",
+      "primarySourceUrl": "https://sports.yahoo.com/articles/liv-golf-files-bankruptcy-protection-214802833.html",
+      "subheadline": "Den saudi-finansierede golfliga har søgt om konkursbeskyttelse i USA, efter at PIF stoppede finansieringen i foråret.",
+      "body": [
+        "LIV Golf har søgt om konkursbeskyttelse efter kapitel 11 i New Jersey og opgør sin gæld til mellem 500 mio. og 1 mia. dollar. Saudi-Arabiens statslige investeringsfond, PIF, meddelte i april 2026, at den ville stoppe finansieringen.",
+        "PIF yder nu 49,6 mio. dollar i midlertidig finansiering, mens BC Partners bliver ny primær kapitalkilde i en genstart, 'LIV Golf 2.0', med sigte på 2027. Jon Rahm er blandt de største kreditorer med et tilgodehavende på næsten 7,5 mio. dollar."
+      ],
+      "whyItMatters": "Konkursen er kulminationen på et fire år langt kapitalvæddeløb mellem PIF og PGA Tour om professionel golf. At Saudi-Arabien trækker sig som finansieringskilde, ændrer magtbalancen mere end noget turneringsresultat.",
+      "analysis": "At BC Partners overtager kapitalrollen, viser, at golf som forretning overlever, selv uden statsligt ejerskab. Om en mindre, spillerejet liga kan tiltrække de samme stjerner, er uafklaret.",
+      "image": {
+        "url": "https://s.yimg.com/lo/mysterio/api/7e81cd16ce65228cb8e3115c65166caa5f41ba1d49a47a4ba1fb415d5674e701/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F554dec31b2facd240f192dfc1266a73b.jpg",
+        "credit": "Foto: AP",
+        "alt": "Jon Rahm, en af LIV Golfs stjernespillere og blandt de største kreditorer i konkursboet, med en turneringstrofæ",
+        "sourceUrl": "https://sports.yahoo.com/articles/liv-golf-files-bankruptcy-protection-214802833.html"
+      },
+      "topics": [
+        "golf",
+        "sport",
+        "erhverv"
+      ],
+      "entities": [
+        "LIV Golf",
+        "PIF",
+        "BC Partners",
+        "Jon Rahm"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 70,
+        "decisionValue": 45,
+        "novelty": 80,
+        "sourceQuality": 80,
+        "personalRelevance": 45,
+        "contrast": 65
+      },
+      "claims": [
+        {
+          "text": "LIV Golf har søgt om konkursbeskyttelse (Chapter 11) i New Jersey med 500 mio.-1 mia. dollar i gæld, efter at PIF stoppede finansieringen i april 2026",
+          "sourceUrls": [
+            "https://sports.yahoo.com/articles/liv-golf-files-bankruptcy-protection-214802833.html"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Jon Rahm er blandt de største kreditorer med et tilgodehavende på næsten 7,5 mio. dollar",
+          "sourceUrls": [
+            "https://sports.yahoo.com/articles/liv-golf-files-bankruptcy-protection-214802833.html"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "LIV Golf files for bankruptcy protection as it tries to survive in a smaller version",
+          "publisher": "Associated Press (via Yahoo Sports)",
+          "url": "https://sports.yahoo.com/articles/liv-golf-files-bankruptcy-protection-214802833.html",
+          "publishedAt": "2026-09-08T21:48:02Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-oddere-solcelle-2026",
+      "eventKey": "jammerbugt-solcellepark-oddere-stop",
+      "materialFacts": [
+        "Planklagenævnet har stoppet den 800+ hektar store solcellepark Energipark Rendbæk Øst",
+        "Årsagen er manglende vurdering af konsekvenser for fredede oddere ved Natura 2000-området Store Vildmose"
+      ],
+      "section": "Energi",
+      "headline": "Oddere sætter kæp i hjulet for Danmarks største solcellepark",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/oddere-saetter-kaep-i-hjulet-danmarks-stoerste-solcellepark",
+      "subheadline": "Planklagenævnet har stoppet den over 800 hektar store Energipark Rendbæk Øst, fordi Jammerbugt Kommune ikke vurderede konsekvenserne for fredede oddere.",
+      "body": [
+        "Planklagenævnet har sat en stopper for Energipark Rendbæk Øst, en solcellepark på over 800 hektar, der skulle have gjort den til Danmarks største. Årsagen er, at Jammerbugt Kommune ikke vurderede projektets konsekvenser for fredede oddere i det nærliggende Natura 2000-område Store Vildmose.",
+        "En kommunal embedsmand erkender over for DR, at vurderingen af projektet var mangelfuld. De 15 vindmøller, der er planlagt på samme areal, er ikke berørt af stoppet og kan fortsætte."
+      ],
+      "whyItMatters": "I denne sag er det ikke politisk modvilje, men mangelfuld kommunal sagsbehandling, der stopper et konkret grønt anlægsprojekt. Forsinkelsen er noget, investorer må indregne.",
+      "analysis": "At vindmøllerne kan fortsætte, mens solcellerne ikke kan, viser, at det er sagsbehandlingen, ikke arealanvendelsen, der er problemet her - muligvis en tilsvarende risiko, hvis samme mangel findes andre steder.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/3xhp0ccm/solcellepark_crop001.jpg?im=AspectCrop%3D%28960%2C540%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%28960%2C540%29",
+        "credit": "Kilde: DR",
+        "alt": "Arkivfoto anvendt af DR til historien om standsningen af solcelleparken: borgere og en kommunalpolitiker uden for et møde",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/oddere-saetter-kaep-i-hjulet-danmarks-stoerste-solcellepark"
+      },
+      "topics": [
+        "energi",
+        "grøn-omstilling",
+        "natur"
+      ],
+      "entities": [
+        "Jammerbugt Kommune",
+        "Planklagenævnet",
+        "Energipark Rendbæk Øst"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 65,
+        "decisionValue": 55,
+        "novelty": 60,
+        "sourceQuality": 85,
+        "personalRelevance": 60,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Planklagenævnet har stoppet den 800+ hektar store solcellepark Energipark Rendbæk Øst, fordi Jammerbugt Kommune ikke vurderede konsekvenserne for fredede oddere ved Natura 2000-området Store Vildmose",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/oddere-saetter-kaep-i-hjulet-danmarks-stoerste-solcellepark"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Oddere sætter kæp i hjulet for Danmarks største solcellepark",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/oddere-saetter-kaep-i-hjulet-danmarks-stoerste-solcellepark",
+          "publishedAt": "2026-09-08T18:16:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-norge-konge-2026",
+      "eventKey": "norge-kong-haakon-tiltraedelse-2026",
+      "materialFacts": [
+        "Haakon er blevet konge af Norge efter Kong Harald V's død den 28. august 2026",
+        "Opbakningen til det norske kongehus er faldet fra 81 pct. i 2017 til 64 pct. i maj 2026"
+      ],
+      "section": "Udland",
+      "headline": "Norges nye konge har selv valgt sin skæbne. Nu holder han kongehusets fremtid i sine hænder",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/norges-nye-konge-har-selv-valgt-sin-skaebne-nu-holder-han-kongehusets-fremtid-i-sine-haender",
+      "subheadline": "Kong Haakon er blevet Norges nye konge efter Kong Harald V's død - og overtager tronen, mens opbakningen til monarkiet er faldet markant.",
+      "body": [
+        "Haakon er blevet konge af Norge, efter at hans far, Kong Harald V, døde den 28. august 2026. Artiklen tegner et portræt af en konge, der i årtier har været ambivalent over for rollen, og af hans ægteskab med Mette-Marit.",
+        "Opbakningen til det norske kongehus er faldet fra 81 pct. i 2017 til 64 pct. i maj 2026. I samme periode har skandaler fyldt i norsk offentlighed: dengang kronprinsesse Mette-Marits forbindelse til en dømt sexforbryder, og en retssag mod hendes søn."
+      ],
+      "whyItMatters": "Et naboland skifter statsoverhoved, mens opbakningen til institutionen er under historisk pres. Hvordan Haakon håndterer det, former det norske monarkis rolle i en tid, hvor flere kongehuse i forvejen kæmper med legitimitet.",
+      "analysis": "At Haakon selv beskrives som længe ambivalent, gør sagen til mere end en formel tronfølge - kan en konge, der ikke entydigt søgte embedet, genopbygge en opbakning, der faldt under hans forgænger?",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/g0glcjxq/20260901-164314-l_crop001.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Kong Haakon af Norge i galla foran den norske trone",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/norges-nye-konge-har-selv-valgt-sin-skaebne-nu-holder-han-kongehusets-fremtid-i-sine-haender"
+      },
+      "topics": [
+        "norge",
+        "kongehus",
+        "udland"
+      ],
+      "entities": [
+        "Kong Haakon",
+        "Kronprinsesse Mette-Marit",
+        "Norge",
+        "Kong Harald V"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 65,
+        "decisionValue": 40,
+        "novelty": 70,
+        "sourceQuality": 85,
+        "personalRelevance": 20,
+        "contrast": 70
+      },
+      "claims": [
+        {
+          "text": "Kong Haakon er blevet konge af Norge efter Kong Harald V's død den 28. august 2026",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/norges-nye-konge-har-selv-valgt-sin-skaebne-nu-holder-han-kongehusets-fremtid-i-sine-haender"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Opbakningen til det norske kongehus er faldet fra 81 pct. i 2017 til 64 pct. i maj 2026",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/norges-nye-konge-har-selv-valgt-sin-skaebne-nu-holder-han-kongehusets-fremtid-i-sine-haender"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Norges nye konge har selv valgt sin skæbne. Nu holder han kongehusets fremtid i sine hænder",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/norges-nye-konge-har-selv-valgt-sin-skaebne-nu-holder-han-kongehusets-fremtid-i-sine-haender",
+          "publishedAt": "2026-09-08T16:30:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-arktiske-soldater-2026",
+      "eventKey": "arktiske-soldater-anerkendelse-sag",
+      "materialFacts": [
+        "Moderaterne presser forsvarsminister Jeppe Bruus til at genoverveje manglende anerkendelse af arktiske patruljesoldater",
+        "Rekrutteringsproblemer har for nylig tvunget aflysning af en næsten to måneder lang mission"
+      ],
+      "section": "Danmark",
+      "headline": "Regeringsparti presser forsvarsminister i sag om arktiske soldater: 'Forældet' princip skal have et eftersyn",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/seneste/regeringsparti-presser-forsvarsminister-i-sag-om-arktiske-soldater-foraeldet-princip-skal-have-et",
+      "subheadline": "Moderaterne presser forsvarsminister Jeppe Bruus til at genoverveje, hvorfor soldater på arktiske patruljeskibe ikke får samme anerkendelse som andre udsendte.",
+      "body": [
+        "Regeringspartiet Moderaterne presser forsvarsminister Jeppe Bruus til at genoverveje, hvorfor soldater på arktiske patruljeskibe hverken får flagdagsanerkendelse, medaljer eller veteranstatus - i modsætning til soldater udsendt til Letland.",
+        "Det sker, selvom soldaterne har rapporteret om PTSD, og udsendelserne kan vare lige så længe som andre missioner. Forsvarets ordfører erkender, at princippet muligvis er 'forældet'. Rekrutteringsproblemer har for nylig tvunget en aflyst arktisk mission på næsten to måneder."
+      ],
+      "whyItMatters": "Sagen rammer et rekrutteringsproblem, Forsvaret kæmper med: en udsendelse uden anerkendelse eller veteranrettigheder bliver sværere at bemande, uanset hvor krævende opgaven er.",
+      "analysis": "At et regeringsparti presser sin minister, signalerer, at sagen er mere end en teknisk detalje. Om det fører til reel ændring eller endnu et eftersyn uden konsekvens, afgør, om aflysninger gentager sig.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/eugb2ruo/20250403-231504-l.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Arkivfoto: soldat på skibsdæk ved en helikopter, symbolfoto for sagen om Forsvarets arktiske patruljeskibe",
+        "sourceUrl": "https://www.dr.dk/nyheder/seneste/regeringsparti-presser-forsvarsminister-i-sag-om-arktiske-soldater-foraeldet-princip-skal-have-et"
+      },
+      "topics": [
+        "forsvar",
+        "danmark",
+        "arktis"
+      ],
+      "entities": [
+        "Moderaterne",
+        "Jeppe Bruus",
+        "Forsvaret"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 60,
+        "decisionValue": 50,
+        "novelty": 65,
+        "sourceQuality": 85,
+        "personalRelevance": 30,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Moderaterne presser forsvarsminister Jeppe Bruus til at genoverveje, hvorfor soldater på arktiske patruljeskibe ikke får flagdagsanerkendelse, medaljer eller veteranstatus",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/seneste/regeringsparti-presser-forsvarsminister-i-sag-om-arktiske-soldater-foraeldet-princip-skal-have-et"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Regeringsparti presser forsvarsminister i sag om arktiske soldater: 'Forældet' princip skal have et eftersyn",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/seneste/regeringsparti-presser-forsvarsminister-i-sag-om-arktiske-soldater-foraeldet-princip-skal-have-et",
+          "publishedAt": "2026-09-08T17:00:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-ikast-brande-golf-2026",
+      "eventKey": "ikast-brande-golfbane-dispensation",
+      "materialFacts": [
+        "Ikast-Brande Byråd har givet en golfklub-udvikler dispensation på 14 af 15 omstridte planpunkter mod forvaltningens indstilling",
+        "Byggeriet ligger på en bevaringsværdig istidsbakke, hvor beskyttet paragraf 3-natur er blevet fjernet"
+      ],
+      "section": "Danmark",
+      "headline": "Byrådets tilgivelse vækker harme hos forening, mens ekspert vil have ministeren på banen",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/byraadets-tilgivelse-vaekker-harme-hos-forening-mens-ekspert-vil-have-ministeren-paa-banen",
+      "subheadline": "Ikast-Brande Byråd har givet en golfklub-udvikler dispensation på 14 ud af 15 omstridte punkter, mod forvaltningens indstilling.",
+      "body": [
+        "Ikast-Brande Byråd har givet en privat golfklub-udvikler dispensation på 14 af 15 omstridte planpunkter - mod egen forvaltnings indstilling. Byggeriet ligger på en bevaringsværdig istidsbakke, hvor beskyttet paragraf 3-natur samtidig er blevet fjernet.",
+        "Danmarks Naturfredningsforening kalder forløbet uhørt, mens en juridisk ekspert peger på, at miljøministeren muligvis må gribe ind i sagen."
+      ],
+      "whyItMatters": "Sagen er et eksempel på, hvor stor forskel der reelt kan være mellem en kommunal forvaltnings faglige indstilling og den politiske beslutning, der ender med at blive vedtaget - selv når indstillingen handler om lovbeskyttet natur.",
+      "analysis": "Om ministeren vælger at gribe ind, afgør, om sagen bliver en enkeltstående lokalpolitisk beslutning eller en præcedens, andre kommuner kan pege på, næste gang en investor støder på en beskyttet naturtype.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/iggmhkim/20260908-111829-6_crop001.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Ikast-Brande Byråd samlet til møde med tilhørere i baggrunden",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/byraadets-tilgivelse-vaekker-harme-hos-forening-mens-ekspert-vil-have-ministeren-paa-banen"
+      },
+      "topics": [
+        "kommunalpolitik",
+        "natur",
+        "danmark"
+      ],
+      "entities": [
+        "Ikast-Brande Kommune",
+        "Danmarks Naturfredningsforening"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 45,
+        "novelty": 60,
+        "sourceQuality": 85,
+        "personalRelevance": 35,
+        "contrast": 50
+      },
+      "claims": [
+        {
+          "text": "Ikast-Brande Byråd har givet en privat golfklub-udvikler dispensation på 14 af 15 omstridte planpunkter mod forvaltningens indstilling, på en bevaringsværdig istidsbakke",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/byraadets-tilgivelse-vaekker-harme-hos-forening-mens-ekspert-vil-have-ministeren-paa-banen"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Byrådets tilgivelse vækker harme hos forening, mens ekspert vil have ministeren på banen",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/byraadets-tilgivelse-vaekker-harme-hos-forening-mens-ekspert-vil-have-ministeren-paa-banen",
+          "publishedAt": "2026-09-08T13:50:00Z",
+          "kind": "reporting"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "Succesfuld CEO takker af: - Novo vil altid være en del af mig",
+      "headline": "Succesfuld CEO takker af: - Novo vil altid være en del af mig",
+      "url": "https://www.sn.dk/art6638248/koege-kommune/nyhed/succesfuld-ceo-takker-af-novo-vil-altid-vaere-en-del-af-mig/",
+      "publisher": "sn.dk",
+      "section": "Erhverv",
+      "publishedAt": "2026-09-08T07:59:50Z",
+      "summary": "Ulla Grove Krogsgaard Thomsen forlader Novo Nordisk Pharmatech efter 29 år, de seneste fem som CEO, for at forfølge en ny karriere. Hun bliver, til en efterfølger er fundet."
+    },
+    {
+      "text": "Forsker: Afgørelse gør Wolt-budenes forsøg på overenskomst til karteldannelse",
+      "headline": "Forsker: Afgørelse gør Wolt-budenes forsøg på overenskomst til karteldannelse",
+      "url": "https://ing.dk/artikel/forsker-afgoerelse-goer-wolt-budenes-forsoeg-paa-overenskomst-til-karteldannelse",
+      "publisher": "Ingeniøren",
+      "section": "Erhverv",
+      "publishedAt": "2026-09-07T09:20:00Z",
+      "summary": "Konkurrence- og Forbrugerstyrelsen har fundet Wolt skyldig i ulovlige prisvilkår over for restauranter. En forsker peger på, at afgørelsen samtidig kan gøre Wolt-buddenes forsøg på kollektiv organisering til karteldannelse."
+    },
+    {
+      "text": "Fødevareinflationen er på vej tilbage: Finanshus ser risiko for en ny prischokbølge i 2027",
+      "headline": "Fødevareinflationen er på vej tilbage: Finanshus ser risiko for en ny prischokbølge i 2027",
+      "url": "https://ugebrev.dk/flashnews/foedevareinflationen-er-paa-vej-tilbage-finanshus-ser-risiko-for-en-ny-prischokboelge-i-2027/",
+      "publisher": "Økonomisk Ugebrev",
+      "section": "Økonomi",
+      "publishedAt": "2026-09-08T13:11:51Z",
+      "summary": "ABN AMRO advarer om, at fødevareinflationen i eurozonen kan tage til igen ind i 2027, drevet af en europæisk høst omkring 7 pct. under gennemsnittet."
+    },
+    {
+      "text": "Dansk virksomhed presset til at skrotte nye datacentre: El-kaos halverer projekterne",
+      "headline": "Dansk virksomhed presset til at skrotte nye datacentre: El-kaos halverer projekterne",
+      "url": "https://ing.dk/artikel/dansk-virksomhed-presset-til-skrotte-nye-datacentre-el-kaos-halverer-projekterne",
+      "publisher": "Ingeniøren",
+      "section": "Energi",
+      "publishedAt": "2026-09-08T09:56:59Z",
+      "summary": "Udvikleren Stender har skrottet halvdelen af sine planlagte datacenterprojekter på grund af manglende elnetkapacitet og politisk opbakning."
+    },
+    {
+      "text": "Mærsk tester sejl på containerskib for at reducere CO2-aftryk",
+      "headline": "Mærsk tester sejl på containerskib for at reducere CO2-aftryk",
+      "url": "https://ugebrev.dk/samfundsansvar/maersk-tester-sejl-paa-containerskib-for-at-reducere-co2-aftryk/",
+      "publisher": "Økonomisk Ugebrev",
+      "section": "Erhverv",
+      "publishedAt": "2026-09-08T19:06:03Z",
+      "summary": "A.P. Møller-Mærsk monterer et 35 meter rotorsejl på et containerskib fra midt-2027 for at teste vindassisteret fremdrift."
+    },
+    {
+      "text": "Styrelse sætter sager om familiesammenføring i bero efter registerfejl",
+      "headline": "Styrelse sætter sager om familiesammenføring i bero efter registerfejl",
+      "url": "https://www.dr.dk/nyheder/indland/styrelse-saetter-sager-om-familiesammenfoering-i-bero-efter-registerfejl",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-09-08T14:53:13Z",
+      "summary": "Udlændingestyrelsen har sat sager i bero, hvor en fejl i Det Centrale Kriminalregister kan have haft betydning. 48 sager med fejlagtige slettelser er indtil videre fundet."
+    },
+    {
+      "text": "Dyrevelfærdskontrollen halter - Wammen varsler akutpakke",
+      "headline": "Dyrevelfærdskontrollen halter - Wammen varsler akutpakke",
+      "url": "https://www.dr.dk/nyheder/indland/dyrevelfaerdskontrollen-halter-wammen-varsler-akutpakke",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-09-08T08:27:23Z",
+      "summary": "Omkring 1.500 opfølgende dyrevelfærdskontroller blev aldrig gennemført. Minister Nicolai Wammen varsler en akutpakke; Dyrenes Beskyttelses direktør kalder forløbet dybt rystende."
+    },
+    {
+      "text": "Lokofører kom med 160 i timen, da han så to børn på skinnerne",
+      "headline": "Lokofører kom med 160 i timen, da han så to børn på skinnerne",
+      "url": "https://nyheder.tv2.dk/samfund/2026-09-08-lokofoerer-kom-med-160-i-timen-da-han-saa-to-boern-paa-skinnerne",
+      "publisher": "TV 2",
+      "section": "Danmark",
+      "publishedAt": "2026-09-08T19:18:44Z",
+      "summary": "En lokofører nåede at bremse ned fra 160 km/t og undgå at ramme to drenge på skinnerne. Banedanmark melder om markant stigning i uautoriserede sporindtrængninger siden 2022."
+    },
+    {
+      "text": "Giver Brennans succes hovedbrud for Vingegaard?",
+      "headline": "Giver Brennans succes hovedbrud for Vingegaard?",
+      "url": "https://sport.tv2.dk/cykling/2026-09-08-giver-brennans-succes-hovedbrud-for-vingegaard",
+      "publisher": "TV 2",
+      "section": "Sport",
+      "publishedAt": "2026-09-08T17:12:00Z",
+      "summary": "Matthew Brennan har vundet fire Vuelta-etaper i sin debut og skaber dermed et udtagelsesdilemma for Visma-Lease a Bike før næste års Tour de France."
+    },
+    {
+      "text": "US Open 2026: Aryna Sabalenka edges into semi-finals with three-set win over Linda Noskova",
+      "headline": "US Open 2026: Aryna Sabalenka edges into semi-finals with three-set win over Linda Noskova",
+      "url": "https://www.skysports.com/tennis/news/12040/13583242/us-open-2026-aryna-sabalenka-edges-into-semi-finals-with-three-set-win-over-linda-noskova-in-thriller",
+      "publisher": "Sky Sports",
+      "section": "Sport",
+      "publishedAt": "2026-09-09T04:18:29Z",
+      "summary": "Aryna Sabalenka vandt 7-6, 3-6, 7-6 over Linda Noskova og møder Jessica Pegula i semifinalen i jagten på sin tredje US Open-titel i træk."
+    },
+    {
+      "text": "Everton 2-2 Man Utd: Ainsley Maitland-Niles scores outrageous stoppage-time equaliser to earn dramatic draw",
+      "headline": "Everton 2-2 Man Utd: Ainsley Maitland-Niles scores outrageous stoppage-time equaliser to earn dramatic draw",
+      "url": "https://www.skysports.com/football/everton-vs-manchester-united/5908556440869709232",
+      "publisher": "Sky Sports",
+      "section": "Sport",
+      "publishedAt": "2026-09-06T21:11:21Z",
+      "summary": "Manchester United førte to gange, men Evertons Ainsley Maitland-Niles udlignede i overtiden til 2-2 - tredje ligakamp i træk, hvor United lukker to mål ind."
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-trade-war-book",
+      "mode": "read",
+      "kind": "book",
+      "status": "available",
+      "title": "How to Win a Trade War: An Optimistic Guide to an Anxious Global Economy",
+      "creator": "Soumaya Keynes og Chad P. Bown",
+      "provider": "Simon & Schuster / Pan Macmillan",
+      "url": "https://books.google.com/books/about/How_to_Win_a_Trade_War.html?id=UMRqEQAAQBAJ",
+      "availability": "Kan købes som bog og e-bog",
+      "commitment": "Bog, flere timer",
+      "description": "FT-klummeskribent Soumaya Keynes og PIIE-økonom Chad Bown gennemgår, hvordan told, Kinas sjældne jordarter og halvlederrestriktioner nu fungerer som verdenshandelens reelle regelsæt, og hvad 'at vinde' faktisk betyder i den situation.",
+      "rationale": "Skrevet af to af de skarpeste stemmer i handelspolitik lige nu, direkte inden for det felt, der var omdrejningspunktet i din tid på europæisk niveau - og en klarere ramme for tarif-æraen end de fleste avisartikler kan give.",
+      "topics": [
+        "handelspolitik",
+        "eu-us",
+        "makroøkonomi"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://books.google.com/books/publisher/content?id=UMRqEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70On9bwMxDU9RVijCD30BR4oSH_DJKfvrlapNl3IvhMJFfZ_XaUak3dQOWoIpWGyFirgXJib2gZkgVmK4ZQ2uq5aucHudA1ujb_A_WJ2pDT3QqCla-ax-dPNtQQwsmdfRh9iK8s",
+        "credit": "Kilde: Google Books / Pan Macmillan",
+        "alt": "Bogomslag: How to Win a Trade War af Soumaya Keynes og Chad P. Bown",
+        "sourceUrl": "https://books.google.com/books/about/How_to_Win_a_Trade_War.html?id=UMRqEQAAQBAJ"
+      }
+    },
+    {
+      "id": "rec-fractional-work-hbr",
+      "mode": "read",
+      "kind": "article",
+      "status": "available",
+      "title": "5 Questions Leaders Should Ask Before Turning to Fractional Work",
+      "creator": "Joy Batra og Dorie Clark",
+      "provider": "Harvard Business Review",
+      "url": "https://hbr.org/2026/04/5-questions-leaders-should-ask-before-turning-to-fractional-work",
+      "availability": "Frit tilgængelig artikel",
+      "commitment": "Ca. 10 minutter",
+      "description": "HBR-artikel til ledere, der overvejer fraktioneret eller konsulentbaseret arbejde, bygget op om fem spørgsmål om identitet, indtægtsspredning, autonomi og positionering.",
+      "rationale": "Pragmatisk og ukonkret-fri i en genre, der ellers hælder mod motivationstaler - de fem spørgsmål er værktøjer, ikke honnørord, til en, der selv står midt i den overvejelse.",
+      "topics": [
+        "karriere",
+        "konsulentarbejde",
+        "ledelse"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-sound-of-green",
+      "mode": "listen",
+      "kind": "podcast",
+      "status": "available",
+      "title": "When green energy has a people problem",
+      "creator": "State of Green",
+      "provider": "Sound of Green (podcast)",
+      "url": "https://podcasts.apple.com/ca/podcast/sound-of-green-stories-from-denmarks-green-transition/id1665854267",
+      "availability": "Gratis på Apple Podcasts",
+      "commitment": "Én episode, ca. 30 minutter",
+      "description": "Podcastepisode om lokal accept som den reelle flaskehals for udbygning af vedvarende energi, og hvordan man flytter lokalsamfund fra modstand til medejerskab.",
+      "rationale": "Samme spænding som dagens historie om solcelleparken og odderne, men behandlet som et generelt udførelsesproblem for grøn omstilling - relevant industrielt snarere end som stemningsbillede.",
+      "topics": [
+        "grøn-omstilling",
+        "energi",
+        "lokalsamfund"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-aeon-andersen",
+      "mode": "read",
+      "kind": "essay",
+      "status": "available",
+      "title": "Neuroqueering on the Lawn",
+      "creator": "Siobhan Unwin og Kathryne Ford",
+      "provider": "Aeon",
+      "url": "https://aeon.co/essays/neuroqueer-expression-and-the-limits-of-social-tolerance",
+      "availability": "Frit tilgængeligt essay",
+      "commitment": "Ca. 15 minutter",
+      "description": "Essay der bruger H.C. Andersens virkelige sammenbrud på Charles Dickens' græsplæne efter en dårlig anmeldelse som case for, hvordan victorianske normer regulerede 'overdrevne' følelser.",
+      "rationale": "Helt uden for dagens øvrige stof: litteraturhistorie og psykologi, men forankret i en dansk skikkelse - en påmindelse om, at følelsesmæssig kontrol altid har været en social norm, ikke en naturlov.",
+      "topics": [
+        "litteraturhistorie",
+        "psykologi"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {
+    "sourceCoverage": 70,
+    "freshness": 85,
+    "novelty": 75,
+    "perspectiveBalance": 60,
+    "render": 100
+  }
+}
