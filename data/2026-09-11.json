@@ -1,0 +1,689 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-09-11-full",
+  "date": "2026-09-11",
+  "generatedAt": "2026-09-11T06:09:16Z",
+  "readingMinutes": 10,
+  "title": "Thomas' Nyheder",
+  "dek": "DI kritiserer EU's udbudsforordning, Andel sælger Ørsted-aktier for 3,1 mia. kr. til elnettet, og elpriserne stikker af på en septemberaften — plus to historier uden for profilen om en sædbank-skandale med 110 børn fra én donor og et dansk fiskeri presset af iltsvind.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "di-eu-udbudsforordning-kritik",
+      "eventKey": "di-eu-udbudsforordning-kritik",
+      "materialFacts": [
+        "DI kritiserer Kommissionens forslag til ny udbudsforordning for at mangle fleksibilitet, afbureaukratisering og en fælles europæisk Buy European-tilgang.",
+        "DI vurderer, at forslaget til nye udbudsprocedurer isoleret kan koste danske virksomheder ca. 1,5 mia. kr. årligt.",
+        "Kommissionen foreslår at gøre Buy European frivilligt for hver af 250.000 offentlige indkøbere i EU."
+      ],
+      "section": "EU og konkurrenceevne",
+      "headline": "DI: EU misser chance for at gøre offentlige indkøb til en vækstmotor",
+      "primarySourceUrl": "https://www.danskindustri.dk/om-di/kontakt-os/presse/arkiv/pressemeddelelser/2026/9/di-eu-misser-chance-for-at-gore-offentlige-indkob-til-en-vakstmotor/",
+      "subheadline": "Dansk Industri kritiserer EU-Kommissionens nye udbudsforordning for at mangle fleksibilitet og en fælles Buy European-linje — og vurderer, at forslaget alene kan koste danske virksomheder 1,5 mia. kr. om året.",
+      "body": [
+        "EU-Kommissionens længe ventede forslag til en ny udbudsforordning leverer hverken fleksibiliteten, afbureaukratiseringen eller den fælles Buy European-tilgang, erhvervslivet håbede på, vurderer Dansk Industri. Alene forslaget til nye udbudsprocedurer kan ifølge DI koste danske virksomheder omkring 1,5 mia. kr. årligt.",
+        "Kommissionen foreslår at gøre Buy European frivilligt for den enkelte indkøber. DI advarer om, at op mod 250.000 offentlige indkøbere dermed hver skal vurdere de samme produkter — teknologi som tomater."
+      ],
+      "whyItMatters": "Reformen skulle være grundloven for offentligt-privat samarbejde og en løftestang for europæisk konkurrenceevne. I stedet risikerer den at fastholde et fragmenteret marked, hvor det offentlige årligt indkøber for enorme summer.",
+      "analysis": "For en tidligere DI-topchef med ansvar for EU-konkurrenceevne er sagen et billede af Draghi-dagsordenens svaghed: Kommissionen taler forenkling, men lander et forslag, hvor 250.000 lokale indkøbere hver skal genopfinde samme vurdering.",
+      "counterpoint": "Kommissionen vil formentlig svare, at frihed til den enkelte indkøber respekterer nærhedsprincippet frem for en ufleksibel EU-liste over 'strategiske' produkter — et princip, DI selv ofte forsvarer.",
+      "primaryExcerpt": {
+        "quote": "Vi havde virkelig set frem til en gamechanger for offentligt-privat samspil, men alene forslaget om nye udbudsprocedurer kan nemt give en ekstraregning for danske virksomheder i størrelsesordenen 1,5 mia. kr. årligt.",
+        "sourceUrl": "https://www.danskindustri.dk/om-di/kontakt-os/presse/arkiv/pressemeddelelser/2026/9/di-eu-misser-chance-for-at-gore-offentlige-indkob-til-en-vakstmotor/",
+        "sourceTitle": "DI: EU misser chance for at gøre offentlige indkøb til en vækstmotor"
+      },
+      "image": {
+        "url": "https://www.danskindustri.dk/globalassets/system/ritzau/jakob-scharff-2026_buro-jantzen_0115_15150518.jpg",
+        "credit": "Kilde: Dansk Industri",
+        "alt": "Jakob Scharff, branchedirektør i Dansk Industri, der kritiserer EU-Kommissionens forslag til ny udbudsforordning",
+        "sourceUrl": "https://www.danskindustri.dk/om-di/kontakt-os/presse/arkiv/pressemeddelelser/2026/9/di-eu-misser-chance-for-at-gore-offentlige-indkob-til-en-vakstmotor/"
+      },
+      "topics": [
+        "eu-competitiveness",
+        "di",
+        "regulatory-burden"
+      ],
+      "entities": [
+        "Dansk Industri",
+        "Jakob Scharff",
+        "EU-Kommissionen"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 78,
+        "decisionValue": 72,
+        "novelty": 62,
+        "sourceQuality": 88,
+        "personalRelevance": 92,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "DI vurderer, at forslaget til nye udbudsprocedurer isoleret kan give danske virksomheder en ekstraregning på ca. 1,5 mia. kr. årligt.",
+          "sourceUrls": [
+            "https://www.danskindustri.dk/om-di/kontakt-os/presse/arkiv/pressemeddelelser/2026/9/di-eu-misser-chance-for-at-gore-offentlige-indkob-til-en-vakstmotor/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Kommissionen foreslår at gøre Buy European frivilligt for den enkelte offentlige indkøber, hvilket DI mener vil ramme op mod 250.000 indkøbere med hver deres vurdering.",
+          "sourceUrls": [
+            "https://www.danskindustri.dk/om-di/kontakt-os/presse/arkiv/pressemeddelelser/2026/9/di-eu-misser-chance-for-at-gore-offentlige-indkob-til-en-vakstmotor/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "DI: EU misser chance for at gøre offentlige indkøb til en vækstmotor",
+          "publisher": "Dansk Industri",
+          "url": "https://www.danskindustri.dk/om-di/kontakt-os/presse/arkiv/pressemeddelelser/2026/9/di-eu-misser-chance-for-at-gore-offentlige-indkob-til-en-vakstmotor/",
+          "publishedAt": "2026-09-09T13:41:43Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "andel-orsted-aktiesalg-elnet",
+      "eventKey": "andel-orsted-aktiesalg-elnet",
+      "materialFacts": [
+        "Andel har solgt 22.800.000 Ørsted-aktier (1,73 pct. af aktiekapitalen) for 3.089.400.000 kr.",
+        "Andel ejer herefter 43.392.007 aktier, svarende til 3,28 pct. af Ørsted, ned fra ca. 5,0 pct.",
+        "Provenuet skal finansiere en del af mere end 20 mia. kr., Andel planlægger at investere i det østdanske elnet og landets største ladenetværk i 2026-2030."
+      ],
+      "section": "Energi",
+      "headline": "Andel realiserer Ørsted-aktier for ca. 3 mia. kr. for at skærpe fokus på elektrificering",
+      "primarySourceUrl": "https://via.ritzau.dk/pressemeddelelse/15148335/andel-realiserer-orsted-aktier-for-ca-3-mia-kr-for-at-skaerpe-fokus-pa-elektrificering?lang=da",
+      "subheadline": "Energikoncernen Andel sælger knap en tredjedel af sin Ørsted-post og bruger provenuet til at finansiere over 20 mia. kr. i investeringer i elnet og ladeinfrastruktur frem mod 2030.",
+      "body": [
+        "Andel har solgt 22.800.000 aktier i Ørsted, svarende til 1,73 pct. af aktiekapitalen, for 3.089.400.000 kr. Selskabet ejer herefter 43.392.007 aktier, 3,28 pct. af Ørsted, ned fra omkring 5 pct.",
+        "Det er ikke første gang, Andel sætter sin Ørsted-post i spil for at finansiere strategiske investeringer: I 2020 solgte selskabet halvdelen af sin daværende post i forbindelse med købet af Radius Elnet."
+      ],
+      "whyItMatters": "Provenuet skal finansiere en del af de over 20 mia. kr., Andel planlægger at investere i 2026-2030, primært i det østdanske elnet og ladenetværket, fordi elforbruget nu vokser hurtigt med elbiler, varmepumper og nye virksomheder.",
+      "analysis": "At et andelsejet energiselskab sælger ned i en af landets vigtigste industriaktier for at finansiere elnet frem for grøn produktion, er et konkret svar på, hvem der reelt betaler for elektrificeringen: i stigende grad forbrugerejede selskaber som Andel.",
+      "primaryExcerpt": {
+        "quote": "Med et styrket Ørsted og en ejerposition, der er steget betydeligt i værdi, finder vi det nu naturligt at realisere aktier svarende til vores ekstraordinære indskud sidste år for at investere dér, hvor vi som koncern kan gøre mest direkte nytte: i elnet og ladenetværk, der bidrager til at bygge fundamentet for et elektrisk Danmark fri for fossile brændsler.",
+        "sourceUrl": "https://via.ritzau.dk/pressemeddelelse/15148335/andel-realiserer-orsted-aktier-for-ca-3-mia-kr-for-at-skaerpe-fokus-pa-elektrificering?lang=da",
+        "sourceTitle": "Andel realiserer Ørsted-aktier for ca. 3 mia. kr. for at skærpe fokus på elektrificering"
+      },
+      "image": {
+        "url": "https://via.ritzau.dk/data/images/public/4618148/15148335/1aa5b2bf-9fb9-4547-b588-9700cb2a68ba-w_960.jpg",
+        "credit": "Kilde: Andel",
+        "alt": "Havvindmøller ejet af Ørsted, det selskab Andel sælger aktier i for at finansiere elnet og ladeinfrastruktur",
+        "sourceUrl": "https://via.ritzau.dk/pressemeddelelse/15148335/andel-realiserer-orsted-aktier-for-ca-3-mia-kr-for-at-skaerpe-fokus-pa-elektrificering?lang=da"
+      },
+      "topics": [
+        "energy",
+        "who-is-financing",
+        "danish-business"
+      ],
+      "entities": [
+        "Andel",
+        "Ørsted",
+        "Jesper Hjulmand"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 66,
+        "decisionValue": 58,
+        "novelty": 62,
+        "sourceQuality": 82,
+        "personalRelevance": 75,
+        "contrast": 30
+      },
+      "claims": [
+        {
+          "text": "Andel har solgt 22.800.000 Ørsted-aktier (1,73 pct. af aktiekapitalen) for 3.089.400.000 kr. og ejer herefter 3,28 pct. af Ørsted.",
+          "sourceUrls": [
+            "https://via.ritzau.dk/pressemeddelelse/15148335/andel-realiserer-orsted-aktier-for-ca-3-mia-kr-for-at-skaerpe-fokus-pa-elektrificering?lang=da"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Andel planlægger at investere mere end 20 mia. kr. i det østdanske elnet og ladenetværket i perioden 2026-2030.",
+          "sourceUrls": [
+            "https://via.ritzau.dk/pressemeddelelse/15148335/andel-realiserer-orsted-aktier-for-ca-3-mia-kr-for-at-skaerpe-fokus-pa-elektrificering?lang=da"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Andel realiserer Ørsted-aktier for ca. 3 mia. kr. for at skærpe fokus på elektrificering",
+          "publisher": "Andel",
+          "url": "https://via.ritzau.dk/pressemeddelelse/15148335/andel-realiserer-orsted-aktier-for-ca-3-mia-kr-for-at-skaerpe-fokus-pa-elektrificering?lang=da",
+          "publishedAt": "2026-09-09T08:12:06Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "european-sperm-bank-donor-overforbrug",
+      "eventKey": "european-sperm-bank-donor-overforbrug",
+      "materialFacts": [
+        "European Sperm Bank er politianmeldt, fordi sæd fra 81 donorer rekrutteret efter marts 2013 er solgt til flere kvinder end den lovlige grænse på 12 kvinder bosat i Danmark.",
+        "Yderligere 105 donorer rekrutteret før marts 2013 har overskredet en vejledende (ikke lovpligtig) grænse på 25 børn per donor.",
+        "Én donor, rekrutteret før 2013, står bag 110 danske børn — mere end fire gange den vejledende grænse.",
+        "Hverken European Sperm Bank eller Styrelsen for Patientsikkerhed har kontaktet de berørte børn og familier."
+      ],
+      "section": "Indland",
+      "headline": "Én sæddonor har 110 danske børn: 'Det er jo et kæmpe tillidsbrud'",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/en-saeddonor-har-110-danske-boern-det-er-jo-et-kaempe-tillidsbrud",
+      "subheadline": "European Sperm Bank er politianmeldt, efter det er afdækket, at sæd fra 186 donorer er brugt til flere børn, end loven og bankens egne anbefalinger tillader.",
+      "body": [
+        "European Sperm Bank er politianmeldt, efter DR afslører, at sæd fra 81 donorer efter marts 2013 er solgt til flere kvinder end grænsen på 12 kvinder bosat i Danmark. Yderligere 105 donorer fra før 2013 har overskredet en vejledende grænse på 25 børn — et brud på en anbefaling, ikke loven.",
+        "Én donor, rekrutteret før 2013, står alene bag 110 danske børn — mere end fire gange den vejledende grænse. 'Det er jo et kæmpe tillidsbrud,' siger Anna Luna Carlsen, hvis søn er undfanget med sæd fra en overforbrugt donor."
+      ],
+      "whyItMatters": "Hverken sædbanken eller Styrelsen for Patientsikkerhed har kontaktet de berørte familier. Sædbanken afviser at oplyse Anna Luna Carlsen, hvor mange halvsøskende hendes søn har.",
+      "analysis": "At et lovbrud og et brud på en anbefaling begge er afdækket af pressen og ikke myndighederne, peger på et tilsynshul: reglerne findes i to lag, men ingen kontrollerer løbende, om aktøren overholder dem.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/gryi01kg/alje_c_donor_anna_luna_interview-00554423.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Anna Luna Carlsen, mor til et af de berørte børn, i interview med DR om sæddonor-sagen",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/en-saeddonor-har-110-danske-boern-det-er-jo-et-kaempe-tillidsbrud"
+      },
+      "topics": [
+        "general-news",
+        "health"
+      ],
+      "entities": [
+        "European Sperm Bank",
+        "Anna Luna Carlsen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 68,
+        "decisionValue": 20,
+        "novelty": 78,
+        "sourceQuality": 85,
+        "personalRelevance": 10,
+        "contrast": 85
+      },
+      "claims": [
+        {
+          "text": "81 donorer rekrutteret efter marts 2013 er solgt til flere kvinder end den lovlige grænse på 12 kvinder bosat i Danmark; sagerne er sendt til politiet.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/en-saeddonor-har-110-danske-boern-det-er-jo-et-kaempe-tillidsbrud"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "105 donorer rekrutteret før marts 2013 har overskredet en vejledende grænse på 25 børn; det er ikke et lovbrud.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/en-saeddonor-har-110-danske-boern-det-er-jo-et-kaempe-tillidsbrud"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Donoren med 110 danske børn blev rekrutteret før 2013 og hører derfor til gruppen omfattet af den vejledende grænse på 25, ikke den lovlige grænse på 12.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/en-saeddonor-har-110-danske-boern-det-er-jo-et-kaempe-tillidsbrud"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Én sæddonor har 110 danske børn: 'Det er jo et kæmpe tillidsbrud'",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/en-saeddonor-har-110-danske-boern-det-er-jo-et-kaempe-tillidsbrud",
+          "publishedAt": "2026-09-10T17:35:53Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "elpriser-aftenpeak-september-2026",
+      "eventKey": "elpriser-aftenpeak-september-2026",
+      "materialFacts": [
+        "Den rene elpris ramte 3,5 kr. per kWh kl. 19 i både Øst- og Vestdanmark, og lå omkring 3,2 kr. per kWh kl. 20-21.",
+        "September er på vej til at blive den dyreste måned siden december 2022 for elpriser.",
+        "Årsagen er lav vindproduktion samtidig med aftenpeak i forbruget, kombineret med historisk høje gaspriser drevet af situationen ved Hormuzstrædet."
+      ],
+      "section": "Penge",
+      "headline": "I aften stikker prisen på el af",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/penge/i-aften-stikker-prisen-paa-el-af",
+      "subheadline": "Den rene elpris ramte 3,5 kr. per kilowatt-time torsdag aften, og september er på vej til at blive den dyreste måned siden december 2022.",
+      "body": [
+        "Klokken 19 torsdag ramte den rene elpris 3,5 kr. pr. kWh i Øst- og Vestdanmark, og lå omkring 3,2 kr. mellem 20 og 21, oplyser Norlys og Andel Energi.",
+        "'Det er et meget markant aftenpeak, som først og fremmest skyldes, at produktionen fra vindmøller er meget begrænset […]' siger Norlys' energidirektør Ellen Trolle. 'Når vinden ikke blæser, og solen er væk, er vi afhængige af de gasfyrede kraftværker, og lige nu er prisen på naturgas historisk høj som følge af den tilspidsede situation omkring Hormuzstrædet.'"
+      ],
+      "whyItMatters": "September er allerede på vej forbi august, dyreste måned siden december 2022. Det rammer også husstande uden gasfyr, fordi gasprisen driver elprisen op via de kraftværker, der dækker underskuddet.",
+      "analysis": "Aftenens prisspidser viser, hvor tæt elprisen er koblet til naturgas og geopolitik langt fra Nordsøen: uro ved Hormuzstrædet slår igennem i elregninger, når vindmøllerne holder pause.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/5rgkyqip/20220906-132318-l_crop001.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Foto: Ida Marie Odgaard, Ritzau Scanpix",
+        "alt": "Arkivfoto af en pære i en lampe, brugt af DR til historien om de stigende elpriser",
+        "sourceUrl": "https://www.dr.dk/nyheder/penge/i-aften-stikker-prisen-paa-el-af"
+      },
+      "topics": [
+        "energy",
+        "macro"
+      ],
+      "entities": [
+        "Norlys",
+        "Andel Energi",
+        "Ellen Trolle"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 56,
+        "decisionValue": 48,
+        "novelty": 52,
+        "sourceQuality": 82,
+        "personalRelevance": 50,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "Den rene elpris ramte 3,5 kr. per kWh kl. 19 i både Øst- og Vestdanmark torsdag, og lå omkring 3,2 kr. mellem kl. 20 og 21.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/i-aften-stikker-prisen-paa-el-af"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "I aften stikker prisen på el af",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/penge/i-aften-stikker-prisen-paa-el-af",
+          "publishedAt": "2026-09-10T13:30:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "dtu-iltsvind-fiskeri-oestersoeen-2026",
+      "eventKey": "dtu-iltsvind-fiskeri-oestersoeen-2026",
+      "materialFacts": [
+        "DTU-forskning viser, at kystnært erhvervsfiskeri i den vestlige Østersø kan falde til 10 pct. af normalt niveau under akut iltsvind.",
+        "Forskerne har sammenlignet over 2.000 iltmålinger med udbredelsen af bundtrawlfiskeri og finder en klar sammenhæng.",
+        "Torsk, rødspætter og skrubber forsvinder fra iltfattige områder, og fiskerne følger efter fiskene til andre fiskepladser."
+      ],
+      "section": "Indland",
+      "headline": "Iltsvind rammer ikke kun havet: Fiskeri kan falde til 10 procent af normalniveau",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/iltsvind-rammer-ikke-kun-havet-fiskeri-kan-falde-til-10-procent-af-normalniveau",
+      "subheadline": "Ny DTU-forskning viser en klar sammenhæng mellem iltsvind i den vestlige Østersø og et kraftigt fald i det kystnære erhvervsfiskeri.",
+      "body": [
+        "Når iltsvind for alvor rammer den vestlige Østersø, kan kystnært erhvervsfiskeri falde til 10 pct. af normalt niveau, viser ny DTU-forskning baseret på over 2.000 iltmålinger sammenholdt med bundtrawlfiskeriets udbredelse.",
+        "'Når der er iltsvind forskellige steder i de indre danske farvande, forsvinder de fisk, eksempelvis torsk, rødspætter og skrubber, som lever nær bunden, hvor iltsvindet er,' siger Mads Christoffersen, chefbiolog ved Tænketanken Hav og medforsker."
+      ],
+      "whyItMatters": "Fiskerne flytter fisketrykket til andre områder, når iltsvindet rammer. 'Der, hvor det rammer, kan man jo mærke det, fordi fiskene er væk,' siger Svend-Erik Andersen, formand for Danmarks Fiskeriforening.",
+      "analysis": "Undersøgelsen kvantificerer noget, kvælstofdebatten sjældent gør: konsekvensen for en konkret erhvervsgruppe. Et fald til 10 pct. er ikke marginalt — det er en indkomstkrise for de ramte fiskere.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/fgadvzbg/14958866_agns_indland_fiske_klaus_langeland-00003213.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Foto: Martin Rieck",
+        "alt": "Markeringsflag på en fiskerbåd, brugt til at markere fiskegrej, i DR's historie om iltsvind og fiskeri i den vestlige Østersø",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/iltsvind-rammer-ikke-kun-havet-fiskeri-kan-falde-til-10-procent-af-normalniveau"
+      },
+      "topics": [
+        "general-news",
+        "environment"
+      ],
+      "entities": [
+        "DTU",
+        "Mads Christoffersen",
+        "Tænketanken Hav",
+        "Danmarks Fiskeriforening",
+        "Svend-Erik Andersen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 52,
+        "decisionValue": 22,
+        "novelty": 65,
+        "sourceQuality": 85,
+        "personalRelevance": 12,
+        "contrast": 60
+      },
+      "claims": [
+        {
+          "text": "Kystnært erhvervsfiskeri i den vestlige Østersø kan falde til 10 pct. af normalt niveau under akut iltsvind, ifølge DTU-forskning baseret på over 2.000 iltmålinger.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/iltsvind-rammer-ikke-kun-havet-fiskeri-kan-falde-til-10-procent-af-normalniveau"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Iltsvind rammer ikke kun havet: Fiskeri kan falde til 10 procent af normalniveau",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/iltsvind-rammer-ikke-kun-havet-fiskeri-kan-falde-til-10-procent-af-normalniveau",
+          "publishedAt": "2026-09-11T04:01:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "skjelmose-sygdom-vuelta-vm-2026",
+      "eventKey": "skjelmose-sygdom-vuelta-vm-2026",
+      "materialFacts": [
+        "Mattias Skjelmose kører videre i Vuelta a España på trods af sygdom, kun to uger før han skal være Danmarks kaptajn ved VM i Canada.",
+        "Sportsdirektør Kim Andersen bekræfter sygdommen, men afviser at trække ham ud af Spanien Rundt.",
+        "Skjelmose kom i mål som nummer 22 i enkeltstarten og tabte tid til konkurrenterne om samlet placering."
+      ],
+      "section": "Sport",
+      "headline": "- En katastrofe, siger Rolf Sørensen om Skjelmose-sygdom",
+      "primarySourceUrl": "https://sport.tv2.dk/cykling/2026-09-10-en-katastrofe-siger-rolf-soerensen-om-skjelmose-sygdom",
+      "subheadline": "Mattias Skjelmose kører videre i Vuelta a España på trods af sygdom, kun to uger før han skal være Danmarks kaptajn ved VM i Canada.",
+      "body": [
+        "Mattias Skjelmose er ramt af sygdom i Vueltaens afsluttende uge, bekræfter sportsdirektør Kim Andersen fra Lidl-Trek: 'Han kører for os. Han bliver betalt af os. Han kører Spanien Rundt lige nu. Vi tænker ikke på VM.' Skjelmose blev nummer 22 i torsdagens enkeltstart.",
+        "TV 2's ekspert Rolf Sørensen: 'Hvis der er sygdom, så er det en katastrofe. Træthed kan man få kæmpet sig igennem, men hvis der er en lille smule sygdom, så er det noget rigtig skidt – for det hele, også for Spanien Rundt.'"
+      ],
+      "whyItMatters": "Skjelmose er udset til at være Danmarks kaptajn ved VM i Canada om to uger, og Lidl-Trek har allerede mistet Mads Pedersen til sygdom i årets Vuelta.",
+      "analysis": "At holdet prioriterer en Grand Tour-placering over et VM to uger senere, er en kalkuleret risiko: hver dag med sygdom i benene er en dag mindre restitution inden et løb, hvor Skjelmose er favorit til en medalje.",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/c/a/8/ca8c7076-4e34-46ca-aa28-91c816035f7b?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCw2MDIsNTEwMSwyODY4&s=9161c669710151d1aa790514f91160ad",
+        "credit": "Kilde: TV 2 Sport",
+        "alt": "Mattias Skjelmose under enkeltstarten i Vuelta a España, hvor sygdom har præget hans afsluttende uge",
+        "sourceUrl": "https://sport.tv2.dk/cykling/2026-09-10-en-katastrofe-siger-rolf-soerensen-om-skjelmose-sygdom"
+      },
+      "topics": [
+        "sport-cycling"
+      ],
+      "entities": [
+        "Mattias Skjelmose",
+        "Rolf Sørensen",
+        "Kim Andersen",
+        "Lidl-Trek"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 42,
+        "decisionValue": 8,
+        "novelty": 55,
+        "sourceQuality": 78,
+        "personalRelevance": 65,
+        "contrast": 15
+      },
+      "claims": [
+        {
+          "text": "Mattias Skjelmose er ramt af sygdom i Vueltaens afsluttende uge, men fortsætter løbet, og blev nummer 22 i den 32 km lange enkeltstart.",
+          "sourceUrls": [
+            "https://sport.tv2.dk/cykling/2026-09-10-en-katastrofe-siger-rolf-soerensen-om-skjelmose-sygdom"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "- En katastrofe, siger Rolf Sørensen om Skjelmose-sygdom",
+          "publisher": "TV 2",
+          "url": "https://sport.tv2.dk/cykling/2026-09-10-en-katastrofe-siger-rolf-soerensen-om-skjelmose-sygdom",
+          "publishedAt": "2026-09-11T04:49:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "pet-terrordomme-25-aar-911",
+      "eventKey": "pet-terrordomme-25-aar-911",
+      "materialFacts": [
+        "25 år efter angrebet på World Trade Center gør DR status på terrordomme i Danmark.",
+        "PET oplyser, at 81 personer er dømt i 54 sager for terrorrelaterede forhold i Danmark i perioden fra 2007 til 8. juli 2026.",
+        "PET's operative chef Flemming Drejer siger, at en række terrorangreb er blevet forhindret gennem årene."
+      ],
+      "section": "Indland",
+      "headline": "'Vi har heldigvis forhindret en række terrorangreb': Så mange er dømt for terror i Danmark",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/vi-har-heldigvis-forhindret-en-raekke-terrorangreb-saa-mange-er-doemt-terror-i-danmark",
+      "subheadline": "25 år efter angrebet på World Trade Center gør PET for første gang status: 81 personer er dømt i 54 sager for terrorrelaterede forhold i Danmark siden 2007.",
+      "body": [
+        "25 år efter angrebet på World Trade Center har PET for første gang lavet en samlet opgørelse: Fra 2007 til 8. juli 2026 er 81 personer dømt i 54 sager efter straffelovens kapitler om terror og landsforræderi.",
+        "'Vi har heldigvis gennem de seneste mange år forhindret en række terrorangreb i Danmark, og mange er blevet dømt for at støtte eller planlægge terror,' siger PET's operative chef Flemming Drejer i et skriftligt citat til DR."
+      ],
+      "whyItMatters": "Opgørelsen giver et sjældent samlet billede af indsatsen bag fraværet af store angreb i Danmark siden 2001 — bortset fra Krudttønden og synagogen i 2015 — mens PET vurderer, at truslen i dag er mere kompleks og drevet af enkeltpersoner.",
+      "analysis": "At antiterrorloven fra 2002 er ændret flere gange siden, afspejler netop det skifte: fra organiserede netværk som al-Qaeda og IS til en trussel, der er sværere at overvåge, fordi den ofte handler om enkeltpersoner uden bagland.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/ayekyt3l/20010911-171912-pf.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Foto: Seth Mccallister, AFP/Ritzau Scanpix",
+        "alt": "World Trade Center under angrebet den 11. september 2001, brugt af DR til historien om 25-året og terrordomme i Danmark",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/vi-har-heldigvis-forhindret-en-raekke-terrorangreb-saa-mange-er-doemt-terror-i-danmark"
+      },
+      "topics": [
+        "general-news",
+        "security"
+      ],
+      "entities": [
+        "PET",
+        "Flemming Drejer"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 50,
+        "decisionValue": 15,
+        "novelty": 45,
+        "sourceQuality": 85,
+        "personalRelevance": 15,
+        "contrast": 50
+      },
+      "claims": [
+        {
+          "text": "PET oplyser, at 81 personer er dømt i 54 sager for terrorrelaterede forhold i Danmark i perioden fra 2007 til 8. juli 2026.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/vi-har-heldigvis-forhindret-en-raekke-terrorangreb-saa-mange-er-doemt-terror-i-danmark"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "'Vi har heldigvis forhindret en række terrorangreb': Så mange er dømt for terror i Danmark",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/vi-har-heldigvis-forhindret-en-raekke-terrorangreb-saa-mange-er-doemt-terror-i-danmark",
+          "publishedAt": "2026-09-11T04:45:00Z",
+          "kind": "primary"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "DI-direktør for samfundssikkerhed og beredskab siger op",
+      "headline": "DI-direktør for samfundssikkerhed og beredskab siger op",
+      "url": "https://www.altinget.dk/navnenyt/di-direktoer-for-samfundssikkerhed-og-beredskab-siger-op",
+      "summary": "Rasmus Anderskouv, underdirektør og chef for samfundssikkerhed og beredskab i Dansk Industri, har efter 25 år i organisationen sagt sin stilling op. Han annoncerede det selv på LinkedIn som en fredelig og velovervejet beslutning.",
+      "publisher": "Altinget",
+      "section": "Navnenyt",
+      "publishedAt": "2026-09-09T14:35:00Z"
+    },
+    {
+      "text": "Selveje Danmark afbryder samarbejdet med direktør",
+      "headline": "Selveje Danmark afbryder samarbejdet med direktør",
+      "url": "https://www.altinget.dk/navnenyt/selveje-danmark-afbryder-samarbejdet-med-direktoer",
+      "summary": "Bestyrelsen i brancheorganisationen Selveje Danmark har med øjeblikkelig virkning stoppet samarbejdet med branchedirektør Jon Thorlacius Krog, der har ledet organisationen siden stiftelsen i 2012.",
+      "publisher": "Altinget",
+      "section": "Navnenyt",
+      "publishedAt": "2026-09-08T05:40:00Z"
+    },
+    {
+      "text": "Ikke set siden før corona: I fire måneder i træk er madprisen faldet",
+      "headline": "Ikke set siden før corona: I fire måneder i træk er madprisen faldet",
+      "url": "https://www.dr.dk/nyheder/penge/ikke-set-siden-foer-corona-i-fire-maaneder-i-traek-er-madprisen-faldet",
+      "summary": "Fødevarer var i august i gennemsnit 1,7 pct. billigere end året før, den fjerde måned i træk med prisfald sammenlignet med samme måned året før.",
+      "publisher": "DR",
+      "section": "Penge",
+      "publishedAt": "2026-09-10T09:59:16Z"
+    },
+    {
+      "text": "Klokken tikker: Norge kan få ekstratoll om få uger",
+      "headline": "Klokken tikker: Norge kan få ekstratoll om få uger",
+      "url": "https://e24.no/norsk-oekonomi/i/6qM5ez/klokken-tikker-norge-kan-faa-ekstratoll-om-faa-uker",
+      "summary": "Norge venter på resultatet af en amerikansk undersøgelse af, om landets oliefonds udenlandske investeringer bidrager til industriel overkapacitet og en kunstigt svag krone. Norge har allerede 12,5 pct. tillægstold efter en tidligere undersøgelse.",
+      "publisher": "E24",
+      "section": "Norsk økonomi",
+      "publishedAt": "2026-09-10T09:35:15Z"
+    },
+    {
+      "text": "Guidance for the 2026/27 financial year",
+      "headline": "Guidance for the 2026/27 financial year",
+      "url": "https://www.globenewswire.com/news-release/2026/09/10/3359914/0/en/guidance-for-the-2026-27-financial-year.html",
+      "summary": "ChemoMetec guider for 2026/27 mod en omsætning på 545-575 mio. kr. og EBITDA på 300-315 mio. kr., op fra 511,1 mio. kr. i omsætning og 281,3 mio. kr. i EBITDA i 2025/26.",
+      "publisher": "ChemoMetec A/S (GlobeNewswire)",
+      "section": "Selskabsmeddelelser",
+      "publishedAt": "2026-09-10T18:20:53Z"
+    },
+    {
+      "text": "Venstre får den værste Megafon-måling nogensinde",
+      "headline": "Venstre får den værste Megafon-måling nogensinde",
+      "url": "https://nyheder.tv2.dk/politik/2026-09-10-venstre-faar-den-vaerste-megafon-maaling-nogensinde",
+      "summary": "Venstre står til 6,4 pct. i Megafons måling, det dårligste resultat i målingens 28-årige historie, efter partiets omstridte ja til gødningsloven skabte splid og landbrugsprotester.",
+      "publisher": "TV 2",
+      "section": "Politik",
+      "publishedAt": "2026-09-11T04:00:01Z"
+    },
+    {
+      "text": "Nordjylland dropper Falck – 32 brandstationer skifter hænder",
+      "headline": "Nordjylland dropper Falck – 32 brandstationer skifter hænder",
+      "url": "https://nyheder.tv2.dk/samfund/2026-09-10-nordjylland-dropper-falck-32-brandstationer-skifter-haender",
+      "summary": "Nordjyllands Beredskab opsiger samarbejdet med Falck og overtager selv driften af 32 deltidsbrandstationer fra 1. januar 2028. Omkring 550 deltidsbrandfolk får alle tilbudt ansættelse hos den nye operatør.",
+      "publisher": "TV 2",
+      "section": "Samfund",
+      "publishedAt": "2026-09-10T17:05:26Z"
+    },
+    {
+      "text": "Far og 6-årig søn fik afbrudt fisketur: Hørte skud tæt på båden",
+      "headline": "Far og 6-årig søn fik afbrudt fisketur: Hørte skud tæt på båden",
+      "url": "https://www.dr.dk/nyheder/indland/far-og-6-aarig-soen-fik-afbrudt-fisketur-hoerte-skud-taet-paa-baaden",
+      "summary": "En 47-årig mand var ude at fiske med sin 6-årige søn ved Køge Bugt, da flere skud blev affyret tæt på båden. Politiet fandt tomme patronhylstre og kalder det en alvorlig anmeldelse.",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-09-11T05:12:11Z"
+    },
+    {
+      "text": "Gigantiske mængder havvand skal varme lejligheder op i dansk storby",
+      "headline": "Gigantiske mængder havvand skal varme lejligheder op i dansk storby",
+      "url": "https://www.dr.dk/nyheder/indland/gigantiske-maengder-havvand-skal-varme-lejligheder-op-i-dansk-storby",
+      "summary": "Aarhus-forsyningen Kredsløb indvier 14 havvandsvarmepumper for 300 mio. kr., som skal forsyne ca. 5.000 husstande og erstatte afbrænding af træpiller på Studstrupværket.",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-09-10T17:51:30Z"
+    },
+    {
+      "text": "Mads Pedersens aflagte tøj får afgørende betydning for Danmarks EM",
+      "headline": "Mads Pedersens aflagte tøj får afgørende betydning for Danmarks EM",
+      "url": "https://www.dr.dk/sporten/cykling/mads-pedersens-svedige-toej-skal-sende-danske-talenter-til-em",
+      "summary": "Mads Pedersen har doneret sit brugte speedsuit fra Tour de Frances 21. etape samt hjelm og udstyr til auktion for at finansiere unge rytteres deltagelse ved EM i Slovenien.",
+      "publisher": "DR Sporten",
+      "section": "Cykling",
+      "publishedAt": "2026-09-09T04:58:00Z"
+    },
+    {
+      "text": "Axelgaards optakt til Grand Prix Cycliste de Quebec",
+      "headline": "Axelgaards optakt til Grand Prix Cycliste de Quebec",
+      "url": "https://sport.tv2.dk/cykling/2026-09-10-axelgaards-optakt-til-grand-prix-cycliste-de-quebec",
+      "summary": "WorldTour-løbet køres fredag over 206 km med afsluttende stigning på Côte de la Montagne. TV 2's ekspert udpeger Michael Matthews som storfavorit efter tre tidligere sejre i løbet.",
+      "publisher": "TV 2 Sport",
+      "section": "Cykling",
+      "publishedAt": "2026-09-10T22:06:16Z"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-paul-marshall-tangen-2026",
+      "mode": "listen",
+      "kind": "Podcast/interview",
+      "status": "available",
+      "title": "Sir Paul Marshall: Why Markets Are Getting More Competitive, The Logic of Shorting, and Building TOPS",
+      "creator": "Nicolai Tangen (vært) med Sir Paul Marshall",
+      "provider": "In Good Company with Nicolai Tangen (Acast)",
+      "url": "https://shows.acast.com/in-good-company-with-nicolai-tangen/episodes/sir-paul-marshall-why-markets-are-getting-more-competitive-t",
+      "availability": "Gratis på alle podcast-platforme",
+      "commitment": "cirka 1 time",
+      "description": "Marshall Wace-stifteren fortæller, hvordan firmaet voksede fra 50 mio. dollar til 90 mia. under forvaltning, hans filosofi om at kombinere menneske og maskine i porteføljeforvaltning — og hvorfor han mener, markedet endnu ikke er i en AI-boble.",
+      "rationale": "En af verdens mest succesrige hedgefondsforvaltere går i dybden med, hvordan aktiemarkeder fungerer under overfladen, samtidig med en åben snak om hans engagement i medier (UnHerd, GB News, Spectator) og uddannelse — bredere end den typiske fund-manager-episode.",
+      "topics": [
+        "markets",
+        "who-is-financing"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://open-images.acast.com/shows/622618c7057f3400120d15db/1787658286677-f1b88370-0803-4ed6-adca-b59ab67a038c.jpeg?height=315",
+        "credit": "Kilde: Acast / In Good Company",
+        "alt": "Sir Paul Marshall i samtale med Nicolai Tangen om markeder og AI-boble-frygt",
+        "sourceUrl": "https://shows.acast.com/in-good-company-with-nicolai-tangen/episodes/sir-paul-marshall-why-markets-are-getting-more-competitive-t"
+      }
+    },
+    {
+      "id": "rec-nber-tariffs-180-years-2026",
+      "mode": "read",
+      "kind": "Forskningspapir",
+      "status": "available",
+      "title": "The Macroeconomic Effects of Tariffs: Insights from 180 Years of U.S. Trade Policy",
+      "creator": "den Besten, Barnichon, Känzig, Singh (NBER Working Paper 35102)",
+      "provider": "National Bureau of Economic Research",
+      "url": "https://www.nber.org/papers/w35102",
+      "commitment": "cirka 45 minutter",
+      "description": "180 års amerikansk toldhistorie (1840-2024) viser et konsistent mønster: toldforhøjelser er kontraktive — import falder, eksport følger med forsinkelse, og output og industriproduktion falder vedvarende.",
+      "rationale": "For en cand.polit. med toldpolitik som speciale er dette den type dybdegående empiri, der sjældent når avisernes forside, men som giver et solidt modstykke til dagens toldretorik: mønstret er ikke nyt, og det er effekterne heller ikke.",
+      "topics": [
+        "eu-us-trade",
+        "macro"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-rmi-energy-transition-2026",
+      "mode": "read",
+      "kind": "Analyse",
+      "status": "available",
+      "title": "The Energy Transition in 2026: 10 Trends to Watch",
+      "creator": "Atkinson, Speelman, Gulli, Newcomb",
+      "provider": "RMI",
+      "url": "https://rmi.org/the-energy-transition-in-2026-10-trends-to-watch/",
+      "commitment": "cirka 20 minutter",
+      "description": "Ti konkrete teknologi-adoptionskurver for energiomstillingen i 2026 — fra industrielle varmepumper og billigere elbiler til luftfartens kondensstriber og industriel CO2-fangst — skrevet som industrianalyse frem for klimapolitik.",
+      "rationale": "Passer til et blik på energiomstillingen som forretning: hvilke teknologier rykker fra niche til skala i år, og hvem der reelt investerer i dem.",
+      "topics": [
+        "energy"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-noema-axial-age-2026",
+      "mode": "read",
+      "kind": "Essay",
+      "status": "new",
+      "title": "Introducing Noema Issue VII: The Next Axial Age",
+      "creator": "Nathan Gardels",
+      "provider": "Noema Magazine",
+      "url": "https://www.noemamag.com/introducing-noema-issue-vii-the-next-axial-age/",
+      "commitment": "cirka 15 minutter",
+      "description": "Et filosofisk essay om, hvorvidt AI, gensplejsning og syntetisk biologi udløser en ny 'aksial tidsalder' af global etisk nytænkning — på linje med de religiøse gennembrud for 2.500 år siden.",
+      "rationale": "Intet med hans karriere at gøre, men netop den slags intellektuelle spændvidde, der matcher en Harvard PLD-baggrund — en påmindelse om, at dagens teknologispring også er et filosofisk spørgsmål.",
+      "topics": [
+        "philosophy"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://noemamag.imgix.net/2026/08/Noema_Issue7_Cover_3.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=f20f312e29d01ebb21cbb88fe3565cf5",
+        "credit": "Kilde: Noema Magazine",
+        "alt": "Forsiden af Noema Magazines udgave VII, 'The Next Axial Age', efterår 2026",
+        "sourceUrl": "https://www.noemamag.com/introducing-noema-issue-vii-the-next-axial-age/"
+      }
+    }
+  ],
+  "quality": {
+    "sourceCoverage": 88,
+    "freshness": 92,
+    "novelty": 74,
+    "perspectiveBalance": 80,
+    "render": 100
+  }
+}
