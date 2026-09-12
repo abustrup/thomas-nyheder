@@ -1,0 +1,817 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-09-12-full",
+  "date": "2026-09-12",
+  "generatedAt": "2026-09-12T05:53:09Z",
+  "readingMinutes": 12,
+  "title": "Thomas' Nyheder",
+  "dek": "EU sender historisk frihandelsaftale med Indien til underskrift, Nationalbanken følger ECB op i rente for at forsvare kronen, og et helt industrimål for dansk brint opgives stille — plus en historie uden for profilen om en dansk skulptur, Kina har gemt væk i Hongkong, mens kunstnerens venner fængsles.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "eu-indien-frihandelsaftale-underskrift-2026",
+      "eventKey": "eu-indien-frihandelsaftale-underskrift-2026",
+      "materialFacts": [
+        "Kommissionen fremlagde 11. september 2026 sine forslag for Rådet med henblik på undertegnelse og indgåelse af frihandelsaftalen mellem EU og Indien",
+        "EU-Indien-handel med varer og tjenester overstiger 180 mia. euro årligt og understøtter ca. 800.000 EU-job",
+        "Aftalen vil fjerne eller sænke told på 96 pct. af EU's vareeksport til Indien, skønnet besparelse 4 mia. euro årligt"
+      ],
+      "section": "EU og handelspolitik",
+      "headline": "Commission presents landmark India trade deal to Council for signature",
+      "primarySourceUrl": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1842",
+      "subheadline": "EU sender historisk handelsaftale med Indien til underskrift i Rådet, mens usikkerheden om forholdet til USA driver Bruxelles mod nye markeder",
+      "body": [
+        "Europa-Kommissionen sendte 11. september sine forslag til Rådet om at underskrive og indgå frihandelsaftalen mellem EU og Indien - ifølge Kommissionen den største handelsaftale, nogen af parterne nogensinde har indgået. Aftalen skal nu godkendes af Rådet og Europa-Parlamentet, mens Indien kører sin egen ratifikationsproces.",
+        "EU og Indien handlede allerede for over 180 mia. euro i varer og tjenester sidste år og understøtter knap 800.000 job i EU. Aftalen fjerner eller sænker told på 96 pct. af EU's vareeksport til Indien - en besparelse, Kommissionen anslår til 4 mia. euro årligt."
+      ],
+      "whyItMatters": "Skridtet kommer, mens det transatlantiske forhold til USA er under pres, og falder i tråd med EU's bredere linje om at diversificere sine handelsforbindelser.",
+      "analysis": "For danske eksportvirksomheder betyder lavere told et konkret hul i et marked, hvor EU har sakket bagud i forhold til Kina. Men aftalen er ikke i mål: Rådets godkendelse, Parlamentets samtykke og Indiens ratifikation udestår stadig.",
+      "counterpoint": "Kommissionens egne tal for job og besparelser er endnu ikke efterprøvet uafhængigt, og tidligere EU-frihandelsaftaler har typisk taget flere år fra underskrift til ikrafttræden.",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/%C5%A0ef%C4%8Dovi%C4%8D_EC_Portrait_2024.jpg/1920px-%C5%A0ef%C4%8Dovi%C4%8D_EC_Portrait_2024.jpg",
+        "credit": "European Commission Audiovisual Service / Wikimedia Commons (CC BY 4.0)",
+        "alt": "Maroš Šefčovič, EU's handelskommissær, officielt portræt (arkivfoto - ingen aktuel begivenhedsscene fundet)",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:%C5%A0ef%C4%8Dovi%C4%8D_EC_Portrait_2024.jpg"
+      },
+      "topics": [
+        "EU-Indien frihandelsaftale",
+        "handelsdiversificering",
+        "EU-handelspolitik",
+        "emerging-markets"
+      ],
+      "entities": [
+        "Europa-Kommissionen",
+        "Indien",
+        "Rådet for Den Europæiske Union",
+        "Maroš Šefčovič"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 80,
+        "decisionValue": 70,
+        "novelty": 85,
+        "sourceQuality": 90,
+        "personalRelevance": 88,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "Kommissionen fremlagde 11. september 2026 sine forslag for Rådet med henblik på undertegnelse og indgåelse af frihandelsaftalen mellem EU og Indien.",
+          "sourceUrls": [
+            "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1842"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "EU-Indien-handel overstiger 180 mia. euro årligt og understøtter ca. 800.000 EU-job; aftalen fjerner eller sænker told på 96 pct. af EU's vareeksport til Indien, besparelse ca. 4 mia. euro årligt.",
+          "sourceUrls": [
+            "https://www.eunews.it/en/2026/09/11/eu-india-the-commission-sends-the-proposal-for-the-signing-of-the-free-trade-agreement-to-the-council/"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Commission presents landmark India trade deal to Council for signature",
+          "publisher": "European Commission",
+          "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1842",
+          "publishedAt": "2026-09-11T11:00:00Z",
+          "kind": "primary"
+        },
+        {
+          "title": "EU-India: the Commission sends the proposal for the signing of the free trade agreement to the Council",
+          "publisher": "Eunews",
+          "url": "https://www.eunews.it/en/2026/09/11/eu-india-the-commission-sends-the-proposal-for-the-signing-of-the-free-trade-agreement-to-the-council/",
+          "publishedAt": "2026-09-11T14:00:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "nationalbanken-rentehop-ecb-2026-09",
+      "eventKey": "nationalbanken-rentehop-ecb-2026-09",
+      "materialFacts": [
+        "Nationalbanken hævede foliorenten 0,25 procentpoint til 2,10 pct. fra 11. september 2026, timer efter ECB hævede sin rente til 2,50 pct.",
+        "Dansk inflation lå i august på 2,0 pct., under niveauet for euroområdets kerneinflation"
+      ],
+      "section": "Makroøkonomi",
+      "headline": "Kun anden gang på tre år: ECB hæver renten",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/penge/kun-anden-gang-paa-tre-aar-ecb-haever-renten",
+      "subheadline": "Nationalbanken følger ECB og hæver renten til 2,10 pct., selv om dansk inflation ligger under euroområdets kerneinflation",
+      "body": [
+        "Nationalbanken hævede 11. september sin foliorente 0,25 procentpoint til 2,10 pct., timer efter ECB satte sin rente op fra 2,25 til 2,50 pct. Det er kun anden gang på tre år, ECB hæver renten.",
+        "Nationalbankens begrundelse er udelukkende, at Danmark følger ECB for at fastholde rentespændet, der holder kronen bundet til euroen - banken nævner ikke dansk inflation som årsag."
+      ],
+      "whyItMatters": "Dansk inflation lå i august på 2,0 pct. - under niveauet for euroområdets kerneinflation, som ECB selv finder for højt. Når Nationalbanken alligevel følger med op, og selv skriver, at det sker for at følge ECB, peger det på, at rentespændet til euroen vejer tungere end det indenlandske prisbillede.",
+      "analysis": "For boligejere betyder det dyrere lån uden en indenlandsk begrundelse. Totalkredits chefanalytiker kalder stigningen \"vand ved siden af\" 2022-2023-niveauet; Dansk Erhverv udelukker ikke flere stigninger.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/0r3pq1ao/20260430-153025-l-5500x3667ma.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "ECB-formand Christine Lagarde ved en pressekonference (arkivfoto anvendt af DR til historien om rentestigningen)",
+        "sourceUrl": "https://www.dr.dk/nyheder/penge/kun-anden-gang-paa-tre-aar-ecb-haever-renten"
+      },
+      "topics": [
+        "pengepolitik",
+        "DKK fastkurspolitik",
+        "renter",
+        "macro"
+      ],
+      "entities": [
+        "Danmarks Nationalbank",
+        "ECB",
+        "Totalkredit",
+        "Dansk Erhverv"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 82,
+        "decisionValue": 70,
+        "novelty": 85,
+        "sourceQuality": 92,
+        "personalRelevance": 88,
+        "contrast": 30
+      },
+      "claims": [
+        {
+          "text": "Nationalbanken hævede foliorenten 0,25 procentpoint til 2,10 pct. med virkning fra 11. september 2026.",
+          "sourceUrls": [
+            "https://www.nationalbanken.dk/da/viden-og-nyheder/presse/arkiv/2026/renteforhoejelse-10-09-2026"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "ECB hævede sin rente fra 2,25 til 2,50 pct.; det er kun anden gang på tre år. Dansk inflation lå i august på 2,0 pct., under niveauet for euroområdets kerneinflation.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/kun-anden-gang-paa-tre-aar-ecb-haever-renten"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kun anden gang på tre år: ECB hæver renten",
+          "publisher": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/penge/kun-anden-gang-paa-tre-aar-ecb-haever-renten",
+          "publishedAt": "2026-09-10T12:15:02Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Renteforhøjelse",
+          "publisher": "Danmarks Nationalbank",
+          "url": "https://www.nationalbanken.dk/da/viden-og-nyheder/presse/arkiv/2026/renteforhoejelse-10-09-2026",
+          "publishedAt": "2026-09-10T09:00:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "dst-industriproduktion-juli-2026-medicinal",
+      "eventKey": "dst-industriproduktion-juli-2026-medicinal",
+      "materialFacts": [
+        "Dansk industriproduktion faldt 5,5 pct. i juli 2026 sæsonkorrigeret",
+        "Ekskl. medicinalindustrien faldt juliproduktionen kun 5,0 pct., mens 3-måneders-udviklingen uden medicinal steg 2,6 pct. mod 0,8 pct. inkl. medicinal"
+      ],
+      "section": "Dansk eksport",
+      "headline": "Industrien gearede ned i juli",
+      "primarySourceUrl": "https://www.dst.dk/da/Statistik/nyt/NytHtml?cid=52457",
+      "subheadline": "Dansk industriproduktion faldt 5,5 pct. i juli - men uden medicinalindustrien tegner tallene et helt andet billede af eksportmaskinen",
+      "body": [
+        "Danmarks Statistik oplyser, at dansk industriproduktion faldt 5,5 pct. i juli 2026, sæsonkorrigeret. Ekskluderes medicinalindustrien, var faldet kun 5,0 pct.",
+        "Over tre måneder (maj-juli) vender billedet: uden medicinal steg produktionen 2,6 pct., mod kun 0,8 pct. når medicinal tælles med - et mål for, hvor meget én branche forvrider billedet af dansk industri."
+      ],
+      "whyItMatters": "Det er tallenes bekræftelse af en strukturel sårbarhed: Danmarks eksportfremgang har hvilet tungt på medicinalindustrien, og når den branche svinger, svinger hele det nationale industribillede med.",
+      "analysis": "For en økonomi, hvor væksttal ofte citeres samlet, betyder det, at ét selskabs produktionsrytme kan maskere eller overdrive, hvordan resten af dansk industri reelt har det - præcis den koncentrationsrisiko, der gør vækstprognoser skrøbelige.",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Novo_Nordisk%2C_Hiller%C3%B8d%2C_2024.jpg/1920px-Novo_Nordisk%2C_Hiller%C3%B8d%2C_2024.jpg",
+        "credit": "Toxophilus, Wikimedia Commons (CC BY-SA 4.0)",
+        "alt": "Novo Nordisks produktions- og logistikanlæg i Hillerød (arkivfoto - medicinalindustrien er hovedeksemplet i DST's opgørelse, ikke selve dette anlæg)",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Novo_Nordisk,_Hiller%C3%B8d,_2024.jpg"
+      },
+      "topics": [
+        "industriproduktion",
+        "eksportmaskine",
+        "medicinalkoncentration",
+        "dk-export"
+      ],
+      "entities": [
+        "Danmarks Statistik",
+        "medicinalindustrien"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 68,
+        "decisionValue": 60,
+        "novelty": 80,
+        "sourceQuality": 95,
+        "personalRelevance": 92,
+        "contrast": 30
+      },
+      "claims": [
+        {
+          "text": "Dansk industriproduktion faldt 5,5 pct. i juli 2026 sæsonkorrigeret.",
+          "sourceUrls": [
+            "https://www.dst.dk/da/Statistik/nyt/NytHtml?cid=52457"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Ekskl. medicinalindustrien faldt juliproduktionen 5,0 pct., mens 3-måneders-udviklingen (maj-juli) uden medicinal steg 2,6 pct. mod 0,8 pct. inkl. medicinal.",
+          "sourceUrls": [
+            "https://www.dst.dk/da/Statistik/nyt/NytHtml?cid=52457"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Industrien gearede ned i juli",
+          "publisher": "Danmarks Statistik",
+          "url": "https://www.dst.dk/da/Statistik/nyt/NytHtml?cid=52457",
+          "publishedAt": "2026-09-08T06:00:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "dansk-ptx-brintmaal-opgivet-2026",
+      "eventKey": "dansk-ptx-brintmaal-opgivet-2026",
+      "materialFacts": [
+        "Energistyrelsen har opgivet det officielle 2030-mål for dansk brintproduktion efter flere PtX-flagskibsprojekter er strandet",
+        "Havvindsstrøm brugt i PtX-omkostningsmodeller er steget fra 20-30 øre/kWh til 50-54 øre/kWh"
+      ],
+      "section": "Energi og grøn omstilling",
+      "headline": "Efter hård opbremsning for PtX-flagskibe: Det officielle mål for dansk brintproduktion er opgivet",
+      "primarySourceUrl": "https://ing.dk/artikel/efter-haard-opbremsning-ptx-flagskibe-det-officielle-maal-dansk-brintproduktion-er-opgivet",
+      "subheadline": "Energistyrelsen dropper det officielle 2030-mål for brint, efter havvindsstrøm er blevet dobbelt så dyr som ventet",
+      "body": [
+        "Efter en række tilbageslag for danske Power-to-X-flagskibe opgiver Energistyrelsen nu det officielle mål for, hvor meget grøn brint Danmark skulle producere i 2030.",
+        "Årsagen er strømprisen: nyeste vinderbud på havvind ligger på 50-54 øre pr. kilowatt-time - Vattenfall bød 50,4 øre for Nordsøen Midt, 54,2 øre for Hesselø - mod tidlige estimater på 20-30 øre. Strøm udgør 70-80 pct. af produktionsomkostningen."
+      ],
+      "whyItMatters": "European Energys anlæg i Kassø er et af de få danske PtX-projekter, der reelt fungerer - fordi det bruger billige råvarer som halm og gylle i stedet for at være afhængigt af den dyre havvindsstrøm, der har fældet de øvrige flagskibe.",
+      "analysis": "For en regering, der har brugt brint som et industripolitisk løfte, er den stille exit en indrømmelse af, at dansk grøn politik har undervurderet prisen på vedvarende energi - og at PtX-konkurrenceevnen flytter mod billig sol.",
+      "image": {
+        "url": "https://ing.dk/sites/mi/files/styles/open_graph_image_16_9/public/2025-05/kassoe.jpg?h=6baea85c&itok=Bz8S2Gi5",
+        "credit": "Kilde: Ingeniøren",
+        "alt": "European Energys Power-to-X-anlæg i Kassø, et af de få danske PtX-projekter, der reelt fungerer",
+        "sourceUrl": "https://ing.dk/artikel/efter-haard-opbremsning-ptx-flagskibe-det-officielle-maal-dansk-brintproduktion-er-opgivet"
+      },
+      "topics": [
+        "Power-to-X",
+        "brint",
+        "energitransition",
+        "Danmark",
+        "energy-transition"
+      ],
+      "entities": [
+        "Energistyrelsen",
+        "European Energy",
+        "Vattenfall"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 72,
+        "decisionValue": 60,
+        "novelty": 85,
+        "sourceQuality": 82,
+        "personalRelevance": 75,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Energistyrelsen har opgivet det officielle 2030-mål for dansk brintproduktion efter flere PtX-flagskibsprojekter er strandet.",
+          "sourceUrls": [
+            "https://ing.dk/artikel/efter-haard-opbremsning-ptx-flagskibe-det-officielle-maal-dansk-brintproduktion-er-opgivet"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Nyeste vinderbud på havvindsstrøm ligger på 50-54 øre/kWh (Vattenfall 50,4 øre for Nordsøen Midt, 54,2 øre for Hesselø), mod tidlige estimater på 20-30 øre/kWh.",
+          "sourceUrls": [
+            "https://ing.dk/artikel/efter-haard-opbremsning-ptx-flagskibe-det-officielle-maal-dansk-brintproduktion-er-opgivet"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Efter hård opbremsning for PtX-flagskibe: Det officielle mål for dansk brintproduktion er opgivet",
+          "publisher": "Ingeniøren",
+          "url": "https://ing.dk/artikel/efter-haard-opbremsning-ptx-flagskibe-det-officielle-maal-dansk-brintproduktion-er-opgivet",
+          "publishedAt": "2026-09-11T03:00:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "cisa-kina-ai-destillation-advarsel-2026",
+      "eventKey": "cisa-kina-ai-destillation-advarsel-2026",
+      "materialFacts": [
+        "NSA, CISA og FBI udsendte 8. september 2026 en fælles advisory (AA26-251A) om kinesisk industriel-skala AI-destillation",
+        "Seks navngivne selskaber: DeepSeek, Moonshot AI, Alibaba, MiniMax, StepFun og Z.AI"
+      ],
+      "section": "Teknologi og sikkerhed",
+      "headline": "USA anklager Kina for at bruge særling teknik til at stjæle AI-hemmeligheder",
+      "primarySourceUrl": "https://www.computerworld.dk/art/296782",
+      "subheadline": "Amerikanske myndigheder navngiver seks kinesiske AI-selskaber i en fælles advarsel om industriel destillation af amerikansk AI-teknologi",
+      "body": [
+        "NSA, CISA og FBI udsendte 8. september en fælles advisory om, at kinesiske AI-selskaber i industriel skala har \"destilleret\" kapacitet fra amerikanske frontier-modeller siden mindst 2024. Seks selskaber navngives: DeepSeek, Moonshot AI, Alibaba, MiniMax, StepFun og Z.AI.",
+        "Selskaberne har ifølge advisoryen udtrukket \"milliarder af tokens på tværs af millioner af forespørgsler.\" Myndighederne kalder DeepSeeks oplyste træningsomkostning på 5,6 mio. dollar misvisende, da den ikke medregner data skaffet via destillation."
+      ],
+      "whyItMatters": "Distillation er en anerkendt AI-teknik, men advarslen hævder, at den bruges målrettet til at omgå eksportrestriktioner og hente kapacitet, USA har forsøgt at holde ude af Kina.",
+      "analysis": "Advarslen underminerer fortællingen om, at kinesiske AI-modeller er billige at træne - er lav pris delvist genbrug af andres forskning, ændrer det regnestykket for USA's reelle forspring.",
+      "topics": [
+        "ai-sikkerhed",
+        "geopolitik",
+        "eksportkontrol",
+        "kina",
+        "ai-tech"
+      ],
+      "entities": [
+        "CISA",
+        "NSA",
+        "FBI",
+        "DeepSeek",
+        "Moonshot AI",
+        "Alibaba"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 80,
+        "decisionValue": 55,
+        "novelty": 85,
+        "sourceQuality": 92,
+        "personalRelevance": 55,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "NSA, CISA og FBI udsendte 8. september 2026 en fælles advisory (AA26-251A) om, at kinesiske AI-selskaber i industriel skala har destilleret kapacitet fra amerikanske frontier-modeller.",
+          "sourceUrls": [
+            "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Seks navngivne selskaber: DeepSeek, Moonshot AI, Alibaba, MiniMax, StepFun og Z.AI; advisoryen kalder DeepSeeks trænings-omkostning på 5,6 mio. dollar misvisende.",
+          "sourceUrls": [
+            "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "USA anklager Kina for at bruge særling teknik til at stjæle AI-hemmeligheder",
+          "publisher": "Computerworld",
+          "url": "https://www.computerworld.dk/art/296782",
+          "publishedAt": "2026-09-10T05:04:00Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "China-Based Artificial Intelligence Companies Conducting Industrial-Scale Distillation Campaigns Against U.S. AI Companies",
+          "publisher": "CISA",
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a",
+          "publishedAt": "2026-09-08T00:00:00Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://www.computerworld.dk/fil/237904?width=1200&height=630&focus=1",
+        "credit": "Kilde: Computerworld",
+        "alt": "USA anklager Kina for at bruge særling teknik til at stjæle AI-hemmeligheder",
+        "sourceUrl": "https://www.computerworld.dk/art/296782"
+      }
+    },
+    {
+      "id": "energioe-bornholm-budgetkaos-energinet-2026",
+      "eventKey": "energioe-bornholm-budgetkaos-energinet-2026",
+      "materialFacts": [
+        "Energiø Bornholms byggebudget er steget kraftigt i forhold til 2022/2024-skønnene, tæt på en fordobling",
+        "Energinet har ikke kunnet give politikerne en klar forklaring på stigningens omfang"
+      ],
+      "section": "Energi og grøn omstilling",
+      "headline": "Politiker raser over budgetkaos hos Energiø Bornholm: »Det skriger til himlen«",
+      "primarySourceUrl": "https://ing.dk/artikel/politiker-raser-over-budgetkaos-hos-energioe-bornholm-det-skriger-til-himlen",
+      "subheadline": "Byggebudgettet til Energiø Bornholm er tæt på fordoblet, og Energinet kan ikke forklare politikerne hvorfor",
+      "body": [
+        "Byggebudgettet til Energiø Bornholm er steget kraftigt i forhold til skønnene fra 2022 og 2024 - tæt på en fordobling. Energinet har ikke kunnet give en klar forklaring på stigningens størrelse.",
+        "Konservative energiordfører Anders Storgaard er skarp: \"Det skriger til himlen, hvor lidt styr der er på det projekt,\" siger han, efter Energinet svarede, at de tidlige skøn blev lavet i en fase med større usikkerhed."
+      ],
+      "whyItMatters": "Energiø Bornholm er en af de største enkeltinvesteringer i dansk havvind nogensinde, og manglende budgetstyring på eget flagskibsprojekt svækker tilliden til, at fremtidige energiøer kan finansieres og bygges til tiden.",
+      "analysis": "For alle, der spørger, hvem der reelt betaler for den grønne omstilling: det gør staten og forbrugerne, når budgetter løber løbsk uden forklaring - det regningsspørgsmål stiller industripolitikken sjældent sig selv før udbud.",
+      "image": {
+        "url": "https://ing.dk/sites/mi/files/styles/open_graph_image_16_9/public/featured_images/storga.jpg?itok=Fh1YJMv8",
+        "credit": "Privatfoto, gengivet af Ingeniøren",
+        "alt": "Anders Storgaard, energiordfører for De Konservative, der kritiserer budgetstyringen af Energiø Bornholm",
+        "sourceUrl": "https://ing.dk/artikel/politiker-raser-over-budgetkaos-hos-energioe-bornholm-det-skriger-til-himlen"
+      },
+      "topics": [
+        "havvind",
+        "Energiø Bornholm",
+        "infrastruktur-finansiering",
+        "energy-transition"
+      ],
+      "entities": [
+        "Energinet",
+        "Energiø Bornholm",
+        "Anders Storgaard",
+        "Det Konservative Folkeparti"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 50,
+        "novelty": 75,
+        "sourceQuality": 80,
+        "personalRelevance": 65,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "Energiø Bornholms byggebudget er tæt på fordoblet i forhold til de oprindelige 2022/2024-skøn.",
+          "sourceUrls": [
+            "https://ing.dk/artikel/politiker-raser-over-budgetkaos-hos-energioe-bornholm-det-skriger-til-himlen"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Anders Storgaard: »Det skriger til himlen, hvor lidt styr der er på det projekt.«",
+          "sourceUrls": [
+            "https://ing.dk/artikel/politiker-raser-over-budgetkaos-hos-energioe-bornholm-det-skriger-til-himlen"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Politiker raser over budgetkaos hos Energiø Bornholm: »Det skriger til himlen«",
+          "publisher": "Ingeniøren",
+          "url": "https://ing.dk/artikel/politiker-raser-over-budgetkaos-hos-energioe-bornholm-det-skriger-til-himlen",
+          "publishedAt": "2026-09-08T13:12:18Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "dfds-formandsskifte-smedegaard",
+      "eventKey": "dfds-formandsskifte-smedegaard",
+      "materialFacts": [
+        "Niels Smedegaard installeret som ny DFDS-bestyrelsesformand efter en ekstraordinær generalforsamling tvunget frem af en storaktionær",
+        "Smedegaard sidder allerede i bestyrelserne for ISS, Falck og Bestyrelsesforeningen og er næstformand for UK P&I Club"
+      ],
+      "section": "Erhverv og ledelse",
+      "headline": "Storaktionær gennemtvinger formandsskifte i DFDS bestyrelse",
+      "primarySourceUrl": "https://www.altinget.dk/erhverv/navnenyt/storaktionaer-gennemtvinger-formandsskifte-i-dfds-bestyrelse",
+      "subheadline": "Niels Smedegaard bliver ny bestyrelsesformand i DFDS efter en ekstraordinær generalforsamling tvunget frem af en storaktionær",
+      "body": [
+        "En storaktionær har tvunget en ekstraordinær generalforsamling igennem i DFDS, som ender med, at Niels Smedegaard installeres som ny bestyrelsesformand. Smedegaard var DFDS' topchef 2007-2019 og har siddet i bestyrelsen siden 2022.",
+        "Smedegaard sidder allerede i bestyrelserne for ISS, Falck og Bestyrelsesforeningen og er næstformand for UK P&I Club - et af de mest velforbundne navne i dansk bestyrelsesliv."
+      ],
+      "whyItMatters": "En aktionær, der indkalder en ekstraordinær generalforsamling for at ændre ledelsen, sender et klart signal om utilfredshed - og valget af en profil, der allerede sidder i flere store bestyrelser, viser hvor koncentreret det danske bestyrelseslandskab er.",
+      "analysis": "For alle, der følger dansk bestyrelsesrekruttering: de samme navne går igen på tværs af de største selskaber - både et tillidsvotum til Smedegaards erfaring og et spørgsmål om, hvor bredt talentfeltet for den slags poster reelt er.",
+      "topics": [
+        "erhverv",
+        "bestyrelse",
+        "shipping",
+        "who-is-moving"
+      ],
+      "entities": [
+        "DFDS",
+        "Niels Smedegaard",
+        "Falck",
+        "ISS",
+        "UK P&I Club"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 75,
+        "novelty": 80,
+        "sourceQuality": 82,
+        "personalRelevance": 88,
+        "contrast": 25
+      },
+      "claims": [
+        {
+          "text": "Niels Smedegaard installeret som ny DFDS-bestyrelsesformand efter en ekstraordinær generalforsamling tvunget frem af en storaktionær.",
+          "sourceUrls": [
+            "https://www.altinget.dk/erhverv/navnenyt/storaktionaer-gennemtvinger-formandsskifte-i-dfds-bestyrelse"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Smedegaard var DFDS-CEO 2007-2019 og har siddet i bestyrelsen siden 2022. Han sidder desuden i bestyrelsen for ISS, Bestyrelsesforeningen og Falck, samt er næstformand for UK P&I Club.",
+          "sourceUrls": [
+            "https://www.altinget.dk/erhverv/navnenyt/storaktionaer-gennemtvinger-formandsskifte-i-dfds-bestyrelse"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Storaktionær gennemtvinger formandsskifte i DFDS bestyrelse",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/erhverv/navnenyt/storaktionaer-gennemtvinger-formandsskifte-i-dfds-bestyrelse",
+          "publishedAt": "2026-09-09T12:10:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "hongkong-skamstoetten-galschioet-dom-faengsel",
+      "eventKey": "hongkong-skamstoetten-galschioet-dom-faengsel",
+      "materialFacts": [
+        "Jens Galschiøts skulptur 'Skamstøtten' er gemt væk i en container i Hongkong af myndighederne",
+        "Tre af Galschiøts aktivistvenner er idømt 5-7 års fængsel for at have udstillet skulpturen på University of Hong Kong"
+      ],
+      "section": "Udenrigspolitik og menneskerettigheder",
+      "headline": "Kina har gemt berømt dansk skulptur væk – nu er kunstnerens venner dømt til fængsel",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/kina-har-gemt-beroemt-dansk-skulptur-vaek-nu-er-kunstnerens-venner-doemt-til-faengsel",
+      "subheadline": "Tre aktivister idømt op til syv års fængsel for at have udstillet den danske kunstner Jens Galschiøts skulptur på et universitet i Hongkong",
+      "body": [
+        "Den danske kunstner Jens Galschiøts otte meter høje skulptur \"Skamstøtten\", der mindede om Kinas nedslagning af demokratibevægelsen i 1989, er gemt væk i en container af myndighederne i Hongkong.",
+        "Tre af Galschiøts aktivistvenner er idømt fem til syv års fængsel for at have vedligeholdt og udstillet skulpturen på University of Hong Kong. Anklagemyndigheden vil hellere destruere skulpturen end returnere den til Danmark."
+      ],
+      "whyItMatters": "Sagen viser, hvordan Hongkongs nationale sikkerhedslov rammer et dansk kunstværk og dansk-tilknyttede aktivister direkte - langt fra Kinas egne grænser, men med reelle fængselsstraffe som konsekvens.",
+      "analysis": "For Danmark rejser sagen et spørgsmål ud over kunstverdenen: hvor meget diplomatisk vægt lægger et lille land bag et krav om at få et kulturelt værk hjem, når modparten er en stormagt, der ikke anerkender kravets legitimitet?",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/cgolhv0k/photo_collage.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Detalje af Jens Galschiøts skulptur 'Skamstøtten' og et portræt af kunstneren selv (fotocollage anvendt af DR)",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/kina-har-gemt-beroemt-dansk-skulptur-vaek-nu-er-kunstnerens-venner-doemt-til-faengsel"
+      },
+      "topics": [
+        "kunst",
+        "menneskerettigheder",
+        "udenrigspolitik",
+        "kina"
+      ],
+      "entities": [
+        "Jens Galschiøt",
+        "Hongkong",
+        "Skamstøtten",
+        "University of Hong Kong"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 60,
+        "decisionValue": 25,
+        "novelty": 80,
+        "sourceQuality": 88,
+        "personalRelevance": 20,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Jens Galschiøts skulptur 'Skamstøtten' er gemt væk i en container i Hongkong af myndighederne.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/kina-har-gemt-beroemt-dansk-skulptur-vaek-nu-er-kunstnerens-venner-doemt-til-faengsel"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Tre af Galschiøts aktivistvenner er idømt 5-7 års fængsel for at have vedligeholdt og udstillet skulpturen; anklagemyndigheden vil hellere destruere den end returnere den til Danmark.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/kina-har-gemt-beroemt-dansk-skulptur-vaek-nu-er-kunstnerens-venner-doemt-til-faengsel"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kina har gemt berømt dansk skulptur væk – nu er kunstnerens venner dømt til fængsel",
+          "publisher": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/indland/kina-har-gemt-beroemt-dansk-skulptur-vaek-nu-er-kunstnerens-venner-doemt-til-faengsel",
+          "publishedAt": "2026-09-11T13:57:57Z",
+          "kind": "reporting"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "The EU's plan to grow innovation in Europe",
+      "headline": "The EU's plan to grow innovation in Europe",
+      "url": "https://commission.europa.eu/news-and-media/news/eus-plan-grow-innovation-europe-2026-09-09_en",
+      "publisher": "European Commission",
+      "section": "EU og konkurrenceevne",
+      "publishedAt": "2026-09-08T22:00:00Z",
+      "summary": "Kommissionen fremlægger forslag til en europæisk innovationslov: fælles IP-ramme og digital markedsplads ventes at udløse 10,2 mia. euro i ny finansiering årligt."
+    },
+    {
+      "text": "Regeringen vil øge Arne-pensionen med over 3000 kroner månedligt",
+      "headline": "Regeringen vil øge Arne-pensionen med over 3000 kroner månedligt",
+      "url": "https://nyheder.tv2.dk/politik/2026-09-12-regeringen-vil-oege-arne-pensionen-med-over-3000-kroner-maanedligt",
+      "publisher": "TV 2",
+      "section": "Politik og velfærd",
+      "publishedAt": "2026-09-12T04:00:00Z",
+      "summary": "Regeringen foreslår at hæve Arne-pensionen 3.095 kr. månedligt til 18.745 kr. og dropper samtidig den planlagte forhøjelse af aldersgrænsen til 65 år."
+    },
+    {
+      "text": "Rasmus Jarlov lander nyt job i dansk dronevirksomhed",
+      "headline": "Rasmus Jarlov lander nyt job i dansk dronevirksomhed",
+      "url": "https://www.altinget.dk/navnenyt/rasmus-jarlov-lander-nyt-job-i-dansk-dronevirksomhed",
+      "publisher": "Altinget",
+      "section": "Who is moving",
+      "publishedAt": "2026-09-11T06:45:00Z",
+      "summary": "Tidligere erhvervsminister Rasmus Jarlov bliver strategiudvikler i dronevirksomheden Danish Defence."
+    },
+    {
+      "text": "Flere modtager kontanthjælp på mindstesats",
+      "headline": "Flere modtager kontanthjælp på mindstesats",
+      "url": "https://www.dst.dk/da/Statistik/nyt/NytHtml?cid=52944",
+      "publisher": "Danmarks Statistik",
+      "section": "Arbejdsmarked",
+      "publishedAt": "2026-09-11T06:00:00Z",
+      "summary": "Antallet på mindstesats steg 6.000 det seneste år, mens 3.800 færre fik højeste sats; samlet steg antallet af kontanthjælpsmodtagere 1.600 til 88.600 fra juni 2025 til juni 2026."
+    },
+    {
+      "text": "Anthropic slår alarm: Claude kan være brugt til biologiske våben",
+      "headline": "Anthropic slår alarm: Claude kan være brugt til biologiske våben",
+      "url": "https://www.computerworld.dk/art/296799",
+      "publisher": "Computerworld",
+      "section": "Teknologi",
+      "publishedAt": "2026-09-11T05:06:00Z",
+      "summary": "Anthropics trusselsrapport for september 2026 dokumenterer fem sager, hvor brugere forsøgte at bruge Claude til bekymrende biologisk forskning."
+    },
+    {
+      "text": "GreenCo secures US$11,5m backing as renewable energy platform expands",
+      "headline": "GreenCo secures US$11,5m backing as renewable energy platform expands",
+      "url": "https://fingaz.co.zw/2026/09/11/greenco-secures-us115m-backing-as-renewable-energy-platform-expands/",
+      "publisher": "The Financial Gazette",
+      "section": "Emerging markets",
+      "publishedAt": "2026-09-11T00:00:00Z",
+      "summary": "Africa GreenCo lukker en finansieringsrunde med bl.a. dansk statslig Impact Fund Denmark; selskabet opererer i Zambia, Zimbabwe, Namibia og Sydafrika."
+    },
+    {
+      "text": "Dronning Margrethe er i dag blevet udskrevet fra Rigshospitalet",
+      "headline": "Dronning Margrethe er i dag blevet udskrevet fra Rigshospitalet",
+      "url": "https://www.dr.dk/nyheder/indland/dronning-margrethe-er-i-dag-blevet-udskrevet-fra-rigshospitalet",
+      "publisher": "DR Nyheder",
+      "section": "Danmark",
+      "publishedAt": "2026-09-10T09:42:11Z",
+      "summary": "Den 86-årige tidligere dronning er udskrevet efter indlæggelse med et ildebefindende, en ny blodansamling i hofteregionen og mild dehydrering; rekonvalescerer på Fredensborg Slot."
+    },
+    {
+      "text": "25-årig kvinde tiltalt for at dræbe sine to nyfødte børn",
+      "headline": "25-årig kvinde tiltalt for at dræbe sine to nyfødte børn",
+      "url": "https://www.dr.dk/nyheder/indland/mor-fra-sydsjaelland-tiltalt-draebe-sine-nyfoedte-boern",
+      "publisher": "DR Nyheder",
+      "section": "Danmark",
+      "publishedAt": "2026-09-11T09:06:30Z",
+      "summary": "En 25-årig kvinde fra Sydsjælland er tiltalt for drab på sine to nyfødte børn, født i 2023 og 2024; hun erkender drab på det ene under den mildere bestemmelse om barnedrab."
+    },
+    {
+      "text": "Man Utd 4-0 Sabah: Winning return to Champions League as Benjamin Sesko scores again for Michael Carrick's side",
+      "headline": "Man Utd 4-0 Sabah: Winning return to Champions League as Benjamin Sesko scores again for Michael Carrick's side",
+      "url": "https://www.skysports.com/football/news/11095/13582873/man-utd-4-0-sabah-winning-return-to-champions-league-as-benjamin-sesko-scores-again-for-michael-carricks-side",
+      "publisher": "Sky Sports",
+      "section": "Sport",
+      "publishedAt": "2026-09-11T06:00:00Z",
+      "summary": "Manchester United slog Sabah FK 4-0 i Champions League-comebacket; dansk back Patrick Dorgu lagde op til Cunhas åbningsmål."
+    },
+    {
+      "text": "Charmig imponerer med podieplads i Remco-opvisning",
+      "headline": "Charmig imponerer med podieplads i Remco-opvisning",
+      "url": "https://www.feltet.dk/landevej/charmig-imponerer-med-podieplads-i-remco-opvisning/11287114",
+      "publisher": "Feltet.dk",
+      "section": "Sport",
+      "publishedAt": "2026-09-11T19:30:00Z",
+      "summary": "Anthon Charmig (Uno-X Mobility) tog en tredjeplads ved WorldTour-løbet GP Cycliste de Québec, kun slået af Remco Evenepoel og Giulio Ciccone."
+    }
+  ],
+  "column": {
+    "authoredBy": "ai",
+    "slug": "risiko-er-ikke-usikkerhed",
+    "title": "Risiko er ikke usikkerhed",
+    "thesis": "Når vi kalder alt fra et terningkast til en pandemi for 'risiko', later vi som om vi kender oddsene - og handler forkert på det, vi ikke kan sætte tal på.",
+    "body": [
+      "Frank Knight lavede engang et skel, dagligsproget har glemt: risiko er, når udfald og sandsynligheder er kendte - et terningkast, en forsikringstabel. Usikkerhed er, når man ikke kender fordelingen - en ny teknologi, et regimeskifte, en pandemi ingen har set før. Det er ikke en gradsforskel, det er to forskellige spil.",
+      "Man kan prissætte risiko: forsikring, diversificering, forventet værdi. Usikkerhed kan man ikke. Alligevel bruger artikler og strategier ordet 'risiko' om begge dele, hvilket giver falsk kontrol, netop når kontrollen mangler mest. Vi overreagerer på kendte risici, fordi de er lette at forestille sig, og underreagerer på ægte usikkerhed, fordi den ikke lader sig regne på."
+    ],
+    "uncertainty": "Skellet er skarpere i teori end i praksis: mange 'usikre' begivenheder kan tilnærmes med subjektive sandsynligheder, der viser sig brugbare - og hvis det holder oftere, end Knight antog, er distinktionen svagere, end klummen påstår.",
+    "topics": [
+      "beslutningsteori",
+      "økonomi",
+      "epistemologi"
+    ]
+  },
+  "recommendations": [
+    {
+      "id": "rec-firepoint-freyja-ceo-2026",
+      "mode": "read",
+      "kind": "interview",
+      "status": "new",
+      "title": "CEO of Ukraine's Fire Point: Freyja anti-ballistic missile program seeks 'best players'",
+      "creator": "Tim Martin (interview med Iryna Terekh, Fire Point)",
+      "provider": "Breaking Defense",
+      "url": "https://breakingdefense.com/2026/09/ceo-of-ukraines-fire-point-freyja-anti-ballistic-missile-program-seeks-best-players/",
+      "availability": "Frit tilgængelig artikel, ingen betalingsmur",
+      "commitment": "6 min",
+      "description": "Fire Point-topchef Iryna Terekh fortæller om det titationers Freyja-luftforsvarsprogram, medledet af Norge og Ukraine, der sigter mod en pris på 1 mio. dollar pr. interceptor.",
+      "rationale": "Et sjældent interview med en ukrainsk forsvarstek-topchef, der bygger en helt ny multinational forsyningskæde under krigsvilkår - relevant for forsvarsindustri, geopolitik og ledelse under ekstremt pres.",
+      "topics": [
+        "defence tech",
+        "geopolitik",
+        "ledelse",
+        "Ukraine"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/Fire-Point-scaled-e1789128317314-1024x577.jpg",
+        "credit": "Breaking Defense (Fire Points stand på forsvarsmessen MSPO, Kielce)",
+        "alt": "Fire Points udstillingsstand med missilsystemer på forsvarsmessen MSPO i Kielce",
+        "sourceUrl": "https://breakingdefense.com/2026/09/ceo-of-ukraines-fire-point-freyja-anti-ballistic-missile-program-seeks-best-players/"
+      }
+    },
+    {
+      "id": "rec-lexfridman-byzantine-2026",
+      "mode": "listen",
+      "kind": "podcast",
+      "status": "available",
+      "title": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
+      "creator": "Lex Fridman, Anthony Kaldellis",
+      "provider": "Lex Fridman Podcast (YouTube)",
+      "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
+      "availability": "Gratis på YouTube og som lydpodcast",
+      "commitment": "3-4 timer (kan tages i stykker)",
+      "description": "Byzantinisten Anthony Kaldellis gennemgår Romerrigets og Det Byzantinske Riges over tusind år lange kontinuitet og endelige fald i samtale med Lex Fridman.",
+      "rationale": "Et reelt registerskifte væk fra handelspolitik og bestyrelseslokaler - dybt kildebaseret historie med åbenlyse ekkoer for enhver, der tænker over, hvordan institutioner og imperier reelt går i opløsning.",
+      "topics": [
+        "historie",
+        "Byzans",
+        "Romerriget"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://i.ytimg.com/vi/pv1TUJSEM2k/hqdefault.jpg",
+        "credit": "Lex Fridman Podcast / YouTube",
+        "alt": "Thumbnail til Lex Fridman-episoden om Romerrigets og Det Byzantinske Riges fald",
+        "sourceUrl": "https://www.youtube.com/watch?v=pv1TUJSEM2k"
+      }
+    },
+    {
+      "id": "rec-ibm-quantum-switzerland-2026",
+      "mode": "read",
+      "kind": "article",
+      "status": "new",
+      "title": "Switzerland will soon get its first IBM Quantum System Two",
+      "creator": "IBM Quantum",
+      "provider": "IBM Quantum Blog",
+      "url": "https://www.ibm.com/quantum/blog/swiss-innovation-hub",
+      "availability": "Frit tilgængelig",
+      "commitment": "5 min",
+      "description": "IBM og Lockheed Martin bygger et quantum-innovationshub på ETH Zürich og installerer Schweiz' første IBM Quantum System Two (120-qubit Nighthawk r2) inden årets udgang.",
+      "rationale": "Konkret bevis på Europas quantum-infrastrukturopbygning og en amerikansk-schweizisk industripartnerskabsmodel, relevant for både deeptech-interessen og debatten om europæisk konkurrenceevne.",
+      "topics": [
+        "quantum computing",
+        "deeptech",
+        "Europa"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-spencerstuart-boardindex-2026",
+      "mode": "read",
+      "kind": "report",
+      "status": "new",
+      "title": "2026 Spencer Stuart Board Index New Director Snapshot",
+      "creator": "Spencer Stuart",
+      "provider": "Spencer Stuart",
+      "url": "https://www.spencerstuart.com/research-and-insight/2026-spencer-stuart-board-index-new-director-snapshot",
+      "availability": "Frit tilgængelig rapport",
+      "commitment": "5 min",
+      "description": "Ny data viser, at fornyelsen af S&P 500-bestyrelser ramte et tiårslavpunkt i 2026 (364 nye uafhængige direktører), med nye direktører der er ældre, oftere nuværende eller tidligere CEO'er og mindre mangfoldige.",
+      "rationale": "Hårde tal om, hvordan bestyrelser reelt sammensættes lige nu - direkte brugbart for en, der vejer bestyrelsesposter op mod hinanden mellem ansættelser.",
+      "topics": [
+        "bestyrelseskarriere",
+        "ledelse",
+        "governance"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {
+    "sourceCoverage": 85,
+    "freshness": 88,
+    "novelty": 78,
+    "perspectiveBalance": 75,
+    "render": 100
+  }
+}
