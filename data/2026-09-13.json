@@ -1,0 +1,1024 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-09-13-daily",
+  "date": "2026-09-13",
+  "generatedAt": "2026-09-13T04:23:54Z",
+  "readingMinutes": 12,
+  "title": "Thomas Nyheder",
+  "dek": "AI-sikkerhed, amerikansk medicinaltold og et hjemmeværn i felten - otte historier, tretten signaler og et bud på hvorfor mål holder op med at måle noget.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-anthropic-threat-intel-2026-09-13",
+      "eventKey": "anthropic-threat-intelligence-report-2026-09",
+      "materialFacts": [
+        "Anthropic udgav rapporten 10. september 2026, dækkende december 2025-august 2026 på tværs af syv skadesområder",
+        "Russisk spionagekampagne GTG-20006 ramte over 20 ukrainske og europæiske myndigheds-, militær- og diplomatimål",
+        "Kinesisk operation GTG-10007 (Hunan-baseret) ramte omkring 50 organisationer og fandt 'more than a dozen possible zero day findings in a single month'",
+        "ShinyHunters-relateret kampagne GTG-50014 fik via et SaaS-brud adgang til omkring 200 nedstrøms kundeorganisationer og udtrak 2.100+ Azure AD-token-sæt fra over 40 tenants på cirka 34 timer",
+        "Fem separate sager om forsøgt biologisk misbrug beskrives, herunder gain-of-function-forskning, tilpasning af fugleinfluenza til pattedyr, en orthopoxvirus-immunundvigelsesansøgning skrevet af Opus 5 på cirka en time, og toksin-redesign for et statsligt program",
+        "Anthropic skriver direkte at 'Biological misuse is one of the most serious risks of frontier AI models'",
+        "Afbrudte påvirkningsoperationer omfattede russisk propaganda via Radio Lengo Songo i Den Centralafrikanske Republik, et netværk af cirka 70 fupnyhedssider med mindst 8.913 artikler på cirka 20 sprog, og en malaysisk operation med omkring 1.000 falske X-konti rettet mod alle 222 parlamentsvalgkredse"
+      ],
+      "section": "AI",
+      "headline": "Detecting and countering misuse of AI: September 2026",
+      "primarySourceUrl": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "subheadline": "Ny rapport fra Anthropic afslører russisk spionage, kinesisk sårbarhedsjagt og fem forsøg på biologisk misbrug af AI-modellen Claude.",
+      "body": [
+        "Anthropic offentliggjorde 10. september 2026 en trusselsrapport, der dækker afsløret misbrug af chatbotten Claude fra december 2025 til august 2026 inden for syv skadesområder - fra statsstøttet cyberspionage til biologisk misbrug og valgpåvirkning.",
+        "Blandt sagerne er en russisk spionagekampagne mod over 20 ukrainske og europæiske myndighedsmål og en kinesisk operation, der på egen hånd fandt over et dusin mulige zero-day-sårbarheder på en måned hos omkring 50 organisationer.",
+        "Mest alvorligt er fem sager om biologisk misbrug, hvor brugere forsøgte at omgå regionale spærringer for at forske i virusoverførbarhed, fugleinfluenza og toksiner - én sag angiveligt tiltænkt et militært institut. Anthropic selv kalder det \"en af de mest alvorlige risici\" ved frontier-AI."
+      ],
+      "whyItMatters": "Det er sjældent, at en AI-udvikler selv dokumenterer, hvor aktivt stater og kriminelle bruger dens modeller til spionage, bioforskning og propaganda.",
+      "analysis": "Tallene stammer fra Anthropics egen moderering og er ikke uafhængigt efterprøvet, men sagerne viser, at adgangsspærringer kan omgås, og at biologisk forskning er et område med stor usikkerhed.",
+      "counterpoint": "Ingen uafhængig instans har bekræftet sagernes omfang eller Anthropics håndtering.",
+      "topics": [
+        "AI-sikkerhed",
+        "cybersikkerhed",
+        "biosikkerhed",
+        "desinformation"
+      ],
+      "entities": [
+        "Anthropic",
+        "Claude",
+        "GTG-20006",
+        "GTG-10007",
+        "GTG-50014",
+        "ShinyHunters",
+        "Ukraine",
+        "Kina",
+        "Rusland",
+        "Malaysia",
+        "Den Centralafrikanske Republik"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 85,
+        "decisionValue": 60,
+        "novelty": 78,
+        "sourceQuality": 75,
+        "personalRelevance": 88,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "En russisk spionagekampagne (GTG-20006) rettet mod over 20 ukrainske og europæiske myndigheds-, militær- og diplomatimål brugte Claude til at automatisere rekognoscering, indledende adgang og dataudtræk.",
+          "sourceUrls": [
+            "https://www.anthropic.com/threat-intelligence-report-september-2026"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "En kinesisk operation (GTG-10007), drevet af Hunan-baserede aktører, ramte omkring 50 organisationer og fandt 'more than a dozen possible zero day findings in a single month'.",
+          "sourceUrls": [
+            "https://www.anthropic.com/threat-intelligence-report-september-2026"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "En ShinyHunters-relateret kampagne (GTG-50014) fik via et SaaS-brud adgang til 'roughly 200 downstream customer organizations' og udtrak '2,100+ Azure AD token sets spanning more than 40 corporate tenants in about 34 hours'.",
+          "sourceUrls": [
+            "https://www.anthropic.com/threat-intelligence-report-september-2026"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Anthropic beskriver fem sager om forsøgt biologisk misbrug, herunder en reseller-platform der omgik regionale spærringer for at servicere chikungunya-forskning, planlægning af fugleinfluenza-tilpasning til pattedyr, en orthopoxvirus-immunundvigelsesansøgning skrevet af Opus 5 på omkring en time til en relay der servicerede et dusin kunder, og redesign af toksiner for et 'national program'.",
+          "sourceUrls": [
+            "https://www.anthropic.com/threat-intelligence-report-september-2026"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Anthropic skriver direkte: 'Biological misuse is one of the most serious risks of frontier AI models.'",
+          "sourceUrls": [
+            "https://www.anthropic.com/threat-intelligence-report-september-2026"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Detecting and countering misuse of AI: September 2026",
+          "publisher": "Anthropic",
+          "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+          "publishedAt": "2026-09-10T19:29:18Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.sanity.io/images/4zrzovbb/website/7a4426f8ffe57e7de23ff36906fb1cc3efe2a82b-1200x630.jpg",
+        "credit": "Kilde: Anthropic",
+        "alt": "Collageillustration med et forstørrelsesglas over millimeterpapir og et gitter med markerede felter, der symboliserer sporing og opdagelse af misbrug af AI-modellen Claude",
+        "sourceUrl": "https://www.anthropic.com/threat-intelligence-report-september-2026"
+      }
+    },
+    {
+      "id": "story-hjemmevaernet-blaatand-2026-09-13",
+      "eventKey": "hjemmevaernet-blaatand-oevelse-2026",
+      "materialFacts": [
+        "Hjemmeværnets øvelse \"Blåtand\" afholdes 1.-4. oktober 2026 med op mod 7.000 frivillige soldater",
+        "Øvelsen foregår i Aarhus, Odense, Aalborg, Esbjerg og flere andre byer i Jylland og på Fyn",
+        "Generalmajor Gunner Arpe Nielsen: \"Vi skal tilbage til den Kolde Krig for at finde noget, der er tilsvarende i karakter og omfang\"",
+        "Klassificerede regeringspapirer fra den tidligere regering, som DR har set, viser planer om et 'større og stærkere' hjemmeværn",
+        "Hjemmeværnets chef bekræfter et mål om 20.000 aktive soldater i 2028"
+      ],
+      "section": "Indland",
+      "headline": "Hjemmeværnet rykker ind i flere jyske og fynske byer med den største danske øvelse, siden Berlinmuren faldt",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/hjemmevaernet-rykker-ind-i-flere-jyske-og-fynske-byer-med-den-stoerste-danske-oevelse-siden",
+      "subheadline": "Op mod 7.000 hjemmeværnssoldater rykker bevæbnet ind i danske byer under den største militærøvelse siden Berlinmurens fald.",
+      "body": [
+        "I starten af oktober rykker op mod 7.000 frivillige hjemmeværnssoldater ind i Aarhus, Odense, Aalborg og Esbjerg under øvelsen \"Blåtand\" - den største danske militærøvelse siden Berlinmurens fald, siger hjemmeværnschef Gunner Arpe Nielsen.",
+        "Nyt er, at bevæbnede soldater træner inde i byerne, blandt andet med evakuering af en jysk landsby og bevogtning af infrastruktur.",
+        "Regeringspapirer viser planer om et \"større og stærkere\" hjemmeværn. Chefen bekræfter oprustning mod 20.000 aktive soldater i 2028."
+      ],
+      "whyItMatters": "Øvelsen tester, om hjemmeværnet kan håndtere hybridkrig og sabotage, efter PET afslørede russiske sabotageplaner. FE vurderer truslen mod NATO som høj og stigende.",
+      "analysis": "Fra 2027 kobles Forsvarets øvrige værn på. Hjemmeværnet, bygget til invasionsforsvar, omstilles til vedvarende sabotage- og hybridtrusler mod danske byer.",
+      "counterpoint": "Udvidelsen stammer fra en aftale, den afgåede regering ikke nåede at indgå.",
+      "topics": [
+        "defence",
+        "security"
+      ],
+      "entities": [
+        "Hjemmeværnet",
+        "Gunner Arpe Nielsen",
+        "PET",
+        "Forsvarets Efterretningstjeneste",
+        "Rusland",
+        "NATO",
+        "Aarhus",
+        "Odense",
+        "Aalborg",
+        "Esbjerg"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 62,
+        "decisionValue": 40,
+        "novelty": 58,
+        "sourceQuality": 82,
+        "personalRelevance": 25,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Hjemmeværnet afholder øvelsen \"Blåtand\" 1.-4. oktober med op mod 7.000 frivillige soldater i Aarhus, Odense, Aalborg, Esbjerg og flere andre byer",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/hjemmevaernet-rykker-ind-i-flere-jyske-og-fynske-byer-med-den-stoerste-danske-oevelse-siden"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Generalmajor Gunner Arpe Nielsen siger, man skal tilbage til den Kolde Krig for at finde en øvelse af tilsvarende karakter og omfang",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/hjemmevaernet-rykker-ind-i-flere-jyske-og-fynske-byer-med-den-stoerste-danske-oevelse-siden"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Klassificerede regeringspapirer fra den tidligere regering, som DR har set, viser planer om at gøre Hjemmeværnet 'større og stærkere'",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/hjemmevaernet-rykker-ind-i-flere-jyske-og-fynske-byer-med-den-stoerste-danske-oevelse-siden"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Hjemmeværnets chef bekræfter, at styrken udvides med nye våben, udstyr og droner mod et mål om 20.000 aktive soldater i 2028",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/hjemmevaernet-rykker-ind-i-flere-jyske-og-fynske-byer-med-den-stoerste-danske-oevelse-siden"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Hjemmeværnet rykker ind i flere jyske og fynske byer med den største danske øvelse, siden Berlinmuren faldt",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/hjemmevaernet-rykker-ind-i-flere-jyske-og-fynske-byer-med-den-stoerste-danske-oevelse-siden",
+          "publishedAt": "2026-09-12T07:04:02Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/hrdd5isq/20250429-131147-1.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR / Liselotte Sabroe, Ritzau Scanpix",
+        "alt": "Arkivfoto: Hjemmeværnssoldater i felten under en militærøvelse",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/hjemmevaernet-rykker-ind-i-flere-jyske-og-fynske-byer-med-den-stoerste-danske-oevelse-siden"
+      }
+    },
+    {
+      "id": "story-us-pharma-tariff-2026-09-13",
+      "eventKey": "us-section232-pharma-tariff-deadline-2026",
+      "materialFacts": [
+        "Det Hvide Hus' proklamation af 2. april 2026 ('Adjusting Imports of Pharmaceuticals and Pharmaceutical Ingredients into the United States') indfører en told på 100 pct. ad valorem på patenterede lægemidler og aktive lægemiddelstoffer (API'er) for selskaber uden aftale med den amerikanske regering.",
+        "Tolden gælder gradvist: fra 31. juli 2026 for udvalgte, navngivne store selskaber og fra 29. september 2026 for øvrige selskaber, jf. både proklamationen og Dansk Industris opdatering af 24. juli 2026.",
+        "Lægemidler med oprindelse i EU er under handelsrammeaftalen begrænset til 15 pct. i stedet for 100 pct. Generiske lægemidler, biosimilære produkter og tilhørende ingredienser er helt undtaget.",
+        "Selskaber med en godkendt MFN-prisaftale med den amerikanske regering kan opnå nultold frem til 20. januar 2029. Novo Nordisk indgik en sådan aftale 6. november 2025, som ifølge Global Trade Alert fritager koncernen for den nye straftold.",
+        "Det kunne ikke bekræftes, om Lundbeck er omfattet af en tilsvarende aftale; en oprindelig antagelse om, at 'Novo Nordisk og Lundbeck' begge er eksponerede, er derfor udeladt.",
+        "Lif-citatet om et 'brud med næsten 30 års praksis' stammer fra en pressemeddelelse 22. august 2025 om EU-USA's daværende rammeaftale - det er brugt som historisk branchereaktion, ikke som frisk udtalelse om den nært forestående 29. september-frist."
+      ],
+      "section": "Erhverv",
+      "headline": "Straftold på eksport fra Danmark til USA | Få overblikket - DI",
+      "primarySourceUrl": "https://www.danskindustri.dk/vi-radgiver-dig/virksomhedsregler-og-varktojer/handel-og-eksport/usa-under-trump/straftold-mellem-eu-og-usa/",
+      "subheadline": "Om 16 dage indfører USA en straftold på 100 pct. på patenterede lægemidler for selskaber uden aftale med Washington, mens EU-varer er begrænset til 15 pct.",
+      "body": [
+        "Fra 29. september 2026 rammer USA's straftold på 100 pct. patenterede lægemidler og API'er fra selskaber uden aftale med Washington, ifølge Det Hvide Hus' proklamation af 2. april 2026.",
+        "EU-lægemidler er dog begrænset til 15 pct. under handelsrammeaftalen. Generika er undtaget, og MFN-prisaftaler med USA giver fuld fritagelse.",
+        "Novo Nordisk indgik en sådan aftale i november 2025 og er fritaget - branchen ellers henvist til EU's 15 pct. Lif kaldte i 2025 enhver medicintold et brud med årtiers praksis."
+      ],
+      "whyItMatters": "Fristen afgør om tre uger, hvem der friholdes, og hvem der betaler EU's 15 pct. - en tidlig test af MFN-aftalers betydning for markedsadgang i USA.",
+      "analysis": "Novo Nordisks aftale slår EU's fælles ramme og kan presse andre selskaber til selv at forhandle med Washington frem for at læne sig op ad Kommissionens aftale.",
+      "counterpoint": "Satser og undtagelser kan stadig ændres inden fristen, advarer branchen.",
+      "topics": [
+        "EU-US trade",
+        "tariffs",
+        "pharma"
+      ],
+      "entities": [
+        "Novo Nordisk",
+        "Lif",
+        "Dansk Industri",
+        "Det Hvide Hus",
+        "EU-Kommissionen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 82,
+        "decisionValue": 78,
+        "novelty": 62,
+        "sourceQuality": 88,
+        "personalRelevance": 92,
+        "contrast": 58
+      },
+      "claims": [
+        {
+          "text": "Fra 29. september 2026 gælder en amerikansk straftold på 100 pct. på patenterede lægemidler og API'er for selskaber uden aftale med den amerikanske regering.",
+          "sourceUrls": [
+            "https://www.whitehouse.gov/presidential-actions/2026/04/adjusting-imports-of-pharmaceuticals-and-pharmaceutical-ingredients-into-the-united-states/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Lægemidler med oprindelse i EU er under handelsrammeaftalen begrænset til 15 pct. i told, mens generiske lægemidler og biosimilære produkter er helt undtaget.",
+          "sourceUrls": [
+            "https://www.danskindustri.dk/vi-radgiver-dig/virksomhedsregler-og-varktojer/handel-og-eksport/usa-under-trump/straftold-mellem-eu-og-usa/",
+            "https://www.whitehouse.gov/presidential-actions/2026/04/adjusting-imports-of-pharmaceuticals-and-pharmaceutical-ingredients-into-the-united-states/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Novo Nordisk indgik 6. november 2025 en aftale med den amerikanske regering om MFN-prissætning, som fritager selskabet for den nye straftold på lægemidler.",
+          "sourceUrls": [
+            "https://globaltradealert.org/intervention/150437-united-states-of-america-agreement-with-novo-nordisk-on-most-favoured-nation-drug-pricing-and-tariff-exemption"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Brancheforeningen Lif kaldte i august 2025 en amerikansk told på lægemidler et brud med næsten 30 års praksis med toldfri medicinhandel.",
+          "sourceUrls": [
+            "https://www.lif.dk/lif-told-paa-laegemidler-er-aldrig-positivt/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Adjusting Imports of Pharmaceuticals and Pharmaceutical Ingredients into the United States",
+          "publisher": "The White House",
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/04/adjusting-imports-of-pharmaceuticals-and-pharmaceutical-ingredients-into-the-united-states/",
+          "publishedAt": "2026-04-02T19:39:50Z",
+          "kind": "primary"
+        },
+        {
+          "title": "Straftold på eksport fra Danmark til USA | Få overblikket - DI",
+          "publisher": "Dansk Industri (DI)",
+          "url": "https://www.danskindustri.dk/vi-radgiver-dig/virksomhedsregler-og-varktojer/handel-og-eksport/usa-under-trump/straftold-mellem-eu-og-usa/",
+          "publishedAt": "2026-07-23T22:00:00Z",
+          "kind": "analysis"
+        },
+        {
+          "title": "Lif: Told på lægemidler er aldrig positivt",
+          "publisher": "Lif - Lægemiddelindustriforeningen",
+          "url": "https://www.lif.dk/lif-told-paa-laegemidler-er-aldrig-positivt/",
+          "publishedAt": "2025-08-22T10:20:38Z",
+          "kind": "primary"
+        },
+        {
+          "title": "United States of America: Agreement with Novo Nordisk on Most-Favoured-Nation drug pricing and tariff exemption",
+          "publisher": "Global Trade Alert",
+          "url": "https://globaltradealert.org/intervention/150437-united-states-of-america-agreement-with-novo-nordisk-on-most-favoured-nation-drug-pricing-and-tariff-exemption",
+          "publishedAt": "2025-11-06T00:00:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-dst-export-record-2026-09-13",
+      "eventKey": "dst-export-record-2026-07",
+      "materialFacts": [
+        "Dansk eksport af varer og tjenester steg 4,0 pct. (sæsonkorrigeret) til 202,7 mia. kr. i juli 2026 – det højeste niveau for en enkelt måned nogensinde.",
+        "Vareeksporten steg 4,5 pct., tjenesteeksporten 3,3 pct.",
+        "Importen faldt 4,4 pct. til 162,2 mia. kr.",
+        "Eksporten til USA steg til 37,1 mia. kr., 4,4 mia. kr. mere end i juni, trods amerikanske toldtrusler.",
+        "Vareeksporten til USA udgjorde 24,9 mia. kr., tjenesteeksporten 12,2 mia. kr.",
+        "Kemikalier inkl. medicinalvarer er blandt de største danske eksportvarer til Sverige og Norge.",
+        "Betalingsbalanceoverskuddet steg til 44,4 mia. kr. i juli 2026."
+      ],
+      "section": "Erhverv",
+      "headline": "Rekordhøj eksport af varer og tjenester i juli",
+      "primarySourceUrl": "https://www.dst.dk/nyt/52342",
+      "subheadline": "Dansk eksport af varer og tjenester steg 4,0 pct. til rekordhøje 202,7 mia. kr. i juli, og eksporten til USA voksede videre trods amerikanske toldtrusler.",
+      "body": [
+        "Danmarks eksport af varer og tjenester steg 4,0 pct. til rekordhøje 202,7 mia. kr. i juli, sæsonkorrigeret, viser Danmarks Statistik. Vareeksporten steg 4,5 pct., tjenesteeksporten 3,3 pct.",
+        "Eksporten til USA steg til 37,1 mia. kr. trods amerikanske toldtrusler, og importen faldt 4,4 pct. til 162,2 mia. kr. Kemikalier inkl. medicinalvarer er blandt de største danske eksportvarer til nabolandene."
+      ],
+      "whyItMatters": "Eksporten er Danmarks vigtigste vækstmotor. Rekorden viser fremgang trods amerikansk protektionisme, men afhængigheden af USA og medicinalvarer gør økonomien sårbar.",
+      "analysis": "Den samlede eksport er steget 6,4 pct. over tre måneder, og USA-eksporten voksede yderligere i juli. Koncentrationen om medicinalvarer og nabolande gør eksporten sårbar over for et amerikansk indgreb mod lægemidler.",
+      "counterpoint": "DST har nedjusteret betalingsbalanceoverskuddet for januar-juni 2026 med 8,4 mia. kr. - foreløbige tal revideres senere.",
+      "topics": [
+        "dansk eksport",
+        "udenrigshandel",
+        "USA-told",
+        "medicinalindustri"
+      ],
+      "entities": [
+        "Danmarks Statistik",
+        "USA",
+        "Tyskland",
+        "Sverige",
+        "Norge"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 75,
+        "decisionValue": 55,
+        "novelty": 70,
+        "sourceQuality": 95,
+        "personalRelevance": 90,
+        "contrast": 80
+      },
+      "claims": [
+        {
+          "text": "Dansk eksport af varer og tjenester steg 4,0 pct. (sæsonkorrigeret) til 202,7 mia. kr. i juli 2026, det højeste niveau for en enkelt måned nogensinde.",
+          "sourceUrls": [
+            "https://www.dst.dk/nyt/52342"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Vareeksporten steg 4,5 pct. og tjenesteeksporten 3,3 pct. i juli 2026.",
+          "sourceUrls": [
+            "https://www.dst.dk/nyt/52342"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Eksporten til USA steg til 37,1 mia. kr. i juli 2026, 4,4 mia. kr. mere end i juni, trods amerikanske toldtrusler.",
+          "sourceUrls": [
+            "https://www.dst.dk/nyt/52342",
+            "https://www.dr.dk/nyheder/seneste/dansk-eksport-satte-rekord-i-juli"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Importen faldt 4,4 pct. til 162,2 mia. kr. i juli 2026, og betalingsbalanceoverskuddet steg til 44,4 mia. kr.",
+          "sourceUrls": [
+            "https://www.dst.dk/nyt/52342"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Kemikalier inkl. medicinalvarer er blandt de største danske eksportvarer til Sverige og Norge.",
+          "sourceUrls": [
+            "https://www.dst.dk/nyt/52342"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Rekordhøj eksport af varer og tjenester i juli",
+          "publisher": "Danmarks Statistik",
+          "url": "https://www.dst.dk/nyt/52342",
+          "publishedAt": "2026-09-08T06:00:00Z",
+          "kind": "primary"
+        },
+        {
+          "title": "Dansk eksport satte rekord i juli",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/seneste/dansk-eksport-satte-rekord-i-juli",
+          "publishedAt": "2026-09-08T06:17:14Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Aarhus_Container_port.jpg/1920px-Aarhus_Container_port.jpg",
+        "credit": "Guillaume Baviere / Wikimedia Commons (CC BY 2.0)",
+        "alt": "Containerskib ved Aarhus Havn, en af Danmarks største eksporthavne",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aarhus_Container_port.jpg"
+      }
+    },
+    {
+      "id": "story-di-topmoedet-2026-09-13",
+      "eventKey": "di-topmoedet-2026-preview",
+      "materialFacts": [
+        "DI Topmødet 2026 afholdes tirsdag den 15. september på Tivoli Hotel & Congress Center i København",
+        "Omkring 1.600 erhvervsledere, regeringsmedlemmer, politikere og europæiske beslutningstagere ventes at deltage",
+        "Hovedtemaet er kunstig intelligens som vækstmotor for Danmark og EU",
+        "Et forsvarspanel samler NATO's Tarja Jaakkola, forsvarsminister Jeppe Bruus og Terma-CEO Henriette Hallberg Thygesen om europæisk forsvarsindustri"
+      ],
+      "section": "Erhverv",
+      "headline": "DI Topmødet 2026: 1600 topledere, politikere og eksperter sætter retning for AI som vækstmotor for Danmark og EU",
+      "primarySourceUrl": "https://via.ritzau.dk/pressemeddelelse/15144449/di-topmodet-2026-1600-topledere-politikere-og-eksperter-saetter-retning-for-ai-som-vaekstmotor-for-danmark-og-eu",
+      "subheadline": "DI samler 1.600 topledere og politikere til årets Topmøde på tirsdag, hvor AI og europæisk forsvarsindustri sætter dagsordenen.",
+      "body": [
+        "DI holder Topmøde tirsdag 15. september på Tivoli Hotel & Congress Center. Omkring 1.600 erhvervsledere, ministre, politikere og europæiske beslutningstagere ventes til det, DI kalder Danmarks største erhvervsevent.",
+        "Hovedtemaet er kunstig intelligens som vækstmotor for Danmark og EU, i hvad DI kalder et vendepunkt for konkurrencekraften.",
+        "Et forsvarspanel samler NATO's forsvarsindustri-chef Tarja Jaakkola, forsvarsminister Jeppe Bruus og Terma-chef Henriette Hallberg Thygesen om europæiske forsvarsinvesteringer og innovation."
+      ],
+      "whyItMatters": "For DI-profilen sætter topmødet retning for AI-dagsordenen, mens forsvarspanelet viser, hvordan dansk industri som Terma kobles til europæisk oprustning og NATO's prioriteter.",
+      "analysis": "Det er en forhåndsomtale af et møde, der endnu ikke er holdt. AI øverst afspejler frygt for tabt vækstkapløb; forsvarspanelet viser, at rustning nu er fast del af DI's agenda.",
+      "topics": [
+        "dansk-industri-institutional",
+        "AI-competitiveness",
+        "defense-industry"
+      ],
+      "entities": [
+        "Dansk Industri",
+        "NATO",
+        "Terma",
+        "Tivoli Hotel & Congress Center"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 68,
+        "decisionValue": 55,
+        "novelty": 40,
+        "sourceQuality": 78,
+        "personalRelevance": 88,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "DI Topmødet 2026 afholdes 15. september på Tivoli Hotel & Congress Center med omkring 1.600 deltagere",
+          "sourceUrls": [
+            "https://via.ritzau.dk/pressemeddelelse/15144449/di-topmodet-2026-1600-topledere-politikere-og-eksperter-saetter-retning-for-ai-som-vaekstmotor-for-danmark-og-eu"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Et forsvarspanel med Tarja Jaakkola (NATO), Jeppe Bruus (forsvarsminister) og Henriette Hallberg Thygesen (CEO, Terma) diskuterer europæiske forsvarsinvesteringer",
+          "sourceUrls": [
+            "https://via.ritzau.dk/pressemeddelelse/15144449/di-topmodet-2026-1600-topledere-politikere-og-eksperter-saetter-retning-for-ai-som-vaekstmotor-for-danmark-og-eu"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "DI Topmødet 2026: 1600 topledere, politikere og eksperter sætter retning for AI som vækstmotor for Danmark og EU",
+          "publisher": "Dansk Industri (via Ritzau)",
+          "url": "https://via.ritzau.dk/pressemeddelelse/15144449/di-topmodet-2026-1600-topledere-politikere-og-eksperter-saetter-retning-for-ai-som-vaekstmotor-for-danmark-og-eu",
+          "publishedAt": "2026-09-07T09:08:15.000Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://via.ritzau.dk/data/images/public/5524343/15144449/905447ae-068e-4d07-a24d-e2c7e07d4a5a-w_960.jpg",
+        "credit": "Kilde: Dansk Industri (via Ritzau)",
+        "alt": "DI Topmødet 2026: 1600 topledere, politikere og eksperter sætter retning for AI som vækstmotor for Danmark og EU",
+        "sourceUrl": "https://via.ritzau.dk/pressemeddelelse/15144449/di-topmodet-2026-1600-topledere-politikere-og-eksperter-saetter-retning-for-ai-som-vaekstmotor-for-danmark-og-eu"
+      }
+    },
+    {
+      "id": "story-ejendomdanmark-ceo-2026-09-13",
+      "eventKey": "ejendomdanmark-topchef-opsagt-2026",
+      "materialFacts": [
+        "Ejendomdanmarks samlede forretningsudvalg opsiger adm. direktør Peter Stenholm",
+        "Fratræden senest 31. oktober 2026",
+        "Stenholm har været adm. direktør siden maj 2022, godt fire år",
+        "Årsagen til opsigelsen er ikke offentliggjort",
+        "Formand Henrik Dahl Jeppesen bekræfter, at organisationen søger en ny direktør",
+        "NOTE: source published 2026-09-02 (11 days before edition date) — stale relative to the normal 24-72h discovery window; kept because the event has not appeared in the reader's brief history to date, but flagged in adversarial-review.md as a freshness exception"
+      ],
+      "section": "Erhverv",
+      "headline": "Samlet forretningsudvalg i Ejendomdanmark opsiger topchef",
+      "primarySourceUrl": "https://www.altinget.dk/erhverv/jobskifte/samlet-forretningsudvalg-i-ejendomdanmark-opsiger-topchef",
+      "subheadline": "Hele forretningsudvalget i brancheorganisationen Ejendomdanmark har opsagt adm. direktør Peter Stenholm efter godt fire år på posten.",
+      "body": [
+        "Ejendomdanmarks samlede forretningsudvalg har opsagt adm. direktør Peter Stenholm med fratræden senest 31. oktober 2026. Stenholm har stået i spidsen for organisationen siden maj 2022, godt fire år.",
+        "Formand Henrik Dahl Jeppesen takkede Stenholm og fremhævede \"en række væsentlige initiativer\" i hans tid som direktør - men oplyste ikke, hvorfor forretningsudvalget har opsagt ham. Ejendomdanmark søger nu en ny direktør."
+      ],
+      "whyItMatters": "Ejendomdanmark taler på vegne af landets udlejere og ejendomsadministratorer over for politikere og myndigheder. Et lederskifte midt i den rolle kan svække organisationens gennemslagskraft, til en ny direktør er på plads.",
+      "analysis": "Det er hele forretningsudvalget, ikke kun formanden, der har opsagt topchefen - et usædvanligt kollektivt skridt, som typisk peger på en dybere uenighed i ledelsen end en almindelig fratrædelse. Årsagen er ikke oplyst og bør ikke gættes på.",
+      "topics": [
+        "executive-appointments",
+        "board-governance",
+        "interest-organisation"
+      ],
+      "entities": [
+        "Ejendomdanmark",
+        "Peter Stenholm",
+        "Henrik Dahl Jeppesen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 60,
+        "novelty": 75,
+        "sourceQuality": 80,
+        "personalRelevance": 90,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Ejendomdanmarks samlede forretningsudvalg har opsagt adm. direktør Peter Stenholm med fratræden senest 31. oktober 2026.",
+          "sourceUrls": [
+            "https://www.altinget.dk/erhverv/jobskifte/samlet-forretningsudvalg-i-ejendomdanmark-opsiger-topchef"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Peter Stenholm har været adm. direktør i Ejendomdanmark siden maj 2022, godt fire år.",
+          "sourceUrls": [
+            "https://www.altinget.dk/erhverv/jobskifte/samlet-forretningsudvalg-i-ejendomdanmark-opsiger-topchef"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Årsagen til opsigelsen af Stenholm er ikke offentliggjort.",
+          "sourceUrls": [
+            "https://www.altinget.dk/erhverv/jobskifte/samlet-forretningsudvalg-i-ejendomdanmark-opsiger-topchef"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Formand Henrik Dahl Jeppesen takkede Stenholm for hans engagement og fremhævede en række væsentlige initiativer under hans ledelse.",
+          "sourceUrls": [
+            "https://www.altinget.dk/erhverv/jobskifte/samlet-forretningsudvalg-i-ejendomdanmark-opsiger-topchef"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Samlet forretningsudvalg i Ejendomdanmark opsiger topchef",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/erhverv/jobskifte/samlet-forretningsudvalg-i-ejendomdanmark-opsiger-topchef",
+          "publishedAt": "2026-09-02T15:20:00.000Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://legacy.altinget.dk/images/article/305914/160185.jpg",
+        "credit": "Kilde: Altinget",
+        "alt": "Samlet forretningsudvalg i Ejendomdanmark opsiger topchef",
+        "sourceUrl": "https://www.altinget.dk/erhverv/jobskifte/samlet-forretningsudvalg-i-ejendomdanmark-opsiger-topchef"
+      }
+    },
+    {
+      "id": "story-openai-navier-stokes-2026-09-13",
+      "eventKey": "openai-navier-stokes-proof-dispute-2026",
+      "materialFacts": [
+        "OpenAI hævder, at et internt system med cirka 10.000 samarbejdende AI-agenter på 88 timer har produceret et matematisk bevis, der ifølge selskabet berører Navier-Stokes-problemet, et af Clay Mathematics Institutes seks Millennium-problemer med en pris på en million dollars",
+        "Beviset er ikke fagfællebedømt, og Clay-instituttets præsident Martin Bridson kræver fagfællebedømt publicering og yderligere granskning, før nogen løsning kan anerkendes",
+        "OpenAI oplyser selv, at virksomheden ikke vil gøre krav på pengepræmien",
+        "NYU-matematikeren Tristan Buckmaster og Anthropic-ansatte Levent Alpöge offentliggjorde kort forinden beslægtede, men ikke identiske, resultater om Euler-ligningen, og Buckmaster anklager offentligt OpenAI og forsker Sébastien Bubeck for pres om medforfatterskab",
+        "Sam Altman forsvarer Bubeck og har tilbudt Buckmaster og Alpöge præmien, da han mener deres arbejde ligger tættest på et menneskeskabt bevis",
+        "Terence Tao har ikke bekræftet OpenAIs konkrete bevis, men har offentligt advaret om, at AI-selskabers jagt på virale løsninger på berømte problemer kan skade matematikkens åbne forskningskultur"
+      ],
+      "section": "Videnskab",
+      "headline": "OpenAI påstår at have løst kæmpe matematikgåde: Nu slås forskere om æren og én mio. dollars",
+      "primarySourceUrl": "https://ing.dk/artikel/openai-paastaar-have-loest-kaempe-matematikgaade-nu-slaas-forskere-om-aeren-og-en-mio-dollars",
+      "subheadline": "OpenAI hævder, at et internt AI-system har løst et af matematikkens Millennium-problemer – men beviset er hverken fagfællebedømt eller anerkendt af Clay-instituttet, og en bitter strid om æren er brudt ud.",
+      "body": [
+        "OpenAI oplyser, at et internt AI-system med cirka 10.000 agenter på 88 timer har lavet et bevis, der ifølge selskabet berører Navier-Stokes-problemet - et af Clay-instituttets seks Millennium-problemer til en million dollars. Beviset er hverken fagfællebedømt eller anerkendt, og OpenAI vil selv ikke kræve præmien.",
+        "Samtidig raser en strid om æren: NYU-forsker Tristan Buckmaster anklager OpenAI og Sébastien Bubeck for pres, efter at han og Anthropic-ansatte Levent Alpöge kort forinden offentliggjorde beslægtede resultater."
+      ],
+      "whyItMatters": "Sagen viser, hvor let AI-selskabers claims fremstår som verificerede gennembrud, selvom fagfællebedømmelse mangler helt.",
+      "analysis": "Terence Tao bekræfter ikke beviset, men advarer mod, at \"virale\" AI-løsninger på berømte problemer skader matematikkens åbne forskningskultur.",
+      "counterpoint": "Altman forsvarer Bubeck og har tilbudt Buckmaster/Alpöge præmien som dem tættest på et menneskeskabt bevis.",
+      "topics": [
+        "AI",
+        "mathematics",
+        "research-integrity"
+      ],
+      "entities": [
+        "OpenAI",
+        "Sam Altman",
+        "Sébastien Bubeck",
+        "Tristan Buckmaster",
+        "Levent Alpöge",
+        "Anthropic",
+        "Terence Tao",
+        "Clay Mathematics Institute"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 62,
+        "decisionValue": 30,
+        "novelty": 70,
+        "sourceQuality": 60,
+        "personalRelevance": 40,
+        "contrast": 85
+      },
+      "claims": [
+        {
+          "text": "OpenAI hævder, at et internt system med cirka 10.000 AI-agenter på 88 timer producerede et bevis, der berører Navier-Stokes-ligningen, et af Clay Mathematics Institutes seks Millennium-problemer med en pris på 1 million dollars",
+          "sourceUrls": [
+            "https://ing.dk/artikel/openai-paastaar-have-loest-kaempe-matematikgaade-nu-slaas-forskere-om-aeren-og-en-mio-dollars",
+            "https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_priority_controversy"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Beviset er ikke fagfællebedømt, og Clay Mathematics Institute, hvis præsident Martin Bridson kræver fagfællebedømte publikationer og yderligere granskning, har ikke anerkendt nogen løsning; OpenAI har oplyst, at selskabet ikke vil kræve pengepræmien",
+          "sourceUrls": [
+            "https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_priority_controversy"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "NYU-matematikeren Tristan Buckmaster anklager offentligt OpenAI og forsker Sébastien Bubeck for at lægge pres på ham om medforfatterskab, efter at han og Anthropic-ansatte Levent Alpöge kort forinden offentliggjorde beslægtede, men ikke identiske, resultater om Euler-ligningen; Sam Altman har forsvaret Bubeck og tilbudt parret pengepræmien",
+          "sourceUrls": [
+            "https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_priority_controversy"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Terence Tao skriver, at \"den faktiske løsning af disse problemer kun er et proxy-mål for det primære mål at udvikle matematisk forståelse og indsigt\", og advarer generelt mod, at AI-selskabers jagt på virale problemløsninger skader matematikkens åbne kultur",
+          "sourceUrls": [
+            "https://terrytao.wordpress.com/2026/09/07/finite-time-blowup-with-smooth-forcing-term-for-the-incompressible-porous-medium-boussinesq-and-incompressible-euler-equations/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "OpenAI påstår at have løst kæmpe matematikgåde: Nu slås forskere om æren og én mio. dollars",
+          "publisher": "Ingeniøren",
+          "url": "https://ing.dk/artikel/openai-paastaar-have-loest-kaempe-matematikgaade-nu-slaas-forskere-om-aeren-og-en-mio-dollars",
+          "publishedAt": "2026-09-09T10:18:53Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Finite time blowup with smooth forcing term for the incompressible porous medium, Boussinesq, and incompressible Euler equations",
+          "publisher": "Terence Tao (terrytao.wordpress.com)",
+          "url": "https://terrytao.wordpress.com/2026/09/07/finite-time-blowup-with-smooth-forcing-term-for-the-incompressible-porous-medium-boussinesq-and-incompressible-euler-equations/",
+          "publishedAt": "2026-09-07T00:00:00Z",
+          "kind": "primary"
+        },
+        {
+          "title": "Navier–Stokes priority controversy",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_priority_controversy",
+          "publishedAt": "2026-09-11T00:00:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://ing.dk/sites/mi/files/styles/open_graph_image_16_9/public/2026-06/gas.jpg?itok=Ct3ZnOhn",
+        "credit": "Kilde: Ingeniøren",
+        "alt": "OpenAI påstår at have løst kæmpe matematikgåde: Nu slås forskere om æren og én mio. dollars",
+        "sourceUrl": "https://ing.dk/artikel/openai-paastaar-have-loest-kaempe-matematikgaade-nu-slaas-forskere-om-aeren-og-en-mio-dollars"
+      }
+    },
+    {
+      "id": "story-3shape-clausen-2026-09-13",
+      "eventKey": "3shape-weak-year-fortune-decline-2026",
+      "materialFacts": [
+        "Tais Clausens formue faldt fra 12,2 mia. kr. (2025) til 8,7 mia. kr. (2026), et fald på 3,5 mia. kr.",
+        "3Shapes omsætning faldt 8,8 pct. til 3,03 mia. kr. i 2025",
+        "3Shapes EBITDA faldt fra 1,46 mia. kr. til 978 mio. kr., EBITDA-marginen fra 44,1 til 32,3 pct.",
+        "Ledelsen forklarer faldet med svagere markedsforhold i USA og ugunstige valutakurser",
+        "Peer-multiplen baseret på amerikanske Align Technology faldt fra 17,2 til 11,4 gange EBITDA",
+        "Clausen ejer 40,51 pct. af 3Shape Holding via Clausen Engineering"
+      ],
+      "section": "Erhverv",
+      "headline": "Efter svagt år: Rigmand mister 3,5 milliard på livsværk",
+      "primarySourceUrl": "https://ugebrev.dk/flashnews/efter-svagt-aar-rigmand-mister-35-milliard-paa-livsvaerk/",
+      "subheadline": "3Shape-stifter Tais Clausens formue falder 3,5 mia. kr. på et år, da svagere amerikansk efterspørgsel, valutamodvind og lavere sektor-multipler rammer tandteknologikoncernen samtidig.",
+      "body": [
+        "Tais Clausen, medstifter af tandteknologivirksomheden 3Shape, har mistet 3,5 mia. kr. på ét år - formuen falder fra 12,2 til 8,7 mia. kr., viser Økonomisk Ugebrevs opgørelse.",
+        "3Shapes omsætning faldt 8,8 pct. til 3,03 mia. kr. i 2025, og EBITDA faldt fra 1,46 mia. til 978 mio. kr. Ledelsen peger på svagere USA-marked og ugunstige valutakurser. Samtidig er peer-multiplen for sektoren faldet fra 17,2 til 11,4 gange EBITDA."
+      ],
+      "whyItMatters": "Sagen viser en dobbelt risiko for danske eksportvirksomheder med USA-eksponering: Svag amerikansk efterspørgsel og valutakurser rammer både omsætning og den multipel, investorer betaler.",
+      "analysis": "Faldet kombinerer reel indtjeningsnedgang med multipelkompression - to mekanismer, der forstærker hinanden og er relevante for danske ejerledere med USA-eksponering.",
+      "counterpoint": "3Shape har fortsat 32,3 pct. i EBITDA-margin, men ledelsen selv kalder 2025 et usædvanligt svagt år og en skuffelse.",
+      "topics": [
+        "dental-technology",
+        "Danish business",
+        "US market exposure"
+      ],
+      "entities": [
+        "Tais Clausen",
+        "3Shape",
+        "Align Technology",
+        "Clausen Engineering"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 50,
+        "novelty": 75,
+        "sourceQuality": 78,
+        "personalRelevance": 65,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Tais Clausens formue faldt fra 12,2 mia. kr. i 2025 til 8,7 mia. kr. i 2026",
+          "sourceUrls": [
+            "https://ugebrev.dk/flashnews/efter-svagt-aar-rigmand-mister-35-milliard-paa-livsvaerk/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "3Shapes omsætning faldt 8,8 pct. til 3,03 mia. kr. i 2025",
+          "sourceUrls": [
+            "https://ugebrev.dk/flashnews/efter-svagt-aar-rigmand-mister-35-milliard-paa-livsvaerk/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "3Shapes EBITDA faldt fra 1,46 mia. kr. til 978 mio. kr.",
+          "sourceUrls": [
+            "https://ugebrev.dk/flashnews/efter-svagt-aar-rigmand-mister-35-milliard-paa-livsvaerk/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Ledelsen forklarer faldet med svagere markedsforhold i USA og ugunstige valutakurser",
+          "sourceUrls": [
+            "https://ugebrev.dk/flashnews/efter-svagt-aar-rigmand-mister-35-milliard-paa-livsvaerk/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Peer-multiplen baseret på Align Technology faldt fra 17,2 til 11,4 gange EBITDA",
+          "sourceUrls": [
+            "https://ugebrev.dk/flashnews/efter-svagt-aar-rigmand-mister-35-milliard-paa-livsvaerk/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Efter svagt år: Rigmand mister 3,5 milliard på livsværk",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/flashnews/efter-svagt-aar-rigmand-mister-35-milliard-paa-livsvaerk/",
+          "publishedAt": "2026-09-12T09:04:04Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://ugebrev.dk/wp-content/uploads/2026/09/Tais-Clausen.png",
+        "credit": "3Shape/PR",
+        "alt": "Portræt af Tais Clausen, medstifter af 3Shape",
+        "sourceUrl": "https://ugebrev.dk/flashnews/efter-svagt-aar-rigmand-mister-35-milliard-paa-livsvaerk/"
+      }
+    }
+  ],
+  "signals": [
+    {
+      "text": "Ændringer i koncerndirektionen",
+      "headline": "Ændringer i koncerndirektionen",
+      "url": "https://www.globenewswire.com/news-release/2026/09/04/3356368/0/da/%C3%A6ndringer-i-koncerndirektionen.html",
+      "publisher": "Jyske Bank",
+      "section": "Erhverv",
+      "publishedAt": "2026-09-04T05:57:00Z",
+      "summary": "Peter Schleidt går på pension som bankdirektør for Digitalisering og Drift efter ti år i Jyske Bank, og Klaus Naur bliver ny bankdirektør fra 1. oktober 2026."
+    },
+    {
+      "text": "Understøttelse af det langsigtede og stabile ejerskab af Coloplast",
+      "headline": "Understøttelse af det langsigtede og stabile ejerskab af Coloplast",
+      "url": "https://www.globenewswire.com/news-release/2026/09/04/3356429/0/da/underst%C3%B8ttelse-af-det-langsigtede-og-stabile-ejerskab-af-coloplast.html",
+      "publisher": "Coloplast",
+      "section": "Erhverv",
+      "publishedAt": "2026-09-04T09:23:00Z",
+      "summary": "Finanstilsynet har fritaget Niels Peter Louis-Hansen fra tilbudspligten, så han kan overdrage den kontrollerende ejerandel i Coloplast til en fond som generationsskifte, ventet gennemført omkring 1. oktober 2026."
+    },
+    {
+      "text": "Novo Nordisk Pharmatechs topchef stopper",
+      "headline": "Novo Nordisk Pharmatechs topchef stopper",
+      "url": "https://www.altinget.dk/erhverv/jobskifte/novo-nordisk-pharmatech-topchef-stopper",
+      "publisher": "Altinget",
+      "section": "Erhverv",
+      "publishedAt": "2026-09-08T10:45:00Z",
+      "summary": "Ulla Grove Krogsgaard Thomsen har meddelt bestyrelsen, at hun stopper som administrerende direktør for Novo Nordisk Pharmatech efter fem et halvt år på posten."
+    },
+    {
+      "text": "Inflationen steg i august",
+      "headline": "Inflationen steg i august",
+      "url": "https://www.dst.dk/da/Statistik/udgivelser/NytHtml?cid=52440",
+      "publisher": "Danmarks Statistik",
+      "section": "Økonomi",
+      "publishedAt": "2026-09-10T06:00:00Z",
+      "summary": "Det samlede forbrugerprisindeks steg 2,0 pct. i august sammenlignet med samme måned sidste år, op fra 1,7 pct. i juli, primært drevet af restauranter og hoteller."
+    },
+    {
+      "text": "Flere nye personbiler i august",
+      "headline": "Flere nye personbiler i august",
+      "url": "https://www.dst.dk/da/Statistik/udgivelser/NytHtml?cid=52648",
+      "publisher": "Danmarks Statistik",
+      "section": "Økonomi",
+      "publishedAt": "2026-09-09T06:00:00Z",
+      "summary": "Der blev registreret 18.800 nye personbiler i august 2026, 9,9 pct. flere end i juli, viser tal fra Danmarks Statistik."
+    },
+    {
+      "text": "Introducing DeepSeek-V4.1-Flash: smarter, faster, more efficient.",
+      "headline": "Introducing DeepSeek-V4.1-Flash: smarter, faster, more efficient.",
+      "url": "https://www.deepseek.com/en/news/deepseek-v4-1-flash/",
+      "publisher": "DeepSeek",
+      "section": "AI",
+      "publishedAt": "2026-09-10T02:17:58Z",
+      "summary": "DeepSeek har lanceret V4.1-Flash, en ny letvægts-MoE-model med markant reduceret hukommelsesforbrug, der slår flagskibsmodellen V4-Pro på ydeevne og gøres tilgængelig via API og Hugging Face."
+    },
+    {
+      "text": "Nervøsitet og 'massive følelser' har ramt Rune før comeback",
+      "headline": "Nervøsitet og 'massive følelser' har ramt Rune før comeback",
+      "url": "https://www.dr.dk/sporten/tennis/nervoesitet-og-massive-foelelser-har-ramt-rune-foer-comeback",
+      "publisher": "DR",
+      "section": "Sport",
+      "publishedAt": "2026-09-12T06:11:00Z",
+      "summary": "Holger Rune gør comeback efter 11 måneders skadespause og spiller Davis Cup mod Bulgarien i Danmark, hvor han beskriver følelserne op til returen som massive."
+    },
+    {
+      "text": "Dansker får nøglerolle i Europas jagt på Solheim Cup-trofæet",
+      "headline": "Dansker får nøglerolle i Europas jagt på Solheim Cup-trofæet",
+      "url": "https://www.dr.dk/sporten/seneste-sport/dansker-faar-noeglerolle-i-europas-jagt-paa-solheim-cup-trofaeet",
+      "publisher": "DR",
+      "section": "Sport",
+      "publishedAt": "2026-09-12T21:36:25Z",
+      "summary": "Det står 8-8 mellem Europa og USA efter to dage ved Solheim Cup, og danske Nanna Koerstz Madsen skal søndag spille single mod amerikanske Allisen Corpuz."
+    },
+    {
+      "text": "Dansk golfspiller i direkte duel om stor sejr foran Donald Trump",
+      "headline": "Dansk golfspiller i direkte duel om stor sejr foran Donald Trump",
+      "url": "https://www.dr.dk/sporten/seneste-sport/dansk-golfspiller-i-direkte-duel-om-stor-sejr-foran-donald-trump",
+      "publisher": "DR",
+      "section": "Sport",
+      "publishedAt": "2026-09-12T19:03:15Z",
+      "summary": "Jacob Skov Olesen ligger på -12 efter tredje runde af Irish Open, fire slag efter førende Shane Lowry på -16, foran søndagens finalerunde på Trumps bane i Irland."
+    },
+    {
+      "text": "Filmanmelder: Guldløven til 'Kvinde ukendt' er en milepæl for dansk film",
+      "headline": "Filmanmelder: Guldløven til 'Kvinde ukendt' er en milepæl for dansk film",
+      "url": "https://www.dr.dk/nyheder/kultur/filmanmelder-guldloeven-til-kvinde-ukendt-er-en-milepael-dansk-film",
+      "publisher": "DR",
+      "section": "Kultur",
+      "publishedAt": "2026-09-12T20:50:39Z",
+      "summary": "Den danske film 'Kvinde ukendt', instrueret af May el-Toukhy, vandt Guldløven i Venedig som første danske instruktør siden Carl Th. Dreyer i 1955, mens Mathilde Arcel fik prisen for bedste kvindelige skuespiller."
+    },
+    {
+      "text": "Mette Frederiksen vil fortsætte på posten både i denne og næste valgperiode",
+      "headline": "Mette Frederiksen vil fortsætte på posten både i denne og næste valgperiode",
+      "url": "https://www.dr.dk/nyheder/seneste/mette-frederiksen-vil-fortsaette-paa-posten-baade-i-denne-og-naeste-valgperiode",
+      "publisher": "DR",
+      "section": "Politik",
+      "publishedAt": "2026-09-12T10:08:06Z",
+      "summary": "På S' landsmøde i Aalborg sagde Mette Frederiksen, at hun vil fortsætte som partileder både i denne og næste valgperiode, mens hun fokuserede på at løfte fagligheden i folkeskolen efter dårlige PISA-resultater."
+    },
+    {
+      "text": "Markant stigning i voldssager med børn",
+      "headline": "Markant stigning i voldssager med børn",
+      "url": "https://www.dr.dk/nyheder/indland/reels/markant-stigning-i-voldssager-med-boern",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-09-12T08:35:00Z",
+      "summary": "Berlingskes gennemgang viser, at voldssager blandt 10-14-årige er steget 225 pct. over ti år, og at en børnebande sidste år stod bag organiserede røverier i Københavns gader koordineret via Snapchat."
+    },
+    {
+      "text": "Grønlandske kvinder advares mod svindelforsøg i spiralsagen",
+      "headline": "Grønlandske kvinder advares mod svindelforsøg i spiralsagen",
+      "url": "https://www.dr.dk/nyheder/seneste/groenlandske-kvinder-advares-mod-svindelforsoeg-i-spiralsagen",
+      "publisher": "DR",
+      "section": "Grønland",
+      "publishedAt": "2026-09-11T17:20:30Z",
+      "summary": "Naalakkersuisut advarer om, at svindlere via falske Messenger-henvendelser forsøger at franarre grønlandske kvinder oplysninger i erstatningssagen om ufrivillig spiralanlæggelse."
+    }
+  ],
+  "column": {
+    "authoredBy": "ai",
+    "slug": "malet-der-spiser-virkeligheden",
+    "title": "Målet, der spiser virkeligheden",
+    "thesis": "Når en metrik belønnes isoleret, holder den hurtigt op med at måle det, den skulle måle, fordi systemet begynder at optimere rapporteringen af tallet frem for den ting, tallet skulle vise.",
+    "body": [
+      "Mekanismen er enkel: så snart et tal bliver et mål i sig selv - en KPI, en tilfredshedsscore, et kvartalstal - får den, der rapporterer det, en interesse i, at tallet ser godt ud. Det er billigere at forbedre tallet end virkeligheden bag det, og afstanden mellem de to bliver usynlig udefra.",
+      "Det er sværest at se, netop hvor tallet virker mest objektivt. Et automatiseret tjek eller en revisionserklæring ser upåvirkeligt ud, og den tillid gør, at ingen tjekker, om det stadig måler noget reelt. Den eneste holdbare modgift er at lade en aktør uden interesse i resultatet måle det - eller skifte, hvad der måles, før gamingen bliver systematisk."
+    ],
+    "uncertainty": "Påstanden kræver, at et hårdt belønnet tal typisk driver mod at optimere tallet frem for virkeligheden. Findes der systemer, hvor det ikke sker uden ekstern kontrol, svækker det pointen - og jeg har ledt efter bekræftelse, ikke systematisk efter modeksempler.",
+    "topics": [
+      "måling",
+      "incitamenter",
+      "organisationsteori"
+    ]
+  },
+  "recommendations": [
+    {
+      "id": "rec-jafa-apex-louisiana",
+      "mode": "experience",
+      "kind": "kunstudstilling / videoværk",
+      "status": "timely",
+      "title": "Arthur Jafa: APEX",
+      "creator": "Arthur Jafa",
+      "provider": "Louisiana Museum of Modern Art",
+      "url": "https://louisiana.dk/en/exhibition/arthur-jafa-apex/",
+      "availability": "Vises i Hall Gallery, Louisiana, Humlebæk, til og med 27. september 2026. Almindelig museumsbillet, ingen tillægsbillet.",
+      "commitment": "8-22 min. loop, gerne med tid til gentagne visninger",
+      "description": "APEX er Arthur Jafas otte minutter og 22 sekunder lange billedstrøm: over 800 stillbilleder - Miles Davis, Mickey Mouse, rumvæsner, mikroorganismer, lynchninger - klippet i højt tempo til Robert Hoods technonummer \"Minus\" fra 1994. Vises i Hall Gallery på Louisiana til og med 27. september.",
+      "rationale": "Et rent sanseligt modstykke til ugens makro- og AI-læsning: ingen forretningsvinkel, ingen konklusion at handle på, bare otte intense minutter der kræver din fysiske tilstedeværelse. Værket er akkvireret til Louisianas samling, men vises kun i denne opstilling til og med 27. september.",
+      "topics": [
+        "kunst",
+        "serendipitet"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Arthur_Jafa_%282019%2C_Prague%29.jpg",
+        "credit": "Jindřich Nosek (NoJin), CC BY-SA 4.0, via Wikimedia Commons",
+        "alt": "Kunstneren Arthur Jafa fotograferet i Prag, 2019",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arthur_Jafa_(2019,_Prague).jpg"
+      }
+    },
+    {
+      "id": "rec-transatlantic-economy-2026",
+      "mode": "read",
+      "kind": "årsrapport",
+      "status": "available",
+      "title": "The Transatlantic Economy 2026",
+      "creator": "Daniel S. Hamilton og Joseph P. Quinlan (red.)",
+      "provider": "U.S. Chamber of Commerce & AmCham EU",
+      "url": "https://www.uschamber.com/international/the-transatlantic-economy-2026",
+      "availability": "Gratis PDF-download, ingen registrering, uschamber.com. 23. udgave, udgivet 16. marts 2026",
+      "commitment": "10 min. for resumeet, 45-60 min. for hele rapporten",
+      "description": "Den 23. årlige gennemgang fra U.S. Chamber og AmCham EU af den transatlantiske handels- og investeringsrelation: 6,4 mia. dollar i daglig vare- og tjenestehandel, Europas andel på 56 pct. af al amerikansk ind- og udgående direkte investering, og omkring 16 millioner job knyttet til relationen.",
+      "rationale": "Den bedst dokumenterede årlige reference for den transatlantiske økonomi, du rådgiver om - hårde investerings- og jobtal til at holde op mod toldoverskrifterne, når klienter skal have den strukturelle baggrund frem for enkeltnyheder om satser.",
+      "topics": [
+        "EU-US trade",
+        "foreign direct investment"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-dwarkesh-recursive-self-improvement",
+      "mode": "listen",
+      "kind": "podcast",
+      "status": "new",
+      "title": "AI researchers debate how close we are to recursive self-improvement",
+      "creator": "Dwarkesh Patel (med John Schulman, Beren Millidge, Charlie O'Neill)",
+      "provider": "Dwarkesh Podcast",
+      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "availability": "Gratis på dwarkesh.com, YouTube og Spotify. Udgivet 11. september 2026",
+      "commitment": "ca. 2 timer",
+      "description": "Dwarkesh Patel samler tre folk, der bygger modellerne - OpenAI-medstifter og Thinking Machines-chefforsker John Schulman, Zyphra-CTO Beren Millidge og Basetens træningschef Charlie O'Neill - til en teknisk uenighed om, hvor tæt AI-systemer er på rekursiv selvforbedring.",
+      "rationale": "Et modtræk til dagens Anthropic-trusselsrapport, men fra uafhængige forskere frem for en leverandør: de er indbyrdes uenige om tidshorisonten, hvilket er et sundere input end endnu en virksomhedsrapport, når du skal vurdere, hvor bogstaveligt kunder bør tage 'AGI om få år'.",
+      "topics": [
+        "AI",
+        "forskning"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-maersk-clerc-cnbc-august2026",
+      "mode": "watch",
+      "kind": "videointerview",
+      "status": "available",
+      "title": "Maersk CEO: Limitation of what landside infrastructure can cope with",
+      "creator": "Vincent Clerc (interviewet af CNBC)",
+      "provider": "CNBC",
+      "url": "https://www.cnbc.com/video/2026/08/13/maersk-ceo-limitation-of-what-landside-infrastructure-can-cope-with.html",
+      "availability": "Gratis på cnbc.com, intet abonnement krævet. Bragt 13. august 2026",
+      "commitment": "5-6 min.",
+      "description": "Mærsk-topchef Vincent Clerc fortæller CNBC, at efterspørgslen efter søfragt er stærkere, end landjordens infrastruktur kan følge med til: havne og vejnet flaskehalses, og lavt vandstand i Rhinen forværrer det.",
+      "rationale": "Et modstykke til dagens eksporttal set fra rederisiden: verdens største containerlinje peger på landinfrastruktur, ikke skibskapacitet, som den reelle flaskehals - et konkret pejlemærke for, hvor investeringsbehov og prispres i forsyningskæderne opstår næste år.",
+      "topics": [
+        "logistik",
+        "handel"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {
+    "sourceCoverage": 95,
+    "freshness": 82,
+    "novelty": 80,
+    "perspectiveBalance": 88,
+    "render": 100
+  }
+}
