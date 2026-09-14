@@ -1,0 +1,791 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-09-14",
+  "date": "2026-09-14",
+  "generatedAt": "2026-09-14T05:00:00Z",
+  "readingMinutes": 10,
+  "title": "Thomas' Nyheder",
+  "dek": "Erhverv, politik, sport og verden — 14. september 2026",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-poland-strike-2026-09-14",
+      "eventKey": "russisk-angreb-naer-polsk-graense-2026-09",
+      "materialFacts": [
+        "Rusland tog ansvaret for et angreb paa en jernbane i Ukraine 800 meter fra polsk territorium soendag",
+        "Et passagertog blev ramt af et russisk droneangreb faa kilometer fra graensen ved Yahodyn natten til soendag",
+        "Europaeiske embedsfolk, herunder raadgivere for Friedrich Merz, Boris Johnson og Carl Bildt, blev evakueret fra et naerliggende tog"
+      ],
+      "section": "Sikkerhedspolitik",
+      "headline": "Merz-toprådgiver og ex-statsminister evakueret efter angreb nær Polen",
+      "primarySourceUrl": "https://nyheder.tv2.dk/udland/2026-09-13-merz-topraadgiver-og-ex-statsminister-evakueret-efter-angreb-naer-polen",
+      "subheadline": "To russiske angreb på under et døgn ramte tæt på NATO- og EU-grænsen ved Polen, og et af dem evakuerede europæiske embedsfolk fra et tog",
+      "body": [
+        "Rusland gennemførte to angreb nær den polsk-ukrainske grænse inden for et døgn: søndag et angreb på en jernbane blot 800 meter fra polsk territorium, og natten forinden et droneangreb på et passagertog få kilometer fra grænsen ved Yahodyn.",
+        "Ingen passagerer kom til skade, ifølge det ukrainske jernbaneselskab Ukrzaliznytsja. Flere europæiske embedsfolk - rådgivere for kansler Friedrich Merz samt tidligere premierminister Boris Johnson og tidligere statsminister Carl Bildt - blev evakueret fra et nærliggende tog, ifølge TV 2, Der Spiegel og The Sun."
+      ],
+      "whyItMatters": "Angrebene rammer den østlige flanke af både EU og NATO, netop som unionen forsøger at opruste sit forsvarsbudget med 800 mia. euro frem mod 2030. Ukraines udenrigsminister Andrij Sybiha kalder det russisk terror, der banker \"på dørene\" hos alliancerne.",
+      "analysis": "TV 2s korrespondent Claus Borg Reinholdt peger på, at Rusland formentlig tester alliancernes beredskab ved at ramme et område i Ukraine, der ellers er mindst udsat - og at Kyiv har klar interesse i at bruge episoden i sit pres for større vestlig involvering.",
+      "counterpoint": "Boris Johnson skrev selv på X, at han ikke forstår \"logikken\" bag angrebet og kalder det meningsløst.",
+      "topics": [
+        "sikkerhedspolitik",
+        "ukraine-krigen",
+        "eu-udland"
+      ],
+      "entities": [
+        "Rusland",
+        "Polen",
+        "Ukraine",
+        "Friedrich Merz",
+        "Boris Johnson",
+        "Carl Bildt",
+        "Andrij Sybiha"
+      ],
+      "isLead": true,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 82,
+        "decisionValue": 55,
+        "novelty": 70,
+        "sourceQuality": 70,
+        "personalRelevance": 30,
+        "contrast": 60
+      },
+      "claims": [
+        {
+          "text": "Rusland tog ansvaret for et angreb på en jernbane i Ukraine 800 meter fra polsk territorium søndag",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/udland/2026-09-13-merz-topraadgiver-og-ex-statsminister-evakueret-efter-angreb-naer-polen"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Et passagertog blev ramt af et russisk droneangreb få kilometer fra grænsen ved Yahodyn natten til søndag uden personskade",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/udland/2026-09-13-merz-topraadgiver-og-ex-statsminister-evakueret-efter-angreb-naer-polen"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Rådgivere for Friedrich Merz samt Boris Johnson og Carl Bildt blev evakueret fra et nærliggende tog",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/udland/2026-09-13-merz-topraadgiver-og-ex-statsminister-evakueret-efter-angreb-naer-polen"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Merz-toprådgiver og ex-statsminister evakueret efter angreb nær Polen",
+          "publisher": "TV 2",
+          "url": "https://nyheder.tv2.dk/udland/2026-09-13-merz-topraadgiver-og-ex-statsminister-evakueret-efter-angreb-naer-polen",
+          "publishedAt": "2026-09-13T16:50:45.365Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/2/d/b/2db2a0e2-9946-4781-9d63-8663d1a80574?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MSwwLDEwMzgsNTg0&s=72d41e8e9343f21657afeb531dff463c",
+        "credit": "Kilde: TV 2",
+        "alt": "Toget der blev evakueret efter det russiske angreb nær den polsk-ukrainske grænse ved Yahodyn",
+        "sourceUrl": "https://nyheder.tv2.dk/udland/2026-09-13-merz-topraadgiver-og-ex-statsminister-evakueret-efter-angreb-naer-polen"
+      }
+    },
+    {
+      "id": "story-sweden-election-2026-09-14",
+      "eventKey": "svensk-valg-2026",
+      "materialFacts": [
+        "Det opdaterede foreløbige resultat mandag morgen viser 176 mandater til den rødgrønne blok mod 173 til midt-højre",
+        "Socialdemokraterne er største parti med 28,1 pct., foran Moderaterna med 19,9 pct."
+      ],
+      "section": "Norden",
+      "headline": "Prognose peger på uhyre tæt løb i svensk valg",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/prognose-peger-paa-uhyre-taet-loeb-i-svensk-valg",
+      "subheadline": "Et opdateret foreløbigt resultat mandag morgen viser 176 mandater til den rødgrønne blok mod 173 til midt-højre, og valget er stadig ikke afgjort",
+      "body": [
+        "Sveriges parlamentsvalg tegner sig som et af de tætteste i nyere tid. Ifølge DRs opdatering mandag morgen viser det foreløbige resultat 176 mandater til de rødgrønne partier mod 173 til midt-højre-blokken - et billede, der har flyttet sig en smule siden søndag aftens exitpolls fra SVT og TV4.",
+        "Socialdemokraterne står til at blive største parti med 28,1 procent af stemmerne, foran Moderaterna med 19,9 procent og Sverigedemokraterna som tredjestørste parti."
+      ],
+      "whyItMatters": "Et tæt svensk valg har direkte betydning for Danmark som nærmeste nabo og NATO-partner i Østersøregionen, og udfaldet afgør blandt andet Sveriges kurs i sager som den svenske atomkraftudbygning tæt på dansk territorium.",
+      "analysis": "DR skriver selv, at artiklen er \"opdateret mandag morgen med de seneste tal\" - en påmindelse om, at optællingen fortsat er i gang, og at det endelige udfald endnu ikke bør læses ind i de foreløbige mandattal.",
+      "topics": [
+        "nordisk-politik",
+        "valg"
+      ],
+      "entities": [
+        "Sverige",
+        "Socialdemokraterna",
+        "Moderaterna",
+        "Sverigedemokraterna"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 75,
+        "decisionValue": 45,
+        "novelty": 65,
+        "sourceQuality": 75,
+        "personalRelevance": 35,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Det foreløbige resultat mandag morgen er 176 mandater til de rødgrønne partier mod 173 til midt-højre",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/prognose-peger-paa-uhyre-taet-loeb-i-svensk-valg"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Socialdemokraterna er største parti med 28,1 pct., foran Moderaterna med 19,9 pct.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/prognose-peger-paa-uhyre-taet-loeb-i-svensk-valg"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Prognose peger på uhyre tæt løb i svensk valg",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/prognose-peger-paa-uhyre-taet-loeb-i-svensk-valg",
+          "publishedAt": "2026-09-13T20:29:35Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/w1immatg/20260913-204353-l.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Spænding og jubel ved valgaftenen hos Miljøpartiet i Sverige",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/prognose-peger-paa-uhyre-taet-loeb-i-svensk-valg"
+      }
+    },
+    {
+      "id": "story-novo-rename-2026-09-14",
+      "eventKey": "novo-nordisk-navneskift-2026",
+      "materialFacts": [
+        "Novo Nordisk markedsfører sig fremover udelukkende som 'Novo', med justeret logo og ny engelsk slogan",
+        "De ti kulturprincipper er skåret til fire efter input fra 67.000 medarbejdere"
+      ],
+      "section": "Erhverv",
+      "headline": "Novo Nordisk skifter navn til Novo og justerer logo",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/penge/novo-nordisk-skifter-navn-til-novo-og-justerer-logo",
+      "subheadline": "Den danske medicinalgigant dropper efternavnet Nordisk og strammer sine ti kulturprincipper ned til fire efter input fra 67.000 medarbejdere",
+      "body": [
+        "Novo Nordisk markedsfører sig nu udelukkende som \"Novo\", med justeret logo - Apis-tyren vender nu til højre - og en ny engelsk slogan: \"Lasting health starts now\".",
+        "Virksomhedens ti sætninger om, hvordan medarbejderne skal agere, er omskrevet til fire principper, baseret på en rundspørge blandt de 67.000 ansatte. Adm. direktør Mike Doustdar siger til Ritzau: \"Vi skal hylde den, men vi må ikke være bange for at genopfinde os selv, som vi også har gjort flere gange tidligere.\""
+      ],
+      "whyItMatters": "For en virksomhed, hvis udsving påvirker dansk BNP, er et navneskifte mere end kosmetik - det signalerer, hvordan ledelsen under Doustdar vil positionere selskabet efter prispres på fedmemidler og skærpet konkurrence.",
+      "analysis": "Navneskiftet falder i en periode med prispres på fedmemidler - men DR's artikel dokumenterer selve beslutningen, ikke en strategisk begrundelse, som selskabet endnu ikke har uddybet offentligt.",
+      "topics": [
+        "dansk-erhverv",
+        "pharma",
+        "brand"
+      ],
+      "entities": [
+        "Novo Nordisk",
+        "Novo",
+        "Mike Doustdar"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 62,
+        "decisionValue": 35,
+        "novelty": 70,
+        "sourceQuality": 75,
+        "personalRelevance": 70,
+        "contrast": 30
+      },
+      "claims": [
+        {
+          "text": "Novo Nordisk markedsfører sig fremover udelukkende som 'Novo', med justeret logo og ny engelsk slogan",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/novo-nordisk-skifter-navn-til-novo-og-justerer-logo"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "De ti kulturprincipper er skåret til fire efter input fra 67.000 medarbejdere",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/novo-nordisk-skifter-navn-til-novo-og-justerer-logo"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Novo Nordisk skifter navn til Novo og justerer logo",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/penge/novo-nordisk-skifter-navn-til-novo-og-justerer-logo",
+          "publishedAt": "2026-09-13T19:02:49Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/erijbdi4/20260904-075707-a.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Foto: Mads Claus Rasmussen, Ritzau Scanpix",
+        "alt": "Novo Nordisks logo med Apis-tyren, der nu vender til højre",
+        "sourceUrl": "https://www.dr.dk/nyheder/penge/novo-nordisk-skifter-navn-til-novo-og-justerer-logo"
+      }
+    },
+    {
+      "id": "story-trump-whiskey-2026-09-14",
+      "eventKey": "trump-toldfritagelse-irsk-whiskey-2026",
+      "materialFacts": [
+        "Trump annoncerede fjernelse af den 15 pct. amerikanske told på irsk whiskey under et besøg i Irland",
+        "Fritagelsen udvider en undtagelse, britisk whisky fik i april 2025"
+      ],
+      "section": "Handelspolitik",
+      "headline": "Trump fjerner toll på irsk whiskey",
+      "primarySourceUrl": "https://e24.no/internasjonal-oekonomi/i/8pMW4W/trump-fjerner-toll-paa-irsk-whiskey",
+      "subheadline": "Under et besøg på sin egen golfbane i Irland lovede den amerikanske præsident at fjerne den 15 procent told, der har ramt irsk whiskey",
+      "body": [
+        "Donald Trump meddelte søndag under Irish Open på sit eget Doonbeg-resort i Irland, at USA fjerner den 15 pct. told på irsk whiskey. Ifølge E24, der har set en RTE-video, sagde Trump, at han var blevet bedt om det som en tjeneste, og at han fjerner tolden på USA's vegne.",
+        "Fritagelsen udvider en tilsvarende undtagelse, som britisk whisky - inklusive whiskey fra Nordirland, men ikke fra Irland selv - fik i april, efter kong Charles og dronning Camillas besøg i Det Hvide Hus."
+      ],
+      "whyItMatters": "Beslutningen viser, at Trump-administrationen forhandler toldfritagelser sektor for sektor og land for land snarere end via samlede aftaler - relevant for enhver dansk eksportvirksomhed, der håber på lignende undtagelser.",
+      "analysis": "E24 beskriver annonceringen som et symbolsk skridt under Trumps Irland-besøg, uden formel udmøntning i en toldbekendtgørelse - hvor hurtigt løftet bliver til praksis, er stadig åbent.",
+      "topics": [
+        "eu-us-handel",
+        "told",
+        "spiritusindustri"
+      ],
+      "entities": [
+        "Donald Trump",
+        "Irland",
+        "USA",
+        "EU"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 58,
+        "decisionValue": 60,
+        "novelty": 65,
+        "sourceQuality": 65,
+        "personalRelevance": 80,
+        "contrast": 25
+      },
+      "claims": [
+        {
+          "text": "Trump annoncerede fjernelse af den 15 pct. told på irsk whiskey søndag i Irland, ifølge E24s gengivelse af en RTE-video",
+          "sourceUrls": [
+            "https://e24.no/internasjonal-oekonomi/i/8pMW4W/trump-fjerner-toll-paa-irsk-whiskey"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Fritagelsen udvider en undtagelse, britisk whisky fik i april 2025 efter kong Charles' besøg i Det Hvide Hus",
+          "sourceUrls": [
+            "https://e24.no/internasjonal-oekonomi/i/8pMW4W/trump-fjerner-toll-paa-irsk-whiskey"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Trump fjerner toll på irsk whiskey",
+          "publisher": "E24",
+          "url": "https://e24.no/internasjonal-oekonomi/i/8pMW4W/trump-fjerner-toll-paa-irsk-whiskey",
+          "publishedAt": "2026-09-13T18:36:48Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://akamai.vgc.no/v2/images/313b86d4-a8c7-31cb-94ce-87d39f7dc41a?fit=crop&h=675&upscale=true&w=1200&s=4aa1c856dc0687852b062a3d567936fcf6bcf96a",
+        "credit": "Kilde: E24",
+        "alt": "Donald Trump under sit besøg i Irland, hvor han annoncerede fjernelse af tolden på irsk whiskey",
+        "sourceUrl": "https://e24.no/internasjonal-oekonomi/i/8pMW4W/trump-fjerner-toll-paa-irsk-whiskey"
+      }
+    },
+    {
+      "id": "story-diesel-price-2026-09-14",
+      "eventKey": "dieselpris-rekord-2026-09",
+      "materialFacts": [
+        "Dieselprisen nærmer sig 19 kr. per liter - det højeste niveau nogensinde",
+        "Stigningen tilskrives uro ved Hormuzstrædet"
+      ],
+      "section": "Økonomi",
+      "headline": "Dieselpris stiger til uhørt niveau – kan blive endnu dyrere mandag",
+      "primarySourceUrl": "https://nyheder.tv2.dk/priserne_stiger/2026-09-13-dieselpris-stiger-til-uhoert-niveau-kan-blive-endnu-dyrere-mandag",
+      "subheadline": "Prisen nærmer sig 19 kroner literen, drevet af uro ved Hormuzstrædet, og FDM venter yderligere stigninger",
+      "body": [
+        "Dieselprisen i Danmark har nået det højeste niveau nogensinde, når den nærmer sig 19 kr. per liter fredag. TV 2 tilskriver stigningen uroen ved Hormuzstrædet - en central olie-transportrute i Mellemøsten - der gentagne gange er lukket eller begrænset.",
+        "\"Når vi kigger på oliemarkedet, så er forventningen alt andet lige, at prisen går opad,\" siger FDMs forbrugerøkonom Ilyas Dogru om udsigterne til mandagens åbning. Han peger på massiv efterspørgsel efter elbiler, særligt brugte, som nu omsættes på så lidt som 15 dage."
+      ],
+      "whyItMatters": "En dieselrekord rammer den danske transport- og logistikbranche, hvis omkostninger vælter videre i priserne på fragt og dagligvarer - og fremskynder adfærdsændringen mod elbiler, som Dogru beskriver.",
+      "analysis": "Ifølge Dogru falder priserne først, når kapaciteten er genopbygget, selv hvis konflikten aftager - en vurdering fra kilden selv, ikke en uafhængigt bekræftet prognose.",
+      "topics": [
+        "energipriser",
+        "dansk-oekonomi",
+        "forbrugere"
+      ],
+      "entities": [
+        "FDM",
+        "Ilyas Dogru",
+        "Hormuzstrædet"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 45,
+        "novelty": 55,
+        "sourceQuality": 70,
+        "personalRelevance": 40,
+        "contrast": 30
+      },
+      "claims": [
+        {
+          "text": "Dieselprisen nærmer sig 19 kr. per liter fredag - det højeste niveau nogensinde",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/priserne_stiger/2026-09-13-dieselpris-stiger-til-uhoert-niveau-kan-blive-endnu-dyrere-mandag"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Brugte elbiler omsættes nu på så lidt som 15 dage, ifølge FDM",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/priserne_stiger/2026-09-13-dieselpris-stiger-til-uhoert-niveau-kan-blive-endnu-dyrere-mandag"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Dieselpris stiger til uhørt niveau – kan blive endnu dyrere mandag",
+          "publisher": "TV 2",
+          "url": "https://nyheder.tv2.dk/priserne_stiger/2026-09-13-dieselpris-stiger-til-uhoert-niveau-kan-blive-endnu-dyrere-mandag",
+          "publishedAt": "2026-09-13T19:28:52.502Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/1/d/c/1dc00b30-76b9-4b04-b736-8fd9a6b5e8fe?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCw0NjEsODY0MCw0ODYw&s=287607111dc755e691ca371897f981f6",
+        "credit": "Kilde: TV 2",
+        "alt": "Danskerne betaler nu næsten 19 kroner per liter diesel, ifølge TV 2s seneste tal",
+        "sourceUrl": "https://nyheder.tv2.dk/priserne_stiger/2026-09-13-dieselpris-stiger-til-uhoert-niveau-kan-blive-endnu-dyrere-mandag"
+      }
+    },
+    {
+      "id": "story-viborg-brothers-2026-09-14",
+      "eventKey": "viborg-broedre-mistet-stoette-ichthyosis-2026",
+      "materialFacts": [
+        "To brødre fra Viborg på 10 og 12 år har mistet et månedligt tilskud til creme mod en kronisk hudsygdom",
+        "Ankestyrelsen stadfæstede Viborg Kommunes afgørelse sommeren 2026"
+      ],
+      "section": "Indland",
+      "headline": "Brødre lider af sjælden sygdom – nu skrotter kommune deres støtte",
+      "primarySourceUrl": "https://nyheder.tv2.dk/samfund/2026-09-13-broedre-lider-af-sjaelden-sygdom-nu-skrotter-kommune-deres-stoette",
+      "subheadline": "To brødre på 10 og 12 år har mistet et månedligt tilskud til creme mod deres kroniske hudsygdom, efter Ankestyrelsen stadfæstede Viborg Kommunes afgørelse",
+      "body": [
+        "To brødre fra Viborg på 10 og 12 år har den arvelige hudsygdom icthyosis (fiskeskælshud) og har mistet et månedligt tilskud på 1.500 kr. til nødvendig fugtighedscreme.",
+        "Ifølge TV 2 traf Viborg Kommune afgørelsen, som Ankestyrelsen stadfæstede sommeren 2026. Kommunens Sigrid Andersen siger, at vurderingen som hovedregel skal tage udgangspunkt i borgerens funktionsnedsættelse, når borgeren tager sin medicin - selvom familien oplyser uændret lægefagligt behov."
+      ],
+      "whyItMatters": "Sagen illustrerer en spænding i det danske velfærdssystem: når behandling virker og symptomerne er under kontrol, kan systemet tolke det som faldende behov - fremfor som bevis på, at støtten virker.",
+      "analysis": "Familien har udtømt klagemulighederne, og afgørelsen er endelig - brødrene skal selv betale for cremen fremover, selvom de i artiklen beskriver, at huden \"svier\" og \"gør ondt\" uden den.",
+      "topics": [
+        "velfaerd",
+        "sundhed",
+        "dansk-indland"
+      ],
+      "entities": [
+        "Viborg Kommune",
+        "Ankestyrelsen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 40,
+        "decisionValue": 40,
+        "novelty": 55,
+        "sourceQuality": 70,
+        "personalRelevance": 10,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "To brødre fra Viborg på 10 og 12 år har icthyosis og har mistet et månedligt tilskud på 1.500 kr. til fugtighedscreme",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/samfund/2026-09-13-broedre-lider-af-sjaelden-sygdom-nu-skrotter-kommune-deres-stoette"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Ankestyrelsen stadfæstede Viborg Kommunes afgørelse sommeren 2026",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/samfund/2026-09-13-broedre-lider-af-sjaelden-sygdom-nu-skrotter-kommune-deres-stoette"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Brødre lider af sjælden sygdom – nu skrotter kommune deres støtte",
+          "publisher": "TV 2",
+          "url": "https://nyheder.tv2.dk/samfund/2026-09-13-broedre-lider-af-sjaelden-sygdom-nu-skrotter-kommune-deres-stoette",
+          "publishedAt": "2026-09-13T17:31:14.219Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/2/5/6/256a4a68-e047-4d5e-9a3a-f9ff87632bfd?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCwwLDExMzEsNjM2&s=fbc15470bd32534fe7351e8639253452",
+        "credit": "Kilde: TV 2",
+        "alt": "Viborg Kommune har løbende fulgt brødrene og vurderet deres behov for fugtighedscreme",
+        "sourceUrl": "https://nyheder.tv2.dk/samfund/2026-09-13-broedre-lider-af-sjaelden-sygdom-nu-skrotter-kommune-deres-stoette"
+      }
+    },
+    {
+      "id": "story-solheim-cup-2026-09-14",
+      "eventKey": "solheim-cup-2026",
+      "materialFacts": [
+        "Europa vandt Solheim Cup 14-10 over USA",
+        "Nanna Koerstz Madsen besejrede Allisen Corpuz og bragte Europa afgørende foran"
+      ],
+      "section": "Sport",
+      "headline": "Europa slår USA ved Solheim Cup efter afgørende dansk bidrag",
+      "primarySourceUrl": "https://www.dr.dk/sporten/golf-2/europa-slaar-usa-ved-solheim-cup-efter-afgoerende-dansk-bidrag",
+      "subheadline": "Danske Nanna Koerstz Madsen besejrede majorvinder Allisen Corpuz og bragte Europa afgørende foran i den samlede stilling 14-10",
+      "body": [
+        "Europa vandt Solheim Cup 14-10 over USA. Danske Nanna Koerstz Madsen besejrede den amerikanske majorvinder Allisen Corpuz i sin singlekamp, som blev afgjort på hul 17, da amerikaneren ikke længere kunne hente sejren hjem.",
+        "Koerstz Madsens sejr bragte Europa foran 12-10, hvilket gjorde et amerikansk comeback matematisk umuligt, inden de sidste kampe var færdigspillet."
+      ],
+      "whyItMatters": "For dansk golf er en afgørende singlesejr i et af sportens største holdmesterskaber en sjælden scene - Koerstz Madsen går fra at være en af flere danske profiler til at være kvinden, hvis point vandt trofæet for Europa.",
+      "analysis": "DRs artikel dokumenterer resultatet og kampforløbet, men indeholder ingen citater fra spillere eller kaptajner - det er derfor endnu uklart, hvordan holdet selv rammesætter sejren.",
+      "topics": [
+        "golf",
+        "dansk-sport"
+      ],
+      "entities": [
+        "Nanna Koerstz Madsen",
+        "Allisen Corpuz",
+        "Europa",
+        "USA"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 40,
+        "decisionValue": 20,
+        "novelty": 60,
+        "sourceQuality": 75,
+        "personalRelevance": 55,
+        "contrast": 20
+      },
+      "claims": [
+        {
+          "text": "Europa vandt Solheim Cup 14-10 over USA",
+          "sourceUrls": [
+            "https://www.dr.dk/sporten/golf-2/europa-slaar-usa-ved-solheim-cup-efter-afgoerende-dansk-bidrag"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Nanna Koerstz Madsen besejrede Allisen Corpuz på hul 17 og bragte Europa foran 12-10",
+          "sourceUrls": [
+            "https://www.dr.dk/sporten/golf-2/europa-slaar-usa-ved-solheim-cup-efter-afgoerende-dansk-bidrag"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Europa slår USA ved Solheim Cup efter afgørende dansk bidrag",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/sporten/golf-2/europa-slaar-usa-ved-solheim-cup-efter-afgoerende-dansk-bidrag",
+          "publishedAt": "2026-09-13T15:14:24Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/0qypdyph/20260913-161107-l_crop001.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Nanna Koerstz Madsen jubler efter sin afgørende sejr, der bragte Europa foran ved Solheim Cup 2026",
+        "sourceUrl": "https://www.dr.dk/sporten/golf-2/europa-slaar-usa-ved-solheim-cup-efter-afgoerende-dansk-bidrag"
+      }
+    },
+    {
+      "id": "story-dfds-cio-2026-09-14",
+      "eventKey": "dfds-cio-ansaettelse-2026",
+      "materialFacts": [
+        "DFDS ansætter Sandeep Shahi fra FedEx som ny Chief Digital & Information Officer",
+        "Shahi afløser Rune Keldsen, der forlader DFDS for en stilling hos Ørsted"
+      ],
+      "section": "Erhverv",
+      "headline": "Fra FedEx til DFDS: Ny topchef træder direkte ind i koncernledelsen",
+      "primarySourceUrl": "https://www.transportmagasinet.dk/article/view/1245316/fra_fedex_til_dfds_ny_topchef_traeder_direkte_ind_i_koncernledelsen",
+      "subheadline": "Sandeep Shahi forlader FedEx for at blive DFDS' nye digital- og it-direktør med plads i koncernledelsen fra 16. november",
+      "body": [
+        "DFDS ansætter Sandeep Shahi som ny Chief Digital & Information Officer med indtræden i koncernledelsen fra 16. november 2026. Shahi kommer fra en CIO-stilling hos FedEx i Asien-Stillehavsområdet og har tidligere haft ledende teknologistillinger hos DHL Group og SAP.",
+        "Ifølge Transportmagasinet afløser Shahi Rune Keldsen, der forlader DFDS for en stilling hos Ørsted. DFDS har omkring 15.000 fuldtidsansatte og en årlig omsætning på 32 mia. kroner."
+      ],
+      "whyItMatters": "Ansættelsen føjer sig til en række bevægelser i den danske transport- og logistikledelse i år og illustrerer, hvor globalt konkurrencen om digitale topledere nu foregår - DFDS henter direkte fra en af verdens største logistikkoncerner.",
+      "analysis": "Artiklen er en investordisclosure-baseret nyhed uden citater fra DFDS' ledelse eller Shahi selv, så den strategiske begrundelse ud over titel og startdato er endnu ikke offentligt uddybet.",
+      "topics": [
+        "ledelsesskifte",
+        "dansk-erhverv"
+      ],
+      "entities": [
+        "DFDS",
+        "Sandeep Shahi",
+        "FedEx",
+        "Rune Keldsen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 30,
+        "decisionValue": 35,
+        "novelty": 55,
+        "sourceQuality": 55,
+        "personalRelevance": 65,
+        "contrast": 10
+      },
+      "claims": [
+        {
+          "text": "Sandeep Shahi bliver DFDS' nye CDIO med plads i koncernledelsen fra 16. november 2026",
+          "sourceUrls": [
+            "https://www.transportmagasinet.dk/article/view/1245316/fra_fedex_til_dfds_ny_topchef_traeder_direkte_ind_i_koncernledelsen"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Han afløser Rune Keldsen, der forlader DFDS for en stilling hos Ørsted",
+          "sourceUrls": [
+            "https://www.transportmagasinet.dk/article/view/1245316/fra_fedex_til_dfds_ny_topchef_traeder_direkte_ind_i_koncernledelsen"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Fra FedEx til DFDS: Ny topchef træder direkte ind i koncernledelsen",
+          "publisher": "Transportmagasinet",
+          "url": "https://www.transportmagasinet.dk/article/view/1245316/fra_fedex_til_dfds_ny_topchef_traeder_direkte_ind_i_koncernledelsen",
+          "publishedAt": "2026-09-10T09:13:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://image.nordjyske.dk/users/nordjyske/images/132184997.jpg?t[strip]=true&t[quality]=95&t[crop][width]=3885&t[crop][height]=2042&t[crop][x]=0&t[crop][y]=275&t[resize][width]=900&t[resize][height]=473&accessToken=244e6f36cf65a506482a4eead4e3cb6e1098fbf9a7d9d93b46ca48fd8f9a2ad8",
+        "credit": "Kilde: Transportmagasinet/Nordjyske",
+        "alt": "DFDS, der har ca. 15.000 ansatte og 32 mia. kr. i årlig omsætning, får ny digital- og it-direktør",
+        "sourceUrl": "https://www.transportmagasinet.dk/article/view/1245316/fra_fedex_til_dfds_ny_topchef_traeder_direkte_ind_i_koncernledelsen"
+      }
+    }
+  ],
+  "signals": [
+    {
+      "text": "Store dyr og et kæmpe hegn: Ny naturnationalpark åbner under protester",
+      "headline": "Store dyr og et kæmpe hegn: Ny naturnationalpark åbner under protester",
+      "url": "https://www.dr.dk/nyheder/indland/store-dyr-og-et-kaempe-hegn-ny-naturnationalpark-aabner-under-protester",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-09-13T05:00:00Z",
+      "summary": "Danmarks anden naturnationalpark åbnede i Gribskov på 1.300 hektar med fritgående elge, men et 22 km hegn begrænser adgangen og udløser protester."
+    },
+    {
+      "text": "Venter rentethriller i USA",
+      "headline": "Venter rentethriller i USA",
+      "url": "https://e24.no/norsk-oekonomi/i/XMQRex/venter-rentethriller-i-usa",
+      "publisher": "E24",
+      "section": "Makroøkonomi",
+      "publishedAt": "2026-09-13T18:45:00Z",
+      "summary": "Ny Fed-formand Kevin Warsh ventes at annoncere en rentebeslutning onsdag, med markedet der lægger omkring 90 pct. sandsynlighed for en renteforhøjelse trods Trumps pres for rentenedsættelser."
+    },
+    {
+      "text": "Pres på vandressourcer kræver politisk handling nu",
+      "headline": "Pres på vandressourcer kræver politisk handling nu",
+      "url": "https://via.ritzau.dk/pressemeddelelse/15143548/di-pres-pa-vandressourcer-kraever-politisk-handling-nu?lang=da",
+      "publisher": "Dansk Industri",
+      "section": "Erhvervspolitik",
+      "publishedAt": "2026-09-07T07:47:00Z",
+      "summary": "DI advarer om, at Danmark inden for 10-15 år kan risikere mangel på drikkevand uden politisk handling, og opfordrer til en national vandplan."
+    },
+    {
+      "text": "Forventninger til regnskabsåret 2026/27",
+      "headline": "Forventninger til regnskabsåret 2026/27",
+      "url": "https://www.globenewswire.com/news-release/2026/09/10/3359914/0/da/forventninger-til-regnskabs%C3%A5ret-2026-27.html",
+      "publisher": "ChemoMetec",
+      "section": "Erhverv",
+      "publishedAt": "2026-09-10T12:20:00Z",
+      "summary": "ChemoMetec udmelder forventning om omsætning på 545-575 mio. kr. og EBITDA på 300-315 mio. kr. i 2026/27, op fra hhv. 511,1 og 281,3 mio. kr. året før."
+    },
+    {
+      "text": "Nye planer om atomkraft tæt på Danmark: Men det afhænger af svensk valggyser",
+      "headline": "Nye planer om atomkraft tæt på Danmark: Men det afhænger af svensk valggyser",
+      "url": "https://ing.dk/artikel/nye-planer-om-atomkraft-taet-paa-danmark-men-det-afhaenger-af-svensk-valggyser",
+      "publisher": "Ingeniøren",
+      "section": "Energi",
+      "publishedAt": "2026-09-11T13:01:53Z",
+      "summary": "Fire ansøgninger om statsstøtte til nye svenske atomreaktorer tæt på dansk territorium er indgivet, og udfaldet afhænger delvist af det svenske valg."
+    },
+    {
+      "text": "Konsulentkæmpen 7N: Teknisk tunge fagfolk vinder over de klassiske konsulenter",
+      "headline": "Konsulentkæmpen 7N: Teknisk tunge fagfolk vinder over de klassiske konsulenter",
+      "url": "https://www.computerworld.dk/art/296794",
+      "publisher": "Computerworld",
+      "section": "Erhverv",
+      "publishedAt": "2026-09-11T07:40:00Z",
+      "summary": "Konsulenthuset 7N oplever stigende efterspørgsel efter 'digital suverænitet' og ikke-amerikanske softwarealternativer, hvilket flytter rekruttering mod teknisk specialiserede medarbejdere."
+    },
+    {
+      "text": "Rybakina vinder US Open for første gang i karrieren",
+      "headline": "Rybakina vinder US Open for første gang i karrieren",
+      "url": "https://www.dr.dk/sporten/seneste-sport/rybakina-vinder-us-open-foerste-gang-i-karrieren",
+      "publisher": "DR",
+      "section": "Sport",
+      "publishedAt": "2026-09-13T00:05:52Z",
+      "summary": "Elena Rybakina vandt sin tredje Grand Slam-titel og overtager verdensranglistens førsteplads fra Aryna Sabalenka."
+    },
+    {
+      "text": "Zverev vinder US Open og forlænger amerikansk tørke",
+      "headline": "Zverev vinder US Open og forlænger amerikansk tørke",
+      "url": "https://sport.tv2.dk/tennis/2026-09-13-zverev-vinder-us-open-og-forlaenger-amerikansk-toerke",
+      "publisher": "TV 2",
+      "section": "Sport",
+      "publishedAt": "2026-09-13T21:59:00Z",
+      "summary": "Alexander Zverev vandt sin anden Grand Slam-titel og forlænger amerikanske spilleres 23-årige tørke ved US Open."
+    },
+    {
+      "text": "To danskere sejler sig til VM-bronze",
+      "headline": "To danskere sejler sig til VM-bronze",
+      "url": "https://www.dr.dk/sporten/seneste-sport/danskere-sejler-sig-til-vm-bronze",
+      "publisher": "DR",
+      "section": "Sport",
+      "publishedAt": "2026-09-13T07:03:27Z",
+      "summary": "Anna Munch (ILCA 6) og Johan Søe (iQFOiL) vandt begge bronze ved VM i sejlsport i Irland."
+    },
+    {
+      "text": "Holger Rune afslører: 'Fra dette moment var jeg klar til comeback'",
+      "headline": "Holger Rune afslører: 'Fra dette moment var jeg klar til comeback'",
+      "url": "https://www.dr.dk/sporten/tennis/holger-rune-afsloerer-fra-dette-moment-var-jeg-klar-til-comeback",
+      "publisher": "DR",
+      "section": "Sport",
+      "publishedAt": "2026-09-13T06:45:00Z",
+      "summary": "Rune vender tilbage til Davis Cup denne weekend efter ti måneders pause, efter en træningsuge med Carlos Alcaraz overbeviste ham om at være klar."
+    },
+    {
+      "text": "Volleylandshold tager overlegen sejr til EM",
+      "headline": "Volleylandshold tager overlegen sejr til EM",
+      "url": "https://www.dr.dk/sporten/seneste-sport/volleylandshold-tager-overlegen-sejr-til-em",
+      "publisher": "DR",
+      "section": "Sport",
+      "publishedAt": "2026-09-13T14:06:48Z",
+      "summary": "Danmarks herrelandshold i volleyball vandt 3-0 over Estland ved EM i Finland og fører nu gruppe C."
+    },
+    {
+      "text": "Nu kan du blive begravet under en træstub på kirkegården",
+      "headline": "Nu kan du blive begravet under en træstub på kirkegården",
+      "url": "https://nyheder.tv2.dk/samfund/2026-09-13-nu-kan-du-blive-begravet-under-en-traestub-paa-kirkegaarden",
+      "publisher": "TV 2",
+      "section": "Indland",
+      "publishedAt": "2026-09-13T17:30:45.134Z",
+      "summary": "Østbirk Kirkegård ved Horsens har åbnet et nyt naturbegravelsesområde, 'Skovbunden', hvor man begraves under træstubbe."
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-apple-in-china-2026",
+      "mode": "read",
+      "kind": "bog",
+      "status": "available",
+      "title": "Apple in China: The Capture of the World's Greatest Company",
+      "creator": "Patrick McGee",
+      "provider": "Scribner",
+      "url": "https://www.simonandschuster.com/books/Apple-in-China/Patrick-McGee/9781668053379",
+      "availability": "Udkom 2025, forhandles bredt i boghandlere og online; ingen regional begrænsning",
+      "commitment": "448 sider",
+      "description": "Baseret på over 200 interviews dokumenterer journalisten Patrick McGee, hvordan Apples årtier lange investeringer i kinesiske fabrikker byggede den avancerede produktionskapacitet, som Kina i dag bruger som strategisk værktøj.",
+      "rationale": "En bogslængde uddybning af den industripolitiske logik bag dagens toldnyhed: hvordan vestlig investering kan opbygge en rivals kapacitet. Relevant for en læser med et professionelt forhold til Kina-markedsadgang, uden at gentage dagens konkrete historier.",
+      "topics": [
+        "kina",
+        "industripolitik",
+        "handel"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://covers.openlibrary.org/b/isbn/9781668053379-L.jpg",
+        "credit": "Bogomslag: Scribner",
+        "alt": "Forsiden af Patrick McGees bog 'Apple in China'",
+        "sourceUrl": "https://www.simonandschuster.com/books/Apple-in-China/Patrick-McGee/9781668053379"
+      }
+    },
+    {
+      "id": "rec-comet-3i-atlas-2026",
+      "mode": "read",
+      "kind": "videnskabsartikel",
+      "status": "timely",
+      "title": "ESA observations of interstellar Comet 3I/ATLAS",
+      "provider": "European Space Agency (ESA)",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/ESA_observations_of_interstellar_Comet_3I_ATLAS",
+      "availability": "Frit tilgængelig online, ingen begrænsning",
+      "commitment": "5-10 minutters læsning",
+      "description": "ESA har mobiliseret Hubble, JWST, Mars Express, ExoMars TGO og Juice til at studere den tredje kendte interstellare komet, 3I/ATLAS, som fra september 2026 igen bliver synlig for teleskoper.",
+      "rationale": "Et rent serendipitetsvalg uden forbindelse til erhverv eller politik: et konkret, aktuelt naturvidenskabeligt fænomen, hvor JWST har fundet et usædvanligt højt forhold mellem metan og vand, der peger på en oprindelse uden for solsystemet.",
+      "topics": [
+        "rummet",
+        "videnskab"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/comet_3i_atlas_shows_activity_in_juice_navigation_camera_teaser/27008867-1-eng-GB/Comet_3I_ATLAS_shows_activity_in_Juice_navigation_camera_teaser_pillars.png",
+        "credit": "Foto: ESA/Juice",
+        "alt": "Komet 3I/ATLAS fotograferet af rumsonden Juices navigationskamera",
+        "sourceUrl": "https://www.esa.int/Science_Exploration/Space_Science/ESA_observations_of_interstellar_Comet_3I_ATLAS"
+      }
+    },
+    {
+      "id": "rec-uci-worlds-montreal-2026",
+      "mode": "watch",
+      "kind": "sportsbegivenhed",
+      "status": "upcoming",
+      "title": "200 days to go: a look at the courses of the 2026 UCI Road World Championships",
+      "provider": "UCI (Union Cycliste Internationale)",
+      "url": "https://www.uci.org/pressrelease/200-days-to-go-a-look-at-the-courses-of-the-2026-uci-road-world/7MNCbBHZySudjNAoDW4R8x",
+      "availability": "VM afholdes 20.-27. september 2026 i Montreal; følges via tv-transmission eller UCI's egne kanaler",
+      "commitment": "Op til flere timer per etape, hvis man følger direkte",
+      "description": "UCI's egen gennemgang af banerne til VM i landevejscykling i Montreal 20.-27. september - første gang mesterskabet afholdes i Canada uden for Europa siden 1974 - med et 273,7 km herrelinjeløb og en tidskørsel gennem det gamle Montreal.",
+      "rationale": "Hans nærmeste sportsinteresse er cykling, og VM-ugen ligger blot seks dage efter denne udgivelse - en kalendernotits, ikke en gentagelse af dagens Solheim Cup-historie, som handler om golf.",
+      "topics": [
+        "cykling",
+        "sport"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-figure-helix02-demo-2026",
+      "mode": "watch",
+      "kind": "produktdemo",
+      "status": "available",
+      "title": "Helix-02 Bedroom Tidy",
+      "provider": "Figure AI",
+      "url": "https://www.figure.ai/news/helix-02-bedroom-tidy",
+      "availability": "Frit tilgængeligt på Figure AIs egen side",
+      "commitment": "Ca. 2 minutter",
+      "description": "To Figure-humanoide robotter rydder et soveværelse og reder en seng sammen på under to minutter, styret af én indlært vision-sprog-handlings-model uden central koordinator - ifølge Figure AI den første demonstrerede fler-robot-samarbejdsopgave af sin art.",
+      "rationale": "En to-minutters, konkret illustration af, hvor langt fysisk arbejdskraftsautomatisering er nået - relevant for interessen i produktivitet og konkurrenceevne, og et formatskifte væk fra dagens læsetunge stof.",
+      "topics": [
+        "automatisering",
+        "robotter",
+        "produktivitet"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {
+    "sourceCoverage": 90,
+    "freshness": 78,
+    "novelty": 78,
+    "perspectiveBalance": 72,
+    "render": 100
+  }
+}
