@@ -1,0 +1,773 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-09-19-01",
+  "date": "2026-09-19",
+  "generatedAt": "2026-09-19T04:24:57Z",
+  "readingMinutes": 11,
+  "title": "Thomas' Nyheder – 19. september 2026",
+  "dek": "Grønland-aftalen mellem USA, Danmark og Grønland dominerer natten; Nationalbanken finder at AI-virksomheder ansætter færre; Mærsk satser på 26 nye skibe; og Rune er tilbage efter 335 dage.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-groenland-sikkerhedsaftale-20260919",
+      "eventKey": "usa-groenland-danmark-sikkerhedsaftale-2026-09",
+      "materialFacts": [
+        "Trump erklærede natten til 19. september at USA, Danmark og Grønland har indgået en sikkerhedsaftale",
+        "Statsministeriet og Grønlands regering bekræfter en aftale, men afviser salg eller amerikansk territorium",
+        "Underskrift ventes i næste uge under FN's generalforsamling"
+      ],
+      "section": "Geopolitik",
+      "headline": "Statsministeriet bekræfter: Aftale på plads mellem Grønland, Danmark og USA",
+      "primarySourceUrl": "https://www.altinget.dk/artikel/statsministeriet-bekraefter-aftale-indgaaet-mellem-groenland-danmark-og-usa",
+      "subheadline": "Trump erklærer 'permanent kontrol' over sikkerheden i Grønland, mens Frederiksen og Nuuk afviser salg",
+      "body": [
+        "Natten til lørdag skrev Trump på Truth Social, at USA, Danmark og Grønland har indgået en aftale, der giver USA permanent kontrol over sikkerheden i Grønland - med en omfattende amerikansk militær tilstedeværelse og krav om amerikansk accept, før Grønland indgår nye aftaler med andre lande.",
+        "Statsministeriet bekræfter udsigt til en aftale, og Grønlands regeringsleder Jens-Frederik Nielsen siger, den afspejler det, Naalakkersuisut har sagt fra start. København og Nuuk understreger samstemmende, at Grønland hverken sælges eller bliver amerikansk territorium. Underskrift ventes næste uge under FN's generalforsamling."
+      ],
+      "whyItMatters": "For en læser med baggrund i transatlantisk erhvervsdiplomati er spørgsmålet, hvor langt det amerikanske krav om vetoret over grønlandske aftaler rækker - det kan lægge sig oven på EU's øvrige rammer for Arktis og råstoffer.",
+      "analysis": "Vilkårene - finansiering, varighed, ændringsprocedurer - er endnu ikke offentliggjort, og det er første gang en amerikansk regering formulerer et permanent sikkerhedskrav så skarpt over for et NATO-land.",
+      "counterpoint": "Trumps formulering om permanent kontrol over sikkerheden går videre end den danske og grønlandske gengivelse, som insisterer på fortsat suverænitet.",
+      "topics": [
+        "geopolitik",
+        "usa-forhold",
+        "groenland",
+        "sikkerhedspolitik"
+      ],
+      "entities": [
+        "Donald Trump",
+        "Mette Frederiksen",
+        "Jens-Frederik Nielsen",
+        "Grønland",
+        "USA",
+        "Danmark"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 96,
+        "decisionValue": 70,
+        "novelty": 90,
+        "sourceQuality": 85,
+        "personalRelevance": 75,
+        "contrast": 60
+      },
+      "claims": [
+        {
+          "text": "Trump erklærede på Truth Social at USA har opnået permanent kontrol over sikkerheden i Grønland som del af en aftale med Danmark og Grønland.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/aftale-om-groenland-er-faldet-paa-plads-her-er-fire-nedslag-fra-den-historiske-udvikling",
+            "https://www.altinget.dk/artikel/statsministeriet-bekraefter-aftale-indgaaet-mellem-groenland-danmark-og-usa"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Statsministeriet og Grønlands regeringsleder bekræfter en aftale, men afviser at Grønland sælges eller bliver amerikansk territorium.",
+          "sourceUrls": [
+            "https://www.altinget.dk/artikel/statsministeriet-bekraefter-aftale-indgaaet-mellem-groenland-danmark-og-usa"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Statsministeriet bekræfter: Aftale på plads mellem Grønland, Danmark og USA",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/artikel/statsministeriet-bekraefter-aftale-indgaaet-mellem-groenland-danmark-og-usa",
+          "publishedAt": "2026-09-19T02:39:00Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Aftale om Grønland er faldet på plads: Her er fire nedslag fra den 'historiske' udvikling",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/aftale-om-groenland-er-faldet-paa-plads-her-er-fire-nedslag-fra-den-historiske-udvikling",
+          "publishedAt": "2026-09-19T03:48:35Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://legacy.altinget.dk/images/article/306394/160930.jpg",
+        "credit": "Kilde: Altinget",
+        "alt": "Statsministeriet bekræfter: Aftale på plads mellem Grønland, Danmark og USA",
+        "sourceUrl": "https://www.altinget.dk/artikel/statsministeriet-bekraefter-aftale-indgaaet-mellem-groenland-danmark-og-usa"
+      }
+    },
+    {
+      "id": "story-nationalbanken-ai-jobs-20260919",
+      "eventKey": "nationalbanken-ai-beskaeftigelse-analyse-2026-09",
+      "materialFacts": [
+        "AI-virksomheder ansætter 8-11 pct. færre nye medarbejdere end sammenlignelige virksomheder uden AI",
+        "Effekten rammer især unge og højtuddannede; samlet beskæftigelse er ikke faldet"
+      ],
+      "section": "Økonomi",
+      "headline": "Ny analyse: Virksomheder, der bruger AI, ansætter færre",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/penge/ny-analyse-virksomheder-der-bruger-ai-ansaetter-faerre",
+      "subheadline": "Nationalbanken finder 8-11 procent færre nyansættelser hos AI-virksomheder, uden at samlet beskæftigelse falder",
+      "body": [
+        "En ny analyse fra Nationalbanken viser, at danske virksomheder, der bruger AI, ansætter 8-11 procent færre nye medarbejdere end sammenlignelige virksomheder uden. Effekten koncentrerer sig om unge og højtuddannede, hvis opgaver typisk er computerbaserede og vidensintensive.",
+        "Den samlede danske beskæftigelse er ikke faldet. Ifølge direktør Signe Krogstrup har de, der ikke er ansat i AI-virksomhederne, fundet job andre steder - en arbejdsmarkedsomstilling, ikke en beskæftigelseskrise, som Nationalbanken formulerer det."
+      ],
+      "whyItMatters": "Pointen er ikke, at AI koster job i aggregeret forstand, men at indgangsniveauet for nyuddannede flytter sig - præcis den gruppe, hvis første job traditionelt har været en del af den danske model.",
+      "analysis": "Nationalbanken understreger selv usikkerhed om effektens omfang og varighed, og analysen kan ikke isolere, om de fortrængte finder job af samme løn og kvalitet som dem, AI overtog.",
+      "topics": [
+        "makroøkonomi",
+        "arbejdsmarked",
+        "ai"
+      ],
+      "entities": [
+        "Danmarks Nationalbank",
+        "Signe Krogstrup"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 72,
+        "decisionValue": 75,
+        "novelty": 78,
+        "sourceQuality": 88,
+        "personalRelevance": 72,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "Virksomheder der har taget AI i brug ansætter 8-11 pct. færre nye medarbejdere end sammenlignelige virksomheder uden AI.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/ny-analyse-virksomheder-der-bruger-ai-ansaetter-faerre"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Den samlede danske beskæftigelse er ikke faldet, da fortrængte finder job andre steder, ifølge direktør Signe Krogstrup.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/ny-analyse-virksomheder-der-bruger-ai-ansaetter-faerre"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Ny analyse: Virksomheder, der bruger AI, ansætter færre",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/penge/ny-analyse-virksomheder-der-bruger-ai-ansaetter-faerre",
+          "publishedAt": "2026-09-16T04:00:00Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Artificial Intelligence and the Labour Market: The Transition Has Begun",
+          "publisher": "Danmarks Nationalbank",
+          "url": "https://www.nationalbanken.dk/en/news-and-knowledge/publications-and-speeches/analysis/2026/artificial-intelligence-and-the-labour-market-the-transition-has-begun",
+          "publishedAt": "2026-09-16T04:00:00Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/04pehuqi/aifaldibeskaeftigelse.png?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "DR's grafik til analysen af AI og beskæftigelse fra Danmarks Nationalbank",
+        "sourceUrl": "https://www.dr.dk/nyheder/penge/ny-analyse-virksomheder-der-bruger-ai-ansaetter-faerre"
+      }
+    },
+    {
+      "id": "story-maersk-26-skibe-20260919",
+      "eventKey": "maersk-containerskibsordre-2026-09",
+      "materialFacts": [
+        "Mærsk har bestilt 26 containerskibe på 18.600 TEU med dual-fuel LNG-fremdrift",
+        "Skibene leveres 2029-2030, efter at MSC overtog positionen som verdens største rederi"
+      ],
+      "section": "Erhverv",
+      "headline": "Mærsk lægger ordre på 26 nye containerskibe",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/maersk-laegger-ordre-paa-26-nye-containerskibe",
+      "subheadline": "Ordren markerer kursskifte, efter at MSC overtog tronen som verdens største containerrederi",
+      "body": [
+        "Mærsk har bestilt 26 containerskibe på hver 18.600 TEU med dual-fuel-motorer, der kan sejle på LNG. Skibene leveres i 2029 og 2030 og indgår i flådefornyelsen.",
+        "Ordren kommer, efter Mærsk er blevet overhalet af MSC som verdens største containerrederi, i takt med at MSC har bestilt langt flere nybygninger. Med 26 skibe på én gang forsvarer Mærsk sin kapacitet frem mod 2030."
+      ],
+      "whyItMatters": "Danmarks største eksportvirksomhed lægger et milliardbeløb fast for det næste årtis søfragtkapacitet - en beslutning der binder både klimaregnskabet og konkurrenceevnen mod MSC til valget af LNG som brobrændstof.",
+      "analysis": "Mærsk har ikke oplyst prisen eller hvilket værft der bygger skibene, og det er uklart, om LNG er permanent eller et mellemstadie frem mod de metanol- og ammoniakdrevne skibe, rederiet ellers har promoveret.",
+      "topics": [
+        "erhvervsliv",
+        "shipping",
+        "dansk-eksport"
+      ],
+      "entities": [
+        "Mærsk",
+        "MSC"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 68,
+        "decisionValue": 60,
+        "novelty": 65,
+        "sourceQuality": 80,
+        "personalRelevance": 70,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Mærsk har bestilt 26 containerskibe på 18.600 TEU med dual-fuel LNG-fremdrift til levering 2029-2030.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/maersk-laegger-ordre-paa-26-nye-containerskibe"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Mærsk lægger ordre på 26 nye containerskibe",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/maersk-laegger-ordre-paa-26-nye-containerskibe",
+          "publishedAt": "2026-09-18T13:49:01Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/u2ehcx4e/20240809-110212-l.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Mærsk-containerskib, DR's billede til dækningen af flådeordren",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/maersk-laegger-ordre-paa-26-nye-containerskibe"
+      }
+    },
+    {
+      "id": "story-smv-ai-styring-20260919",
+      "eventKey": "danske-smv-ai-styring-2026-09",
+      "materialFacts": [
+        "66 pct. af danske SMV'er mangler en formel AI-strategi",
+        "Halvdelen har medarbejdere der bruger AI uden fælles retningslinjer"
+      ],
+      "section": "Erhverv",
+      "headline": "Derfor har hver anden dansk SMV mistet styringen med sin egen AI-brug",
+      "primarySourceUrl": "https://www.computerworld.dk/art/296856",
+      "subheadline": "Voxmeter-undersøgelse for itm8: To ud af tre danske SMV'er mangler en formel AI-strategi",
+      "body": [
+        "En undersøgelse blandt 401 it-ansvarlige i danske SMV'er, udført af Voxmeter for itm8, viser at 66 procent mangler en formel AI-strategi, og halvdelen har medarbejdere, der bruger AI uden fælles retningslinjer. Selv blandt virksomheder med en strategi svarer 40 procent det samme.",
+        "51,6 procent frygter, at fortrolige data deles med AI-værktøjer. Dansk Erhvervs Kasper Lynge Jacobsen kalder det en ledelsesopgave frem for et medarbejderproblem: et styringsdokument i en skuffe er ikke det samme som fælles praksis."
+      ],
+      "whyItMatters": "Pointen er skarp: SMV-sektorens AI-brug er langt foran dens AI-governance, og gabet ligger hos ledelsen, ikke hos medarbejderne der bruger værktøjerne.",
+      "analysis": "Undersøgelsen er bestilt af en it-leverandør med kommerciel interesse i at sælge governance-løsninger - det gør ikke tallene forkerte, men er værd at holde for øje, når konklusionen peger på et behov, itm8 selv kan dække.",
+      "topics": [
+        "erhvervsliv",
+        "dansk-erhverv",
+        "ai",
+        "digitalisering"
+      ],
+      "entities": [
+        "itm8",
+        "Voxmeter",
+        "Dansk Erhverv",
+        "Kasper Lynge Jacobsen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 58,
+        "decisionValue": 68,
+        "novelty": 60,
+        "sourceQuality": 72,
+        "personalRelevance": 75,
+        "contrast": 30
+      },
+      "claims": [
+        {
+          "text": "66 pct. af danske SMV'er mangler en formel AI-strategi, og halvdelen har medarbejdere der bruger AI uden fælles retningslinjer, ifølge en Voxmeter-undersøgelse for itm8 blandt 401 it-ansvarlige.",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/296856"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Derfor har hver anden dansk SMV mistet styringen med sin egen AI-brug",
+          "publisher": "Computerworld",
+          "url": "https://www.computerworld.dk/art/296856",
+          "publishedAt": "2026-09-17T05:30:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://www.computerworld.dk/fil/223506?width=1200&height=630&focus=1",
+        "credit": "Kilde: Computerworld",
+        "alt": "Computerworlds billede til artiklen om danske SMV'ers manglende AI-styring",
+        "sourceUrl": "https://www.computerworld.dk/art/296856"
+      }
+    },
+    {
+      "id": "story-bo-svaerert-jubilaeum-20260919",
+      "eventKey": "bang-olufsen-svaekket-jubilaeumsaar-2026-09",
+      "materialFacts": [
+        "B&O nedjusterer omsætningsvæksten til 1-5 pct. og dropper 2028-mål",
+        "Frit cash flow faldt til -141 mio. kr.; 60 fyringer varslet"
+      ],
+      "section": "Erhverv",
+      "headline": "B&O starter sine næste 100 år som sårbart selskab",
+      "primarySourceUrl": "https://ugebrev.dk/flashnesh/bo-starter-sine-naeste-100-aar-som-saarbart-selskab/",
+      "subheadline": "Skuffende salg af Beosound Premiere og global chipmangel sender B&O's pengestrøm i minus",
+      "body": [
+        "B&O fejrer 100 år med en markant nedjustering: omsætningsvæksten ventes nu til 1-5 procent mod tidligere 6-10 procent, og 2028-målene er droppet. Soundbaren Beosound Premiere, som skulle drive tv-væksten, har solgt under forventning og er siden sat ned 20 procent i pris.",
+        "En global mangel på DDR4-chips rammer likviditeten med 35-45 mio. kr., fordi tre ud af fire leverandører har nedtrappet produktionen. Frit cash flow endte på minus 141 mio. kr. mod plus 16 mio. kr. sidste år, og selskabet varsler 60 fyringer - 5 procent af arbejdsstyrken."
+      ],
+      "whyItMatters": "B&O er et af de sidste danske forbrugerelektronik-mærker med global genkendelse, og et sælg-råd midt i jubilæumsåret signalerer, hvor lidt luft der er i et selskab hvis vækst har hvilet på premium-hardware.",
+      "analysis": "At en chipmangel koster titalls millioner i likviditet viser, hvor eksponeret nichemærker er over for forsyningskæder de ikke kontrollerer.",
+      "topics": [
+        "dansk-industri",
+        "erhvervsliv",
+        "ai-forsyningskaede"
+      ],
+      "entities": [
+        "Bang & Olufsen",
+        "Nikolaj Wendelboe"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 62,
+        "decisionValue": 55,
+        "novelty": 70,
+        "sourceQuality": 75,
+        "personalRelevance": 68,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "B&O nedjusterer omsætningsvæksten til 1-5 pct. fra 6-10 pct. og dropper sine 2028-mål.",
+          "sourceUrls": [
+            "https://ugebrev.dk/flashnesh/bo-starter-sine-naeste-100-aar-som-saarbart-selskab/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "En DDR4-chipmangel koster 35-45 mio. kr. i likviditet; frit cash flow faldt til -141 mio. kr. fra +16 mio. kr., og selskabet varsler 60 fyringer.",
+          "sourceUrls": [
+            "https://ugebrev.dk/flashnesh/bo-starter-sine-naeste-100-aar-som-saarbart-selskab/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "B&O starter sine næste 100 år som sårbart selskab",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/flashnesh/bo-starter-sine-naeste-100-aar-som-saarbart-selskab/",
+          "publishedAt": "2026-09-18T09:40:19Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://ugebrev.dk/wp-content/uploads/2025/04/Nikolaj-Wendelboe2-BampO.jpg",
+        "credit": "Kilde: Økonomisk Ugebrev",
+        "alt": "B&O's CFO Nikolaj Wendelboe, Økonomisk Ugebrevs billede til artiklen",
+        "sourceUrl": "https://ugebrev.dk/flashnesh/bo-starter-sine-naeste-100-aar-som-saarbart-selskab/"
+      }
+    },
+    {
+      "id": "story-eu-associeret-medlemskab-20260919",
+      "eventKey": "eu-associeret-medlemskab-udvidelse-2026-09",
+      "materialFacts": [
+        "Metsola nævner Australien og New Zealand som mulige associerede EU-medlemmer efter Canada",
+        "Australien følger med, New Zealand afviser at der er indledt drøftelser"
+      ],
+      "section": "EU",
+      "headline": "Kan Australien og New Zealand følge Canada på vejen mod associeret medlemsskab i EU?",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/eu/kan-australien-og-new-zealand-foelge-canada-paa-vejen-mod-associeret-medlemsskab-i-eu",
+      "subheadline": "Europaparlamentets formand Metsola nævner Australien og New Zealand som mulige kandidater efter Canada-forslaget",
+      "body": [
+        "Efter at von der Leyen har foreslået at gøre Canada til det første ikke-europæiske land med status som associeret EU-medlem, siger Europaparlamentets formand Roberta Metsola, at flere lande kan banke på døren. Hun nævner Australien og New Zealand og peger på tæt handelssamarbejde som fælles grundlag.",
+        "Australiens handelsminister Don Farrell siger landet er på samme side som Canada, og vil følge nøje med i hvad Canadas Mark Carney gør. En talsperson for New Zealands udenrigsminister afviser omvendt, at der er indledt drøftelser med EU."
+      ],
+      "whyItMatters": "Det interessante er ikke Canada isoleret, men at EU afprøver en ny medlemskabskategori, som kunne blive en skabelon for andre tætte handelspartnere uden for kontinentet.",
+      "analysis": "Hverken Canada-aftalen eller en australsk model er konkretiseret, og Farrells forsigtige sprog står i kontrast til Metsolas - det er langt fra forhandling til aftale.",
+      "topics": [
+        "eu-udvidelse",
+        "eu-handelspolitik"
+      ],
+      "entities": [
+        "Roberta Metsola",
+        "Ursula von der Leyen",
+        "Mark Carney",
+        "Don Farrell",
+        "Winston Peters"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 60,
+        "decisionValue": 55,
+        "novelty": 55,
+        "sourceQuality": 78,
+        "personalRelevance": 80,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Europaparlamentets formand Roberta Metsola siger at flere lande end Canada kan blive associerede EU-medlemmer og nævner Australien og New Zealand.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/eu/kan-australien-og-new-zealand-foelge-canada-paa-vejen-mod-associeret-medlemsskab-i-eu"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Australiens handelsminister siger landet følger nøje med i hvad Canada gør; New Zealand afviser at der er indledt drøftelser med EU.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/eu/kan-australien-og-new-zealand-foelge-canada-paa-vejen-mod-associeret-medlemsskab-i-eu"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kan Australien og New Zealand følge Canada på vejen mod associeret medlemsskab i EU?",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/eu/kan-australien-og-new-zealand-foelge-canada-paa-vejen-mod-associeret-medlemsskab-i-eu",
+          "publishedAt": "2026-09-18T07:05:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/xjake440/20260917-143516-l.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "DR's billede til artiklen om EU's associerede medlemskab for Canada, Australien og New Zealand",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/eu/kan-australien-og-new-zealand-foelge-canada-paa-vejen-mod-associeret-medlemsskab-i-eu"
+      }
+    },
+    {
+      "id": "story-rune-davis-cup-comeback-20260919",
+      "eventKey": "rune-davis-cup-comeback-2026-09",
+      "materialFacts": [
+        "Rune vandt 6-3, 6-3 over Radulov i sin første kamp i 11 måneder",
+        "Davis Cup-opgøret mod Bulgarien er udlignet til 1-1"
+      ],
+      "section": "Sport",
+      "headline": "Med ét mindede Rune os om, hvorfor vi har så meget brug for ham",
+      "primarySourceUrl": "https://sport.tv2.dk/tennis/2026-09-18-med-et-mindede-rune-os-om-hvorfor-vi-har-saa-meget-brug-for-ham",
+      "subheadline": "Holger Rune vandt sin første kamp i 11 måneder og udlignede Davis Cup-opgøret mod Bulgarien",
+      "body": [
+        "Holger Rune vandt 6-3, 6-3 over bulgareren Iliyan Radulov i sin første kamp, siden han sprængte venstre akillessene i oktober 2025. Sejren udlignede Danmarks Davis Cup-opgør mod Bulgarien til 1-1 i Hillerød.",
+        "I første sæt kom Rune bagud 2-3 efter tre brændte breakbolde, men vendte og lukkede sættet 6-3. I andet sæt brød han serven straks. Rune møder lørdag Bulgariens førstesingle Grigor Dimitrov i den afgørende kamp."
+      ],
+      "whyItMatters": "For en læser hvis daglige stof sjældent rummer sport, er pointen ikke resultatet, men hvad et år uden konkurrencetennis koster og genopbygger - Rune er tilbage på et niveau, hvor han kan afgøre et Davis Cup-opgør.",
+      "analysis": "335 dage fra skade til bane er langt selv for en atlet i verdenstoppen, og én sejr over en lavere rangeret modstander siger endnu ikke, om formen holder mod Dimitrov.",
+      "topics": [
+        "sport",
+        "tennis"
+      ],
+      "entities": [
+        "Holger Rune",
+        "Iliyan Radulov",
+        "Grigor Dimitrov"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 45,
+        "decisionValue": 10,
+        "novelty": 70,
+        "sourceQuality": 75,
+        "personalRelevance": 55,
+        "contrast": 75
+      },
+      "claims": [
+        {
+          "text": "Holger Rune vandt 6-3, 6-3 over Iliyan Radulov og udlignede Davis Cup-opgøret til 1-1, i sin første kamp siden en akillesskade i oktober 2025.",
+          "sourceUrls": [
+            "https://sport.tv2.dk/tennis/2026-09-18-med-et-mindede-rune-os-om-hvorfor-vi-har-saa-meget-brug-for-ham"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Med ét mindede Rune os om, hvorfor vi har så meget brug for ham",
+          "publisher": "TV 2",
+          "url": "https://sport.tv2.dk/tennis/2026-09-18-med-et-mindede-rune-os-om-hvorfor-vi-har-saa-meget-brug-for-ham",
+          "publishedAt": "2026-09-18T20:27:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/b/8/1/b81ef4fd-d278-4ac4-8039-b9af245b3e01?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MzU3LDI2MSwyNjcyLDE1MDM&s=f8beeb1ca11058e0294f7d3739101a3f",
+        "credit": "Kilde: TV 2",
+        "alt": "Holger Rune under sin Davis Cup-kamp mod Iliyan Radulov i Hillerød",
+        "sourceUrl": "https://sport.tv2.dk/tennis/2026-09-18-med-et-mindede-rune-os-om-hvorfor-vi-har-saa-meget-brug-for-ham"
+      }
+    },
+    {
+      "id": "story-kron-unox-forlaengelse-20260919",
+      "eventKey": "andreas-kron-uno-x-kontraktforlaengelse-2026-09",
+      "materialFacts": [
+        "Andreas Kron forlænger med Uno-X Mobility frem til 2029",
+        "Kron har fire professionelle sejre, heraf tre på WorldTour-niveau"
+      ],
+      "section": "Sport",
+      "headline": "Andreas Kron extends with Uno-X Mobility through 2029",
+      "primarySourceUrl": "https://www.unoxteam.com/news/andreas-kron-extends-with-uno-x-mobility-through-2029",
+      "subheadline": "Danske Andreas Kron forlænger med Uno-X Mobility i tre år og sigter mod en Tour de France-etape",
+      "body": [
+        "Andreas Kron har forlænget med det norske WorldTour-hold Uno-X Mobility frem til 2029. Danskeren, der kom til holdet i 2025, har fire professionelle sejre bag sig, heraf tre på WorldTour-niveau, og er kendt for udbrud og styrke i kuperet terræn.",
+        "Holdchef Thor Hushovd kalder Kron en rytter af reel kvalitet. Kron selv peger på, at tre år føles som det nye to år i cykling-kontrakter, og sætter målet: at komme til Tour de France og med tiden vinde en etape der."
+      ],
+      "whyItMatters": "For en læser der følger cykling tættere end de fleste sportsgrene, er en treårig forlængelse et signal om, at Uno-X satser på Kron som langsigtet kaptajn snarere end en kortvarig udlejning.",
+      "analysis": "Aftalen er indgået direkte mellem rytter og hold uden dansk mediedækning endnu, og det er uklart, om den ledsages af en ændret rolle i klassikere versus etapeløb.",
+      "topics": [
+        "sport",
+        "cykling"
+      ],
+      "entities": [
+        "Andreas Kron",
+        "Uno-X Mobility",
+        "Thor Hushovd"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 35,
+        "decisionValue": 10,
+        "novelty": 60,
+        "sourceQuality": 65,
+        "personalRelevance": 60,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Andreas Kron har forlænget sin kontrakt med Uno-X Mobility frem til 2029.",
+          "sourceUrls": [
+            "https://www.unoxteam.com/news/andreas-kron-extends-with-uno-x-mobility-through-2029"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Andreas Kron extends with Uno-X Mobility through 2029",
+          "publisher": "Uno-X Mobility",
+          "url": "https://www.unoxteam.com/news/andreas-kron-extends-with-uno-x-mobility-through-2029",
+          "publishedAt": "2026-09-18T00:00:00Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "http://static1.squarespace.com/static/61dc2bca9c37a3548736f95e/61dc2bd09c37a3548736fc18/6a96d090af5d6e1a2e56fefd/1789724185371/GettyImages-2292158967.jpg?format=1500w",
+        "credit": "Foto: Getty Images / Uno-X Mobility",
+        "alt": "Andreas Kron extends with Uno-X Mobility through 2029",
+        "sourceUrl": "https://www.unoxteam.com/news/andreas-kron-extends-with-uno-x-mobility-through-2029"
+      }
+    }
+  ],
+  "signals": [
+    {
+      "text": "Warren Buffett træder tilbage",
+      "headline": "Warren Buffett træder tilbage",
+      "url": "https://www.dr.dk/nyheder/udland/warren-buffett-traeder-tilbage",
+      "publisher": "DR",
+      "section": "Erhverv",
+      "publishedAt": "2026-09-18T10:53:00Z",
+      "summary": "Warren Buffett, 96, er trådt tilbage som formand for Berkshire Hathaway; sønnen Howard Buffett, 71, overtager posten, mens Warren fortsætter i bestyrelsen."
+    },
+    {
+      "text": "Temu-aktier er dykket - og det kan EU spille en rolle i, vurderer ekspert",
+      "headline": "Temu-aktier er dykket - og det kan EU spille en rolle i, vurderer ekspert",
+      "url": "https://www.dr.dk/nyheder/penge/temu-aktier-er-dykket-og-det-kan-eu-spille-en-rolle-i-vurderer-ekspert",
+      "publisher": "DR",
+      "section": "Økonomi",
+      "publishedAt": "2026-09-15T13:11:00Z",
+      "summary": "PDD Holdings-aktien er faldet omkring 30 pct. i år, med det skarpeste fald efter EU's fjernelse af toldfritagelsen for varer under 150 euro fra 1. juli."
+    },
+    {
+      "text": "Milliarddyrt toldsystem finder kun halvt så mange fejl som før",
+      "headline": "Milliarddyrt toldsystem finder kun halvt så mange fejl som før",
+      "url": "https://www.dr.dk/nyheder/penge/milliarddyrt-toldsystem-finder-kun-halvt-saa-mange-fejl-som-foer",
+      "publisher": "DR",
+      "section": "Økonomi",
+      "publishedAt": "2026-09-18T14:58:00Z",
+      "summary": "Det nye toldkontrolsystem KRS, 13 år og 1,2 mia. kr. undervejs, finder nu kun 15 pct. af overtrædelserne mod 28-29 pct. i det gamle system."
+    },
+    {
+      "text": "Med sin exit fra Jyske Bank har top-CIO Peter Schleidt en vigtig besked om AI-udviklingen",
+      "headline": "Med sin exit fra Jyske Bank har top-CIO Peter Schleidt en vigtig besked om AI-udviklingen",
+      "url": "https://www.computerworld.dk/art/296821",
+      "publisher": "Computerworld",
+      "section": "Erhverv",
+      "publishedAt": "2026-09-17T07:57:00Z",
+      "summary": "Jyske Banks mangeårige CIO Peter Schleidt, 62, stopper efter ni år og går videre til bestyrelsesposter; Klaus Naur overtager."
+    },
+    {
+      "text": "Finanstilsynet giver Nordea Kredit risikooplysning om høj udlånsvækst",
+      "headline": "Finanstilsynet giver Nordea Kredit risikooplysning om høj udlånsvækst",
+      "url": "https://ugebrev.dk/flashnews/finanstilsynet-giver-nordea-kredit-risikooplysning-om-hoej-udlaansvaekst/",
+      "publisher": "Økonomisk Ugebrev",
+      "section": "Økonomi",
+      "publishedAt": "2026-09-18T13:50:02Z",
+      "summary": "Nordea Kredits erhvervsudlån voksede 15,7 pct. i 2. kvartal, over Finanstilsynets vejledende grænse; tilsynet kræver væksten bragt under 15 pct."
+    },
+    {
+      "text": "Det er det gode liv, siger Serie A-dansker",
+      "headline": "Det er det gode liv, siger Serie A-dansker",
+      "url": "https://sport.tv2.dk/fodbold/2026-09-17-det-er-det-gode-liv-siger-serie-a-dansker",
+      "publisher": "TV 2",
+      "section": "Sport",
+      "publishedAt": "2026-09-18T20:23:57Z",
+      "summary": "Genoas danske anfører Morten Frendrup fortæller i sin sjette sæson i Italien om livet i Serie A og et vedvarende håb om landsholdet."
+    },
+    {
+      "text": "19-årig dansker i vild dart-bedrift",
+      "headline": "19-årig dansker i vild dart-bedrift",
+      "url": "https://nyheder.tv2.dk/2026-09-18-19-aarig-dansker-i-vild-dart-bedrift",
+      "publisher": "TV 2",
+      "section": "Sport",
+      "publishedAt": "2026-09-18T18:21:00Z",
+      "summary": "19-årige Simon Drachmann Jørgensen fra Kolding ramte en perfekt 9-darter ved Samsø Open - den første danske 9-darter i 14 år og kun den syvende nogensinde."
+    },
+    {
+      "text": "Intet tyder på, at brand, der raserede brugs, var påsat",
+      "headline": "Intet tyder på, at brand, der raserede brugs, var påsat",
+      "url": "https://www.dr.dk/nyheder/indland/intet-tyder-paa-brand-der-raserede-brugs-var-paasat",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-09-18T12:52:35Z",
+      "summary": "Brugsen i Tirstrup brændte ned natten mellem onsdag og torsdag; politiet siger intet tyder på ildspåsættelse - branden menes startet i en spand med batterier."
+    },
+    {
+      "text": "Niels Martin har stemt Venstre i 38 år, men nu har han fundet et nyt parti",
+      "headline": "Niels Martin har stemt Venstre i 38 år, men nu har han fundet et nyt parti",
+      "url": "https://www.dr.dk/nyheder/indland/niels-martin-har-stemt-venstre-i-38-aar-men-nu-har-han-fundet-et-nyt-parti",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-09-18T19:01:00Z",
+      "summary": "En mangeårig Venstre-vælger og mælkeproducent skifter til Danmarksdemokraterne af vrede over gødningsregler, i takt med at Venstre er dalet til 7,1 pct. i målinger."
+    },
+    {
+      "text": "Private investorer strømmede til Afrikas største børsnotering",
+      "headline": "Private investorer strømmede til Afrikas største børsnotering",
+      "url": "https://www.dr.dk/nyheder/udland/private-investorer-stroemmede-til-afrikas-stoerste-boersnotering",
+      "publisher": "DR",
+      "section": "Erhverv",
+      "publishedAt": "2026-09-18T19:59:00Z",
+      "summary": "Dangote Refinery børsnoterede 3 pct. af selskabet i en 'folke-IPO'; nigerianske handelsapps gik ned under efterspørgslen, mens selskabet havde 1,8 mia. dollar i overskud i H1 2026."
+    },
+    {
+      "text": "Ambus lille division skuffer, men væksten vender tilbage i 4. kvartal",
+      "headline": "Ambus lille division skuffer, men væksten vender tilbage i 4. kvartal",
+      "url": "https://ugebrev.dk/life-science/ambus-lille-division-skuffer-men-vaeksten-vender-tilbage-i-4-kvartal/",
+      "publisher": "Økonomisk Ugebrev",
+      "section": "Erhverv",
+      "publishedAt": "2026-09-18T09:35:46Z",
+      "summary": "Ambus organiske vækst landede på 10,3 pct. i 3. kvartal; endoskopi voksede 14,8 pct., mens anæstesi/patientovervågning faldt ca. 2 pct. år-til-dato."
+    },
+    {
+      "text": "ING venter renteforhøjelser fra både Fed og ECB i december samt amerikansk 10-årig rente over 5 pct.",
+      "headline": "ING venter renteforhøjelser fra både Fed og ECB i december samt amerikansk 10-årig rente over 5 pct.",
+      "url": "https://ugebrev.dk/flashnews/ing-venter-renteforhoejelser-fra-baade-fed-og-ecb-i-december-samt-amerikansk-10-aarig-rente-over-5-pct/",
+      "publisher": "Økonomisk Ugebrev",
+      "section": "Økonomi",
+      "publishedAt": "2026-09-18T13:50:03Z",
+      "summary": "ING venter en enkelt renteforhøjelse fra både Fed og ECB i december, med amerikansk 10-årig rente ventet over 5 pct. ved årsskiftet."
+    },
+    {
+      "text": "EU-bank pumper penge i SMR-atomreaktor: Men den skal aldrig lave strøm",
+      "headline": "EU-bank pumper penge i SMR-atomreaktor: Men den skal aldrig lave strøm",
+      "url": "https://ing.dk/artikel/eu-bank-pumper-penge-i-smr-atomreaktor-men-den-skal-aldrig-lave-stroem",
+      "publisher": "Ingeniøren",
+      "section": "Energi",
+      "publishedAt": "2026-09-17T12:24:40Z",
+      "summary": "Den Europæiske Investeringsbank finansierer for første gang udviklingen af en SMR-reaktordesign; den konkrete enhed er en test-/demoreaktor uden elproduktion."
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-tracey-emin-louisiana",
+      "mode": "experience",
+      "kind": "Udstilling",
+      "status": "upcoming",
+      "title": "Tracey Emin: A Second Life",
+      "creator": "Tracey Emin",
+      "provider": "Louisiana Museum of Modern Art",
+      "url": "https://louisiana.dk/en/exhibition/tracey-emin/",
+      "availability": "Humlebæk, 8. oktober 2026 - 18. april 2027",
+      "description": "Retrospektiv med næsten fire årtiers værker af Tracey Emin på tværs af maleri, tekstil, film og installation, inklusive tidligere usete værker skabt i samarbejde med kunstneren selv.",
+      "rationale": "Ren serendipitet uden for hans faglige felt, og kun 30 minutter fra København. En passende pause fra handelspolitik og regnskaber, med et af nutidskunstens mest markante navne.",
+      "topics": [
+        "kunst",
+        "udstilling"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Tracey_Emin_1-cropped.jpg",
+        "credit": "Foto: Piers Allardyce, CC BY 2.0, via Wikimedia Commons",
+        "alt": "Kunstneren Tracey Emin, hvis retrospektiv Louisiana åbner 8. oktober 2026",
+        "sourceUrl": "https://louisiana.dk/en/exhibition/tracey-emin/"
+      }
+    },
+    {
+      "id": "rec-hbr-sep-oct-2026",
+      "mode": "read",
+      "kind": "Magasin",
+      "status": "new",
+      "title": "Harvard Business Review, September/October 2026",
+      "provider": "Harvard Business Review",
+      "url": "https://store.hbr.org/product/harvard-business-review-september-october-2026/BR2605",
+      "availability": "Køb som print, PDF, ePub eller audio via HBR Store",
+      "description": "Nummeret rummer blandt andet 'The Four Stages of the CEO-Board Relationship', en forskningsoversigt om AI på organisationsdiagrammer og bestyrelsesposter, og et interview med Verizon-topchef Dan Schulman.",
+      "rationale": "Direkte nyttig for en, der genopbygger en uafhængig praksis omkring bestyrelsesarbejde - artiklen om CEO-bestyrelsesforholdet og forskningen om bestyrelsesposter er konkrete, ikke generisk lederstof.",
+      "topics": [
+        "ledelse",
+        "bestyrelsesarbejde"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-acquired-home-depot",
+      "mode": "listen",
+      "kind": "Podcast",
+      "status": "new",
+      "title": "The Home Depot",
+      "creator": "Ben Gilbert og David Rosenthal",
+      "provider": "Acquired",
+      "url": "https://www.acquired.fm/episodes/home-depot",
+      "availability": "Frit tilgængelig på acquired.fm og alle podcast-platforme",
+      "description": "Podcasten Acquired fortæller historien om Bernie Marcus og Arthur Blank, der efter en fyring grundlagde Home Depot, siden en af de højest performende aktier i amerikansk børshistorie.",
+      "rationale": "Forretningshistorie med fokus på ledelse og organisationskultur snarere end dagsaktuelt stof - et format han typisk værdsætter, og en anden slags læring end dagens nyheder.",
+      "topics": [
+        "forretningshistorie",
+        "ledelse"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-rhodium-overcapacity",
+      "mode": "read",
+      "kind": "Analyse",
+      "status": "classic",
+      "title": "Overcapacity at the Gate",
+      "creator": "Camille Boullenois, Agatha Kratz, Daniel H. Rosen",
+      "provider": "Rhodium Group",
+      "url": "https://rhg.com/research/overcapacity-at-the-gate/",
+      "availability": "Frit tilgængelig på rhg.com",
+      "description": "Rhodium Groups analyse fra 2024 af Kinas strukturelle overkapacitet i klimateknologi, og hvordan statsstøtte til producenter frem for forbrug presser overskudsproduktion ud på globale markeder.",
+      "rationale": "Kina og de-risking er et af hans kerneområder fra DI-tiden, og rapportens ramme er den, 2026-dækningen af fornyet kinesisk eksportoverkapacitet igen refererer til - stadig den bedste indgang til argumentet, to år efter udgivelsen.",
+      "topics": [
+        "kina",
+        "handelspolitik"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://rhg.com/wp-content/uploads/2024/03/overcapacity1.png",
+        "credit": "Kilde: Rhodium Group",
+        "alt": "Grafik fra Rhodium Groups rapport om kinesisk industriel overkapacitet",
+        "sourceUrl": "https://rhg.com/research/overcapacity-at-the-gate/"
+      }
+    }
+  ],
+  "quality": {
+    "sourceDiversity": 75,
+    "verificationConfidence": 88,
+    "personalRelevanceFit": 78,
+    "outsideProfileStrength": 65
+  }
+}
