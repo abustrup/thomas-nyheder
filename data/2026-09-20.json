@@ -1,0 +1,832 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-09-20",
+  "date": "2026-09-20",
+  "generatedAt": "2026-09-20T04:38:00Z",
+  "readingMinutes": 12,
+  "title": "Thomas' Nyheder",
+  "dek": "EU beskytter transformerstål, Novo henter Anthropic ind i forskningen, en dansk fødevaredelegation tager til Washington, og Rune vinder sit comeback i Davis Cup.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-eu-goes-safeguard-20260920",
+      "eventKey": "eu-goes-safeguard-measures-2026-09",
+      "materialFacts": [
+        "Provisional safeguard measures (TRQ + price thresholds) on grain-oriented electrical steel, effective 18 Sept 2026",
+        "For the first time extended to cores already incorporated in finished transformers",
+        "Definitive measures require 15 member states / 65% population approval via the Safeguard Committee"
+      ],
+      "section": "EU og handelspolitik",
+      "headline": "Commission imposes provisional safeguard measures on imports of grain-oriented electrical steel",
+      "primarySourceUrl": "https://policy.trade.ec.europa.eu/news/commission-imposes-provisional-safeguard-measures-imports-grain-oriented-electrical-steel-2026-09-18_en",
+      "subheadline": "EU udvider for første gang stålbeskyttelsen til hele transformer-værdikæden - drevet af kinesisk overkapacitet",
+      "body": [
+        "EU-Kommissionen indførte 18. september midlertidige beskyttelsesforanstaltninger mod importeret transformerstål i form af toldkvoter kombineret med prisgrænser. Stålet bruges i transformere til eltransmission og kaldes \"kritisk vigtigt for sikkerheden af EU's energiinfrastruktur\".",
+        "Nyt er, at beskyttelsen for første gang også dækker kerner, der allerede er bygget ind i færdige transformere. Undersøgelsen åbnede i marts 2026, begrundet med \"global overkapacitet og lukning af traditionelle eksportmarkeder\" - Kommissionen nævner ikke Kina ved navn i afgørelsen."
+      ],
+      "whyItMatters": "Skiftet til at dække færdigvarer er en indrømmelse af, at stål ellers bare vandrer videre i kæden. EU har nu 232 handelsbeskyttelsesforanstaltninger i kraft, der ifølge Kommissionens egen årsrapport skønnes at beskytte omkring 637.000 job i europæisk fremstilling.",
+      "analysis": "Endelige foranstaltninger kræver, at mindst 15 lande med 65 procent af befolkningen stemmer for. Kampen står mellem lande med egen stålindustri og lande afhængige af billig importstål til egen produktion.",
+      "counterpoint": "Regningen lander hos europæiske transformerproducenter, der skal betale mere for et input, EU samtidig vil bruge langt mere af i sin egen elnetudbygning.",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Power_transformer_in_Northwick_Park_-_geograph.org.uk_-_4237201.jpg/1920px-Power_transformer_in_Northwick_Park_-_geograph.org.uk_-_4237201.jpg",
+        "credit": "Foto: David Howard / Wikimedia Commons (CC BY-SA 2.0)",
+        "alt": "Elektrisk transformer i et koblingsanlæg - den type udstyr, EU's nye beskyttelsesforanstaltninger mod stålimport skal beskytte producenterne af.",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Power_transformer_in_Northwick_Park_-_geograph.org.uk_-_4237201.jpg"
+      },
+      "topics": [
+        "eu-handelspolitik",
+        "industripolitik",
+        "kina"
+      ],
+      "entities": [
+        "Europa-Kommissionen",
+        "Kina",
+        "EU"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 78,
+        "decisionValue": 70,
+        "novelty": 72,
+        "sourceQuality": 95,
+        "personalRelevance": 82,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Kommissionen indførte 18. september 2026 midlertidige beskyttelsesforanstaltninger (toldkvoter plus prisgrænser) på import af transformerstål.",
+          "sourceUrls": [
+            "https://policy.trade.ec.europa.eu/news/commission-imposes-provisional-safeguard-measures-imports-grain-oriented-electrical-steel-2026-09-18_en"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Beskyttelsen udvides for første gang til kerner, der allerede er indbygget i færdige transformere.",
+          "sourceUrls": [
+            "https://policy.trade.ec.europa.eu/news/commission-imposes-provisional-safeguard-measures-imports-grain-oriented-electrical-steel-2026-09-18_en"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "232 EU-handelsbeskyttelsesforanstaltninger er i kraft, anslået til at beskytte omkring 637.000 job i europæisk fremstilling.",
+          "sourceUrls": [
+            "https://policy.trade.ec.europa.eu/news/demand-trade-defence-action-eu-commitment-tackle-unfair-trade-remain-strong-2025-2026-09-18_en"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Commission imposes provisional safeguard measures on imports of grain-oriented electrical steel",
+          "publisher": "European Commission",
+          "url": "https://policy.trade.ec.europa.eu/news/commission-imposes-provisional-safeguard-measures-imports-grain-oriented-electrical-steel-2026-09-18_en",
+          "publishedAt": "2026-09-18T12:00:00Z",
+          "kind": "primary"
+        },
+        {
+          "title": "Demand for trade defence action, EU commitment to tackle unfair trade remain strong in 2025",
+          "publisher": "European Commission",
+          "url": "https://policy.trade.ec.europa.eu/news/demand-trade-defence-action-eu-commitment-tackle-unfair-trade-remain-strong-2025-2026-09-18_en",
+          "publishedAt": "2026-09-18T12:00:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-novo-anthropic-claude-20260920",
+      "eventKey": "novo-nordisk-anthropic-claude-science-2026-09",
+      "materialFacts": [
+        "Novo Nordisk and Anthropic partnership announced 16 Sept 2026 to use Claude Science in R&D",
+        "Financial terms undisclosed"
+      ],
+      "section": "AI og dansk erhvervsliv",
+      "headline": "Novo and Anthropic will collaborate to advance drug discovery with Claude",
+      "primarySourceUrl": "https://www.novonordisk.com/content/nncorp/global/en/news-and-media/news-and-ir-materials/news-details.html?id=916768",
+      "subheadline": "Novo Nordisk henter Anthropics Claude Science-modeller ind i lægemiddeludviklingen",
+      "body": [
+        "Novo Nordisk og Anthropic samarbejder om at bruge Claude Science-modeller i Novos forskning og softwareudvikling. Målet er at bruge AI's evne til biologisk ræsonnement til at accelerere lægemiddeludvikling. Vilkår er ikke offentliggjort.",
+        "Novo-topchef Mike Doustdar kalder det \"endnu et bevis på vores ambition om at blive verdens mest AI-drevne sundhedsvirksomhed\". Anthropics Dario Amodei siger, AI potentielt kan komprimere et århundredes biologiske gennembrud til et årti."
+      ],
+      "whyItMatters": "For en dansk økonomi, hvor Novo Nordisk alene kan flytte BNP-tal, er det ikke ligegyldigt, hvor selskabet satser sin AI. Samarbejdet signalerer, at Novo ser AI som vej til at afkorte den dyreste del af udviklingen.",
+      "analysis": "Aftalen kommer i et hårdere GLP-1-marked. Den nævner \"robust data governance og menneskeligt tilsyn\" - et tegn på, at Novo kender de høje konsekvenser af fejl i lægemiddeludvikling.",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Maziar_Mike_Doustdar.jpg/1920px-Maziar_Mike_Doustdar.jpg",
+        "credit": "Foto: Canyak1982 / Wikimedia Commons (CC0)",
+        "alt": "Novo Nordisks topchef Mike Doustdar, der kalder AI-samarbejdet endnu et skridt mod at gøre Novo Nordisk til verdens mest AI-drevne sundhedsvirksomhed.",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maziar_Mike_Doustdar.jpg"
+      },
+      "topics": [
+        "ai",
+        "pharma",
+        "dansk-erhvervsliv"
+      ],
+      "entities": [
+        "Novo Nordisk",
+        "Anthropic",
+        "Mike Doustdar",
+        "Dario Amodei"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 75,
+        "decisionValue": 60,
+        "novelty": 78,
+        "sourceQuality": 90,
+        "personalRelevance": 85,
+        "contrast": 50
+      },
+      "claims": [
+        {
+          "text": "Novo Nordisk og Anthropic annoncerede 16. september 2026 et samarbejde om at bruge Claude Science-modeller i R&D og softwareudvikling.",
+          "sourceUrls": [
+            "https://www.novonordisk.com/content/nncorp/global/en/news-and-media/news-and-ir-materials/news-details.html?id=916768"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Mike Doustdar: 'This partnership is another testament to our ambition to become the world's most AI-driven healthcare company.'",
+          "sourceUrls": [
+            "https://www.novonordisk.com/content/nncorp/global/en/news-and-media/news-and-ir-materials/news-details.html?id=916768"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Novo and Anthropic will collaborate to advance drug discovery with Claude",
+          "publisher": "Novo Nordisk",
+          "url": "https://www.novonordisk.com/content/nncorp/global/en/news-and-media/news-and-ir-materials/news-details.html?id=916768",
+          "publishedAt": "2026-09-16T12:00:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-lf-usa-eksport-20260920",
+      "eventKey": "landbrug-fodevarer-usa-eksportdelegation-2026-09",
+      "materialFacts": [
+        "Danish food cluster exported 8.4bn kr to the US in 2025",
+        "Delegation travels to Washington D.C. 17 Sept 2026 for 225th anniversary of Danish-US relations"
+      ],
+      "section": "Dansk eksport",
+      "headline": "Dansk fødevareproduktion på eksportfremstød i USA",
+      "primarySourceUrl": "https://via.ritzau.dk/pressemeddelelse/15166790/dansk-fodevareproduktion-pa-eksportfremstod-i-usa?lang=da",
+      "subheadline": "Dansk fødevareklynge eksporterede for 8,4 mia. kr. til USA i 2025 - nu tager en delegation til Washington for at bygge videre",
+      "body": [
+        "En række danske fødevarevirksomheder rejser til Washington D.C. for at styrke handlen med fødevarer og teknologi, mens Danmark og USA markerer 225 år med diplomatiske forbindelser. USA er klyngens ottendestørste eksportmarked: 8,4 mia. kr. i 2025, trods told og uro.",
+        "På Capitol Hill mødes virksomhederne med kongresmedlemmer om landbrug, grøn omstilling og teknologi. Delegationen møder desuden American Farm Bureau Federation og drøfter madspild."
+      ],
+      "whyItMatters": "L&F-direktør Morten Boje Hviid kobler eksporten til vilkårene herhjemme: gode produktionsrammer i Danmark er ifølge ham en forudsætning for at fastholde positionen på det amerikanske marked. Det falder sammen med en ny gødskningslov og et sprøjteforbud i høring.",
+      "analysis": "Besøget viser en disciplin: dansk eksport til USA klarer sig, fordi virksomhederne selv forsvarer markedsadgang - en påmindelse om, at eksporten er bredere end Novo Nordisk alene.",
+      "topics": [
+        "dansk-eksport",
+        "eu-us-handel",
+        "landbrug"
+      ],
+      "entities": [
+        "Landbrug & Fødevarer",
+        "Morten Boje Hviid",
+        "USA"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 62,
+        "decisionValue": 68,
+        "novelty": 55,
+        "sourceQuality": 82,
+        "personalRelevance": 90,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "Den danske fødevareklynge eksporterede for 8,4 mia. kr. til USA i 2025, klyngens 8. største eksportmarked.",
+          "sourceUrls": [
+            "https://via.ritzau.dk/pressemeddelelse/15166790/dansk-fodevareproduktion-pa-eksportfremstod-i-usa?lang=da"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Morten Boje Hviid: 'Et stærkt produktions- og råvaregrundlag er en forudsætning for, at danske virksomheder kan fastholde og udvikle deres positioner på det amerikanske marked.'",
+          "sourceUrls": [
+            "https://via.ritzau.dk/pressemeddelelse/15166790/dansk-fodevareproduktion-pa-eksportfremstod-i-usa?lang=da"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Dansk fødevareproduktion på eksportfremstød i USA",
+          "publisher": "Landbrug & Fødevarer (via Ritzau)",
+          "url": "https://via.ritzau.dk/pressemeddelelse/15166790/dansk-fodevareproduktion-pa-eksportfremstod-i-usa?lang=da",
+          "publishedAt": "2026-09-17T05:50:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-trump-ai-force-20260920",
+      "eventKey": "trump-ai-force-czar-2026-09",
+      "materialFacts": [
+        "Trump announces 'AI Force' and AI czar plan, 19 Sept 2026",
+        "Geoffrey Hinton warned Congress has 'maybe a year' to regulate AI"
+      ],
+      "section": "AI-politik",
+      "headline": "Trump says he's creating an AI force and appointing a czar amid concerns over the rapidly developing tech",
+      "primarySourceUrl": "https://www.nbcnews.com/politics/white-house/artificial-intelligence-task-force-czar-technology-trump-rcna598688",
+      "subheadline": "Trump vil oprette en 'AI Force' og udpege en AI-zar, efter at AI-pioneren Geoffrey Hinton advarede Kongressen om, at tiden er ved at løbe ud",
+      "body": [
+        "Donald Trump annoncerede lørdag på Truth Social, at han vil oprette en \"AI Force\" og udpege en AI-zar. Trump afviste advarsler om at bremse udviklingen som et \"hoax\" og sagde, USA's prioritet må være at vinde AI-kapløbet mod Kina.",
+        "Udmeldingen kommer, efter at Nobelprismodtager Geoffrey Hinton ifølge NBC News advarede lovgivere om, at Kongressen har \"måske et år\" til at regulere AI. Trumps tidligere AI-zar David Sacks trådte tilbage tidligere i år."
+      ],
+      "whyItMatters": "Flere demokratiske guvernører - Newsom, Shapiro, Spanberger - har samme uge bevæget sig mod delstatlig AI-regulering, mens Kongressen intet har vedtaget. Det tomrum navigerer europæiske virksomheder efter andre regler end amerikanske.",
+      "analysis": "Trump nævner ingen konkrete beføjelser eller finansiering, og Det Hvide Hus har ikke leveret flere detaljer. Meldingen ligner mere en politisk markering end en plan - men sætter en ramme for den kommende AI-zar.",
+      "image": {
+        "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260918-president-trump-vsb-2304-97bace.jpg",
+        "credit": "Kilde: NBC News",
+        "alt": "Donald Trump, der på Truth Social annoncerede planer om en 'AI Force' og en kommende AI-zar.",
+        "sourceUrl": "https://www.nbcnews.com/politics/white-house/artificial-intelligence-task-force-czar-technology-trump-rcna598688"
+      },
+      "topics": [
+        "ai",
+        "ai-politik",
+        "usa"
+      ],
+      "entities": [
+        "Donald Trump",
+        "Geoffrey Hinton",
+        "USA"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 72,
+        "decisionValue": 45,
+        "novelty": 68,
+        "sourceQuality": 78,
+        "personalRelevance": 45,
+        "contrast": 60
+      },
+      "claims": [
+        {
+          "text": "Trump annoncerede 19. september 2026 planer om en 'AI Force' efter Space Force-model og en kommende AI-zar.",
+          "sourceUrls": [
+            "https://www.nbcnews.com/politics/white-house/artificial-intelligence-task-force-czar-technology-trump-rcna598688"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Geoffrey Hinton advarede lovgivere ved et lukket møde om, at Kongressen har 'måske et år' til at regulere AI.",
+          "sourceUrls": [
+            "https://www.nbcnews.com/politics/white-house/artificial-intelligence-task-force-czar-technology-trump-rcna598688"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Trump says he's creating an AI force and appointing a czar amid concerns over the rapidly developing tech",
+          "publisher": "NBC News",
+          "url": "https://www.nbcnews.com/politics/white-house/artificial-intelligence-task-force-czar-technology-trump-rcna598688",
+          "publishedAt": "2026-09-19T19:20:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-anthropic-self-improvement-20260920",
+      "eventKey": "anthropic-recursive-self-improvement-2026-09",
+      "materialFacts": [
+        "Anthropic discloses ~30,000 continuously running agents, ~26% of code Claude-authored",
+        "Amodei warns AI could build next-gen AI within six months"
+      ],
+      "section": "AI",
+      "headline": "Har 30.000 AI-agenter kørende døgnet rundt: Så stor en del af Anthropics AI-kode bliver allerede i dag skrevet af AI",
+      "primarySourceUrl": "https://www.computerworld.dk/art/296873",
+      "subheadline": "Fra 1 til 26 procent AI-skrevet kode på et halvt år - og Anthropics egen topchef advarer om tempoet",
+      "body": [
+        "Anthropic har omkring 30.000 AI-agenter kørende døgnet rundt. Andelen af kode i kodebasen skrevet af Claude er steget fra ca. 1 procent i marts 2026 til ca. 26 procent nu. En milliard agent-handlinger blev analyseret i august, hvoraf omkring 47.000 blev afvist efter screening.",
+        "Claude bruges aldrig helt autonomt uden menneskelig indgriben. Alligevel advarer topchef Dario Amodei om, at AI inden for et halvt år kan blive i stand til selv at bygge næste generations AI."
+      ],
+      "whyItMatters": "Det er en tydelig måling af, hvor hurtigt AI-selskaber bruger egne værktøjer - selskabets egne driftstal, ikke et analytikerskøn.",
+      "analysis": "Amodei har allerede slået alarm om, at udviklingen er nødt til at gå langsommere, hvis ikke al AI om kort tid skal skrives af andre AI-systemer uden menneskelig indblanding - en usædvanlig advarsel fra et selskab, der selv accelererer sin interne AI-brug.",
+      "image": {
+        "url": "https://www.computerworld.dk/fil/190113?width=1200&height=630&focus=1",
+        "credit": "Kilde: Computerworld",
+        "alt": "Har 30.000 AI-agenter kørende døgnet rundt: Så stor en del af Anthropics AI-kode bliver allerede i dag skrevet af AI",
+        "sourceUrl": "https://www.computerworld.dk/art/296873"
+      },
+      "topics": [
+        "ai",
+        "ai-sikkerhed"
+      ],
+      "entities": [
+        "Anthropic",
+        "Dario Amodei"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 70,
+        "decisionValue": 50,
+        "novelty": 75,
+        "sourceQuality": 75,
+        "personalRelevance": 60,
+        "contrast": 65
+      },
+      "claims": [
+        {
+          "text": "Anthropic har omkring 30.000 AI-agenter kørende døgnet rundt; andelen af Claude-skrevet kode i egen kodebase er steget fra ca. 1% i marts til ca. 26% nu.",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/296873"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "En milliard agent-handlinger blev analyseret i august; ca. 1 ud af 47.000 blev afvist.",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/296873"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Dario Amodei advarer om, at AI inden for seks måneder kan blive i stand til at bygge næste generations AI.",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/296873"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Har 30.000 AI-agenter kørende døgnet rundt: Så stor en del af Anthropics AI-kode bliver allerede i dag skrevet af AI",
+          "publisher": "Computerworld",
+          "url": "https://www.computerworld.dk/art/296873",
+          "publishedAt": "2026-09-18T08:16:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-rune-davis-cup-20260920",
+      "eventKey": "danmark-bulgarien-davis-cup-2026-09",
+      "materialFacts": [
+        "Denmark beat Bulgaria 3-2 in Davis Cup World Group I, 18-19 Sept 2026",
+        "Rune won both his singles matches in his comeback"
+      ],
+      "section": "Sport",
+      "headline": "Danmark slår Bulgarien i Davis Cup-gyser",
+      "primarySourceUrl": "https://tennis.dk/dc-danmark-bulgarien-dag-2/",
+      "subheadline": "Holger Rune vandt begge sine single-kampe i sit længe ventede comeback, og Elmer Møller sikrede den afgørende sejr",
+      "body": [
+        "Danmark besejrede Bulgarien 3-2 i Davis Cup World Group I ved Royal Stage i Hillerød i weekenden. Holger Rune, tilbage efter en lang skadespause, vandt begge sine single-kampe: 6-3, 6-3 over Iliyan Radulov fredag og 3-6, 6-3, 7-6(4) over Grigor Dimitrov lørdag.",
+        "August Holmgren og Johannes Ingildsen tabte doublen 6-4, 2-6, 6-7(6). Den afgørende femte kamp gik til Elmer Møller, der besejrede Radulov 6-2, 6-4 og sendte Danmark videre."
+      ],
+      "whyItMatters": "Med sejren er Danmark for tredje år i træk klar til Davis Cup Qualifiers, når landsholdssæsonen genstarter i februar. Modstanderen findes ved lodtrækning i november.",
+      "analysis": "Rune har kæmpet med skader det meste af sæsonen, så to sikre sejre i et afgørende opgør er et tegn på, at niveauet er tilbage, inden en sæson hvor han skal genopbygge sin ranking fra en 144.-plads.",
+      "image": {
+        "url": "https://tennis.dk/wp-content/uploads/2026/09/R5M28803-1600px.jpg",
+        "credit": "Foto: Allan Høgholm / Dansk Tennis Forbund",
+        "alt": "Elmer Møller jubler, efter han sikrede Danmarks 3-2-sejr over Bulgarien i Davis Cup.",
+        "sourceUrl": "https://tennis.dk/dc-danmark-bulgarien-dag-2/"
+      },
+      "topics": [
+        "sport",
+        "tennis",
+        "danske-sportsfolk"
+      ],
+      "entities": [
+        "Holger Rune",
+        "Elmer Møller",
+        "Danmark",
+        "Bulgarien"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 40,
+        "decisionValue": 15,
+        "novelty": 65,
+        "sourceQuality": 85,
+        "personalRelevance": 55,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Danmark besejrede Bulgarien 3-2 i Davis Cup World Group I ved Royal Stage, Hillerød, 18.-19. september 2026.",
+          "sourceUrls": [
+            "https://tennis.dk/dc-danmark-bulgarien-dag-2/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Holger Rune vandt begge sine singlekampe: 6-3, 6-3 over Radulov og 3-6, 6-3, 7-6(4) over Dimitrov; Elmer Møller vandt den afgørende femte kamp 6-2, 6-4 over Radulov.",
+          "sourceUrls": [
+            "https://tennis.dk/dc-danmark-bulgarien-dag-2/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Danmark slår Bulgarien i Davis Cup-gyser",
+          "publisher": "Dansk Tennis Forbund",
+          "url": "https://tennis.dk/dc-danmark-bulgarien-dag-2/",
+          "publishedAt": "2026-09-19T18:39:27Z",
+          "kind": "primary"
+        },
+        {
+          "title": "Holger begejstrer Danmark med comeback-sejr",
+          "publisher": "Dansk Tennis Forbund",
+          "url": "https://tennis.dk/dc-danmark-bulgarien-dag-1/",
+          "publishedAt": "2026-09-18T19:08:23Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-hunde-dna-regning-20260920",
+      "eventKey": "aarhus-hunde-dna-test-politiregning-2026-09",
+      "materialFacts": [
+        "Aarhus owner billed 200,000 kr after dogs DNA-cleared of illegal-breed suspicion",
+        "Law professor calls it a legal-security problem"
+      ],
+      "section": "Danmark",
+      "headline": "Hunde viste sig at være lovlige efter DNA-test - alligevel har politiet sendt en regning på 200.000 kroner",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/hunde-viste-sig-vaere-lovlige-efter-dna-test-alligevel-har-politiet-sendt-en-regning-paa-200-000",
+      "subheadline": "En Aarhus-ejer fik sine hvalpe beslaglagt i ti måneder på mistanke om en ulovlig race - og står nu med en regning, selvom DNA-testen frikendte dem",
+      "body": [
+        "Ayda Jameian fra Aarhus fik i 2023 beslaglagt tre hvalpe af typen American Bully på mistanke om en ulovlig race. Efter ti måneder og DNA-test i februar 2024 blev hundene erklæret lovlige. Alligevel står Jameian med en regning på 200.000 kroner for kenneldrift og dyrlæge.",
+        "En anden hundeejer skylder 34.493 kroner efter samme praksis. En amerikansk test bekræftede lovligheden, efter Københavns Universitets egen test var udgået som uegnet."
+      ],
+      "whyItMatters": "Jura-professor Frederik Waage kalder det et retssikkerhedsproblem: en ejer kan få ret og ende med en stor regning alligevel. Politiet fastholder, at ejere selv skal dokumentere hundens lovlighed.",
+      "analysis": "Sagen er ikke enestående - endnu en hundeejer er ramt af samme praksis. Myndigheden kan handle korrekt efter reglerne, og borgeren kan stadig ende ramt af en afgørelse, der senere viser sig forkert.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/ookn0scn/messenger_creation_201e6848-e687-4dc5-85bd-d16f0f2f1e94_crop001.jpeg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR / privatfoto",
+        "alt": "To af de American Bully-hvalpe, der blev beslaglagt i 2023 og senere DNA-testet lovlige.",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/hunde-viste-sig-vaere-lovlige-efter-dna-test-alligevel-har-politiet-sendt-en-regning-paa-200-000"
+      },
+      "topics": [
+        "retsvaesen",
+        "danmark"
+      ],
+      "entities": [
+        "Ayda Jameian",
+        "Sydøstjyllands Politi",
+        "Frederik Waage"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 42,
+        "decisionValue": 30,
+        "novelty": 60,
+        "sourceQuality": 80,
+        "personalRelevance": 20,
+        "contrast": 75
+      },
+      "claims": [
+        {
+          "text": "Ayda Jameian fik i 2023 beslaglagt tre hvalpe på mistanke om ulovlig race; DNA-testet lovlige i februar 2024, men modtog en regning på 200.000 kr.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/hunde-viste-sig-vaere-lovlige-efter-dna-test-alligevel-har-politiet-sendt-en-regning-paa-200-000"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Jura-professor Frederik Waage kalder praksissen et retssikkerhedsproblem.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/hunde-viste-sig-vaere-lovlige-efter-dna-test-alligevel-har-politiet-sendt-en-regning-paa-200-000"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Hunde viste sig at være lovlige efter DNA-test - alligevel har politiet sendt en regning på 200.000 kroner",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/hunde-viste-sig-vaere-lovlige-efter-dna-test-alligevel-har-politiet-sendt-en-regning-paa-200-000",
+          "publishedAt": "2026-09-19T16:48:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-kosovo-faengsel-forsinket-20260920",
+      "eventKey": "danske-faengselspladser-kosovo-forsinket-2026-09",
+      "materialFacts": [
+        "Justice Minister informs parties of another delay; earliest opening late 2027",
+        "Original 2021 plan targeted early 2023"
+      ],
+      "section": "Danmark",
+      "headline": "Danske fængselspladser i Kosovo er endnu en gang forsinket",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/seneste/danske-faengselspladser-i-kosovo-er-endnu-en-gang-forsinket",
+      "subheadline": "Justitsminister Nicolai Wammen har orienteret forligspartierne om, at byggeriet er forsinket igen - pladserne kan tidligst bruges i slutningen af 2027",
+      "body": [
+        "Åbningen af de danske fængselspladser i Kosovo er endnu en gang forsinket. Justitsminister Nicolai Wammen har orienteret forligspartierne om, at pladserne tidligst kan bruges i slutningen af 2027, muligvis først i 2028.",
+        "Aftalen om at leje 300 fængselspladser i Kosovo blev indgået i 2021. Meldingen dengang var, at de første udviste dømte kunne afsone fra begyndelsen af 2023 - nu er planen altså cirka fem år forsinket."
+      ],
+      "whyItMatters": "Projektet er brugt politisk som bevis på nytænkning i udlændinge- og strafpolitikken, men gentagne forsinkelser svækker den fortælling hver gang en frist glider. For kommuner, der har planlagt ud fra en dato, der flytter sig igen, er det ikke bare symbolsk.",
+      "analysis": "Sagen føjer sig til et mønster af store, politisk profilerede projekter, hvor tidsplanen viser sig mere at være et signal end et estimat. Wammen giver ingen ny fast dato ud over \"tidligst slutningen af 2027\".",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Nicolai_Wammen%2C_2025.11.15_%2801%29.jpg/1920px-Nicolai_Wammen%2C_2025.11.15_%2801%29.jpg",
+        "credit": "Foto: EU / Wikimedia Commons (arkivfoto)",
+        "alt": "Justitsminister Nicolai Wammen (arkivfoto), der har orienteret forligspartierne om endnu en forsinkelse af de danske fængselspladser i Kosovo.",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nicolai_Wammen,_2025.11.15_(01).jpg"
+      },
+      "topics": [
+        "retsvaesen",
+        "dansk-politik"
+      ],
+      "entities": [
+        "Nicolai Wammen",
+        "Kosovo",
+        "Folketinget"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 45,
+        "decisionValue": 35,
+        "novelty": 40,
+        "sourceQuality": 78,
+        "personalRelevance": 25,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Justitsminister Nicolai Wammen har orienteret forligspartierne om, at byggeriet af fængselspladser i Kosovo er forsinket igen; pladserne kan tidligst bruges i slutningen af 2027.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/seneste/danske-faengselspladser-i-kosovo-er-endnu-en-gang-forsinket"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Den oprindelige 2021-aftale sigtede mod ibrugtagning i begyndelsen af 2023.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/seneste/danske-faengselspladser-i-kosovo-er-endnu-en-gang-forsinket"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Danske fængselspladser i Kosovo er endnu en gang forsinket",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/seneste/danske-faengselspladser-i-kosovo-er-endnu-en-gang-forsinket",
+          "publishedAt": "2026-09-18T12:50:27Z",
+          "kind": "primary"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "USA indfører omfattende sanktioner mod Rusland",
+      "headline": "USA indfører omfattende sanktioner mod Rusland",
+      "url": "https://www.dr.dk/nyheder/seneste/usa-indfoerer-omfattende-sanktioner-mod-rusland-2",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-09-19T01:28:23Z",
+      "summary": "Trump har underskrevet en omfattende sanktionspakke mod Ruslands forsvars- og energisektor, navngivne embedsmænd og den såkaldte skyggeflåde af tankskibe; samtidig udvides sanktionerne mod Iran."
+    },
+    {
+      "text": "Flere banker har tekniske problemer",
+      "headline": "Flere banker har tekniske problemer",
+      "url": "https://www.dr.dk/nyheder/seneste/flere-banker-har-tekniske-problemer",
+      "publisher": "DR",
+      "section": "Penge",
+      "publishedAt": "2026-09-18T13:12:54Z",
+      "summary": "Otte danske regional- og lokalbanker, heriblandt Jyske Bank og Ringkøbing Landbobank, er ramt af netbank-, mobilbank- og betalingskortproblemer sporet til it-leverandøren Bankdata."
+    },
+    {
+      "text": "I dag åbner EU's første storskala CO2-lagring i Esbjerg",
+      "headline": "I dag åbner EU's første storskala CO2-lagring i Esbjerg",
+      "url": "https://ing.dk/artikel/i-dag-aabner-eus-foerste-storskala-co2-lagring-i-esbjerg",
+      "publisher": "Ingeniøren",
+      "section": "Energi",
+      "publishedAt": "2026-09-18T05:47:50Z",
+      "summary": "Europas første storskala CO2-lagringsprojekt blev indviet i Esbjerg fredag 18. september og har sendt sin første lagring af sted."
+    },
+    {
+      "text": "Rasmus Højgaard trækker sig efter skrækrunde",
+      "headline": "Rasmus Højgaard trækker sig efter skrækrunde",
+      "url": "https://www.dr.dk/sporten/seneste-sport/rasmus-hoejgaard-traekker-sig-efter-skraekrunde",
+      "publisher": "DR Sporten",
+      "section": "Golf",
+      "publishedAt": "2026-09-18T05:29:00Z",
+      "summary": "Den danske golfspiller trak sig fra PGA Tour-turneringen Biltmore Championship efter en åbningsrunde i 7 over par."
+    },
+    {
+      "text": "Skud affyret mod hoveddør i Aarhus-området",
+      "headline": "Skud affyret mod hoveddør i Aarhus-området",
+      "url": "https://www.dr.dk/nyheder/seneste/skud-affyret-mod-hoveddoer-i-aarhus-omraadet",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-09-19T10:13:28Z",
+      "summary": "Der blev affyret skud mod en hoveddør i Hasselager syd for Aarhus natten til lørdag. Østjyllands Politi bekræfter, at ingen kom til skade, og efterforsker sagen."
+    },
+    {
+      "text": "Advarsel om kraftig blæst på flere broer",
+      "headline": "Advarsel om kraftig blæst på flere broer",
+      "url": "https://www.dr.dk/nyheder/seneste/advarsel-om-kraftig-blaest-paa-flere-broer-2",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-09-19T10:13:06Z",
+      "summary": "Vejdirektoratet advarer om kraftig blæst, der begrænser lette køretøjer på Storebæltsbroen, Sallingsundbroen, Svendborgsundbroen og Langelandsbroen."
+    },
+    {
+      "text": "27-årig sigtet for groft databedrageri med falske sms'er",
+      "headline": "27-årig sigtet for groft databedrageri med falske sms'er",
+      "url": "https://www.dr.dk/nyheder/seneste/27-aarig-sigtet-groft-databedrageri-med-falske-sms-er",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-09-18T18:41:09Z",
+      "summary": "En 27-årig mand er varetægtsfængslet i 27 dage for at have sendt phishing-sms'er, der udgav sig for Norlys og Andel, for at stjæle betalingskortoplysninger."
+    },
+    {
+      "text": "Død hval skyllet op på strand ved Klitmøller",
+      "headline": "Død hval skyllet op på strand ved Klitmøller",
+      "url": "https://www.dr.dk/nyheder/indland/doed-hval-skyllet-op-paa-strand-ved-klitmoeller",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-09-19T12:02:04Z",
+      "summary": "En omkring ni meter lang død hval er skyllet op på stranden ved Klitmøller og dokumenteres nu for Naturhistorisk Museum."
+    },
+    {
+      "text": "Kendt 'kvindesygdom' har ramt 62-årig mand, og han er ikke den eneste",
+      "headline": "Kendt 'kvindesygdom' har ramt 62-årig mand, og han er ikke den eneste",
+      "url": "https://nyheder.tv2.dk/samfund/2026-09-18-kendt-kvindesygdom-har-ramt-62-aarig-mand-og-han-er-ikke-den-eneste",
+      "publisher": "TV 2",
+      "section": "Samfund",
+      "publishedAt": "2026-09-19T20:01:54Z",
+      "summary": "Kun hver tredje dansker forbinder HPV med hoved-halskræft, viser ny undersøgelse. Farmaceut Michael Kristensen, 62, fik HPV-udløst halskræft og er nu erklæret kræftfri."
+    },
+    {
+      "text": "Slut med Pisa-test hvert tredje år",
+      "headline": "Slut med Pisa-test hvert tredje år",
+      "url": "https://www.dr.dk/nyheder/seneste/slut-med-pisa-test-hvert-tredje-aar",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-09-18T07:20:35Z",
+      "summary": "PISA-testens internationale styregruppe udvider testcyklussen fra tre til fire år af hensyn til omkostninger - Danmark brugte ca. 24 mio. kr. på den seneste runde."
+    },
+    {
+      "text": "Researchers used Anthropic's Claude to hack into OpenAI",
+      "headline": "Researchers used Anthropic's Claude to hack into OpenAI",
+      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "publisher": "TechCrunch",
+      "section": "AI",
+      "publishedAt": "2026-09-18T14:00:14Z",
+      "summary": "Et tremandshold (Hacktron AI) brugte Claude til at kæde en hukommelsesfejl sammen med en Discourse-sårbarhed og fik adgang til OpenAI-ansattes interne GitHub via et legitimt bug bounty-program."
+    },
+    {
+      "text": "Weeks-Old AI Startup Emulate Approaches $4 Billion Valuation",
+      "headline": "Weeks-Old AI Startup Emulate Approaches $4 Billion Valuation",
+      "url": "https://www.pymnts.com/startups/2026/weeks-old-ai-startup-emulate-approaches-4-billion-valuation/",
+      "publisher": "PYMNTS",
+      "section": "AI",
+      "publishedAt": "2026-09-17T14:40:45Z",
+      "summary": "Emulate, grundlagt i august 2026 af tidligere DeepMind Genie-forskere, er i forhandlinger om at rejse op til 700 mio. dollar til en værdiansættelse på ca. 3,7 mia. dollar."
+    }
+  ],
+  "column": {
+    "authoredBy": "ai",
+    "slug": "jevons-paradokset",
+    "title": "Effektivitetens skygge",
+    "thesis": "Jevons' paradoks - at mere effektiv brug af en ressource kan øge det samlede forbrug af den - citeres næsten altid som argument imod effektivitet. Det er forkert: paradokset handler om, hvem der høster den sparede omkostning.",
+    "body": [
+      "Da James Watt gjorde dampmaskinen mere brændstofeffektiv, faldt Storbritanniens kulforbrug ikke - det steg, fordi billigere kraft gjorde flere anvendelser rentable. Jevons skrev i 1865, at det er en tankefejl at tro, den økonomiske brug af brændsel svarer til formindsket forbrug: \"det stik modsatte er sandheden\". Det er ikke en naturlov: om forbruget stiger, afhænger af, om besparelsen bliver hos brugeren eller konkurreres væk i lavere priser. Da amerikansk landbrug blev langt mere effektivt i det 20. århundrede, faldt landbrugets andel af arbejdsstyrken fra ca. 40 procent i 1900 til under 2 procent i 2024, uden at fødevareforbruget fulgte med."
+    ],
+    "uncertainty": "Hvis \"rebound-effekten\" viser sig næsten altid lille og godt under 100 procent på tværs af sektorer, er paradokset mere en anekdote end et mønster - og min pointe holder mindre vand end antaget.",
+    "topics": [
+      "oekonomi",
+      "videnskabshistorie"
+    ],
+    "claims": [
+      {
+        "text": "Landbrugets andel af den amerikanske arbejdsstyrke faldt fra omkring 40 procent i 1900 til under 2 procent i 2024, uden at fødevareforbruget fulgte tilsvarende med op.",
+        "sourceUrls": [
+          "https://en.wikipedia.org/wiki/Jevons_paradox"
+        ],
+        "confidence": "medium"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Jevons paradox",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jevons_paradox",
+        "publishedAt": "2026-09-20T00:00:00Z",
+        "kind": "analysis"
+      }
+    ]
+  },
+  "recommendations": [
+    {
+      "id": "rec-noam-brown-dwarkesh-20260920",
+      "mode": "listen",
+      "kind": "podcastinterview",
+      "status": "new",
+      "title": "Noam Brown – Agent swarms, alignment, & recursive self-improvement",
+      "creator": "Noam Brown (OpenAI-forsker bag o1/reasoning-modellerne) interviewet af Dwarkesh Patel",
+      "provider": "Dwarkesh Podcast",
+      "url": "https://www.dwarkesh.com/p/noam-brown",
+      "availability": "Frit tilgængelig, offentliggjort 17. september 2026",
+      "commitment": "ca. 2 timer",
+      "description": "Lang samtale om AI-agent-sværme, alignment efter Hugging Face-hændelsen, og hvad matematiske gennembrud siger om tempoet for selvforbedrende AI.",
+      "rationale": "Uddyber dagens tema om AI-agent-sværme og selvforbedrende AI - denne gang fra en forsker hos en anden frontier-lab end Anthropic, som selv har bygget agent-systemer og kan give et konkret modstykke til Amodeis advarsler.",
+      "topics": [
+        "ai",
+        "ai-sikkerhed"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://substackcdn.com/image/fetch/$s_!pbzI!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F216149332%2Fa3c93af3-89cf-40a6-9391-cf93f8ee707b%2Ftranscoded-1789652569.png",
+        "credit": "Kilde: Dwarkesh Podcast",
+        "alt": "Noam Brown i samtale med Dwarkesh Patel om AI-agenter og selvforbedrende AI.",
+        "sourceUrl": "https://www.dwarkesh.com/p/noam-brown"
+      }
+    },
+    {
+      "id": "rec-lagarde-ecb-interview-20260920",
+      "mode": "read",
+      "kind": "interviewtransskript",
+      "status": "available",
+      "title": "Interview with Christine Lagarde, ECB President (Ouest-France)",
+      "creator": "Jean-Christophe Lalay og Maxime Mainguet (interviewere); Christine Lagarde",
+      "provider": "Den Europæiske Centralbank (officiel transskription)",
+      "url": "https://www.ecb.europa.eu/press/inter/date/2026/html/ecb.in260912~3cc706f4d6.en.html",
+      "availability": "Frit tilgængelig, offentliggjort 12. september 2026",
+      "commitment": "ca. 10 minutter",
+      "description": "Lagarde om rentepolitik ved 3,3 procent inflation, fransk gældspres og AI-sektorens korrektionsrisiko for den finansielle stabilitet.",
+      "rationale": "Et koncentreret, primærkilde-belagt indblik i, hvordan ECB kobler AI-markedets risiko direkte til pengepolitikken - relevant for en læser, der følger renter og den transatlantiske økonomi tæt.",
+      "topics": [
+        "makrookonomi",
+        "ai"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-posen-oddlots-20260920",
+      "mode": "listen",
+      "kind": "podcast",
+      "status": "available",
+      "title": "Adam Posen Thinks Things Could Get Very 'Messy' for the Fed",
+      "creator": "Adam Posen (Peterson Institute), interviewet af Joe Weisenthal og Tracy Alloway",
+      "provider": "Odd Lots (Bloomberg)",
+      "url": "https://podcasts.apple.com/us/podcast/adam-posen-thinks-things-could-get-very-messy-for-the-fed/id1056200096?i=1000787135825",
+      "availability": "Frit tilgængelig episode, offentliggjort 1. september 2026",
+      "commitment": "ca. 60 minutter",
+      "description": "Posen diskuterer Fed-uafhængighed under den nye centralbankchef Kevin Warsh, Treasury-indblanding i obligationsmarkedet og AI's effekt på arbejdsmarkedet.",
+      "rationale": "En navngiven, meget anerkendt økonom med et skarpt, ikke-konsensuspræget syn på amerikansk pengepolitik - stof til eftertanke for en læser, der har fulgt transatlantisk økonomi i årtier.",
+      "topics": [
+        "makrookonomi",
+        "usa"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-aros-frihedens-fald-20260920",
+      "mode": "experience",
+      "kind": "udstilling",
+      "status": "upcoming",
+      "title": "Frihedens Fald – Kunsten i Tyskland 1910-1945",
+      "provider": "ARoS Aarhus Kunstmuseum",
+      "url": "https://www.aros.dk/udstillinger/frihedens-fald-kunsten-i-tyskland-1910-1945/",
+      "availability": "Åbner 3. oktober 2026, vises til 21. februar 2027 (åbningsarrangement 2. oktober)",
+      "commitment": "ca. 1,5-2 timer",
+      "description": "Værker af blandt andre Kirchner, Klee og Kandinsky, udlånt fra Neue Nationalgalerie Berlin, der viser hvordan tysk kunst afspejlede den politiske og sociale opløsning 1910-1945.",
+      "rationale": "Et genuint sideskridt fra dagens nyhedsstof: kunsthistorie om, hvordan institutioner og frihedsrettigheder kan smuldre - relevant perspektiv for enhver, der arbejder med institutioner under pres, uden at være en direkte analogi til noget i dagens historier.",
+      "topics": [
+        "kunst",
+        "historie"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://www.aros.dk/media/0siook3i/billede-8-lex-nerlinger.jpg?width=1200&height=630&v=1dcb6c6cf260ef0",
+        "credit": "Foto: ARoS Aarhus Kunstmuseum",
+        "alt": "Værk fra udstillingen 'Frihedens Fald' om kunsten i Tyskland 1910-1945.",
+        "sourceUrl": "https://www.aros.dk/udstillinger/frihedens-fald-kunsten-i-tyskland-1910-1945/"
+      }
+    }
+  ],
+  "quality": {
+    "sourceCoverage": 92,
+    "freshness": 88,
+    "novelty": 80,
+    "perspectiveBalance": 78,
+    "render": 100
+  }
+}
