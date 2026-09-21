@@ -1,0 +1,772 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-09-21",
+  "date": "2026-09-21",
+  "generatedAt": "2026-09-21T09:20:00Z",
+  "readingMinutes": 10,
+  "title": "Thomas' Nyheder",
+  "dek": "Novo Nordisks skæbnedag i London, EU-regler der bremser dansk fødevareinnovation, en dansker der spænder ben for Messi - og hvorfor færre danskere dør ved selvmord.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-novo-cmd-20260921",
+      "eventKey": "novo-nordisk-kapitalmarkedsdag-2026-09",
+      "materialFacts": [
+        "Novo Nordisk holder kapitalmarkedsdag i London 21. september 2026",
+        "Novo har mistet over 70 procent af sin børsværdi siden toppen sommeren 2024",
+        "Mike Doustdar blev topchef i august 2025 efter at Lars Fruergaard Jørgensen blev fyret"
+      ],
+      "section": "Dansk eksport",
+      "headline": "Da bomben sprang i Bagsværd, trådte 'kopidrengen' frem i lyset - nu skal Novo-chefen bestå en 'vigtig eksamen'",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/penge/da-bomben-sprang-i-bagsvaerd-traadte-kopidrengen-frem-i-lyset-nu-skal-novo-chefen-bestaa-en-vigtig",
+      "subheadline": "Mike Doustdar skal i dag på Novos kapitalmarkedsdag i London overbevise investorerne om vejen ud af aktiekrisen - efter et år med fyringer, bestyrelsesopgør og et kurskollaps på over 70 procent.",
+      "body": [
+        "Klokken 10 i dag åbner Novo Nordisk sin kapitalmarkedsdag i London, hvor topchef Mike Doustdar skal overbevise investorer om vejen ud af selskabets værste krise i nyere tid. Novo har mistet over 70 procent af sin børsværdi siden toppen i 2024.",
+        "Doustdar overtog posten i august 2025, efter forgængeren Lars Fruergaard Jørgensen blev fyret. Siden har han annonceret 9.000 fyringer, og i oktober trak næsten hele bestyrelsen sig efter et opgør med Novo Nordisk Fonden - hvorefter Lars Rebien Sørensen gjorde comeback som formand."
+      ],
+      "whyItMatters": "Novo trækker en så stor del af dansk eksport og BNP-vækst, at kursudviklingen reelt er en makrobegivenhed for Danmark. Investeringsstrateg Jacob Pedersen kalder dagen en 'meget vigtig eksamen': investorerne mangler stadig en forklaring, de tror på.",
+      "analysis": "Aktien handles i dag omkring 280 kroner mod lige over 300, da Doustdar overtog roret - markedet har allerede dømt året hårdt. Det gør dagen til mere end en rutineopdatering: den skal genskabe en tillid, Pedersen siger slet ikke er der endnu.",
+      "counterpoint": "Novo har fortsat et globalt salgsapparat og en dyb pipeline - en svag kapitalmarkedsdag ændrer ikke ved, at selskabet stadig er markedsleder på flere hovedprodukter.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/4kpgddex/20260915-173542-l.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Mike Doustdar, administrerende direktør i Novo Nordisk siden august 2025.",
+        "sourceUrl": "https://www.dr.dk/nyheder/penge/da-bomben-sprang-i-bagsvaerd-traadte-kopidrengen-frem-i-lyset-nu-skal-novo-chefen-bestaa-en-vigtig"
+      },
+      "topics": [
+        "erhverv",
+        "novo-nordisk",
+        "eksport",
+        "makro"
+      ],
+      "entities": [
+        "Novo Nordisk",
+        "Mike Doustdar",
+        "Jacob Pedersen",
+        "Lars Rebien Sørensen",
+        "Lars Fruergaard Jørgensen"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 88,
+        "decisionValue": 70,
+        "novelty": 62,
+        "sourceQuality": 88,
+        "personalRelevance": 92,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Novo har mistet mere end 70 procent af sin børsværdi siden toppen i sommeren 2024",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/da-bomben-sprang-i-bagsvaerd-traadte-kopidrengen-frem-i-lyset-nu-skal-novo-chefen-bestaa-en-vigtig"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Mike Doustdar overtog topposten i august 2025 efter at Lars Fruergaard Jørgensen blev fyret",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/da-bomben-sprang-i-bagsvaerd-traadte-kopidrengen-frem-i-lyset-nu-skal-novo-chefen-bestaa-en-vigtig"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Næsten hele bestyrelsen trak sig i oktober efter et opgør med Novo Nordisk Fonden",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/da-bomben-sprang-i-bagsvaerd-traadte-kopidrengen-frem-i-lyset-nu-skal-novo-chefen-bestaa-en-vigtig"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Da bomben sprang i Bagsværd, trådte 'kopidrengen' frem i lyset - nu skal Novo-chefen bestå en 'vigtig eksamen'",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/penge/da-bomben-sprang-i-bagsvaerd-traadte-kopidrengen-frem-i-lyset-nu-skal-novo-chefen-bestaa-en-vigtig",
+          "publishedAt": "2026-09-21T03:55:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-danskerhverv-foodreg-20260921",
+      "eventKey": "eu-fodevareregler-biosolutions-2026-09",
+      "materialFacts": [
+        "Cirka 4.500 danske job er knyttet til biosolutions inden for fødevarer og ingredienser",
+        "EU-godkendelse af nye fødevarer tager i praksis ofte 2-3 år eller længere"
+      ],
+      "section": "EU og erhvervspolitik",
+      "headline": "Førende virksomheder i ny rapport: EU-regler bremser nye fødevarer i årevis",
+      "primarySourceUrl": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/september/forende-virksomheder-i-ny-rapport-eu-regler-bremser-nye-fodevarer-i-arevis2/",
+      "subheadline": "En ny rapport fra ti danske biosolutions-virksomheder viser, at EU's godkendelse af nye fødevarer reelt tager 2-3 år eller mere - og svækker en dansk styrkeposition.",
+      "body": [
+        "Danmark er blandt verdens førende inden for nye fødevarer, men lange EU-godkendelser risikerer at sende investeringer ud af Europa. Det viser en rapport fra Biosolutions Forum+ under Dansk Erhverv, baseret på interview med ti virksomheder, heriblandt Novonesis.",
+        "En EU-godkendelse kan på papiret tage 18 måneder, men tager i praksis ofte 2-3 år. Novonesis har 150.000 mikroorganismer i sin samling, men kun få vurderes værd at forfølge."
+      ],
+      "whyItMatters": "Cirka 4.500 danske job er knyttet til biosolutions inden for fødevarer, ud af 17.300 i hele sektoren. Direktør Anne Lerche advarer om, at Danmark mister gevinsten, hvis virksomhederne investerer uden for Europa i stedet.",
+      "analysis": "Rapporten foreslår en regulatorisk sandkasse, hvor krav kan afklares tidligt - en type EU-forenkling, der ligner den bredere dagsorden DI og BusinessEurope har efterlyst, her rettet mod et felt hvor Danmark har noget konkret at forsvare.",
+      "topics": [
+        "erhverv",
+        "eu-regulering",
+        "biosolutions",
+        "dansk-industri"
+      ],
+      "entities": [
+        "Dansk Erhverv",
+        "Biosolutions Forum+",
+        "Anne Lerche",
+        "Linda Nielsen",
+        "Novonesis",
+        "Arla Foods Ingredients"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 62,
+        "decisionValue": 68,
+        "novelty": 58,
+        "sourceQuality": 75,
+        "personalRelevance": 82,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Cirka 4.500 danske job er knyttet til biosolutions inden for fødevarer og ingredienser",
+          "sourceUrls": [
+            "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/september/forende-virksomheder-i-ny-rapport-eu-regler-bremser-nye-fodevarer-i-arevis2/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "EU's godkendelse kan på papiret vare op til 18 måneder, men tager i praksis ofte 2-3 år eller mere",
+          "sourceUrls": [
+            "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/september/forende-virksomheder-i-ny-rapport-eu-regler-bremser-nye-fodevarer-i-arevis2/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Førende virksomheder i ny rapport: EU-regler bremser nye fødevarer i årevis",
+          "publisher": "Dansk Erhverv",
+          "url": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/september/forende-virksomheder-i-ny-rapport-eu-regler-bremser-nye-fodevarer-i-arevis2/",
+          "publishedAt": "2026-09-21T00:00:00Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://danskerhverv.imgix.net/contentassets/2ad43250e6ba4df2b6bec71c7d474c58/spora_besoeg-RDlGYUwzb0tJMGE4SVhiNlRFbHcwQlE2VEY0PQ.jpg",
+        "credit": "Kilde: Dansk Erhverv",
+        "alt": "Førende virksomheder i ny rapport: EU-regler bremser nye fødevarer i årevis",
+        "sourceUrl": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/september/forende-virksomheder-i-ny-rapport-eu-regler-bremser-nye-fodevarer-i-arevis2/"
+      }
+    },
+    {
+      "id": "story-elbilboom-co2-20260921",
+      "eventKey": "elbilboom-co2-udledning-2026-09",
+      "materialFacts": [
+        "Privatbilers CO2-udledning i 2025 var ca. 30 procent lavere end i 2016 ifølge Danmarks Statistik",
+        "694.800 af 2,97 millioner personbiler er elbiler ved udgangen af august 2026"
+      ],
+      "section": "Klima og erhverv",
+      "headline": "Elbilboomet virker: Danske biler udleder 30 procent mindre CO2",
+      "primarySourceUrl": "https://www.inputmag.dk/elbilboomet-virker-danske-biler-udleder-30-procent-mindre-co2/",
+      "subheadline": "Privatbilers CO2-udledning er faldet 30 procent siden 2016, selv om der er kommet flere biler på vejene - men bilbranchen advarer om at en genindfaset afgift kan bremse udviklingen.",
+      "body": [
+        "Privatbilernes CO2-udledning i Danmark var i 2025 omkring 30 procent lavere end i 2016, viser nye tal fra Danmarks Statistik - samtidig med at bilparken er vokset til knap 2,97 millioner biler.",
+        "694.800 af bilerne er nu elbiler - 23,4 procent af bestanden - mens der er 163.500 færre benzin- og dieselbiler end for et år siden."
+      ],
+      "whyItMatters": "DI Bilbranchens direktør Thomas Møller Sørensen tilskriver udviklingen afgiftsmodellen siden 2020 og foreslår at fjerne registreringsafgiften permanent på elbiler, finansieret ved mere løbende vej- og ejerafgift.",
+      "analysis": "Diskussionen er aktuel, fordi elbilernes registreringsafgift fra 1. januar 2027 igen indfases hårdere. De nye tal giver bilbranchen et argument mod stigningen - selv om bilkørsel stod for 60 procent af husholdningernes CO2-udledning i 2025.",
+      "topics": [
+        "erhverv",
+        "energi",
+        "klima",
+        "konstruktiv-journalistik"
+      ],
+      "entities": [
+        "Danmarks Statistik",
+        "DI Bilbranchen",
+        "Thomas Møller Sørensen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 60,
+        "decisionValue": 55,
+        "novelty": 55,
+        "sourceQuality": 68,
+        "personalRelevance": 62,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "Privatbilernes CO2-udledning i 2025 var omkring 30 procent lavere end i 2016",
+          "sourceUrls": [
+            "https://www.inputmag.dk/elbilboomet-virker-danske-biler-udleder-30-procent-mindre-co2/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "694.800 af 2,97 millioner personbiler var elbiler ved udgangen af august 2026, svarende til 23,4 procent",
+          "sourceUrls": [
+            "https://www.inputmag.dk/elbilboomet-virker-danske-biler-udleder-30-procent-mindre-co2/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Elbilboomet virker: Danske biler udleder 30 procent mindre CO2",
+          "publisher": "iNPUT",
+          "url": "https://www.inputmag.dk/elbilboomet-virker-danske-biler-udleder-30-procent-mindre-co2/",
+          "publishedAt": "2026-09-15T12:32:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-eifo-h1-20260921",
+      "eventKey": "eifo-halvaarsresultat-2026-09",
+      "materialFacts": [
+        "EIFO's resultat for første halvår 2026 blev 1.633 mio. kr., ca. 1 mia. kr. over budget",
+        "SMV-finansieringsvolumen steg 80 procent til 2.381 mio. kr."
+      ],
+      "section": "Dansk eksport",
+      "headline": "EIFO løfter forventningerne efter positivt halvårsresultat",
+      "primarySourceUrl": "https://via.ritzau.dk/pressemeddelelse/15155482/eifo-lofter-forventningerne-efter-positivt-halvarsresultat?lang=da",
+      "subheadline": "Danmarks Eksport- og Investeringsfond kom klart bedre ud af første halvår end ventet, drevet af en 80 procent stigning i finansiering til danske SMV'er.",
+      "body": [
+        "EIFO kom ud af første halvår 2026 med et resultat på 1.633 millioner kroner - omkring 1 milliard over budget og op fra 493 millioner sidste år, især drevet af positive værdireguleringer.",
+        "Finansiering til danske SMV'er steg 80 procent til 2.381 millioner kroner. 'Vi ser fortsat en stærk efterspørgsel efter finansiering, og det fortæller mig, at mange danske virksomheder fortsat tror på fremtiden,' siger adm. direktør Peder Lundquist."
+      ],
+      "whyItMatters": "EIFO er statens vigtigste redskab til at holde risikovillig kapital i dansk eksporterhverv, og et halvår med markant mere SMV-finansiering er et pejlemærke for investeringslysten midt i en mere usikker verden.",
+      "analysis": "Resultatet kommer efter et halvt år med EIFO2030-strategien, der sigter mod 5 procent egenkapitalforrentning over perioden. EIFO understreger selv, at værdireguleringer svinger meget - men retningen på SMV-finansieringen er entydig.",
+      "image": {
+        "url": "https://via.ritzau.dk/data/images/public/13561323/15155482/a4c254b0-5a96-4cbe-8383-af429cb3d2d3-w_960.jpg",
+        "credit": "Kilde: EIFO",
+        "alt": "EIFO, Danmarks Eksport- og Investeringsfond, offentliggør halvårsresultat for 2026.",
+        "sourceUrl": "https://via.ritzau.dk/pressemeddelelse/15155482/eifo-lofter-forventningerne-efter-positivt-halvarsresultat?lang=da"
+      },
+      "topics": [
+        "erhverv",
+        "eksport",
+        "finansiering"
+      ],
+      "entities": [
+        "EIFO",
+        "Peder Lundquist"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 50,
+        "decisionValue": 60,
+        "novelty": 40,
+        "sourceQuality": 70,
+        "personalRelevance": 70,
+        "contrast": 30
+      },
+      "claims": [
+        {
+          "text": "EIFO's resultat for første halvår 2026 blev 1.633 mio. kr., ca. 1 mia. kr. over budget og op fra 493 mio. kr. sidste år",
+          "sourceUrls": [
+            "https://via.ritzau.dk/pressemeddelelse/15155482/eifo-lofter-forventningerne-efter-positivt-halvarsresultat?lang=da"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Finansieringsvolumen til SMV'er steg 80 procent til 2.381 mio. kr.",
+          "sourceUrls": [
+            "https://via.ritzau.dk/pressemeddelelse/15155482/eifo-lofter-forventningerne-efter-positivt-halvarsresultat?lang=da"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "EIFO løfter forventningerne efter positivt halvårsresultat",
+          "publisher": "EIFO",
+          "url": "https://via.ritzau.dk/pressemeddelelse/15155482/eifo-lofter-forventningerne-efter-positivt-halvarsresultat?lang=da",
+          "publishedAt": "2026-09-14T07:00:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-oliejagt-noedsoen-20260921",
+      "eventKey": "nordsoen-oliejagt-stoettepartier-2026-09",
+      "materialFacts": [
+        "Der er flertal i Folketinget for at fortsætte olie- og gasjagten i Nordsøen efter 2042",
+        "Alternativet og Enhedslisten vil ikke true regeringens liv over spørgsmålet"
+      ],
+      "section": "Energipolitik",
+      "headline": "Støttepartier: Vi vælter ikke regeringen, hvis den forlænger oliejagten",
+      "primarySourceUrl": "https://www.altinget.dk/artikel/stoettepartier-vi-vaelter-ikke-regeringen-hvis-den-forlaenger-oliejagten",
+      "subheadline": "Alternativet og Enhedslisten kalder en forlængelse af olie- og gasjagten i Nordsøen 'den forkerte vej' - men afviser at true regeringens liv, fordi et folketingsflertal alligevel vil fortsætte.",
+      "body": [
+        "Regeringen behøver ikke frygte at miste magten, hvis den forlænger olie- og gasjagten i Nordsøen efter 2042. Alternativet og Enhedslisten afviser, at sagen kan blive så principiel - selv om begge kalder en forlængelse 'den forkerte vej'.",
+        "'Det er ikke sådan, vi laver politik,' siger Alternativets klima- og energiordfører Anna Bjerre. Baggrunden er, at der allerede er flertal i Folketinget for at fortsætte jagten."
+      ],
+      "whyItMatters": "Nordsøens olie- og gasproduktion er en del af Danmarks energi- og eksportgrundlag, og en forlængelse efter 2042 vil forme investeringshorisonten for offshore-sektoren i årtier frem.",
+      "analysis": "At venstrefløjspartierne på forhånd afviser at true regeringen, fjerner en del af deres forhandlingsstyrke - modstanden er principiel, ikke taktisk, hvilket giver regeringen albuerum til at lande en forlængelse.",
+      "topics": [
+        "energi",
+        "dansk-politik",
+        "erhverv"
+      ],
+      "entities": [
+        "Anna Bjerre",
+        "Alternativet",
+        "Enhedslisten",
+        "Folketinget"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 58,
+        "decisionValue": 45,
+        "novelty": 45,
+        "sourceQuality": 78,
+        "personalRelevance": 55,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "Der er flertal i Folketinget for at fortsætte olie- og gasjagten i Nordsøen efter 2042",
+          "sourceUrls": [
+            "https://www.altinget.dk/artikel/stoettepartier-vi-vaelter-ikke-regeringen-hvis-den-forlaenger-oliejagten"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Alternativets klima- og energiordfører Anna Bjerre afviser at true regeringens liv over sagen",
+          "sourceUrls": [
+            "https://www.altinget.dk/artikel/stoettepartier-vi-vaelter-ikke-regeringen-hvis-den-forlaenger-oliejagten"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Støttepartier: Vi vælter ikke regeringen, hvis den forlænger oliejagten",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/artikel/stoettepartier-vi-vaelter-ikke-regeringen-hvis-den-forlaenger-oliejagten",
+          "publishedAt": "2026-09-21T00:00:00Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://legacy.altinget.dk/images/article/306322/160774.jpg",
+        "credit": "Kilde: Altinget",
+        "alt": "Støttepartier: Vi vælter ikke regeringen, hvis den forlænger oliejagten",
+        "sourceUrl": "https://www.altinget.dk/artikel/stoettepartier-vi-vaelter-ikke-regeringen-hvis-den-forlaenger-oliejagten"
+      }
+    },
+    {
+      "id": "story-dreyer-messi-20260921",
+      "eventKey": "anders-dreyer-scorer-mod-messi-miami-2026-09",
+      "materialFacts": [
+        "Anders Dreyer scorede to mål for San Diego FC mod Lionel Messis Inter Miami i et 2-2-opgør"
+      ],
+      "section": "Sport",
+      "headline": "Dansker spænder ben for Messi og Miami",
+      "primarySourceUrl": "https://www.dr.dk/sporten/fodbold/dansker-spaender-ben-messi-og-miami",
+      "subheadline": "Anders Dreyer scorede to gange for San Diego FC i et 2-2-opgør mod Lionel Messis Inter Miami - begge mål på oplæg fra tidligere Superliga-anfører Jeppe Tverskov.",
+      "body": [
+        "Anders Dreyer er før blevet nævnt i samme åndedrag som Messi, og natten til mandag blev han det igen. Den 28-årige tidligere FC Midtjylland-profil scorede to mål for San Diego FC i et 2-2-opgør mod Messis Inter Miami.",
+        "Messi udlignede på et frispark, og Luis Suarez bragte Miami foran, før Dreyer med under ti minutter tilbage sikrede et point - begge Dreyers mål på oplæg fra tidligere Superliga-anfører Jeppe Tverskov."
+      ],
+      "whyItMatters": "Dreyer er fravalgt til landsholdets kommende Nations League-kampe, men leverer alligevel to mål mod verdens mest kendte fodboldspiller - et bevis på, at dansk talent gør sig gældende internationalt.",
+      "analysis": "MLS omtalte selv opgøret som et møde mellem 'to superstjerneangribere'. Inter Miami er nummer tre i øst, San Diego FC nummer ti i vest - forskellige konferencer, men resultatet viser, at afstanden på banen er mindre end placeringerne antyder.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/zeedivhh/20260921-013432-1_crop001.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Anders Dreyer i aktion for San Diego FC mod Lionel Messis Inter Miami.",
+        "sourceUrl": "https://www.dr.dk/sporten/fodbold/dansker-spaender-ben-messi-og-miami"
+      },
+      "topics": [
+        "sport",
+        "fodbold",
+        "danske-sportsfolk"
+      ],
+      "entities": [
+        "Anders Dreyer",
+        "Lionel Messi",
+        "San Diego FC",
+        "Inter Miami",
+        "Jeppe Tverskov"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 40,
+        "decisionValue": 20,
+        "novelty": 65,
+        "sourceQuality": 78,
+        "personalRelevance": 35,
+        "contrast": 80
+      },
+      "claims": [
+        {
+          "text": "Anders Dreyer scorede to mål for San Diego FC mod Inter Miami i et 2-2-opgør",
+          "sourceUrls": [
+            "https://www.dr.dk/sporten/fodbold/dansker-spaender-ben-messi-og-miami"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Dansker spænder ben for Messi og Miami",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/sporten/fodbold/dansker-spaender-ben-messi-og-miami",
+          "publishedAt": "2026-09-21T05:49:08Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-selvmord-fald-20260921",
+      "eventKey": "faerre-selvmord-danmark-2026-09",
+      "materialFacts": [
+        "502 selvmord registreret i Danmark i 2025, 91 færre end året før og det laveste siden 2015"
+      ],
+      "section": "Danmark",
+      "headline": "Færre dør ved selvmord i Danmark",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/faerre-doer-ved-selvmord-i-danmark",
+      "subheadline": "502 selvmord blev registreret i Danmark i 2025 - det laveste antal siden 2015 - og forskere peger på en 2024-handleplan og mindre tabu som forklaringer.",
+      "body": [
+        "Færre danskere tog deres eget liv i 2025. Center for Selvmordsforskning registrerede 502 selvmord - 91 færre end året før og det laveste antal siden 2015. Det giver en rate på 9,9 per 100.000, et fald på 18 procent siden 2015.",
+        "Faldet er mest markant for kvinder (30 procent) mod 12 procent for mænd. Forskningsleder Erik Christiansen peger på en handleplan fra 2024 og mindre tabu: 'I dag ved vi, at den antagelse er forkert, og det er flere opmærksomme på,' siger han."
+      ],
+      "whyItMatters": "Livslinien har oplevet en stigning i opkald fra knap 16.000 i 2019 til cirka 28.000 i 2025 - men kan kun tale med omkring halvdelen, oplyser direktør Jeppe Kristen Toft.",
+      "analysis": "Professor Merete Nordentoft peger på summen af flere indsatser, blandt andet ekstra midler til forebyggende klinikker. At udviklingen går rigtig vej, mens efterspørgslen stiger, er pointen: forebyggelse virker, men kapaciteten følger ikke med.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/evohzbzm/20260918110313580_1000_crop001.jpg?im=AspectCrop%3D%28672%2C378%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%28672%2C378%29",
+        "credit": "Kilde: DR",
+        "alt": "Arkivfoto anvendt af DR til historien om det faldende antal selvmord i Danmark.",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/faerre-doer-ved-selvmord-i-danmark"
+      },
+      "topics": [
+        "danmark",
+        "sundhed",
+        "konstruktiv-journalistik"
+      ],
+      "entities": [
+        "Center for Selvmordsforskning",
+        "Erik Christiansen",
+        "Merete Nordentoft",
+        "Livslinien",
+        "Jeppe Kristen Toft"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 30,
+        "novelty": 50,
+        "sourceQuality": 82,
+        "personalRelevance": 15,
+        "contrast": 65
+      },
+      "claims": [
+        {
+          "text": "502 selvmord blev registreret i Danmark i 2025, 91 færre end året før og det laveste siden 2015",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/faerre-doer-ved-selvmord-i-danmark"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Selvmordsraten faldt til 9,9 per 100.000 i 2025, et fald på 18 procent siden 2015",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/faerre-doer-ved-selvmord-i-danmark"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Livslinien har oplevet en stigning i opkald fra knap 16.000 i 2019 til cirka 28.000 i 2025",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/faerre-doer-ved-selvmord-i-danmark"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Færre dør ved selvmord i Danmark",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/faerre-doer-ved-selvmord-i-danmark",
+          "publishedAt": "2026-09-21T05:30:36Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-sommerhuse-sand-20260921",
+      "eventKey": "sandudvinding-sommerhuse-samsoe-2026-09",
+      "materialFacts": [
+        "Tre nordsjællandske kommuner vil hente 241.000 kubikmeter grus og sten fra havbunden sydøst for Samsø"
+      ],
+      "section": "Danmark",
+      "headline": "Stor vrede over forsøg på at redde sommerhuse – \"stop det her,\" siger borgmester",
+      "primarySourceUrl": "https://nyheder.tv2.dk/samfund/2026-09-20-stor-vrede-over-forsoeg-paa-at-redde-sommerhuse-stop-det-her-siger-borgmester",
+      "subheadline": "Tre nordsjællandske kommuner vil hente 241.000 kubikmeter grus og sten fra havbunden sydøst for Samsø til kystbeskyttelse - Samsøs borgmester kræver et forbud for at redde et af de sidste levende farvande i området.",
+      "body": [
+        "Kommunerne Halsnæs, Gribskov og Helsingør har siden stormen Bodil for 13 år siden samarbejdet om at beskytte Nordsjællands kyst mod stormfloder. Grus og sten skal hentes andetsteds - derfor søgte projektet i 2025 om at suge næsten en kvart million kubikmeter op fra havbunden sydøst for Samsø.",
+        "Netop dét område er, ifølge fisker Mogens Vollbrecht, et af de sidste steder nær Samsø, hvor fiskebestanden trives. 'Man snakker meget om, at nu skal der gøres noget for havet, og så gør man det modsatte,' siger han."
+      ],
+      "whyItMatters": "Samsøs borgmester Per Urban Olsen (K) opfordrer miljøminister Maria Reumert Gjerding til at indføre et forbud: 'Stop det her... Stop dog tyveriet af fiskenes levesteder,' siger han.",
+      "analysis": "Fra 1997 til 1. december 2025 var det tilladt at hente råstoffer i området, men tilladelsen er udløbet. Ansøgningen fra 2025 ligger hos Miljøstyrelsen, der ifølge TV 2 først venter at behandle den i 2027.",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/7/e/5/7e5ce34c-71a1-4b09-964b-888b5dba62ae?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MjIsMCw5NjMsNTQ0&s=17437955f89ab02df60c486791fa18b8",
+        "credit": "Kilde: TV 2",
+        "alt": "Mogens Vollbrecht, fisker på Samsø, der advarer mod råstofindvinding sydøst for øen.",
+        "sourceUrl": "https://nyheder.tv2.dk/samfund/2026-09-20-stor-vrede-over-forsoeg-paa-at-redde-sommerhuse-stop-det-her-siger-borgmester"
+      },
+      "topics": [
+        "danmark",
+        "miljoe",
+        "lokalt"
+      ],
+      "entities": [
+        "Mogens Vollbrecht",
+        "Per Urban Olsen",
+        "Halsnæs Kommune",
+        "Gribskov Kommune",
+        "Helsingør Kommune",
+        "Samsø"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 48,
+        "decisionValue": 25,
+        "novelty": 55,
+        "sourceQuality": 72,
+        "personalRelevance": 20,
+        "contrast": 75
+      },
+      "claims": [
+        {
+          "text": "Tre kommuner vil hente 241.000 kubikmeter grus og sten fra havbunden sydøst for Samsø",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/samfund/2026-09-20-stor-vrede-over-forsoeg-paa-at-redde-sommerhuse-stop-det-her-siger-borgmester"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Tilladelsen til råstofindvinding i området gjaldt fra 1997 til 1. december 2025",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/samfund/2026-09-20-stor-vrede-over-forsoeg-paa-at-redde-sommerhuse-stop-det-her-siger-borgmester"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Stor vrede over forsøg på at redde sommerhuse – \"stop det her,\" siger borgmester",
+          "publisher": "TV 2",
+          "url": "https://nyheder.tv2.dk/samfund/2026-09-20-stor-vrede-over-forsoeg-paa-at-redde-sommerhuse-stop-det-her-siger-borgmester",
+          "publishedAt": "2026-09-20T10:10:37Z",
+          "kind": "primary"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "En kvart milliard skal sikre 800.000 husstande mod strømnedbrud: »Det er især truslen fra fysiske angreb«",
+      "headline": "En kvart milliard skal sikre 800.000 husstande mod strømnedbrud: »Det er især truslen fra fysiske angreb«",
+      "summary": "Elselskabet N1 afsætter 250 millioner kroner over de kommende år til at styrke den fysiske sikkerhed omkring Jyllands største netselskab, som dækker 800.000 husstande.",
+      "url": "https://ing.dk/artikel/en-kvart-milliard-skal-sikre-800000-husstande-mod-stroemnedbrud-det-er-isaer-truslen-fra-fysiske",
+      "publisher": "Ingeniøren",
+      "section": "Energi",
+      "publishedAt": "2026-09-17T14:14:31Z"
+    },
+    {
+      "text": "ING venter rentehævninger fra både ECB og Fed i december",
+      "headline": "ING venter rentehævninger fra både ECB og Fed i december",
+      "summary": "ING venter nu én sidste amerikansk renteforhøjelse i 2026, mest sandsynligt i december, og har opdateret sin prognose til også at vente en ECB-renteforhøjelse i december. EUR/USD-mål for årsslut fastholdes på 1,160.",
+      "url": "https://ugebrev.dk/flashnews/ing-venter-rentehaevninger-fra-baade-ecb-og-fed-i-december/",
+      "publisher": "Økonomisk Ugebrev",
+      "section": "Makro",
+      "publishedAt": "2026-09-21T07:24:11Z"
+    },
+    {
+      "text": "Danmarks første vindmøllebatteri letter presset på et glohedt elnet",
+      "headline": "Danmarks første vindmøllebatteri letter presset på et glohedt elnet",
+      "summary": "Batteripriser er faldet så meget, at det er blevet en god forretning at koble batterier direkte på vindmøller uden om det pressede elnet - Battman Energy har åbnet Danmarks første vindmøllebatteri ved Kikkenborg.",
+      "url": "https://ing.dk/artikel/danmarks-foerste-vindmoellebatteri-letter-presset-paa-et-glohedt-elnet",
+      "publisher": "Ingeniøren",
+      "section": "Energi",
+      "publishedAt": "2026-09-17T07:48:23Z"
+    },
+    {
+      "text": "For første gang i 60 år: Danmarks volleyballherrer er VM-klar",
+      "headline": "For første gang i 60 år: Danmarks volleyballherrer er VM-klar",
+      "summary": "Danmarks volleyballherrer har kvalificeret sig til VM 2027 i Polen efter resultaterne ved EM i Italien - landsholdets første VM siden 1966.",
+      "url": "https://www.dr.dk/sporten/seneste-sport/foerste-gang-i-60-aar-danmarks-volleyballherrer-er-vm-klar",
+      "publisher": "DR",
+      "section": "Sport",
+      "publishedAt": "2026-09-21T06:20:05Z"
+    },
+    {
+      "text": "Danmark til VM med spændt livrem: - Er alle indforstået med",
+      "headline": "Danmark til VM med spændt livrem: - Er alle indforstået med",
+      "summary": "Danmarks Cykle Union rejser til VM i landevejscykling i Montreal med et stramt budget - Mads Pedersen har auktioneret Tour de France-udstyr for at finansiere flere U23-pladser, siger elitechef Morten Bennekou.",
+      "url": "https://sport.tv2.dk/cykling/2026-09-20-danmark-til-vm-med-spaendt-livrem-er-alle-indforstaaet-med",
+      "publisher": "TV 2",
+      "section": "Sport",
+      "publishedAt": "2026-09-20T00:00:00Z"
+    },
+    {
+      "text": "Dansk rekord efterlader topløber med en klump i halsen",
+      "headline": "Dansk rekord efterlader topløber med en klump i halsen",
+      "summary": "Jacob Simonsen slog søndag sin egen danske rekord i halvmaraton ved VM i København, i tiden 1 time og 46 sekunder - en forbedring på 25 sekunder.",
+      "url": "https://www.dr.dk/sporten/jacob-simonsen-sov-ikke-hele-natten-inden-dansk-rekord",
+      "publisher": "DR",
+      "section": "Sport",
+      "publishedAt": "2026-09-20T10:04:45Z"
+    },
+    {
+      "text": "Viralt legetøj indeholder problematiske stoffer, viser test",
+      "headline": "Viralt legetøj indeholder problematiske stoffer, viser test",
+      "summary": "Forbrugerrådet Tænk fandt BTEX-stoffer (bl.a. toluen og xylen) i to versioner af det virale legetøj 'Squishy Dumplings' efter klager over en benzinlignende lugt.",
+      "url": "https://nyheder.tv2.dk/samfund/2026-09-21-viralt-legetoej-indeholder-problematiske-stoffer-viser-test",
+      "publisher": "TV 2",
+      "section": "Forbruger",
+      "publishedAt": "2026-09-21T05:34:56Z"
+    },
+    {
+      "text": "Alkoholproblemer går ud over pårørende: Hver tredje dansker oplever fysiske eller psykiske konsekvenser",
+      "headline": "Alkoholproblemer går ud over pårørende: Hver tredje dansker oplever fysiske eller psykiske konsekvenser",
+      "summary": "Over hver tredje dansker har oplevet sociale, psykiske eller fysiske konsekvenser af en nærtståendes alkoholforbrug, viser Voxmeter-måling for Alkohol & Samfund. 7,7 procent har oplevet vold.",
+      "url": "https://www.dr.dk/nyheder/indland/alkoholproblemer-gaar-ud-over-paaroerende-hver-tredje-dansker-oplever-fysiske-eller-psykiske",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-09-21T04:30:00Z"
+    },
+    {
+      "text": "Jehovas Vidner ændrer holdning til blod",
+      "headline": "Jehovas Vidner ændrer holdning til blod",
+      "summary": "Jehovas Vidner har lempet reglerne for blodtransfusion, så medlemmer selv kan vælge at modtage blodets bestanddele som plasma og blodlegemer, men bevarer forbuddet mod fuld blodtransfusion med andres blod.",
+      "url": "https://nyheder.tv2.dk/samfund/2026-09-20-jehovas-vidner-aendrer-holdning-til-blod",
+      "publisher": "TV 2",
+      "section": "Danmark",
+      "publishedAt": "2026-09-20T10:38:00Z"
+    },
+    {
+      "text": "Et mysterium bobler op fra Vadehavets bund – ingen ved hvorfor",
+      "headline": "Et mysterium bobler op fra Vadehavets bund – ingen ved hvorfor",
+      "summary": "Tyske forskere fra seks institutter undersøger uforklarede metanudslip fra Vadehavets bund, med fokus på Meldorf-bugten 90 kilometer syd for den dansk-tyske grænse.",
+      "url": "https://nyheder.tv2.dk/samfund/2026-09-20-et-mysterium-bobler-op-fra-vadehavets-bund-ingen-ved-hvorfor",
+      "publisher": "TV 2",
+      "section": "Danmark",
+      "publishedAt": "2026-09-20T07:38:44Z"
+    },
+    {
+      "text": "Bilist fangede dreng efter stenkast fra bro",
+      "headline": "Bilist fangede dreng efter stenkast fra bro",
+      "summary": "En bilist fik lørdag aften forruden ramt af en sten kastet fra en bro over Silkeborgmotorvejen af tre drenge og fangede en af dem.",
+      "url": "https://nyheder.tv2.dk/samfund/2026-09-20-bilist-fangede-dreng-efter-stenkast-fra-bro",
+      "publisher": "TV 2",
+      "section": "Danmark",
+      "publishedAt": "2026-09-20T10:53:19Z"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-chokepoints-20260921",
+      "mode": "read",
+      "kind": "Bog",
+      "status": "classic",
+      "title": "Chokepoints: American Power in the Age of Economic Warfare",
+      "creator": "Edward Fishman",
+      "provider": "Portfolio / Penguin Random House",
+      "url": "https://www.penguinrandomhouse.com/books/726149/chokepoints-by-edward-fishman/",
+      "commitment": "560 sider, også som lydbog",
+      "description": "En tidligere sanktionsembedsmand fra det amerikanske udenrigs- og finansministerium fortæller, hvordan USA og allierede har brugt dollarclearing, eksportkontrol af chips og energi som våben mod Rusland, Iran og Kina gennem to årtier.",
+      "rationale": "Sanktioner, eksportkontrol og økonomisk statecraft er kerneområder fra hans tid med EU-US handelspolitik - bogen er blevet et referencepunkt i EU's debat om 'de-risking'.",
+      "topics": [
+        "eu-us-handel",
+        "geopolitik",
+        "sanktioner"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-audi-kina-20260921",
+      "mode": "listen",
+      "kind": "Podcast-interview",
+      "status": "new",
+      "title": "Audi dropper ringene i Kina",
+      "creator": "Bag strategien (Børsen), interview med Gernot Doellner",
+      "provider": "Apple Podcasts",
+      "url": "https://podcasts.apple.com/dk/podcast/audi-dropper-ringene-i-kina/id1457718626?i=1000789707844",
+      "commitment": "Ca. 22 minutter",
+      "description": "Audis CEO Gernot Doellner om hvorfor mærket droppede de fire ringe i Kina, i et interview om den europæiske bilindustris 'perfekte storm': presset ud af Kina af lokale elbilproducenter, mens en bølge af kinesiske eksportbiler rammer Europa.",
+      "rationale": "EU-Kina-kollisionen i en flagskibsindustri, på dansk, fra landets største erhvervsavis - offentliggjort denne uge.",
+      "topics": [
+        "eu-kina",
+        "bilindustri",
+        "erhverv"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-remedios-varo-20260921",
+      "mode": "experience",
+      "kind": "Udstilling",
+      "status": "new",
+      "title": "Remedios Varo",
+      "creator": "Louisiana Museum of Modern Art",
+      "provider": "Louisiana",
+      "url": "https://louisiana.dk/en/exhibition/remedios-varo/",
+      "availability": "18. september 2026 - 10. januar 2027",
+      "description": "Louisianas første store europæiske retrospektiv af den spansk-mexicanske surrealist Remedios Varo (1908-63) - over 70 værker, hvor videnskab og magisk tænkning smelter sammen i drømmeagtige interiører og fantastiske landskaber.",
+      "rationale": "En bevidst serendipity-anbefaling, helt uden for hans faglige felt - en sjælden, stort anlagt museumsbegivenhed, værd at planlægge et besøg omkring.",
+      "topics": [
+        "kunst",
+        "kultur",
+        "serendipitet"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://static-assets.artlogic.net/w_2400,h_2400,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite2100/usr/images/news/main_image/206/scala_ar00615-full_jpg.jpg",
+        "credit": "Kilde: Louisiana Museum of Modern Art",
+        "alt": "Maleri af Remedios Varo, udstillet på Louisiana Museum of Modern Art.",
+        "sourceUrl": "https://louisiana.dk/en/exhibition/remedios-varo/"
+      }
+    },
+    {
+      "id": "rec-draghi-siepr-20260921",
+      "mode": "watch",
+      "kind": "Interview",
+      "status": "available",
+      "title": "Mario Draghi: Europe's 'immense complacency' is over",
+      "creator": "SIEPR Economic Summit 2026, Stanford",
+      "provider": "SIEPR / YouTube",
+      "url": "https://siepr.stanford.edu/news/mario-draghi-europes-immense-complacency-over",
+      "description": "Mario Draghi, der modtog 2026 SIEPR-prisen, diskuterer hvorfor EU efter hans vurdering har udvist 'immens selvtilfredshed', og hvor langt implementeringen af hans eget konkurrenceevnerapport fra 2024 reelt er nået.",
+      "rationale": "En direkte opfølgning fra Draghi-rapportens egen forfatter - for en læser der utvivlsomt allerede har læst resuméerne af rapporten.",
+      "topics": [
+        "eu-konkurrenceevne",
+        "draghi-rapporten",
+        "eu-politik"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {}
+}
