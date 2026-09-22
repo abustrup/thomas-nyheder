@@ -1,0 +1,805 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-09-22",
+  "date": "2026-09-22",
+  "generatedAt": "2026-09-22T04:14:08Z",
+  "readingMinutes": 11,
+  "title": "Thomas' Nyheder – 22. september 2026",
+  "dek": "EU siger nej til techskat af hensyn til Washington, USA planlægger nye baser i Grønland, og et dansk mejeribrancheindlæg regner Brexit-friktionens pris.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-eu-techskat-2026-09-22",
+      "eventKey": "eu-techgiant-skat-afvisning-2026-09",
+      "section": "Handelspolitik",
+      "headline": "EU vender tommelfingeren ned: Siger nej til skat på techgiganter",
+      "primarySourceUrl": "https://www.computerworld.dk/art/296899/eu-vender-tommelfingeren-ned-siger-nej-til-skat-paa-techgiganter",
+      "subheadline": "EU-kommissær Wopke Hoekstra afviser digitale tjenesteskatter på amerikanske techgiganter og henviser til en global OECD-løsning",
+      "body": [
+        "EU's øverste skattemyndighed har afvist at indføre afgifter på store amerikanske techselskaber som Amazon, Google og Meta. Ifølge EU-kommissær for skat, Wopke Hoekstra, bør EU vente med at beskatte techgiganternes digitale tjenester, indtil alle muligheder for en global løsning er udtømt – en henvisning til det igangværende OECD-spor Pillar 1.",
+        "Frankrig har presset på for en fælles EU-afgift, mens Frankrig, Italien, Spanien og Østrig allerede har indført nationale digitale tjenesteskatter, hvilket ifølge Financial Times har bragt dem i USA's søgelys for mulige straftold."
+      ],
+      "whyItMatters": "For en handelspolitisk praktiker er det centrale ikke skattesatsen, men hvorfor Bruxelles vælger at stå fast: ifølge Financial Times' rapportering skydes forslaget til hjørnet, fordi det ville forværre de i forvejen anstrengte relationer til USA.",
+      "analysis": "Det er endnu et eksempel på, at EU's indre lovgivning filtreres gennem transatlantiske hensyn – samme mønster som prægede forhandlingerne i BusinessEurope's US Network. Kommissionen vælger multilateral proces frem for ensidig handling, selv når det koster intern splittelse med Frankrig.",
+      "topics": [
+        "eu",
+        "handelspolitik",
+        "techgiganter",
+        "usa"
+      ],
+      "entities": [
+        "Wopke Hoekstra",
+        "EU-Kommissionen",
+        "Amazon",
+        "Google",
+        "Meta",
+        "Frankrig"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "materialFacts": [
+        "EU-kommissær Wopke Hoekstra afviser at indføre digitale tjenesteskatter på amerikanske techgiganter",
+        "Frankrig, Italien, Spanien og Østrig har allerede indført nationale digitale tjenesteskatter",
+        "EU vil i stedet afvente en global OECD-løsning (Pillar 1)"
+      ],
+      "scores": {
+        "importance": 78,
+        "decisionValue": 70,
+        "novelty": 60,
+        "sourceQuality": 75,
+        "personalRelevance": 88,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "EU-Kommissær Wopke Hoekstra afviser at indføre digitale tjenesteskatter på techgiganter som Amazon, Google og Meta, og vil i stedet afvente en global OECD-løsning.",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/296899/eu-vender-tommelfingeren-ned-siger-nej-til-skat-paa-techgiganter"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Frankrig, Italien, Spanien og Østrig har allerede indført nationale digitale tjenesteskatter, hvilket ifølge Financial Times har bragt dem i USA's søgelys for mulige straftold.",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/296899/eu-vender-tommelfingeren-ned-siger-nej-til-skat-paa-techgiganter"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "EU vender tommelfingeren ned: Siger nej til skat på techgiganter",
+          "publisher": "Computerworld",
+          "url": "https://www.computerworld.dk/art/296899/eu-vender-tommelfingeren-ned-siger-nej-til-skat-paa-techgiganter",
+          "publishedAt": "2026-09-21T13:32:00Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://www.computerworld.dk/fil/242809?width=1200&height=630&focus=1",
+        "credit": "Kilde: Computerworld",
+        "alt": "Arkivfoto: EU's flag foran Europa-Kommissionens bygning i Bruxelles",
+        "sourceUrl": "https://www.computerworld.dk/art/296899/eu-vender-tommelfingeren-ned-siger-nej-til-skat-paa-techgiganter"
+      }
+    },
+    {
+      "id": "story-groenland-baser-2026-09-22",
+      "eventKey": "usa-groenland-nye-baser-2026-09",
+      "section": "Sikkerhedspolitik",
+      "headline": "DR erfarer: USA vil etablere to nye baser i Grønland",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/groenland/dr-erfarer-usa-vil-etablere-nye-amerikanske-baser-i-groenland",
+      "subheadline": "Narsarsuaq i Sydgrønland peges på som oplagt lokation, mens lokale advarer om modstand mod permanent amerikansk tilstedeværelse",
+      "body": [
+        "USA planlægger at skrue op for sin tilstedeværelse i Grønland og vil ifølge DR's oplysninger åbne to nye militærbaser. Det er endnu uvist præcis hvor, men USA har vist interesse for lufthavnen i den sydgrønlandske bygd Narsarsuaq.",
+        "I Narsarsuaq er der skepsis over udsigten til permanent amerikansk tilstedeværelse. Museumsleder Ole Guldager siger: »At forestille sig, at vi kan bo her sammen med amerikanerne, det tror jeg ikke bliver tilfældet«."
+      ],
+      "whyItMatters": "Planerne kommer oven på ugens sikkerhedsaftale mellem Grønland, Danmark og USA og markerer endnu et skridt i den amerikanske militære optrapning i Arktis – en udvikling, der ændrer den sikkerhedspolitiske ramme, dansk erhvervsliv opererer i.",
+      "analysis": "DR's kilde er 'erfarer', ikke en officiel bekræftelse fra Pentagon eller Naalakkersuisut, så placeringen kan ændre sig. Men retningen er tydelig: fra sikkerhedsaftale til baseplaner går det hurtigt.",
+      "topics": [
+        "groenland",
+        "sikkerhedspolitik",
+        "usa",
+        "udenrigspolitik"
+      ],
+      "entities": [
+        "USA",
+        "Grønland",
+        "Narsarsuaq",
+        "Ole Guldager"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "materialFacts": [
+        "USA planlægger at åbne to nye militærbaser i Grønland ifølge DR's oplysninger",
+        "Narsarsuaq i Sydgrønland peges på som oplagt lokation",
+        "Lokale borgere udtrykker skepsis over permanent amerikansk tilstedeværelse"
+      ],
+      "scores": {
+        "importance": 85,
+        "decisionValue": 55,
+        "novelty": 75,
+        "sourceQuality": 80,
+        "personalRelevance": 45,
+        "contrast": 70
+      },
+      "claims": [
+        {
+          "text": "USA planlægger ifølge DR's oplysninger at åbne to nye militærbaser i Grønland, med Narsarsuaq som en oplagt lokation.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/groenland/dr-erfarer-usa-vil-etablere-nye-amerikanske-baser-i-groenland"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Narsarsuaq-museumsleder Ole Guldager udtrykker skepsis over udsigten til permanent amerikansk tilstedeværelse.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/groenland/dr-erfarer-usa-vil-etablere-nye-amerikanske-baser-i-groenland"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "DR erfarer: USA vil etablere to nye baser i Grønland",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/groenland/dr-erfarer-usa-vil-etablere-nye-amerikanske-baser-i-groenland",
+          "publishedAt": "2026-09-21T16:56:46Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/yeilrsym/20260909-182031-l_crop001.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Arkivfoto: Militærhelikopter over en installation, brugt af DR til historien om amerikanske baseplaner i Grønland",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/groenland/dr-erfarer-usa-vil-etablere-nye-amerikanske-baser-i-groenland"
+      }
+    },
+    {
+      "id": "story-mejeri-brexit-2026-09-22",
+      "eventKey": "mejeriforening-brexit-friktion-2026-09",
+      "section": "Handelspolitik",
+      "headline": "Mejeriforeningen: Brexit er et dyrt eksempel på, hvad friktion koster virksomhederne",
+      "primarySourceUrl": "https://www.altinget.dk/artikel/mejeriforeningen-brexit-er-et-dyrt-eksempel-paa-hvad-friktion-koster-virksomhederne",
+      "subheadline": "Mejeriforeningens Bruxelles-direktør citerer britiske OBR for at Brexit har kostet Storbritannien 4-5 pct. i tabt vækst, og hilser en kommende veterinæraftale velkommen",
+      "body": [
+        "Mejeriforeningens direktør i Bruxelles, Esben Egede Rasmussen, skriver i et debatindlæg på Altinget, at britiske Office for Budget Responsibility vurderer, at Brexit har kostet briterne 4-5 procent i tabt vækst. Handel med Storbritannien kræver nu 12-14 certifikater mod tidligere kun faktura og transportdokument.",
+        "For Arla vil en veterinæraftale – som briterne og EU forhandler om – give en markant lettelse."
+      ],
+      "whyItMatters": "Det er et casestudie i mekanikken, en tidligere formand for BusinessEuropes US Network kender indefra: handelsfriktion koster vækst, længe efter toldsatser er forhandlet på plads.",
+      "analysis": "Tallet er den britiske finansmyndigheds egen vurdering, ikke Mejeriforeningens skøn – men indlægget er skrevet af en brancheorganisation med åbenlys interesse i sagen. Pointen holder: jo mere handelspolitikken fokuserer på ikke-toldmæssige barrierer, desto mere afgørende bliver aftaler som denne.",
+      "topics": [
+        "eu",
+        "handelspolitik",
+        "brexit",
+        "landbrug-fodevarer"
+      ],
+      "entities": [
+        "Mejeriforeningen",
+        "Esben Egede Rasmussen",
+        "Storbritannien",
+        "EU",
+        "Arla",
+        "Office for Budget Responsibility"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "materialFacts": [
+        "Det britiske Office for Budget Responsibility vurderer at Brexit har kostet briterne 4-5 pct. i tabt vækst, citeret af Mejeriforeningens Bruxelles-direktør",
+        "Handel med Storbritannien kræver nu 12-14 certifikater mod tidligere kun faktura og transportdokument",
+        "Briterne og EU forhandler aktuelt om en veterinæraftale"
+      ],
+      "scores": {
+        "importance": 62,
+        "decisionValue": 75,
+        "novelty": 50,
+        "sourceQuality": 70,
+        "personalRelevance": 85,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Det britiske Office for Budget Responsibility vurderer, at Brexit har kostet briterne 4-5 pct. i tabt samfundsøkonomisk vækst.",
+          "sourceUrls": [
+            "https://www.altinget.dk/artikel/mejeriforeningen-brexit-er-et-dyrt-eksempel-paa-hvad-friktion-koster-virksomhederne"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Handel med Storbritannien kræver nu typisk 12-14 certifikater og kontroller mod tidligere blot faktura og transportdokument.",
+          "sourceUrls": [
+            "https://www.altinget.dk/artikel/mejeriforeningen-brexit-er-et-dyrt-eksempel-paa-hvad-friktion-koster-virksomhederne"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Mejeriforeningen: Brexit er et dyrt eksempel på, hvad friktion koster virksomhederne",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/artikel/mejeriforeningen-brexit-er-et-dyrt-eksempel-paa-hvad-friktion-koster-virksomhederne",
+          "publishedAt": "2026-09-21T00:00:00Z",
+          "kind": "analysis"
+        }
+      ],
+      "image": {
+        "url": "https://legacy.altinget.dk/images/article/306226/160723.jpg",
+        "credit": "Kilde: Altinget",
+        "alt": "Arkivfoto: Skibscontainere i en havn, illustration til historien om handelsfriktion efter Brexit",
+        "sourceUrl": "https://www.altinget.dk/artikel/mejeriforeningen-brexit-er-et-dyrt-eksempel-paa-hvad-friktion-koster-virksomhederne"
+      }
+    },
+    {
+      "id": "story-eu-forsvar-2026-09-22",
+      "eventKey": "eu-forsvar-tysk-fransk-uenighed-2026-09",
+      "section": "Sikkerhedspolitik",
+      "headline": "Alle vil have et stærkt Europa. Men tysk-fransk opgør viser, hvorfor det er så svært",
+      "primarySourceUrl": "https://www.altinget.dk/artikel/alle-vil-have-et-staerkere-europa-men-ingen-er-enige-om-hvad-det-betyder",
+      "subheadline": "SDU-forsker Anne Ingemann Johansen: USA vil have Europa til at bære mere af forsvarsbyrden, men vil beholde markedsadgang for amerikanske våbenproducenter",
+      "body": [
+        "Der er bred enighed om, at Europa skal styrke sin forsvarsevne. Men enigheden går i opløsning, så snart spørgsmålet er, hvordan flere penge bliver til militær kapacitet, skriver Anne Ingemann Johansen, adjunkt ved Center for War Studies på SDU.",
+        "USA presser på for, at Europa overtager en større del af forsvarsbyrden, men vil bevare amerikanske forsvarsvirksomheders adgang til det europæiske marked. Washington advarer mod EU's SAFE-facilitet, hvis krav om 65 pct. EU-indkøb kaldes »protektionistiske og ekskluderende«."
+      ],
+      "whyItMatters": "Mønstret kender læseren fra handelsforhandlinger i BusinessEurope: nationale industriinteresser vinder over fælles europæisk styrke.",
+      "analysis": "Frankrig og Tyskland strides om konkurrerende platforme, mens medlemsstaterne modsætter sig, at hver ny forsvarsmilliard ender hos nationale virksomheder. Forhindringen er konkurrerende interesser, ikke budgetternes størrelse.",
+      "topics": [
+        "eu",
+        "forsvarspolitik",
+        "sikkerhedspolitik",
+        "usa"
+      ],
+      "entities": [
+        "Anne Ingemann Johansen",
+        "Center for War Studies",
+        "SDU",
+        "Frankrig",
+        "Tyskland",
+        "USA"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "materialFacts": [
+        "SDU-forsker analyserer hvordan USA presser Europa til at overtage en større forsvarsbyrde men vil bevare markedsadgang",
+        "EU's SAFE-lånefacilitet kræver mindst 65 pct. EU-indkøb, hvilket Washington kalder 'protektionistiske og ekskluderende' regler",
+        "Frankrig og Tyskland strides om konkurrerende forsvarsplatforme frem for en fælles EU-løsning"
+      ],
+      "scores": {
+        "importance": 68,
+        "decisionValue": 60,
+        "novelty": 55,
+        "sourceQuality": 72,
+        "personalRelevance": 75,
+        "contrast": 50
+      },
+      "claims": [
+        {
+          "text": "EU's SAFE-lånefacilitet indeholder krav om at mindst 65 pct. af indkøb skal komme fra EU-producenter, hvilket Washington kalder 'protektionistiske og ekskluderende' regler.",
+          "sourceUrls": [
+            "https://www.altinget.dk/artikel/alle-vil-have-et-staerkere-europa-men-ingen-er-enige-om-hvad-det-betyder"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Frankrig og Tyskland strides om konkurrerende forsvarsplatforme (fransk Arcadia over for et tysk alternativ) frem for en fælles EU-løsning.",
+          "sourceUrls": [
+            "https://www.altinget.dk/artikel/alle-vil-have-et-staerkere-europa-men-ingen-er-enige-om-hvad-det-betyder"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Alle vil have et stærkt Europa. Men tysk-fransk opgør viser, hvorfor det er så svært",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/artikel/alle-vil-have-et-staerkere-europa-men-ingen-er-enige-om-hvad-det-betyder",
+          "publishedAt": "2026-09-21T00:00:00Z",
+          "kind": "analysis"
+        }
+      ],
+      "image": {
+        "url": "https://legacy.altinget.dk/images/article/306063/160411.jpg",
+        "credit": "Kilde: Altinget",
+        "alt": "Nato-generalsekretær Mark Rutte og Europa-Kommissionens formand Ursula von der Leyen ved en pressebriefing i Bruxelles",
+        "sourceUrl": "https://www.altinget.dk/artikel/alle-vil-have-et-staerkere-europa-men-ingen-er-enige-om-hvad-det-betyder"
+      }
+    },
+    {
+      "id": "story-esbjerg-drab-2026-09-22",
+      "eventKey": "esbjerg-mand-fundet-doed-drab-2026-09",
+      "section": "Krimi",
+      "headline": "Mand fundet død – en anholdt",
+      "primarySourceUrl": "https://nyheder.tv2.dk/krimi/2026-09-21-mand-fundet-doed-en-anholdt",
+      "subheadline": "En 37-årig mand blev fundet død i en lejlighed i Esbjerg mandag, og en 39-årig mand på adressen er sigtet for manddrab",
+      "body": [
+        "En 37-årig mand blev mandag formiddag fundet død i en lejlighed på E. Hansens Vej i Esbjerg. En 39-årig mand, der befandt sig på adressen, er anholdt og sigtet for manddrab.",
+        "Politiet har haft massiv tilstedeværelse i området, og gerningsstedet har været afspærret, mens sagen efterforskes med bistand fra Retsmedicinsk Institut. Pårørende er underrettet. Politiet afviser at oplyse, om og hvornår der bliver grundlovsforhør."
+      ],
+      "whyItMatters": "Sagen er på dette tidlige stadie en politimæssig efterforskning uden offentliggjort motiv eller kendt relation mellem de to mænd. Den er med her, fordi det er den type alvorlige hændelse, de fleste danskere ville bemærke, hvis de havde læst nyhederne selv.",
+      "analysis": "Med kun det indledende sigtelsesgrundlag kendt, og politiet tavst om et grundlovsforhør, er det for tidligt at sige noget om baggrunden. Et kommende grundlovsforhør vil typisk afklare, om sigtelsen fastholdes.",
+      "topics": [
+        "krimi",
+        "retssager",
+        "danmark"
+      ],
+      "entities": [
+        "Esbjerg",
+        "Sydøstjyllands Politi"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "materialFacts": [
+        "En 37-årig mand blev fundet død i en lejlighed i Esbjerg mandag formiddag",
+        "En 39-årig mand til stede på adressen er anholdt og sigtet for manddrab",
+        "Politiet har afvist at oplyse om og hvornår der bliver grundlovsforhør"
+      ],
+      "scores": {
+        "importance": 55,
+        "decisionValue": 20,
+        "novelty": 70,
+        "sourceQuality": 70,
+        "personalRelevance": 15,
+        "contrast": 60
+      },
+      "claims": [
+        {
+          "text": "En 37-årig mand blev fundet død i en lejlighed i Esbjerg mandag formiddag, og en 39-årig mand til stede på adressen er anholdt og sigtet for manddrab.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/krimi/2026-09-21-mand-fundet-doed-en-anholdt"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Mand fundet død – en anholdt",
+          "publisher": "TV 2",
+          "url": "https://nyheder.tv2.dk/krimi/2026-09-21-mand-fundet-doed-en-anholdt",
+          "publishedAt": "2026-09-21T10:13:26Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/3/1/6/316651ad-22d0-48a1-8366-e2900dfa47d2?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCwyMTYsMzkyNiwyMjEx&s=d574e20363691149266ce4323a55f589",
+        "credit": "Kilde: TV 2",
+        "alt": "Arkivfoto: Dansk politibil",
+        "sourceUrl": "https://nyheder.tv2.dk/krimi/2026-09-21-mand-fundet-doed-en-anholdt"
+      }
+    },
+    {
+      "id": "story-bunker-afrika-2026-09-22",
+      "eventKey": "bunker-holding-afrika-tab-2026-09",
+      "section": "Erhverv",
+      "headline": "Dansk milliardærfamilies selskab tabte over en milliard i Afrika - nu jagter det millioner hos oliemagnat",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/penge/dansk-milliardaerfamilies-selskab-tabte-over-en-milliard-i-afrika-nu-jagter-det-millioner-hos",
+      "subheadline": "Østergaard-familiens Bunker Holding fører sager i Danmark, USA, England og Senegal efter et exit fra Afrika med milliardtab",
+      "body": [
+        "Det kostede den danske milliardkoncern Bunker Holding, ejet af Østergaard-familien, over en milliard kroner at trække sig ud af Afrika i 2024. Selskabet fører nu sager i Danmark, USA, England og Senegal mod tidligere partnere for at inddrive en del af tabet.",
+        "Et tocifret millionbeløb kræves af senegalesiske Khadim Bâs selskab Der Mond Oil, en voldgiftssag har afgjort at et djiboutisk selskab skylder 8,49 mio. dollar, og 23 mio. dollar kræves af Conex Oil & Gas i Liberia. Sagerne omfatter mindst 31,49 mio. dollar plus renter."
+      ],
+      "whyItMatters": "For en rådgivningspraksis om markedsadgang og de-risking er sagen et konkret pris-punkt på Afrika-risiko: en dansk milliardfamilie tabte over en milliard kroner der.",
+      "analysis": "Sagen illustrerer, hvorfor 'China+1'-strategier ofte peger mod Afrika i teorien, men støder på partnerrisiko og svage retsmidler i praksis. Fuldt medhold vil kun dække en del af milliardtabet.",
+      "topics": [
+        "erhverv",
+        "afrika",
+        "shipping"
+      ],
+      "entities": [
+        "Bunker Holding",
+        "Østergaard-familien",
+        "Khadim Bâ",
+        "Der Mond Oil",
+        "Conex Oil & Gas",
+        "Liberia",
+        "Senegal",
+        "Red Sea Bunkering",
+        "Djibouti"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "materialFacts": [
+        "Østergaard-familiens Bunker Holding trak sig ud af Afrika i 2024 med et tab på over en milliard kroner",
+        "Selskabet fører nu sager i Danmark, USA, England og Senegal mod tidligere partnere",
+        "Sagerne DR har identificeret omfatter mindst 31,49 mio. dollar plus renter, samt et separat tocifret millionbeløb i Senegal-sagen"
+      ],
+      "scores": {
+        "importance": 60,
+        "decisionValue": 65,
+        "novelty": 60,
+        "sourceQuality": 75,
+        "personalRelevance": 78,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "Østergaard-familiens Bunker Holding trak sig ud af Afrika i 2024 med et tab på over en milliard kroner og fører nu sager mod tidligere partnere i Danmark, USA, England og Senegal.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/dansk-milliardaerfamilies-selskab-tabte-over-en-milliard-i-afrika-nu-jagter-det-millioner-hos"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "En voldgiftssag med sæde i Danmark har afgjort, at et selskab fra Djibouti (Red Sea Bunkering) skylder Bunker Holding 8,49 mio. dollar plus renter, mens et krav på 23 mio. dollar føres mod Conex Oil & Gas i Liberia ved High Court i London; de sager DR har identificeret omfatter alene mindst 31,49 mio. dollar plus renter, foruden et separat tocifret millionbeløb i sagen mod Der Mond Oil i Senegal.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/dansk-milliardaerfamilies-selskab-tabte-over-en-milliard-i-afrika-nu-jagter-det-millioner-hos"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Dansk milliardærfamilies selskab tabte over en milliard i Afrika - nu jagter det millioner hos oliemagnat",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/penge/dansk-milliardaerfamilies-selskab-tabte-over-en-milliard-i-afrika-nu-jagter-det-millioner-hos",
+          "publishedAt": "2026-09-20T07:37:00Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/wfcd3too/photo_collage-5.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Billedcollage med portrætter af to af parterne i sagen om Bunker Holdings tab i Afrika",
+        "sourceUrl": "https://www.dr.dk/nyheder/penge/dansk-milliardaerfamilies-selskab-tabte-over-en-milliard-i-afrika-nu-jagter-det-millioner-hos"
+      }
+    },
+    {
+      "id": "story-krone-krona-2026-09-22",
+      "eventKey": "norge-krone-svensk-krona-2026-09",
+      "section": "Makroøkonomi",
+      "headline": "Kronen rykker fra krona",
+      "primarySourceUrl": "https://e24.no/norsk-oekonomi/i/AravV5/kronen-rykker-fra-krona",
+      "subheadline": "Renteforskel og svag svensk økonomi har gjort den norske krone 14,5 pct. stærkere end den svenske krona siden nytår",
+      "body": [
+        "Den norske krone er styrket omkring 14,5 procent over for den svenske krona siden årsskiftet. En svensk 100-kroneseddel kostede i januar cirka 110 norske kroner, nu blot 96, viser tal citeret af E24.",
+        "Norges Bank har hævet styringsrenten til 4,25 procent, mens Riksbanken fastholder 1,75 procent. Porteføljeforvalter Olav Chen peger på svagere svensk vækst og høje energipriser, der øger efterspørgslen efter norske kroner."
+      ],
+      "whyItMatters": "Forskellen viser, hvor forskelligt to strukturelt ens økonomier reagerer på samme globale forhold – og hvad det betyder for konkurrenceevne og grænsehandel mellem to lande, der ellers minder om hinanden.",
+      "analysis": "Chen venter, at Norges Bank hæver renten yderligere ved torsdagens møde. Holder det stik, vil kronekursen sandsynligvis fortsætte med at rykke fra kronen – med konsekvenser den danske krone via eurotilknytningen ikke oplever på samme måde.",
+      "topics": [
+        "makrooekonomi",
+        "norden",
+        "valuta"
+      ],
+      "entities": [
+        "Norges Bank",
+        "Riksbanken",
+        "Olav Chen",
+        "Storebrand",
+        "Norge",
+        "Sverige"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "materialFacts": [
+        "Den norske krone er styrket ca. 14,5 pct. over for den svenske krona siden årsskiftet",
+        "Norges Bank har sat styringsrenten til 4,25 pct., mens Riksbanken fastholder 1,75 pct.",
+        "Porteføljeforvalter Olav Chen peger på svagere svensk vækst som hovedårsag"
+      ],
+      "scores": {
+        "importance": 45,
+        "decisionValue": 55,
+        "novelty": 45,
+        "sourceQuality": 68,
+        "personalRelevance": 55,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Den norske krone er styrket ca. 14,5 pct. over for den svenske krona siden årsskiftet 2026.",
+          "sourceUrls": [
+            "https://e24.no/norsk-oekonomi/i/AravV5/kronen-rykker-fra-krona"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Norges Bank har hævet styringsrenten til 4,25 pct., mens Sveriges Riksbank fastholder 1,75 pct.",
+          "sourceUrls": [
+            "https://e24.no/norsk-oekonomi/i/AravV5/kronen-rykker-fra-krona"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kronen rykker fra krona",
+          "publisher": "E24",
+          "url": "https://e24.no/norsk-oekonomi/i/AravV5/kronen-rykker-fra-krona",
+          "publishedAt": "2026-09-21T08:14:26Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://akamai.vgc.no/v2/images/d3ddb736-a389-30f4-bc45-709b2387c57b?fit=crop&h=675&upscale=true&w=1200&s=397b73fcdb1fbde908ad8181a17ae0e138340e80",
+        "credit": "Kilde: E24",
+        "alt": "Norske 200-kronesedler og betalingskort",
+        "sourceUrl": "https://e24.no/norsk-oekonomi/i/AravV5/kronen-rykker-fra-krona"
+      }
+    },
+    {
+      "id": "story-volleyball-vm-2026-09-22",
+      "eventKey": "volleyball-vm-kval-2026-09",
+      "section": "Sport",
+      "headline": "For første gang i 60 år: Danmarks volleyballherrer er VM-klar",
+      "primarySourceUrl": "https://www.dr.dk/sporten/seneste-sport/foerste-gang-i-60-aar-danmarks-volleyballherrer-er-vm-klar",
+      "subheadline": "Landsholdet tabte ottendedelsfinalen ved EM til Italien, men har allerede sikret sig en plads ved VM i Polen i 2027",
+      "body": [
+        "Danmarks herrelandshold i volleyball har kvalificeret sig til VM i 2027 i Polen – landets første VM-deltagelse siden 1966. Resultaterne ved det igangværende EM i Italien har sendt danskerne højt nok op på verdensranglisten til at sikre pladsen.",
+        "Danmark tabte søndag 0-3 til vært og forsvarende verdensmester Italien i EM-ottendedelsfinalen. »Ved VM i 1966 kom Danmark med i turneringen som erstatning efter et afbud,« skriver Volleyball Danmark om den historiske milepæl."
+      ],
+      "whyItMatters": "Cykling er læserens tætteste sportsinteresse, men danske landshold på højt internationalt niveau er altid en historie her – og 60 år er lang tid at vente på en VM-billet.",
+      "analysis": "At sikre pladsen via verdensranglisten er mindre dramatisk end en finalesejr, men resultatet er det samme: dansk herrevolleyball er tilbage på den store scene efter seks årtier i skyggen.",
+      "topics": [
+        "sport",
+        "volleyball",
+        "landshold"
+      ],
+      "entities": [
+        "Danmarks volleyballandshold",
+        "Volleyball Danmark",
+        "Polen",
+        "Italien"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "materialFacts": [
+        "Danmarks herrelandshold i volleyball har sikret VM-kvalifikation til 2027-slutrunden i Polen",
+        "Det er første VM-deltagelse i 60 år, siden 1966",
+        "Holdet tabte 0-3 til Italien i EM-ottendedelsfinalen, men var allerede sikret VM-pladsen"
+      ],
+      "scores": {
+        "importance": 50,
+        "decisionValue": 10,
+        "novelty": 80,
+        "sourceQuality": 72,
+        "personalRelevance": 60,
+        "contrast": 65
+      },
+      "claims": [
+        {
+          "text": "Danmarks herrelandshold i volleyball har sikret VM-kvalifikation til 2027-slutrunden i Polen, første gang siden 1966.",
+          "sourceUrls": [
+            "https://www.dr.dk/sporten/seneste-sport/foerste-gang-i-60-aar-danmarks-volleyballherrer-er-vm-klar"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Holdet nåede ottendedelsfinalen ved det igangværende EM i Italien og tabte 0-3 til Italien, men var allerede sikret VM-pladsen via placeringen.",
+          "sourceUrls": [
+            "https://www.dr.dk/sporten/seneste-sport/foerste-gang-i-60-aar-danmarks-volleyballherrer-er-vm-klar"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "For første gang i 60 år: Danmarks volleyballherrer er VM-klar",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/sporten/seneste-sport/foerste-gang-i-60-aar-danmarks-volleyballherrer-er-vm-klar",
+          "publishedAt": "2026-09-21T06:20:05Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/xt5d1ggp/20260628-205403-l_crop001.jpg?im=AspectCrop%3D%28700%2C394%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%28700%2C394%29",
+        "credit": "Foto: Robert Wengler, Ritzau Scanpix",
+        "alt": "Danske volleyballspillere fejrer under EM i Italien",
+        "sourceUrl": "https://www.dr.dk/sporten/seneste-sport/foerste-gang-i-60-aar-danmarks-volleyballherrer-er-vm-klar"
+      }
+    }
+  ],
+  "signals": [
+    {
+      "headline": "Milliarddyrt toldsystem finder kun halvt så mange fejl som før",
+      "url": "https://www.dr.dk/nyheder/penge/milliarddyrt-toldsystem-finder-kun-halvt-saa-mange-fejl-som-foer",
+      "publisher": "DR",
+      "section": "Penge",
+      "publishedAt": "2026-09-18T14:58:00Z",
+      "summary": "Toldstyrelsens nye kontrolsystem, som har kostet 1,2 mia. kr. og 13 års udvikling, finder overtrædelser i kun 15 pct. af udvalgte sager mod 28-29 pct. under det gamle system.",
+      "text": "Milliarddyrt toldsystem finder kun halvt så mange fejl som før"
+    },
+    {
+      "headline": "Olieselskab holder stor festdag for ny klimateknologi – efter år med skuffelser",
+      "url": "https://www.dr.dk/nyheder/viden/klima/olieselskab-holder-stor-festdag-ny-klimateknologi-efter-aar-med-skuffelser",
+      "publisher": "DR",
+      "section": "Klima",
+      "publishedAt": "2026-09-18T05:00:00Z",
+      "summary": "Kong Frederik indviede EU's første storskala CO2-lagringsanlæg i Esbjerg (Project Greensand). Teknologien leverer indtil videre kun 1,8 af de ventede 2,9 mio. tons CO2-reduktion frem mod 2030.",
+      "text": "Olieselskab holder stor festdag for ny klimateknologi – efter år med skuffelser"
+    },
+    {
+      "headline": "EU vil energimærke datacentre",
+      "url": "https://www.altinget.dk/eu/artikel/eu-vil-energimaerke-datacentre",
+      "publisher": "Altinget",
+      "section": "EU",
+      "publishedAt": "2026-09-21T15:00:00Z",
+      "summary": "EU-Kommissionen foreslår A-G energimærkning af datacentre efter samme model som køleskabe. Datacentre ventes at stå for over en femtedel af Danmarks elforbrug i 2030.",
+      "text": "EU vil energimærke datacentre"
+    },
+    {
+      "headline": "Mulig skypumpe flåede Margits tag af under familiemiddag",
+      "url": "https://www.dr.dk/nyheder/indland/mulig-skypumpe-flaaede-margits-tag-af-under-familiemiddag",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-09-21T17:39:00Z",
+      "summary": "En formodet skypumpe ramte Hvalsø søndag aften og rev en del af taget af en lejlighed. Ingen kom til skade.",
+      "text": "Mulig skypumpe flåede Margits tag af under familiemiddag"
+    },
+    {
+      "headline": "Forruden revnede i forsvarsministers fly",
+      "url": "https://www.dr.dk/nyheder/indland/forruden-revnede-i-forsvarsministers-fly",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-09-21T17:39:00Z",
+      "summary": "Forsvarsminister Jeppe Bruus' Hercules-fly fik revnet forruden på vej hjem fra Letland og måtte omdirigeres til Aalborg.",
+      "text": "Forruden revnede i forsvarsministers fly"
+    },
+    {
+      "headline": "Organisation har fået indleveret rekordmange katte",
+      "url": "https://www.dr.dk/nyheder/seneste/organisation-har-faaet-indleveret-rekordmange-katte",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-09-21T05:52:00Z",
+      "summary": "Dyrenes Beskyttelses otte internater modtog 3.767 katte fra 1. maj til 31. august – 227 flere end samme periode sidste år.",
+      "text": "Organisation har fået indleveret rekordmange katte"
+    },
+    {
+      "headline": "Forsvarer vil bruge 'Hestemafiaens' billeder i sag om ulovlig fodring: 'Anklagemyndigheden vil forhindre, at sandheden kommer frem'",
+      "url": "https://www.dr.dk/nyheder/indland/forsvarer-vil-bruge-hestemafiaens-billeder-i-sag-om-ulovlig-fodring-anklagemyndigheden-vil",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-09-21T16:35:00Z",
+      "summary": "Retten i Randers skal afgøre om billeder fra fotograf Per Øxenholt kan bruges som bevis i sagen om ulovlig fodring ved Molslaboratoriet. Afgørelse ventes 28. september.",
+      "text": "Forsvarer vil bruge 'Hestemafiaens' billeder i sag om ulovlig fodring: 'Anklagemyndigheden vil forhindre, at sandheden kommer frem'"
+    },
+    {
+      "headline": "En af landets fattigste kommuner har landet budget: 'Det er en katastrofe'",
+      "url": "https://www.dr.dk/nyheder/indland/en-af-landets-fattigste-kommuner-har-landet-budget-det-er-en-katastrofe",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-09-21T19:33:00Z",
+      "summary": "Langeland Kommune har vedtaget besparelser på ca. 24 mio. kr. næste år, efter kommunen kun fik 68 af de ønskede 115 mio. kr. i statslige tilskud.",
+      "text": "En af landets fattigste kommuner har landet budget: 'Det er en katastrofe'"
+    },
+    {
+      "headline": "Bilist fangede dreng efter stenkast fra bro",
+      "url": "https://nyheder.tv2.dk/samfund/2026-09-20-bilist-fangede-dreng-efter-stenkast-fra-bro",
+      "publisher": "TV 2",
+      "section": "Samfund",
+      "publishedAt": "2026-09-20T10:53:00Z",
+      "summary": "Tre drenge kastede sten fra en bro over Silkeborgmotorvejen lørdag aften. Sagen efterforskes som fareforvoldelse.",
+      "text": "Bilist fangede dreng efter stenkast fra bro"
+    },
+    {
+      "headline": "Bilister med ADHD kan fejlagtigt være sigtet for narkokørsel",
+      "url": "https://www.dr.dk/nyheder/indland/bilister-med-adhd-kan-fejlagtigt-vaere-sigtet-narkokoersel",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-09-21T13:41:00Z",
+      "summary": "Justitsministeriets gennemgang af 392 sager viser, at ADHD-medicinerede bilister kan være fejlagtigt sigtet for narkokørsel.",
+      "text": "Bilister med ADHD kan fejlagtigt være sigtet for narkokørsel"
+    },
+    {
+      "headline": "Spar 6 kroner per liter: Derfor tanker svenskerne meget billigere end os",
+      "url": "https://www.dr.dk/nyheder/indland/spar-6-kroner-per-liter-derfor-tanker-svenskerne-meget-billigere-end-os",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-09-21T14:40:00Z",
+      "summary": "Svenskerne tanker op til 6 kr. per liter billigere end danskerne, fordi Sverige har fået lov at sætte brændstofafgifter under EU's minimum.",
+      "text": "Spar 6 kroner per liter: Derfor tanker svenskerne meget billigere end os"
+    },
+    {
+      "headline": "Danmark til VM med spændt livrem: - Er alle indforstået med",
+      "url": "https://sport.tv2.dk/cykling/2026-09-20-danmark-til-vm-med-spaendt-livrem-er-alle-indforstaaet-med",
+      "publisher": "TV 2",
+      "section": "Sport",
+      "publishedAt": "2026-09-20T05:42:00Z",
+      "summary": "Dansk Cykle Union er økonomisk presset ved landevejs-VM i Montreal, hvor flere junior- og U23-ryttere betyder mindre støtteapparat end normalt.",
+      "text": "Danmark til VM med spændt livrem: - Er alle indforstået med"
+    },
+    {
+      "headline": "VM-overraskelse i København – danmarksrekorden slået",
+      "url": "https://sport.tv2.dk/atletik/2026-09-20-vm-overraskelse-i-koebenhavn-danmarksrekorden-slaaet",
+      "publisher": "TV 2",
+      "section": "Sport",
+      "publishedAt": "2026-09-20T08:59:00Z",
+      "summary": "Svenske Andreas Almgren vandt overraskende halvmaraton-guld ved VM i København. Danske Jacob Simonsen blev nr. 16 og forbedrede sin egen danske rekord med 25 sekunder.",
+      "text": "VM-overraskelse i København – danmarksrekorden slået"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-trade-war-book-2026-09-22",
+      "mode": "read",
+      "kind": "Bog",
+      "status": "available",
+      "title": "How to Win a Trade War: An Optimistic Guide to an Anxious Global Economy",
+      "creator": "Soumaya Keynes og Chad P. Bown",
+      "provider": "Simon & Schuster",
+      "url": "https://www.porchlightbooks.com/products/how-to-win-a-trade-war-soumaya-keynes-9781668221310",
+      "commitment": "En bog, læses over flere sessioner",
+      "description": "FT-kommentator Soumaya Keynes og Peterson Institute-økonom Chad P. Bown gennemgår, hvorfor den regelbaserede handelsorden er brudt sammen, og hvilke redskaber - toldmure, eksportrestriktioner, målrettede investeringer - der reelt virker i den nye æra.",
+      "rationale": "Skrevet af to af de mest respekterede nulevende stemmer om handelspolitik, direkte i forlængelse af det felt, hvor du selv forhandlede som formand for BusinessEuropes US Network - uden nemme svar, men med en ærlig kortlægning af de politiske afvejninger.",
+      "topics": [
+        "handelspolitik",
+        "usa",
+        "eu"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-john-deere-podcast-2026-09-22",
+      "mode": "listen",
+      "kind": "Podcast",
+      "status": "available",
+      "title": "John Deere CEO: Farming's Future, Autonomous Tractors and AI in the Field",
+      "creator": "Nicolai Tangen (In Good Company)",
+      "provider": "Norges Bank Investment Management",
+      "url": "https://podcasts.apple.com/no/podcast/john-deere-ceo-farmings-future-autonomous-tractors/id1614211565?i=1000787298658",
+      "availability": "Apple Podcasts, gratis",
+      "commitment": "38 minutter",
+      "description": "Nicolai Tangen interviewer John Deere-topchef John May om, hvordan en 190 år gammel traktorproducent er blevet et AI-styret teknologiselskab - abonnementsbaseret landbrugsteknologi, ambitionen om fuldautonom majsdyrkning inden 2030, og konflikten om 'right to repair'.",
+      "rationale": "Et konkret, ikke-abstrakt eksempel på industriel transformation og ledelseskultur i en gammel, etableret industrivirksomhed - relevant for din interesse i executive-kultur og industri som praksis, ikke som stemning.",
+      "topics": [
+        "industri",
+        "teknologi",
+        "ledelse"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-africa-essay-2026-09-22",
+      "mode": "read",
+      "kind": "Essay",
+      "status": "available",
+      "title": "Africa Is the Key to Sustained Global Growth",
+      "creator": "Hippolyte Fofack",
+      "provider": "Project Syndicate",
+      "url": "https://www.project-syndicate.org/commentary/africa-youth-bulge-industrial-potential-could-drive-global-growth-in-21st-century-by-hippolyte-fofack-2026-05",
+      "commitment": "10 minutter",
+      "description": "Tidligere Afrexim Bank-cheføkonom Hippolyte Fofack argumenterer for, at Afrikas demografiske momentum og industrialiseringspotentiale - fra bauxit i minen til forarbejdet aluminium - gør kontinentet centralt for global vækst i takt med at aldrende økonomier taber pusten.",
+      "rationale": "Rammer direkte din interesse for vækstmarkeder og Afrika som industriel mulighed frem for bistandscase - samme kontinent, du selv byggede DI's tilstedeværelse i, set gennem en anden linse end den du typisk møder.",
+      "topics": [
+        "afrika",
+        "vaekstmarkeder",
+        "industripolitik"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-aros-turrell-2026-09-22",
+      "mode": "experience",
+      "kind": "Udstilling",
+      "status": "available",
+      "title": "As Seen Below – The Dome, a Skyspace by James Turrell",
+      "creator": "James Turrell",
+      "provider": "ARoS Aarhus Kunstmuseum",
+      "url": "https://www.aros.dk/en/aros-collection/as-seen-below-the-dome-a-skyspace-by-james-turrell/",
+      "availability": "Permanent installation, ARoS, Aarhus",
+      "commitment": "30-60 minutter",
+      "description": "Turrells 100. Skyspace i rækken, som han selv kalder sit mest ambitiøse til dato: en kuppel med en åbning direkte mod himlen, der skifter mellem 'Open Sky' og en programmeret 'Colour Shift'-lystilstand. Åbnede 19. juni 2026 som kulmination på ARoS' udvidelsesprojekt 'The Next Level'.",
+      "rationale": "En sjælden lejlighed til at opleve et af nutidens største lyskunstværker på dansk grund, helt uden for arbejdsprofilen - præcis den type tidløse, substantielle kulturoplevelse, der er værd at prioritere en formiddag på.",
+      "topics": [
+        "kunst",
+        "kultur"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://www.aros.dk/media/ctrbgvpp/pano_sunet_np_florian-holzherr_2026_13.jpg?width=1200&height=630&v=1dd03af1b624c90",
+        "credit": "Foto: Florian Holzherr © ARoS 2026",
+        "alt": "Solopgang set gennem åbningen i Turrells kuppelformede Skyspace-installation på ARoS",
+        "sourceUrl": "https://www.aros.dk/en/aros-collection/as-seen-below-the-dome-a-skyspace-by-james-turrell/"
+      }
+    }
+  ],
+  "quality": {
+    "verification": 82,
+    "sourceDiversity": 75,
+    "freshness": 78
+  }
+}
