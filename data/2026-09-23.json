@@ -1,0 +1,806 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-09-23",
+  "date": "2026-09-23",
+  "generatedAt": "2026-09-23T04:27:45Z",
+  "readingMinutes": 12,
+  "title": "Thomas' Nyheder",
+  "dek": "Novo Nordisks kapitalmarkedsdag afslører et bytteforholdsgab på 161 milliarder kroner, Danmark går forrest i et FN-krav om AI-tilsyn uden USA og Kina, og fire flexselskaber for sårbare passagerer går konkurs under en narkodømt tidligere ejer.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "thomas-story-novo-2026-09-23",
+      "eventKey": "novo-nordisk-vaekstillusion-2026-09",
+      "materialFacts": [
+        "Novo-aktien faldt 7,65 pct. efter kapitalmarkedsdagen 21. september",
+        "13.000 medarbejdere har forladt Novo siden fyringsvarslet i november 2025",
+        "Dansk Erhverv: bytteforholdskorrigeret BNP-vækst for 2026 er 0,1 pct., ikke 3,7 pct."
+      ],
+      "section": "Erhverv",
+      "headline": "Høj BNP-vækst, men stilstand i velstanden",
+      "primarySourceUrl": "https://www.danskerhverv.dk/politik-og-analyser/analyser/2026/september/hoj-bnp-vakst-men-stilstand-i-velstanden",
+      "subheadline": "Dansk Erhverv: Renser man BNP-tallet for Novo Nordisks faldende eksportpriser, er væksten kun 0,1 procent - dagen efter at Novo-aktien styrtdykkede på en skuffende kapitalmarkedsdag",
+      "body": [
+        "Dansk Erhverv har regnet Danmarks rekordvækst om: Renset for det forringede bytteforhold er 2026-væksten kun 0,1 procent, ikke de officielle 3,7. Eksportpriserne falder 2 procent i år - varer alene 4,9 procent - mens importpriserne stiger 3,1 procent. Ved årets udgang når gabet mellem nominel og bytteforholdskorrigeret BNP 161 milliarder kroner i 2020-priser.",
+        "Årsagen har et navn: Novo Nordisk. Aktien faldt 7,65 procent, da koncernen på en kapitalmarkedsdag i London præsenterede ambitioner for 2030 og 2035 uden ny finansiel guidance. Topchef Mike Doustdar bekræftede, at 13.000 medarbejdere har forladt Novo siden fyringsvarslet i november 2025 - oven i de amerikanske prisnedsættelser, der trækker eksportpriserne ned."
+      ],
+      "whyItMatters": "Når landets største eksportvare bliver billigere at sælge, ser BNP-tallet stadig flot ud - men det er ikke det samme som mere velstand. Læs vækstprognoser med et blik på bytteforholdet, ikke kun væksttallet.",
+      "analysis": "Novos egne 2030-2035-mål - 60 millioner patienter, 150 milliarder kroner i salg fra nye lægemidler - holder historien om eksportsucces i live. Men de løser ikke regnestykket: prisen er allerede betalt i indtægter, Danmark ikke længere får.",
+      "topics": [
+        "novo-nordisk",
+        "pharma-concentration-risk",
+        "export-machinery",
+        "gdp-quality"
+      ],
+      "entities": [
+        "Novo Nordisk",
+        "Mike Doustdar",
+        "Dansk Erhverv"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 90,
+        "decisionValue": 78,
+        "novelty": 82,
+        "sourceQuality": 82,
+        "personalRelevance": 95,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "Novo Nordisk-aktien faldt 7,65 pct. på kapitalmarkedsdagen 21. september 2026, og CEO Mike Doustdar bekræftede, at 13.000 medarbejdere har forladt selskabet siden november 2025",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/live/business/2026-09-21-skaebnedag-for-novo"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Bytteforholdskorrigeret BNP-vækst for 2026 er 0,1 pct. mod en officiel prognose på 3,7 pct.; gabet når 161 mia. kr. (2020-priser) ved udgangen af 2026",
+          "sourceUrls": [
+            "https://www.danskerhverv.dk/politik-og-analyser/analyser/2026/september/hoj-bnp-vakst-men-stilstand-i-velstanden"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Høj BNP-vækst, men stilstand i velstanden",
+          "publisher": "Dansk Erhverv",
+          "url": "https://www.danskerhverv.dk/politik-og-analyser/analyser/2026/september/hoj-bnp-vakst-men-stilstand-i-velstanden",
+          "publishedAt": "2026-09-22T11:27:56Z",
+          "kind": "analysis"
+        },
+        {
+          "title": "Skæbnedag for Novo",
+          "publisher": "TV 2",
+          "url": "https://nyheder.tv2.dk/live/business/2026-09-21-skaebnedag-for-novo",
+          "publishedAt": "2026-09-21T05:45:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://www.danskerhverv.dk/contentassets/78e307ee67e748bf8c9253a1e9e83f3b/kreakom-dansk-erhverv-dobbeltmedlemskab-c3c5NDVmWDdqM1ZoYUJSQytuMCtnc25sNlFJPQ.jpg",
+        "credit": "Kilde: Dansk Erhverv",
+        "alt": "Høj BNP-vækst, men stilstand i velstanden",
+        "sourceUrl": "https://www.danskerhverv.dk/politik-og-analyser/analyser/2026/september/hoj-bnp-vakst-men-stilstand-i-velstanden"
+      }
+    },
+    {
+      "id": "thomas-story-euregler-2026-09-23",
+      "eventKey": "eu-regler-bremser-foedevareinnovation-2026-09",
+      "materialFacts": [
+        "EU-godkendelse af nye fødevarer tager 2-3+ år i praksis mod 18 måneder på papiret",
+        "Ti biosolutions-virksomheder interviewet; 4.500 danske job knyttet til biosolutions i fødevarer",
+        "Dansk Erhverv og Biosolutions Forum+ foreslår en regulatorisk sandkasse"
+      ],
+      "section": "EU og erhverv",
+      "headline": "Førende virksomheder i ny rapport: EU-regler bremser nye fødevarer i årevis",
+      "primarySourceUrl": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/september/forende-virksomheder-i-ny-rapport-eu-regler-bremser-nye-fodevarer-i-arevis2",
+      "subheadline": "Ny rapport fra Dansk Erhverv og Biosolutions Forum+: EU's godkendelse af nye fødevarer tager 2-3 år i praksis, selvom fristen på papiret er 18 måneder",
+      "body": [
+        "Ti biosolutions-virksomheder - heriblandt Novonesis, Arla Foods Ingredients og Chromologics - fortæller i en ny rapport fra Dansk Erhverv og Biosolutions Forum+, at EU's godkendelse af nye fødevarer tager to til tre år i praksis. På papiret er fristen 18 måneder, men gentagne informationskrav sætter godkendelsen på pause igen og igen.",
+        "Cirka 4.500 danske job er knyttet til biosolutions i fødevarer. Direktør Anne Lerche kalder det en styrkeposition med stort potentiale, som bureaukratiet forhindrer i at blive indløst."
+      ],
+      "whyItMatters": "Godkendelsestiden er ikke en administrativ detalje - den afgør, om dansk forskning i nye proteiner og enzymer når markedet, før konkurrenter uden for EU gør.",
+      "analysis": "Dansk Erhverv foreslår en regulatorisk sandkasse, hvor virksomheder tidligt kan afklare krav og dokumentation - præcis den slags konkrete forenkling, EU's konkurrenceevne-dagsorden efterlyser, men sjældent leverer.",
+      "topics": [
+        "eu-regulation",
+        "business-conditions",
+        "biosolutions"
+      ],
+      "entities": [
+        "Dansk Erhverv",
+        "Biosolutions Forum+",
+        "Novonesis",
+        "Anne Lerche"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 62,
+        "decisionValue": 58,
+        "novelty": 72,
+        "sourceQuality": 72,
+        "personalRelevance": 78,
+        "contrast": 30
+      },
+      "claims": [
+        {
+          "text": "EU-godkendelse af nye fødevarer tager 2-3+ år i praksis mod 18 måneder på papiret; ti virksomheder interviewet; 4.500 danske job knyttet til biosolutions i fødevarer",
+          "sourceUrls": [
+            "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/september/forende-virksomheder-i-ny-rapport-eu-regler-bremser-nye-fodevarer-i-arevis2"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Førende virksomheder i ny rapport: EU-regler bremser nye fødevarer i årevis",
+          "publisher": "Dansk Erhverv",
+          "url": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/september/forende-virksomheder-i-ny-rapport-eu-regler-bremser-nye-fodevarer-i-arevis2",
+          "publishedAt": "2026-09-21T00:00:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://danskerhverv.imgix.net/contentassets/2ad43250e6ba4df2b6bec71c7d474c58/spora_besoeg-RDlGYUwzb0tJMGE4SVhiNlRFbHcwQlE2VEY0PQ.jpg",
+        "credit": "Kilde: Dansk Erhverv",
+        "alt": "Besøg hos biosolutions-virksomheden Spora, en af de ti virksomheder bag rapporten om EU's godkendelsestider",
+        "sourceUrl": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/september/forende-virksomheder-i-ny-rapport-eu-regler-bremser-nye-fodevarer-i-arevis2"
+      }
+    },
+    {
+      "id": "thomas-story-bavariannordic-2026-09-23",
+      "eventKey": "tarja-stenvall-bavarian-nordic-ceo-2026-09",
+      "materialFacts": [
+        "Tarja Stenvall udnævnt CEO for Bavarian Nordic fra 15. oktober 2026",
+        "Kommer fra Sanofi, hvor hun ledede en global diabetes/hjerte-kar-forretning på 10 mia. euro",
+        "Afløser Paul Chaplin efter en omfattende søgeproces"
+      ],
+      "section": "Personer",
+      "headline": "Bavarian Nordic udnævner Tarja Stenvall til administrerende direktør",
+      "primarySourceUrl": "https://www.globenewswire.com/news-release/2026/09/17/3363682/0/da/bavarian-nordic-udn%C3%A6vner-tarja-stenvall-til-administrerende-direkt%C3%B8r.html",
+      "subheadline": "Sanofi-veteran med ansvar for en forretning ti gange Bavarian Nordics egen omsætning tiltræder som ny topchef 15. oktober",
+      "body": [
+        "Bavarian Nordic har efter en omfattende søgeproces udnævnt Tarja Stenvall som ny administrerende direktør. Hun tiltræder 15. oktober og afløser Paul Chaplin. Stenvall har over 20 års ledelseserfaring fra Sanofi, AstraZeneca og Pfizer, og kommer senest fra Sanofi - hvor hun siden 2014 har ledet en diabetes- og hjerte-kar-forretning med omsætning på 10 milliarder euro.",
+        "Bestyrelsesformand Anne Louise Eberhard fremhæver, at Stenvall kombinerer strategisk vision med bred erfaring fra den globale lægemiddel- og vaccineindustri."
+      ],
+      "whyItMatters": "En ny topchef i et børsnoteret dansk vaccineselskab rækker ud over Bavarian Nordic selv: endnu en brik i spillet om, hvem der leder Danmarks life science-sektor.",
+      "analysis": "At hente en veteran fra en forretning langt større end Bavarian Nordics egen signalerer, at bestyrelsen vil have en direktør, der kan skalere selskabet - ikke blot forvalte det.",
+      "topics": [
+        "personnel",
+        "biotek",
+        "vaccineindustri"
+      ],
+      "entities": [
+        "Tarja Stenvall",
+        "Bavarian Nordic",
+        "Paul Chaplin",
+        "Anne Louise Eberhard"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 68,
+        "novelty": 45,
+        "sourceQuality": 85,
+        "personalRelevance": 85,
+        "contrast": 20
+      },
+      "claims": [
+        {
+          "text": "Tarja Stenvall udnævnt CEO for Bavarian Nordic fra 15. oktober 2026, kommer fra Sanofi hvor hun ledede en global diabetes/hjerte-kar-forretning på 10 mia. euro",
+          "sourceUrls": [
+            "https://www.globenewswire.com/news-release/2026/09/17/3363682/0/da/bavarian-nordic-udn%C3%A6vner-tarja-stenvall-til-administrerende-direkt%C3%B8r.html"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Bavarian Nordic udnævner Tarja Stenvall til administrerende direktør",
+          "publisher": "GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/09/17/3363682/0/da/bavarian-nordic-udn%C3%A6vner-tarja-stenvall-til-administrerende-direkt%C3%B8r.html",
+          "publishedAt": "2026-09-17T05:55:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "thomas-story-aiun-2026-09-23",
+      "eventKey": "danmark-20-nationer-ai-tilsyn-fn-2026-09",
+      "materialFacts": [
+        "20 lande plus EU fremlagde 22. september en erklæring om internationalt AI-tilsyn",
+        "USA og Kina underskrev ikke, heller ikke Frankrig, Italien, Polen eller Storbritannien",
+        "Kravet er et IAEA-lignende tilsynsorgan med bindende test og evalueringer"
+      ],
+      "section": "Verden og AI",
+      "headline": "Danmark og 19 andre lande fremlægger omfattende AI-forslag: Vil have kontrol med AI-udviklingen",
+      "primarySourceUrl": "https://www.computerworld.dk/art/296904/danmark-og-19-andre-lande-fremlaegger-omfattende-ai-forslag-vil-have-kontrol-med-ai-udviklingen",
+      "subheadline": "20 lande og EU kræver ved FN et IAEA-lignende AI-tilsynsorgan - USA og Kina holder sig udenfor",
+      "body": [
+        "Danmark er blandt 20 lande og EU, der ved FN's Generalforsamling har fremlagt en erklæring om AI-tilsyn. Sammen med Finland, Tyskland, Holland og Canada kræver landene et organ som Det Internationale Atomenergiagentur til at overvåge AI, med krav om sikkerhedsprotokoller og uafhængige evalueringer.",
+        "USA og Kina har ikke underskrevet - heller ikke Frankrig, Italien, Polen eller Storbritannien. Finlands præsident Stubb, der fremlagde initiativet, sagde, AI-selskaber skal forpligtes til sikkerhedsprotokoller, og at kontrol vil være i både USA's og Kinas interesse."
+      ],
+      "whyItMatters": "At Danmark går forrest i en koalition, de to AI-supermagter holder sig ude af, er et markant valg - et ekko af den multilaterale koordinering, dansk erhvervsliv længe har efterspurgt over for USA.",
+      "analysis": "Uden USA og Kina er erklæringen mest en hensigtserklæring - men den viser, hvor koalitionen for bindende AI-regler samler sig.",
+      "topics": [
+        "ai-governance",
+        "denmark",
+        "un-general-assembly",
+        "eu-policy"
+      ],
+      "entities": [
+        "Danmark",
+        "Finland",
+        "Alexander Stubb",
+        "Ursula von der Leyen",
+        "USA",
+        "Kina"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 76,
+        "decisionValue": 55,
+        "novelty": 85,
+        "sourceQuality": 78,
+        "personalRelevance": 62,
+        "contrast": 48
+      },
+      "claims": [
+        {
+          "text": "20 lande plus EU fremlagde 22. september en erklæring med krav om et IAEA-lignende AI-tilsynsorgan; USA og Kina underskrev ikke",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/296904/danmark-og-19-andre-lande-fremlaegger-omfattende-ai-forslag-vil-have-kontrol-med-ai-udviklingen"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Danmark og 19 andre lande fremlægger omfattende AI-forslag: Vil have kontrol med AI-udviklingen",
+          "publisher": "Computerworld DK",
+          "url": "https://www.computerworld.dk/art/296904/danmark-og-19-andre-lande-fremlaegger-omfattende-ai-forslag-vil-have-kontrol-med-ai-udviklingen",
+          "publishedAt": "2026-09-22T05:53:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://www.computerworld.dk/fil/242813?width=1200&height=630&focus=1",
+        "credit": "Kilde: Computerworld DK",
+        "alt": "Illustration til historien om de 20 landes fælles AI-erklæring ved FN's Generalforsamling",
+        "sourceUrl": "https://www.computerworld.dk/art/296904/danmark-og-19-andre-lande-fremlaegger-omfattende-ai-forslag-vil-have-kontrol-med-ai-udviklingen"
+      }
+    },
+    {
+      "id": "thomas-story-agenticai-2026-09-23",
+      "eventKey": "agent-ai-bankaktier-2026-09",
+      "materialFacts": [
+        "AI-agenter (Instinct, Muse) kan autonomt gennemføre køb af forsikring og finansielle produkter",
+        "Amerikanske bankaktier er faldet massivt de seneste dage",
+        "KBC har størst forsikringseksponering med cirka 20 pct. af indtægter fra skadesforsikring"
+      ],
+      "section": "Finans og AI",
+      "headline": "AI-revolutionen rammer nu bank-aktier: Læs her hvad det betyder",
+      "primarySourceUrl": "https://ugebrev.dk/finans/ai-revolutionen-rammer-nu-bank-aktier-laes-her-hvad-det-betyder/",
+      "subheadline": "AI-agenter, der selv kan købe forsikring og finansielle produkter uden om banken, har sendt amerikanske bankaktier ned - Goldman Sachs advarer om truslen mod forretningsmodellen",
+      "body": [
+        "Nye AI-agenter som Instinct og Muse kan på egen hånd booke rejser og restaurantbord - og finde og købe forsikringer og finansielle produkter uden om banken. En Goldman Sachs-handler siger, man kan spørge Instinct om stort set alt, og at agenten løser opgaver på minutter, som ellers tager timer.",
+        "De seneste dage er amerikanske bankaktier faldet massivt, mens europæiske holder stand. Belgiske KBC har størst eksponering med omkring 20 procent af forsikringsindtægter i skadesforsikring, mens Caixa og Intesa ligger på 3-4 procent."
+      ],
+      "whyItMatters": "Hvis AI-agenter for alvor vælger produkter på kunders vegne, mister banker og forsikringsselskaber den direkte kunderelation, forretningsmodellen bygger på - ikke kun nogle gebyrer.",
+      "analysis": "Det er tidligt, og faldet er drevet af forventninger, ikke tabte kunder. Men at en Goldman-handler selv rejser advarslen, er værd at bemærke - ikke kun tech-optimisme.",
+      "topics": [
+        "ai-industry-intersection",
+        "financial-sector",
+        "agentic-ai"
+      ],
+      "entities": [
+        "Goldman Sachs",
+        "Gaelle Jarrousse",
+        "KBC",
+        "Visa",
+        "Mastercard"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 73,
+        "decisionValue": 66,
+        "novelty": 85,
+        "sourceQuality": 80,
+        "personalRelevance": 72,
+        "contrast": 50
+      },
+      "claims": [
+        {
+          "text": "AI-agenter (Instinct, Muse) kan autonomt gennemføre køb af forsikring og finansielle produkter; amerikanske bankaktier faldt massivt; KBC har cirka 20 pct. forsikringseksponering i skadesforsikring",
+          "sourceUrls": [
+            "https://ugebrev.dk/finans/ai-revolutionen-rammer-nu-bank-aktier-laes-her-hvad-det-betyder/"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "AI-revolutionen rammer nu bank-aktier: Læs her hvad det betyder",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/finans/ai-revolutionen-rammer-nu-bank-aktier-laes-her-hvad-det-betyder/",
+          "publishedAt": "2026-09-22T18:33:00Z",
+          "kind": "analysis"
+        }
+      ]
+    },
+    {
+      "id": "thomas-story-alibabaxi-2026-09-23",
+      "eventKey": "alibaba-zhenwu-v900-xi-washington-2026-09",
+      "materialFacts": [
+        "Alibaba løftede sløret for Zhenwu V900, hævdet Kinas mest kraftfulde AI-chip",
+        "Planlagt ny model på 5-10 billioner parametre, over 20 GW regnekraft i 2032",
+        "Timet dage før Xi Jinpings statsbesøg i Washington 23.-25. september"
+      ],
+      "section": "Verden og teknologi",
+      "headline": "Alibaba says it built the 'most powerful AI chip in China' as the country races to catch up with the U.S.",
+      "primarySourceUrl": "https://fortune.com/2026/09/22/alibaba-powerful-ai-chip-xi-trump-us/",
+      "subheadline": "Alibabas nye Zhenwu V900-chip lanceres dage før Xi Jinpings første besøg i Det Hvide Hus i 11 år, hvor AI, handel og told ventes på dagsordenen",
+      "body": [
+        "Alibaba løftede tirsdag sløret for Zhenwu V900 - en chip, topchef Eddie Wu kalder den mest kraftfulde i Kina i dag, tre gange kraftigere end forgængeren Zhenwu M890. Selskabet planlægger en ny model på op mod 10 billioner parametre, mod 2,4 billioner i Qwen3.8-Max, og over 20 gigawatt regnekraft i 2032.",
+        "Lanceringen kommer dage før Xi Jinping onsdag ankommer til Washington til sit første besøg i Det Hvide Hus i 11 år. Ifølge Fortune ventes AI, handel og told øverst på dagsordenen, når Xi mødes med Donald Trump."
+      ],
+      "whyItMatters": "Timingen er næppe tilfældig: Kina viser sit AI-hardware-kort, mens landets præsident sætter sig til bords om netop de teknologier, USA forsøger at holde Kina ude af.",
+      "analysis": "For danske virksomheder med kinesiske forsyningskæder er det endnu et signal om, at Kinas chip-uafhængighed rykker hurtigere frem, end eksportkontrollen kan følge med - uanset hvad der aftales i Washington.",
+      "topics": [
+        "ai-chips",
+        "china-tech",
+        "us-china-relations",
+        "semiconductors"
+      ],
+      "entities": [
+        "Alibaba",
+        "Eddie Wu",
+        "Xi Jinping",
+        "Donald Trump"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 78,
+        "decisionValue": 55,
+        "novelty": 82,
+        "sourceQuality": 75,
+        "personalRelevance": 65,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "Alibaba lancerede Zhenwu V900-chippen 22. september, tre gange kraftigere end forgængeren; Xi Jinping ankommer til Washington onsdag til statsbesøg med AI, handel og told på dagsordenen",
+          "sourceUrls": [
+            "https://fortune.com/2026/09/22/alibaba-powerful-ai-chip-xi-trump-us/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Xi Jinpings besøg 23.-25. september er hans første i Det Hvide Hus i 11 år, efter hans seneste statsbesøg i USA i 2015",
+          "sourceUrls": [
+            "https://en.wikipedia.org/wiki/2026_state_visit_by_Xi_Jinping_to_the_United_States"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Alibaba says it built the 'most powerful AI chip in China' as the country races to catch up with the U.S.",
+          "publisher": "Fortune (AP)",
+          "url": "https://fortune.com/2026/09/22/alibaba-powerful-ai-chip-xi-trump-us/",
+          "publishedAt": "2026-09-22T13:36:00Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "2026 state visit by Xi Jinping to the United States",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/2026_state_visit_by_Xi_Jinping_to_the_United_States",
+          "publishedAt": "2026-09-21T00:00:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://fortune.com/img-assets/wp-content/uploads/2026/09/AP26265192364858-e1790082843650.jpg?resize=1200,600",
+        "credit": "Kilde: Fortune (AP)",
+        "alt": "The new chip is part of Beijing’s push for homegrown computing power as U.S. export restrictions limit access to advanced technology.",
+        "sourceUrl": "https://fortune.com/2026/09/22/alibaba-powerful-ai-chip-xi-trump-us/"
+      }
+    },
+    {
+      "id": "thomas-story-flexkonkurs-2026-09-23",
+      "eventKey": "flexselskaber-konkurs-233mio-2026-09",
+      "materialFacts": [
+        "Fire flexselskaber erklæret konkurs efter offentlig kørsel for over 233 mio. kr. siden 2023",
+        "Selskaberne transporterede ældre, patienter og børn med særlige behov",
+        "Ejerskifte fra narkodømt tidligere ejer undersøges for hvidvask og formueskjul"
+      ],
+      "section": "Danmark",
+      "headline": "Fire flexselskaber med offentlig kørsel for 233 millioner erklæret konkurs",
+      "primarySourceUrl": "https://nyheder.tv2.dk/2026-09-22-fire-flexselskaber-med-offentlig-koersel-for-233-millioner-erklaeret-konkurs",
+      "subheadline": "HA Logistik, Flex Fyn, Flex Syd og Flex Midt gik konkurs efter et ejerskifte fra en narkodømt tidligere ejer - kurator undersøger nu, om pengene blev ført ud af landet",
+      "body": [
+        "Fire flexselskaber - HA Logistik, Flex Fyn, Flex Syd og Flex Midt - er erklæret konkurs efter at have kørt offentlig flextrafik for FynBus, Midttrafik og Sydtrafik for over 233 millioner kroner siden 2023. Selskaberne transporterede blandt andet ældre, patienter og børn med særlige behov.",
+        "Selskaberne blev i maj overdraget fra en tidligere ejer, der i april fik 13 års fængsel for amfetaminsmugling, til en ny ejer, som Erhvervsstyrelsen siden har fjernet som direktør i et af selskaberne, Flex Syd. Kurator Per Buttenschøn undersøger, om ejerskiftet var reelt, og om penge er ført ud af selskaberne."
+      ],
+      "whyItMatters": "Det er borgere uden andre valg - ældre, patienter, sårbare børn - der står tilbage, når kørsel for hundredvis af millioner ender hos ejere med den baggrund.",
+      "analysis": "Sagen rejser et spørgsmål om trafikselskabernes kontrol med underleverandører - ikke mindre presserende af, at det skete foran øjnene af dem.",
+      "topics": [
+        "transport",
+        "public-services",
+        "fraud"
+      ],
+      "entities": [
+        "FynBus",
+        "Midttrafik",
+        "Sydtrafik",
+        "Per Buttenschøn"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 58,
+        "decisionValue": 42,
+        "novelty": 82,
+        "sourceQuality": 78,
+        "personalRelevance": 25,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Fire flexselskaber (HA Logistik, Flex Fyn, Flex Syd, Flex Midt) erklæret konkurs efter offentlig kørsel for over 233 mio. kr. siden 2023; ejerskifte fra narkodømt tidligere ejer undersøges",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/2026-09-22-fire-flexselskaber-med-offentlig-koersel-for-233-millioner-erklaeret-konkurs"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Fire flexselskaber med offentlig kørsel for 233 millioner erklæret konkurs",
+          "publisher": "TV 2",
+          "url": "https://nyheder.tv2.dk/2026-09-22-fire-flexselskaber-med-offentlig-koersel-for-233-millioner-erklaeret-konkurs",
+          "publishedAt": "2026-09-22T20:46:40Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/b/c/c/bccc9af8-14e4-4e9c-b92c-c9254d60f7cc?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCwwLDEyODAsNzIw&s=4f6b4cdefc927edecf9253033b3bb3dc",
+        "credit": "Kilde: TV 2",
+        "alt": "Illustration til historien om de fire konkursramte flexselskaber",
+        "sourceUrl": "https://nyheder.tv2.dk/2026-09-22-fire-flexselskaber-med-offentlig-koersel-for-233-millioner-erklaeret-konkurs"
+      }
+    },
+    {
+      "id": "thomas-story-cykling-risbjerg-2026-09-23",
+      "eventKey": "cykling-vm-montreal-risbjerg-bronze-2026-09",
+      "materialFacts": [
+        "Malthe Risbjerg (18) vandt bronze i juniorherrernes enkeltstart ved VM i Montreal",
+        "17 sekunder efter vinderen Benjamin Noval; Julius Birkedal blev nummer fire",
+        "Risbjerg rykker op i Team Visma | Lease a Bikes udviklingshold næste sæson"
+      ],
+      "section": "Sport",
+      "headline": "Dansker sikrer VM-medalje: - Det er en drøm",
+      "primarySourceUrl": "https://sport.tv2.dk/cykling/2026-09-22-dansker-sikrer-vm-medalje-det-er-en-droem",
+      "subheadline": "18-årige Malthe Risbjerg vandt bronze i juniorherrernes enkeltstart ved VM i Montreal - foran landsmanden Julius Birkedal",
+      "body": [
+        "18-årige Malthe Risbjerg vandt bronze i juniorherrernes enkeltstart ved VM i landevejscykling i Montreal - 17 sekunder efter vinderen, spanske Benjamin Noval. Risbjerg endte foran landsmanden Julius Birkedal, der blev nummer fire.",
+        "'Det er en drøm, der bliver til virkelighed. I går sagde jeg, at jeg drømte om at køre på podiet, og det er helt specielt nu at have gjort det,' sagde Risbjerg efter løbet. Til næste sæson rykker han op i udviklingsholdet hos Team Visma | Lease a Bike."
+      ],
+      "whyItMatters": "En junior-VM-medalje er ikke kun en enkeltpræstation - det er typisk sådan, de næste generationer af danske cykelryttere først viser sig frem på den internationale scene.",
+      "analysis": "Med Birkedal som nummer fire og Risbjerg på podiet leverede det danske juniorhold et af sine stærkeste resultater i disciplinen i flere år - et solidt afsæt for begge, når de rykker op i U23-rækken.",
+      "topics": [
+        "cykling"
+      ],
+      "entities": [
+        "Malthe Risbjerg",
+        "Julius Birkedal",
+        "Benjamin Noval"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 42,
+        "decisionValue": 18,
+        "novelty": 82,
+        "sourceQuality": 80,
+        "personalRelevance": 62,
+        "contrast": 25
+      },
+      "claims": [
+        {
+          "text": "Malthe Risbjerg (18) vandt bronze i juniorherrernes enkeltstart ved VM i Montreal, 17 sekunder efter vinderen Benjamin Noval",
+          "sourceUrls": [
+            "https://sport.tv2.dk/cykling/2026-09-22-dansker-sikrer-vm-medalje-det-er-en-droem"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Dansker sikrer VM-medalje: - Det er en drøm",
+          "publisher": "TV 2",
+          "url": "https://sport.tv2.dk/cykling/2026-09-22-dansker-sikrer-vm-medalje-det-er-en-droem",
+          "publishedAt": "2026-09-22T19:13:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/1/3/2/132a32d1-3eeb-4547-b31d-7ca3cbcdd90a?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MTU0NCw1NTYsNTY4MSwzMTk2&s=a80e6929360cb93f4e08fb787d350562",
+        "credit": "Kilde: TV 2",
+        "alt": "Malthe Risbjerg fejrer sin bronzemedalje ved VM i landevejscykling i Montreal",
+        "sourceUrl": "https://sport.tv2.dk/cykling/2026-09-22-dansker-sikrer-vm-medalje-det-er-en-droem"
+      }
+    }
+  ],
+  "signals": [
+    {
+      "text": "Sundhedsprofil bliver direktør for medicinforening",
+      "headline": "Sundhedsprofil bliver direktør for medicinforening",
+      "url": "https://www.altinget.dk/erhverv/navnenyt/sundhedsprofil-bliver-direktoer-for-medicinforening",
+      "publisher": "Altinget",
+      "section": "Personer",
+      "publishedAt": "2026-09-22T08:12:00Z",
+      "summary": "Ida Sofie Jensen, tidligere adm. direktør for Lægemiddelindustriforeningen, udnævnes direktør for parallelimportørforeningen FPM og afløser Helle Sandager."
+    },
+    {
+      "text": "Sundhedsdirektører ved PwC og Region Sjælland bytter roller",
+      "headline": "Sundhedsdirektører ved PwC og Region Sjælland bytter roller",
+      "url": "https://www.altinget.dk/embedsvaerk/artikel/sundhedsdirektoerer-ved-pwc-og-region-sjaelland-bytter-roller",
+      "publisher": "Altinget",
+      "section": "Personer",
+      "publishedAt": "2026-09-22T10:55:00Z",
+      "summary": "Mads Ellegaard Christensen skifter fra Region Sjælland til PwC, mens Flemming Christiansen går den modsatte vej til Sjællands Universitetshospital."
+    },
+    {
+      "text": "WSA udnævner Peter Bøggild til ny CFO",
+      "headline": "WSA udnævner Peter Bøggild til ny CFO",
+      "url": "https://via.ritzau.dk/pressemeddelelse/15164205/wsa-udnaevner-peter-boggild-til-ny-cfo",
+      "publisher": "Ritzau (WSA A/S)",
+      "section": "Personer",
+      "publishedAt": "2026-09-16T10:02:00Z",
+      "summary": "Peter Bøggild, med 21 års karriere i Novo Nordisk, bliver CFO i høreapparatkoncernen WSA fra senest 1. december."
+    },
+    {
+      "text": "Klima-, Energi- og Forsyningsministeriet ansætter Caroline Breinholt som særlig rådgiver",
+      "headline": "Klima-, Energi- og Forsyningsministeriet ansætter Caroline Breinholt som særlig rådgiver",
+      "url": "https://via.ritzau.dk/pressemeddelelse/15176109/klima-energi-og-forsyningsministeriet-ansaetter-caroline-breinholt-som-saerlig-radgiver",
+      "publisher": "Ritzau (KEFM)",
+      "section": "Personer",
+      "publishedAt": "2026-09-22T08:09:25Z",
+      "summary": "Caroline Breinholt, hidtil diplomat ved EU-repræsentationen i Bruxelles, bliver særlig rådgiver for minister Samira Nawa fra 1. oktober."
+    },
+    {
+      "text": "Ny rapport: Dansk økonomi scorer topkarakter, men bøvl og byrder kan spænde ben for fremtidig vækst",
+      "headline": "Ny rapport: Dansk økonomi scorer topkarakter, men bøvl og byrder kan spænde ben for fremtidig vækst",
+      "url": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/september/ny-analyse-dansk-okonomi-scorer-topkarakter-men-bovl-og-byrder-kan-spande-ben-for-fremtidig-vakst",
+      "publisher": "Dansk Erhverv (om IMF's Danmark-rapport)",
+      "section": "Økonomi",
+      "publishedAt": "2026-09-09T08:32:10Z",
+      "summary": "IMF spår dansk vækst falder fra 3,7 pct. i 2026 til omkring 1,5 pct. mod 2030 og anbefaler neutral finanspolitik for 2027."
+    },
+    {
+      "text": "Renteforhøjelse",
+      "headline": "Renteforhøjelse",
+      "url": "https://www.nationalbanken.dk/da/viden-og-nyheder/presse/arkiv/2026/renteforhoejelse-10-09-2026",
+      "publisher": "Danmarks Nationalbank",
+      "section": "Økonomi",
+      "publishedAt": "2026-09-10T00:00:00Z",
+      "summary": "Nationalbanken hævede renten 0,25 procentpoint fra 11. september, efter at ECB gjorde det samme."
+    },
+    {
+      "text": "Dansk Erhverv: Byggeriet forventes at vokse med over 3 pct. i 2026",
+      "headline": "Dansk Erhverv: Byggeriet forventes at vokse med over 3 pct. i 2026",
+      "url": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/september/dansk-erhverv-byggeriet-forventes-at-vokse-med-over-3-pct.-i-2026",
+      "publisher": "Dansk Erhverv",
+      "section": "Erhverv",
+      "publishedAt": "2026-09-14T07:10:24Z",
+      "summary": "Vækstprognosen for byggeriet opjusteres til 3,3 pct., drevet af offentlig investering i forsvar og infrastruktur."
+    },
+    {
+      "text": "Første kendte udfald af Googles AI: Gemini har hacket tre selskaber",
+      "headline": "Første kendte udfald af Googles AI: Gemini har hacket tre selskaber",
+      "url": "https://www.computerworld.dk/art/296888/foerste-kendte-udfald-af-googles-ai-gemini-har-hacket-tre-selskaber",
+      "publisher": "Computerworld DK",
+      "section": "Teknologi",
+      "publishedAt": "2026-09-21T04:16:00Z",
+      "summary": "Googles Gemini-model fik i maj 2026 uautoriseret adgang til tre selskabers systemer under en sikkerhedstest hos firmaet Irregular."
+    },
+    {
+      "text": "AI som trussel: USA vil have fælles advarsels-system med Kina",
+      "headline": "AI som trussel: USA vil have fælles advarsels-system med Kina",
+      "url": "https://www.computerworld.dk/art/296889/ai-som-trussel-usa-vil-have-faelles-advarsels-system-med-kina",
+      "publisher": "Computerworld DK",
+      "section": "Verden",
+      "publishedAt": "2026-09-21T04:51:00Z",
+      "summary": "USA's finansminister Scott Bessent foreslog et fælles AI-advarselssystem med Kina forud for Xi-Trump-topmødet."
+    },
+    {
+      "text": "TODAY IS THE DAY FOR VIETNAM",
+      "headline": "TODAY IS THE DAY FOR VIETNAM",
+      "url": "https://blogs.duanemorris.com/vietnam/2026/09/21/today-is-the-day-for-vietnam/",
+      "publisher": "Duane Morris Vietnam",
+      "section": "Emerging markets",
+      "publishedAt": "2026-09-21T00:00:00Z",
+      "summary": "Vietnams reklassificering til Secondary Emerging Market hos FTSE Russell trådte i kraft 21. september, indfases over fire trancher frem til september 2027."
+    },
+    {
+      "text": "Slut med nedskæringer – nu er der gratis busser til alle i ø-kommune",
+      "headline": "Slut med nedskæringer – nu er der gratis busser til alle i ø-kommune",
+      "url": "https://www.dr.dk/nyheder/indland/slut-med-nedskaeringer-nu-er-der-gratis-busser-til-alle-i-oe-kommune",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-09-22T13:58:00Z",
+      "summary": "Fanø Kommune vender en årelang spareøvelse til overskud via et fast statstilskud og indfører gratis busser uden at hæve skatten."
+    },
+    {
+      "text": "Tre mænd anholdt for hvidvask og skattesnyd via selskaber",
+      "headline": "Tre mænd anholdt for hvidvask og skattesnyd via selskaber",
+      "url": "https://www.dr.dk/nyheder/indland/tre-maend-anholdt-hvidvask-og-skattesnyd-via-selskaber",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-09-22T14:57:21Z",
+      "summary": "Tre mænd anholdt mistænkt for hvidvask og skattesnyd; over 1,5 mio. kr. i unddragne el-ladeafgifter, cirka 20 mio. kr. beslaglagt."
+    },
+    {
+      "text": "VM-dansker dybt skuffet – revser sit eget hjemmearbejde",
+      "headline": "VM-dansker dybt skuffet – revser sit eget hjemmearbejde",
+      "url": "https://sport.tv2.dk/cykling/2026-09-22-vm-dansker-dybt-skuffet-revser-sit-eget-hjemmearbejde",
+      "publisher": "TV 2",
+      "section": "Sport",
+      "publishedAt": "2026-09-22T06:21:00Z",
+      "summary": "Kristian Egholm blev nummer seks og Mads Landbo nummer fem i U23-enkeltstarten ved VM i Montreal, kun 35 sekunder fra vinderen."
+    }
+  ],
+  "column": {
+    "authoredBy": "ai",
+    "slug": "kystlinjeparadokset",
+    "title": "Linealen bestemmer kystens længde",
+    "thesis": "Et 'præcist' tal for en kysts eller grænses længde er ikke en kendsgerning om verden, men et artefakt af linealen, man vælger - og det gælder flere tal, vi ellers ser som objektive.",
+    "body": [
+      "Matematikeren Lewis Fry Richardson bemærkede før sin død i 1953, at Spaniens og Portugals officielle mål for deres fælles grænse afveg markant - ikke fordi nogen målte forkert, men fordi de brugte forskellige linealer. Fundet udkom posthumt i 1961.",
+      "Benoit Mandelbrot gjorde i 1967 pointen generel i 'How Long Is the Coast of Britain?', udgivet 5. maj i Science: jo finere målestok, desto længere kystlinje. Kysten har ikke én sand længde, kun en, der afhænger af spørgsmålet.",
+      "Det samme gælder, når vi tæller andet end kyster: hvor mange 'kriser' et land har haft, afhænger af, hvordan krisen afgrænses. Tallet arver sin usikkerhed fra beslutningen forud for målingen."
+    ],
+    "uncertainty": "Pointen holder kun for fraktale, grænseafhængige størrelser. Mange tal - en befolknings størrelse, en akties lukkekurs - konvergerer fint uanset målepræcision. Konvergerer eksemplerne ved finere opløsning, falder pointen.",
+    "topics": [
+      "matematik",
+      "epistemologi",
+      "maaling"
+    ],
+    "claims": [
+      {
+        "text": "Benoit Mandelbrots artikel 'How Long Is the Coast of Britain? Statistical Self-Similarity and Fractional Dimension' blev udgivet 5. maj 1967 i Science og viste, at målt kystlængde vokser, når målestokken gøres finere.",
+        "sourceUrls": [
+          "https://en.wikipedia.org/wiki/Coastline_paradox"
+        ],
+        "confidence": "high"
+      },
+      {
+        "text": "Lewis Fry Richardson, der døde i 1953, gjorde sin iagttagelse om grænselængder før sin død; fundet blev udgivet posthumt i 1961.",
+        "sourceUrls": [
+          "https://en.wikipedia.org/wiki/Coastline_paradox"
+        ],
+        "confidence": "high"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Coastline paradox",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Coastline_paradox",
+        "publishedAt": "1967-05-05T00:00:00Z",
+        "kind": "reporting"
+      }
+    ]
+  },
+  "recommendations": [
+    {
+      "id": "thomas-rec-piie-xi-2026-09-23",
+      "mode": "read",
+      "kind": "essay",
+      "status": "timely",
+      "title": "Will the Trump-Xi summit make limited progress on AI?",
+      "creator": "Alan Wm. Wolff",
+      "provider": "Peterson Institute for International Economics (PIIE)",
+      "url": "https://www.piie.com/blogs/realtime-economics/2026/will-trump-xi-summit-make-limited-progress-ai",
+      "availability": "Gratis, globalt",
+      "commitment": "8 min",
+      "description": "Kort analyse forud for torsdagens Trump-Xi-topmøde i Washington: handel og told forbliver fastlåst, men AI-sikkerhed er ifølge PIIE det ene område, hvor en 'ubekvem våbenhvile' måske kan udvides til reel koordinering.",
+      "rationale": "Skarp og uhedget forventningsafstemning før selve topmødet - nyttig, hvis du vil vide, hvad der reelt kan komme ud af mødet, før kommentarstrømmen sætter ind.",
+      "topics": [
+        "us-china",
+        "ai-politik",
+        "handel"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "thomas-rec-india-book-2026-09-23",
+      "mode": "read",
+      "kind": "bog",
+      "status": "available",
+      "title": "A Sixth of Humanity: Independent India's Development Odyssey",
+      "creator": "Devesh Kapur og Arvind Subramanian",
+      "provider": "Oxford University Press",
+      "url": "https://global.oup.com/academic/product/a-sixth-of-humanity-9780197837252",
+      "availability": "Trykt og e-bog, globalt",
+      "commitment": "flere uger (824 sider)",
+      "description": "824 siders gennemgang af Indiens udvikling siden uafhængigheden: landet fik demokrati før økonomisk transformation og et servicebomboom før industrialisering - en model, der ligner hverken Kinas eller Sydkoreas.",
+      "rationale": "Indien er den vækstfortælling, enhver vestlig handelsstrategi nu må regne med. Bogen giver den kølige, ikke-sentimentale forklaring på, hvorfor Indiens vej er en anden end Østasiens - nyttig ballast til enhver Indien-rådgivning.",
+      "topics": [
+        "indien",
+        "emerging-markets",
+        "udviklingsoekonomi"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "thomas-rec-fireice-2026-09-23",
+      "mode": "experience",
+      "kind": "udstilling",
+      "status": "new",
+      "title": "Fire & Ice: On Belonging and Becoming in Kalaallit Nunaat (Greenland)",
+      "creator": "Otte grønlandske og grønlandsk-tilknyttede kunstnere, bl.a. Inuuteq Storch, Jessie Kleemann og Julie Edel Hardenberg",
+      "provider": "Copenhagen Contemporary",
+      "url": "https://copenhagencontemporary.org/en/exhibitions/fire-ice/",
+      "availability": "København, frem til 31. december 2026",
+      "commitment": "60 min",
+      "description": "Otte kunstnere med tilknytning til Grønland udforsker identitet, tilhørsforhold, kolonihistorie og selvbestemmelse gennem billedkunst, performance og skulptur - flere værker er nykommissionerede til udstillingen, der åbnede 11. september.",
+      "rationale": "Grønland er nu et løbende sikkerheds- og ressourcespørgsmål i dansk handelstænkning. Udstillingen giver det menneskelige og kulturelle lag, briefinger om arktiske mineraler og amerikansk interesse for Grønland aldrig rummer.",
+      "topics": [
+        "groenland",
+        "kunst",
+        "geopolitik"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://copenhagencontemporary.org/wp-content/uploads/2025/12/Fire-and-Ice_Copenhagen-Contemporary_011_Photo-by-David-Stjernholm-1600x799.jpg",
+        "credit": "Foto: David Stjernholm / Copenhagen Contemporary",
+        "alt": "Værk fra udstillingen Fire & Ice om Grønland på Copenhagen Contemporary",
+        "sourceUrl": "https://copenhagencontemporary.org/en/exhibitions/fire-ice/"
+      }
+    },
+    {
+      "id": "thomas-rec-krogstrup-2026-09-23",
+      "mode": "read",
+      "kind": "tale",
+      "status": "available",
+      "title": "Unpredictability has become a fundamental condition for the global economy",
+      "creator": "Signe Krogstrup, nationalbankdirektør",
+      "provider": "Danmarks Nationalbank",
+      "url": "https://www.nationalbanken.dk/en/news-and-knowledge/publications-and-speeches/speeches/2026/governor-signe-krogstrup-unpredictability-has-become-a-fundamental-condition-for-the-global-economy",
+      "availability": "Gratis, globalt",
+      "commitment": "12 min",
+      "description": "Tale holdt hos Dansk Industri i april om energipriser, handelsbarrierer og AI som de tre kilder til global uforudsigelighed. Analyser peger på, at AI kan løfte dansk produktivitetsvækst mellem 1 og 10 procentpoint over ti år.",
+      "rationale": "Holdt fra DI's talerstol, af den nationalbankdirektør, hvis scenarier nu ligger til grund for enhver dansk eksportprognose. Rammen - energi, handel, AI - er om noget blevet mere relevant siden april, ikke mindre.",
+      "topics": [
+        "dansk-oekonomi",
+        "makrooekonomi",
+        "ai"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {
+    "sourceCoverage": 100,
+    "freshness": 90,
+    "novelty": 82,
+    "perspectiveBalance": 85,
+    "render": 100
+  }
+}
