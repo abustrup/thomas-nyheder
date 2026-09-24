@@ -1,0 +1,764 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-09-24-01",
+  "date": "2026-09-24",
+  "generatedAt": "2026-09-24T09:19:00.326Z",
+  "readingMinutes": 12,
+  "title": "Thomas' Nyheder",
+  "dek": "Trump og Xi mødes i Washington, mens Nationalbanken advarer om markedernes risikoappetit, EIFO investerer i europæisk forsvarsteknologi, og et halvt århundrede slutter i spidsen for Linak.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-trump-xi-summit-eu-2026-09-24",
+      "eventKey": "trump-xi-summit-eu-trade-exposure",
+      "materialFacts": [
+        "Trump og Xi Jinping indledte onsdag 23. september 2026 et tredages topmøde i Washington om handel, teknologi og Taiwan, som fortsætter torsdag.",
+        "EU's handelsunderskud til Kina er omkring en milliard euro om dagen, og amerikansk-kinesiske toldlempelser risikerer at omdirigere kinesisk eksport mod EU."
+      ],
+      "section": "Global handel",
+      "headline": "The Trump-Xi summit: Why Europe has so much at stake",
+      "primarySourceUrl": "https://www.euronews.com/my-europe/2026/09/23/the-trump-xi-summit-why-europe-has-so-much-at-stake",
+      "subheadline": "EU's handelsunderskud til Kina er omkring en milliard euro om dagen, og et opblødt forhold mellem Washington og Beijing kan sende endnu mere kinesisk eksport mod det europæiske marked.",
+      "body": [
+        "Xi Jinping ankom onsdag til USA til et tredages topmøde med Donald Trump i Washington om handel, teknologi og Taiwan – det tredje møde mellem de to inden for et år. Mødet fortsætter torsdag, mens EU forhandler sin egen aftale med Beijing om at afbøde kinesisk eksport og forlænge våbenhvilen om sjældne jordarter.",
+        "Ifølge Euronews er EU's handelsunderskud til Kina omkring en milliard euro om dagen. Lægger USA told på kinesiske varer, bliver en del af eksporten typisk omdirigeret mod det europæiske marked i stedet – uanset om Washington og Beijing selv når til lempelser."
+      ],
+      "whyItMatters": "Euronews' pointe går én vej: amerikansk told sender kinesisk eksport mod EU. Om det modsatte gælder – at mindre friktion mindsker presset for at omdirigere eksport til Europa – er redaktionens egen slutning, ikke noget artiklen selv hævder.",
+      "analysis": "EU er under alle omstændigheder reelt tredjepart i en aftale, der former markedsvilkårene for europæiske eksportører, mens Bruxelles selv forhandler parallelt med Beijing uden at sidde med ved det amerikansk-kinesiske bord.",
+      "counterpoint": "Et modargument: et stabiliseret forhold mellem Washington og Beijing reducerer risikoen for en fuld handelskrig, som ville ramme europæisk eksport hårdere.",
+      "image": {
+        "url": "https://images.euronews.com/articles/stories/09/92/35/71/1200x675_cmsv2_8b8a9651-fcb6-55c6-ab1b-8b96192af5bb-9923571.jpg",
+        "credit": "Kilde: Euronews",
+        "alt": "The Trump-Xi summit: Why Europe has so much at stake",
+        "sourceUrl": "https://www.euronews.com/my-europe/2026/09/23/the-trump-xi-summit-why-europe-has-so-much-at-stake"
+      },
+      "topics": [
+        "trade-policy",
+        "eu-us",
+        "eu-china"
+      ],
+      "entities": [
+        "Donald Trump",
+        "Xi Jinping",
+        "EU-Kommissionen",
+        "Kina"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 88,
+        "decisionValue": 65,
+        "novelty": 60,
+        "sourceQuality": 62,
+        "personalRelevance": 85,
+        "contrast": 60
+      },
+      "claims": [
+        {
+          "text": "Xi Jinping arrived in the US on Wednesday 23 September 2026 for a three-day summit with Trump in Washington covering trade, technology and Taiwan, their third meeting within a year.",
+          "sourceUrls": [
+            "https://www.euronews.com/my-europe/2026/09/23/the-trump-xi-summit-why-europe-has-so-much-at-stake"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "The EU's trade deficit with China is roughly €1 billion a day, and US tariffs on China risk rerouting Chinese exports toward the EU market.",
+          "sourceUrls": [
+            "https://www.euronews.com/my-europe/2026/09/23/the-trump-xi-summit-why-europe-has-so-much-at-stake"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "The Trump-Xi summit: Why Europe has so much at stake",
+          "publisher": "Euronews",
+          "url": "https://www.euronews.com/my-europe/2026/09/23/the-trump-xi-summit-why-europe-has-so-much-at-stake",
+          "publishedAt": "2026-09-23T06:00:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-nationalbanken-risiko-2026-09-24",
+      "eventKey": "nationalbanken-rentestigninger-risikoappetit",
+      "materialFacts": [
+        "Nationalbanken har hævet renten 25 basispoint i både juni og september 2026, i takt med ECB.",
+        "Nationalbanken advarer om høj risikoappetit: amerikanske og europæiske aktier op hhv. 14 og 11 pct., og hedgefonde med høj gearing ejer nu ca. 8,5 pct. af amerikanske statsobligationer."
+      ],
+      "section": "Makroøkonomi",
+      "headline": "Rentestigninger og høj risikoappetit",
+      "primarySourceUrl": "https://www.nationalbanken.dk/da/viden-og-nyheder/publikationer-og-taler/analyse/2026/rentestigninger-og-hoej-risikoappetit",
+      "subheadline": "Nationalbanken har fulgt ECB med renteforhøjelser i både juni og september – men advarer samtidig om, at markedernes risikovillighed er blevet farligt høj.",
+      "body": [
+        "Nationalbanken har i takt med ECB hævet renten 25 basispoint i både juni og september 2026. Renten ligger fortsat 40 basispoint under ECB's, mens danske lange realkreditrenter er steget omkring 60 basispoint siden marts.",
+        "Nationalbanken advarer samtidig om høj risikoappetit: aktiemarkederne i euroområdet og USA er steget hhv. 11 og 14 procent siden sidste rapport, drevet af AI-forventninger, mens gearede hedgefonde nu ejer omkring 8,5 procent af amerikanske statsobligationer via basis-trades med op mod 25 gange gearing."
+      ],
+      "whyItMatters": "Nationalbanken peger på to separate risici: høje aktiekurser drevet af AI-optimisme, og en skrøbelig obligationsmarkedsstruktur på grund af gearede basis-trades.",
+      "analysis": "Nationalbanken taler ikke om en forestående krise, men om skrøbelighed – at prisfastsættelsen forudsætter, at meget går rigtigt på én gang, mens renterne strammes.",
+      "image": {
+        "url": "https://www.nationalbanken.dk/media/feip4rdn/01-nationalbankens-bygning-havnegade.jpg?rxy=0.5922330097087378,0.4538834951456311&width=1200&height=630&v=1d94789dc234190&hmac=d0ef9eb26df5ae5bcf7671292b0586540e425250797397f5655fd77cb118ff40",
+        "credit": "Kilde: Danmarks Nationalbank",
+        "alt": "Rentestigninger og høj risikoappetit",
+        "sourceUrl": "https://www.nationalbanken.dk/da/viden-og-nyheder/publikationer-og-taler/analyse/2026/rentestigninger-og-hoej-risikoappetit"
+      },
+      "topics": [
+        "monetary-policy",
+        "financial-stability",
+        "macroeconomics"
+      ],
+      "entities": [
+        "Danmarks Nationalbank",
+        "ECB"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 75,
+        "decisionValue": 60,
+        "novelty": 55,
+        "sourceQuality": 95,
+        "personalRelevance": 75,
+        "contrast": 65
+      },
+      "claims": [
+        {
+          "text": "Nationalbanken raised its policy rate 25bp in both June and September 2026, following the ECB, with the spread to the ECB unchanged at -40bp; long mortgage rates rose ~60bp since March.",
+          "sourceUrls": [
+            "https://www.nationalbanken.dk/da/viden-og-nyheder/publikationer-og-taler/analyse/2026/rentestigninger-og-hoej-risikoappetit"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Euro-area and US stocks rose 11% and 14% since the last report; leveraged hedge funds hold ~8.5% of outstanding US Treasuries via ~25x-leveraged basis trades.",
+          "sourceUrls": [
+            "https://www.nationalbanken.dk/da/viden-og-nyheder/publikationer-og-taler/analyse/2026/rentestigninger-og-hoej-risikoappetit"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Rentestigninger og høj risikoappetit",
+          "publisher": "Danmarks Nationalbank",
+          "url": "https://www.nationalbanken.dk/da/viden-og-nyheder/publikationer-og-taler/analyse/2026/rentestigninger-og-hoej-risikoappetit",
+          "publishedAt": "2026-09-23T08:00:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-dtcp-defencefund-eifo-2026-09-24",
+      "eventKey": "dtcp-defence-tech-fund-close",
+      "materialFacts": [
+        "DTCP lukkede 24. september 2026 en vækstfond på 455 mio. euro med EIFO som investor.",
+        "Fonden investerer i AI, autonome systemer, cyberforsvar, sikker kommunikation og rumteknologi; DTCP åbner Københavns-kontor i 2027."
+      ],
+      "section": "Venturekapital",
+      "headline": "DTCP closes €455M defence fund to scale Europe’s strategic tech capabilities",
+      "primarySourceUrl": "https://tech.eu/2026/09/24/dtcp-closes-eur455m-defence-fund-to-scale-europes-strategic-tech-capabilities",
+      "subheadline": "Den danske eksport- og investeringsfond EIFO er blandt investorerne i en europæisk vækstfond på 455 millioner euro til forsvarsteknologi, autonome systemer og cybersikkerhed.",
+      "body": [
+        "Den europæiske investor DTCP har lukket en vækstfond på 455 millioner euro med Deutsche Telekom, Porsche SE, danske EIFO, Danica og estiske SmartCap som investorer. Fonden investerer i AI, autonome systemer, cyberforsvar, sikker kommunikation og rumteknologi.",
+        "Blandt DTCP's porteføljeselskaber er dronevirksomheden Quantum Systems og forsvarsselskabet STARK Defence. DTCP åbner desuden kontor i København i 2027."
+      ],
+      "whyItMatters": "For EIFO er det en markering af, at forsvarsteknologi nu er et almindeligt vækstfelt for kapital, ikke en niche forbeholdt forsvarsministerier, og det giver adgang til dealflow i et segment, hvor kapitalen ellers har været koncentreret i få amerikanske fonde.",
+      "analysis": "Det er også et signal om, hvor europæisk sikkerhedspolitisk kapital reelt bevæger sig hen, mens EU diskuterer fælles forsvarsfinansiering: gennem private vækstfonde med statslige medinvestorer, snarere end nye EU-programmer.",
+      "image": {
+        "url": "https://cdn.tech.eu/uploads/2026/09/untitled-design-27-648.png",
+        "credit": "Kilde: Tech.eu",
+        "alt": "Illustration fra Tech.eu til nyheden om DTCP's forsvarsteknologifond",
+        "sourceUrl": "https://tech.eu/2026/09/24/dtcp-closes-eur455m-defence-fund-to-scale-europes-strategic-tech-capabilities"
+      },
+      "topics": [
+        "venture-capital",
+        "defence-tech",
+        "deeptech"
+      ],
+      "entities": [
+        "DTCP",
+        "EIFO",
+        "Deutsche Telekom",
+        "Porsche SE"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 62,
+        "decisionValue": 68,
+        "novelty": 60,
+        "sourceQuality": 68,
+        "personalRelevance": 88,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "DTCP closed a EUR 455M defence-tech growth fund on 24 September 2026, with EIFO among the named investors alongside Deutsche Telekom, Porsche SE, Danica and SmartCap.",
+          "sourceUrls": [
+            "https://tech.eu/2026/09/24/dtcp-closes-eur455m-defence-fund-to-scale-europes-strategic-tech-capabilities"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "DTCP closes €455M defence fund to scale Europe’s strategic tech capabilities",
+          "publisher": "Tech.eu",
+          "url": "https://tech.eu/2026/09/24/dtcp-closes-eur455m-defence-fund-to-scale-europes-strategic-tech-capabilities",
+          "publishedAt": "2026-09-24T07:00:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-roswall-danmark-besoeg-2026-09-24",
+      "eventKey": "eu-commissioner-roswall-danish-industry-visit",
+      "materialFacts": [
+        "EU's kommissær for miljø og konkurrencedygtig cirkulær økonomi, Jessika Roswall, besøgte 23.-24. september Grundfos, Carlsberg og Beirholm's Textile.",
+        "Besøget er hendes andet i Danmark i 2026, efter et tilsvarende besøg i april."
+      ],
+      "section": "EU og dansk erhvervsliv",
+      "headline": "Jessika Roswall i Danmark",
+      "primarySourceUrl": "https://denmark.representation.ec.europa.eu/news/jessika-roswall-i-danmark-2026-09-23_da",
+      "subheadline": "EU's kommissær for miljø og konkurrencedygtig cirkulær økonomi besøgte onsdag og torsdag Grundfos, Carlsberg og Beirholm's Textile for at se dansk industris omstilling til ressourceeffektiv produktion.",
+      "body": [
+        "EU's kommissær for miljø og konkurrencedygtig cirkulær økonomi, Jessika Roswall, besøgte onsdag Grundfos i Bjerringbro og fortsatte torsdag til Carlsbergs bryggeri i Fredericia og Beirholm's Textile i Kolding, ledsaget af miljøminister Maria Reumert Gjerding.",
+        "Besøget er kommissærens andet i Danmark i år efter et tilsvarende besøg i april, og indgår i en turné med fokus på virksomheder inden for ressourceeffektivitet og bæredygtig produktion."
+      ],
+      "whyItMatters": "At en EU-kommissær lægger vejen forbi navngivne danske produktionsvirksomheder frem for kun at mødes med ministre i København, viser, hvilke danske cases Bruxelles bruger til at underbygge sin cirkulære økonomi-dagsorden.",
+      "analysis": "Besøget er ikke en beslutning, og meddelelsen indeholder ingen udtalelser fra Roswall om konklusioner – kun en rejseplan. Værdien ligger i synligheden snarere end i noget nyt, kommissæren har lovet.",
+      "image": {
+        "url": "https://denmark.representation.ec.europa.eu/sites/default/files/styles/ewcms_metatag_image/public/media_avportal_thumbnails/K2OJnxlqd5xRmXXOCEP2nvcZlQ6CM5fOfzH722A00Ks.jpg?h=c9f93661&itok=rx74MeSg",
+        "credit": "Kilde: EU-Kommissionens repræsentation i Danmark",
+        "alt": "Visit of Jessika Roswall, European Commissioner, to Portugal",
+        "sourceUrl": "https://denmark.representation.ec.europa.eu/news/jessika-roswall-i-danmark-2026-09-23_da"
+      },
+      "topics": [
+        "eu-competitiveness",
+        "circular-economy",
+        "danish-industry"
+      ],
+      "entities": [
+        "Jessika Roswall",
+        "Grundfos",
+        "Carlsberg",
+        "Beirholm's Textile",
+        "EU-Kommissionen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 42,
+        "decisionValue": 40,
+        "novelty": 45,
+        "sourceQuality": 78,
+        "personalRelevance": 62,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "EU Commissioner for environment, water resilience and competitive circular economy Jessika Roswall visited Grundfos, Carlsberg and Beirholm's Textile in Denmark on 23-24 September 2026, accompanied at the last two stops by Environment Minister Maria Reumert Gjerding.",
+          "sourceUrls": [
+            "https://denmark.representation.ec.europa.eu/news/jessika-roswall-i-danmark-2026-09-23_da"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Jessika Roswall i Danmark",
+          "publisher": "EU-Kommissionens repræsentation i Danmark",
+          "url": "https://denmark.representation.ec.europa.eu/news/jessika-roswall-i-danmark-2026-09-23_da",
+          "publishedAt": "2026-09-23T12:00:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-anthropic-enzyme-discovery-2026-09-24",
+      "eventKey": "anthropic-claude-art-enzyme-discovery",
+      "materialFacts": [
+        "Anthropic siger, at ca. 950 Claude-agenter på 21 timer og 210 mio. tokens fandt en ny CRISPR-lignende enzymfamilie (ART) blandt 200.000+ kandidater.",
+        "Fundet er en ikke-fagfællebedømt preprint uden fastlagt biologisk funktion; Feng Zhang kalder det 'genuinely intriguing'."
+      ],
+      "section": "AI og videnskab",
+      "headline": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "primarySourceUrl": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "subheadline": "Omkring 950 Claude-agenter brugte 21 timer på at gennemgå over 200.000 kandidatenzymer og fandt en hidtil ukendt enzymfamilie, som CRISPR-medopdageren Feng Zhang kalder genuint interessant.",
+      "body": [
+        "Anthropic oplyser, at ca. 950 Claude-agenter på 21 timer og 210 mio. tokens gennemsøgte over 200.000 kandidat-enzymer, indsnævrede dem til 3.500 og endte med 20 stærke kandidater. Resultatet er en ny enzymfamilie, ART, der minder om CRISPR med et RNA-gentagelsesmønster koblet til et enzym-gen.",
+        "Fundet er en ikke-fagfællebedømt preprint; Anthropic understreger selv, at funktionen endnu ikke er fastlagt. CRISPR-medopdageren Feng Zhang kalder fundet 'genuinely intriguing' og siger, det fortjener videre undersøgelse."
+      ],
+      "whyItMatters": "Det er et eksempel på AI-agenter brugt til at accelerere arbejdskrævende screening i grundforskning – frem for selve opdagelsen af, hvad mønstrene betyder.",
+      "analysis": "Anthropic er selv part i sagen og har en åbenlys interesse i at vise modellernes nytteværdi, hvilket taler for at læse resultatet som lovende, men uafprøvet, indtil uafhængige laboratorier har set på ART-familiens funktion.",
+      "image": {
+        "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/394de337d8a5d8db93a1c048fa1cb53e16a09625-2048x1240.jpg",
+        "credit": "Kilde: Anthropic",
+        "alt": "A scientist pipetting",
+        "sourceUrl": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
+      },
+      "topics": [
+        "AI",
+        "biotech"
+      ],
+      "entities": [
+        "Anthropic",
+        "Claude",
+        "Feng Zhang"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 58,
+        "decisionValue": 45,
+        "novelty": 78,
+        "sourceQuality": 72,
+        "personalRelevance": 62,
+        "contrast": 58
+      },
+      "claims": [
+        {
+          "text": "About 950 Claude agents ran for 21 hours using 210M tokens, screening 200,000+ candidate reverse transcriptases down to a novel CRISPR-like enzyme family (ART), published as an unreviewed preprint.",
+          "sourceUrls": [
+            "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Feng Zhang called the finding 'genuinely intriguing' and said it merits further investigation.",
+          "sourceUrls": [
+            "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "publisher": "Anthropic",
+          "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+          "publishedAt": "2026-09-23T12:00:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-irankrig-energipriser-2026-09-24",
+      "eventKey": "irankrig-energipriser-danske-omkostninger",
+      "materialFacts": [
+        "Green Power Denmark vurderer, at krigen i Iran har kostet danske virksomheder og forbrugere 10,6 mia. kr.",
+        "Olieprisen er steget fra 60-70 til over 100 dollar tønden, og gasprisen er næsten fordoblet siden februar."
+      ],
+      "section": "Energi og geopolitik",
+      "headline": "Vinteren kan blive dyr: Irankrigen har allerede kostet danskerne milliardbeløb",
+      "primarySourceUrl": "https://ing.dk/artikel/vinteren-kan-blive-dyr-irankrigen-har-allerede-kostet-danskerne-milliardbeloeb",
+      "subheadline": "En opgørelse fra Green Power Denmark sætter tal på, hvad krigen mellem Israel og Iran indtil videre har kostet danske virksomheder og forbrugere i højere energiregninger.",
+      "body": [
+        "Ifølge Green Power Denmark har krigen i Iran indtil videre kostet danske virksomheder og forbrugere 10,6 milliarder kroner. En tønde olie kostede i februar mellem 60 og 70 dollar og koster nu over 100, mens naturgasprisen næsten er fordoblet i samme periode.",
+        "Green Power Denmark, der repræsenterer størstedelen af dansk elproduktion, venter på den baggrund den dyreste vinter i flere år, hvis konflikten fortsætter uændret."
+      ],
+      "whyItMatters": "Regningen rammer bredt: både energitung industri, der konkurrerer på eksportmarkeder med faste marginer, og private husholdninger, der allerede har vænnet sig til svingende priser siden krigen i Ukraine.",
+      "analysis": "Tallet er brancheorganisationens eget skøn, ikke en uafhængigt revideret opgørelse, men retningen understøttes af de observerbare priser – en påmindelse om, hvor direkte en konflikt uden dansk eller europæisk part alligevel slår igennem på bundlinjen og varmeregningen.",
+      "image": {
+        "url": "https://ing.dk/sites/mi/files/styles/open_graph_image_16_9/public/2026-09/20250803-095050-7-1920x1280web.jpg?itok=yJ5gO1KI",
+        "credit": "Kilde: Ingeniøren",
+        "alt": "Arkivfoto anvendt af Ingeniøren til dækningen af energiprisernes stigning",
+        "sourceUrl": "https://ing.dk/artikel/vinteren-kan-blive-dyr-irankrigen-har-allerede-kostet-danskerne-milliardbeloeb"
+      },
+      "topics": [
+        "energy-prices",
+        "geopolitics",
+        "macroeconomics"
+      ],
+      "entities": [
+        "Green Power Denmark"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 65,
+        "decisionValue": 58,
+        "novelty": 55,
+        "sourceQuality": 78,
+        "personalRelevance": 62,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Green Power Denmark estimates the Iran war has cost Danish businesses and consumers 10.6 billion kroner so far, as oil moved from 60-70 to over 100 dollars a barrel and gas nearly doubled since February 2026.",
+          "sourceUrls": [
+            "https://ing.dk/artikel/vinteren-kan-blive-dyr-irankrigen-har-allerede-kostet-danskerne-milliardbeloeb"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Vinteren kan blive dyr: Irankrigen har allerede kostet danskerne milliardbeløb",
+          "publisher": "Ingeniøren",
+          "url": "https://ing.dk/artikel/vinteren-kan-blive-dyr-irankrigen-har-allerede-kostet-danskerne-milliardbeloeb",
+          "publishedAt": "2026-09-23T09:45:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-fbi-shinyhunters-breach-2026-09-24",
+      "eventKey": "fbi-shinyhunters-data-breach",
+      "materialFacts": [
+        "ShinyHunters udnyttede en zero-day i Oracle PeopleSoft til at stjæle 2 TB FBI-medarbejderdata fra AWS GovCloud.",
+        "Gruppen siger, angrebet er hævn for en FBI-udmelding om et tidligere angreb, ikke pengeafpresning."
+      ],
+      "section": "Cybersikkerhed",
+      "headline": "Verdensberømt hacker-gruppe stærkt fortørnet over udmelding fra politiet: Hacker politiets systemer som hævn",
+      "primarySourceUrl": "https://www.computerworld.dk/art/296939/verdensberoemt-hacker-gruppe-staerkt-fortoernet-over-udmelding-fra-politiet-hacker-politiets-systemer-som-haevn",
+      "subheadline": "Hackergruppen ShinyHunters har udnyttet en sårbarhed i FBI's jobopslags-side til at stjæle to terabyte data om ansatte – og siger selv, at angrebet er hævn, ikke pengeafpresning.",
+      "body": [
+        "Hackergruppen ShinyHunters har ifølge Computerworld udnyttet en zero day-sårbarhed i Oracle PeopleSoft på FBI's jobside til at hente to terabyte data om tidligere og nuværende medarbejdere fra FBI's filer på Amazons AWS GovCloud.",
+        "Gruppen slår selv fast, at angrebet ikke er økonomisk motiveret: »Dette er IKKE finansielt begrundet, Vi vil have FBI til at ændre eller tilbagetrække sine meldinger, som indeholder grundlæggende forkerte beskyldninger,« lyder det fra ShinyHunters, der svarer på en FBI-udmelding om et tidligere angreb på Canvas."
+      ],
+      "whyItMatters": "At en gruppe kan bryde ind hos forbundspolitiets egne systemer via en velkendt sårbarhed i tredjeparts-software, minder om, at selv sikkerhedsmyndigheder er afhængige af den samme lappede infrastruktur som alle andre.",
+      "analysis": "Sagen adskiller sig fra almindelig cyberkriminalitet ved motivet: en magtkamp om et tidligere angreb, udkæmpet ved at stjæle flere data.",
+      "image": {
+        "url": "https://www.computerworld.dk/fil/236627?width=1200&height=630&focus=1",
+        "credit": "Kilde: Computerworld",
+        "alt": "Illustration fra Computerworld til nyheden om ShinyHunters' angreb på FBI",
+        "sourceUrl": "https://www.computerworld.dk/art/296939/verdensberoemt-hacker-gruppe-staerkt-fortoernet-over-udmelding-fra-politiet-hacker-politiets-systemer-som-haevn"
+      },
+      "topics": [
+        "cybersecurity",
+        "national-security"
+      ],
+      "entities": [
+        "ShinyHunters",
+        "FBI"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 60,
+        "decisionValue": 40,
+        "novelty": 55,
+        "sourceQuality": 68,
+        "personalRelevance": 30,
+        "contrast": 70
+      },
+      "claims": [
+        {
+          "text": "ShinyHunters breached the FBI's job-listings site via an Oracle PeopleSoft zero-day, exfiltrating 2TB of current and former employee data from AWS GovCloud, stating the act was retaliation rather than financially motivated.",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/296939/verdensberoemt-hacker-gruppe-staerkt-fortoernet-over-udmelding-fra-politiet-hacker-politiets-systemer-som-haevn"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Verdensberømt hacker-gruppe stærkt fortørnet over udmelding fra politiet: Hacker politiets systemer som hævn",
+          "publisher": "Computerworld",
+          "url": "https://www.computerworld.dk/art/296939/verdensberoemt-hacker-gruppe-staerkt-fortoernet-over-udmelding-fra-politiet-hacker-politiets-systemer-som-haevn",
+          "publishedAt": "2026-09-24T07:38:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-ligeloenslov-udskydelse-2026-09-24",
+      "eventKey": "dansk-ligeloenslov-eu-direktiv-udskydelse",
+      "materialFacts": [
+        "Regeringen overvejer ifølge Altinget for anden gang at udskyde implementeringen af EU's ligelønsdirektiv efter måneders pres fra arbejdsgiverorganisationen DA.",
+        "Beskæftigelsesminister Ane Halsboe-Jørgensen kan ikke beslutte det alene, men skal finde fælles fodslag i regeringen."
+      ],
+      "section": "Dansk erhvervsliv",
+      "headline": "Arbejdsgiverne har presset hårdt på. Nu er regeringen tæt på at udskyde omstridt ligelønslov igen",
+      "primarySourceUrl": "https://www.altinget.dk/artikel/arbejdsgiverne-har-presset-haardt-paa-nu-er-regeringen-taet-paa-at-udskyde-omstridt-ligeloenslov-igen",
+      "subheadline": "Efter måneders pres fra arbejdsgiverorganisationen DA overvejer regeringen for anden gang at udskyde EU's direktiv om løngennemsigtighed mellem mænd og kvinder.",
+      "body": [
+        "Regeringen er ifølge Altinget tæt på for anden gang at udskyde EU's ligelønsdirektiv, efter at arbejdsgiverorganisationen DA under direktør Jacob Holbraad har presset på for at bremse loven.",
+        "Direktivet kræver, at virksomheder laver detaljerede lønrapporter, der dokumenterer, om mænd og kvinder får samme løn for samme arbejde. Beskæftigelsesminister Ane Halsboe-Jørgensen kan ikke beslutte en udskydelse alene, men skal finde fælles fodslag i regeringen."
+      ],
+      "whyItMatters": "For danske virksomheder er sagen et eksempel på den administrative byrde, EU's regulering kan pålægge – og på, hvor direkte én brancheorganisations lobbyarbejde kan forsinke en allerede vedtaget EU-regel.",
+      "analysis": "En udskydelse er ikke det samme som en afvisning af direktivet, men endnu en udsættelse rejser spørgsmålet, om Danmark reelt kan holde EU's tidsfrister, når hjemlige erhvervsinteresser presser på.",
+      "image": {
+        "url": "https://legacy.altinget.dk/images/article/306454/161026.jpg",
+        "credit": "Kilde: Altinget",
+        "alt": "Illustration fra Altinget til dækningen af ligelønsdirektivet",
+        "sourceUrl": "https://www.altinget.dk/artikel/arbejdsgiverne-har-presset-haardt-paa-nu-er-regeringen-taet-paa-at-udskyde-omstridt-ligeloenslov-igen"
+      },
+      "topics": [
+        "regulatory-burden",
+        "eu-directive",
+        "dansk-erhverv"
+      ],
+      "entities": [
+        "Ane Halsboe-Jørgensen",
+        "Dansk Arbejdsgiverforening",
+        "Jacob Holbraad",
+        "EU-Kommissionen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 55,
+        "novelty": 62,
+        "sourceQuality": 78,
+        "personalRelevance": 65,
+        "contrast": 50
+      },
+      "claims": [
+        {
+          "text": "The Danish government is reportedly close to delaying implementation of the EU pay-transparency directive for a second time, after months of pressure from employer body DA under director Jacob Holbraad.",
+          "sourceUrls": [
+            "https://www.altinget.dk/artikel/arbejdsgiverne-har-presset-haardt-paa-nu-er-regeringen-taet-paa-at-udskyde-omstridt-ligeloenslov-igen"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "The directive requires companies to produce detailed wage reports documenting equal pay between men and women for the same work.",
+          "sourceUrls": [
+            "https://www.altinget.dk/artikel/arbejdsgiverne-har-presset-haardt-paa-nu-er-regeringen-taet-paa-at-udskyde-omstridt-ligeloenslov-igen"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Arbejdsgiverne har presset hårdt på. Nu er regeringen tæt på at udskyde omstridt ligelønslov igen",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/artikel/arbejdsgiverne-har-presset-haardt-paa-nu-er-regeringen-taet-paa-at-udskyde-omstridt-ligeloenslov-igen",
+          "publishedAt": "2026-09-24T00:00:00Z",
+          "kind": "reporting"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "Axelgaards optakt til 3. etape af CRO Race",
+      "headline": "Axelgaards optakt til 3. etape af CRO Race",
+      "url": "https://sport.tv2.dk/cykling/2026-09-23-axelgaards-optakt-til-3-etape-af-cro-race",
+      "publisher": "TV 2",
+      "section": "Sport",
+      "publishedAt": "2026-09-23T17:03:00Z",
+      "summary": "TV 2-ekspert Emil Axelgaard peger på Tim Wellens som topfavorit til dagens 174,5 km lange bjergetape fra Krk til Labin, mens overraskelsesvinderen fra 2. etape, Carl-Frederik Bévort, ligger 4 sekunder fra den samlede føring."
+    },
+    {
+      "text": "Unge VM-danskere drømmer om at vinde guld og sølv",
+      "headline": "Unge VM-danskere drømmer om at vinde guld og sølv",
+      "url": "https://sport.tv2.dk/cykling/2026-09-22-unge-vm-danskere-droemmer-om-at-vinde-guld-og-soelv",
+      "publisher": "TV 2",
+      "section": "Sport",
+      "publishedAt": "2026-09-22T10:38:00Z",
+      "summary": "Landstræner Michael Berling udpeger Julius Birkedal og tempo-bronzevinder Malthe Risbjerg som reelle medaljekandidater ved torsdagens junior-linjeløb ved VM i Montreal."
+    },
+    {
+      "text": "Dansk kaptajn er rystet over Rune",
+      "headline": "Dansk kaptajn er rystet over Rune",
+      "url": "https://sport.tv2.dk/tennis/2026-09-19-dansk-kaptajn-er-rystet-over-rune",
+      "publisher": "TV 2",
+      "section": "Sport",
+      "publishedAt": "2026-09-20T04:22:00Z",
+      "summary": "Efter 11 måneder ude med en sprængt achillessene besejrede Holger Rune tidligere top-10-spiller Grigor Dimitrov i sit Davis Cup-comeback; næste stop er en ATP-turnering i Tokyo 30. september."
+    },
+    {
+      "text": "Troels Lund Poulsens tidligere særlige rådgiver får job i fagbevægelsen",
+      "headline": "Troels Lund Poulsens tidligere særlige rådgiver får job i fagbevægelsen",
+      "url": "https://www.altinget.dk/erhverv/navnenyt/hk-ansaetter-troels-lund-poulsens-forhenvaerende-saerlig-raadigver-som-kommunikationschef",
+      "publisher": "Altinget",
+      "section": "Navnenyt",
+      "publishedAt": "2026-09-22T12:10:00Z",
+      "summary": "Søren Olufsen, tidligere særlig rådgiver for både Troels Lund Poulsen og Stephanie Lose, tiltræder 1. oktober som kommunikationschef i HK Danmark."
+    },
+    {
+      "text": "Lille tilbagegang i forbrugertilliden",
+      "headline": "Lille tilbagegang i forbrugertilliden",
+      "url": "https://www.dst.dk/da/Statistik/nyheder-analyser-publ/nyt/NytHtml?cid=52448",
+      "publisher": "Danmarks Statistik",
+      "section": "Økonomi",
+      "publishedAt": "2026-09-22T06:00:00Z",
+      "summary": "Forbrugertillidsindikatoren faldt til minus 13,7 i september fra minus 13,1 i august, trukket ned af svagere forventninger til egen økonomi."
+    },
+    {
+      "text": "Detailhandlen forventer stigende omsætning",
+      "headline": "Detailhandlen forventer stigende omsætning",
+      "url": "https://www.dst.dk/da/Statistik/nyheder-analyser-publ/nyt/NytHtml?cid=52464",
+      "publisher": "Danmarks Statistik",
+      "section": "Økonomi",
+      "publishedAt": "2026-09-23T06:00:00Z",
+      "summary": "47 pct. af detailvirksomhederne venter stigende omsætning mod 8 pct., der venter fald – en nettobalance på plus 39, det højeste niveau siden oktober 2018."
+    },
+    {
+      "text": "Ekstraregning for AI lurer om hjørnet: »Det, du køber, er sat til en kunstigt lav pris«",
+      "headline": "Ekstraregning for AI lurer om hjørnet: »Det, du køber, er sat til en kunstigt lav pris«",
+      "url": "https://ing.dk/artikel/ekstraregning-ai-lurer-om-hjoernet-det-du-koeber-er-sat-til-en-kunstigt-lav-pris",
+      "publisher": "Ingeniøren",
+      "section": "Teknologi",
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "summary": "Konsulent Henrik Zangenberg advarer om, at amerikanske AI-udbydere sætter priserne kunstigt lavt for at vinde markedsandele, og at danske organisationer bør vente en brat prisstigning."
+    },
+    {
+      "text": "26-årig afpressede 43 piger på Snapchat og TikTok. Nu vil anklager have ham idømt forvaring",
+      "headline": "26-årig afpressede 43 piger på Snapchat og TikTok. Nu vil anklager have ham idømt forvaring",
+      "url": "https://www.dr.dk/nyheder/indland/26-aarig-afpressede-43-piger-paa-snapchat-og-tiktok-nu-vil-anklager-have-ham-idoemt-forvaring",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-09-23T12:09:32Z",
+      "summary": "Retssagen mod en 26-årig, tiltalt for voldtægt, grooming og afpresning af 43 piger og en 18-årig via Snapchat og TikTok, startede ved Roskilde Ret; anklageren kræver forvaring."
+    },
+    {
+      "text": "Ny optælling viser, at ulvene spreder sig i Danmark – se her hvor de bor",
+      "headline": "Ny optælling viser, at ulvene spreder sig i Danmark – se her hvor de bor",
+      "url": "https://nyheder.tv2.dk/samfund/2026-09-23-ny-optaelling-viser-at-ulvene-spreder-sig-i-danmark-se-her-hvor-de-bor",
+      "publisher": "TV 2",
+      "section": "Indland",
+      "publishedAt": "2026-09-24T07:10:15Z",
+      "summary": "Ny optælling viser 11 ulveflokke i Danmark mod syv i maj; bestanden anslås nu til 77 dyr efter omkring 61 hvalpe født i år."
+    },
+    {
+      "text": "Styrelse lancerer nye retningslinjer for kræftpatienter med senfølger",
+      "headline": "Styrelse lancerer nye retningslinjer for kræftpatienter med senfølger",
+      "url": "https://www.dr.dk/nyheder/seneste/styrelse-lancerer-nye-retningslinjer-kraeftpatienter-med-senfoelger",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-09-23T07:30:44Z",
+      "summary": "Sundhedsstyrelsen udsender nye retningslinjer for en mere sammenhængende indsats til de ca. 70 pct. af kræftoverlevere, der oplever senfølger."
+    },
+    {
+      "text": "FE holder pressemøde om ny trusselsvurdering af Rusland",
+      "headline": "FE holder pressemøde om ny trusselsvurdering af Rusland",
+      "url": "https://www.dr.dk/nyheder/seneste/fe-holder-pressemoede-om-ny-trusselsvurdering-af-rusland",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-09-24T07:44:49Z",
+      "summary": "Forsvarets Efterretningstjeneste holder kl. 11 pressemøde med forsvarsminister Jeppe Bruus og forsvarschefen om en ny trusselsvurdering af Rusland."
+    },
+    {
+      "text": "Ørsteds direktør bliver ny formand for europæisk vindindustri",
+      "headline": "Ørsteds direktør bliver ny formand for europæisk vindindustri",
+      "url": "https://www.altinget.dk/klima/navnenyt/oersteds-direktoer-bliver-ny-formand-for-europaeisk-vindindustri",
+      "publisher": "Altinget",
+      "section": "Navnenyt",
+      "publishedAt": "2026-09-16T08:34:00Z",
+      "summary": "Rasmus Errboe blev for en uges tid siden udpeget som formand for WindEurope i 18 måneder og skal repræsentere den europæiske vindindustri over for EU's beslutningstagere."
+    }
+  ],
+  "column": {
+    "authoredBy": "ai",
+    "slug": "rate-vs-level-opbremsning-laest-som-fald",
+    "title": "Når en opbremsning bliver læst som et fald",
+    "thesis": "Når en statistiks stigningstakt aftager, bliver det ofte læst, som om selve størrelsen falder — men et tal, der vokser langsommere, vokser stadig.",
+    "body": [
+      "Forvirringen mellem, om noget stiger, og om stigningstakten selv stiger eller falder, er en af de mindst navngivne fejl i, hvordan nøgletal fortælles videre. Den går begge veje: en opbremsning i noget dårligt – kriminalitet, inflation – bliver underfejret, fordi 'stadig stigende' lyder som 'stadig slemt'. Og en opbremsning i noget godt bliver overdrevet sørget over, som var den vendt til det modsatte.",
+      "En minister, der siger, at inflationen falder, mener typisk, at priserne stiger langsommere – sandt og godt – mens en tilhører kan høre, at priserne selv falder, hvilket sjældent er sandt. Det korte sprog inviterer til glidningen, fordi 'falder' er kortere end 'stiger langsommere'."
+    ],
+    "uncertainty": "Måske udleder de fleste allerede korrekt retning af konteksten, og de mindeværdige fejllæsninger, der får forvekslingen til at føles udbredt, er reelt sjældne undtagelser snarere end reglen.",
+    "topics": [
+      "statistik",
+      "formidling"
+    ]
+  },
+  "recommendations": [
+    {
+      "id": "rec-cwt-gita-gopinath-291",
+      "mode": "listen",
+      "kind": "podcast",
+      "status": "new",
+      "title": "Gita Gopinath on Trade, Currencies, and Economic Transformation (Ep. 291)",
+      "creator": "Tyler Cowen & Gita Gopinath",
+      "provider": "Conversations with Tyler / Mercatus Center",
+      "url": "https://conversationswithtyler.com/episodes/gita-gopinath/",
+      "availability": "Frit tilgængelig, udgivet 23. september 2026, lyd og transskription",
+      "commitment": "1 time",
+      "description": "Tyler Cowen interviewer Gita Gopinath, Harvard-økonom og tidligere førstevicedirektør i IMF, om handelsbalancer, valutakurser, dollarisering, stablecoins over for CBDC'er og Kinas industrioverskud.",
+      "rationale": "Gopinath er en af de mest erfarne stemmer på netop det felt, du selv har forhandlet i – handelsmekanik og valutapolitik – udgivet samme dag som Trump-Xi-topmødet og direkte nyttig til at læse told- og valutabevægelser, uden at falde for overskriftens forenkling.",
+      "topics": [
+        "macroeconomics",
+        "trade-policy"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://conversationswithtyler.com/wp-content/uploads/2026/09/GitaGopinath-header-2000x874.png",
+        "credit": "Kilde: Conversations with Tyler",
+        "alt": "Gita Gopinath, tidligere førstevicedirektør i IMF, gæst i Conversations with Tyler",
+        "sourceUrl": "https://conversationswithtyler.com/episodes/gita-gopinath/"
+      }
+    },
+    {
+      "id": "rec-un-sc-ai-briefing-2026",
+      "mode": "watch",
+      "kind": "talk",
+      "status": "new",
+      "title": "Artificial intelligence and international security - Security Council, 10228th meeting",
+      "provider": "UN Web TV",
+      "url": "https://webtv.un.org/en/asset/k1c/k1cdceg9sg",
+      "availability": "Frit tilgængelig uden login, fuld optagelse med transskription",
+      "commitment": "2,5 timer, eller udvalgte uddrag",
+      "description": "FN's Sikkerhedsråds første session nogensinde dedikeret til AI-sikkerhedsrisiko, hvor Yoshua Bengio, Sam Altman, Dario Amodei og Clément Delangue briefede om kontroltab i frontier-modeller.",
+      "rationale": "En sjælden lejlighed til at høre de tre førende AI-laboratorier formulere sikkerhedsrisiko direkte over for verdens øverste sikkerhedsorgan, dage før Trump-Xi-topmødet, hvor AI også står på dagsordenen.",
+      "topics": [
+        "AI-governance",
+        "geopolitik"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-cosmos-pacing-neutrality",
+      "mode": "read",
+      "kind": "essay",
+      "status": "new",
+      "title": "Pacing and the Peril of Neutrality",
+      "creator": "Alex Chalmers",
+      "provider": "Cosmos Institute",
+      "url": "https://blog.cosmos-institute.org/p/pacing-and-the-peril-of-neutrality",
+      "availability": "Frit tilgængelig, udgivet 18. september 2026",
+      "commitment": "15 minutter",
+      "description": "Med afsæt i Carl Schmitts begreb om politisk neutralisering argumenterer essayet for, at koalitionen bag 'Pacing the Frontier' – 1.300 underskrivere, der efterlyser mere statslig kapacitet mod AI-risiko – tilslører reel uenighed ved aldrig at specificere, hvad der udløser indgreb.",
+      "rationale": "Et skarpere og mere skeptisk blik på 'sæt farten ned'-lejren end koalitionen selv leverer – nyttigt netop fordi det viser, at selve uklarheden om statsmagt er et politisk valg, ikke en neutral forsigtighedslinje.",
+      "topics": [
+        "AI-etik",
+        "AI-governance"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://substackcdn.com/image/fetch/$s_!eVbA!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5bb047af-9bf1-4c1e-ba55-9748780e0cac_1920x1422.png",
+        "credit": "Kilde: Cosmos Institute",
+        "alt": "Illustration til Cosmos Institute-essayet om AI-sikkerhedskoalitionen Pacing the Frontier",
+        "sourceUrl": "https://blog.cosmos-institute.org/p/pacing-and-the-peril-of-neutrality"
+      }
+    },
+    {
+      "id": "rec-uci-road-worlds-2026",
+      "mode": "watch",
+      "kind": "sport",
+      "status": "available",
+      "title": "2026 UCI Road World Championships",
+      "creator": "Union Cycliste Internationale",
+      "provider": "UCI / Eurosport-HBO Max-Discovery+",
+      "url": "https://www.uci.org/pressrelease/where-to-watch-the-2026-uci-road-world-championships/1HHCW3cJYj4gE6UM70aqvU",
+      "availability": "20.-27. september 2026 i Montreal; Eurosport, HBO Max og Discovery+ i Danmark",
+      "commitment": "3-6 timer pr. eliteløb, eller highlights",
+      "description": "99. udgave af landevejs-VM, det første i Montreal siden OL-værtsbyen i 1976; elite-kvindeløbet køres lørdag, elite-herreløbet søndag.",
+      "rationale": "Cykling er den sport, du følger tættest, og VM-ugen giver de to bedste enkeltdage på kalenderen uden for Tour de France – lavt tidsforbrug, hvis du kun vil se afslutningen.",
+      "topics": [
+        "cykling"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://images.ctfassets.net/761l7gh5x5an/1A2KwMWo9Zkn0I9idMbzYJ/df6a68254ffee0c81a386ec23ea7842f/AW7_9384.jpg?f=&fit=thumb&q=80&fl=progressive&w=1200&h=800",
+        "credit": "Kilde: UCI",
+        "alt": "Ryttere ved landevejs-VM 2026 i Montreal",
+        "sourceUrl": "https://www.uci.org/pressrelease/where-to-watch-the-2026-uci-road-world-championships/1HHCW3cJYj4gE6UM70aqvU"
+      }
+    }
+  ],
+  "quality": {}
+}
