@@ -1,0 +1,703 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-09-25-01",
+  "date": "2026-09-25",
+  "generatedAt": "2026-09-25T06:30:00Z",
+  "readingMinutes": 10,
+  "title": "Thomas' Nyheder",
+  "dek": "Ida Auken indkaldes til hemmeligt samråd om at sagsøge Novo Nordisk, en bankdirektør går i åben kamp mod særskatten, og arkæologer finder en 2000 år gammel gallisk voldgrav under et Paris-hospital.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-auken-novo-litigation-20260925",
+      "eventKey": "auken-novo-litigation-hearing-20260925",
+      "materialFacts": [
+        "Sundhedsminister Ida Auken indkaldes til lukket samråd om, hvorvidt staten skal sagsøge Novo Nordisk",
+        "Kammeradvokaten har afgivet en fortrolig vurdering af muligheden for at kræve erstatning tilbage fra Novo",
+        "Staten har udbetalt over 10 mio. kr. i erstatning til 27 danskere, der mistede synet efter Wegovy-bivirkninger"
+      ],
+      "section": "Sundhed og erhverv",
+      "headline": "Ida Auken bliver indkaldt i samråd i hemmelig Novo-sag",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/ida-auken-bliver-indkaldt-i-samraad-i-hemmelig-novo-sag",
+      "subheadline": "Folketinget skal bag lukkede døre høre, om staten bør gå rettens vej mod Novo Nordisk efter erstatningssager om synstab.",
+      "body": [
+        "Sundhedsminister Ida Auken (S) skal i et lukket samråd redegøre for, om staten bør sagsøge Novo Nordisk. Samrådet er indkaldt af Enhedslistens Peder Hvelplund, efter at Kammeradvokaten har afgivet en fortrolig vurdering af, om det er muligt at kræve erstatning tilbage fra medicinalkoncernen.",
+        "Baggrunden er, at staten har udbetalt over 10 mio. kr. i erstatning til 27 danskere, der har mistet synet helt eller delvist efter Wegovy. Ministeriet er i dialog med Novo, men Hvelplund kræver, at det er Folketinget - ikke virksomheden - der får indsigt i konsekvenserne af vurderingen."
+      ],
+      "whyItMatters": "For en økonomi, hvor Novo Nordisk alene driver en stor del af eksportvæksten, er det usædvanligt, at staten officielt overvejer at gå rettens vej mod selskabet. Sagen rejser spørgsmålet om, hvor langt statens ansvar rækker, når et godkendt lægemiddel viser sig at have alvorlige bivirkninger.",
+      "analysis": "At vurderingen holdes hemmelig, mens Folketinget kun får den bag lukkede døre, viser, hvor følsom balancen er mellem at beskytte statens interesser i en verserende sag og at undgå at skade tilliden til landets vigtigste eksportvirksomhed.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/uukjvr2d/20260827-124445-l.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Sundhedsminister Ida Auken (S), som skal redegøre for Novo-sagen ved et lukket samråd (foto: Ida Marie Odgaard, Ritzau Scanpix)",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/ida-auken-bliver-indkaldt-i-samraad-i-hemmelig-novo-sag"
+      },
+      "topics": [
+        "pharma-liability",
+        "wegovy",
+        "state-litigation",
+        "novo-nordisk"
+      ],
+      "entities": [
+        "Ida Auken",
+        "Novo Nordisk",
+        "Peder Hvelplund",
+        "Kammeradvokaten",
+        "Folketingets Sundhedsudvalg"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 78,
+        "decisionValue": 55,
+        "novelty": 80,
+        "sourceQuality": 90,
+        "personalRelevance": 70,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Ida Auken indkaldes til lukket samråd om, hvorvidt staten skal sagsøge Novo Nordisk, efter anmodning fra Peder Hvelplund",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/ida-auken-bliver-indkaldt-i-samraad-i-hemmelig-novo-sag"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Staten har udbetalt over 10 mio. kr. i erstatning til 27 danskere med synstab efter Wegovy",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/ida-auken-bliver-indkaldt-i-samraad-i-hemmelig-novo-sag"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Ida Auken bliver indkaldt i samråd i hemmelig Novo-sag",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/ida-auken-bliver-indkaldt-i-samraad-i-hemmelig-novo-sag",
+          "publishedAt": "2026-09-24T14:08:49Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-finansdanmark-bank-tax-20260925",
+      "eventKey": "finansdanmark-bank-tax-fight-20260925",
+      "materialFacts": [
+        "Finans Danmarks direktør Lars Gert Lose kræver bankerne omfattet af den kommende generelle selskabsskattelettelse",
+        "Han kalder bankernes særskat 'bankudskamning' og et principielt og samfundsøkonomisk problem",
+        "Skatteminister Jakob Engel-Schmidt afviser på stedet at ændre planerne"
+      ],
+      "section": "Erhverv",
+      "headline": "Finansboss blæser til kamp mod særskat: \"Det er bankudskamning\"",
+      "primarySourceUrl": "https://www.altinget.dk/erhverv/artikel/finansboss-blaeser-til-kamp-mod-saerskat-det-er-bankudskamning",
+      "subheadline": "Finans Danmarks direktør kræver, at bankerne får samme selskabsskat som andre virksomheder, men ministeren vil ikke ændre planerne.",
+      "body": [
+        "Finans Danmarks direktør Lars Gert Lose optrapper kampen mod bankernes særskat og kræver, at bankerne omfattes af den kommende lettelse af selskabsskatten. Han kalder undtagelsen for bankerne 'bankudskamning' og et principielt og samfundsøkonomisk problem.",
+        "Skatte- og vækstminister Jakob Engel-Schmidt afviser i en skriftlig kommentar at ændre planerne, så bankerne fortsat betaler særskatten, mens resten af erhvervslivet kan se frem til lavere selskabsskat."
+      ],
+      "whyItMatters": "Konflikten tester, hvor stærkt erhvervsorganisationer kan presse en regering, der skal finde finansiering til skattelettelsen - og viser, at brancheorganisationer i stigende grad fører deres kampe åbent.",
+      "analysis": "At Finans Danmark vælger konfrontation frem for stille lobbyarbejde, signalerer, at sektoren vurderer, at det politiske vindue er ved at lukke, før særskatten cementeres i skattereformen.",
+      "image": {
+        "url": "https://legacy.altinget.dk/images/article/306429/109109.jpg",
+        "credit": "Kilde: Altinget",
+        "alt": "Lars Gert Lose, direktør i Finans Danmark, fotograferet på en tagterrasse med udsigt over havnen",
+        "sourceUrl": "https://www.altinget.dk/erhverv/artikel/finansboss-blaeser-til-kamp-mod-saerskat-det-er-bankudskamning"
+      },
+      "topics": [
+        "bank-tax",
+        "business-lobbying",
+        "tax-policy",
+        "di-erhvervsorganisationer"
+      ],
+      "entities": [
+        "Lars Gert Lose",
+        "Finans Danmark",
+        "Jakob Engel-Schmidt"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 62,
+        "decisionValue": 60,
+        "novelty": 68,
+        "sourceQuality": 82,
+        "personalRelevance": 78,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Lars Gert Lose kræver bankerne omfattet af selskabsskattelettelsen og kalder undtagelsen 'bankudskamning'",
+          "sourceUrls": [
+            "https://www.altinget.dk/erhverv/artikel/finansboss-blaeser-til-kamp-mod-saerskat-det-er-bankudskamning"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Skatteminister Jakob Engel-Schmidt afviser at ændre planerne",
+          "sourceUrls": [
+            "https://www.altinget.dk/erhverv/artikel/minister-afviser-at-sloejfe-bankernes-saerskat"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Finansboss blæser til kamp mod særskat: \"Det er bankudskamning\"",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/erhverv/artikel/finansboss-blaeser-til-kamp-mod-saerskat-det-er-bankudskamning",
+          "publishedAt": "2026-09-25T00:00:00Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Minister affejer bankers skattekrav",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/erhverv/artikel/minister-afviser-at-sloejfe-bankernes-saerskat",
+          "publishedAt": "2026-09-25T00:00:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-hummelgaard-finansministeriet-20260925",
+      "eventKey": "hummelgaard-finance-ministry-pivot-20260925",
+      "materialFacts": [
+        "Hummelgaard siger, at de klassiske værktøjer til at udvide arbejdsudbuddet bliver færre, med afskaffelsen af store bededag som eksempel",
+        "Ministeriet vil fremover fokusere på udenlandsk arbejdskrafts effekt på de offentlige finanser og på 'uretfærdig ulighed'"
+      ],
+      "section": "Finanspolitik",
+      "headline": "Hummelgaard deler nu analysen, der vil forme hans tid i Finansministeriet: \"Det er de forventninger, der er til Socialdemokratiet\"",
+      "primarySourceUrl": "https://www.altinget.dk/artikel/hummelgaard-deler-nu-analysen-der-vil-forme-hans-tid-i-finansministeriet-det-er-de-forventninger-der-er-til-socialdemokratiet",
+      "subheadline": "Finansministeren flytter ministeriets analysefokus væk fra rene arbejdsudbudsreformer og hen mod udenlandsk arbejdskraft og ulighed.",
+      "body": [
+        "Finansminister Peter Hummelgaard (S) siger, at værktøjerne til at udvide arbejdsudbuddet bliver færre, og peger på afskaffelsen af store bededag som en vej, der nu er politisk lukket. Det flytter ministeriets analysefokus væk fra rene arbejdsudbudsreformer.",
+        "Fremover vil Finansministeriet i højere grad se på, hvordan udenlandsk arbejdskraft påvirker de offentlige finanser, samt på det, ministeren kalder uretfærdig ulighed."
+      ],
+      "whyItMatters": "For erhvervslivet, der har efterspurgt mere udenlandsk arbejdskraft, er det en kursændring, hvis analyserne fremover også vejer udgifterne ved indvandring op mod gevinsten - det kan styrke eller svække argumenterne for lempeligere regler.",
+      "analysis": "Udmeldingen er foreløbig retorisk snarere end konkret politik, men viser, hvor Socialdemokratiets økonomiske linje bevæger sig hen, når de nemme håndtag til vækst er brugt op: mod fordeling og migration.",
+      "image": {
+        "url": "https://legacy.altinget.dk/images/article/306562/161231.jpg",
+        "credit": "Kilde: Altinget",
+        "alt": "Finansminister Peter Hummelgaard (S) fotograferet i profil",
+        "sourceUrl": "https://www.altinget.dk/artikel/hummelgaard-deler-nu-analysen-der-vil-forme-hans-tid-i-finansministeriet-det-er-de-forventninger-der-er-til-socialdemokratiet"
+      },
+      "topics": [
+        "labour-supply",
+        "fiscal-policy",
+        "danish-business-conditions"
+      ],
+      "entities": [
+        "Peter Hummelgaard",
+        "Finansministeriet",
+        "Socialdemokratiet"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 60,
+        "decisionValue": 58,
+        "novelty": 65,
+        "sourceQuality": 80,
+        "personalRelevance": 72,
+        "contrast": 30
+      },
+      "claims": [
+        {
+          "text": "Hummelgaard siger, at de klassiske værktøjer til at udvide arbejdsudbuddet bliver færre, og nævner store bededag som eksempel",
+          "sourceUrls": [
+            "https://www.altinget.dk/artikel/hummelgaard-deler-nu-analysen-der-vil-forme-hans-tid-i-finansministeriet-det-er-de-forventninger-der-er-til-socialdemokratiet"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Hummelgaard deler nu analysen, der vil forme hans tid i Finansministeriet: \"Det er de forventninger, der er til Socialdemokratiet\"",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/artikel/hummelgaard-deler-nu-analysen-der-vil-forme-hans-tid-i-finansministeriet-det-er-de-forventninger-der-er-til-socialdemokratiet",
+          "publishedAt": "2026-09-25T03:00:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-paris-lutece-rampart-20260925",
+      "eventKey": "paris-lutece-rampart-discovery-20260923",
+      "materialFacts": [
+        "INRAP-arkæologer har fundet en ca. 20 meter lang gallisk befæstning under Hôtel-Dieu-hospitalet på Île de la Cité i Paris",
+        "Kulstof-14-datering af brændt træ peger på 200-10 f.Kr.; fundet kan være resterne af Parisii-oppidummet, som Cæsar ødelagde i 52 f.Kr."
+      ],
+      "section": "Arkæologi",
+      "headline": "Découverte archéologique : le rempart de Lutèce Gauloise retrouvé sous l'Hôtel Dieu AP-HP à Paris",
+      "primarySourceUrl": "https://www.culture.gouv.fr/presse/communiques-de-presse/decouverte-archeologique-le-rempart-de-lutece-gauloise-retrouve-sous-l-hotel-dieu-ap-hp-a-paris",
+      "subheadline": "Et fund under et af Paris' ældste hospitaler kan for første gang fysisk forbinde nutidens by med den galliske Lutèce.",
+      "body": [
+        "Arkæologer fra det franske udgravningsinstitut INRAP har fundet resterne af en ca. 20 meter lang gallisk befæstning under hospitalet Hôtel-Dieu på Île de la Cité i centrale Paris. Kulstof-14-datering af brændt træ peger på perioden 200-10 f.Kr.",
+        "Fundet indeholder også forkullede frø og en spydspids, og kulturminister Catherine Pégard kalder det et af de vigtigste fund til forståelse af det galliske Lutèce - byen kan være resterne af Parisii-oppidummet, som ifølge Cæsars egen beretning gallerne selv satte ild til før slaget i 52 f.Kr."
+      ],
+      "whyItMatters": "Fundet giver for første gang et direkte, fysisk bindeled mellem nutidens Paris og den galliske by, romerne overtog - et spørgsmål, historikere hidtil kun har belyst ud fra skriftlige kilder som Cæsars krigsberetninger.",
+      "analysis": "At beviset dukker op midt i centrale Paris, viser, hvor meget der kan ligge ubemærket under selv de mest udforskede byer.",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Hotel-Dieu_south_facade.jpg/1920px-Hotel-Dieu_south_facade.jpg",
+        "credit": "Foto: Attila Terbócs (Pasztilla), Wikimedia Commons, CC BY-SA 4.0",
+        "alt": "Hôtel-Dieu-hospitalet i Paris, under hvilket den galliske voldgrav er fundet",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel-Dieu_south_facade.jpg"
+      },
+      "topics": [
+        "archaeology",
+        "history",
+        "france",
+        "outside-profile"
+      ],
+      "entities": [
+        "Catherine Pégard",
+        "Ministère de la Culture",
+        "INRAP",
+        "Hôtel-Dieu"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 20,
+        "novelty": 88,
+        "sourceQuality": 88,
+        "personalRelevance": 25,
+        "contrast": 85
+      },
+      "claims": [
+        {
+          "text": "INRAP har fundet en ca. 20 meter gallisk voldgrav under Hôtel-Dieu; C14-datering peger på 200-10 f.Kr.",
+          "sourceUrls": [
+            "https://www.culture.gouv.fr/presse/communiques-de-presse/decouverte-archeologique-le-rempart-de-lutece-gauloise-retrouve-sous-l-hotel-dieu-ap-hp-a-paris"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Fundet kan muligvis være resterne af Parisii-oppidummet ødelagt af Cæsar i 52 f.Kr. - fremstillet som en mulighed, ikke et fastslået faktum",
+          "sourceUrls": [
+            "https://www.culture.gouv.fr/presse/communiques-de-presse/decouverte-archeologique-le-rempart-de-lutece-gauloise-retrouve-sous-l-hotel-dieu-ap-hp-a-paris"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Découverte archéologique : le rempart de Lutèce Gauloise retrouvé sous l'Hôtel Dieu AP-HP à Paris",
+          "publisher": "Ministère de la Culture",
+          "url": "https://www.culture.gouv.fr/presse/communiques-de-presse/decouverte-archeologique-le-rempart-de-lutece-gauloise-retrouve-sous-l-hotel-dieu-ap-hp-a-paris",
+          "publishedAt": "2026-09-23T00:00:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-oeu-diversity-rating-20260925",
+      "eventKey": "oeu-diversity-rating-2026",
+      "materialFacts": [
+        "Kvinders andel af topposter i Top 100-selskaber steg fra 19 pct. (2021) til 20 pct. (2026)",
+        "35 af 100 selskaber har ingen kvinder i topledelsen; kun 7 selskaber har kvindelig CEO"
+      ],
+      "section": "Ledelse",
+      "headline": "ØU Mangfoldigheds Rating 2026 – Kvinder på topposter op 1 pct. på fem år",
+      "primarySourceUrl": "https://ugebrev.dk/ledelse/oeu-mangfoldigheds-rating-2026-kvinder-paa-topposter-op-1-pct-paa-fem-aar/",
+      "subheadline": "Fem års fokus på mangfoldighed har flyttet bestyrelseslokalet markant mere end selve topledelsen i Danmarks 100 største selskaber.",
+      "body": [
+        "Økonomisk Ugebrevs årlige mangfoldighedsrating viser, at andelen af kvinder i topledelsen i de 100 største danske selskaber er steget fra 19 til 20 pct. på fem år.",
+        "35 af de 100 selskaber har ingen kvinder i topledelsen, heriblandt DSV, ECCO, Netcompany og Vestas. Kun syv har en kvindelig topchef, blandt andre Pandoras Berta de Pablos-Barbier, Matas' Mette Uglebjerg og Novonesis' Ester Baiget. I bestyrelserne er andelen derimod steget fra 29 til 34 pct."
+      ],
+      "whyItMatters": "Tallene viser en kløft mellem bestyrelseslokalet, hvor kvoter og investorpres har flyttet noget, og den daglige topledelse, hvor udviklingen stort set er gået i stå - et signal om, at pipelinen til de øverste poster stadig er tynd.",
+      "analysis": "At fremskridtet er så begrænset efter fem år med fokus på mangfoldighed, taler for, at problemet ikke er politisk opmærksomhed, men de forfremmelsesprocesser, der afgør, hvem der når til tops.",
+      "image": {
+        "url": "https://ugebrev.dk/wp-content/uploads/2024/10/Jens-H.-Lund.jpg",
+        "credit": "Kilde: Økonomisk Ugebrev",
+        "alt": "DSV's topchef Jens H. Lund i samtale ved en DSV-lastbil (arkivfoto). DSV er et af de 35 selskaber uden kvinder i topledelsen",
+        "sourceUrl": "https://ugebrev.dk/ledelse/oeu-mangfoldigheds-rating-2026-kvinder-paa-topposter-op-1-pct-paa-fem-aar/"
+      },
+      "topics": [
+        "diversity",
+        "corporate-governance",
+        "top-100",
+        "constructive-journalism"
+      ],
+      "entities": [
+        "DSV",
+        "ECCO",
+        "Netcompany",
+        "Vestas",
+        "Pandora",
+        "Matas",
+        "Novonesis",
+        "Berta de Pablos-Barbier"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 45,
+        "novelty": 62,
+        "sourceQuality": 78,
+        "personalRelevance": 60,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "Kvinders andel af topposter i Top 100-selskaber steg fra 19 pct. (2021) til 20 pct. (2026)",
+          "sourceUrls": [
+            "https://ugebrev.dk/ledelse/oeu-mangfoldigheds-rating-2026-kvinder-paa-topposter-op-1-pct-paa-fem-aar/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "35 af 100 selskaber har ingen kvinder i topledelsen, heriblandt DSV, ECCO, Netcompany og Vestas; kun 7 har kvindelig CEO",
+          "sourceUrls": [
+            "https://ugebrev.dk/ledelse/oeu-mangfoldigheds-rating-2026-kvinder-paa-topposter-op-1-pct-paa-fem-aar/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Den gennemsnitlige kvindeandel i bestyrelserne i Top 100 er steget fra 29 til 34 pct.",
+          "sourceUrls": [
+            "https://ugebrev.dk/ledelse/oeu-mangfoldigheds-rating-2026-hvert-tredje-selskab-har-mindst-40-pct-kvinder/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "ØU Mangfoldigheds Rating 2026 – Kvinder på topposter op 1 pct. på fem år",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/ledelse/oeu-mangfoldigheds-rating-2026-kvinder-paa-topposter-op-1-pct-paa-fem-aar/",
+          "publishedAt": "2026-09-24T15:55:02Z",
+          "kind": "primary"
+        },
+        {
+          "title": "ØU Mangfoldigheds Rating 2026 – Hvert tredje selskab har mindst 40 pct. kvinder",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/ledelse/oeu-mangfoldigheds-rating-2026-hvert-tredje-selskab-har-mindst-40-pct-kvinder/",
+          "publishedAt": "2026-09-24T14:40:21Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-anthropic-opus-5-5-20260925",
+      "eventKey": "anthropic-claude-opus-5-5-20260922",
+      "materialFacts": [
+        "Anthropic lancerer Claude Opus 5.5, som yder på niveau med Claude Fable 5.1 på de fleste opgaver til 40 pct. lavere driftsomkostning end Opus 5",
+        "Prisen sættes ned til 4/20 USD pr. million tokens (fra 5/25 USD); modellen testet af METR og Frontier Design før lancering"
+      ],
+      "section": "Teknologi",
+      "headline": "Introducing Claude Opus 5.5",
+      "primarySourceUrl": "https://www.anthropic.com/news/claude-opus-5-5",
+      "subheadline": "Anthropics nye model matcher en større model på ydeevne, men koster 40 pct. mindre at drive.",
+      "body": [
+        "Anthropic har lanceret Claude Opus 5.5, som ifølge selskabet yder på niveau med Claude Fable 5.1 på de fleste opgaver, men koster ca. 40 pct. mindre at køre end Opus 5. Prisen sættes ned til 4 og 20 dollar pr. million tokens mod tidligere 5 og 25 dollar.",
+        "Modellen er testet af METR og Frontier Design forud for lanceringen, og Anthropic fremhæver forbedringer i kodningsopgaver, herunder evnen til at løse tekniske migreringer hurtigere end tidligere versioner."
+      ],
+      "whyItMatters": "Prisfald og effektivitetsgevinster ændrer regnestykket for virksomheder, der bruger AI-modeller i stor skala til rutineopgaver som kodning - billigere at eksperimentere, men også lettere at erstatte specialiseret arbejdskraft.",
+      "analysis": "At Anthropic fremhæver sikkerhedstest frem for rå kraft, afspejler en tendens: konkurrencen handler nu lige så meget om pålidelighed og lave omkostninger som om nye benchmarkrekorder.",
+      "image": {
+        "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/f4d37a1d1f582f53f4e89440062b649b6273a093-1200x630.jpg",
+        "credit": "Kilde: Anthropic",
+        "alt": "Anthropics officielle illustration til lanceringen af Claude Opus 5.5",
+        "sourceUrl": "https://www.anthropic.com/news/claude-opus-5-5"
+      },
+      "topics": [
+        "ai",
+        "model-release",
+        "pricing"
+      ],
+      "entities": [
+        "Anthropic",
+        "Claude Opus 5.5",
+        "METR"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 45,
+        "decisionValue": 35,
+        "novelty": 60,
+        "sourceQuality": 82,
+        "personalRelevance": 40,
+        "contrast": 30
+      },
+      "claims": [
+        {
+          "text": "Claude Opus 5.5 koster 4/20 USD pr. mio. tokens (ned fra 5/25 USD) og er ca. 40 pct. billigere i drift end Opus 5",
+          "sourceUrls": [
+            "https://www.anthropic.com/news/claude-opus-5-5"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Introducing Claude Opus 5.5",
+          "publisher": "Anthropic",
+          "url": "https://www.anthropic.com/news/claude-opus-5-5",
+          "publishedAt": "2026-09-22T16:19:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-denmark-norway-nations-league-20260925",
+      "eventKey": "denmark-norway-nations-league-20260924",
+      "materialFacts": [
+        "Danmark tabte 3-2 ude til Norge i Nations League efter at have kæmpet sig tilbage fra 0-2",
+        "Anfører Pierre-Emile Højbjerg fik bundkarakter for en presset og fejlbehæftet indsats"
+      ],
+      "section": "Sport",
+      "headline": "KARAKTERER: Dansk anfører dumper",
+      "primarySourceUrl": "https://www.dr.dk/sporten/fodbold/landsholdet/karakterer-dansk-anfoerer-dumper-i-skuffelse",
+      "subheadline": "Danmark kom tilbage fra 0-2, men tabte alligevel 3-2 til Norge, mens anfører Højbjerg fik hård kritik.",
+      "body": [
+        "Danmark tabte 3-2 ude til Norge i Nations League efter at have været bagud 0-2. Mikkel Damsgaard bragte Danmark tilbage til 2-1 på et frisparksdrøn, og Rasmus Højlund headede udligningen til 2-2 hjem efter pausen, før nordmændene hentede sejren hjem.",
+        "DR's karakterbog giver anfører Pierre-Emile Højbjerg bundkarakter for en presset, fejlbehæftet indsats, mens Patrick Dorgu fra Manchester United - en overraskelse i startopstillingen - får positiv omtale, og Højlund topkarakter for sin kamplyst."
+      ],
+      "whyItMatters": "Nederlaget kommer mod en direkte konkurrent og sætter fokus på ledelsen omkring landsholdet, når anføreren selv er blandt de svageste på banen i et opgør, hvor Danmark var tæt på en historisk vending.",
+      "analysis": "At et comeback fra 0-2 ender i nederlag, understreger, hvor lidt margin landsholdet har mod de bedste nordiske modstandere, og gør de kommende kampe mere afgørende, end resultatlisten viser.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/vaqkdb0t/pierre.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Pierre-Emile Højbjerg får hård kritik efter kampen mod Norge (foto: Liselotte Sabroe, Ritzau Scanpix)",
+        "sourceUrl": "https://www.dr.dk/sporten/fodbold/landsholdet/karakterer-dansk-anfoerer-dumper-i-skuffelse"
+      },
+      "topics": [
+        "fodbold",
+        "landsholdet",
+        "nations-league",
+        "sport"
+      ],
+      "entities": [
+        "Pierre-Emile Højbjerg",
+        "Rasmus Højlund",
+        "Mikkel Damsgaard",
+        "Patrick Dorgu",
+        "Danmarks herrelandshold",
+        "Norge"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 40,
+        "decisionValue": 10,
+        "novelty": 70,
+        "sourceQuality": 82,
+        "personalRelevance": 55,
+        "contrast": 20
+      },
+      "claims": [
+        {
+          "text": "Danmark tabte 3-2 til Norge i Nations League efter at have kæmpet sig tilbage fra 0-2; Højlund og Damsgaard scorede",
+          "sourceUrls": [
+            "https://www.dr.dk/sporten/fodbold/landsholdet/karakterer-dansk-anfoerer-dumper-i-skuffelse"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "KARAKTERER: Dansk anfører dumper",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/sporten/fodbold/landsholdet/karakterer-dansk-anfoerer-dumper-i-skuffelse",
+          "publishedAt": "2026-09-24T20:52:24Z",
+          "kind": "reporting"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "Formand for Grønlands Udenrigs- og Sikkerhedspolitiske Udvalg trækker sig",
+      "headline": "Formand for Grønlands Udenrigs- og Sikkerhedspolitiske Udvalg trækker sig",
+      "url": "https://www.altinget.dk/navnenyt/formand-for-groenlands-udenrigs-og-sikkerhedspolitiske-udvalg-traekker-sig",
+      "publisher": "Altinget",
+      "section": "Grønland",
+      "publishedAt": "2026-09-24T07:00:00Z",
+      "summary": "Pipaluk Lynge (Inuit Ataqatigiit) trækker sig efter fem år som formand for Inatsisartuts udenrigs- og sikkerhedspolitiske udvalg, samme dag som Grønland, Danmark og USA underskrev en sikkerhedsaftale."
+    },
+    {
+      "text": "Fødevarevirksomheder vil med i det danske kriseberedskab",
+      "headline": "Fødevarevirksomheder vil med i det danske kriseberedskab",
+      "url": "https://www.altinget.dk/erhverv/artikel/foedevarevirksomheder-vil-med-i-det-danske-kriseberedskab",
+      "publisher": "Altinget",
+      "section": "Erhverv",
+      "publishedAt": "2026-09-24T03:00:00Z",
+      "summary": "Dansk Industri og fødevarevirksomheder efterlyser formel politisk koordination for fødevareforsyningssikkerhed ved strøm-, vand- eller broudfald, i tråd med nabolandene."
+    },
+    {
+      "text": "Danmark indgår strategisk partnerskab med Brasilien",
+      "headline": "Danmark indgår strategisk partnerskab med Brasilien",
+      "url": "https://www.altinget.dk/artikel/danmark-indgaar-strategisk-partnerskab-med-brasilien",
+      "publisher": "Altinget",
+      "section": "Udenrigspolitik",
+      "publishedAt": "2026-09-24T06:00:00Z",
+      "summary": "Udenrigsminister Lars Løkke Rasmussen har underskrevet en femårig partnerskabsaftale med Brasilien om klima, sundhed, digitalisering og handel."
+    },
+    {
+      "text": "Danske teleselskaber slår alarm: Investeringer i infrastruktur er i frit fald",
+      "headline": "Danske teleselskaber slår alarm: Investeringer i infrastruktur er i frit fald",
+      "url": "https://www.computerworld.dk/art/296914/danske-teleselskaber-slaar-alarm-investeringer-i-infrastruktur-er-i-frit-fald",
+      "publisher": "Computerworld",
+      "section": "Erhverv",
+      "publishedAt": "2026-09-23T08:23:00Z",
+      "summary": "Brancheorganisationen Teleindustrien melder, at danske teleselskabers infrastrukturinvesteringer er på det laveste niveau siden 2018, og efterlyser bedre rammevilkår."
+    },
+    {
+      "text": "NASA-Funded Research Finds Complex Life Defying Record Heat",
+      "headline": "NASA-Funded Research Finds Complex Life Defying Record Heat",
+      "url": "https://science.nasa.gov/science-research/planetary-science/nasa-funded-research-finds-complex-life-defying-record-heat/",
+      "publisher": "NASA",
+      "section": "Videnskab",
+      "publishedAt": "2026-09-22T17:33:10Z",
+      "summary": "Ny encellet amøbeart fundet i geotermiske kilder i Californien deler sig ved 63°C - den højeste kendte varmetolerance hos en eukaryot organisme, med betydning for astrobiologi."
+    },
+    {
+      "text": "Danmark bliver vært for VM i cykelcross i 2032",
+      "headline": "Danmark bliver vært for VM i cykelcross i 2032",
+      "url": "https://www.dr.dk/sporten/seneste-sport/danmark-bliver-vaert-vm-i-cykelcross-i-2032",
+      "publisher": "DR",
+      "section": "Sport",
+      "publishedAt": "2026-09-24T05:19:44Z",
+      "summary": "UCI-kongressen i Montreal har tildelt Danmark værtskabet for VM i cykelcross 2032 med Egeskov Slot på Fyn som ramme."
+    },
+    {
+      "text": "Danmarks bedste orienteringsløber ser muligheder i tæt finale",
+      "headline": "Danmarks bedste orienteringsløber ser muligheder i tæt finale",
+      "url": "https://www.dr.dk/sporten/seneste-sport/danmarks-bedste-orienteringsloeber-forudser-haard-finale",
+      "publisher": "DR",
+      "section": "Sport",
+      "publishedAt": "2026-09-24T09:00:58Z",
+      "summary": "Danmarks bedste orienteringsløber, Linus Agervig, går til en langdistancefinale ved EM i Litauen i et usædvanligt stærkt felt."
+    },
+    {
+      "text": "Mads P. glad for, at mission lykkedes: - Det betød meget",
+      "headline": "Mads P. glad for, at mission lykkedes: - Det betød meget",
+      "url": "https://sport.tv2.dk/cykling/2026-09-23-mads-p-glad-for-at-mission-lykkedes-det-betoed-meget",
+      "publisher": "TV 2",
+      "section": "Sport",
+      "publishedAt": "2026-09-24T09:57:02Z",
+      "summary": "Mads Pedersen har brugt ca. 140.000 kr. fra en trøjeauktion og egne penge til at sende to ekstra U23-danskere til VM i Montreal."
+    },
+    {
+      "text": "22-årig rumænsk mand varetægtsfængslet for drab i Gudenåen",
+      "headline": "22-årig rumænsk mand varetægtsfængslet for drab i Gudenåen",
+      "url": "https://www.dr.dk/nyheder/indland/22-aarig-rumaensk-mand-varetaegtsfaengslet-drab-i-gudenaaen",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-09-24T16:34:28Z",
+      "summary": "En 22-årig rumænsk mand er udleveret og varetægtsfængslet for drabet på en 37-årig rumænsk mand fundet i Gudenåen i august."
+    },
+    {
+      "text": "Overgangsalder er hot topic på arbejdspladserne: Nu er der landet en række anbefalinger",
+      "headline": "Overgangsalder er hot topic på arbejdspladserne: Nu er der landet en række anbefalinger",
+      "url": "https://www.dr.dk/nyheder/indland/overgangsalder-er-hot-topic-paa-arbejdspladserne-nu-er-der-landet-en-raekke-anbefalinger",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-09-25T03:47:22Z",
+      "summary": "Dansk Standard har udgivet nye anbefalinger til arbejdspladser om overgangsalder; relateret fravær anslås at koste samfundet 10.000 fuldtidsstillinger årligt."
+    },
+    {
+      "text": "Ministeren vil jage ulven, men centralt tal mangler",
+      "headline": "Ministeren vil jage ulven, men centralt tal mangler",
+      "url": "https://www.dr.dk/nyheder/indland/ministeren-vil-jage-ulven-men-centralt-tal-mangler",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-09-24T13:47:00Z",
+      "summary": "Ministeren for natur og dyrevelfærd forventer ulvejagt-tilladelser fra 2027, men myndighederne mangler stadig at fastsætte den EU-krævede populationsbaseline."
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-louisiana-varo-2026",
+      "mode": "experience",
+      "kind": "exhibition",
+      "status": "timely",
+      "title": "Remedios Varo",
+      "creator": "Remedios Varo",
+      "provider": "Louisiana Museum of Modern Art",
+      "url": "https://louisiana.dk/en/exhibition/remedios-varo/",
+      "availability": "I person, Humlebæk, 18.9.2026 - 10.1.2027",
+      "commitment": "1-2 timer",
+      "description": "Louisianas første store europæiske retrospektiv af den mexicansk-spanske surrealist Remedios Varo, med over 70 værker fra hendes tid i Barcelona, Paris og Mexico.",
+      "rationale": "En genuint overraskende kunstoplevelse tæt på København - en kunstner, der sjældent vises i stort format i Europa, og en oplagt pause fra nyhedsstrømmen midt i en uge domineret af politik og erhverv.",
+      "topics": [
+        "art",
+        "surrealism"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-wto-world-trade-report-2026",
+      "mode": "read",
+      "kind": "report",
+      "status": "available",
+      "title": "World Trade Report 2026",
+      "provider": "World Trade Organization",
+      "url": "https://www.wto.org/english/res_e/publications_e/world-trade-report-2026_e.htm",
+      "availability": "Frit tilgængelig som PDF og webversion",
+      "commitment": "1-2 timer",
+      "description": "WTO's årlige flagskibsrapport modellerer tre scenarier for det multilaterale handelssystem og anslår, at reform kan løfte den globale BNP med op til 3 pct. inden 2050, mens fortsat fragmentering kan koste op mod 10 pct.",
+      "rationale": "Direkte relevant for en praksis bygget på handelspolitisk rådgivning: rapporten kvantificerer, hvad der reelt står på spil i den told- og handelsfragmentering, der allerede fylder i ugens nyheder.",
+      "topics": [
+        "trade-policy",
+        "multilateralism",
+        "macroeconomics"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://www.wto.org/images/img_bkshop/wtr2026.jpg",
+        "credit": "Kilde: World Trade Organization",
+        "alt": "Forsiden af World Trade Report 2026: \"A critical juncture for the world trading system\"",
+        "sourceUrl": "https://www.wto.org/english/res_e/publications_e/world-trade-report-2026_e.htm"
+      }
+    },
+    {
+      "id": "rec-presidents-cup-2026",
+      "mode": "watch",
+      "kind": "sports-event",
+      "status": "timely",
+      "title": "Presidents Cup 2026",
+      "provider": "PGA Tour / Presidents Cup",
+      "url": "https://www.presidentscup.com/",
+      "availability": "Live nu, Medinah Country Club, Chicago; USA fører 3-2 ved indgangen til runde 2; tv-dækning varierer efter land",
+      "commitment": "Løbende, hele weekenden",
+      "description": "USA mod et internationalt hold i den bienniale Ryder Cup-lignende golfturnering; USA leder 3-2, mens turneringen går ind i weekendens afgørende runder.",
+      "rationale": "Live golf på højeste niveau, uden nogen forberedelse krævet - en oplagt genstand for weekendens skærmtid for en golfentusiast.",
+      "topics": [
+        "golf"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-laver-cup-2026",
+      "mode": "watch",
+      "kind": "sports-event",
+      "status": "timely",
+      "title": "Laver Cup London 2026",
+      "provider": "Laver Cup / ATP",
+      "url": "https://lavercup.com/",
+      "availability": "Live nu i The O2, London; turneringen kører hele ugen, dag 1 allerede spillet; tv-dækning varierer efter land",
+      "commitment": "Løbende, resten af ugen",
+      "description": "Team Europa mod Team Verden i den årlige holdturnering i tennis, afviklet i The O2 i London.",
+      "rationale": "En anden aktuel, live sportsbegivenhed inden for en af dine faste interesser - tennis på øverste niveau uden krav om forudgående research.",
+      "topics": [
+        "tennis"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {}
+}
