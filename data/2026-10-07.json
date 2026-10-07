@@ -1,0 +1,667 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-10-07",
+  "date": "2026-10-07",
+  "generatedAt": "2026-10-07T04:31:17.000Z",
+  "readingMinutes": 10,
+  "title": "Thomas' Nyheder",
+  "dek": "CPR-læk rammer 8,8 millioner danskere, Risikorådet advarer om boligpriser i København, og dansk sport leverer EM-cykling, golf-sølv og Rune-comeback.",
+  "profileWeights": {
+    "importance": 22,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 18,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-cpr-laek-20261007",
+      "eventKey": "cpr-laek-faktura-20261006",
+      "materialFacts": [
+        "Uautoriseret adgang til CPR-oplysninger om 8,8 millioner personer i cirka ti dage i september",
+        "Sagen blev opdaget pga. en usædvanligt høj faktura for opslag i CPR-registret",
+        "Digitaliseringsminister Christina Egelund har bedt om en sikkerhedsgennemgang af CPR-systemet"
+      ],
+      "section": "Danmark",
+      "headline": "CPR-læk blev opdaget på grund af dyr faktura",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/cpr-laek-blev-opdaget-paa-grund-af-dyr-faktura",
+      "subheadline": "Ukendte fik i cirka ti dage i september adgang til CPR-oplysninger om 8,8 millioner personer. Lækket blev opdaget, fordi regningen for opslag i registret blev usædvanligt høj.",
+      "body": [
+        "I omkring ti dage i september skaffede ukendte sig uautoriseret adgang til CPR-registret og fik navn og adresse på 8,8 millioner personer i Danmark – stort set hele registret. Adgangen blev opdaget, fordi en virksomhed med lovlig registeradgang fik en usædvanligt høj faktura for sine opslag, oplyser Styrelsen for Samfundssikkerhed.",
+        "National enhed for Særlig Kriminalitet har endnu ikke identificeret bagmændene. »Det er for tidligt at sige, hvem der står bag, og hvilket modus der er anvendt,« siger afdelingsleder Henriette Erbs. Digitaliseringsminister Christina Egelund (M) har bedt om en sikkerhedsgennemgang af hele CPR-systemet."
+      ],
+      "whyItMatters": "CPR-nummeret er nøglen til dansk administration, fra banker til sundhedsvæsen. Et læk af navn og adresse i den skala øger risikoen for målrettet digital svindel og lægger pres på virksomheder med registeradgang om bedre kontrol.",
+      "analysis": "At en faktura – ikke et sikkerhedssystem – opdagede lækket, rejser spørgsmål om, hvor godt adgangskontrollen til CPR-registret i praksis overvåges.",
+      "counterpoint": "Myndighederne betoner, at kun navn og adresse er bekræftet tilgået, og at der endnu ikke er tegn på konkret misbrug.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/4mldetlh/20261006-152423-l.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Arkivfoto anvendt af DR til historien om CPR-læk i september.",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/cpr-laek-blev-opdaget-paa-grund-af-dyr-faktura"
+      },
+      "topics": [
+        "danmark",
+        "sikkerhed",
+        "digitalisering"
+      ],
+      "entities": [
+        "Styrelsen for Samfundssikkerhed",
+        "National enhed for Særlig Kriminalitet",
+        "Christina Egelund"
+      ],
+      "isLead": true,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 92,
+        "decisionValue": 55,
+        "novelty": 85,
+        "sourceQuality": 90,
+        "personalRelevance": 45,
+        "contrast": 80
+      },
+      "claims": [
+        {
+          "text": "Uautoriseret adgang til CPR-registret gav adgang til navn og adresse på 8,8 mio. personer over ca. ti dage i september.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/cpr-laek-blev-opdaget-paa-grund-af-dyr-faktura"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Digitaliseringsminister Christina Egelund har bedt om en sikkerhedsgennemgang af CPR-systemet.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/cpr-laek-blev-opdaget-paa-grund-af-dyr-faktura"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "CPR-læk blev opdaget på grund af dyr faktura",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/cpr-laek-blev-opdaget-paa-grund-af-dyr-faktura",
+          "publishedAt": "2026-10-06T13:47:26.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-landsret-bombe-20261007",
+      "eventKey": "landsret-bombe-odense-20261005",
+      "materialFacts": [
+        "Østre Landsret skærpede straffen for et forsøgt bombeattentat i Odense i december 2023",
+        "Deniz Köycu idømt 13 års fængsel, en 19-årig svensker 12 år, Abdulrahman Haj Yousif fem år"
+      ],
+      "section": "Danmark",
+      "headline": "Landsret skærper straf i sag om bombe bragt fra Sverige til Danmark",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/landsret-skaerper-straf-i-sag-om-bombe-bragt-fra-sverige-til-danmark",
+      "subheadline": "Østre Landsret har skærpet straffene til tre mænd, der forsøgte at sprænge en bombe med 4,4 kilo sprængstof i en opgang i Odense i december 2023.",
+      "body": [
+        "Østre Landsret har skærpet straffen til tre mænd, der er fundet skyldige i at have forsøgt at sprænge en bombe med 4,4 kilo sprængstof i en opgang på Nyborgvej i Odense i december 2023. Deniz Köycu, 21, får 13 års fængsel mod ti år i byretten, en nu 19-årig svensker får 12 år, og Abdulrahman Haj Yousif, 21, får fem år mod tre og et halvt år. En fjerde mand er frifundet.",
+        "Skærpelsen skyldes, at landsretten dømmer efter en strengere paragraf om sprængning end byretten, forklarer specialanklager Ulrich Thomsen. Alle tre dømte udvises med indrejseforbud for bestandig."
+      ],
+      "whyItMatters": "Sagen tester, hvor hårdt domstolene vil straffe grænseoverskridende kriminalitet, der involverer sprængstof importeret fra udlandet mod civile mål.",
+      "analysis": "At landsretten skærper strafferammen frem for byrettens vurdering, signalerer, at retssystemet vurderer den slags sager strengere, når der er reel fare for andres liv.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/yqgeaxcx/20250114-105432-2_crop001.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Foto: Mads Claus Rasmussen, Ritzau Scanpix",
+        "alt": "Østre Landsret har set på en sag, hvor en bombe med flere kilo sprængstof blev bragt fra Sverige til Danmark.",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/landsret-skaerper-straf-i-sag-om-bombe-bragt-fra-sverige-til-danmark"
+      },
+      "topics": [
+        "danmark",
+        "retsvaesen",
+        "kriminalitet"
+      ],
+      "entities": [
+        "Østre Landsret",
+        "Deniz Köycu",
+        "Abdulrahman Haj Yousif",
+        "Ulrich Thomsen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 70,
+        "decisionValue": 30,
+        "novelty": 60,
+        "sourceQuality": 88,
+        "personalRelevance": 20,
+        "contrast": 70
+      },
+      "claims": [
+        {
+          "text": "Østre Landsret skærpede straffene for tre mænd dømt for forsøg på at sprænge en bombe i Odense i december 2023.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/landsret-skaerper-straf-i-sag-om-bombe-bragt-fra-sverige-til-danmark"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Landsret skærper straf i sag om bombe bragt fra Sverige til Danmark",
+          "publisher": "DR (Ritzau)",
+          "url": "https://www.dr.dk/nyheder/indland/landsret-skaerper-straf-i-sag-om-bombe-bragt-fra-sverige-til-danmark",
+          "publishedAt": "2026-10-05T16:41:29.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-risikoraad-bolig-20261007",
+      "eventKey": "risikoraad-boligpriser-kbh-20261006",
+      "materialFacts": [
+        "Risikorådet siger prisstigninger på københavnske ejerlejligheder ikke kan forklares af indkomst- og renteudvikling",
+        "Rådet peger på gearede hedgefonde, der bruger repo-finansiering i danske realkreditobligationer, som en risikokanal"
+      ],
+      "section": "Erhverv og økonomi",
+      "headline": "Risikorådet advarer nu om prisfald i København: Boligpriserne kan ikke længere forklares af renter og indkomster",
+      "primarySourceUrl": "https://ugebrev.dk/flashnews/risikoraadet-advarer-nu-om-prisfald-i-koebenhavn-boligpriserne-kan-ikke-laengere-forklares-af-renter-og-indkomster/",
+      "subheadline": "Det Systemiske Risikoråd åbner for en priskorrektion på ejerlejligheder i København og peger på gearede hedgefonde som en ny kanal for finansiel smitte til dansk realkredit.",
+      "body": [
+        "Det Systemiske Risikoråd advarer om, at prisstigningerne på ejerlejligheder i København »ikke kan forklares af udviklingen i indkomster og renter«, hvilket øger risikoen for en egentlig priskorrektion. En svagere, lignende tendens ses nu også for enfamiliehuse på landsplan.",
+        "Rådet peger på en ny risikokanal: gearede hedgefonde bruger repo-finansiering i danske realkreditobligationer, så uro om udenlandsk statsgæld kan presse det danske realkreditmarked. Rådet advarer mod at lempe boliglånsreglerne og nævner nu AI-cybersikkerhed som finansiel risiko."
+      ],
+      "whyItMatters": "En tidlig officiel indikator på, at Københavns boligmarked kan vende – og at realkreditrisikoen nu også løber via udenlandsk statsgæld, ikke kun via den danske rente.",
+      "analysis": "Risikorådets sprog er usædvanligt direkte for en forsigtig institution. Koblingen til udenlandsk statsgæld via gearede fonde er en ny mekanisme for bank- og pensionssektoren.",
+      "topics": [
+        "danmark",
+        "makroekonomi",
+        "boligmarked",
+        "finansiel-stabilitet"
+      ],
+      "entities": [
+        "Det Systemiske Risikoråd"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 78,
+        "decisionValue": 75,
+        "novelty": 70,
+        "sourceQuality": 75,
+        "personalRelevance": 85,
+        "contrast": 50
+      },
+      "claims": [
+        {
+          "text": "Risikorådet siger boligprisstigninger i København ikke kan forklares af indkomst- og renteudvikling, og åbner for en priskorrektion.",
+          "sourceUrls": [
+            "https://ugebrev.dk/flashnews/risikoraadet-advarer-nu-om-prisfald-i-koebenhavn-boligpriserne-kan-ikke-laengere-forklares-af-renter-og-indkomster/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Risikorådet advarer nu om prisfald i København: Boligpriserne kan ikke længere forklares af renter og indkomster",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/flashnews/risikoraadet-advarer-nu-om-prisfald-i-koebenhavn-boligpriserne-kan-ikke-laengere-forklares-af-renter-og-indkomster/",
+          "publishedAt": "2026-10-06T12:40:13.000Z",
+          "kind": "analysis"
+        }
+      ],
+      "image": {
+        "url": "https://ugebrev.dk/wp-content/uploads/2023/06/boligmarkedet-ejerboliger-03.jpg",
+        "credit": "Kilde: Økonomisk Ugebrev",
+        "alt": "Risikorådet advarer nu om prisfald i København: Boligpriserne kan ikke længere forklares af renter og indkomster",
+        "sourceUrl": "https://ugebrev.dk/flashnews/risikoraadet-advarer-nu-om-prisfald-i-koebenhavn-boligpriserne-kan-ikke-laengere-forklares-af-renter-og-indkomster/"
+      }
+    },
+    {
+      "id": "story-pmi-aiboom-20261007",
+      "eventKey": "global-pmi-ai-boom-202609",
+      "materialFacts": [
+        "Globalt PMI for fremstilling steg i september med 0,7 point til 53,0, højeste niveau siden begyndelsen af 2022",
+        "Eksportordre-indeks på det højeste niveau i fem år"
+      ],
+      "section": "Erhverv og økonomi",
+      "headline": "Global handel og industri fortsætter fremgangen drevet af AI-boom",
+      "primarySourceUrl": "https://ugebrev.dk/flashnews/global-handel-og-industri-fortsaetter-fremgangen-drevet-af-ai-boom/",
+      "subheadline": "Det globale PMI for fremstilling nåede i september sit højeste niveau siden begyndelsen af 2022, med eksportordrer på et femårshøjt niveau – men flaskehalse i forsyningskæderne fortsætter.",
+      "body": [
+        "Det globale PMI for fremstilling steg i september 0,7 point til 53,0 – højeste niveau siden 2022, viser ABN AMRO-økonom Arjen van Dijkhuizens gennemgang i Økonomisk Ugebrev. Avancerede økonomier nåede 54,3, vækstøkonomier 51,9. USA, Taiwan, Sydkorea, Japan, eurozonen og Storbritannien lå alle i ekspansion.",
+        "Produktion og nye ordrer steg til flerårshøjder på 53,8 og 53,6, og eksportordrer steg for tredje måned i træk til 51,9 – højeste niveau i fem år. Handelsvolumen voksede 5,8 pct. år til år i januar-juli, mens flaskehalse og fragtrater fortsat er forhøjede."
+      ],
+      "whyItMatters": "Et PMI på dette niveau, drevet af AI-investeringer, signalerer at den industrielle højkonjunktur, dansk eksport nyder godt af, er bredt funderet i avancerede økonomier.",
+      "analysis": "At eksportordrer er på femårshøjde, mens fragtrater forbliver forhøjede, tyder på en konjunktur, der vokser hurtigere end logistikkapaciteten følger med.",
+      "image": {
+        "url": "https://images.ctfassets.net/1u811bvgvthc/4StM2bPUQtGR0FjAQeYWdU/d2b80cbaed6fdcf094ea4f8efe4f8311/1x1__Arjen_ven_Dijkhuizen_088.jpg?w=800",
+        "credit": "Kilde: Økonomisk Ugebrev",
+        "alt": "Arjen van Dijkhuizen, seniorøkonom i ABN AMRO, hvis analyse ligger til grund for artiklen om det globale PMI.",
+        "sourceUrl": "https://ugebrev.dk/flashnews/global-handel-og-industri-fortsaetter-fremgangen-drevet-af-ai-boom/"
+      },
+      "topics": [
+        "global-oekonomi",
+        "handel",
+        "makroekonomi"
+      ],
+      "entities": [
+        "Arjen van Dijkhuizen",
+        "ABN AMRO"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 68,
+        "decisionValue": 72,
+        "novelty": 55,
+        "sourceQuality": 80,
+        "personalRelevance": 88,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "Globalt PMI for fremstilling steg til 53,0 i september, højeste niveau siden begyndelsen af 2022.",
+          "sourceUrls": [
+            "https://ugebrev.dk/flashnews/global-handel-og-industri-fortsaetter-fremgangen-drevet-af-ai-boom/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Global handel og industri fortsætter fremgangen drevet af AI-boom",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/flashnews/global-handel-og-industri-fortsaetter-fremgangen-drevet-af-ai-boom/",
+          "publishedAt": "2026-10-06T11:56:35.000Z",
+          "kind": "analysis"
+        }
+      ]
+    },
+    {
+      "id": "story-cykling-em-20261007",
+      "eventKey": "cykling-em-enkeltstart-20261007",
+      "materialFacts": [
+        "EM i landevejscykling afsluttes onsdag med en 22,1 km enkeltstart",
+        "TV2s ekspert udpeger Jakob Söderqvist som topfavorit"
+      ],
+      "section": "Sport",
+      "headline": "Axelgaards optakt til herrernes EM-enkeltstart",
+      "primarySourceUrl": "https://sport.tv2.dk/cykling/2026-10-06-axelgaards-optakt-til-herrernes-em-enkeltstart",
+      "subheadline": "Onsdag afgøres EM i landevejscykling med en 22,1 km enkeltstart, hvor TV2s ekspert Emil Axelgaard udpeger svenske Jakob Söderqvist som topfavorit.",
+      "body": [
+        "EM i landevejscykling rundes onsdag af med herrernes enkeltstart, en 22,1 km rute, der blandt andet rammer den velkendte 'mur'. TV2s cykelekspert Emil Axelgaard udpeger Jakob Söderqvist som topfavorit med fem stjerner, foran Primoz Roglic og Bruno Armirail med fire.",
+        "Blandt danskerne er Mikkel Bjerg og Kasper Asgreen vurderet til to stjerner af fem. Axelgaard liveblogger selv fra løbet, der ventes at starte klokken 16.15 med afslutning omkring 17.20."
+      ],
+      "whyItMatters": "Cykling er den sportsgren, læseren følger tættest, og en EM-enkeltstart med danske deltagere giver et konkret pejlemærke for dansk cyklings bredde.",
+      "analysis": "EM i landevejscykling blev først indført i 1995 og kæmper stadig for prestige over for VM og Tour de France – et stærkt favoritfelt kan hæve løbets status yderligere.",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/5/0/d/50df409e-4a52-4715-b3fe-6c307eb06fd5?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCwwLDMwMDAsMTY4OA&s=6e829896539fe68de013f394ed2f774f",
+        "credit": "Foto: Eric Bolte, Reuters/Ritzau Scanpix",
+        "alt": "Jakob Söderqvist, TV2s favorit til EM-enkeltstarten i landevejscykling.",
+        "sourceUrl": "https://sport.tv2.dk/cykling/2026-10-06-axelgaards-optakt-til-herrernes-em-enkeltstart"
+      },
+      "topics": [
+        "sport",
+        "cykling"
+      ],
+      "entities": [
+        "Jakob Söderqvist",
+        "Primoz Roglic",
+        "Mikkel Bjerg",
+        "Kasper Asgreen",
+        "Emil Axelgaard"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 40,
+        "decisionValue": 15,
+        "novelty": 50,
+        "sourceQuality": 75,
+        "personalRelevance": 30,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "TV2s cykelekspert udpeger Jakob Söderqvist som topfavorit til EM-enkeltstarten onsdag.",
+          "sourceUrls": [
+            "https://sport.tv2.dk/cykling/2026-10-06-axelgaards-optakt-til-herrernes-em-enkeltstart"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Axelgaards optakt til herrernes EM-enkeltstart",
+          "publisher": "TV 2",
+          "url": "https://sport.tv2.dk/cykling/2026-10-06-axelgaards-optakt-til-herrernes-em-enkeltstart",
+          "publishedAt": "2026-10-06T21:12:18.260Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-golf-norgaard-20261007",
+      "eventKey": "golf-dunhill-links-norgaard-20261004",
+      "materialFacts": [
+        "Niklas Nørgaard delt andenplads ved Alfred Dunhill Links Championship, to slag efter vinderen",
+        "Jacob Skov Olesen sluttede som nummer 11"
+      ],
+      "section": "Sport",
+      "headline": "Dansker tæt på golftriumf i Skotland",
+      "primarySourceUrl": "https://www.dr.dk/sporten/seneste-sport/dansker-taet-paa-golftriumf-i-skotland",
+      "subheadline": "Niklas Nørgaard sluttede på delt andenplads ved Alfred Dunhill Links Championship, to slag efter den polske vinder Adrian Meronk.",
+      "body": [
+        "Niklas Nørgaard var tæt på dansk sejr ved Alfred Dunhill Links Championship i Skotland, men måtte nøjes med delt andenplads, to slag efter vinderen Adrian Meronk fra Polen, der sluttede på 20 under par. Nørgaard gik fire under par i finalerunden og endte samlet på 18 under par.",
+        "Landsmanden Jacob Skov Olesen sluttede som nummer 11. Danmark har tidligere vundet Dunhill Links to gange: Thorbjørn Olesen i 2015 og Lucas Bjerregaard i 2018."
+      ],
+      "whyItMatters": "En dansk topplacering i en af DP World Tours mest prestigefyldte turneringer bekræfter dansk golfs fortsatte styrke på den europæiske scene.",
+      "analysis": "Nørgaards finalerunde på fire under par viser, at han var tæt på at følge i Olesens og Bjerregaards fodspor som dansk Dunhill Links-vinder.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/kzydh0sd/20260618-211740-l_crop001_crop001.jpg",
+        "credit": "Kilde: DR",
+        "alt": "DR's foto til historien om Niklas Nørgaards andenplads ved Alfred Dunhill Links Championship.",
+        "sourceUrl": "https://www.dr.dk/sporten/seneste-sport/dansker-taet-paa-golftriumf-i-skotland"
+      },
+      "topics": [
+        "sport",
+        "golf"
+      ],
+      "entities": [
+        "Niklas Nørgaard",
+        "Adrian Meronk",
+        "Jacob Skov Olesen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 35,
+        "decisionValue": 10,
+        "novelty": 45,
+        "sourceQuality": 80,
+        "personalRelevance": 30,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "Niklas Nørgaard sluttede delt andenplads ved Alfred Dunhill Links Championship, to slag efter vinderen Adrian Meronk.",
+          "sourceUrls": [
+            "https://www.dr.dk/sporten/seneste-sport/dansker-taet-paa-golftriumf-i-skotland"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Dansker tæt på golftriumf i Skotland",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/sporten/seneste-sport/dansker-taet-paa-golftriumf-i-skotland",
+          "publishedAt": "2026-10-04T17:01:28.000Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-tennis-rune-20261007",
+      "eventKey": "tennis-rune-shanghai-comeback-20261006",
+      "materialFacts": [
+        "Holger Rune er tilbage på ATP-touren ved Shanghai Masters efter skadespause",
+        "Ben Shelton og Carlos Alcaraz har hyldet comebacket personligt"
+      ],
+      "section": "Sport",
+      "headline": "Imponeret stjerne tog fat i Rune",
+      "primarySourceUrl": "https://sport.tv2.dk/tennis/2026-10-06-imponeret-stjerne-tog-fat-i-rune",
+      "subheadline": "Holger Rune er tilbage på ATP-touren ved Shanghai Masters efter en skadespause og beskriver en varm velkomst fra rivaler som Carlos Alcaraz og Ben Shelton.",
+      "body": [
+        "Holger Rune er tilbage på ATP-touren ved Masters 1000-turneringen i Shanghai efter en skadespause. Flere stjerner har bemærket comebacket, blandt andet US Open-finalisten Ben Shelton, der i spillerområdet sagde til Rune, at det nok havde taget ham et år at spille på det niveau, danskeren viste ved Davis Cup.",
+        "Rune fortæller, at også Carlos Alcaraz og Arthur Fils har hilst på ham. »Der har været god stil rundt på touren,« siger Rune, der møder tyske Daniel Altmaier i første runde."
+      ],
+      "whyItMatters": "Tennis er et af læserens faste sportsinteresser, og Runes tilbagekomst efter skade er en konkret statusopdatering på en dansk profil, der er svær at fange uden at følge sporten tæt.",
+      "analysis": "At flere af verdens bedste spillere aktivt opsøger Rune for at byde ham tilbage, er et tydeligt tegn på, hvor højt han stadig respekteres på touren.",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/8/9/4/89481980-5e72-4833-81d6-d488428704ff?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCwyNDcsMzg1NSwyMTY3&s=d4421357620516ddaf8bb4e3c35bbb06",
+        "credit": "Foto: Kylie Cooper, Ritzau Scanpix",
+        "alt": "Rune og Shelton i duel ved US Opens mixturnering i fjor.",
+        "sourceUrl": "https://sport.tv2.dk/tennis/2026-10-06-imponeret-stjerne-tog-fat-i-rune"
+      },
+      "topics": [
+        "sport",
+        "tennis"
+      ],
+      "entities": [
+        "Holger Rune",
+        "Ben Shelton",
+        "Carlos Alcaraz",
+        "Arthur Fils"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 38,
+        "decisionValue": 10,
+        "novelty": 55,
+        "sourceQuality": 75,
+        "personalRelevance": 30,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "Holger Rune er tilbage på ATP-touren i Shanghai efter skadespause, og flere spillere har hyldet comebacket.",
+          "sourceUrls": [
+            "https://sport.tv2.dk/tennis/2026-10-06-imponeret-stjerne-tog-fat-i-rune"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Imponeret stjerne tog fat i Rune",
+          "publisher": "TV 2",
+          "url": "https://sport.tv2.dk/tennis/2026-10-06-imponeret-stjerne-tog-fat-i-rune",
+          "publishedAt": "2026-10-06T05:29:42.665Z",
+          "kind": "reporting"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "Linea Søgaard-Lidell genopstiller ikke til Folketinget: Skal være grøn lobbyist",
+      "headline": "Linea Søgaard-Lidell genopstiller ikke til Folketinget: Skal være grøn lobbyist",
+      "summary": "Venstres tidligere klimaordfører stiller ikke op igen og bliver i stedet direktør i Hydrogen Denmark, hvor hun skal arbejde med brint og Power-to-X.",
+      "publisher": "Altinget",
+      "section": "Erhverv og økonomi",
+      "publishedAt": "2026-10-06T03:00:00.000Z",
+      "url": "https://www.altinget.dk/artikel/linea-soegaard-lidell-genopstiller-ikke-til-folketinget-skal-vaere-groen-lobbyist"
+    },
+    {
+      "text": "Lidegaard aflyser alle strategier: Nye handlingsplaner skal skrue tempoet op",
+      "headline": "Lidegaard aflyser alle strategier: Nye handlingsplaner skal skrue tempoet op",
+      "summary": "Erhvervsminister Martin Lidegaard dropper alle ministeriets strategier til fordel for handlingsplaner, der skal kunne implementeres fra 1. januar, med fokus på forsvarsindustri, datacentre og elektrificering.",
+      "publisher": "Altinget",
+      "section": "Erhverv og økonomi",
+      "publishedAt": "2026-10-07T00:00:00.000Z",
+      "url": "https://www.altinget.dk/artikel/lidegaard-aflyser-alle-strategier-nye-handlingsplaner-skal-skrue-tempoet-op"
+    },
+    {
+      "text": "Hummelgaard efterlyser kæmpe besparelser på EU-budget: ”Vi vil ikke være med til at udskrive blankochecks”",
+      "headline": "Hummelgaard efterlyser kæmpe besparelser på EU-budget: ”Vi vil ikke være med til at udskrive blankochecks”",
+      "summary": "Finansminister Peter Hummelgaard har fået Folketingets mandat til en linje, der prioriterer konkurrenceevne, Ukraine, migration og grænsekontrol i det næste EU-budget (2028-2034) frem for traditionelle udgiftsposter.",
+      "publisher": "Altinget",
+      "section": "EU",
+      "publishedAt": "2026-10-06T00:00:00.000Z",
+      "url": "https://www.altinget.dk/artikel/hummelgaard-efterlyser-kaempe-besparelser-paa-eu-budget-vi-vil-ikke-vaere-med-til-at-udskrive-blankochecks-efter-kommissionens-oenskeliste"
+    },
+    {
+      "text": "NORDEN opjusterer forventningerne til årets resultat",
+      "headline": "NORDEN opjusterer forventningerne til årets resultat",
+      "summary": "Det danske shippingselskab NORDEN hæver forventningen til nettoresultatet i 2026 til 180-230 mio. USD fra tidligere 140-190 mio. USD, drevet af stærke tørlast- og tankresultater.",
+      "publisher": "Økonomisk Ugebrev (Nasdaq-meddelelse)",
+      "section": "Erhverv og økonomi",
+      "publishedAt": "2026-10-06T15:13:06.000Z",
+      "url": "https://ugebrev.dk/flashnews/norden-opjusterer-forventningerne-til-aarets-resultat/"
+    },
+    {
+      "text": "To af Danmarks store konsulentbrands forsvinder fra Jordens overflade: Fusionerer for at blive europæisk aktør under nyt navn",
+      "headline": "To af Danmarks store konsulentbrands forsvinder fra Jordens overflade: Fusionerer for at blive europæisk aktør under nyt navn",
+      "summary": "Two af Danmarks tungeste it-konsulentbrands fusionerer og rebrandes til én paneuropæisk aktør med ambitioner frem mod 2030.",
+      "publisher": "Computerworld",
+      "section": "Erhverv og økonomi",
+      "publishedAt": "2026-10-06T12:20:00.000Z",
+      "url": "https://www.computerworld.dk/art/297072"
+    },
+    {
+      "text": "Regeringen gambler med brint-milliarder: ”En dårlig aftale for danskerne”",
+      "headline": "Regeringen gambler med brint-milliarder: ”En dårlig aftale for danskerne”",
+      "summary": "Klimaminister Samira Nawa har i sidste uge forpligtet Danmark til en ekstra udgift på 5,6 mia. kr. til Syvtallet-brintrørledningen efter regnefejl og prisstigninger.",
+      "publisher": "Ingeniøren",
+      "section": "Energi",
+      "publishedAt": "2026-10-01T10:00:00.000Z",
+      "url": "https://ing.dk/artikel/regeringen-gambler-med-brint-milliarder-en-daarlig-aftale-danskerne"
+    },
+    {
+      "text": "Banedanmark: Fraværet af godstog giver problemer på højhastighedsbane",
+      "headline": "Banedanmark: Fraværet af godstog giver problemer på højhastighedsbane",
+      "summary": "Revner i skinnerne tvinger tog til at sænke farten mellem Ringsted, Køge Nord og København; Banedanmark peger på for få godstog, fordi mange godsoperatører ikke har udrullet det nye signalsystem.",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-10-06T18:09:00.000Z",
+      "url": "https://www.dr.dk/nyheder/indland/banedanmark-fravaeret-af-godstog-giver-problemer-paa-hoejhastighedsbane"
+    },
+    {
+      "text": "Borgertip fører til anholdelse af efterlyst drabsmistænkt",
+      "headline": "Borgertip fører til anholdelse af efterlyst drabsmistænkt",
+      "summary": "En efterlyst 43-årig mand mistænkt for drab i Hammerum er anholdt efter et tip fra en borger.",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-10-06T13:21:08.000Z",
+      "url": "https://www.dr.dk/nyheder/seneste/politiet-efterlyser-43-aarig-mistaenkt-drab-i-hammerum"
+    },
+    {
+      "text": "37-årig fængslet i sag om drabsforsøg efter sprængning i hus",
+      "headline": "37-årig fængslet i sag om drabsforsøg efter sprængning i hus",
+      "summary": "En 37-årig mand er varetægtsfængslet, sigtet for drabsforsøg efter en sprængning i et hus i Vorre 15. september. Han nægter sig skyldig.",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-10-06T07:41:03.000Z",
+      "url": "https://www.dr.dk/nyheder/seneste/37-aarig-mand-sigtet-drabsforsoeg-efter-spraengning-i-hus"
+    },
+    {
+      "text": "FDM advarer mod to 'livsfarlige' autostole",
+      "headline": "FDM advarer mod to 'livsfarlige' autostole",
+      "summary": "FDMs test fandt, at selen på en Britax Römer Baby-Safe Pro-model gik op under en frontalkollisionstest, og at støttebenet på en Axkid Minikid Core-model kollapsede.",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-10-06T08:06:56.000Z",
+      "url": "https://www.dr.dk/nyheder/indland/fdm-advarer-mod-livsfarlige-autostole"
+    },
+    {
+      "text": "Seruminstitut ser ingen grund til pest-bekymring i Danmark",
+      "headline": "Seruminstitut ser ingen grund til pest-bekymring i Danmark",
+      "summary": "Efter en kvindes mulige pestdød i Rusland vurderer Statens Serum Institut, at der ikke er særlig grund til bekymring blandt danskere.",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-10-06T17:06:00.000Z",
+      "url": "https://www.dr.dk/nyheder/seneste/seruminstitut-ser-ingen-grund-til-pest-bekymring-i-danmark"
+    },
+    {
+      "text": "Elg død efter påkørsel i Nordsjælland",
+      "headline": "Elg død efter påkørsel i Nordsjælland",
+      "summary": "En elg, der flere gange er set i Nordsjælland siden foråret, er dræbt efter at være blevet påkørt på Helsingørmotorvejen.",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-10-05T09:38:53.000Z",
+      "url": "https://www.dr.dk/nyheder/indland/elg-doed-efter-paakoersel-i-nordsjaelland-dukkede-pludselig-op-foran-kvindes-bil"
+    },
+    {
+      "text": "Kunsthistoriker Lise Svanholm er død, 94 år",
+      "headline": "Kunsthistoriker Lise Svanholm er død, 94 år",
+      "summary": "Kunsthistorikeren Lise Svanholm er død i en alder af 94 år af lungebetændelse.",
+      "publisher": "DR",
+      "section": "Kultur",
+      "publishedAt": "2026-10-06T13:34:45.000Z",
+      "url": "https://www.dr.dk/nyheder/kultur/kunsthistoriker-lise-svanholm-er-doed-94-aar"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-tatemodern-light-magic",
+      "mode": "experience",
+      "kind": "Udstilling",
+      "status": "upcoming",
+      "title": "Light and Magic: The Birth of Art Photography",
+      "creator": "Tate Modern",
+      "provider": "Tate Modern, London",
+      "url": "https://www.tate.org.uk/whats-on/tate-modern/light-and-magic",
+      "availability": "Åbner 14. oktober 2026, vises til 21. februar 2027",
+      "description": "Første store udstilling, der behandler pictorialismen som en global bevægelse: over 200 sjældne prints af mere end 80 kunstnere fra Seoul til Sydney og Cape Town til Brasilien, 1880'erne-1960'erne.",
+      "rationale": "Et bevidst spring ud af det erhvervspolitiske felt: global kunsthistorie fortalt med kuratorisk ambition, med et konkret, stærkt værk som indgang.",
+      "topics": [
+        "kunst",
+        "fotografi"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Fan_Ho_Smoky_World_ID_067_Light_and_Magic.width-600.jpg",
+        "credit": "Foto: Fan Ho / M+, Hong Kong (Tate Modern)",
+        "alt": "Fan Hos fotografi 'Smoky World' (1959), udstillet i Light and Magic på Tate Modern.",
+        "sourceUrl": "https://www.tate.org.uk/whats-on/tate-modern/light-and-magic"
+      }
+    },
+    {
+      "id": "rec-csis-tradeguys-g20",
+      "mode": "listen",
+      "kind": "Podcast",
+      "status": "new",
+      "title": "Trump-Xi Summit, USTR's G20 Trade Ministers Meeting, and EU-China Trade Updates",
+      "creator": "Bill Reinsch, Scott Miller, Alex Kisling",
+      "provider": "CSIS, The Trade Guys",
+      "url": "https://www.csis.org/podcasts/trade-guys/trump-xi-summit-ustrs-g20-trade-ministers-meeting-and-eu-china-trade-updates",
+      "availability": "Tilgængelig nu",
+      "commitment": "ca. 25 min",
+      "description": "Tre aktuelle handelspolitiske spor i én episode: Trump-Xi-topmødets økonomiske efterspil, USTR's G20-handelsministermøde i Milwaukee, og hvorfor EU vil have Kina til at begrænse eksport af hybridbiler.",
+      "rationale": "Granulær handelspolitisk indsigt fra tidligere USTR/Commerce-folk, direkte i læserens eget felt.",
+      "topics": [
+        "handelspolitik",
+        "eu",
+        "kina"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-noema-longgame",
+      "mode": "read",
+      "kind": "Essay",
+      "status": "new",
+      "title": "Americans Are Losing The Long Game",
+      "creator": "Simon Curtis og Ian Klaus",
+      "provider": "Noema Magazine",
+      "url": "https://www.noemamag.com/americans-are-losing-the-long-game/",
+      "description": "Argumenterer, at USA-Kina-rivaliseringen i virkeligheden er en langsommere konkurrence om, hvis fremtidsvision der er mest overbevisende – Kina bygger institutioner årtier ud, USA fanget i valgcyklussens korte horisont.",
+      "rationale": "Skarpt og uhedget essay, der rammer lige ind i interessen for EU-konkurrencekraft og den transatlantiske relation.",
+      "topics": [
+        "usa",
+        "kina",
+        "industripolitik"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-keynes-bown-tradewar",
+      "mode": "read",
+      "kind": "Bog",
+      "status": "available",
+      "title": "How to Win a Trade War: An Optimistic Guide to an Anxious Global Economy",
+      "creator": "Soumaya Keynes og Chad Bown",
+      "provider": "Pan Macmillan",
+      "url": "https://www.panmacmillan.com/authors/soumaya-keynes/how-to-win-a-trade-war/9781035090181",
+      "description": "To af de mest læste handelspolitiske stemmer i den engelsksprogede presse forklarer, hvordan handelskrige reelt spiller ud, og hvordan de rammer alt fra boligrenter til pensioner.",
+      "rationale": "Seriøs handelsøkonomi uden falsk skråsikkerhed, fra forfatterne bag Trade Talks-podcasten og FT-klummer.",
+      "topics": [
+        "handelspolitik",
+        "global-oekonomi"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {
+    "sourceCoverage": 100,
+    "novelty": 78,
+    "render": 100
+  }
+}
