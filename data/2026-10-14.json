@@ -1,0 +1,723 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-10-14-ci",
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-14T04:46:13Z",
+  "readingMinutes": 10,
+  "title": "Thomas' Nyheder",
+  "dek": "Tavshed om cpr-læk, finanslovens tidsler, et maritimt inflationschok og en dansk VM-overraskelse i gravelcykling.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-cpr-laek-dxc-20261014",
+      "eventKey": "cpr-laek-dxc-tavshed-20261014",
+      "materialFacts": [
+        "DXC Technology har ikke svaret TV 2 siden 6. oktober",
+        "DXC's danske direktør lagde telefonen på midt i et interview",
+        "Ministeriet bekræfter en undersøgelse, men vil ikke sige mere"
+      ],
+      "section": "Danmark",
+      "headline": "Tavshed fra amerikansk it-gigant efter cpr-læk",
+      "primarySourceUrl": "https://nyheder.tv2.dk/samfund/2026-10-13-tavshed-fra-amerikansk-it-gigant-efter-cpr-laek",
+      "subheadline": "DXC Technology, der skulle sikre cpr-registret, har ikke svaret på spørgsmål siden 6. oktober – og direktøren lagde telefonen på midt i et interview.",
+      "body": [
+        "Det amerikanske it-selskab DXC Technology, der har ansvaret for sikkerheden i det danske cpr-register, har ikke besvaret spørgsmål fra TV 2 siden 6. oktober. Selskabet sikrer også it hos Skat og politiet. Bruddet, hvor 8,8 millioner cpr-numre blev lækket via den fynske virksomhed Pays, blev først opdaget 2. oktober – flere uger efter indbruddet.",
+        "Tirsdag lagde DXC's danske direktør, Steffen Lerche, telefonen på efter et kort opkald med TV 2, med henvisning til et møde. Han har ikke svaret på senere kontaktforsøg. Ministeriet for forskning og digitalisering bekræfter, at sagen undersøges, men vil ikke sige mere."
+      ],
+      "whyItMatters": "At en it-leverandør med ansvar for cpr-registret, Skat og politiets sikkerhed kan tie en sag af den størrelse ud, rejser spørgsmålet om, hvem der reelt holder statens kritiske it-infrastruktur ansvarlig, når leverandøren selv svigter.",
+      "analysis": "Cybersikkerhedseksperter kritiserer, at underleverandøren Pays kunne trække data ubegrænset uden alarmer. Sagen ligner mere en governancesvigt i hele leverandørkæden end en enkeltstående hackersucces.",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/8/e/f/8ef2b23f-bdad-4778-8193-03d6b54be313?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCwwLDE5MjAsMTA4MA&s=78ccca75bf636026d63641aed934d335",
+        "credit": "Kilde: TV 2",
+        "alt": "TV 2's billede til artiklen om DXC Technology og cpr-læk-sagen",
+        "sourceUrl": "https://nyheder.tv2.dk/samfund/2026-10-13-tavshed-fra-amerikansk-it-gigant-efter-cpr-laek"
+      },
+      "topics": [
+        "danmark",
+        "cybersikkerhed",
+        "offentlig-it"
+      ],
+      "entities": [
+        "DXC Technology",
+        "Pays",
+        "Steffen Lerche"
+      ],
+      "isLead": true,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 78,
+        "decisionValue": 55,
+        "novelty": 70,
+        "sourceQuality": 80,
+        "personalRelevance": 40,
+        "contrast": 60
+      },
+      "claims": [
+        {
+          "text": "DXC Technology har ikke svaret TV 2 siden 6. oktober",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/samfund/2026-10-13-tavshed-fra-amerikansk-it-gigant-efter-cpr-laek"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "DXC's danske direktør Steffen Lerche lagde telefonen på midt i interview",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/samfund/2026-10-13-tavshed-fra-amerikansk-it-gigant-efter-cpr-laek"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Tavshed fra amerikansk it-gigant efter cpr-læk",
+          "publisher": "TV 2",
+          "url": "https://nyheder.tv2.dk/samfund/2026-10-13-tavshed-fra-amerikansk-it-gigant-efter-cpr-laek",
+          "publishedAt": "2026-10-13T19:29:25Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-deutsche-bank-havet-20261014",
+      "eventKey": "deutsche-bank-maritime-flaskehalse-20261014",
+      "materialFacts": [
+        "Over 90 pct. af verdens varehandel målt i volumen fragtes ad søvejen",
+        "Taiwanstrædet udpeges som den mest alvorlige risiko",
+        "Danmark nævnes direkte som en eksponeret økonomi"
+      ],
+      "section": "Handel og makro",
+      "headline": "Deutsche Bank: Næste inflationschok kan komme fra havet",
+      "primarySourceUrl": "https://ugebrev.dk/ledelse/deutsche-bank-naeste-inflationschok-kan-komme-fra-havet/",
+      "subheadline": "En ny analyse fra Deutsche Bank peger på globale skibsruter – ikke tariffer – som den største risiko for verdensøkonomien, og placerer Danmark midt i flaskehalsen.",
+      "body": [
+        "Mere end 90 procent af verdens varehandel målt i volumen fragtes ad søvejen, og en ny analyse fra Deutsche Bank advarer om, at en blokade af et maritimt knudepunkt – Hormuz, Malacca, Bab-el-Mandeb eller Taiwanstrædet – kan skade økonomien mere end de tariffer, debatten har kredset om.",
+        "Analysen udpeger Taiwanstrædet som mest alvorligt, fordi det kombinerer halvlederproduktion med skibsruter. Danmark nævnes direkte som en eksponeret, handelsafhængig økonomi, pga. placeringen mellem Østersøen og Nordsøen."
+      ],
+      "whyItMatters": "For en handelsnation som Danmark er pointen, at forsyningskæders robusthed bør vurderes efter geografiske flaskehalse, ikke kun toldsatser – en risiko erhvervslivet endnu ikke har øvet sig på.",
+      "analysis": "Analysen er et modsyn til årets handelsdebat om tariffer: de næste chok kan lige så godt komme fra fysisk infrastruktur som fra politik – en pointe, der taler ind i Danmarks rolle som transitland.",
+      "image": {
+        "url": "https://ugebrev.dk/wp-content/uploads/2026/10/Globale-skibsruter-og-maritime-flaskehalse-1536x864.png",
+        "credit": "Kilde: Økonomisk Ugebrev",
+        "alt": "Kort over globale skibsruter og maritime flaskehalse som Hormuzstrædet, Malaccastrædet og Taiwanstrædet",
+        "sourceUrl": "https://ugebrev.dk/ledelse/deutsche-bank-naeste-inflationschok-kan-komme-fra-havet/"
+      },
+      "topics": [
+        "makroøkonomi",
+        "handel",
+        "danmark"
+      ],
+      "entities": [
+        "Deutsche Bank",
+        "Danmark",
+        "Taiwanstrædet"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 70,
+        "decisionValue": 60,
+        "novelty": 75,
+        "sourceQuality": 70,
+        "personalRelevance": 80,
+        "contrast": 70
+      },
+      "claims": [
+        {
+          "text": "Over 90 pct. af verdens varehandel målt i volumen transporteres ad søvejen",
+          "sourceUrls": [
+            "https://ugebrev.dk/ledelse/deutsche-bank-naeste-inflationschok-kan-komme-fra-havet/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Deutsche Bank: Næste inflationschok kan komme fra havet",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/ledelse/deutsche-bank-naeste-inflationschok-kan-komme-fra-havet/",
+          "publishedAt": "2026-10-12T16:40:00Z",
+          "kind": "analysis"
+        }
+      ]
+    },
+    {
+      "id": "story-finanslov-reaktioner-20261014",
+      "eventKey": "finanslov-2027-erhvervsreaktioner-20261014",
+      "materialFacts": [
+        "Finanslovsforslag 2027 sænker selskabsskatten og afskaffer topskatten",
+        "650-850 mio. kr. årligt afsat til elektrificering",
+        "Dansk Erhverv og DI kritiserer afskaffelsen af forsknings- og udviklingsfradraget"
+      ],
+      "section": "Erhverv",
+      "headline": "Dansk Erhverv: Stærke tiltag for erhvervslivet i regeringens forslag til ny finanslov – men også skarpe tidsler",
+      "primarySourceUrl": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/oktober/dansk-erhverv-starke-tiltag-for-erhvervslivet-i-regeringens-forslag-til-ny-finanslov--men-ogsa-skarpe-tidsler/",
+      "subheadline": "Regeringens finanslovsforslag for 2027 sænker selskabsskatten og topskatten og sætter fart på elektrificeringen – men Dansk Erhverv og Dansk Industri går imod planen om at fjerne forsknings- og udviklingsfradraget.",
+      "body": [
+        "Regeringens forslag til finansloven for 2027 indeholder lavere selskabsskat, afskaffelse af topskatten og 650-850 millioner kroner årligt til elektrificering. 'I en ustabil verden med geopolitisk uro og kraftigt øget konkurrence er det helt rigtigt at styrke erhvervslivets rammevilkår og Danmarks konkurrenceevne,' siger Dansk Erhvervs direktør, Brian Mikkelsen.",
+        "Men Dansk Erhverv retter samtidig skarp kritik mod planen om at afskaffe forsknings- og udviklingsfradraget, som organisationen mener underminerer netop den innovation, regeringen ellers siger den vil styrke."
+      ],
+      "whyItMatters": "Fradraget har været en løftestang for FoU-investeringer, og dets afskaffelse rammer direkte den type selskaber, DI og Dansk Erhverv repræsenterer.",
+      "analysis": "Forslaget viser en regering, der finansierer lempelser ét sted ved at stramme et andet – det afgør, om 2027 bliver reel fremgang for konkurrencekraften eller blot omfordeling.",
+      "image": {
+        "url": "https://danskerhverv.imgix.net/siteassets/mediafolder/billeder/07-medarbejdere/pressefoto-af-medarbejdere/brian-mikkelsen/brian-TWE0ZlY2K1lQRU5mMkhZbEFkdHdwV096ekl3PQ.jpg",
+        "credit": "Kilde: Dansk Erhverv",
+        "alt": "Brian Mikkelsen, direktør i Dansk Erhverv",
+        "sourceUrl": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/oktober/dansk-erhverv-starke-tiltag-for-erhvervslivet-i-regeringens-forslag-til-ny-finanslov--men-ogsa-skarpe-tidsler/"
+      },
+      "topics": [
+        "danmark",
+        "erhverv",
+        "skat",
+        "dansk-industri"
+      ],
+      "entities": [
+        "Dansk Erhverv",
+        "Brian Mikkelsen",
+        "Dansk Industri"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 72,
+        "decisionValue": 68,
+        "novelty": 45,
+        "sourceQuality": 65,
+        "personalRelevance": 85,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "Finanslovsforslag 2027 sænker selskabsskatten og afskaffer topskatten",
+          "sourceUrls": [
+            "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/oktober/dansk-erhverv-starke-tiltag-for-erhvervslivet-i-regeringens-forslag-til-ny-finanslov--men-ogsa-skarpe-tidsler/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Dansk Erhverv kritiserer plan om at afskaffe forsknings- og udviklingsfradraget",
+          "sourceUrls": [
+            "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/oktober/dansk-erhverv-starke-tiltag-for-erhvervslivet-i-regeringens-forslag-til-ny-finanslov--men-ogsa-skarpe-tidsler/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Dansk Erhverv: Stærke tiltag for erhvervslivet i regeringens forslag til ny finanslov – men også skarpe tidsler",
+          "publisher": "Dansk Erhverv",
+          "url": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/oktober/dansk-erhverv-starke-tiltag-for-erhvervslivet-i-regeringens-forslag-til-ny-finanslov--men-ogsa-skarpe-tidsler/",
+          "publishedAt": "2026-10-09T05:47:34Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "DI: Finansloven skal sikre dansk velstand i fremtiden",
+          "publisher": "Dansk Industri",
+          "url": "https://www.danskindustri.dk/om-di/kontakt-os/presse/arkiv/pressemeddelelser/2026/10/di-finansloven-skal-sikre-dansk-velstand-i-fremtiden/",
+          "publishedAt": "2026-10-09T00:00:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-novonesis-elnet-20261014",
+      "eventKey": "novonesis-elnet-koe-20261008",
+      "materialFacts": [
+        "Novonesis siger kø til nettilslutning ved Avedøre Holme kan koste en fabriksudvidelse",
+        "Flere energitunge virksomheder peger på samme flaskehals i 2026"
+      ],
+      "section": "Energi og industri",
+      "headline": "Kø til elnettet får Novonesis til at true: Kan koste udvidet fabrik i Danmark",
+      "primarySourceUrl": "https://ing.dk/artikel/koe-til-elnettet-faar-novonesis-til-true-kan-koste-udvidet-fabrik-i-danmark",
+      "subheadline": "Bioteknologiselskabet Novonesis sagde for en uge siden, at kapacitetsproblemer i elnettet ved Avedøre Holme kan afgøre, om en planlagt fabriksudvidelse ender i Danmark eller et andet land.",
+      "body": [
+        "Novonesis oplyste for en uge siden, at ventetiden på nettilslutning ved Avedøre Holme kan afgøre, om en planlagt fabriksudvidelse bliver placeret i Danmark. Selskabet fremstiller enzymer og mikroorganismer og har brug for markant mere strøm, før produktionen kan udvides.",
+        "Sagen falder sammen med, at Dansk Industri netop har krævet, at Danmark mere end fordobler elektrificeringen – fra 22 til 45 procent – frem mod 2035, med et politisk mål og en udbygningsplan for nettet som forudsætning."
+      ],
+      "whyItMatters": "Når et selskab, der allerede er etableret i Danmark, åbent overvejer at lægge ny kapacitet et andet sted på grund af nettet, er det et signal om, at netudbygningen er blevet en flaskehals for industripolitikken.",
+      "analysis": "Det skærper spændingen mellem elektrificeringsambitionerne og den faktiske kapacitet i nettet: ambitionerne indfries ikke hurtigere, end ledningerne bygges.",
+      "image": {
+        "url": "https://ing.dk/sites/mi/files/styles/open_graph_image_16_9/public/2026-06/novonesis_698.jpg?itok=3PyG8aMU",
+        "credit": "Kilde: Ingeniøren",
+        "alt": "Novonesis' anlæg, som sagen om kø til nettilslutning handler om",
+        "sourceUrl": "https://ing.dk/artikel/koe-til-elnettet-faar-novonesis-til-true-kan-koste-udvidet-fabrik-i-danmark"
+      },
+      "topics": [
+        "energi",
+        "dansk-erhverv",
+        "gron-omstilling"
+      ],
+      "entities": [
+        "Novonesis",
+        "Avedøre Holme"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 62,
+        "decisionValue": 55,
+        "novelty": 50,
+        "sourceQuality": 65,
+        "personalRelevance": 70,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Novonesis siger kø til nettilslutning ved Avedøre Holme kan koste en planlagt fabriksudvidelse",
+          "sourceUrls": [
+            "https://ing.dk/artikel/koe-til-elnettet-faar-novonesis-til-true-kan-koste-udvidet-fabrik-i-danmark"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "DI kræver en fordobling af elektrificeringen fra 22 til 45 procent frem mod 2035",
+          "sourceUrls": [
+            "https://www.danskindustri.dk/om-di/kontakt-os/presse/arkiv/pressemeddelelser/2026/10/di-danmark-skal-mere-end-fordoble-elektrificeringen-frem-mod-2035/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kø til elnettet får Novonesis til at true: Kan koste udvidet fabrik i Danmark",
+          "publisher": "Ingeniøren",
+          "url": "https://ing.dk/artikel/koe-til-elnettet-faar-novonesis-til-true-kan-koste-udvidet-fabrik-i-danmark",
+          "publishedAt": "2026-10-08T10:01:39Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "DI: Danmark skal mere end fordoble elektrificeringen frem mod 2035",
+          "publisher": "Dansk Industri",
+          "url": "https://www.danskindustri.dk/om-di/kontakt-os/presse/arkiv/pressemeddelelser/2026/10/di-danmark-skal-mere-end-fordoble-elektrificeringen-frem-mod-2035/",
+          "publishedAt": "2026-10-07T00:00:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-svendsen-fratraeder-20261014",
+      "eventKey": "kasper-svendsen-fratraeder-20261011",
+      "materialFacts": [
+        "Kasper Svendsen fratræder som skattepolitisk chef i Dansk Erhverv 1. december",
+        "Afgangen falder midt i forhandlingerne om forsknings- og udviklingsfradraget"
+      ],
+      "section": "Navnenyt",
+      "headline": "Skattepolitisk chef i Dansk Erhverv fratræder sin stilling",
+      "primarySourceUrl": "https://www.altinget.dk/erhverv/navnenyt/skattepolitisk-chef-i-dansk-erhverv-har-opsagt-sin-stilling",
+      "subheadline": "Kasper Svendsen forlader posten som skattepolitisk chef i Dansk Erhverv 1. december – midt i forhandlingerne om finanslovens omstridte forslag om at fjerne forsknings- og udviklingsfradraget.",
+      "body": [
+        "Kasper Svendsen, skattepolitisk chef i Dansk Erhverv siden oktober 2025, fratræder 1. december. Ifølge et opslag på LinkedIn er beslutningen taget af familiemæssige hensyn: 'Men når valget står mellem jobbet og familien, er det alligevel ikke svært,' skriver han.",
+        "Svendsen fratræder, samtidig med at Dansk Erhverv kritiserer regeringens plan om at afskaffe forsknings- og udviklingsfradraget (se historien om finansloven ovenfor) – en sag, han ville have været central i."
+      ],
+      "whyItMatters": "For den, der følger nøgleposter i erhvervslivets interesseorganisationer, er en afgang midt i en skattepolitisk nøglesag et signal om kapacitet og kontinuitet i de organisationer, der forhandler på erhvervslivets vegne.",
+      "analysis": "Kilden angiver alene familiehensyn, og intet offentliggjort peger på en sammenhæng med fradragssagen – men tidspunktet betyder, at Dansk Erhverv skal besætte posten midt i en afgørende forhandling.",
+      "image": {
+        "url": "https://legacy.altinget.dk/images/article/307088/162169.jpg",
+        "credit": "Kilde: Altinget",
+        "alt": "Skattepolitisk chef i Dansk Erhverv fratræder sin stilling",
+        "sourceUrl": "https://www.altinget.dk/erhverv/navnenyt/skattepolitisk-chef-i-dansk-erhverv-har-opsagt-sin-stilling"
+      },
+      "topics": [
+        "navnenyt",
+        "dansk-erhverv",
+        "skat"
+      ],
+      "entities": [
+        "Kasper Svendsen",
+        "Dansk Erhverv"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 40,
+        "decisionValue": 60,
+        "novelty": 55,
+        "sourceQuality": 70,
+        "personalRelevance": 90,
+        "contrast": 30
+      },
+      "claims": [
+        {
+          "text": "Kasper Svendsen fratræder som skattepolitisk chef i Dansk Erhverv 1. december, af familiehensyn",
+          "sourceUrls": [
+            "https://www.altinget.dk/erhverv/navnenyt/skattepolitisk-chef-i-dansk-erhverv-har-opsagt-sin-stilling"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Skattepolitisk chef i Dansk Erhverv fratræder sin stilling",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/erhverv/navnenyt/skattepolitisk-chef-i-dansk-erhverv-har-opsagt-sin-stilling",
+          "publishedAt": "2026-10-11T08:11:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-openai-saudi-20261014",
+      "eventKey": "openai-aflytning-saudi-20261013",
+      "materialFacts": [
+        "Abdulrahman Alfozan anholdt 9. oktober, sigtet for at plante aflytningsudstyr hos OpenAI",
+        "To skjulte enheder fundet; OpenAI siger ingen tegn på adgang til modelvægte eller kode"
+      ],
+      "section": "Sikkerhed",
+      "headline": "Saudisk medarbejder sigtet for at plante aflytningsudstyr hos OpenAI",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/seneste/saudisk-medarbejder-sigtet-plante-aflytningsudstyr-hos-openai",
+      "subheadline": "En OpenAI-ingeniør er anholdt og sigtet for at have gemt aflytningsudstyr i et mødelokale for topledelsen i San Francisco – en sag, amerikanske myndigheder kalder et nationalt sikkerhedsspørgsmål.",
+      "body": [
+        "Den 35-årige saudiske statsborger Abdulrahman Alfozan, ingeniør hos OpenAI siden juli 2025, blev anholdt 9. oktober og sigtet for at installere en skjult lydoptager i et mødelokale for ledelsen. Enheden var gemt i toiletpapir, ifølge justitsministeriet.",
+        "Overvågningsbilleder viste Alfozan ved mødelokalet flere gange uden tilladelse. En anden skjult optager blev fundet i en efterladt taske 5. oktober. OpenAI siger, der ikke er tegn på adgang til modelvægte, kildekode eller kundedata."
+      ],
+      "whyItMatters": "Sagen understreger, hvor fysisk og lavteknologisk sikkerhedsrisikoen omkring AI-selskabernes mest værdifulde viden kan være – langt fra de digitale angreb, debatten normalt handler om.",
+      "analysis": "At USA's efterretningsdirektør og FBI-direktøren begge kommenterer en sag om en skjult mikrofon, viser, at myndighederne nu behandler adgang til AI-laboratoriers ledelse som et sikkerhedsspørgsmål på linje med klassisk spionage.",
+      "topics": [
+        "ai",
+        "sikkerhed",
+        "usa"
+      ],
+      "entities": [
+        "OpenAI",
+        "Abdulrahman Alfozan",
+        "FBI"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 58,
+        "decisionValue": 35,
+        "novelty": 75,
+        "sourceQuality": 80,
+        "personalRelevance": 35,
+        "contrast": 65
+      },
+      "claims": [
+        {
+          "text": "Abdulrahman Alfozan anholdt 9. oktober og sigtet for at plante aflytningsudstyr i et mødelokale hos OpenAI",
+          "sourceUrls": [
+            "https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "OpenAI siger der ikke er tegn på adgang til modelvægte, kildekode eller kundedata",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/seneste/saudisk-medarbejder-sigtet-plante-aflytningsudstyr-hos-openai"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Saudisk medarbejder sigtet for at plante aflytningsudstyr hos OpenAI",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/seneste/saudisk-medarbejder-sigtet-plante-aflytningsudstyr-hos-openai",
+          "publishedAt": "2026-10-13T21:37:23Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Saudi National Arrested for Installing Surreptitious Audio Recording Device at OpenAI",
+          "publisher": "U.S. Department of Justice",
+          "url": "https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai",
+          "publishedAt": "2026-10-13T00:00:00Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/xuifpo2f/20261013-220209-1.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Saudisk medarbejder sigtet for at plante aflytningsudstyr hos OpenAI",
+        "sourceUrl": "https://www.dr.dk/nyheder/seneste/saudisk-medarbejder-sigtet-plante-aflytningsudstyr-hos-openai"
+      }
+    },
+    {
+      "id": "story-gravel-vm-bakklaris-20261014",
+      "eventKey": "gravel-vm-bak-klaris-20261011",
+      "materialFacts": [
+        "Magnus Bak Klaris vandt uventet VM-guld i gravelcykling",
+        "Favoritten og kaptajnen Mads Würtz Schmidt styrtede tre km fra mål"
+      ],
+      "section": "Sport",
+      "headline": "'Vanvittig overraskelse': Dansker vinder VM efter favorittens styrt",
+      "primarySourceUrl": "https://www.dr.dk/sporten/cykling/vanvittig-overraskelse-dansk-hjaelperytter-vinder-vm-efter-kaptajnens-styrt",
+      "subheadline": "Magnus Bak Klaris vandt søndag uventet VM-guld i gravelcykling, efter at den danske kaptajn og favorit, Mads Würtz Schmidt, styrtede tre kilometer fra mål.",
+      "body": [
+        "Magnus Bak Klaris vandt søndag VM-guld i gravelcykling i en sejr, ingen havde set komme. Med lidt over tre kilometer igen angreb den danske kaptajn og favorit, Mads Würtz Schmidt, men faldt i gruset kort efter. Det gav Bak Klaris mulighed for at spare kræfter, mens belgieren Florian Vermeesch og britten Connor Swift fortsatte i spidsgruppen.",
+        "Da Schmidt kom med igen, var det Bak Klaris, der havde mest tilbage i benene til den afsluttende spurt. 'Jeg kan ikke tro det. Det føles helt uvirkeligt,' sagde han efter sejren."
+      ],
+      "whyItMatters": "En dansk VM-titel i en gren, ingen havde sat Bak Klaris som favorit til, er den slags overraskelse, der gør cykling værd at følge tæt – ikke kun de store etapeløb.",
+      "analysis": "Sejren kom, fordi Bak Klaris læste løbet rigtigt, da hans egen kaptajn fejlede – en påmindelse om, at gravelcyklingens uforudsigelighed adskiller den fra landevejens kontrollerede dynamik.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/zoepafex/17210147bs_crop001.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Magnus Bak Klaris under VM i gravelcykling",
+        "sourceUrl": "https://www.dr.dk/sporten/cykling/vanvittig-overraskelse-dansk-hjaelperytter-vinder-vm-efter-kaptajnens-styrt"
+      },
+      "topics": [
+        "sport",
+        "cykling",
+        "danske-sportsfolk"
+      ],
+      "entities": [
+        "Magnus Bak Klaris",
+        "Mads Würtz Schmidt"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 20,
+        "novelty": 65,
+        "sourceQuality": 75,
+        "personalRelevance": 70,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Magnus Bak Klaris vandt VM-guld i gravelcykling efter at kaptajn Mads Würtz Schmidt styrtede tre km fra mål",
+          "sourceUrls": [
+            "https://www.dr.dk/sporten/cykling/vanvittig-overraskelse-dansk-hjaelperytter-vinder-vm-efter-kaptajnens-styrt"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "'Vanvittig overraskelse': Dansker vinder VM efter favorittens styrt",
+          "publisher": "DR Sporten",
+          "url": "https://www.dr.dk/sporten/cykling/vanvittig-overraskelse-dansk-hjaelperytter-vinder-vm-efter-kaptajnens-styrt",
+          "publishedAt": "2026-10-11T09:16:00Z",
+          "kind": "reporting"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "Udenrigsminister maner spekulationer i jorden: Vi modtager stadig amerikanske efterretninger",
+      "headline": "Udenrigsminister maner spekulationer i jorden: Vi modtager stadig amerikanske efterretninger",
+      "url": "https://www.dr.dk/nyheder/udland/udenrigsminister-maner-spekulationer-i-jorden-vi-modtager-stadig-amerikanske-efterretninger",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-10-13T16:00:03Z",
+      "summary": "Ukraines udenrigsminister afviser spekulationer om, at USA har stoppet efterretningsdeling om Ukraine."
+    },
+    {
+      "text": "Paven har lungekræft",
+      "headline": "Paven har lungekræft",
+      "url": "https://nyheder.tv2.dk/udland/2026-10-13-paven-har-lungekraeft",
+      "publisher": "TV 2",
+      "section": "Udland",
+      "publishedAt": "2026-10-13T20:51:08Z",
+      "summary": "Pave Leo er blevet diagnosticeret med lungekræft."
+    },
+    {
+      "text": "Trods kæmpe-investering og mange år undervejs: Politiet har opdaget alvorligt problem i splinternyt og helt centralt it-system",
+      "headline": "Trods kæmpe-investering og mange år undervejs: Politiet har opdaget alvorligt problem i splinternyt og helt centralt it-system",
+      "url": "https://www.computerworld.dk/art/297137",
+      "publisher": "Computerworld",
+      "section": "Offentlig it",
+      "publishedAt": "2026-10-12T12:58:00Z",
+      "summary": "Centrale dele af politiets it-system fungerer ikke som tiltænkt efter en investering på 270 mio. kr."
+    },
+    {
+      "text": "Fransk stortalent vinder årets sidste monument",
+      "headline": "Fransk stortalent vinder årets sidste monument",
+      "url": "https://www.dr.dk/sporten/cykling/ingen-pocacar-saa-hvem-vinder-aarets-sidste-monument",
+      "publisher": "DR Sporten",
+      "section": "Sport",
+      "publishedAt": "2026-10-10T15:05:00Z",
+      "summary": "20-årige Paul Seixas vandt Il Lombardia solo som den yngste vinder nogensinde."
+    },
+    {
+      "text": "Region i opråb: Giv os minimum 30 millioner kroner. Ellers må vi lukke busruter",
+      "headline": "Region i opråb: Giv os minimum 30 millioner kroner. Ellers må vi lukke busruter",
+      "url": "https://www.dr.dk/nyheder/indland/region-i-opraab-giv-os-minimum-30-millioner-kroner-ellers-maa-vi-lukke-busruter",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-10-14T04:11:00Z"
+    },
+    {
+      "text": "Oh Brother! Nicolai Hojgaard Takes Bragging Rights Over Rasmus With First Competition Hole-In-One",
+      "headline": "Oh Brother! Nicolai Hojgaard Takes Bragging Rights Over Rasmus With First Competition Hole-In-One",
+      "url": "https://www.europeantour.com/dpworld-tour/news/articles/detail/oh-brother-nicolai-hojgaard-takes-bragging-rights-over-rasmus-with-first-competition-hole-in-one/",
+      "publisher": "DP World Tour",
+      "section": "Sport",
+      "publishedAt": "2026-10-09T00:00:00Z",
+      "summary": "Nicolai Højgaard slog hole-in-one ved Open de España og vandt brødrevæddemål mod tvillingebroren Rasmus."
+    },
+    {
+      "text": "Her er detaljerne om Metas nye super-AI: Nu er selskabet pludseligt helt med i front",
+      "headline": "Her er detaljerne om Metas nye super-AI: Nu er selskabet pludseligt helt med i front",
+      "url": "https://www.computerworld.dk/art/297153",
+      "publisher": "Computerworld",
+      "section": "AI",
+      "publishedAt": "2026-10-13T13:15:00Z"
+    },
+    {
+      "text": "Sen scoring og rødt kort i vild United-kamp",
+      "headline": "Sen scoring og rødt kort i vild United-kamp",
+      "url": "https://sport.tv2.dk/fodbold/2026-10-10-sen-scoring-og-roedt-kort-i-vild-united-kamp",
+      "publisher": "TV 2 Sport",
+      "section": "Sport",
+      "publishedAt": "2026-10-10T18:35:20Z",
+      "summary": "Manchester United og Tottenham spillede 1-1 efter sent udligningsmål og rødt kort til Bentancur."
+    },
+    {
+      "text": "Volvo tilbagekalder 5.500 biler i Danmark efter fejl ved nakkestøtte",
+      "headline": "Volvo tilbagekalder 5.500 biler i Danmark efter fejl ved nakkestøtte",
+      "url": "https://www.dr.dk/nyheder/seneste/volvo-tilbagekalder-5-500-biler-i-danmark-efter-fejl-ved-nakkestoette",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-10-13T20:03:56Z",
+      "summary": "Volvo tilbagekalder 5.542 EX30-modeller i Danmark, fordi en hovedstøtte-polstring kan løsne sig ved kollision."
+    },
+    {
+      "text": "Dansk designer bag verdensberømt stol er død",
+      "headline": "Dansk designer bag verdensberømt stol er død",
+      "url": "https://www.dr.dk/nyheder/indland/dansk-designer-bag-verdensberoemt-stol-er-doed",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-10-13T15:37:29Z",
+      "summary": "Møbelarkitekt Steen Østergaard, skaber af Modo 290-stolen, er død 90 år gammel."
+    },
+    {
+      "text": "Togtrafik indstillet mellem Odense og Fredericia",
+      "headline": "Togtrafik indstillet mellem Odense og Fredericia",
+      "url": "https://www.dr.dk/nyheder/indland/togtrafik-indstillet-mellem-odense-og-fredericia",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-10-13T13:19:42Z"
+    },
+    {
+      "text": "Kirsten er den ældste dansker nogensinde",
+      "headline": "Kirsten er den ældste dansker nogensinde",
+      "url": "https://www.dr.dk/nyheder/indland/reels/kirsten-bliver-den-aeldste-dansker-112-aar-og-218-dage",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-10-14T03:34:00Z",
+      "summary": "Kirsten Schwalbe, 112 år og 218 dage, er nu den ældste dansker nogensinde."
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-ecb-krugman-20261014",
+      "mode": "watch",
+      "kind": "interview",
+      "status": "available",
+      "title": "Is Europe falling behind? - In Conversation with Paul Krugman",
+      "creator": "Paul Krugman, Stefania Secola",
+      "provider": "European Central Bank (Euro Matters)",
+      "url": "https://www.youtube.com/watch?v=nIcDcOXJKU0",
+      "availability": "Frit tilgængelig på YouTube uden login",
+      "commitment": "ca. 30-40 min",
+      "description": "Nobelprismodtager Paul Krugman diskuterer med ECB's Stefania Secola, om Europa reelt sakker bagud i forhold til USA, eller om billedet er mere nuanceret, når man ser på almindelige menneskers levestandard.",
+      "rationale": "Et direkte modsyn til den sædvanlige dystre EU-konkurrencekraft-fortælling, fra en af verdens mest citerede økonomer, leveret via centralbankens eget kanal frem for et sekundært referat.",
+      "topics": [
+        "makroøkonomi",
+        "eu",
+        "handel"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://i.ytimg.com/vi/nIcDcOXJKU0/hqdefault.jpg",
+        "credit": "Kilde: European Central Bank",
+        "alt": "Paul Krugman i samtale med ECB's Stefania Secola",
+        "sourceUrl": "https://www.youtube.com/watch?v=nIcDcOXJKU0"
+      }
+    },
+    {
+      "id": "rec-dhl-tariffs-20261014",
+      "mode": "read",
+      "kind": "rapport",
+      "status": "new",
+      "title": "Tech Beats Tariffs: Global Trade Growth Accelerates and Globalization Sets New Record",
+      "creator": "Steven A. Altman, Caroline R. Bastian (NYU Stern)",
+      "provider": "DHL Group / NYU Stern",
+      "url": "https://www.dhl.com/us-en/home/press/press-archive/2026/tech-beats-tariffs-global-trade-growth-accelerates-and-globalization-sets-new-record.html",
+      "availability": "Frit tilgængelig som pressemeddelelse og pdf-rapport",
+      "commitment": "10 min for pressemeddelelsen, 45+ min for hele rapporten",
+      "description": "DHL's Global Connectedness Index ramte en rekord på 25,8 pct. i 2025, og vareeksporten voksede hurtigere i første halvår 2026 end i noget halvår i 15 år uden for coronagenopretningen – drevet af AI-infrastruktur og med USA-Kina-handlens andel faldet fra 3,5 til 1,6 pct.",
+      "rationale": "Giver hårde tal på præcis den udvikling, han har fulgt fra den anden side af bordet som leder af DI's internationale arbejde: hvor handlen reelt flytter sig, mens tariffer dominerer overskrifterne.",
+      "topics": [
+        "handel",
+        "globalisering",
+        "eu-us"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://www.dhl.com/content/dam/dhl/local/us/core/images/aspect-ratio/1_1/us-core-pr-061026-1.jpg",
+        "credit": "Kilde: DHL Group",
+        "alt": "Illustration fra DHL's Global Connectedness Index-rapport",
+        "sourceUrl": "https://www.dhl.com/us-en/home/press/press-archive/2026/tech-beats-tariffs-global-trade-growth-accelerates-and-globalization-sets-new-record.html"
+      }
+    },
+    {
+      "id": "rec-pov-snabe-20261014",
+      "mode": "read",
+      "kind": "artikel",
+      "status": "available",
+      "title": "Kan industriel AI redde Europa?",
+      "creator": "Carsten Steno",
+      "provider": "POV International",
+      "url": "https://pov.international/kan-industriel-ai-redde-europa/",
+      "availability": "Frit tilgængelig på dansk",
+      "commitment": "10 min",
+      "description": "Siemens-formand og EU-AI-rådgiver Jim Hagemann Snabe argumenterer for, at Europa skal lede inden for industriel AI i stedet for at konkurrere med amerikansk og kinesisk forbruger-AI, med Novonesis og Arla som danske eksempler.",
+      "rationale": "Taler direkte ind i hans DI-baggrund: samme summit, samme danske virksomheder, og en konkret tese om, hvor Europas AI-fordel reelt ligger.",
+      "topics": [
+        "ai",
+        "eu-konkurrencekraft",
+        "dansk-industri"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://pov.international/wp-content/uploads/2026/09/snabe-di-topmoede-2026.jpg",
+        "credit": "Kilde: POV International",
+        "alt": "Jim Hagemann Snabe taler ved DI's topmøde 2026",
+        "sourceUrl": "https://pov.international/kan-industriel-ai-redde-europa/"
+      }
+    },
+    {
+      "id": "rec-mit-browndwarf-20261014",
+      "mode": "read",
+      "kind": "nyhedsartikel",
+      "status": "new",
+      "title": "Astronomers catch a star slowly snacking on a brown dwarf, 300 light years away",
+      "creator": "Kevin Burdge et al.",
+      "provider": "MIT News",
+      "url": "https://news.mit.edu/2026/astronomers-catch-star-slowly-snacking-on-brown-dwarf-1005",
+      "availability": "Frit tilgængelig",
+      "commitment": "5 min",
+      "description": "MIT-forskere har opdaget et dobbeltstjernesystem, hvor en rød dværgstjerne langsomt opsluger en brun dværg over milliarder af år – det første observerede eksempel på den slags gradvise, stabile opsamling mellem to lavmasse-objekter.",
+      "rationale": "Et bevidst spring væk fra handel og erhverv: en ægte tilfældig opdagelse, fundet af forskere, der søgte efter noget helt andet – den slags kontrast, der er værd fem minutter efter en morgen med finanslov og cpr-læk.",
+      "topics": [
+        "videnskab",
+        "astronomi"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://news.mit.edu/sites/default/files/images/202610/MIT-Slow-Stellar-Feeding-01-press.jpg",
+        "credit": "Kilde: MIT News",
+        "alt": "Kunstnerisk illustration af dobbeltstjernesystemet ZTF J0440+2325",
+        "sourceUrl": "https://news.mit.edu/2026/astronomers-catch-star-slowly-snacking-on-brown-dwarf-1005"
+      }
+    }
+  ],
+  "quality": {
+    "sourceCoverage": 80,
+    "freshness": 70,
+    "novelty": 70,
+    "perspectiveBalance": 75,
+    "render": 100
+  }
+}
