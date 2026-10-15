@@ -1,0 +1,826 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-20261015-full",
+  "date": "2026-10-15",
+  "generatedAt": "2026-10-15T08:28:49Z",
+  "readingMinutes": 11,
+  "title": "Thomas' Nyheder",
+  "dek": "Trump føler Zelenskyj svigtet, Danmark kæmper mod EU's budgetudspil, og Nordea skuffer på alle parametre.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-trump-diesel-zelensky-20261015",
+      "eventKey": "trump-diesel-putin-zelensky-forraadt",
+      "materialFacts": [
+        "Trump har åbnet for import af russisk diesel",
+        "Zelenskyj siger direkte, at han føler sig forrådt, og kalder Starlink-forstyrrelser en fejl der vil koste liv",
+        "Ekspert tolker udtalelsen som en strategisk appel til Europa"
+      ],
+      "section": "Udenrigspolitik",
+      "headline": "Zelenskyj føler sig forrådt af Trump - en appel til Europa, mener ekspert",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/zelenskyj-foeler-sig-forraadt-efter-trumps-dieselaftale-en-appel-til-europa-mener-ekspert",
+      "subheadline": "Den ukrainske præsident retter en sjælden personlig anklage mod sin vigtigste allierede, efter at Washington har åbnet for import af russisk diesel.",
+      "body": [
+        "Volodymyr Zelenskyj siger direkte, at han føler sig forrådt af Donald Trump, efter at USA har åbnet for import af russisk diesel. »Faktisk ja. Men det er mere komplekst end bare mine følelser,« siger han. »Det handler ikke kun om mig. Vores land skal overleve.«",
+        "Han kobler kritikken til forstyrrelser i Ukraines adgang til Starlink, som han kalder »en stor fejl, der kommer til at koste liv«. Trump har ikke offentligt redegjort for de præcise vilkår i dieselaftalen med Rusland."
+      ],
+      "whyItMatters": "For en europæisk alliance, der har brugt tre et halvt år på at legitimere sanktioner mod russisk energi, er en amerikansk dieseltilladelse ikke en detalje: den underminerer selve præmissen for den fælles linje.",
+      "analysis": "Charlotte Flindt Pedersen fra Det Udenrigspolitiske Selskab tolker udtalelsen som en strategisk appel til Europa - særligt til et britisk publikum med militær kapacitet - om at tage mere ansvar, nu hvor USA ikke kan tages for givet. Altingets Michael Ehrenreich går videre og kalder beslutningen »en kniv i ryggen« på Europa.",
+      "counterpoint": "Det fremgår ikke, hvilke konkrete vilkår dieselaftalen indeholder, eller om den er permanent eller en enkeltstående undtagelse.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/eqdh3puz/tn_crop001.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Skærmbillede fra Volodymyr Zelenskyjs interview med Piers Morgan, hvor han siger, han føler sig forrådt af Donald Trump.",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/zelenskyj-foeler-sig-forraadt-efter-trumps-dieselaftale-en-appel-til-europa-mener-ekspert"
+      },
+      "topics": [
+        "udenrigspolitik",
+        "usa",
+        "rusland",
+        "ukraine",
+        "eu"
+      ],
+      "entities": [
+        "Volodymyr Zelenskyj",
+        "Donald Trump",
+        "Vladimir Putin",
+        "Charlotte Flindt Pedersen",
+        "Michael Ehrenreich"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 85,
+        "decisionValue": 65,
+        "novelty": 70,
+        "sourceQuality": 80,
+        "personalRelevance": 70,
+        "contrast": 60
+      },
+      "claims": [
+        {
+          "text": "Trump har tilladt import af russisk diesel; Zelenskyj siger han føler sig forrådt og kalder Starlink-forstyrrelser en fejl der vil koste liv",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/zelenskyj-foeler-sig-forraadt-efter-trumps-dieselaftale-en-appel-til-europa-mener-ekspert"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Charlotte Flindt Pedersen tolker udtalelsen som en appel til Europa om mere ansvar, rettet særligt mod et britisk publikum",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/zelenskyj-foeler-sig-forraadt-efter-trumps-dieselaftale-en-appel-til-europa-mener-ekspert"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Michael Ehrenreich kalder beslutningen 'en kniv i ryggen' på Europa og sammenligner med Bush-administrationens Kuwait-respons i 1990",
+          "sourceUrls": [
+            "https://www.altinget.dk/artikel/trumps-dieselaftale-med-putin-er-en-kniv-i-ryggen-paa-europa"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Zelenskyj føler sig forrådt af Trump - en appel til Europa, mener ekspert",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/zelenskyj-foeler-sig-forraadt-efter-trumps-dieselaftale-en-appel-til-europa-mener-ekspert",
+          "publishedAt": "2026-10-14T19:47:45Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Trumps dieselaftale med Putin er en kniv i ryggen på Europa",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/artikel/trumps-dieselaftale-med-putin-er-en-kniv-i-ryggen-paa-europa",
+          "publishedAt": "2026-10-15T00:00:00Z",
+          "kind": "analysis"
+        }
+      ]
+    },
+    {
+      "id": "story-eu-budget-sparebande-20261015",
+      "eventKey": "eu-fremtidsbudget-2028-2034-strid",
+      "materialFacts": [
+        "Det irske EU-formandskab har fremlagt et kompromisforslag til budgetrammen 2028-2034",
+        "Danmark, Sverige, Tyskland og Finland afviser forslaget som utilstrækkeligt",
+        "Løkke Rasmussen kræver nedskæringer i landbrugsstøtte og regionalfonde"
+      ],
+      "section": "EU-politik",
+      "headline": "Kampen om EU's fremtidsbudget bliver op ad bakke for Danmarks sparebande",
+      "primarySourceUrl": "https://www.altinget.dk/artikel/kampen-om-eus-fremtidsbudget-bliver-op-ad-bakke-for-danmarks-sparebande",
+      "subheadline": "Det irske EU-formandskabs kompromisforslag til budgetrammen 2028-2034 afvises som utilstrækkeligt af en gruppe sparsomme medlemslande med Danmark i spidsen.",
+      "body": [
+        "Det irske EU-formandskab har lagt et kompromisforslag til EU's budgetramme 2028-2034 på bordet. En gruppe fiskalt forsigtige lande - Danmark, Sverige, Tyskland og Finland - afviser forslaget som en vej til et for stort EU-budget.",
+        "Lars Løkke Rasmussen siger, at udspillet »ikke er grundlag for en aftale«. Danmark kræver nedskæringer i landbrugsstøtten og regionalfondene, mens Mette Frederiksen, Friedrich Merz og Petteri Orpo står sammen om linjen."
+      ],
+      "whyItMatters": "For dansk erhvervsliv er budgetstriden ikke abstrakt: landbrugsstøtte, regionalfonde og konkurrencekraftsmidler former, hvilke virksomheder der kan investere i hvad de kommende syv år.",
+      "analysis": "Konflikten varsler, hvor hård vinteren bliver i budgetforhandlingerne: den sparsomme gruppe har vetomagt, men skal overbevise lande der vil have et større budget. Resultatet afgør, hvor meget plads der er til EU's egen konkurrencekraftsdagsorden.",
+      "image": {
+        "url": "https://legacy.altinget.dk/images/article/307109/162201.jpg",
+        "credit": "Kilde: Altinget",
+        "alt": "Kampen om EU's fremtidsbudget bliver op ad bakke for Danmarks sparebande",
+        "sourceUrl": "https://www.altinget.dk/artikel/kampen-om-eus-fremtidsbudget-bliver-op-ad-bakke-for-danmarks-sparebande"
+      },
+      "topics": [
+        "eu",
+        "finanspolitik",
+        "handelspolitik",
+        "danmark"
+      ],
+      "entities": [
+        "Lars Løkke Rasmussen",
+        "Mette Frederiksen",
+        "Friedrich Merz",
+        "Petteri Orpo"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 80,
+        "decisionValue": 75,
+        "novelty": 65,
+        "sourceQuality": 75,
+        "personalRelevance": 85,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "Det irske EU-formandskab har fremlagt et kompromisforslag til EU's budgetramme 2028-2034, som en sparebande bestående af Danmark, Sverige, Tyskland og Finland afviser",
+          "sourceUrls": [
+            "https://www.altinget.dk/artikel/kampen-om-eus-fremtidsbudget-bliver-op-ad-bakke-for-danmarks-sparebande"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Løkke Rasmussen kalder forslaget 'ikke grundlag for en aftale' og kræver nedskæringer i landbrugsstøtte og regionalfonde",
+          "sourceUrls": [
+            "https://www.altinget.dk/artikel/kampen-om-eus-fremtidsbudget-bliver-op-ad-bakke-for-danmarks-sparebande"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kampen om EU's fremtidsbudget bliver op ad bakke for Danmarks sparebande",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/artikel/kampen-om-eus-fremtidsbudget-bliver-op-ad-bakke-for-danmarks-sparebande",
+          "publishedAt": "2026-10-15T00:00:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-usa-inflation-september-20261015",
+      "eventKey": "usa-inflation-september-2026",
+      "materialFacts": [
+        "US CPI steg 3,7 pct. år til år i september, over forventede 3,6 pct.",
+        "Markedet priser nu 44 pct. sandsynlighed for en Fed-rentestigning ved udgangen af oktober"
+      ],
+      "section": "Makroøkonomi",
+      "headline": "Prisveksten i USA kom inn på 3,7 prosent i september",
+      "primarySourceUrl": "https://e24.no/internasjonal-oekonomi/i/gdRyaL/prisveksten-i-usa-kom-inn-paa-3-7-prosent-i-september",
+      "subheadline": "Et højere end ventet inflationstal øger sandsynligheden for endnu en amerikansk rentestigning allerede i oktober.",
+      "body": [
+        "Forbrugerprisindekset i USA steg 3,7 procent år til år i september, op fra 3,4 procent og over ventede 3,6 procent. Kerneinflationen steg til 2,6 procent mod ventede 2,5 procent.",
+        "Handelsbankens Marius Gonsholt Hov kalder tallet stærkere end ventet: en rentestigning er nu »pludselig i spil« i oktober. CME Fedwatch priser nu 44 pct. sandsynlighed for en forhøjelse, op fra 22 pct. før tallet. DNB Carnegies Knut A. Magnussen var inden tallene mere forsigtig."
+      ],
+      "whyItMatters": "En hurtigere amerikansk renteforhøjelse presser dollarkursen op og gør dollarhandel dyrere for danske virksomheder - og dæmper den amerikanske efterspørgsel, dansk eksport er afhængig af.",
+      "analysis": "Uenigheden mellem de nordiske cheføkonomer viser, at markedet reagerer hurtigere på et enkelt tal, end modellerne tilsiger - en påmindelse om, at en rentebeslutnings prissætning kan ændre sig markant op til selve mødet.",
+      "image": {
+        "url": "https://akamai.vgc.no/v2/images/ccfed47a-335e-3d1f-b54a-327d8a453481?fit=crop&h=675&upscale=true&w=1200&s=956a809be27850b34d119fee98e421519f52e463",
+        "credit": "Kilde: E24",
+        "alt": "Billede brugt af E24 til historien om de amerikanske inflationstal for september.",
+        "sourceUrl": "https://e24.no/internasjonal-oekonomi/i/gdRyaL/prisveksten-i-usa-kom-inn-paa-3-7-prosent-i-september"
+      },
+      "topics": [
+        "makroøkonomi",
+        "usa",
+        "pengepolitik"
+      ],
+      "entities": [
+        "Marius Gonsholt Hov",
+        "Knut A. Magnussen",
+        "Federal Reserve"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 75,
+        "decisionValue": 70,
+        "novelty": 60,
+        "sourceQuality": 70,
+        "personalRelevance": 75,
+        "contrast": 30
+      },
+      "claims": [
+        {
+          "text": "US CPI steg 3,7 pct. år-til-år i september (op fra 3,4 pct. i august), over forventede 3,6 pct.; kerneinflation 2,6 pct. mod forventet 2,5 pct.",
+          "sourceUrls": [
+            "https://e24.no/internasjonal-oekonomi/i/gdRyaL/prisveksten-i-usa-kom-inn-paa-3-7-prosent-i-september"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "CME Fedwatchs renteværktøj priser nu 44 pct. sandsynlighed for Fed-rentestigning ved udgangen af oktober, op fra 22 pct. før tallet blev offentliggjort",
+          "sourceUrls": [
+            "https://e24.no/internasjonal-oekonomi/i/gdRyaL/prisveksten-i-usa-kom-inn-paa-3-7-prosent-i-september"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Prisveksten i USA kom inn på 3,7 prosent i september",
+          "publisher": "E24",
+          "url": "https://e24.no/internasjonal-oekonomi/i/gdRyaL/prisveksten-i-usa-kom-inn-paa-3-7-prosent-i-september",
+          "publishedAt": "2026-10-14T12:30:12Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-eu-vinter-energikrise-20261015",
+      "eventKey": "eu-vinter-energikrise-2026",
+      "materialFacts": [
+        "EU's energikommissær advarer om en hård og dyr vinter",
+        "EU-lande har brugt 110 mia. euro ekstra på energiimport siden februar",
+        "47 mio. europæere kunne ikke opvarme deres hjem fuldt ud sidste vinter"
+      ],
+      "section": "Energi",
+      "headline": "Europas borgere står overfor en kold og dyr vinter",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/europas-borgere-staar-overfor-en-kold-og-dyr-vinter",
+      "subheadline": "EU's energikommissær Dan Jørgensen advarer om stigende priser, mens unionen allerede har brugt 110 milliarder euro ekstra på energiimport siden februar.",
+      "body": [
+        "EU's energikommissær Dan Jørgensen advarer: »Det ser desværre ud til, at det bliver en hård vinter, og priserne kan blive endnu højere.« EU-landene har siden februar brugt 110 mia. euro mere på energiimport end til priser fra før krigen.",
+        "Gasimporten er 22 procent lavere end før 2022. Kommissionen anslår, at 47 mio. europæere ikke kunne opvarme deres hjem fuldt ud sidste vinter - et tal der kan stige."
+      ],
+      "whyItMatters": "For dansk og europæisk industri er vinterens energipriser en konkurrencefaktor: energitunge brancher konkurrerer med producenter, der ikke har betalt samme pris for at afkoble sig fra russisk energi.",
+      "analysis": "Tallene bekræfter, at omstillingen væk fra russisk gas har en reel pris - men også, at EU har værktøjer som afgiftslettelser, hvis viljen er der.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/tfvjpoh5/20260916-095336-l.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Arkivfoto brugt af DR til historien om EU's vinterudsigter for energipriser.",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/europas-borgere-staar-overfor-en-kold-og-dyr-vinter"
+      },
+      "topics": [
+        "energi",
+        "eu",
+        "klima"
+      ],
+      "entities": [
+        "Dan Jørgensen",
+        "EU-Kommissionen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 75,
+        "decisionValue": 65,
+        "novelty": 55,
+        "sourceQuality": 75,
+        "personalRelevance": 70,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "Dan Jørgensen advarer om en hård og dyr vinter med stigende energipriser",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/europas-borgere-staar-overfor-en-kold-og-dyr-vinter"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "EU-lande har brugt 110 mia. euro ekstra på energiimport siden februar; gasimporten er 22 pct. lavere end før 2022-invasionen",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/europas-borgere-staar-overfor-en-kold-og-dyr-vinter"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "47 mio. europæere kunne ikke opvarme deres hjem fuldt ud sidste vinter",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/europas-borgere-staar-overfor-en-kold-og-dyr-vinter"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Europas borgere står overfor en kold og dyr vinter",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/europas-borgere-staar-overfor-en-kold-og-dyr-vinter",
+          "publishedAt": "2026-10-15T05:40:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-nordstream-retssag-20261015",
+      "eventKey": "nordstream-sabotage-retssag-hamborg",
+      "materialFacts": [
+        "Tiltalt i Nord Stream-sagen nægter at afgive forklaring i retten i Hamborg",
+        "Anklagemyndigheden hævder en gruppe på syv brugte en lystyacht til at anbringe ca. 27 kg sprængstof",
+        "Sagen ventes afsluttet i februar"
+      ],
+      "section": "Sikkerhedspolitik",
+      "headline": "Tiltalt i Nord Stream-retssag vil ikke afgive forklaring",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/tiltalt-i-nord-stream-retssag-vil-ikke-afgive-forklaring",
+      "subheadline": "En 50-årig tidligere ukrainsk officer, anklaget for at lede sabotagen af Nord Stream-gasrørledningerne i 2022, nægter at udtale sig i retten i Hamborg.",
+      "body": [
+        "En 50-årig ukrainsk mand, kendt som Serhii K. og tidligere officer i specialstyrkerne, nægter at afgive forklaring i retssagen om sabotagen af Nord Stream nær Bornholm i september 2022. Forsvareren henviser til hans baggrund.",
+        "Anklagemyndigheden hævder, han ledte en gruppe på omkring syv personer med en lejet lystyacht fra Rostock, og at hver sprængladning anslås til 27 kg. Beviserne omfatter sprængstofrester, dna, gps- og teledata. Forsvareren bestrider, at det er en krigsforbrydelse. Sagen ventes afsluttet i februar."
+      ],
+      "whyItMatters": "Sagen er den første retlige afklaring af, hvem der stod bag et af de mest dramatiske angreb på europæisk infrastruktur i nyere tid.",
+      "analysis": "Forsvarets argument - at sabotage af en modstanders energiinfrastruktur under krig ikke er en krigsforbrydelse - rækker videre end denne sag og kan forme, hvordan fremtidige infrastrukturangreb forfølges retligt.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/uktppml4/retssal.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Retssal i Hamborg, hvor Nord Stream-sagen behandles.",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/tiltalt-i-nord-stream-retssag-vil-ikke-afgive-forklaring"
+      },
+      "topics": [
+        "sikkerhedspolitik",
+        "tyskland",
+        "ukraine",
+        "rusland"
+      ],
+      "entities": [
+        "Serhii K.",
+        "Nord Stream",
+        "Hamborg"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 80,
+        "decisionValue": 50,
+        "novelty": 65,
+        "sourceQuality": 80,
+        "personalRelevance": 35,
+        "contrast": 70
+      },
+      "claims": [
+        {
+          "text": "En 50-årig ukrainsk tidligere officer, i sagen omtalt som Serhii K., nægter at afgive forklaring ved retten i Hamborg; forsvareren kræver sagen afvist",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/tiltalt-i-nord-stream-retssag-vil-ikke-afgive-forklaring",
+            "https://ing.dk/artikel/sejlede-kaptajnen-ud-med-en-lystyacht-fyldt-med-spraengstof-her-er-de-tekniske-beviser-i-nord-stream"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Anklagemyndigheden hævder tiltalte ledte en gruppe der brugte en lejet lystyacht fra Rostock til at nå pipelinen nær Bornholm; sagen ventes afsluttet i februar",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/tiltalt-i-nord-stream-retssag-vil-ikke-afgive-forklaring"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Tekniske beviser omfatter sprængstofrester, dna, gps- og teledata; den tyske anklagemyndighed anslår hver sprængladning til 27 kg, og en gruppe på omkring syv personer var løst knyttet til sagen",
+          "sourceUrls": [
+            "https://ing.dk/artikel/sejlede-kaptajnen-ud-med-en-lystyacht-fyldt-med-spraengstof-her-er-de-tekniske-beviser-i-nord-stream"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Tiltalt i Nord Stream-retssag vil ikke afgive forklaring",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/tiltalt-i-nord-stream-retssag-vil-ikke-afgive-forklaring",
+          "publishedAt": "2026-10-14T14:23:48Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Sejlede 'kaptajnen' ud med en lystyacht fyldt med sprængstof: Her er de tekniske beviser i Nord Stream-sagen",
+          "publisher": "Ingeniøren",
+          "url": "https://ing.dk/artikel/sejlede-kaptajnen-ud-med-en-lystyacht-fyldt-med-spraengstof-her-er-de-tekniske-beviser-i-nord-stream",
+          "publishedAt": "2026-10-14T10:41:42Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-fruergaard-sundhedsforum-20261015",
+      "eventKey": "fruergaard-jorgensen-sundhedsforum",
+      "materialFacts": [
+        "Lars Fruergaard Jørgensen, tidligere Novo Nordisk-topchef, er udpeget som medformand for European Roundtable for Global Health",
+        "Forummet blev lanceret 12. oktober 2026"
+      ],
+      "section": "Ledelse",
+      "headline": "Tidligere Novo-topchef er medformand i nyt europæisk sundhedsforum",
+      "primarySourceUrl": "https://www.altinget.dk/sundhed/navnenyt/tidligere-novo-topchef-er-medformand-i-nyt-europaeisk-sundhedsforum",
+      "subheadline": "Lars Fruergaard Jørgensen går fra at lede Novo Nordisk til at medformande en ny Bruxelles-platform for global sundhed.",
+      "body": [
+        "Lars Fruergaard Jørgensen, direktør for Novo Nordisk 2017-2025, er udpeget som medformand for det nye European Roundtable for Global Health - sammen med Marisol Touraine, Frankrigs tidligere sundhedsminister.",
+        "Forummet blev lanceret 12. oktober 2026 og støttes af CEPS, Economist Enterprise, RANI og Alliancen for global sundhed. Formålet er at samle ledere fra politik, erhvervsliv og sundhed om global sundhed som en europæisk strategisk interesse."
+      ],
+      "whyItMatters": "For en dansk erhvervsleder viser posten, hvor den tunge europæiske sundheds- og life science-dagsorden bliver sat - og hvordan en afgået topchef hurtigt finder en platform, der matcher hans tidligere portefølje.",
+      "analysis": "At en Bruxelles-platform henter en tidligere Novo Nordisk-topchef som medformand, understreger hvor tæt dansk life science er forbundet med EU's sundhedspolitiske dagsorden.",
+      "image": {
+        "url": "https://www.altinget.dk/cdn-cgi/image/fit=crop,w=2048,f=jpeg,q=80/https://legacy.altinget.dk/images/95ebc826-208a-446f-a151-961eb6651192.jpg",
+        "credit": "Kilde: Altinget",
+        "alt": "Lars Fruergaard Jørgensen, tidligere topchef for Novo Nordisk og nu medformand for European Roundtable for Global Health.",
+        "sourceUrl": "https://www.altinget.dk/sundhed/navnenyt/tidligere-novo-topchef-er-medformand-i-nyt-europaeisk-sundhedsforum"
+      },
+      "topics": [
+        "ledelse",
+        "life-science",
+        "eu",
+        "danmark"
+      ],
+      "entities": [
+        "Lars Fruergaard Jørgensen",
+        "Marisol Touraine",
+        "Novo Nordisk",
+        "European Roundtable for Global Health"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 60,
+        "novelty": 70,
+        "sourceQuality": 70,
+        "personalRelevance": 90,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "Lars Fruergaard Jørgensen, administrerende direktør for Novo Nordisk 2017-2025, er udpeget som medformand for European Roundtable for Global Health sammen med Marisol Touraine",
+          "sourceUrls": [
+            "https://www.altinget.dk/sundhed/navnenyt/tidligere-novo-topchef-er-medformand-i-nyt-europaeisk-sundhedsforum",
+            "https://www.globalhealthroundtable.org/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Forummet blev lanceret 12. oktober 2026 og støttes af CEPS, Economist Enterprise, RANI og Alliancen for global sundhed",
+          "sourceUrls": [
+            "https://www.globalhealthroundtable.org/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Tidligere Novo-topchef er medformand i nyt europæisk sundhedsforum",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/sundhed/navnenyt/tidligere-novo-topchef-er-medformand-i-nyt-europaeisk-sundhedsforum",
+          "publishedAt": "2026-10-14T08:50:00Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "European Roundtable for Global Health",
+          "publisher": "European Roundtable for Global Health",
+          "url": "https://www.globalhealthroundtable.org/",
+          "publishedAt": "2026-10-12T09:00:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-tinglysning-adgang-20261015",
+      "eventKey": "tinglysning-ekstrem-aktivitet-adgang",
+      "materialFacts": [
+        "Tinglysningssystemet fik 17,2 mio. forespørgsler i uge 41 mod normalt under 2 mio.",
+        "Tinglysningsretten har indført tekniske begrænsninger for at dæmpe belastningen"
+      ],
+      "section": "Digital infrastruktur",
+      "headline": "Adgang strammes, efter samfundskritisk it-system blev ramt af ekstrem aktivitet: 17,2 millioner opslag på få dage",
+      "primarySourceUrl": "https://www.computerworld.dk/art/297182/adgang-strammes-efter-samfundskritisk-it-system-blev-ramt-af-ekstrem-aktivitet-17-2-millioner-opslag-paa-faa-dage",
+      "subheadline": "Det offentlige tinglysningssystem fik 17,2 millioner forespørgsler i løbet af en uge - mod normalt under 2 millioner - og myndighederne kan ikke forklare hvorfor.",
+      "body": [
+        "Tinglysningssystemet, der giver offentlig adgang til oplysninger om boligejerskab og pant, blev i uge 41 ramt af 17,2 millioner forespørgsler mod normalt under 2 millioner om ugen. Tinglysningsretten har nu indført tekniske begrænsninger.",
+        "Myndighederne kan ikke bekræfte, hvem der stod bag, eller motivet. Forespørgslerne gik mod portalen uden login. Embedsmænd advarer om, at sammenstillede oplysninger kan give svindlere troværdige detaljer om ejendomme til brug i bedrageri."
+      ],
+      "whyItMatters": "Sagen er endnu en konsekvens af sommerens CPR-læk: et register bygget til gennemsigtighed om ejendomsret bliver selv et mål for masseudtræk af data.",
+      "analysis": "At justitsminister Nicolai Wammen understreger, at enkeltopslag er lovlige, men at omfanget vækker bekymring, viser dilemmaet: Danmarks åbne registre er en samfundsværdi, men samme åbenhed gør dem sårbare.",
+      "image": {
+        "url": "https://www.computerworld.dk/fil/243455?width=1200&height=630&focus=1",
+        "credit": "Kilde: Computerworld",
+        "alt": "Illustration brugt af Computerworld til historien om det pressede tinglysningssystem.",
+        "sourceUrl": "https://www.computerworld.dk/art/297182/adgang-strammes-efter-samfundskritisk-it-system-blev-ramt-af-ekstrem-aktivitet-17-2-millioner-opslag-paa-faa-dage"
+      },
+      "topics": [
+        "cybersikkerhed",
+        "danmark",
+        "digitalisering"
+      ],
+      "entities": [
+        "Tinglysningsretten",
+        "Nicolai Wammen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 70,
+        "decisionValue": 55,
+        "novelty": 75,
+        "sourceQuality": 70,
+        "personalRelevance": 55,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Tinglysningssystemet fik 17,2 mio. forespørgsler i uge 41 mod normalt under 2 mio. om ugen; Tinglysningsretten har indført tekniske begrænsninger",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/297182/adgang-strammes-efter-samfundskritisk-it-system-blev-ramt-af-ekstrem-aktivitet-17-2-millioner-opslag-paa-faa-dage"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Myndighederne kan ikke bekræfte kilden eller motivet bag aktiviteten og advarer om at sammenstillet data kan bruges til svindel",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/297182/adgang-strammes-efter-samfundskritisk-it-system-blev-ramt-af-ekstrem-aktivitet-17-2-millioner-opslag-paa-faa-dage"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Adgang strammes, efter samfundskritisk it-system blev ramt af ekstrem aktivitet: 17,2 millioner opslag på få dage",
+          "publisher": "Computerworld",
+          "url": "https://www.computerworld.dk/art/297182/adgang-strammes-efter-samfundskritisk-it-system-blev-ramt-af-ekstrem-aktivitet-17-2-millioner-opslag-paa-faa-dage",
+          "publishedAt": "2026-10-15T05:02:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-nordea-q3-regnskab-20261015",
+      "eventKey": "nordea-q3-2026-regnskab",
+      "materialFacts": [
+        "Nordeas resultat før skat i Q3 var 1.541 mio. euro mod forventede 1.572 mio. euro",
+        "Værdipapiraktiviteter faldt 19 pct., og nettotab på udlån steg markant"
+      ],
+      "section": "Bankvæsen",
+      "headline": "Q3 Nordea rammer under analytikernes forventning på alle parametre",
+      "primarySourceUrl": "https://ugebrev.dk/finans/q3-nordea-skyder-under-analytikernes-forventning-paa-alle-parametre/",
+      "subheadline": "Nordens største bank leverede et resultat før skat på 1,54 milliarder euro i tredje kvartal - under analytikernes forventning, drevet af faldende værdipapiraktivitet og stigende udlånstab.",
+      "body": [
+        "Nordea leverede i Q3 2026 et resultat før skat på 1.541 mio. euro mod forventede 1.572 mio. euro. Den samlede indtægt var 2.968 mio. euro mod ventede 3.001 mio. euro.",
+        "Nettorenteindtægterne holdt stand på 1.799 mio. euro. Men værdipapiraktiviteterne faldt til 198 mio. euro fra 245 mio. euro - et fald på 19 procent - mens nettotab på udlån steg til 74 mio. euro mod en positiv reversering på 19 mio. euro året før."
+      ],
+      "whyItMatters": "Nordea er Nordens største bank og en vigtig kreditgiver til dansk erhvervsliv; et kvartal, der skuffer på alle hovedparametre, er et tidligt signal om pres på kreditkvaliteten.",
+      "analysis": "At det er værdipapirindtægter og udlånstab - ikke bankforretningen selv - der trækker resultatet ned, peger på markedsvolatilitet snarere end strukturel svækkelse. Værd at følge, om udlånstabene er enkeltstående eller en trend.",
+      "image": {
+        "url": "https://ugebrev.dk/wp-content/uploads/2025/04/Frank-Vang-Jensen-%E2%80%93-CEO-Nordea.jpg",
+        "credit": "Kilde: Økonomisk Ugebrev",
+        "alt": "Frank Vang-Jensen, koncernchef i Nordea.",
+        "sourceUrl": "https://ugebrev.dk/finans/q3-nordea-skyder-under-analytikernes-forventning-paa-alle-parametre/"
+      },
+      "topics": [
+        "bankvæsen",
+        "makroøkonomi",
+        "norden"
+      ],
+      "entities": [
+        "Nordea",
+        "Frank Vang-Jensen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 65,
+        "decisionValue": 60,
+        "novelty": 60,
+        "sourceQuality": 75,
+        "personalRelevance": 70,
+        "contrast": 30
+      },
+      "claims": [
+        {
+          "text": "Nordeas resultat før skat i Q3 2026 var 1.541 mio. euro mod forventede 1.572 mio. euro; nettorenteindtægter stabile på 1.799 mio. euro",
+          "sourceUrls": [
+            "https://ugebrev.dk/finans/q3-nordea-skyder-under-analytikernes-forventning-paa-alle-parametre/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Værdipapiraktiviteter faldt 19 pct. til 198 mio. euro, og nettotab på udlån steg til 74 mio. euro fra en positiv reversering på 19 mio. euro året før",
+          "sourceUrls": [
+            "https://ugebrev.dk/finans/q3-nordea-skyder-under-analytikernes-forventning-paa-alle-parametre/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Q3 Nordea rammer under analytikernes forventning på alle parametre",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/finans/q3-nordea-skyder-under-analytikernes-forventning-paa-alle-parametre/",
+          "publishedAt": "2026-10-15T05:26:06Z",
+          "kind": "reporting"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "Trump: Jeg ville ikke have sendt militær ind i Grønland",
+      "headline": "Trump: Jeg ville ikke have sendt militær ind i Grønland",
+      "url": "https://www.dr.dk/nyheder/seneste/trump-jeg-ville-ikke-have-sendt-militaer-ind-i-groenland",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-10-15T00:16:52Z",
+      "summary": "Trump afviser i et nyt interview, at han ville have sendt amerikansk militær til Grønland."
+    },
+    {
+      "text": "Palantirs topchef har købt kæmpe skovområde i Sverige: Nu har svenske myndigheder undersøgt købet",
+      "headline": "Palantirs topchef har købt kæmpe skovområde i Sverige: Nu har svenske myndigheder undersøgt købet",
+      "url": "https://www.dr.dk/nyheder/udland/palantirs-topchef-har-koebt-kaempe-skovomraade-i-sverige-nu-har-svenske-myndigheder-undersoegt",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-10-15T02:30:00Z",
+      "summary": "Svenske myndigheder har gennemgået techmilliardærens omstridte jordkøb."
+    },
+    {
+      "text": "Rigspolitiets svar: Derfor stoppede vi med at bruge russisk overvågningssoftware",
+      "headline": "Rigspolitiets svar: Derfor stoppede vi med at bruge russisk overvågningssoftware",
+      "url": "https://ing.dk/artikel/rigspolitiets-svar-derfor-stoppede-vi-med-bruge-russisk-overvaagningssoftware",
+      "publisher": "Ingeniøren",
+      "section": "Sikkerhed",
+      "publishedAt": "2026-10-15T08:00:00Z",
+      "summary": "Rigspolitiet redegør for, hvorfor man er stoppet med at bruge en russisk-udviklet overvågningsløsning."
+    },
+    {
+      "text": "Efter frygt for kollaps af havstrømme: 'Atlantens hjerte' kan hurtigt genvinde styrken",
+      "headline": "Efter frygt for kollaps af havstrømme: 'Atlantens hjerte' kan hurtigt genvinde styrken",
+      "url": "https://ing.dk/artikel/efter-frygt-kollaps-af-havstroemme-atlantens-hjerte-kan-hurtigt-genvinde-styrken",
+      "publisher": "Ingeniøren",
+      "section": "Klima",
+      "publishedAt": "2026-10-15T06:16:00Z",
+      "summary": "Ny forskning tyder på, at den atlantiske havstrøm AMOC kan genvinde styrke hurtigere end tidligere frygtet."
+    },
+    {
+      "text": "EU undersøger i al hemmelighed flere alvorlige AI-incidents: Offentligheden må intet få at vide",
+      "headline": "EU undersøger i al hemmelighed flere alvorlige AI-incidents: Offentligheden må intet få at vide",
+      "url": "https://www.computerworld.dk/art/297181/eu-undersoeger-i-al-hemmelighed-flere-alvorlige-ai-incidents-offentligheden-maa-intet-faa-at-vide",
+      "publisher": "Computerworld",
+      "section": "Teknologi",
+      "publishedAt": "2026-10-15T05:51:00Z",
+      "summary": "EU-Kommissionen undersøger flere alvorlige AI-relaterede hændelser under fortrolighed."
+    },
+    {
+      "text": "65-årig mand er død efter knivstikkeri i Odense",
+      "headline": "65-årig mand er død efter knivstikkeri i Odense",
+      "url": "https://www.dr.dk/nyheder/seneste/65-aarig-mand-er-doed-efter-knivstikkeri-i-odense",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-10-14T09:04:06Z",
+      "summary": "En 81-årig er anholdt og sigtet for manddrab efter knivstikkeri i Odense."
+    },
+    {
+      "text": "Tidligere dansk landstræner Bo 'Bosse' Johansson er død",
+      "headline": "Tidligere dansk landstræner Bo 'Bosse' Johansson er død",
+      "url": "https://www.dr.dk/sporten/fodbold/landsholdet/bo-bosse-johansson-er-doed",
+      "publisher": "DR",
+      "section": "Sport",
+      "publishedAt": "2026-10-15T05:54:06Z",
+      "summary": "Den svenske fodboldtræner, der ledte Danmark til VM-kvartfinalen i 1998, er død i en alder af 83 år."
+    },
+    {
+      "text": "Jonathan Groth slår tysker og spiller sig videre til anden runde ved EM i bordtennis",
+      "headline": "Jonathan Groth slår tysker og spiller sig videre til anden runde ved EM i bordtennis",
+      "url": "https://www.dr.dk/sporten/feberchok-rammer-danmarks-em-lejr-anders-lind-er-syg",
+      "publisher": "DR",
+      "section": "Sport",
+      "publishedAt": "2026-10-14T13:19:00Z",
+      "summary": "Jonathan Groth vinder i fire sæt og går videre ved bordtennis-EM."
+    },
+    {
+      "text": "Norges handelsoverskudd stiger til 105 milliarder",
+      "headline": "Norges handelsoverskudd stiger til 105 milliarder",
+      "url": "https://e24.no/boers-og-finans/i/4O0qX9/norges-handelsoverskudd-stiger-til-105-milliarder-hoeyeste-siden-2023",
+      "publisher": "E24",
+      "section": "Økonomi",
+      "publishedAt": "2026-10-15T06:33:31Z",
+      "summary": "Norges handelsoverskud stiger til 105 milliarder kroner, det højeste siden 2023."
+    },
+    {
+      "text": "Delstater sagsøger OpenAI for at vejlede børn i selvskade",
+      "headline": "Delstater sagsøger OpenAI for at vejlede børn i selvskade",
+      "url": "https://www.dr.dk/nyheder/seneste/delstater-sagsoeger-openai-vejlede-boern-i-selvskade",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-10-14T20:10:19Z",
+      "summary": "Flere amerikanske delstater har sagsøgt OpenAI for at have vejledt børn i selvskade via ChatGPT."
+    },
+    {
+      "text": "27 elever og en lærer dræbt i tagkollaps i Pakistan",
+      "headline": "27 elever og en lærer dræbt i tagkollaps i Pakistan",
+      "url": "https://www.dr.dk/nyheder/seneste/17-elever-og-en-laerer-draebt-i-tagkollaps-i-pakistan",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-10-15T06:57:00Z",
+      "summary": "Mindst 27 elever og en lærer er dræbt, da et tag kollapsede på en skole i Pakistan."
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-draghi-siepr-20261015",
+      "mode": "watch",
+      "kind": "Fireside-interview",
+      "status": "classic",
+      "title": "Mario Draghi: Europe's 'immense complacency' is over",
+      "creator": "Mario Draghi, i samtale med Jeanette Garretty",
+      "provider": "Stanford SIEPR",
+      "url": "https://siepr.stanford.edu/news/mario-draghi-europes-immense-complacency-over",
+      "availability": "Gratis på YouTube via Stanford SIEPR.",
+      "commitment": "ca. 50 minutter",
+      "description": "Samtaleinterview fra SIEPR Economic Summit i marts 2026, hvor Mario Draghi uddyber sin konkurrencekraftrapport og vurderer, hvor langt EU er kommet med at omsætte sine reformforslag til handling.",
+      "rationale": "Interviewet er fra marts, men giver stadig den bedste baggrund for dagens budgetstrid: Draghi forklarer selv, hvorfor konkurrencekraft og et større EU-budget hænger sammen - den sammenhæng, der ligger under den 'sparebande' Danmark nu er med i.",
+      "topics": [
+        "eu",
+        "konkurrencekraft",
+        "makroøkonomi"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://img.youtube.com/vi/--xK1GuCdxA/maxresdefault.jpg",
+        "credit": "Kilde: Stanford SIEPR / YouTube",
+        "alt": "Mario Draghi i samtale med Jeanette Garretty ved SIEPR Economic Summit 2026.",
+        "sourceUrl": "https://siepr.stanford.edu/news/mario-draghi-europes-immense-complacency-over"
+      }
+    },
+    {
+      "id": "rec-kornferry-talent-20261015",
+      "mode": "read",
+      "kind": "Brancherapport",
+      "status": "new",
+      "title": "Korn Ferry Research Unveils Top Talent Acquisition Trends Shaping 2026",
+      "provider": "Korn Ferry",
+      "url": "https://www.kornferry.com/about-us/press/korn-ferry-research-unveils-top-talent-acquisition-trends-shaping-2026",
+      "description": "Korn Ferrys årlige talentrapport, baseret på svar fra 1.674 globale talentledere, kortlægger hvor rekruttering og ledelsesudvikling bevæger sig i 2026 - med fokus på hvordan AI ændrer hvilke kompetencer bestyrelser og direktioner efterspørger.",
+      "rationale": "For en læser der genopbygger en selvstændig praksis efter en lang karriere i en brancheorganisation, er det nyttigt at vide, hvilke kompetencer bestyrelser rent faktisk prioriterer lige nu - rapporten nævner at kun 11 procent af ledere føler sig klædt på til AI-omstillingen.",
+      "topics": [
+        "ledelse",
+        "rekruttering",
+        "ai"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://cdn.prod.website-files.com/682d0909a1d24c2029d5ee26/69713643b556f67f66753805_identifying-and-activating-leaders-for-change-375x300.jpeg",
+        "credit": "Kilde: Korn Ferry",
+        "alt": "Illustration fra Korn Ferrys rapport om talentrekrutteringstrends 2026.",
+        "sourceUrl": "https://www.kornferry.com/about-us/press/korn-ferry-research-unveils-top-talent-acquisition-trends-shaping-2026"
+      }
+    },
+    {
+      "id": "rec-globalhealthroundtable-20261015",
+      "mode": "read",
+      "kind": "Institutionsside",
+      "status": "new",
+      "title": "European Roundtable for Global Health",
+      "provider": "CEPS / Economist Enterprise / RANI / Alliancen for global sundhed",
+      "url": "https://www.globalhealthroundtable.org/",
+      "description": "Den officielle hjemmeside for det nye Bruxelles-forum, der samler politikere, erhvervsliv og sundhedsprofessionelle om at placere global sundhed som en europæisk strategisk interesse.",
+      "rationale": "Stedet at følge, hvor dagens navnenyt om Lars Fruergaard Jørgensen fører hen: forummets egen side viser hvem de øvrige medlemmer er, og hvordan den tidligere Novo Nordisk-topchefs nye rolle konkret skal fungere.",
+      "topics": [
+        "ledelse",
+        "sundhed",
+        "eu"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-lorne-netflix-20261015",
+      "mode": "watch",
+      "kind": "Dokumentar",
+      "status": "new",
+      "title": "Lorne",
+      "creator": "Morgan Neville (regissør)",
+      "provider": "Netflix",
+      "url": "https://www.netflix.com/title/82872500",
+      "availability": "Kræver Netflix-abonnement.",
+      "commitment": "101 minutter",
+      "description": "Dokumentar om Lorne Michaels, manden der i 1975 skabte Saturday Night Live og stadig producerer showet. Landede på Netflix i USA 5. oktober 2026 efter en tur i biografer og på Peacock.",
+      "rationale": "Det bevidst uden-for-profil-valg i dag: en fortælling om et halvt århundredes amerikansk tv-institutionsbygning, uden forbindelse til handel eller EU - men en påmindelse om hvordan en enkelt person kan forme en hel branches struktur over lang tid.",
+      "topics": [
+        "kultur",
+        "medier"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Lorne_Michaels_David_Shankbone_2010.jpg",
+        "credit": "Foto: David Shankbone, CC BY 3.0",
+        "alt": "Lorne Michaels, skaberen af Saturday Night Live og hovedperson i Netflix-dokumentaren 'Lorne'.",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lorne_Michaels_David_Shankbone_2010.jpg"
+      }
+    }
+  ],
+  "quality": {
+    "sourceDiversity": 75,
+    "verificationDepth": 80,
+    "overallConfidence": 78
+  }
+}
