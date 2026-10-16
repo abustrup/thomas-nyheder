@@ -1,0 +1,717 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-20261016-01",
+  "date": "2026-10-16",
+  "generatedAt": "2026-10-16T08:21:16Z",
+  "readingMinutes": 10,
+  "title": "Thomas' Nyheder",
+  "dek": "Grønland lægger sig i vejen for dybhavsminedrift, en direktør går uventet af, og AU's regnefejl rammer over halvdelen af landmændene.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-groenland-dybhavsminedrift-20261016",
+      "eventKey": "groenland-dybhavsminedrift-forbud-20261016",
+      "materialFacts": [
+        "Inatsisartut vedtog torsdag et beslutningsforslag, der pålægger Naalakkersuisut at udarbejde lovgivning, som forbyder dybhavsminedrift",
+        "Forbuddet skal gælde indtil 31. december 2029, med mulighed for forlængelse to år ad gangen",
+        "Alle fremmødte medlemmer stemte for forslaget"
+      ],
+      "section": "Grønland",
+      "headline": "Grønlands parlament foreslår at forbyde dybhavsminedrift",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/groenlands-parlament-foreslaar-forbyde-dybhavsminedrift",
+      "subheadline": "Inatsisartut pålægger landsregeringen at lovgive mod dybhavsminedrift til udgangen af 2029, mens globale aktører jagter adgang til havbundens mineraler.",
+      "body": [
+        "Grønlands parlament, Inatsisartut, vedtog torsdag et beslutningsforslag, der pålægger landsregeringen Naalakkersuisut at udarbejde lovgivning mod dybhavsminedrift. Alle fremmødte medlemmer stemte for forslaget, der skal gælde indtil 31. december 2029, med mulighed for forlængelse to år ad gangen.",
+        "Formålet er at skærme havets økosystemer og den biodiversitet, som fiskeri og fangst - centrale dele af den grønlandske økonomi - afhænger af."
+      ],
+      "whyItMatters": "Beslutningen rammer en industri, flere lande har stigende interesse for i jagten på kritiske mineraler til batterier og forsvarsteknologi. Grønland har hidtil balanceret mellem at tiltrække udenlandsk mineralinteresse og at værne om egne ressourcer - et felt, hvor Washingtons interesse for Grønlands mineraler gør reguleringen til mere end et indenrigspolitisk spørgsmål.",
+      "analysis": "Tidsbegrænsningen til 2029 er et kompromis: et permanent forbud lukker døren helt, mens dette lader Naalakkersuisut genåbne sagen, hvis den teknologiske kalkule ændrer sig før da.",
+      "counterpoint": "Mineindustrien vil typisk indvende, at et tidsbegrænset forbud underminerer investeringssikkerheden lige så effektivt som et permanent, fordi ingen kapital binder sig til et projekt, der kan forbydes igen.",
+      "topics": [
+        "groenland",
+        "miljoe",
+        "geopolitik",
+        "raastoffer"
+      ],
+      "entities": [
+        "Inatsisartut",
+        "Naalakkersuisut",
+        "Grønland"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 70,
+        "decisionValue": 60,
+        "novelty": 65,
+        "sourceQuality": 80,
+        "personalRelevance": 55,
+        "contrast": 60
+      },
+      "claims": [
+        {
+          "text": "Inatsisartut vedtog torsdag et beslutningsforslag, der pålægger Naalakkersuisut at udarbejde lovgivning, som forbyder dybhavsminedrift indtil 31. december 2029, med mulighed for forlængelse to år ad gangen.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/groenlands-parlament-foreslaar-forbyde-dybhavsminedrift"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Alle fremmødte medlemmer af Inatsisartut stemte for forslaget.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/groenlands-parlament-foreslaar-forbyde-dybhavsminedrift"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Grønlands parlament foreslår at forbyde dybhavsminedrift",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/groenlands-parlament-foreslaar-forbyde-dybhavsminedrift",
+          "publishedAt": "2026-10-15T23:28:02Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/idlde3p3/20261014-073754-l-5730x3820ma.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Foto: Thomas Traasdahl/Ritzau Scanpix",
+        "alt": "Grønlandsk kystlandskab med vand og klipper, hvor Inatsisartut har vedtaget forbud mod dybhavsminedrift",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/groenlands-parlament-foreslaar-forbyde-dybhavsminedrift"
+      }
+    },
+    {
+      "id": "story-ugebrev-agentisk-ai-20261016",
+      "eventKey": "ugebrev-agentisk-ai-brancher-20261016",
+      "materialFacts": [
+        "Ugebrev beskriver, hvordan personlige AI-agenter kan læse kontrakter, sammenligne priser og forhandle vilkår på forbrugerens vegne",
+        "Brancher med komplekse produkter, variabel prissætning og lav kundeomstillingsgrad - finans, forsikring, detail, energi og sundhed - er særligt udsatte"
+      ],
+      "section": "Erhverv",
+      "headline": "Tema: Agentisk AI – Når kundens AI møder virksomheden: Disse brancher skal bygge forretningen om",
+      "primarySourceUrl": "https://ugebrev.dk/finans/tema-agentisk-ai-naar-kundens-ai-moeder-virksomheden-disse-brancher-skal-bygge-forretningen-om/",
+      "subheadline": "Økonomisk Ugebrevs chefredaktør argumenterer for, at personlige AI-agenter udligner den informationsasymmetri, flere branchers forretningsmodel bygger på.",
+      "body": [
+        "Den største udfordring ved personlige AI-agenter bliver ifølge Økonomisk Ugebrevs analyse ikke, at virksomhederne skal lære AI - det er, at kunderne gør det samme. Når agenter kan læse kontrakter, sammenligne priser og forhandle vilkår, ændres en grundlæggende asymmetri i markedet.",
+        "Brancher med komplekse produkter, variabel prissætning og lav kundeomstillingsgrad - finans, forsikring, detail, energi og sundhed - er særligt udsatte, fordi forretningsmodellen delvist bygger på, at kunden ikke har overblik til at forhandle."
+      ],
+      "whyItMatters": "Hvis kundepassivitet forsvinder, rykker konkurrencen fra fastholdelse til ren pris og vilkår - et skifte, der kan presse marginer i brancher bygget på den passivitet.",
+      "analysis": "Det er et tesedrevet fremtidsscenarie, ikke en rapporteret begivenhed. Men mekanismen - at AI sænker kundens søgeomkostning mod nul - har allerede ændret rejsebranchen og forsikringssammenligning.",
+      "topics": [
+        "ai",
+        "erhverv",
+        "eu-konkurrencekraft"
+      ],
+      "entities": [
+        "Morten W. Langer",
+        "Økonomisk Ugebrev"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 65,
+        "novelty": 55,
+        "sourceQuality": 70,
+        "personalRelevance": 70,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "Personlige AI-agenter, der kan læse kontrakter, sammenligne priser og forhandle vilkår, ændrer en grundlæggende informationsasymmetri mellem virksomhed og kunde.",
+          "sourceUrls": [
+            "https://ugebrev.dk/finans/tema-agentisk-ai-naar-kundens-ai-moeder-virksomheden-disse-brancher-skal-bygge-forretningen-om/"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Brancher med komplekse produkter, variabel prissætning og lav kundeomstillingsgrad er særligt udsatte for disruption, når kundepassivitet forsvinder.",
+          "sourceUrls": [
+            "https://ugebrev.dk/finans/tema-agentisk-ai-naar-kundens-ai-moeder-virksomheden-disse-brancher-skal-bygge-forretningen-om/"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Tema: Agentisk AI – Når kundens AI møder virksomheden: Disse brancher skal bygge forretningen om",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/finans/tema-agentisk-ai-naar-kundens-ai-moeder-virksomheden-disse-brancher-skal-bygge-forretningen-om/",
+          "publishedAt": "2026-10-16T07:50:19Z",
+          "kind": "analysis"
+        }
+      ],
+      "image": {
+        "url": "https://ugebrev.dk/wp-content/uploads/2026/10/Agentisk-AI-boliglaan.png",
+        "credit": "Kilde: Økonomisk Ugebrev",
+        "alt": "Illustration af agentisk AI anvendt på et boliglån, til Økonomisk Ugebrevs tema om AI-agenter og kundeforhold",
+        "sourceUrl": "https://ugebrev.dk/finans/tema-agentisk-ai-naar-kundens-ai-moeder-virksomheden-disse-brancher-skal-bygge-forretningen-om/"
+      }
+    },
+    {
+      "id": "story-danske-medier-direktoer-20261016",
+      "eventKey": "danske-medier-direktoer-stopper-20261013",
+      "materialFacts": [
+        "Dicle Duran Nielsen har uventet meddelt bestyrelsen for Danske Medier, at hun træder ned som administrerende direktør efter knap tre år"
+      ],
+      "section": "Erhverv",
+      "headline": "Danske Mediers topchef takker af",
+      "primarySourceUrl": "https://www.altinget.dk/navnenyt/danske-mediers-topchef-takker-af",
+      "subheadline": "Dicle Duran Nielsen stopper som direktør for brancheorganisationen Danske Medier - den femte direktør på få år til at forlade posten.",
+      "body": [
+        "Danske Mediers administrerende direktør, Dicle Duran Nielsen, har uventet meddelt bestyrelsen, at hun træder ned efter knap tre år på posten. Det oplyser Danske Medier i en pressemeddelelse.",
+        "'Jeg respekterer naturligvis Dicles beslutning. Tak for hendes indsats, og for at Danske Medier i dag står et stærkere sted. Hun har varetaget mediernes interesser med faglig tyngde og politiske tæft,' siger bestyrelsesformand Anders Krab-Johansen."
+      ],
+      "whyItMatters": "Danske Medier forhandler branchens interesser over for Folketinget og EU, mens mediestøtte og AI-regulering er åbne sager. Et uventet direktørskifte er en reel ledelsesrisiko, uanset at årsagen ikke er offentliggjort.",
+      "analysis": "Pressemeddelelsen navngiver ingen årsag, og ingen bør antages. Mønstret er mere interessant: flere direktører på få år afspejler typisk en organisation under pres udefra snarere end et enkelt valg.",
+      "topics": [
+        "erhverv",
+        "organisationer",
+        "medier"
+      ],
+      "entities": [
+        "Dicle Duran Nielsen",
+        "Danske Medier",
+        "Anders Krab-Johansen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 45,
+        "decisionValue": 55,
+        "novelty": 70,
+        "sourceQuality": 70,
+        "personalRelevance": 75,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Dicle Duran Nielsen har uventet meddelt bestyrelsen for Danske Medier, at hun træder ned som administrerende direktør efter knap tre år.",
+          "sourceUrls": [
+            "https://www.altinget.dk/navnenyt/danske-mediers-topchef-takker-af"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Danske Mediers topchef takker af",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/navnenyt/danske-mediers-topchef-takker-af",
+          "publishedAt": "2026-10-13T06:30:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://legacy.altinget.dk/images/837f55a1-e71c-460c-87a1-9bed1ee592b0.jpg",
+        "credit": "Kilde: Altinget",
+        "alt": "Dicle Duran Nielsen, der stopper som administrerende direktør for Danske Medier",
+        "sourceUrl": "https://www.altinget.dk/navnenyt/danske-mediers-topchef-takker-af"
+      }
+    },
+    {
+      "id": "story-au-kvaelstof-fejl-20261016",
+      "eventKey": "au-kvaelstofberegning-fejl-landmaend-20261014",
+      "materialFacts": [
+        "Aarhus Universitet har fundet en fejl i beregningerne af 'braklægningspunktet' i den nye kvælstofregulering",
+        "SEGES vurderer, at over halvdelen af alle landmænd er berørt af fejlen, og at flere fejl kan være skjult"
+      ],
+      "section": "Landbrug",
+      "headline": "Universitet indrømmer bommert: Har lavet fejl i data til kvælstofregulering",
+      "primarySourceUrl": "https://ing.dk/artikel/universitet-indroemmer-bommert-har-lavet-fejl-i-data-til-kvaelstofregulering",
+      "subheadline": "Aarhus Universitet erkender en fejl i de beregninger, landmænd fra 2027 skal bruge til at måle kvælstofudledning - SEGES anslår, at over halvdelen er berørt.",
+      "body": [
+        "Aarhus Universitet (AU) har fundet en fejl i de beregninger, universitetet har leveret til fastsættelsen af det såkaldte braklægningspunkt i den nye kvælstofregulering. Landmænd skal fra 2027 bruge braklægningspunktet til at udregne, hvor meget kvælstof de må udlede.",
+        "'Ansvaret for, at tallene er korrekte, er alene vores,' siger en AU-professor om fejlen. SEGES vurderer i en opfølgende sag, at over halvdelen af alle landmænd er berørt, og at der kan gemme sig flere regnefejl i datasættet."
+      ],
+      "whyItMatters": "Braklægningspunktet afgør, hvor meget enkelte landmænd skal braklægge for at leve op til loven fra 2027. En fejl, der rammer over halvdelen, kan tvinge en ny beregningsrunde igennem.",
+      "analysis": "At fejlen kommer fra universitetet selv, er både en svaghed og en styrke: det rejser spørgsmål om kvalitetssikringen, men indrømmelsen frem for en tilsløring er i sig selv et tegn på, at kontrollen fungerede, bare sent.",
+      "topics": [
+        "landbrug",
+        "erhverv",
+        "regulering"
+      ],
+      "entities": [
+        "Aarhus Universitet",
+        "SEGES",
+        "Landbrug & Fødevarer"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 60,
+        "novelty": 50,
+        "sourceQuality": 60,
+        "personalRelevance": 60,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "Aarhus Universitet har fundet en fejl i de beregninger, universitetet leverede til fastsættelsen af braklægningspunktet i den nye kvælstofregulering.",
+          "sourceUrls": [
+            "https://ing.dk/artikel/universitet-indroemmer-bommert-har-lavet-fejl-i-data-til-kvaelstofregulering"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "En AU-professor siger: 'Ansvaret for, at tallene er korrekte, er alene vores.'",
+          "sourceUrls": [
+            "https://ing.dk/artikel/universitet-indroemmer-bommert-har-lavet-fejl-i-data-til-kvaelstofregulering"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "SEGES vurderer, at over halvdelen af alle landmænd er berørt af fejlen, og at flere fejl kan være skjult.",
+          "sourceUrls": [
+            "https://ing.dk/artikel/seges-halvdelen-af-alle-landmaend-er-beroerte-af-regnefejl-og-der-kan-gemme-sig-flere"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Universitet indrømmer bommert: Har lavet fejl i data til kvælstofregulering",
+          "publisher": "Ingeniøren",
+          "url": "https://ing.dk/artikel/universitet-indroemmer-bommert-har-lavet-fejl-i-data-til-kvaelstofregulering",
+          "publishedAt": "2026-10-14T05:58:00Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "SEGES: Halvdelen af alle landmænd er berørte af regnefejl - og der kan gemme sig flere",
+          "publisher": "Ingeniøren",
+          "url": "https://ing.dk/artikel/seges-halvdelen-af-alle-landmaend-er-beroerte-af-regnefejl-og-der-kan-gemme-sig-flere",
+          "publishedAt": "2026-10-15T11:10:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://ing.dk/sites/mi/files/styles/open_graph_image_16_9/public/2026-10/20240722-210459-5-6048x4024ma.jpg?itok=wEuFyS7r",
+        "credit": "Kilde: Ingeniøren",
+        "alt": "Universitet indrømmer bommert: Har lavet fejl i data til kvælstofregulering",
+        "sourceUrl": "https://ing.dk/artikel/universitet-indroemmer-bommert-har-lavet-fejl-i-data-til-kvaelstofregulering"
+      }
+    },
+    {
+      "id": "story-sudan-toerke-hungersnoed-20261016",
+      "eventKey": "sudan-toerke-hungersnoedsrisiko-20261015",
+      "materialFacts": [
+        "IPC advarer om, at alvorlig tørke forårsaget af El Niño forværrer sultkrisen i Darfur og Kordofan",
+        "33,7 millioner mennesker i Sudan har brug for humanitær hjælp"
+      ],
+      "section": "Afrika",
+      "headline": "Katastrofen i Sudan er allerede af 'historiske proportioner' - nu øger tørke risikoen for hungersnød",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/katastrofen-i-sudan-er-allerede-af-historiske-proportioner-nu-oeger-toerke-risikoen-hungersnoed",
+      "subheadline": "Den FN-støttede overvågningsenhed IPC varsler øget risiko for hungersnød i det krigshærgede Sudan, hvor tørke rammer et land allerede splittet af borgerkrig.",
+      "body": [
+        "Over halvdelen af Sudan er ramt af tørke, der følger med vejrfænomenet El Niño, og gør levevilkårene yderligere vanskelige i det krigshærgede land. Det varsler FN-overvågningsenheden IPC. I regionerne Darfur og Kordofan er risikoen for hungersnød nu større.",
+        "33,7 millioner mennesker i Sudan har brug for humanitær hjælp, og WFP anslår, at over 19 millioner står med akut fødevaremangel. I to flygtningelejre lider op mod 38 og knap 31 procent af børnene af akut fejlernæring, mens 14 millioner er fordrevet af borgerkrigen."
+      ],
+      "whyItMatters": "Krig og klimadrevet tørke er den dynamik, der historisk har udløst de værste hungersnød - konflikten hindrer nødhjælp i at nå frem, mens naturen gør selvforsyning umulig.",
+      "analysis": "At advarslen kommer fra IPC og ikke en part i konflikten, giver den vægt. Risikoen er, at verdens opmærksomhed er optaget af andre kriser, mens Sudans tal fortsat forværres uden hjælperespons.",
+      "topics": [
+        "humanitaer-krise",
+        "afrika",
+        "udenrigs"
+      ],
+      "entities": [
+        "IPC",
+        "WFP",
+        "Sudan",
+        "Darfur",
+        "Kordofan"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 80,
+        "decisionValue": 30,
+        "novelty": 55,
+        "sourceQuality": 75,
+        "personalRelevance": 10,
+        "contrast": 70
+      },
+      "claims": [
+        {
+          "text": "IPC advarer om, at alvorlig tørke, fulgt af vejrfænomenet El Niño, forværrer sultkrisen i Darfur og Kordofan, hvor der nu er øget risiko for hungersnød.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/katastrofen-i-sudan-er-allerede-af-historiske-proportioner-nu-oeger-toerke-risikoen-hungersnoed"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "33,7 millioner mennesker i Sudan har brug for humanitær hjælp; WFP anslår over 19 millioner i akut fødevaremangel; op til 38 og knap 31 procent af børn i to lejre er akut fejlernærede; 14 millioner er fordrevet af borgerkrigen.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/katastrofen-i-sudan-er-allerede-af-historiske-proportioner-nu-oeger-toerke-risikoen-hungersnoed"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Katastrofen i Sudan er allerede af 'historiske proportioner' - nu øger tørke risikoen for hungersnød",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/katastrofen-i-sudan-er-allerede-af-historiske-proportioner-nu-oeger-toerke-risikoen-hungersnoed",
+          "publishedAt": "2026-10-15T19:02:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/sphbh0zo/20250917-100329-1.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Foto: © AFP, Ritzau Scanpix",
+        "alt": "Arkivfoto af tørkeramt landskab i Sudan, anvendt af DR til historien om øget hungersnødsrisiko i Darfur og Kordofan",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/katastrofen-i-sudan-er-allerede-af-historiske-proportioner-nu-oeger-toerke-risikoen-hungersnoed"
+      }
+    },
+    {
+      "id": "story-sms-filter-genoplives-20261016",
+      "eventKey": "sms-filter-genoplivning-lovforslag-20261016",
+      "materialFacts": [
+        "Digitaliseringsminister Christina Egelund oplyser, at regeringen vil fremsætte et nyt lovforslag for at genindføre sms-svindelfiltrering",
+        "Det tidligere filter blev stoppet, fordi teleloven ikke gav tilstrækkelig juridisk hjemmel"
+      ],
+      "section": "Digitalisering",
+      "headline": "Jura spændte ben for løsning: Nu vil regeringen genoplive omstridt sms-filter med ny lov",
+      "primarySourceUrl": "https://www.computerworld.dk/art/297197/jura-spaendte-ben-for-loesning-nu-vil-regeringen-genoplive-omstridt-sms-filter-med-ny-lov",
+      "subheadline": "Digitaliseringsminister Christina Egelund vil skabe klar juridisk hjemmel til at genindføre det sms-filter, der stoppede svindel-sms'er, før det blev lukket.",
+      "body": [
+        "Regeringen vil have teleselskabernes sms-filter mod svindel-sms'er tilbage. Digitaliseringsminister Christina Egelund (M) oplyser til Folketingets Erhvervs- og Digitaliseringsudvalg, at regeringen vil fremsætte et nyt lovforslag med klart juridisk grundlag for sms-filtrering.",
+        "Filteret stoppede svindel-sms'er, men Digitaliseringsstyrelsen slog fast, at teleloven ikke gav tilstrækkelig hjemmel til filtreringen. Ifølge ministeren var filteret effektivt, mens det var i brug."
+      ],
+      "whyItMatters": "Sagen viser, at digital kriminalitetsbekæmpelse kan stoppe af juridiske grunde, selv når virkningen er dokumenteret. Et nyt lovforslag betyder forsinkelse, hvor svindel-sms'er igen kan passere ufiltreret.",
+      "analysis": "At regeringen lovgiver sig til hjemmel i stedet for at opgive filteret, viser, at den politiske vilje er der - problemet var udførelsen. Retssikkerhed og svindelbekæmpelse kolliderede, og loven skal nu indhente praksis.",
+      "topics": [
+        "digitalisering",
+        "lovgivning",
+        "cybersikkerhed"
+      ],
+      "entities": [
+        "Christina Egelund",
+        "Digitaliseringsstyrelsen",
+        "Folketingets Erhvervs- og Digitaliseringsudvalg"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 50,
+        "decisionValue": 55,
+        "novelty": 60,
+        "sourceQuality": 65,
+        "personalRelevance": 45,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "Digitaliseringsminister Christina Egelund oplyser, at regeringen vil fremsætte et nyt lovforslag for at skabe klar juridisk hjemmel til sms-svindelfiltrering.",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/297197/jura-spaendte-ben-for-loesning-nu-vil-regeringen-genoplive-omstridt-sms-filter-med-ny-lov"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Det tidligere filter var effektivt og førte til markant nedgang i svindel-sms'er, men blev stoppet, fordi Digitaliseringsstyrelsen vurderede, at teleloven ikke gav tilstrækkelig klar hjemmel.",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/297197/jura-spaendte-ben-for-loesning-nu-vil-regeringen-genoplive-omstridt-sms-filter-med-ny-lov"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Jura spændte ben for løsning: Nu vil regeringen genoplive omstridt sms-filter med ny lov",
+          "publisher": "Computerworld",
+          "url": "https://www.computerworld.dk/art/297197/jura-spaendte-ben-for-loesning-nu-vil-regeringen-genoplive-omstridt-sms-filter-med-ny-lov",
+          "publishedAt": "2026-10-16T05:02:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://www.computerworld.dk/fil/243478?width=1200&height=630&focus=1",
+        "credit": "Foto: Jonas Leupe/Unsplash",
+        "alt": "Mobiltelefon med sms-besked, illustration til historien om regeringens genoplivning af sms-svindelfilteret",
+        "sourceUrl": "https://www.computerworld.dk/art/297197/jura-spaendte-ben-for-loesning-nu-vil-regeringen-genoplive-omstridt-sms-filter-med-ny-lov"
+      }
+    },
+    {
+      "id": "story-messerschmidt-lidegaard-20261016",
+      "eventKey": "messerschmidt-lidegaard-injuriesag-20261016",
+      "materialFacts": [
+        "Byretten på Frederiksberg afgør i dag, om Martin Lidegaard krænkede Morten Messerschmidts ære ved en partilederdebat i Randers i november",
+        "Sagen er usædvanligt tildelt tre dommere; afgørelsen ventes klar klokken 13"
+      ],
+      "section": "Dansk politik",
+      "headline": "Historisk retssag mellem partiledere bliver afgjort i dag",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/politik/historisk-retssag-mellem-partiledere-bliver-afgjort-i-dag",
+      "subheadline": "Byretten på Frederiksberg afgør i dag, om Radikale Venstres Martin Lidegaard krænkede Dansk Folkepartis Morten Messerschmidts ære under en debat i november.",
+      "body": [
+        "Byretten på Frederiksberg skal i dag afgøre, om Martin Lidegaard krænkede Morten Messerschmidts ære ved et debatmøde i Randers i november, da de to partiledere tørnede sammen.",
+        "Baggrunden er, at Lidegaard tolkede Messerschmidts udmeldingspolitik som et ønske om at 'internere' 100.000 personer ud fra etnicitet. Messerschmidt krævede en tilbagetrækning eller varslede retssag; Lidegaard afviste. Sagen har usædvanligt fået tildelt tre dommere, og retssagen begyndte i august."
+      ],
+      "whyItMatters": "Sager om injurier mellem sittende partiledere er sjældne i Danmark, og udfaldet sætter en praktisk grænse for, hvor hårdt politikere kan karakterisere hinandens politik offentligt, uden at det bliver en retssag.",
+      "analysis": "Jura-professor Sten Schaumburg-Müller har vurderet, at Messerschmidts sag er 'noget op ad bakke'. Afgørelsen ventes klokken 13 i dag, men var ikke klar ved denne brief, og resultatet er derfor åbent.",
+      "topics": [
+        "dansk-politik",
+        "retssystem"
+      ],
+      "entities": [
+        "Morten Messerschmidt",
+        "Martin Lidegaard",
+        "Byretten på Frederiksberg"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 35,
+        "novelty": 60,
+        "sourceQuality": 80,
+        "personalRelevance": 25,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Byretten på Frederiksberg afgør i dag, om Martin Lidegaard krænkede Morten Messerschmidts ære ved et debatmøde i Randers i november.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/politik/historisk-retssag-mellem-partiledere-bliver-afgjort-i-dag"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Sagen er tildelt tre dommere, hvilket er usædvanligt for en civil sag; retssagen begyndte i august; afgørelsen ventes klar klokken 13 i dag.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/politik/historisk-retssag-mellem-partiledere-bliver-afgjort-i-dag"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Jura-professor Sten Schaumburg-Müller vurderer, at Messerschmidts sag er 'noget op ad bakke'.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/politik/historisk-retssag-mellem-partiledere-bliver-afgjort-i-dag"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Historisk retssag mellem partiledere bliver afgjort i dag",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/politik/historisk-retssag-mellem-partiledere-bliver-afgjort-i-dag",
+          "publishedAt": "2026-10-16T04:00:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/bfwlr24c/20260116-175556-l_crop001.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Foto: © Sebastian Elias Uth, Ritzau Scanpix",
+        "alt": "Retssal-arkivfoto fra en tidligere runde i sagen mellem Morten Messerschmidt og Martin Lidegaard, hvor sagen usædvanligt er tildelt tre dommere",
+        "sourceUrl": "https://www.dr.dk/nyheder/politik/historisk-retssag-mellem-partiledere-bliver-afgjort-i-dag"
+      }
+    }
+  ],
+  "signals": [
+    {
+      "text": "Riksdagen stemmer nej til Andersson som statsminister",
+      "headline": "Riksdagen stemmer nej til Andersson som statsminister",
+      "url": "https://www.dr.dk/nyheder/seneste/riksdagen-stemmer-nej-til-andersson-som-statsminister",
+      "summary": "Sveriges Riksdag stemte nej til Magdalena Andersson som statsminister.",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-10-15T10:56:40Z"
+    },
+    {
+      "text": "Blå partier er klar til hårde forhandlinger om skat med regeringen: \"Det er et meget rødt udgangspunkt\"",
+      "headline": "Blå partier er klar til hårde forhandlinger om skat med regeringen: \"Det er et meget rødt udgangspunkt\"",
+      "url": "https://www.altinget.dk/artikel/blaa-partier-er-klar-til-haarde-forhandlinger-om-skat-med-regeringen-det-er-et-meget-roedt-udgangspunkt",
+      "summary": "Venstre, Konservative og Liberal Alliance forbereder sig på hårde forhandlinger med regeringen om de skattelettelser, der er foreslået i finanslovsudspillet.",
+      "publisher": "Altinget",
+      "section": "Politik",
+      "publishedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "text": "Tre børn og en lærer dræbt i skoleskyderi i Oregon",
+      "headline": "Tre børn og en lærer dræbt i skoleskyderi i Oregon",
+      "url": "https://www.dr.dk/nyheder/seneste/tre-boern-og-en-voksen-draebt-i-skoleskyderi-i-oregon",
+      "summary": "Tre børn og en lærer blev dræbt i et skoleskyderi i den amerikanske stat Oregon.",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-10-16T00:55:11Z"
+    },
+    {
+      "text": "Accenture strammer grebet om ansattes dyre AI-forbrug: Nu får de loft på mindre end 200 kroner",
+      "headline": "Accenture strammer grebet om ansattes dyre AI-forbrug: Nu får de loft på mindre end 200 kroner",
+      "url": "https://www.computerworld.dk/art/297200/accenture-strammer-grebet-om-ansattes-dyre-ai-forbrug-nu-faar-de-loft-paa-mindre-end-200-kroner",
+      "summary": "Konsulenthuset indfører et loft på under 200 kroner om måneden pr. medarbejder for brug af generativ AI, efter at nogle ansatte har brugt flere tusinde kroner om måneden.",
+      "publisher": "Computerworld",
+      "section": "Erhverv",
+      "publishedAt": "2026-10-16T06:31:00Z"
+    },
+    {
+      "text": "Danmarks banelandshold er verdensmestre",
+      "headline": "Danmarks banelandshold er verdensmestre",
+      "url": "https://www.dr.dk/sporten/cykling/danmarks-banelandshold-er-verdensmestre",
+      "summary": "Danmark vandt for fjerde år i træk VM-guld i 4000 meter holdforfølgelsesløb efter finalesejr over Italien ved VM i Shanghai - landets sjette VM-titel i disciplinen.",
+      "publisher": "DR Sporten",
+      "section": "Cykling",
+      "publishedAt": "2026-10-15T10:17:43Z"
+    },
+    {
+      "text": "Stor cloud-enhed hos Microsoft får besked på at skære 20 procent",
+      "headline": "Stor cloud-enhed hos Microsoft får besked på at skære 20 procent",
+      "url": "https://www.computerworld.dk/art/297184/stor-cloud-enhed-hos-microsoft-faar-besked-paa-at-skaere-20-procent",
+      "summary": "Ifølge The Information har en Azure-enhed med omkring 11.500 ansatte fået besked på at reducere omkostninger med 20 procent, trods tocifret vækst i cloudforretningen.",
+      "publisher": "Computerworld",
+      "section": "Tech",
+      "publishedAt": "2026-10-15T06:32:00Z"
+    },
+    {
+      "text": "Fire varetægtsfængsles i Norge for Nato-fusk",
+      "headline": "Fire varetægtsfængsles i Norge for Nato-fusk",
+      "url": "https://www.dr.dk/nyheder/seneste/fire-varetaegtsfaengsles-i-norge-nato-fusk",
+      "summary": "Fire personer er varetægtsfængslet i Norge, anklaget for svindel i forbindelse med Nato.",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-10-15T17:58:42Z"
+    },
+    {
+      "text": "Kronprinsen fylder 21 og bliver storkommandør af Dannebrog",
+      "headline": "Kronprinsen fylder 21 og bliver storkommandør af Dannebrog",
+      "url": "https://www.altinget.dk/navnenyt/kronprinsen-fylder-21-og-bliver-storkommandoer-af-dannebrog",
+      "summary": "Kronprins Christian fylder 21 år og bliver i den anledning storkommandør af Dannebrogordenen.",
+      "publisher": "Altinget",
+      "section": "Navnenyt",
+      "publishedAt": "2026-10-15T08:40:00Z"
+    },
+    {
+      "text": "Infantino i den varme stol: Sagde undskyld, men får alligevel massiv kritik",
+      "headline": "Infantino i den varme stol: Sagde undskyld, men får alligevel massiv kritik",
+      "url": "https://www.dr.dk/sporten/fodbold/infantino-i-den-varme-stol-sagde-undskyld-men-faar-alligevel-massiv-kritik",
+      "summary": "FIFA-præsident Gianni Infantino undskyldte offentligt, men mødte alligevel massiv kritik.",
+      "publisher": "DR Sporten",
+      "section": "Fodbold",
+      "publishedAt": "2026-10-15T15:36:56Z"
+    },
+    {
+      "text": "Tesla viser ny ekstrem Roadster – kan springe over biler",
+      "headline": "Tesla viser ny ekstrem Roadster – kan springe over biler",
+      "url": "https://ing.dk/artikel/tesla-viser-ny-ekstrem-roadster-kan-springe-over-biler",
+      "summary": "Tesla fremviste en ny version af sin Roadster med demonstrerede spring-lignende egenskaber.",
+      "publisher": "Ingeniøren",
+      "section": "Tech",
+      "publishedAt": "2026-10-16T07:43:17Z"
+    },
+    {
+      "text": "Grønlandsk minister sygemeldt i tre uger",
+      "headline": "Grønlandsk minister sygemeldt i tre uger",
+      "url": "https://www.altinget.dk/navnenyt/groenlandsk-minister-sygemeldt-i-tre-uger",
+      "summary": "Den grønlandske minister Maritha Broberg er sygemeldt i tre uger.",
+      "publisher": "Altinget",
+      "section": "Navnenyt",
+      "publishedAt": "2026-10-15T07:10:00Z"
+    },
+    {
+      "text": "Harry og Meghan ses for første gang sammen offentligt efter hjemkomst",
+      "headline": "Harry og Meghan ses for første gang sammen offentligt efter hjemkomst",
+      "url": "https://www.dr.dk/nyheder/udland/harry-og-meghan-ses-foerste-gang-sammen-offentligt-efter-hjemkomst",
+      "summary": "Prins Harry og Meghan Markle blev set sammen offentligt for første gang efter deres hjemkomst til Storbritannien.",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-10-15T12:34:02Z"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-nobel-economics-2026",
+      "mode": "read",
+      "kind": "article",
+      "status": "new",
+      "title": "Robert Hall and Michael Woodford share Nobel Prize in Economics",
+      "creator": "MIT News",
+      "provider": "MIT News Office",
+      "url": "https://news.mit.edu/2026/robert-hall-michael-woodford-share-nobel-prize-economics-1012",
+      "availability": "Frit tilgængelig",
+      "commitment": "5 minutter",
+      "description": "To MIT-alumner, Robert Hall og Michael Woodford, deler Nobelprisen i økonomi 2026 for makroøkonomiske modeller, der har forbedret stabiliseringspolitik - Halls arbejde om forbrugsforventninger og Woodfords mikrofunderede model for pengepolitik.",
+      "rationale": "Grundlaget for, hvordan centralbanker bør reagere på forventninger - en relevant optik på Nationalbankens og ECB's beslutninger, som du læser for konsekvens frem for prognose.",
+      "topics": [
+        "makroøkonomi",
+        "pengepolitik",
+        "nobelpris"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://news.mit.edu/sites/default/files/images/202610/MIT_Nobel-Economics-01.jpg",
+        "credit": "Foto: MIT News Office",
+        "alt": "Robert Hall og Michael Woodford, der deler Nobelprisen i økonomi 2026",
+        "sourceUrl": "https://news.mit.edu/2026/robert-hall-michael-woodford-share-nobel-prize-economics-1012"
+      }
+    },
+    {
+      "id": "rec-piie-china-decoupling",
+      "mode": "read",
+      "kind": "policy-brief",
+      "status": "available",
+      "title": "Made with China: Global supply chains and the limits of US decoupling",
+      "creator": "Mary E. Lovely, Christine Y. Wan",
+      "provider": "Peterson Institute for International Economics",
+      "url": "https://www.piie.com/publications/policy-briefs/2026/made-china-global-supply-chains-and-limits-us-decoupling",
+      "availability": "Frit tilgængelig",
+      "commitment": "20 minutter",
+      "description": "PIIE-brief fra august 2026 om, at amerikanske tariffer flyttede Kinas andel af forsyningskæder via Taiwan, Vietnam og Mexico, snarere end at reducere den reelt - Kinas værditilvækst i amerikansk import faldt kun 2 procentpoint mod 7 i direkte import.",
+      "rationale": "Et kvantitativt modtræk til forenklet 'decoupling er lykkedes'-retorik, direkte relevant for de-risking- og China+1-strategier, som du selv har arbejdet med i praksis.",
+      "topics": [
+        "kina",
+        "handel",
+        "de-risking"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-piie-megabank-capital",
+      "mode": "read",
+      "kind": "policy-brief",
+      "status": "available",
+      "title": "EU capital requirements on megabanks: The low road or the high road",
+      "creator": "Juan Mejino-López, Nicolas Véron",
+      "provider": "Peterson Institute for International Economics",
+      "url": "https://www.piie.com/publications/policy-briefs/2026/eu-capital-requirements-megabanks-low-road-or-high-road",
+      "availability": "Frit tilgængelig",
+      "commitment": "20 minutter",
+      "description": "Policy brief fra august 2026 om EU's valg mellem skærpede og lempede kapitalkrav til de største banker, og konsekvensen for europæisk finansiel stabilitet og konkurrencekraft over for amerikanske og asiatiske banker.",
+      "rationale": "Et kvantitativt indblik i en sag, der normalt kun refereres politisk - central for den konkurrencekraft-dagsorden, du arbejdede med i Bruxelles.",
+      "topics": [
+        "eu-regulering",
+        "finans",
+        "konkurrencekraft"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-rtbc-teenagers-plastics",
+      "mode": "read",
+      "kind": "article",
+      "status": "new",
+      "title": "Teenagers Worldwide Are Tackling the Plastics Crisis",
+      "creator": "Michaela Haas",
+      "provider": "Reasons to be Cheerful",
+      "url": "https://reasonstobecheerful.world/teenagers-worldwide-are-tackling-the-plastics-crisis/",
+      "availability": "Frit tilgængelig",
+      "commitment": "10 minutter",
+      "description": "Reportage fra 14. oktober 2026 om teenagere i flere lande, der udvikler konkrete løsninger på plastikforurening - fra lokale genbrugsordninger til nye materialer - uden at vente på internationale aftaler.",
+      "rationale": "Konstruktiv journalistik, der viser målbar fremgang nedefra på et område, hvor internationale forhandlinger ofte går i stå - det serendipitøse valg i dag.",
+      "topics": [
+        "konstruktiv-journalistik",
+        "miljoe"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {}
+}
