@@ -1,0 +1,733 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-20261018-full",
+  "date": "2026-10-18",
+  "generatedAt": "2026-10-18T04:30:17Z",
+  "readingMinutes": 11,
+  "title": "Thomas' Nyheder",
+  "dek": "Trump sætter Rusland-sanktioner på pause, EU får en regning for sin egen cloud-uafhængighed, og to sjællandske godsejerfamilier bygger solenergi i industriel skala.",
+  "profileWeights": {
+    "importance": 20,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 20,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-trump-russia-sanctions-pause-20261018",
+      "eventKey": "trump-russia-sanctions-pause-20261018",
+      "materialFacts": [
+        "Trump har sat told- og sanktionspakken mod Rusland og Iran under Graham-loven på pause i 60 dage",
+        "Pausen hænger sammen med en dieselaftale, hvor Rusland leverer diesel til det amerikanske marked",
+        "Republikanske senatorer Tillis og Cruz kritiserer beslutningen; Zelenskyj siger den belønner Putin"
+      ],
+      "section": "Geopolitik",
+      "headline": "Rubio: Trumps pause i sanktioner mod Rusland gælder i 60 dage",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/trumps-pause-i-sanktioner-mod-rusland-gaelder-i-60-dage",
+      "subheadline": "Præsidenten sætter told og sanktioner mod Rusland på pause efter en dieselaftale med Putin - til protester fra egne republikanere og fra Zelenskyj",
+      "body": [
+        "Rubio bekræfter, at Trump sætter sanktions- og toldpakken mod Rusland og Iran - Graham-loven fra 2026 - på pause i 60 dage for at analysere konsekvenserne for økonomien, mens Mellemøsten-konflikter presser dieselpriserne op.",
+        "Pausen følger en aftale om russisk diesel til USA. Republikanerne Tillis ('helt uansvarligt') og Cruz ('en fejl') vender sig mod egen præsident, og Zelenskyj siger, beslutningen 'belønner' Putin."
+      ],
+      "whyItMatters": "Det er anden gang i få uger, Trump pauser Ruslands-sanktioner af indenrigspolitiske hensyn. For EU, der har bundet sin Rusland-linje til amerikansk opbakning, rejser det spørgsmålet om transatlantisk sammenhæng.",
+      "analysis": "En lov vedtaget som en hård linje mod Moskva har en ventil, præsidenten kan åbne efter behov - og har gjort det to gange nu. Det svækker loven som signal og tester republikansk kritik.",
+      "counterpoint": "Rubio understreger, at pausen er en analyseperiode, ikke en ophævelse.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/qwyb3a3c/20261018-010948-3.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "DR's billede til historien om Trumps pause af Rusland-sanktionerne",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/trumps-pause-i-sanktioner-mod-rusland-gaelder-i-60-dage"
+      },
+      "topics": [
+        "geopolitik",
+        "handelspolitik",
+        "energi",
+        "usa",
+        "rusland"
+      ],
+      "entities": [
+        "Donald Trump",
+        "Marco Rubio",
+        "Vladimir Putin",
+        "Volodymyr Zelenskyj",
+        "Thom Tillis",
+        "Ted Cruz"
+      ],
+      "isLead": true,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 88,
+        "decisionValue": 55,
+        "novelty": 70,
+        "sourceQuality": 85,
+        "personalRelevance": 60,
+        "contrast": 90
+      },
+      "claims": [
+        {
+          "text": "Trump har sat sanktions- og toldpakken mod Rusland og Iran under Graham-loven på pause i 60 dage",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/trumps-pause-i-sanktioner-mod-rusland-gaelder-i-60-dage"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Zelenskyj siger beslutningen 'belønner' Putin",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/trumps-pause-i-sanktioner-mod-rusland-gaelder-i-60-dage"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Rubio: Trumps pause i sanktioner mod Rusland gælder i 60 dage",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/trumps-pause-i-sanktioner-mod-rusland-gaelder-i-60-dage",
+          "publishedAt": "2026-10-18T02:12:27Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-eu-cloud-sovereignty-cost-20261015",
+      "eventKey": "eu-cloud-sovereignty-cost-report-20261015",
+      "materialFacts": [
+        "ECIPE-studie betalt af CCIA Europe anslår, at EU's Cloud and AI Development Act kan koste 115 mia. euro over ti år",
+        "Kommissionens eget skøn er 18 mia. euro",
+        "CADA's artikel 31 kan udvide suverænitetskrav fra offentlige udbud til bank, energi, sundhed og transport"
+      ],
+      "section": "EU og konkurrencekraft",
+      "headline": "EU can't afford sovereign cloud, research claims",
+      "primarySourceUrl": "https://www.itpro.com/business/policy-and-legislation/eu-cant-afford-sovereign-cloud-research-claims",
+      "subheadline": "Et CCIA-betalt studie sætter prisen på EU's cloud-suverænitet seks gange højere end Kommissionens eget skøn",
+      "body": [
+        "Et ECIPE-studie, betalt af lobbyorganisationen CCIA Europe (Amazon, Google, Meta), anslår, at EU's foreslåede Cloud and AI Development Act kan koste 115 mia. euro over ti år - over seks gange Kommissionens skøn på 18 mia.",
+        "Studiet peger på, at Kommissionen har overset ca. 70 pct. af de reelle omkostninger, primært fra et scenarie, hvor suverænitetskrav udvides til 25 pct. af cloud-brugen i private sektorer og tvinger virksomheder til at omskrive software."
+      ],
+      "whyItMatters": "CADA's artikel 31 kan udvide suverænitetskrav fra offentlige udbud til bank, energi, sundhed og transport - sektorer, hvor danske virksomheder har infrastruktur hos amerikanske cloud-udbydere.",
+      "analysis": "Tallet er bestilt af parten, der skal betale regningen, og er lobbykampens øvre skøn. Men selv et skøn midt mellem 115 og 18 mia. hører til i DI's forhandlingsposition, før artikel 31 vedtages.",
+      "image": {
+        "url": "https://cdn.mos.cms.futurecdn.net/rUBFXxEwSTtMRyBskFqTMf-1920-80.jpg",
+        "credit": "Kilde: ITPro",
+        "alt": "ITPros billede til historien om EU's cloud-suverænitetsregning",
+        "sourceUrl": "https://www.itpro.com/business/policy-and-legislation/eu-cant-afford-sovereign-cloud-research-claims"
+      },
+      "topics": [
+        "eu-regulering",
+        "digital-sovereignitet",
+        "konkurrencekraft",
+        "erhverv"
+      ],
+      "entities": [
+        "CCIA Europe",
+        "ECIPE",
+        "Amazon",
+        "Google",
+        "Meta",
+        "Europa-Kommissionen",
+        "Mitchell Rutledge"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 78,
+        "decisionValue": 75,
+        "novelty": 72,
+        "sourceQuality": 72,
+        "personalRelevance": 85,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "ECIPE/CCIA-studiet anslår CADA's kostnad til 115 mia. euro over ti år mod Kommissionens 18 mia.",
+          "sourceUrls": [
+            "https://www.itpro.com/business/policy-and-legislation/eu-cant-afford-sovereign-cloud-research-claims"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "EU can't afford sovereign cloud, research claims",
+          "publisher": "ITPro",
+          "url": "https://www.itpro.com/business/policy-and-legislation/eu-cant-afford-sovereign-cloud-research-claims",
+          "publishedAt": "2026-10-15T00:00:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-eu-satellite-bromo-20261016",
+      "eventKey": "eu-satellite-project-bromo-20261016",
+      "materialFacts": [
+        "USA har begrænset Ukraines adgang til Starlinks militære Starshield-tjeneste",
+        "EU-Kommissionen accelererer forhandlinger med Leonardo, Airbus og Thales om fælles satellitinternet ('Project Bromo')",
+        "Rusland udbygger alternativet 'Rassvet' hurtigere end ventet: 16 satellitter i marts 2026, 292 ventet i 2027, 924 i 2035"
+      ],
+      "section": "EU og sikkerhed",
+      "headline": "Efter Trumps lukning for Ukraines adgang til Starlink: Nu trykker EU på speederen for at skabe et europæisk satellitbaseret internet",
+      "primarySourceUrl": "https://www.computerworld.dk/art/297201/efter-trumps-lukning-for-ukraines-adgang-til-starlink-nu-trykker-eu-paa-speederen-for-at-skabe-et-europaeisk-satellitbaseret-internet",
+      "subheadline": "USA's begrænsning af Ukraines Starshield-adgang får EU til at haste et europæisk alternativ igennem med Leonardo, Airbus og Thales",
+      "body": [
+        "USA har strammet Ukraines adgang til Starlinks Starshield-tjeneste. Det får Kommissionen til at accelerere forhandlinger med Leonardo, Airbus og Thales om et satellitinternet, 'Project Bromo'. En ansøgning ventes inden for få uger, og von der Leyen kalder det en sikkerhedsprioritet.",
+        "Målet er mindre afhængighed af amerikansk-kontrolleret satellitinfrastruktur. Rusland bygger samtidig 'Rassvet' hurtigere end ventet: 16 satellitter i marts 2026, 292 ventet i 2027, mod i dag kun sporadisk dækning over Ukraine."
+      ],
+      "whyItMatters": "Episoden viser, hvor hurtigt en amerikansk beslutning kan ændre et europæisk sikkerhedskalkyle - og hvorfor EU nu handler om at eje infrastrukturen, ikke kun regulere den.",
+      "analysis": "At EU først nu accelererer et projekt fra tegnebrættet går igen i cloud-debatten samme uge: uafhængighed bliver en prioritet, når en amerikansk beslutning gør afhængigheden synlig.",
+      "image": {
+        "url": "https://www.computerworld.dk/fil/209149?width=1200&height=630&focus=1",
+        "credit": "Kilde: Computerworld",
+        "alt": "Computerworlds billede til historien om EU's satellitinternet-plan",
+        "sourceUrl": "https://www.computerworld.dk/art/297201/efter-trumps-lukning-for-ukraines-adgang-til-starlink-nu-trykker-eu-paa-speederen-for-at-skabe-et-europaeisk-satellitbaseret-internet"
+      },
+      "topics": [
+        "eu-regulering",
+        "forsvar",
+        "rumfart",
+        "ukraine"
+      ],
+      "entities": [
+        "Ursula von der Leyen",
+        "Leonardo",
+        "Airbus",
+        "Thales",
+        "Donald Trump",
+        "Volodymyr Zelenskyj"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 75,
+        "decisionValue": 55,
+        "novelty": 68,
+        "sourceQuality": 68,
+        "personalRelevance": 55,
+        "contrast": 65
+      },
+      "claims": [
+        {
+          "text": "EU accelererer forhandlinger med Leonardo, Airbus og Thales om et fælles satellitinternet, 'Project Bromo', efter USA begrænsede Ukraines Starshield-adgang",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/297201/efter-trumps-lukning-for-ukraines-adgang-til-starlink-nu-trykker-eu-paa-speederen-for-at-skabe-et-europaeisk-satellitbaseret-internet"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Efter Trumps lukning for Ukraines adgang til Starlink: Nu trykker EU på speederen for at skabe et europæisk satellitbaseret internet",
+          "publisher": "Computerworld",
+          "url": "https://www.computerworld.dk/art/297201/efter-trumps-lukning-for-ukraines-adgang-til-starlink-nu-trykker-eu-paa-speederen-for-at-skabe-et-europaeisk-satellitbaseret-internet",
+          "publishedAt": "2026-10-16T10:21:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-zealand-solar-estates-20261017",
+      "eventKey": "zealand-estates-solar-parks-20261017",
+      "materialFacts": [
+        "To sjællandske godsejerfamilier udvikler solcelleparker på i alt 3,3 mio. kvm ved Bårse",
+        "Arealerne er del af et af ti nye statslige industriparkområder udpeget i oktober 2025",
+        "Wolff-Sneedorffs park (St. Røttinge, 150 MW) ventes at forsyne ca. 27.000 husstande fra 2027-2028"
+      ],
+      "section": "Energi og industri",
+      "headline": "To sjællandske godsejer-familier står bag en kæmpe satsning",
+      "primarySourceUrl": "https://ugebrev.dk/flashnews/to-sjaellandske-godsejer-familier-staar-bag-en-kaempe-satsning/",
+      "subheadline": "Schau Danneskiold Lassen og Wolff-Sneedorff bygger solenergi i industriel skala på gods-jord ved Bårse, efter arealerne blev statsligt udpeget til industripark",
+      "body": [
+        "Familierne Schau Danneskiold Lassen (Holmegaard Gods) og Wolff-Sneedorff (Engelholm Gods) bygger to solcelleparker på i alt 3,3 mio. kvm syd for Bårse. Jorden er del af et af ti statslige industriparkområder fra oktober 2025, og Holmegaards 640.000 kvm park venter byggestart i 2026.",
+        "Wolff-Sneedorffs anlæg, St. Røttinge på 2,7 mio. kvm, er størst: 150 MW, til 2027-2028, nok til ca. 27.000 husstande. Begge familier har ejet jorden i generationer og vender den nu mod energi i stedet for landbrug."
+      ],
+      "whyItMatters": "Det viser, hvordan statslig arealudpegning omsættes til faktisk anlægsinvestering - det, der afgør, om den grønne omstilling bliver andet end målsætninger på papir.",
+      "analysis": "At gamle godsfamilier og ikke energiselskaber går forrest, siger noget om, hvor kapitaltung konverteringen er: det kræver ejere, der tænker i årtier.",
+      "topics": [
+        "energi",
+        "groen-omstilling",
+        "erhverv",
+        "danmark"
+      ],
+      "entities": [
+        "Schau Danneskiold Lassen",
+        "Wolff-Sneedorff",
+        "European Energy",
+        "Holmegaard Gods",
+        "Engelholm Gods"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 62,
+        "novelty": 60,
+        "sourceQuality": 65,
+        "personalRelevance": 75,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "To godsejerfamilier udvikler solcelleparker på i alt 3,3 mio. kvm ved Bårse på jord udpeget til statslig industripark i oktober 2025",
+          "sourceUrls": [
+            "https://ugebrev.dk/flashnews/to-sjaellandske-godsejer-familier-staar-bag-en-kaempe-satsning/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "To sjællandske godsejer-familier står bag en kæmpe satsning",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/flashnews/to-sjaellandske-godsejer-familier-staar-bag-en-kaempe-satsning/",
+          "publishedAt": "2026-10-17T13:02:53Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-ai-regulation-urgency-20261017",
+      "eventKey": "ai-global-regulation-urgency-20261017",
+      "materialFacts": [
+        "Danske og EU-aktører efterlyser global AI-regulering, da udviklingen går hurtigere end lovgivningen",
+        "Christel Schaldemose foreslår en global AI-vagthund i stil med atomvåbenkontrol",
+        "Margrethe Vestager siger teknologi med potentiel fare for menneskeheden kræver andre regler end i dag"
+      ],
+      "section": "AI og regulering",
+      "headline": "AI er ved at stikke af, og der bliver skreget på regulering: 'Vi har voldsomt travlt'",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/ai-er-ved-stikke-af-og-der-bliver-skreget-paa-regulering-vi-har-voldsomt-travlt",
+      "subheadline": "Danske og europæiske stemmer efterlyser global AI-styring, mens udviklingen i USA og Kina går hurtigere end nogen lovgivning",
+      "body": [
+        "Danske og europæiske aktører efterlyser global AI-regulering, fordi udviklingen går hurtigere end lovgivningen. 'Vi er bagud, og vores regulering har ikke fulgt med,' siger Michael Munck, grundlægger af 2021.ai.",
+        "Christel Schaldemose foreslår en global AI-vagthund i stil med atomvåbenkontrol, forankret i FN. Margrethe Vestager siger, fare for menneskeheden kræver andre regler end i dag - men mest AI-udvikling sker i USA og Kina."
+      ],
+      "whyItMatters": "Uden en global ramme bliver EU's egne AI Act-regler den praktiske standard for danske virksomheder - uanset om resten af verden følger med.",
+      "analysis": "Kritikken rammer samme uge, hvor CCIA sætter en pris på EU's cloud-suverænitet: EU vil styre AI's sikkerhed og infrastruktur samtidig, uden at regningerne er lagt sammen politisk.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/zdhf3vvo/20261005-134549-l.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "DR's arkivbillede anvendt til historien om kravet om global AI-regulering",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/ai-er-ved-stikke-af-og-der-bliver-skreget-paa-regulering-vi-har-voldsomt-travlt"
+      },
+      "topics": [
+        "ai",
+        "eu-regulering",
+        "global-styring"
+      ],
+      "entities": [
+        "Michael Munck",
+        "Christel Schaldemose",
+        "Margrethe Vestager",
+        "2021.ai"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 70,
+        "decisionValue": 58,
+        "novelty": 55,
+        "sourceQuality": 80,
+        "personalRelevance": 70,
+        "contrast": 50
+      },
+      "claims": [
+        {
+          "text": "Christel Schaldemose foreslår en global AI-vagthund i stil med atomvåbenkontrol",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/ai-er-ved-stikke-af-og-der-bliver-skreget-paa-regulering-vi-har-voldsomt-travlt"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Michael Munck siger dansk/europæisk AI-regulering ikke har fulgt med udviklingen",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/ai-er-ved-stikke-af-og-der-bliver-skreget-paa-regulering-vi-har-voldsomt-travlt"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "AI er ved at stikke af, og der bliver skreget på regulering: 'Vi har voldsomt travlt'",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/ai-er-ved-stikke-af-og-der-bliver-skreget-paa-regulering-vi-har-voldsomt-travlt",
+          "publishedAt": "2026-10-17T18:00:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-dk-tech-downturn-signals-20261017",
+      "eventKey": "dk-tech-downturn-signals-20261017",
+      "materialFacts": [
+        "Nasdaq 100 faldt 2,5 pct. fredag og brød det 100-dages glidende gennemsnit",
+        "CDS-spænd på obligationer, der finansierer datacentre, er steget markant",
+        "Defensive danske aktier som Coloplast, Netcompany og Carlsberg gik mod strømmen; ØU's Forsigtige Portefølje nåede årshøjt med 17 pct. afkast"
+      ],
+      "section": "Markeder",
+      "headline": "Chefredaktørens ugekommentar: 3 signaler peger mod stor tech-nedtur, med også på store vindere i to-delt marked",
+      "primarySourceUrl": "https://ugebrev.dk/formue/chefredaktoeren-ugekommentar-3-signaler-peger-mod-stor-tech-nedtur-med-ogsaa-vindere-i-to-delt-marked/",
+      "subheadline": "Ugebrevs chefredaktør Morten W. Langer ser tre tekniske varsler om en tech-nedtur - og et marked, hvor defensive danske aktier allerede henter afkastet",
+      "body": [
+        "ØU-chefredaktør Morten W. Langer peger på tre signaler for en tech-nedtur: Nasdaq 100 faldt 2,5 pct. fredag og brød sit 100-dages gennemsnit omkring 29.000; CDS-spænd på datacenter-obligationer er 'skudt i vejret'; og amerikanske renter falder trods stigende inflation.",
+        "Markedet er to-delt: defensive danske aktier som Coloplast, Netcompany, Carlsberg og DSV gik mod strømmen fredag, og ØU's Forsigtige Portefølje nåede årshøjt med 17 pct. afkast - Langer tolker faldet som en rotation ud af tech, ikke et bredt sammenbrud."
+      ],
+      "whyItMatters": "En selektiv tech-nedtur er en anden risikoprofil end et bredt fald - for pensionsformuer og for, hvilke danske selskaber der er eksponeret mod en datacenter-finansieringskrise.",
+      "analysis": "At Langers danske vindere - Coloplast, Ambu, Demant - er uden tech-eksponering, bekræfter, at børsens defensive styrke kan blive en fordel ved en amerikansk tech-korrektion.",
+      "topics": [
+        "makroøkonomi",
+        "aktiemarked",
+        "erhverv"
+      ],
+      "entities": [
+        "Morten W. Langer",
+        "Nasdaq",
+        "Coloplast",
+        "Netcompany",
+        "Carlsberg",
+        "DSV",
+        "Demant"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 62,
+        "decisionValue": 68,
+        "novelty": 50,
+        "sourceQuality": 68,
+        "personalRelevance": 70,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Nasdaq 100 faldt 2,5 pct. fredag og brød sit 100-dages glidende gennemsnit",
+          "sourceUrls": [
+            "https://ugebrev.dk/formue/chefredaktoeren-ugekommentar-3-signaler-peger-mod-stor-tech-nedtur-med-ogsaa-vindere-i-to-delt-marked/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "ØU's Forsigtige Portefølje nåede årets højeste niveau med 17 pct. afkast fredag",
+          "sourceUrls": [
+            "https://ugebrev.dk/formue/chefredaktoeren-ugekommentar-3-signaler-peger-mod-stor-tech-nedtur-med-ogsaa-vindere-i-to-delt-marked/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Chefredaktørens ugekommentar: 3 signaler peger mod stor tech-nedtur, med også på store vindere i to-delt marked",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/formue/chefredaktoeren-ugekommentar-3-signaler-peger-mod-stor-tech-nedtur-med-ogsaa-vindere-i-to-delt-marked/",
+          "publishedAt": "2026-10-17T11:46:00Z",
+          "kind": "analysis"
+        }
+      ]
+    },
+    {
+      "id": "story-unesco-cliffs-tourism-20261016",
+      "eventKey": "unesco-mors-fur-cliffs-tourism-20261016",
+      "materialFacts": [
+        "Hanklit (Nordmors) og Knudeklint (Fur) blev Unesco-verdensarv 25. juli 2026",
+        "Fossil- og Molermuseet har haft 37 pct. flere besøgende; turister kommer nu fra Japan, Kina, Australien og New Zealand",
+        "Skive og Morsø kommuner investerer i parkering og infrastruktur som følge af stigningen"
+      ],
+      "section": "Danmark",
+      "headline": "Unesco gør klinterne berømte: Nu kommer turister fra den anden side af kloden",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/unesco-goer-klinterne-beroemte-nu-kommer-turister-fra-den-anden-side-af-kloden",
+      "subheadline": "Et år efter Unesco-udpegningen af Hanklit og Knudeklint strømmer turister til fra Japan, Kina, Australien og New Zealand",
+      "body": [
+        "Siden Hanklit (Nordmors) og Knudeklint (Fur) blev Unesco-verdensarv 25. juli 2026, har klinterne fået et tilløb, der overrasker de lokale museer. Fossil- og Molermuseet melder om 37 pct. flere besøgende, Fur Museum ca. 10 pct., og Fur Bryghus' restaurant 20 pct. vækst.",
+        "'Vi har altid haft nordiske, tyske og hollandske turister. Nu har vi også folk fra Japan, Kina, Australien og New Zealand,' siger Danni Boysen fra Fur Bryghus. Skive Kommune afsætter midler til 200 parkeringspladser, Morsø ca. 5 mio. kr. til infrastruktur."
+      ],
+      "whyItMatters": "Det er et konkret eksempel på, at en international anerkendelse kan give faktisk turismeomsætning i et udkantsområde - ikke bare prestige på papiret.",
+      "analysis": "At gennembruddet kommer fra den anden side af kloden snarere end flere tyskere, tyder på, at Unesco-mærket er sin egen destinationskategori for markeder, hvor Danmark normalt ikke er på rejsekortet.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/yymdoe2j/20260902-191624-l_crop001.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "DR's billede af moler-klinterne på Mors/Fur",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/unesco-goer-klinterne-beroemte-nu-kommer-turister-fra-den-anden-side-af-kloden"
+      },
+      "topics": [
+        "danmark",
+        "turisme",
+        "konstruktiv"
+      ],
+      "entities": [
+        "Hanklit",
+        "Knudeklint",
+        "Mors",
+        "Fur",
+        "Danni Boysen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 40,
+        "decisionValue": 20,
+        "novelty": 55,
+        "sourceQuality": 78,
+        "personalRelevance": 25,
+        "contrast": 85
+      },
+      "claims": [
+        {
+          "text": "Fossil- og Molermuseet har haft 37 pct. flere besøgende siden Unesco-udpegningen",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/unesco-goer-klinterne-beroemte-nu-kommer-turister-fra-den-anden-side-af-kloden"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Unesco gør klinterne berømte: Nu kommer turister fra den anden side af kloden",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/unesco-goer-klinterne-beroemte-nu-kommer-turister-fra-den-anden-side-af-kloden",
+          "publishedAt": "2026-10-16T16:33:00Z",
+          "kind": "primary"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "Dansk TeamGym-landshold vinder EM for ottende gang i træk",
+      "headline": "Dansk TeamGym-landshold vinder EM for ottende gang i træk",
+      "url": "https://www.dr.dk/sporten/seneste-sport/dansk-teamgym-landshold-vinder-em-ottende-gang-i-traek",
+      "publisher": "DR Sporten",
+      "section": "Sport",
+      "publishedAt": "2026-10-17T15:54:05Z",
+      "summary": "De danske TeamGym-herrer tog EM-guld i Espoo for ottende gang i træk; kvinderne tog silver, mix-holdet bronze."
+    },
+    {
+      "text": "19-årig dansker giver Formel 1-verdensmester baghjul",
+      "headline": "19-årig dansker giver Formel 1-verdensmester baghjul",
+      "url": "https://www.dr.dk/nyheder/indland/19-aarig-dansker-giver-formel-1-verdensmester-baghjul",
+      "publisher": "DR",
+      "section": "Sport",
+      "publishedAt": "2026-10-17T06:01:33Z",
+      "summary": "Simon Birch fra Ikast satte hurtigste GT World Challenge-kvalifikationstid i Portimão, fire tiendedele hurtigere end Max Verstappen."
+    },
+    {
+      "text": "Rumænien nedskyder to droner i deres luftrum",
+      "headline": "Rumænien nedskyder to droner i deres luftrum",
+      "url": "https://www.dr.dk/nyheder/seneste/rumaenien-nedskyder-droner-i-deres-luftrum",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-10-17T19:22:00Z",
+      "summary": "Rumænske F-16-piloter skød dronerne ned over Sortehavet; forsvarsminister Radu Miruta oplyser, de ulovligt fløj ind i rumænsk luftrum."
+    },
+    {
+      "text": "Paven udskrives efter behandling af kræftknude i lungen",
+      "headline": "Paven udskrives efter behandling af kræftknude i lungen",
+      "url": "https://www.dr.dk/nyheder/seneste/paven-udskrives-efter-behandling-af-kraeftknude-i-lungen",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-10-17T10:44:45Z",
+      "summary": "Pave Leo er udskrevet fra Gemelli-hospitalet i Rom efter at have fået fjernet en kræftknude fra højre lunges nederste del."
+    },
+    {
+      "text": "Pentagon lurer på at afsløre løgnere med AI: Men teknologien har svært ved at se Pinocchios næse vokse",
+      "headline": "Pentagon lurer på at afsløre løgnere med AI: Men teknologien har svært ved at se Pinocchios næse vokse",
+      "url": "https://ing.dk/artikel/pentagon-lurer-paa-afsloere-loegnere-med-ai-men-teknologien-har-svaert-ved-se-pinocchios-naese-vokse",
+      "publisher": "Ingeniøren",
+      "section": "AI",
+      "publishedAt": "2026-10-17T09:00:00Z",
+      "summary": "Pentagon vil koble AI med polygraf-målinger af puls og hudporer, efter en lækage-undersøgelse i september testede ca. 50 ansatte."
+    },
+    {
+      "text": "De vejer 70 kg og går rundt mellem folk: Midt i København kan du møde to menneskelignende robotter",
+      "headline": "De vejer 70 kg og går rundt mellem folk: Midt i København kan du møde to menneskelignende robotter",
+      "url": "https://ing.dk/artikel/de-vejer-70-kg-og-gaar-rundt-mellem-folk-midt-i-koebenhavn-kan-du-moede-menneskelignende-robotter",
+      "publisher": "Ingeniøren",
+      "section": "Teknologi",
+      "publishedAt": "2026-10-16T13:00:00Z",
+      "summary": "Planetarium i København har investeret i to menneskelignende robotter, der går rundt mellem gæsterne og skal vise, hvordan robotter en dag kan hjælpe astronauter."
+    },
+    {
+      "text": "Disse europæiske lande buldrer afsted på datacenter-området: Her er den største vækst i udbygningen",
+      "headline": "Disse europæiske lande buldrer afsted på datacenter-området: Her er den største vækst i udbygningen",
+      "url": "https://www.computerworld.dk/art/297202/disse-europaeiske-lande-buldrer-afsted-paa-datacenter-omraadet-her-er-den-stoerste-vaekst-i-udbygningen",
+      "publisher": "Computerworld",
+      "section": "Erhverv",
+      "publishedAt": "2026-10-16T08:40:00Z",
+      "summary": "Kearney-analyse placerer Danmark som nr. 10 i Europa på datacenter-vækst, 30,4 pct. årligt mod 2030, drevet af lave priser på jord og strøm."
+    },
+    {
+      "text": "ATP vil samle it-driften: Gør klar til at underskrive kæmpe-kontrakt på 550 millioner kroner",
+      "headline": "ATP vil samle it-driften: Gør klar til at underskrive kæmpe-kontrakt på 550 millioner kroner",
+      "url": "https://www.computerworld.dk/art/297190/atp-vil-samle-it-driften-goer-klar-til-at-underskrive-kaempe-kontrakt-paa-550-millioner-kroner",
+      "publisher": "Computerworld",
+      "section": "Erhverv",
+      "publishedAt": "2026-10-15T11:35:00Z",
+      "summary": "Pensionsselskabet ATP er klar til at underskrive en kontrakt på 550 mio. kr. om at samle sin it-drift; leverandøren er ikke navngivet i den offentligt tilgængelige del."
+    },
+    {
+      "text": "Sådan gik DTU-hackere under radaren i dagevis, mens de lænsede systemerne for store mængder data",
+      "headline": "Sådan gik DTU-hackere under radaren i dagevis, mens de lænsede systemerne for store mængder data",
+      "url": "https://www.computerworld.dk/art/297189/saadan-gik-dtu-hackere-under-radaren-i-dagevis-mens-de-laensede-systemerne-for-store-maengder-data",
+      "publisher": "Computerworld",
+      "section": "Sikkerhed",
+      "publishedAt": "2026-10-15T12:11:00Z",
+      "summary": "Hackere havde i fem dage uset adgang til DTU's identitetssystem DTUBasen med data om ca. 200.000 nuværende og tidligere brugere, før en medarbejder opdagede bruddet."
+    },
+    {
+      "text": "Japan: Vi er i undtagelses-tilstand efter bølge af hacker-angreb",
+      "headline": "Japan: Vi er i undtagelses-tilstand efter bølge af hacker-angreb",
+      "url": "https://www.computerworld.dk/art/297186/japan-vi-er-i-undtagelses-tilstand-efter-boelge-af-hacker-angreb",
+      "publisher": "Computerworld",
+      "section": "Sikkerhed",
+      "publishedAt": "2026-10-15T08:21:00Z",
+      "summary": "Japan erklærer undtagelsestilstand i cyberspace efter angreb mod over 20 store virksomheder; direktør Masaaki Taira: 'Japan er i en undtagelsestilstand i cyberspace.'"
+    },
+    {
+      "text": "Zuckerbergs gulddreng laver totalovervågning af europæiske it-arbejdere",
+      "headline": "Zuckerbergs gulddreng laver totalovervågning af europæiske it-arbejdere",
+      "url": "https://ing.dk/artikel/zuckerbergs-gulddreng-laver-totalovervaagning-af-europaeiske-it-arbejdere",
+      "publisher": "Ingeniøren",
+      "section": "AI",
+      "publishedAt": "2026-10-15T11:51:00Z",
+      "summary": "Scale AI, hvor Meta ejer 49 pct., kræver biometriske data og ansigtsscanninger via appen Persona af europæiske data-annotatører; stifter Alexandr Wang kaldes af Zuckerberg 'den skarpeste iværksætter i sin generation'."
+    }
+  ],
+  "column": {
+    "authoredBy": "ai",
+    "slug": "eu-dobbelt-kontroltab-ai-cloud",
+    "title": "EU vil styre AI to steder på én gang - og ingen har lagt regningerne sammen",
+    "thesis": "Samme uge kræver danske og europæiske stemmer global kontrol over AI's sikkerhed, mens et industristudie sætter en pris på EU's kontrol over den cloud-infrastruktur, AI kører på. Det er to separate kontrolprojekter, ikke et - men politisk bliver de aldrig vejet op mod hinanden som én samlet regning.",
+    "body": [
+      "Vestager, Schaldemose og Munck taler om AI's sikkerhed: for langsom lovgivning mod en teknologi, der går hurtigere end Bruxelles. Samme uge sætter et CCIA-betalt studie en pris på en anden kontrol - infrastrukturen, AI kører på - seks gange over Kommissionens skøn.",
+      "De to behandles ikke som samme sag: den ene handler om algoritmers adfærd, den anden om serverhaller. Begge er udtryk for samme uro - at Europa har mistet kontrol over en teknologi, det selv vil regulere."
+    ],
+    "uncertainty": "Pointen forudsætter, at sagerne hænger sammen politisk, fordi begge handler om AI-kontrol. Det er en fortolkning, ikke kausalitet: hverken DR's historie eller ECIPE-studiet nævner hinanden. Krydses sporene aldrig politisk, var sammenstillingen klummens egen idé.",
+    "topics": [
+      "ai",
+      "eu-regulering"
+    ],
+    "claims": [
+      {
+        "text": "Christel Schaldemose foreslår en global AI-vagthund i stil med atomvåbenkontrol",
+        "sourceUrls": [
+          "https://www.dr.dk/nyheder/indland/ai-er-ved-stikke-af-og-der-bliver-skreget-paa-regulering-vi-har-voldsomt-travlt"
+        ],
+        "confidence": "high"
+      },
+      {
+        "text": "ECIPE/CCIA-studiet anslår CADA's kostnad til 115 mia. euro over ti år mod Kommissionens 18 mia.",
+        "sourceUrls": [
+          "https://www.itpro.com/business/policy-and-legislation/eu-cant-afford-sovereign-cloud-research-claims"
+        ],
+        "confidence": "high"
+      }
+    ],
+    "sources": [
+      {
+        "title": "AI er ved at stikke af, og der bliver skreget på regulering: 'Vi har voldsomt travlt'",
+        "publisher": "DR",
+        "url": "https://www.dr.dk/nyheder/indland/ai-er-ved-stikke-af-og-der-bliver-skreget-paa-regulering-vi-har-voldsomt-travlt",
+        "publishedAt": "2026-10-17T18:00:00Z",
+        "kind": "primary"
+      },
+      {
+        "title": "EU can't afford sovereign cloud, research claims",
+        "publisher": "ITPro",
+        "url": "https://www.itpro.com/business/policy-and-legislation/eu-cant-afford-sovereign-cloud-research-claims",
+        "publishedAt": "2026-10-15T00:00:00Z",
+        "kind": "primary"
+      }
+    ]
+  },
+  "recommendations": [
+    {
+      "id": "rec-roubaix-duels-hell-20261018",
+      "mode": "watch",
+      "kind": "dokumentar",
+      "status": "available",
+      "title": "Paris-Roubaix: Duels in Hell",
+      "provider": "HBO Max",
+      "url": "https://www.hbomax.com/ch/en/sports/2026-4-10/a7b648a1-00c2-599b-95b9-c59980fdb4da",
+      "availability": "Kræver HBO Max-abonnement med sports-tillæg",
+      "commitment": "102 min",
+      "description": "Dokumentar om Paris-Roubaix' store rivaliseringer, fra Lapize og Faber til Sagan og van der Poel - duellerne, der definerer 'Helvedets Nord'.",
+      "rationale": "Cykling er den sport, han følger tættest, og dette er en af HBO Max' nye klassikerdokumentarer om løbet.",
+      "topics": [
+        "cykling",
+        "sport"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-draghi-report-20261018",
+      "mode": "read",
+      "kind": "rapport",
+      "status": "classic",
+      "title": "The Draghi report on EU competitiveness",
+      "provider": "Europa-Kommissionen",
+      "url": "https://commission.europa.eu/topics/competitiveness/draghi-report_en",
+      "availability": "Frit tilgængelig",
+      "commitment": "Oversigtsside + rapport",
+      "description": "Mario Draghis rapport om europæisk konkurrencekraft, bestilt af Ursula von der Leyen, med 383 reformforslag om energipriser, innovation og det indre marked.",
+      "rationale": "Et stående referencepunkt for en konsulentpraksis i EU-handelspolitik, og den politiske baggrund for ugens cloud-suverænitetsregning.",
+      "topics": [
+        "eu-konkurrencekraft",
+        "handelspolitik"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://commission.europa.eu/sites/default/files/styles/oe_theme_full_width/public/2025-09/Europa_banner_draghi_report.jpg.webp",
+        "credit": "Kilde: Europa-Kommissionen",
+        "alt": "Europa-Kommissionens bannerbillede til Draghi-rapporten om EU's konkurrencekraft",
+        "sourceUrl": "https://commission.europa.eu/topics/competitiveness/draghi-report_en"
+      }
+    },
+    {
+      "id": "rec-superhot-rock-20261018",
+      "mode": "read",
+      "kind": "artikel",
+      "status": "available",
+      "title": "Superhot Rock Holds the Energy of the Future",
+      "creator": "Peter Yeung",
+      "provider": "Reasons to be Cheerful",
+      "url": "https://reasonstobecheerful.world/geothermal-energy-new-tech/",
+      "commitment": "8-10 min læsning",
+      "description": "Om nye geotermiske teknologier, der udnytter superhot rock og giver 5-10 gange højere energiudbytte end konventionelle anlæg - en 'geotermisk renæssance'.",
+      "rationale": "Konstruktiv journalistik om en energiomstilling, der faktisk flytter sig, i et år han selv har arbejdet med grøn omstilling som industri.",
+      "topics": [
+        "energi",
+        "konstruktiv"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-aros-frihedens-fald-20261018",
+      "mode": "experience",
+      "kind": "udstilling",
+      "status": "new",
+      "title": "Frihedens Fald – Kunsten i Tyskland 1910-1945",
+      "provider": "ARoS Aarhus Kunstmuseum",
+      "url": "https://www.aros.dk/udstillinger/frihedens-fald-kunsten-i-tyskland-1910-1945/",
+      "availability": "3. oktober 2026 - 21. februar 2027",
+      "commitment": "Museumsbesøg",
+      "description": "Mesterværker fra Neue Nationalgalerie i Berlin om tysk kunst 1910-1945, fra det frie Weimar-avantgarde til kunsten under nazismen.",
+      "rationale": "En ny udstilling helt uden for hans faglige felt - ren serendipitet.",
+      "topics": [
+        "kunst",
+        "historie"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {
+    "importance": 67,
+    "decisionValue": 56,
+    "novelty": 61,
+    "sourceQuality": 71,
+    "personalRelevance": 63,
+    "contrast": 61,
+    "sourceDiversity": 70,
+    "fabricationRiskReviewed": 100
+  }
+}
