@@ -1,0 +1,826 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-20261019-full",
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-19T04:19:10Z",
+  "readingMinutes": 11,
+  "title": "Thomas' Nyheder",
+  "dek": "Frygten for en AI-boble rammer Nasdaq, Lars Fruergaard Jørgensen lander en ny formandspost i Lundbeck, og Kinas greb om sjældne jordarter gør Grønland vigtigere for Washington.",
+  "profileWeights": {
+    "importance": 20,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 20,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-ai-boble-nasdaq-neocloud-20261019",
+      "eventKey": "ai-boble-nasdaq-neocloud-oktober2026",
+      "materialFacts": [
+        "Nasdaq faldt 4,5 procent fredag - værste uge siden juni",
+        "Character.AI gik konkurs; IMF advarede om stigende gældsætning i AI-branchen",
+        "Coreweave tabte knap 25 procent af markedsværdien på en uge; gæld over 330 mia. kr. mod markedsværdi på ca. 225 mia. kr.",
+        "Gartner: omkring 80 procent af 'neocloud'-selskaberne risikerer at lukke inden 2030"
+      ],
+      "section": "Teknologi",
+      "headline": "Frygt for AI-boble breder sig i USA",
+      "primarySourceUrl": "https://nyheder.tv2.dk/business/2026-10-18-frygt-for-ai-boble-breder-sig-i-usa",
+      "subheadline": "Nasdaq havde sin værste uge siden juni, og børskommentatorer kalder de såkaldte neocloud-selskaber bag AI-boomets datacentre branchens svageste led",
+      "body": [
+        "Nasdaq-indekset faldt 4,5 procent fredag og havde dermed sin værste uge siden juni, drevet af voksende frygt for en AI-boble. Chatbot-selskabet Character.AI gik konkurs, og IMF advarede samme uge om stigende gældsætning i AI-branchen.",
+        "Særligt hårdt gik det ud over 'neocloud'-selskaberne - mellemmænd som Coreweave, Nebius og Iren, der leverer datacenterkapacitet til OpenAI og Anthropic. Coreweave tabte næsten 25 procent af sin markedsværdi på en uge, med en gæld på over 330 mia. kr. mod en markedsværdi på omkring 225 mia. kr."
+      ],
+      "whyItMatters": "Neocloud-selskaberne er den mest lånefinansierede del af AI-opbygningen, og Gartner anslår, at omkring 80 procent af dem risikerer at lukke inden 2030. Et knæk rammer både AI-laboratorierne og bankerne bag byggeriet.",
+      "analysis": "Ugens bevægelse beviser ikke, at AI-investeringerne er en boble, men den viser, hvor gearet finansieringen af AI-infrastruktur er blevet. Når analytiker Kathleen Brooks kalder neocloud-selskaberne 'kanariefuglen i kulminen', er pointen, at de reagerer først - ikke at de reagerer rigtigt.",
+      "counterpoint": "Faldet kommer efter en lang periode med stigninger i AI-aktier, og en enkelt dårlig uge afgør ikke alene, om frygten er berettiget.",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/8/8/e/88e93169-8c90-4de8-a780-c896f993582c?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCwwLDQ4MzMsMjcwOA&s=acfc667027e704021f0a2ddd597f1d19",
+        "credit": "Kilde: TV 2",
+        "alt": "TV 2's billede til historien om frygten for en AI-boble på de amerikanske børser",
+        "sourceUrl": "https://nyheder.tv2.dk/business/2026-10-18-frygt-for-ai-boble-breder-sig-i-usa"
+      },
+      "topics": [
+        "ai",
+        "finansmarkeder",
+        "tech-boble"
+      ],
+      "entities": [
+        "Nasdaq",
+        "Coreweave",
+        "Nebius",
+        "Iren",
+        "OpenAI",
+        "Anthropic",
+        "Character.AI",
+        "Kathleen Brooks"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 82,
+        "decisionValue": 70,
+        "novelty": 70,
+        "sourceQuality": 80,
+        "personalRelevance": 70,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Nasdaq faldt 4,5 procent fredag - værste uge siden juni",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/business/2026-10-18-frygt-for-ai-boble-breder-sig-i-usa"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Coreweave tabte knap 25 procent af markedsværdien på en uge; gæld over 330 mia. kr. mod markedsværdi på ca. 225 mia. kr.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/business/2026-10-18-frygt-for-ai-boble-breder-sig-i-usa"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Gartner anslår, at omkring 80 procent af neocloud-selskaberne risikerer at lukke inden 2030",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/business/2026-10-18-frygt-for-ai-boble-breder-sig-i-usa"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Frygt for AI-boble breder sig i USA",
+          "publisher": "TV 2",
+          "url": "https://nyheder.tv2.dk/business/2026-10-18-frygt-for-ai-boble-breder-sig-i-usa",
+          "publishedAt": "2026-10-18T19:29:42Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-lundbeck-fruergaard-20261019",
+      "eventKey": "fruergaard-lundbeck-bestyrelsesformand",
+      "materialFacts": [
+        "Lundbecks bestyrelse venter at indstille Lars Fruergaard Jørgensen som ny formand",
+        "Han afløser Dorothea Wenzel, der træder tilbage ved generalforsamlingen i 2027",
+        "Indtræder som observatør i bestyrelsen fra 10. november 2026",
+        "Arbejdede hos Novo Nordisk 1991-2025, fyret som topchef i 2025 med rapporteret fratrædelsesgodtgørelse på ca. 123 mio. kr."
+      ],
+      "section": "Erhverv",
+      "headline": "Lars Fruergaard Jørgensen ventes som ny formand for Lundbeck",
+      "primarySourceUrl": "https://ugebrev.dk/flashnews/lars-fruergaard-joergensen-ventes-som-ny-formand-for-lundbeck/",
+      "subheadline": "Den tidligere Novo Nordisk-topchef indtræder i Lundbecks bestyrelse som observatør fra 10. november, før han ventes valgt som formand",
+      "body": [
+        "Lundbecks bestyrelse venter at indstille Lars Fruergaard Jørgensen som ny bestyrelsesformand, oplyser selskabet i en børsmeddelelse søndag aften. Han afløser Dorothea Wenzel, der træder tilbage ved generalforsamlingen i 2027.",
+        "Fruergaard tilbragte 1991-2025 hos Novo Nordisk, fyret som topchef i 2025 med en fratrædelsesgodtgørelse, DR har oplyst til omkring 123 mio. kr. Han indtræder som observatør fra 10. november; den formelle valghandling venter til generalforsamlingen."
+      ],
+      "whyItMatters": "Skiftet sender en omdiskuteret leder til en ny formandspost halvandet år efter fyringen i Novo. For Lundbeck betyder det dyb pharma-erfaring - men en formand, hvis exit stadig diskuteres i branchen.",
+      "analysis": "At en fyret topchef hurtigt lander en formandspost i en konkurrerende dansk medicinalvirksomhed, viser, hvor tyndt laget af kandidater reelt er.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/gs3hd5jp/20250516-134747-l.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Lars Fruergaard Jørgensen, ventet som ny bestyrelsesformand for Lundbeck",
+        "sourceUrl": "https://www.dr.dk/nyheder/seneste/lars-fruergaard-scorer-nyt-job"
+      },
+      "topics": [
+        "executive-appointment",
+        "pharma",
+        "corporate-governance"
+      ],
+      "entities": [
+        "Lars Fruergaard Jørgensen",
+        "Dorothea Wenzel",
+        "Lundbeck",
+        "Novo Nordisk"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 58,
+        "decisionValue": 75,
+        "novelty": 75,
+        "sourceQuality": 75,
+        "personalRelevance": 85,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "Lundbecks bestyrelse venter at indstille Lars Fruergaard Jørgensen som ny formand, afløser Dorothea Wenzel",
+          "sourceUrls": [
+            "https://ugebrev.dk/flashnews/lars-fruergaard-joergensen-ventes-som-ny-formand-for-lundbeck/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Fruergaard indtræder som observatør fra 10. november 2026, formel valghandling ved generalforsamlingen",
+          "sourceUrls": [
+            "https://ugebrev.dk/flashnews/lars-fruergaard-joergensen-ventes-som-ny-formand-for-lundbeck/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Fruergaard arbejdede hos Novo Nordisk 1991-2025 og blev fyret som topchef i 2025 med en fratrædelsesgodtgørelse på ca. 123 mio. kr.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/seneste/lars-fruergaard-scorer-nyt-job"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Lars Fruergaard Jørgensen ventes som ny formand for Lundbeck",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/flashnews/lars-fruergaard-joergensen-ventes-som-ny-formand-for-lundbeck/",
+          "publishedAt": "2026-10-18T16:50:59Z",
+          "kind": "primary"
+        },
+        {
+          "title": "Lars Fruergaard scorer nyt job",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/seneste/lars-fruergaard-scorer-nyt-job",
+          "publishedAt": "2026-10-18T16:32:34Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-regioner-ai-patientdata-20261019",
+      "eventKey": "regioner-ai-patientdata-undersoegelse-2026",
+      "materialFacts": [
+        "Over 100.000 fortrolige patientbeskeder er kørt gennem AI-systemer, dele delt med eksterne tredjeparter",
+        "Hverken regionsråd eller Datatilsynet var informeret, før Ingeniøren afdækkede projektet",
+        "Datatilsynet og regionale politikere er nu i gang med en undersøgelse"
+      ],
+      "section": "Teknologi",
+      "headline": "»De involverede skal stå skoleret«: Nu starter stor undersøgelse af »ulovligt« AI-forsøg",
+      "primarySourceUrl": "https://ing.dk/artikel/de-involverede-skal-staa-skoleret-nu-starter-stor-undersoegelse-af-ulovligt-ai-forsoeg",
+      "subheadline": "Over 100.000 fortrolige patientbeskeder er kørt gennem AI-systemer og i dele af forløbet delt med eksterne tredjeparter, uden at regionsråd eller Datatilsynet var informeret",
+      "body": [
+        "Danske regioner er under undersøgelse af Datatilsynet og regionale politikere, efter at et hemmeligholdt AI-projekt har kørt over 100.000 fortrolige patientbeskeder med følsomme helbredsoplysninger gennem AI-systemer - i dele af forløbet delt med eksterne tredjeparter.",
+        "Hverken regionsrådene eller Datatilsynet var informeret, før Ingeniøren afdækkede projektet. Regionerne fastholder, at projektet var inden for GDPR's grænser; kritikere peger på, at patienterne aldrig gav udtrykkeligt samtykke."
+      ],
+      "whyItMatters": "Sagen rammer et af de mest følsomme datasæt, der findes - patienters egne ord om deres sygdom - og rejser spørgsmålet om, hvor meget kontrol regionerne reelt har over, hvilke AI-værktøjer deres ansatte bruger på borgernes data.",
+      "analysis": "At projektet først kommer for dagens lys gennem journalistik og ikke gennem regionernes egen kontrol, er selve pointen: det var ikke indbygget tilsyn, der fangede det.",
+      "image": {
+        "url": "https://ing.dk/sites/mi/files/styles/open_graph_image_16_9/public/2026-10/20240216-140556-l-0x0ma.jpg?h=92a67da7&itok=42Sm9Ong",
+        "credit": "Kilde: Ingeniøren",
+        "alt": "Arkivfoto anvendt af Ingeniøren til historien om det ulovlige AI-forsøg med patientdata i de danske regioner",
+        "sourceUrl": "https://ing.dk/artikel/de-involverede-skal-staa-skoleret-nu-starter-stor-undersoegelse-af-ulovligt-ai-forsoeg"
+      },
+      "topics": [
+        "ai",
+        "sundhedsdata",
+        "gdpr"
+      ],
+      "entities": [
+        "Datatilsynet",
+        "Ingeniøren",
+        "de danske regioner"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 72,
+        "decisionValue": 55,
+        "novelty": 68,
+        "sourceQuality": 72,
+        "personalRelevance": 50,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "Over 100.000 fortrolige patientbeskeder kørt gennem AI-systemer, i dele af forløbet delt med eksterne tredjeparter, uden forudgående tilladelse",
+          "sourceUrls": [
+            "https://ing.dk/artikel/de-involverede-skal-staa-skoleret-nu-starter-stor-undersoegelse-af-ulovligt-ai-forsoeg"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Regionsråd og Datatilsynet var ikke informeret før Ingeniørens afdækning",
+          "sourceUrls": [
+            "https://ing.dk/artikel/de-involverede-skal-staa-skoleret-nu-starter-stor-undersoegelse-af-ulovligt-ai-forsoeg"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "»De involverede skal stå skoleret«: Nu starter stor undersøgelse af »ulovligt« AI-forsøg",
+          "publisher": "Ingeniøren",
+          "url": "https://ing.dk/artikel/de-involverede-skal-staa-skoleret-nu-starter-stor-undersoegelse-af-ulovligt-ai-forsoeg",
+          "publishedAt": "2026-10-16T07:00:45Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-soeren-gade-exit-20261019",
+      "eventKey": "soeren-gade-exit-folketing-2026",
+      "materialFacts": [
+        "Søren Gade (V), 63, forlader Folketinget",
+        "Peger på intern Venstre-uenighed om gødskningsloven som hovedårsag",
+        "Nævner også et Jyllands-Posten-portræt bygget på anonyme Venstre-kilder",
+        "Håber Erik Flyvholm (V) tager over hans mandat"
+      ],
+      "section": "Politik",
+      "headline": "Søren Gade stopper i Folketinget",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/politik/soeren-gade-stopper-i-folketinget",
+      "subheadline": "Den tidligere forsvarsminister og folketingsformand forlader politik efter uenighed om gødskningsloven og en pressehistorie, han kalder unfair",
+      "body": [
+        "Venstres Søren Gade, 63 år, forlader Folketinget. Det oplyser han selv på Facebook. Gade var forsvarsminister 2004-2010 og folketingsformand fra 2022, til han trak sig fra formandsposten tidligere i år.",
+        "Han peger på intern uenighed i Venstre om gødskningsloven som hovedårsag og nævner samtidig et portræt i Jyllands-Posten bygget på anonyme Venstre-kilder, som han har haft svært ved at lægge bag sig. Gade håber, at Erik Flyvholm (V) tager over hans mandat."
+      ],
+      "whyItMatters": "Gades afgang er endnu et tegn på uro i Venstres parlamentariske gruppe, hvor gødskningsloven har skabt splittelse mellem fløje. Et mandatskifte midt i en valgperiode ændrer ikke magtbalancen i Folketinget, men det svækker partiledelsens fortælling om sammenhold.",
+      "analysis": "At en tidligere folketingsformand går af med henvisning til en pressehistorie bygget på anonyme kilder fra eget parti, siger noget om splittelsens omfang i Venstre.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/zazpha3v/20260906-153232-l.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Søren Gade (V), der forlader Folketinget efter at have været forsvarsminister og folketingsformand",
+        "sourceUrl": "https://www.dr.dk/nyheder/politik/soeren-gade-stopper-i-folketinget"
+      },
+      "topics": [
+        "dansk-politik",
+        "folketinget"
+      ],
+      "entities": [
+        "Søren Gade",
+        "Venstre",
+        "Folketinget",
+        "Erik Flyvholm"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 68,
+        "decisionValue": 40,
+        "novelty": 70,
+        "sourceQuality": 85,
+        "personalRelevance": 35,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Søren Gade (V), 63, forlader Folketinget efter at have været forsvarsminister 2004-2010 og folketingsformand fra 2022",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/politik/soeren-gade-stopper-i-folketinget"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Gade peger på intern Venstre-uenighed om gødskningsloven og et Jyllands-Posten-portræt som grunde til afgangen",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/politik/soeren-gade-stopper-i-folketinget"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Søren Gade stopper i Folketinget",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/politik/soeren-gade-stopper-i-folketinget",
+          "publishedAt": "2026-10-18T18:00:49Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-frankrig-optojer-20261019",
+      "eventKey": "frankrig-demonstrationer-optoejer-oktober2026",
+      "materialFacts": [
+        "Omkring 550.000 demonstrerede lørdag mod regeringens politik, langt over de ventede 150.000-190.000",
+        "Over 500 politifolk, gendarmer og brandfolk såret; en død af hjertestop under demonstrationerne",
+        "Over 2.000 anholdt, mere end 500 stadig i forvaring",
+        "Omkring 1.500 virksomheder ramt; Macron adresserede nationen søndag aften"
+      ],
+      "section": "Udland",
+      "headline": "'Blame game' efter demonstrationer i Frankrig: Korrespondent spår en politisk diskussion, der vil vare til præsidentvalget",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/blame-game-efter-demonstrationer-i-frankrig-korrespondent-spaar-en-politisk-diskussion-der-vil-vare",
+      "subheadline": "Omkring 550.000 demonstrerede lørdag, langt over de ventede 150.000-190.000, med over 500 skadede betjente og mere end 2.000 anholdte",
+      "body": [
+        "Det officielle skøn sætter lørdagens demonstrationer i Frankrig til omkring 550.000 deltagere - arrangørerne hævder 800.000 - langt over de ventede 150.000-190.000. Indenrigsminister Laurent Nuñez oplyser, at over 500 politifolk, gendarmer og brandfolk blev såret, og at en person døde af hjertestop.",
+        "Over 2.000 blev anholdt, og omkring 1.500 virksomheder blev ramt. Macron adresserede nationen søndag aften, mens regeringens beredskab er under skarp kritik."
+      ],
+      "whyItMatters": "Omfanget overraskede myndighederne og sætter spørgsmålstegn ved regeringens evne til at læse temperaturen i befolkningen. En DR-korrespondent spår, at skyldsspørgsmålet vil præge fransk politik til præsidentvalget.",
+      "analysis": "Når antallet af demonstranter er tre-fire gange højere end myndighedernes eget skøn, er det et tegn på, at regeringen har mistet kontakten til utilfredsheden.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/52hjnvat/20261018-100437-5_crop001.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Demonstranter i Frankrig under lørdagens landsdækkende protester mod regeringens politik",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/blame-game-efter-demonstrationer-i-frankrig-korrespondent-spaar-en-politisk-diskussion-der-vil-vare"
+      },
+      "topics": [
+        "frankrig",
+        "optoejer",
+        "politik"
+      ],
+      "entities": [
+        "Emmanuel Macron",
+        "Laurent Nuñez",
+        "Frankrig"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 75,
+        "decisionValue": 35,
+        "novelty": 65,
+        "sourceQuality": 85,
+        "personalRelevance": 20,
+        "contrast": 60
+      },
+      "claims": [
+        {
+          "text": "Omkring 550.000 demonstrerede lørdag landsdækkende i Frankrig, langt over de ventede 150.000-190.000",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/blame-game-efter-demonstrationer-i-frankrig-korrespondent-spaar-en-politisk-diskussion-der-vil-vare"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Over 500 sikkerhedsfolk såret, en død af hjertestop, over 2.000 anholdt",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/blame-game-efter-demonstrationer-i-frankrig-korrespondent-spaar-en-politisk-diskussion-der-vil-vare"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "'Blame game' efter demonstrationer i Frankrig: Korrespondent spår en politisk diskussion, der vil vare til præsidentvalget",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/blame-game-efter-demonstrationer-i-frankrig-korrespondent-spaar-en-politisk-diskussion-der-vil-vare",
+          "publishedAt": "2026-10-18T14:33:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-amazonas-afskovning-20261019",
+      "eventKey": "amazonas-afskovning-rekord-lav-2026",
+      "materialFacts": [
+        "Afskovningen i Amazonas er på det laveste niveau siden satellitovervågningen begyndte i 1988",
+        "Juli 2025-juli 2026: ca. 3.335 km² fældet, et fald på 42 procent år-til-år",
+        "Fældet areal var op mod 30.000 km²/år i midten af 1990'erne",
+        "Lula har lovet at stoppe afskovningen af Amazonas senest i 2030"
+      ],
+      "section": "Klima",
+      "headline": "Afskovning i Amazonas er faldet til det hidtil laveste niveau",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/seneste/afskovning-i-amazonas-er-faldet-til-det-hidtil-laveste-niveau",
+      "subheadline": "Brasiliens egne satellitdata viser det lavest målte niveau siden overvågningen begyndte i 1988 - et fald på 42 procent",
+      "body": [
+        "Afskovningen i den brasilianske del af Amazonas er faldet til det laveste niveau, siden myndighedernes satellitovervågning begyndte i 1988. Fra juli 2025 til juli 2026 blev omkring 3.335 kvadratkilometer skov fældet - et fald på 42 procent i forhold til året før.",
+        "Til sammenligning blev der i midten af 1990'erne fældet op mod 30.000 kvadratkilometer om året. Præsident Lula har lovet at stoppe afskovningen af Amazonas helt senest i 2030."
+      ],
+      "whyItMatters": "Amazonas er verdens største regnskov og et af klodens vigtigste kulstoflagre, så et reelt og vedvarende fald har global betydning for klimaet - ikke kun brasiliansk politik.",
+      "analysis": "Tallet er bemærkelsesværdigt, fordi det er et reelt fald fra et historisk højt niveau, ikke blot en opbremsning. Om faldet holder, afhænger af, hvor meget der skyldes håndhævelse, og hvor meget der skyldes markedsforhold som soja- og kødpriser.",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Fires_and_Deforestation_on_the_Amazon_Frontier%2C_Rondonia%2C_Brazil_-_August_12%2C_2007.jpg/1920px-Fires_and_Deforestation_on_the_Amazon_Frontier%2C_Rondonia%2C_Brazil_-_August_12%2C_2007.jpg",
+        "credit": "Foto: NASA Earth Observatory (Jesse Allen og Robert Simmon) / Wikimedia Commons",
+        "alt": "Arkivfoto: NASA-satellitbillede af skovrydning i Rondônia, Brasilien (2007), anvendt som illustration til historien om faldende afskovning i Amazonas",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fires_and_Deforestation_on_the_Amazon_Frontier,_Rondonia,_Brazil_-_August_12,_2007.jpg"
+      },
+      "topics": [
+        "klima",
+        "miljoe",
+        "brasilien"
+      ],
+      "entities": [
+        "Amazonas",
+        "Brasilien",
+        "Lula da Silva"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 60,
+        "decisionValue": 30,
+        "novelty": 70,
+        "sourceQuality": 80,
+        "personalRelevance": 15,
+        "contrast": 65
+      },
+      "claims": [
+        {
+          "text": "Afskovningen i Amazonas er på det laveste niveau siden 1988; ca. 3.335 km² fældet juli 2025-juli 2026, et fald på 42 procent",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/seneste/afskovning-i-amazonas-er-faldet-til-det-hidtil-laveste-niveau"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Afskovning i Amazonas er faldet til det hidtil laveste niveau",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/seneste/afskovning-i-amazonas-er-faldet-til-det-hidtil-laveste-niveau",
+          "publishedAt": "2026-10-17T08:15:46Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-kina-jordarter-groenland-20261019",
+      "eventKey": "china-rare-earth-restrictions-greenland-2026",
+      "materialFacts": [
+        "Kina udvidede 9. oktober sine eksportrestriktioner på sjældne jordarter",
+        "Trump truede med yderligere 100 procent told og amerikanske software-eksportrestriktioner",
+        "Pentagon har en 10-årig købsaftale og prisgaranti med MP Materials; det amerikanske handelsministerium ejer 16 procent af USA Rare Earth",
+        "Den amerikansk-grønlandske aftale fra september 2026 gør det ifølge analysen vanskeligere for Kina og Rusland at få kontrol med strategisk infrastruktur"
+      ],
+      "section": "Handelspolitik",
+      "headline": "Stor analyse/ finanshuse: Kina presser USA på sjældne jordarter - og det gør Grønlands-aftalen endnu vigtigere for USA",
+      "primarySourceUrl": "https://ugebrev.dk/finans/stor-analyse-finanshuse-kina-presser-usa-paa-sjaeldne-jordarter-og-det-goer-groenlands-aftalen-endnu-vigtigere-for-usa/",
+      "subheadline": "Kinas udvidede eksportrestriktioner på sjældne jordarter har fået Trump til at true med yderligere 100 procent i told - og gør aftalen med Grønland fra september vigtigere for Washington",
+      "body": [
+        "Kina udvidede 9. oktober sine eksportrestriktioner på sjældne jordarter. Trump svarede med trusler om yderligere 100 procent told på kinesiske varer og amerikanske software-eksportrestriktioner.",
+        "Pentagon har en ti-årig købsaftale og prisgaranti med MP Materials, og handelsministeriet ejer 16 procent af USA Rare Earth. Det gør aftalen fra september - der ifølge analysen vanskeliggør kinesisk/russisk kontrol med grønlandsk infrastruktur - vigtigere for Washington."
+      ],
+      "whyItMatters": "Sjældne jordarter er en flaskehals i forsyningskæden, fra vindmøller til forsvarsudstyr, og Grønland er en omtalt kilde uden for Kina. Det gør øen del af en konflikt langt ud over Arktis.",
+      "analysis": "Analysen er finanshusenes egen syntese, ikke en bekræftet begivenhed - restriktionerne og den grønlandske aftale er ikke officielt kædet sammen af parterne. Sammenhængen er en fortolkning, ikke en bekræftet kobling.",
+      "image": {
+        "url": "https://ugebrev.dk/wp-content/uploads/2026/01/Groenland.jpg",
+        "credit": "Kilde: Økonomisk Ugebrev",
+        "alt": "Grønlandsk landskab, brugt som illustration til historien om Kinas eksportrestriktioner på sjældne jordarter og den amerikansk-grønlandske mineralaftale",
+        "sourceUrl": "https://ugebrev.dk/finans/stor-analyse-finanshuse-kina-presser-usa-paa-sjaeldne-jordarter-og-det-goer-groenlands-aftalen-endnu-vigtigere-for-usa/"
+      },
+      "topics": [
+        "rare-earths",
+        "china-us-tension",
+        "greenland",
+        "de-risking"
+      ],
+      "entities": [
+        "Kina",
+        "Grønland",
+        "MP Materials",
+        "USA Rare Earth",
+        "Donald Trump"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 70,
+        "decisionValue": 65,
+        "novelty": 60,
+        "sourceQuality": 70,
+        "personalRelevance": 80,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Kina udvidede 9. oktober 2026 sine eksportrestriktioner på sjældne jordarter; Trump truede med yderligere 100 procent told",
+          "sourceUrls": [
+            "https://ugebrev.dk/finans/stor-analyse-finanshuse-kina-presser-usa-paa-sjaeldne-jordarter-og-det-goer-groenlands-aftalen-endnu-vigtigere-for-usa/"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Pentagon har en 10-årig købsaftale/prisgaranti med MP Materials; det amerikanske handelsministerium ejer 16 procent af USA Rare Earth",
+          "sourceUrls": [
+            "https://ugebrev.dk/finans/stor-analyse-finanshuse-kina-presser-usa-paa-sjaeldne-jordarter-og-det-goer-groenlands-aftalen-endnu-vigtigere-for-usa/"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Stor analyse/ finanshuse: Kina presser USA på sjældne jordarter - og det gør Grønlands-aftalen endnu vigtigere for USA",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/finans/stor-analyse-finanshuse-kina-presser-usa-paa-sjaeldne-jordarter-og-det-goer-groenlands-aftalen-endnu-vigtigere-for-usa/",
+          "publishedAt": "2026-10-14T16:05:27Z",
+          "kind": "analysis"
+        }
+      ]
+    },
+    {
+      "id": "story-kolding-pumpesluse-20261019",
+      "eventKey": "kolding-pumpesluse-foerste-brug",
+      "materialFacts": [
+        "Koldings nye pumpe-sluse, bygget efter oversvømmelsen i oktober 2023, kan blive sat i brug for første gang",
+        "Anlægget klarer vandstandsstigninger op til 2,80 meter; fire skruer pumper 20.000 liter vand væk i sekundet",
+        "Arbejder sammen med en midlertidig mobil oversvømmelsesmur på havnekajen"
+      ],
+      "section": "Danmark",
+      "headline": "Gigantisk pumpe-sluse kan få premiere i nat",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/seneste/gigantisk-pumpe-sluse-kan-faa-premiere-i-nat",
+      "subheadline": "Koldings nye pumpe-sluse, bygget efter oversvømmelsen i 2023, kan blive sat i brug for første gang",
+      "body": [
+        "Koldings nye pumpe-sluseanlæg, der blev bygget efter oversvømmelsen i oktober 2023, hvor vandet steg omkring to meter over normalen, kan blive aktiveret for første gang.",
+        "Anlægget kan klare vandstandsstigninger op til 2,80 meter, og fire skruer kan pumpe 20.000 liter vand væk i sekundet. Det arbejder sammen med en midlertidig mobil oversvømmelsesmur på havnekajen."
+      ],
+      "whyItMatters": "Anlægget er et konkret eksempel på, hvad danske kommuner reelt bygger for at klimasikre sig efter ekstreme vejrhændelser - ikke som fremskrivning, men som allerede opført infrastruktur, der nu afprøves.",
+      "analysis": "At anlægget muligvis skal bruges så kort tid efter indvielsen, er i sig selv et signal om, at de hændelser, det er bygget til at håndtere, ikke længere er sjældne undtagelser.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/1hnijiys/anlaegget-fire-kaempeskruer.jpg?im=SmartCrop%2Csize%3D%28700%2C394%29",
+        "credit": "Kilde: DR",
+        "alt": "Koldings nye pumpe-sluseanlæg med de fire skruer, der kan pumpe 20.000 liter vand væk i sekundet",
+        "sourceUrl": "https://www.dr.dk/nyheder/seneste/gigantisk-pumpe-sluse-kan-faa-premiere-i-nat"
+      },
+      "topics": [
+        "klima",
+        "infrastruktur",
+        "vejr"
+      ],
+      "entities": [
+        "Kolding",
+        "Kolding Fjord"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 45,
+        "decisionValue": 25,
+        "novelty": 60,
+        "sourceQuality": 80,
+        "personalRelevance": 15,
+        "contrast": 30
+      },
+      "claims": [
+        {
+          "text": "Koldings pumpe-sluseanlæg klarer vandstandsstigninger op til 2,80 meter; fire skruer pumper 20.000 liter/sekund",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/seneste/gigantisk-pumpe-sluse-kan-faa-premiere-i-nat"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gigantisk pumpe-sluse kan få premiere i nat",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/seneste/gigantisk-pumpe-sluse-kan-faa-premiere-i-nat",
+          "publishedAt": "2026-10-17T11:44:34Z",
+          "kind": "reporting"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "Dansk Erhverv tilslutter sig Seniorløftet: Det skal være mere attraktivt at blive længere i arbejde",
+      "headline": "Dansk Erhverv tilslutter sig Seniorløftet: Det skal være mere attraktivt at blive længere i arbejde",
+      "url": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/oktober/dansk-erhverv-tilslutter-sig-seniorloftet-det-skal-vare-mere-attraktivt-at-blive-langere-i-arbejde/",
+      "publisher": "Dansk Erhverv",
+      "section": "Erhverv",
+      "publishedAt": "2026-10-14T12:36:29Z",
+      "summary": "Dansk Erhverv, PFA Pension og HK lancerer sammen 'Seniorløftet'; senior-beskæftigelsen (60+) er steget med 95.000 fuldtidsjob siden 2019."
+    },
+    {
+      "text": "Fald i eksport af varer i august",
+      "headline": "Fald i eksport af varer i august",
+      "url": "https://dst.dk/nyt/52343",
+      "publisher": "Danmarks Statistik",
+      "section": "Økonomi",
+      "publishedAt": "2026-10-09T06:00:00Z",
+      "summary": "Den samlede eksport af varer og tjenester faldt 3,3 procent til 194,0 mia. kr. i august; vareeksporten faldt 6,2 procent, mens tjenesteeksporten steg 0,7 procent."
+    },
+    {
+      "text": "Inflationen steg igen i september",
+      "headline": "Inflationen steg igen i september",
+      "url": "https://www.dst.dk/da/Statistik/udgivelser/NytHtml?cid=52441",
+      "publisher": "Danmarks Statistik",
+      "section": "Økonomi",
+      "publishedAt": "2026-10-12T06:00:00Z",
+      "summary": "Forbrugerprisindekset steg 2,2 procent år-til-år i september, op fra 2,0 procent i august; kerneinflationen var 1,9 procent."
+    },
+    {
+      "text": "Antonsen missede både titel og pladsen som verdensetter: 'Desværre brast drømmen på målstregen'",
+      "headline": "Antonsen missede både titel og pladsen som verdensetter: 'Desværre brast drømmen på målstregen'",
+      "url": "https://www.dr.dk/sporten/badminton/antonsen-missede-baade-titel-og-pladsen-som-verdensetter-desvaerre-brast-droemmen-paa-maalstregen",
+      "publisher": "DR Sporten",
+      "section": "Sport",
+      "publishedAt": "2026-10-18T19:39:37Z",
+      "summary": "Anders Antonsen tabte Denmark Open-finalen til franske Alex Lanier og gik dermed glip af både en tredje titel og førstepladsen på verdensranglisten."
+    },
+    {
+      "text": "Danskere overgår igen Verstappen i portugisisk racerløb",
+      "headline": "Danskere overgår igen Verstappen i portugisisk racerløb",
+      "url": "https://www.dr.dk/sporten/seneste-sport/danskere-overgaar-igen-verstappen-i-portugisisk-racerloeb",
+      "publisher": "DR Sporten",
+      "section": "Sport",
+      "publishedAt": "2026-10-17T20:23:12Z",
+      "summary": "Det danske GT-trio Schandorff, Ebdrup og Birch blev nummer fire i et udholdenhedsløb i Portimão; Birch satte den hurtigste kvalifikationstid i hele feltet, foran Max Verstappen."
+    },
+    {
+      "text": "Ung kvinde død efter skyderi i sportshal i Stockholm",
+      "headline": "Ung kvinde død efter skyderi i sportshal i Stockholm",
+      "url": "https://www.dr.dk/nyheder/seneste/ung-kvinde-doed-efter-skyderi-i-sportshal-i-stockholm",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-10-17T23:38:31Z",
+      "summary": "En 25-årig kvinde blev skudt og dræbt fredag aften i en sportshal i Stockholm; to drenge under 18 år er anholdt."
+    },
+    {
+      "text": "Tre mænd anholdt med kokain og pistol i bilen",
+      "headline": "Tre mænd anholdt med kokain og pistol i bilen",
+      "url": "https://www.dr.dk/nyheder/seneste/tre-maend-anholdt-med-kokain-og-pistol-i-bilen",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-10-17T09:52:19Z",
+      "summary": "Tre mænd anholdt i Bispehaven i Aarhus med 30 gram kokain og en ladt signalpistol gemt under reservehjulet."
+    },
+    {
+      "text": "77-årig sigtet for vanvidskørsel: Vendte om på Storebæltsbroen",
+      "headline": "77-årig sigtet for vanvidskørsel: Vendte om på Storebæltsbroen",
+      "url": "https://www.dr.dk/nyheder/seneste/77-aarig-sigtet-vanvidskoersel-vendte-om-paa-storebaeltsbroen",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-10-17T08:22:30Z",
+      "summary": "En 77-årig tysk bilist vendte om ved betalingsanlægget og kørte mod trafikken på Vestbroen; politiet tror på forvirring snarere end hensigt."
+    },
+    {
+      "text": "Egyptens præsident fratræder posten i 2030",
+      "headline": "Egyptens præsident fratræder posten i 2030",
+      "url": "https://www.dr.dk/nyheder/seneste/egyptens-praesident-fratraeder-posten-i-2030",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-10-17T11:17:54Z",
+      "summary": "Præsident al-Sisi, 71, oplyser, at hans embedsperiode udløber i 2030, og at der ikke bliver ændret i forfatningen."
+    },
+    {
+      "text": "Microsoft klar med ny slagkraftig AI-chip: Se her, hvad den kan",
+      "headline": "Microsoft klar med ny slagkraftig AI-chip: Se her, hvad den kan",
+      "url": "https://www.computerworld.dk/art/297178",
+      "publisher": "Computerworld.dk",
+      "section": "Teknologi",
+      "publishedAt": "2026-10-14T13:58:00Z",
+      "summary": "Microsoft annoncerer Maia 300, sin tredje generation af egen datacenter-chip, der fra 2027 skal arbejde side om side med den eksisterende Maia 200 som rygrad i selskabets AI-infrastruktur."
+    },
+    {
+      "text": "Nvidia vil pumpe milliarder af kroner ind i europæisk tech: 'Vi skal have Europa ind i kampen,' siger Jensen Huang",
+      "headline": "Nvidia vil pumpe milliarder af kroner ind i europæisk tech: 'Vi skal have Europa ind i kampen,' siger Jensen Huang",
+      "url": "https://www.computerworld.dk/art/297164",
+      "publisher": "Computerworld.dk",
+      "section": "Teknologi",
+      "publishedAt": "2026-10-14T06:31:00Z",
+      "summary": "Nvidia-topchef Jensen Huang annoncerer yderligere ca. 13 mia. kr. i europæiske investeringer, med franske Doctolib, Genesis AI, Pigment og Entalpic som navngivne mål."
+    },
+    {
+      "text": "»Katastrofale konsekvenser for samfundet«: AI kan være bombe under kryptering, mener topmatematiker",
+      "headline": "»Katastrofale konsekvenser for samfundet«: AI kan være bombe under kryptering, mener topmatematiker",
+      "url": "https://ing.dk/artikel/katastrofale-konsekvenser-samfundet-ai-kan-vaere-bombe-under-kryptering-mener-topmatematiker",
+      "publisher": "Ingeniøren",
+      "section": "Teknologi",
+      "publishedAt": "2026-10-14T12:50:28Z",
+      "summary": "Fields-medaljevinder Peter Scholze advarer om, at AI på sigt kan bryde nutidens krypteringsmetoder."
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-aros-frihedens-fald-20261019",
+      "mode": "experience",
+      "kind": "udstilling",
+      "status": "available",
+      "title": "FRIHEDENS FALD – Kunsten i Tyskland 1910-1945",
+      "provider": "ARoS Aarhus Kunstmuseum",
+      "url": "https://www.aros.dk/udstillinger/frihedens-fald-kunsten-i-tyskland-1910-1945/",
+      "availability": "Aarhus; åben til 21. februar 2027",
+      "commitment": "1,5-2 timer",
+      "description": "Over 70 værker udlånt fra Neue Nationalgalerie i Berlin - Kirchner, Dix, Höch, Kandinsky, Klee, Kollwitz, Nolde m.fl. - der følger tysk ekspressionisme og Neue Sachlichkeit gennem Weimar-republikkens sammenbrud og ind i nazismen.",
+      "rationale": "Et direkte visuelt argument om, hvordan institutioner og frihedsrettigheder eroderer under politisk pres - et skarpt modstykke til dagens læsning om europæisk skrøbelighed, uden selv at være endnu en politisk rapport.",
+      "topics": [
+        "kunst",
+        "europaeisk-historie",
+        "institutioner"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://www.aros.dk/media/nk1pscle/frihedens-fald-aros-2026-foto-mads-smidstrup35.jpg",
+        "credit": "Foto: Mads Smidstrup / ARoS",
+        "alt": "Udstillingen Frihedens Fald på ARoS med værker fra Neue Nationalgalerie, Berlin",
+        "sourceUrl": "https://www.aros.dk/udstillinger/frihedens-fald-kunsten-i-tyskland-1910-1945/"
+      }
+    },
+    {
+      "id": "rec-cphphil-sacre-20261019",
+      "mode": "experience",
+      "kind": "koncert-teater",
+      "status": "available",
+      "title": "Melodrama #3 – Sacre: Det Første Offer",
+      "creator": "Igor Stravinsky / Christian Lollike",
+      "provider": "Copenhagen Phil",
+      "url": "https://copenhagenphil.dk/koncerter/melodrama-3-sacre-det-frste-offer/",
+      "availability": "Frederiksberg; 22. oktober 2026 kl. 19:30, få billetter tilbage",
+      "commitment": "ca. 2 timer inkl. transport",
+      "description": "Iscenesat koncertoplevelse, der kombinerer Stravinskys 'Le Sacre du Printemps' med teater, levende tegning og video, og genfortæller Abraham/Isak-myten som en linse på den israelsk-palæstinensiske konflikt.",
+      "rationale": "Den bevidst anderledes aften: live orkester-teater-hybrid uden tilknytning til hans arbejde, der bruger en ældgammel myte til at sidde med verdens hårdeste konflikt - og den spiller kun denne uge.",
+      "topics": [
+        "musik",
+        "teater",
+        "serendipitet"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://copenhagenphil.dk/wp-content/uploads/2026/08/Medvirkende-heroplakat_A.jpg.jpeg",
+        "credit": "Kilde: Copenhagen Phil",
+        "alt": "Plakat for Melodrama #3 - Sacre: Det Første Offer, Copenhagen Phil",
+        "sourceUrl": "https://copenhagenphil.dk/koncerter/melodrama-3-sacre-det-frste-offer/"
+      }
+    },
+    {
+      "id": "rec-cosmos-pacing-neutrality-20261019",
+      "mode": "read",
+      "kind": "essay",
+      "status": "available",
+      "title": "Pacing and the Peril of Neutrality",
+      "creator": "Alex Chalmers",
+      "provider": "Cosmos Institute",
+      "url": "https://blog.cosmos-institute.org/p/pacing-and-the-peril-of-neutrality",
+      "availability": "Frit tilgængelig",
+      "commitment": "15 min",
+      "description": "Essay, der bruger Carl Schmitts teori om neutralisering til at argumentere, at AI-'pacing'-koalitionens uklarhed om, hvad der bremses og håndhæves, risikerer at give staten ubegrænset undtagelsesmagt.",
+      "rationale": "En sjælden tekst, der behandler AI-regulering som et spørgsmål om statsmagt frem for teknik - et relevant modstykke til dagens historie om regionernes ukontrollerede AI-forsøg med patientdata.",
+      "topics": [
+        "ai-governance",
+        "politisk-oekonomi"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://substackcdn.com/image/fetch/$s_!eVbA!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5bb047af-9bf1-4c1e-ba55-9748780e0cac_1920x1422.png",
+        "credit": "Kilde: Cosmos Institute",
+        "alt": "Illustration til essayet 'Pacing and the Peril of Neutrality' af Alex Chalmers",
+        "sourceUrl": "https://blog.cosmos-institute.org/p/pacing-and-the-peril-of-neutrality"
+      }
+    },
+    {
+      "id": "rec-owid-poverty-20261019",
+      "mode": "read",
+      "kind": "data-artikel",
+      "status": "available",
+      "title": "The world has made huge progress in reducing extreme poverty; could this be coming to an end?",
+      "creator": "Hannah Ritchie",
+      "provider": "Our World in Data",
+      "url": "https://ourworldindata.org/data-insights/the-world-has-made-huge-progress-in-reducing-extreme-poverty-could-this-be-coming-to-an-end",
+      "availability": "Frit tilgængelig",
+      "commitment": "10 min",
+      "description": "Dataartikel, der viser, at ekstrem fattigdom faldt fra 2,2 mia. mennesker i 2000 til omkring 895 mio. i 2020, drevet af Asien - mens Verdensbanken vurderer, at faldet kan stoppe omkring 2040.",
+      "rationale": "Konstruktiv journalistik, som den bør være: reel, målbar fremgang stillet op mod en konkret, dokumenteret advarsel om, hvor den stopper - præcis den vægtning mellem fremgang og forbehold, der kendetegner god konstruktiv journalistik.",
+      "topics": [
+        "constructive-journalism",
+        "udvikling",
+        "fattigdom"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/82d47ac2-dcb6-411c-afda-b3288fb73c00/public",
+        "credit": "Kilde: Our World in Data",
+        "alt": "Graf over udviklingen i global ekstrem fattigdom, Our World in Data",
+        "sourceUrl": "https://ourworldindata.org/data-insights/the-world-has-made-huge-progress-in-reducing-extreme-poverty-could-this-be-coming-to-an-end"
+      }
+    }
+  ],
+  "quality": {
+    "importance": 66,
+    "decisionValue": 49,
+    "novelty": 67,
+    "sourceQuality": 78,
+    "personalRelevance": 46,
+    "contrast": 46,
+    "sourceDiversity": 62,
+    "fabricationRiskReviewed": 100
+  }
+}
