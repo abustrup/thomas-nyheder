@@ -1,0 +1,801 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-20261020-060000",
+  "date": "2026-10-20",
+  "generatedAt": "2026-10-20T04:28:04.000Z",
+  "readingMinutes": 12,
+  "title": "Thomas' Nyheder",
+  "dek": "Anthropic afsætter aktier til en almennyttig fond, et nordjysk ledelsesskifte, og en VM-titel i parløb til Danmark",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-anthropic-pbf-20261020",
+      "eventKey": "anthropic-public-benefit-fund-20261018",
+      "materialFacts": [
+        "Anthropic vil afsætte 5 procent af aktierne til en ny Public Benefit Fund forud for en forventet børsnotering",
+        "Bestyrelsen kan lægge yderligere 2 procentpoint til for hver 50 procents stigning i selskabets værdi over en fastsat baseline",
+        "Ingen af fondens aktier må bruges til lobbyarbejde eller politiske donationer, hverken i USA eller andre lande",
+        "Ved en forventet værdiansættelse på over 1.000 mia. dollar vil fonden starte med omkring 50 mia. dollar, svarende til 333 mia. kr."
+      ],
+      "section": "AI og kapitalmarkeder",
+      "headline": "Anthropic vil oprette almennyttig fond ved børsnotering",
+      "primarySourceUrl": "https://www.kristeligt-dagblad.dk/anthropic-vil-oprette-almennyttig-fond-ved-boersnotering",
+      "subheadline": "Fem procent af aktierne øremærkes en fond for velgørende formål – og andelen vokser, i takt med at selskabet vokser",
+      "body": [
+        "AI-selskabet Anthropic vil afsætte 5 procent af aktierne til en nystiftet Public Benefit Fund forud for en ventet børsnotering i USA. Bestyrelsen kan lægge op til 2 procentpoint til for hver 50 procents stigning i selskabets værdi. Ingen af fondens aktier må bruges til lobbyarbejde eller politiske donationer, hverken i USA eller andre lande, oplyser Anthropic selv.",
+        "Sammen med tidligere løfter fra stiftere og ansatte bringer det samlede engagement op mod 20 procent af Anthropics aktier i almennyttigt øjemed. Ved en forventet værdiansættelse over 1.000 mia. dollar vil fonden starte med omkring 50 mia. dollar – svarende til 333 mia. kr."
+      ],
+      "whyItMatters": "Strukturen binder en del af selskabets fremtidige værdistigning til almennyttige formål, herunder støtte til grupper ramt af AI på arbejdsmarkedet, uden at gøre fonden til et politisk redskab.",
+      "analysis": "Det interessante er ikke beløbet i dag, men mekanikken: andelen vokser automatisk med værdien, så forpligtelsen skalerer uden ny forhandling for hver kapitalrunde. Det er lettere at forsvare over for investorer end et engangsbeløb, fordi det ikke kræver et valg mellem vækst og velgørenhed.",
+      "topics": [
+        "ai",
+        "selskabsledelse",
+        "kapitalmarkeder"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "isLead": true,
+      "isOutsideProfile": true,
+      "image": {
+        "url": "https://k9-drupal-images.k.dk/k9-drupal-images.k.dk/styles/metatag/s3/2026/10-19/2026101912543544_1000.jpg?itok=BmXuODsY",
+        "credit": "Kilde: Kristeligt Dagblad",
+        "alt": "Anthropic vil oprette almennyttig fond ved børsnotering",
+        "sourceUrl": "https://www.kristeligt-dagblad.dk/anthropic-vil-oprette-almennyttig-fond-ved-boersnotering"
+      },
+      "scores": {
+        "importance": 82,
+        "decisionValue": 70,
+        "novelty": 80,
+        "sourceQuality": 88,
+        "personalRelevance": 35,
+        "contrast": 70
+      },
+      "claims": [
+        {
+          "text": "Anthropic vil afsætte 5 procent af aktierne til en ny Public Benefit Fund forud for en forventet børsnotering, med op til 2 procentpoint mere for hver 50 procents værdistigning",
+          "sourceUrls": [
+            "https://www.anthropic.com/news/public-benefit-fund"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Ingen af fondens aktier må bruges til lobbyarbejde eller politiske donationer, i USA eller andre lande",
+          "sourceUrls": [
+            "https://www.anthropic.com/news/public-benefit-fund"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Ved en forventet værdiansættelse over 1.000 mia. dollar vil fonden starte med cirka 50 mia. dollar (333 mia. kr.)",
+          "sourceUrls": [
+            "https://www.kristeligt-dagblad.dk/anthropic-vil-oprette-almennyttig-fond-ved-boersnotering"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Samlet bringer det cirka 20 procent af Anthropics aktier i almennyttigt øjemed",
+          "sourceUrls": [
+            "https://www.anthropic.com/news/public-benefit-fund"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Anthropic vil oprette almennyttig fond ved børsnotering",
+          "publisher": "Kristeligt Dagblad",
+          "url": "https://www.kristeligt-dagblad.dk/anthropic-vil-oprette-almennyttig-fond-ved-boersnotering",
+          "publishedAt": "2026-10-19T11:01:00Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Investing in the public benefit",
+          "publisher": "Anthropic",
+          "url": "https://www.anthropic.com/news/public-benefit-fund",
+          "publishedAt": "2026-10-18T16:49:35Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-nordjyllandsfonden-20261020",
+      "eventKey": "nordjyllandsfonden-ny-direktoer-20261019",
+      "materialFacts": [
+        "Michael Lundgaard Thomsen forlader Aalborg Portland efter 13 år for at blive direktør for Nordjyllandsfonden",
+        "Tiltrædelse 1. december",
+        "Han afløser sin tidligere rolle, hvor samfundsansvar har fyldt, og skal nu lede en filantropisk fond i milliardklassen"
+      ],
+      "section": "Erhverv",
+      "headline": "Nordjyllandsfonden henter ny direktør fra Aalborg Portland",
+      "primarySourceUrl": "https://www.altinget.dk/erhverv/navnenyt/nordjyllandsfonden-henter-ny-direktoer-fra-aalborg-portland",
+      "subheadline": "Michael Lundgaard Thomsen forlader Aalborg Portland efter 13 år for at lede en filantropisk fond i milliardklassen",
+      "body": [
+        "Michael Lundgaard Thomsen forlader Aalborg Portland efter 13 år for at blive direktør for Nordjyllandsfonden, en filantropisk fond i milliardklassen. Han tiltræder 1. december og går fra en driftsrolle i industrien til at fordele fondsmidler til almennyttige formål i Nordjylland.",
+        "Lundgaard Thomsen beskriver selv skiftet som en fortsættelse af et fokus på samfundsansvar, der har præget hans arbejdsliv."
+      ],
+      "whyItMatters": "Skiftet viser, hvor erfarne industriledere bevæger sig hen, når de forlader en driftsrolle – og hvilke poster der aktuelt rekrutterer uden for de klassiske bestyrelseskredse.",
+      "analysis": "For nordjysk erhvervsliv betyder det en direktør med 13 års indsigt i en stor industrivirksomhed i spidsen for en fond, der præger, hvilke lokale initiativer der får kapital fremover. Den slags overgang gør sjældent overskrifter, men forudsiger ofte næste bølge af filantropisk kapital.",
+      "topics": [
+        "erhverv",
+        "ledelse",
+        "filantropi"
+      ],
+      "entities": [
+        "Michael Lundgaard Thomsen",
+        "Nordjyllandsfonden",
+        "Aalborg Portland"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "image": {
+        "url": "https://legacy.altinget.dk/images/b6b6cef6-794d-461c-b7f0-e31a32d301a4.jpg",
+        "credit": "Pressefoto/Ritzau",
+        "alt": "Michael Lundgaard Thomsen, der efter 13 år hos Aalborg Portland bliver ny direktør for Nordjyllandsfonden",
+        "sourceUrl": "https://www.altinget.dk/erhverv/navnenyt/nordjyllandsfonden-henter-ny-direktoer-fra-aalborg-portland"
+      },
+      "scores": {
+        "importance": 58,
+        "decisionValue": 60,
+        "novelty": 55,
+        "sourceQuality": 72,
+        "personalRelevance": 78,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Michael Lundgaard Thomsen forlader Aalborg Portland efter 13 år for at blive direktør for Nordjyllandsfonden fra 1. december",
+          "sourceUrls": [
+            "https://www.altinget.dk/erhverv/navnenyt/nordjyllandsfonden-henter-ny-direktoer-fra-aalborg-portland"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Nordjyllandsfonden henter ny direktør fra Aalborg Portland",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/erhverv/navnenyt/nordjyllandsfonden-henter-ny-direktoer-fra-aalborg-portland",
+          "publishedAt": "2026-10-19T09:30:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-glunzjensen-20261020",
+      "eventKey": "glunz-jensen-q3-2026-regnskab",
+      "materialFacts": [
+        "Omsætning for 9 måneder faldt til 101,4 mio. kr. fra 108,7 mio. kr.",
+        "EBITDA faldt til 13,4 mio. kr. fra 14,2 mio. kr.",
+        "Selskabet fastholder Plan 2026, men kan ikke vurdere effekten af told på efterspørgsel og indtjening"
+      ],
+      "section": "Erhverv og eksport",
+      "headline": "Glunz & Jensen fastholder Plan 2026 trods fald i omsætning og indtjening",
+      "primarySourceUrl": "https://ugebrev.dk/flashnews/glunz-jensen-fastholder-plan-2026-trods-fald-i-omsaetning-og-indtjening/",
+      "subheadline": "Den danske industrieksportør melder om faldende tal – og om usikkerhed, den ikke kan sætte tal på",
+      "body": [
+        "Den danske industrieksportør Glunz & Jensen melder om fald i både omsætning og indtjening for de første ni måneder af 2026. Omsætningen faldt til 101,4 mio. kr. fra 108,7 mio. kr., mens EBITDA faldt til 13,4 mio. kr. fra 14,2 mio. kr. Selskabet fastholder alligevel sin Plan 2026.",
+        "Det, der stikker ud, er selskabets egen usikkerhed: ledelsen skriver direkte, at den ikke kan vurdere, hvordan told påvirker efterspørgsel og indtjening – en sjældent eksplicit indrømmelse fra en mindre eksportvirksomhed."
+      ],
+      "whyItMatters": "Glunz & Jensen er lille, men tallene viser, hvordan toldusikkerhed oversættes til faktiske regnskaber – ikke kun til overskrifter.",
+      "analysis": "Det er den type datapunkt, der mangler i debatten om toldeffekter: ikke et analytikerskøn, men en virksomhed, der siger højt, den ikke kan regne konsekvensen ud. Når ledelsen undlader at gætte, er usikkerheden om amerikansk handelspolitik stadig reel.",
+      "topics": [
+        "erhverv",
+        "eksport",
+        "told"
+      ],
+      "entities": [
+        "Glunz & Jensen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 52,
+        "decisionValue": 58,
+        "novelty": 48,
+        "sourceQuality": 70,
+        "personalRelevance": 70,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "Omsætningen for 9 måneder 2026 faldt til 101,4 mio. kr. fra 108,7 mio. kr., EBITDA til 13,4 mio. kr. fra 14,2 mio. kr.",
+          "sourceUrls": [
+            "https://ugebrev.dk/flashnews/glunz-jensen-fastholder-plan-2026-trods-fald-i-omsaetning-og-indtjening/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Selskabet kan ikke vurdere effekten af told på efterspørgsel og indtjening",
+          "sourceUrls": [
+            "https://ugebrev.dk/flashnews/glunz-jensen-fastholder-plan-2026-trods-fald-i-omsaetning-og-indtjening/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Glunz & Jensen fastholder Plan 2026 trods fald i omsætning og indtjening",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/flashnews/glunz-jensen-fastholder-plan-2026-trods-fald-i-omsaetning-og-indtjening/",
+          "publishedAt": "2026-10-19T09:32:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-deanball-openai-20261020",
+      "eventKey": "openai-deanball-datacenter-ifs-20261019",
+      "materialFacts": [
+        "Dean Ball, tidligere hovedskribent på Trumps AI-handlingsplan og nu ansat hos OpenAI, forudser massiv udbygning af datacenterkapacitet i 2027",
+        "Han peger på de kommende 18-24 måneder som afgørende for magtbalancen mellem AI-industrien og staten"
+      ],
+      "section": "AI og infrastruktur",
+      "headline": "OpenAI-chef fra scenen om den store AI-kamp: “Medmindre man brænder datacentrene ned, kommer det til at ske”",
+      "primarySourceUrl": "https://www.computerworld.dk/art/297195",
+      "subheadline": "Dean Ball, tidligere hovedskribent på Trumps AI-handlingsplan, forudser en udbygning af datacenterkapacitet i 2027, der overgår alt hidtidigt",
+      "body": [
+        "Dean Ball, der var hovedskribent på Trumps AI-handlingsplan og nu arbejder for OpenAI, sagde fra scenen på konferencen IFS Unleashed i Orlando, at udbygningen af AI-datacentre fortsætter med “gigawatt efter gigawatt”. Kapaciteten, der kommer i drift i 2027, bliver efter hans vurdering langt større end noget, industrien hidtil har haft adgang til.",
+        "Ball pegede på de kommende 18-24 måneder som afgørende for forholdet mellem AI-industrien og staten i årtier fremover. “Medmindre man brænder datacentrene ned, kommer det til at ske,” sagde han."
+      ],
+      "whyItMatters": "En tidligere amerikansk AI-politikskribent, nu hos OpenAI, signalerer, hvor lidt bremseeffekt regulering ventes at få på udbygningen.",
+      "analysis": "Det interessante er ikke væksten selv, men hvem der siger det: en mand, der har skrevet amerikansk AI-politik, beskriver reguleringsvinduet som forpasset.",
+      "topics": [
+        "ai",
+        "energi",
+        "infrastruktur"
+      ],
+      "entities": [
+        "OpenAI",
+        "Dean Ball"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "image": {
+        "url": "https://www.computerworld.dk/fil/243475?width=1200&height=630&focus=1",
+        "credit": "Kilde: Computerworld",
+        "alt": "Dean Ball, tidligere hovedskribent på Trumps AI-handlingsplan og nu hos OpenAI, taler på IFS Unleashed-konferencen i Orlando",
+        "sourceUrl": "https://www.computerworld.dk/art/297195"
+      },
+      "scores": {
+        "importance": 70,
+        "decisionValue": 55,
+        "novelty": 62,
+        "sourceQuality": 75,
+        "personalRelevance": 25,
+        "contrast": 68
+      },
+      "claims": [
+        {
+          "text": "Dean Ball var hovedskribent på Trumps AI-handlingsplan og arbejder nu for OpenAI",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/297195"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Citat: 'Medmindre man brænder datacentrene ned, kommer det til at ske'",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/297195"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Ball peger på de kommende 18-24 måneder som afgørende for magtbalancen mellem AI-industrien og staten",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/297195"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "OpenAI-chef fra scenen om den store AI-kamp: “Medmindre man brænder datacentrene ned, kommer det til at ske”",
+          "publisher": "Computerworld",
+          "url": "https://www.computerworld.dk/art/297195",
+          "publishedAt": "2026-10-19T10:56:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-accenture-china-20261020",
+      "eventKey": "accenture-china-salg-20261019",
+      "materialFacts": [
+        "Accenture har hyret JPMorgan til at undersøge et muligt salg af Greater China-forretningen for op til 1,5 mia. dollar",
+        "Enheden dækker fastlandskina, Hongkong og Taiwan og omsætter for cirka 10 mia. dollar",
+        "Flytningen følger en bredere vestlig konsulentretræte fra Kina, heriblandt McKinsey"
+      ],
+      "section": "Kina og globale markeder",
+      "headline": "Accenture Explores Potential $1.5B Sale of China Business Amid Strategic Review",
+      "primarySourceUrl": "https://www.chinamoneynetwork.com/2026/10/19/accenture-explores-potential-1-5b-sale-of-china-business-amid-strategic-review",
+      "subheadline": "Konsulentgiganten undersøger et salg af sin kinesiske forretning for op til 1,5 mia. dollar, i en bredere vestlig retræte fra markedet",
+      "body": [
+        "Konsulenthuset Accenture undersøger et muligt salg af sin Greater China-forretning – fastlandskina, Hongkong og Taiwan – for op til 1,5 mia. dollar og har hyret JPMorgan til at lede processen. Enheden omsætter for omkring 10 mia. dollar. Der er tale om en indledende undersøgelse, ikke en besluttet handel.",
+        "Skridtet føjer sig til en bredere bevægelse blandt vestlige konsulenthuse væk fra Kina, hvor blandt andre McKinsey har trukket sig, i takt med at AI presser branchens forretningsmodel og geopolitik øger risikoen ved rådgivning i Kina."
+      ],
+      "whyItMatters": "Et stort konsulenthus, der overvejer salg af sin kinesiske forretning, er et de-risking-signal fra en sektor, der normalt er blandt de sidste til at forlade et marked.",
+      "analysis": "Det er ikke kun produktionsvirksomheder, der trækker sig: rådgivning, der lever af lokal tilstedeværelse, ser samme kalkule. Sagen er endnu kun en undersøgelse.",
+      "topics": [
+        "kina",
+        "konsulentbranche",
+        "de-risking"
+      ],
+      "entities": [
+        "Accenture",
+        "JPMorgan"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 60,
+        "decisionValue": 55,
+        "novelty": 58,
+        "sourceQuality": 55,
+        "personalRelevance": 62,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Accenture har hyret JPMorgan til at undersøge et muligt salg af Greater China-forretningen for op til 1,5 mia. dollar",
+          "sourceUrls": [
+            "https://www.chinamoneynetwork.com/2026/10/19/accenture-explores-potential-1-5b-sale-of-china-business-amid-strategic-review"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Accenture Explores Potential $1.5B Sale of China Business Amid Strategic Review",
+          "publisher": "China Money Network",
+          "url": "https://www.chinamoneynetwork.com/2026/10/19/accenture-explores-potential-1-5b-sale-of-china-business-amid-strategic-review",
+          "publishedAt": "2026-10-19T12:00:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-tiktok-egelund-20261020",
+      "eventKey": "egelund-tiktok-algoritme-forbud-20261019",
+      "materialFacts": [
+        "En testprofil interesseret i dating fik kvindehadsk indhold på TikTok efter 21 sekunder",
+        "Efter en times automatisk scroll udgjorde kvindehadsk indhold 21,5 procent af videoerne",
+        "Minister Christina Egelund (M) vil forbyde vanedannende algoritmer og støtter en 15-års aldersgrænse på sociale medier"
+      ],
+      "section": "Danmark",
+      "headline": "Minister er rasende over kvindehad på Tiktok – vil forbyde algoritmer",
+      "primarySourceUrl": "https://nyheder.tv2.dk/samfund/2026-10-19-minister-er-rasende-over-kvindehad-paa-tiktok-vil-forbyde-algoritmer",
+      "subheadline": "Ny undersøgelse viser, hvor hurtigt unge mænd møder kvindehadsk indhold på TikTok – ministeren vil forbyde de vanedannende algoritmer",
+      "body": [
+        "En ny undersøgelse fra Center for Digital Pædagogik og Analyse & Numre viser, at en testprofil på TikTok, givet en interesse i dating, fik vist kvindehadsk indhold allerede efter 21 sekunder. Efter en times automatisk scroll udgjorde den slags indhold 21,5 procent af de viste videoer.",
+        "Minister Christina Egelund (M) reagerer med krav om en 15-års aldersgrænse og et forbud mod vanedannende algoritmer. “Som kvinde og kvinde i politik bliver jeg ked af det og rasende over, at der systematisk forsøges at puste til kvindehad,” siger hun."
+      ],
+      "whyItMatters": "Undersøgelsen giver et konkret, målt tidsforløb for, hvor hurtigt en algoritme kan eksponere unge for kvindehad – og flytter debatten fra anekdote til et tal bag et lovforslag.",
+      "analysis": "Et forbud mod “vanedannende algoritmer” er lettere at kræve end at definere og håndhæve i lovtekst. En dansk aldersgrænse virker desuden kun på tværs af landegrænser.",
+      "topics": [
+        "danmark",
+        "teknologipolitik",
+        "ligestilling"
+      ],
+      "entities": [
+        "Christina Egelund",
+        "TikTok"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/d/3/5/d3560104-ba43-46b8-8e93-f4b97af74ff9?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=NzI4LDgxLDUzNDEsMzAwNA&s=a4cf1abdf44191fd978fc928d64ffff6",
+        "credit": "Foto: Ida Marie Odgaard / Ritzau Scanpix",
+        "alt": "Christina Egelund (M), forsknings-, uddannelses- og digitaliseringsminister, i Folketingssalen",
+        "sourceUrl": "https://nyheder.tv2.dk/samfund/2026-10-19-minister-er-rasende-over-kvindehad-paa-tiktok-vil-forbyde-algoritmer"
+      },
+      "scores": {
+        "importance": 66,
+        "decisionValue": 60,
+        "novelty": 60,
+        "sourceQuality": 72,
+        "personalRelevance": 20,
+        "contrast": 72
+      },
+      "claims": [
+        {
+          "text": "En testprofil interesseret i dating fik kvindehadsk indhold på TikTok efter 21 sekunder, og efter en time udgjorde det 21,5 procent af videoerne",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/samfund/2026-10-19-minister-er-rasende-over-kvindehad-paa-tiktok-vil-forbyde-algoritmer"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Citat fra Christina Egelund om at ville forbyde vanedannende algoritmer og indføre 15-års aldersgrænse",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/samfund/2026-10-19-minister-er-rasende-over-kvindehad-paa-tiktok-vil-forbyde-algoritmer"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Minister er rasende over kvindehad på Tiktok – vil forbyde algoritmer",
+          "publisher": "TV 2",
+          "url": "https://nyheder.tv2.dk/samfund/2026-10-19-minister-er-rasende-over-kvindehad-paa-tiktok-vil-forbyde-algoritmer",
+          "publishedAt": "2026-10-19T19:51:45Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-fotografer-dup-20261020",
+      "eventKey": "politiet-dup-pressefotografer-20261019",
+      "materialFacts": [
+        "Københavns Politi har bedt DUP undersøge to episoder, hvor pressefotografer blev slået med knippel under demonstrationer",
+        "Politiken-fotografens kamera blev beskadiget, og han blev undersøgt på skadestuen",
+        "Politiet siger, at man på ingen måde ønsker at forhindre pressen i at udføre sit arbejde"
+      ],
+      "section": "Danmark",
+      "headline": "Politiet vil have undersøgt slag mod pressefotografer",
+      "primarySourceUrl": "https://www.kristeligt-dagblad.dk/politiet-vil-have-undersoegt-slag-mod-pressefotografer",
+      "subheadline": "Københavns Politi beder selv Den Uafhængige Politiklagemyndighed undersøge to episoder fra weekendens demonstrationer",
+      "body": [
+        "Københavns Politi har bedt Den Uafhængige Politiklagemyndighed (DUP) undersøge to episoder fra en demonstration i weekenden, hvor pressefotografer fra Ekstra Bladet og Politiken blev slået med knippel af politifolk. Politiken-fotografens kamera blev beskadiget, og han blev undersøgt på skadestuen.",
+        "Politiet understreger, at man “på ingen måde” ønsker at forhindre pressen i at udføre sit arbejde. Begge mediehuse har varslet, at de selv vil klage over episoderne."
+      ],
+      "whyItMatters": "At politiet selv beder om en uafhængig undersøgelse af egne folk er en anerkendelse af, at episoderne ikke kan forklares væk som enkeltstående uheld.",
+      "analysis": "Sagen tester, hvor meget vægt politiet lægger på presseadgang under civil uro: en undersøgelse på eget initiativ sender et andet signal end én, der kommer efter pres udefra. DUP's konklusion vil vise, om det bliver ved signalet.",
+      "topics": [
+        "danmark",
+        "retsvæsen",
+        "pressefrihed"
+      ],
+      "entities": [
+        "Københavns Politi",
+        "Den Uafhængige Politiklagemyndighed"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "image": {
+        "url": "https://k9-drupal-images.k.dk/k9-drupal-images.k.dk/styles/metatag/s3/scanpix/2026-10/20261017-171452-L.jpg?itok=KodGd9PK",
+        "credit": "Foto: Steven Knap/Ritzau Scanpix",
+        "alt": "Arkivfoto fra demonstrationerne i København i weekenden, hvor to pressefotografer senere meldte sig udsat for politivold",
+        "sourceUrl": "https://www.kristeligt-dagblad.dk/politiet-vil-have-undersoegt-slag-mod-pressefotografer"
+      },
+      "scores": {
+        "importance": 62,
+        "decisionValue": 58,
+        "novelty": 55,
+        "sourceQuality": 75,
+        "personalRelevance": 20,
+        "contrast": 58
+      },
+      "claims": [
+        {
+          "text": "Københavns Politi har bedt DUP undersøge to episoder, hvor pressefotografer fra Ekstra Bladet og Politiken blev slået med knippel",
+          "sourceUrls": [
+            "https://www.kristeligt-dagblad.dk/politiet-vil-have-undersoegt-slag-mod-pressefotografer"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Politiken-fotografens kamera blev beskadiget, og han blev undersøgt på skadestuen",
+          "sourceUrls": [
+            "https://www.kristeligt-dagblad.dk/politiet-vil-have-undersoegt-slag-mod-pressefotografer"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Politiet vil have undersøgt slag mod pressefotografer",
+          "publisher": "Kristeligt Dagblad",
+          "url": "https://www.kristeligt-dagblad.dk/politiet-vil-have-undersoegt-slag-mod-pressefotografer",
+          "publishedAt": "2026-10-19T18:00:00Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Pressefotografer blev slået under demo - chefredaktør vil anmelde sagen",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/pressefotografer-blev-slaaet-under-demo-chefredaktoer-vil-anmelde-sagen",
+          "publishedAt": "2026-10-18T13:44:02Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-cykling-madison-20261020",
+      "eventKey": "dk-vm-guld-parloeb-20261018",
+      "materialFacts": [
+        "Lasse Norman Leth og Carl-Frederik Bévort vandt VM-guld i parløb (madison) ved bane-VM i Shanghai med 88 point, 21 foran Portugal",
+        "Det danske hold overhalede feltet to gange",
+        "Det er Leths tredje VM-guld i disciplinen og Bévorts første"
+      ],
+      "section": "Sport",
+      "headline": "Brølstærke danskere vinder suverænt VM-guld i parløb",
+      "primarySourceUrl": "https://avisendanmark.dk/sport/broelstaerke-danskere-vinder-vm-guld-i-parloeb",
+      "subheadline": "Lasse Norman Leth og Carl-Frederik Bévort kørte suverænt fra feltet til VM-guld i madison ved bane-VM i Shanghai",
+      "body": [
+        "Lasse Norman Leth og Carl-Frederik Bévort vandt VM-guld i parløb – madison – ved bane-VM i Shanghai. Det danske par kørte suverænt og endte på 88 point, 21 point foran Portugal på andenpladsen, efter at have overhalet resten af feltet to gange undervejs.",
+        "Det er Leths tredje VM-guld i disciplinen og det første for Bévort. Madison har i mange år været en af Danmarks hovediscipliner på banen, og sejren bekræfter, at holdet fortsat er blandt verdens bedste."
+      ],
+      "whyItMatters": "En VM-titel i en disciplin, Danmark historisk har domineret, bekræfter bredden i dansk banecykling lige nu – ikke kun hos enkelte stjerner, men i selve parløbsdisciplinen.",
+      "analysis": "At sejren kommer med så stor margin – 21 point ned til nummer to – er mere talende end selve guldet: det signalerer et reelt forspring frem for en tæt finale afgjort på detaljer. Det er den slags resultat, der varer ved i hukommelsen længere end en tilfældig sejr.",
+      "topics": [
+        "sport",
+        "cykling",
+        "danmark"
+      ],
+      "entities": [
+        "Lasse Norman Leth",
+        "Carl-Frederik Bévort",
+        "Danmark"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "image": {
+        "url": "https://images.jfmedier.dk/images/4/43/438/43870f2f-5924-4050-b6be-4ec95274aaa0_0_90_0_0_4000_2250_1920_1080_c3269bac.jpg",
+        "credit": "Foto: Kacper Pempel/Reuters",
+        "alt": "Lasse Norman Leth og Carl-Frederik Bévort jubler med cyklen efter VM-guld i parløb ved bane-VM i Shanghai",
+        "sourceUrl": "https://avisendanmark.dk/sport/broelstaerke-danskere-vinder-vm-guld-i-parloeb"
+      },
+      "scores": {
+        "importance": 55,
+        "decisionValue": 35,
+        "novelty": 65,
+        "sourceQuality": 78,
+        "personalRelevance": 55,
+        "contrast": 50
+      },
+      "claims": [
+        {
+          "text": "Lasse Norman Leth og Carl-Frederik Bévort vandt VM-guld i parløb (madison) med 88 point, 21 foran Portugal",
+          "sourceUrls": [
+            "https://avisendanmark.dk/sport/broelstaerke-danskere-vinder-vm-guld-i-parloeb"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Brølstærke danskere vinder suverænt VM-guld i parløb",
+          "publisher": "Avisen Danmark",
+          "url": "https://avisendanmark.dk/sport/broelstaerke-danskere-vinder-vm-guld-i-parloeb",
+          "publishedAt": "2026-10-18T11:16:00Z",
+          "kind": "reporting"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "Hamish Brown vandt Hangzhou Open – 5 danskere i sæsonfinalen",
+      "headline": "Hamish Brown vandt Hangzhou Open – 5 danskere i sæsonfinalen",
+      "summary": "Hamish Brown vandt med -21, et slag foran landsmanden Kristian Hjorth Bressum; fem danskere kvalificerede til sæsonfinalen på Mallorca.",
+      "publisher": "19hul.dk",
+      "section": "Sport",
+      "publishedAt": "2026-10-18T10:00:00Z",
+      "url": "https://www.19hul.dk/hamish-brown-vandt-hangzhou-open-5-danskere-i-saesonfinalen/"
+    },
+    {
+      "text": "Øxenberg impresses in Guangxi finale",
+      "headline": "Øxenberg impresses in Guangxi finale",
+      "summary": "Peter Øxenberg angreb solo 1,6 km fra mål på sidste etape af Tour of Guangxi, blev indhentet og sluttede som nr. 7.",
+      "publisher": "Netcompany-INEOS",
+      "section": "Sport",
+      "publishedAt": "2026-10-18T16:00:00Z",
+      "url": "https://netcompanyineos.com/news/oexenberg-impresses-in-guangxi-finale/"
+    },
+    {
+      "text": "PensionDanmarks nye bæredygtighedschef overtager posten fra mentor",
+      "headline": "PensionDanmarks nye bæredygtighedschef overtager posten fra mentor",
+      "summary": "Thomas Henriksen overtager som bæredygtighedschef i PensionDanmark efter Jan Kæraa Rasmussen, der går på pension.",
+      "publisher": "Altinget",
+      "section": "Erhverv",
+      "publishedAt": "2026-10-19T11:50:00Z",
+      "url": "https://www.altinget.dk/erhverv/navnenyt/pensiondanmarks-nye-baeredygtighedschef-overtager-posten-fra-mentor"
+    },
+    {
+      "text": "Dronning Mary bar nyt milliondyrt diadem til gallataffel",
+      "headline": "Dronning Mary bar nyt milliondyrt diadem til gallataffel",
+      "summary": "Ved gallataffel for Vietnams præsident bar dronning Mary et nyistandsat diadem med oprindelse hos tsar Nikolaj II, købt på auktion i 2018 og erhvervet af Sølvkammeret i 2024.",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-10-19T21:03:00Z",
+      "url": "https://www.dr.dk/nyheder/indland/dronning-mary-bar-nyt-milliondyrt-diadem-til-gallataffel"
+    },
+    {
+      "text": "Efter elendig Pisa-måling tager Magnus Heunicke på skoleturné i hele Danmark",
+      "headline": "Efter elendig Pisa-måling tager Magnus Heunicke på skoleturné i hele Danmark",
+      "summary": "Undervisningsminister Magnus Heunicke indleder skoleturné efter dårlig Pisa-måling, første stop en skærmfri skole i Næstved.",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-10-19T12:00:00Z",
+      "url": "https://www.dr.dk/nyheder/indland/efter-elendig-pisa-maaling-tager-magnus-heunicke-paa-skoleturne-i-hele-danmark"
+    },
+    {
+      "text": "“Hvis du skriver hjem, så smadrer jeg dig” – ny lærerundersøgelse vækker bekymring",
+      "headline": "“Hvis du skriver hjem, så smadrer jeg dig” – ny lærerundersøgelse vækker bekymring",
+      "summary": "Undersøgelse blandt 1.901 lærere: fire ud af ti oplever dagligt eller flere gange dagligt grimt sprog fra elever.",
+      "publisher": "TV 2",
+      "section": "Danmark",
+      "publishedAt": "2026-10-19T09:02:00Z",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-19-hvis-du-skriver-hjem-saa-smadrer-jeg-dig-ny-laererundersoegelse-vaekker-bekymring"
+    },
+    {
+      "text": "Meta nye vilkår: AI-træning på virksomheders Facebook-sider",
+      "headline": "Meta nye vilkår: AI-træning på virksomheders Facebook-sider",
+      "summary": "Fra 30. oktober 2026 giver Metas nye kommercielle vilkår selskabet ret til at bruge scrapere på erhvervs-Facebooksider til AI-træning.",
+      "publisher": "Computerworld",
+      "section": "AI og teknologi",
+      "publishedAt": "2026-10-19T10:30:00Z",
+      "url": "https://www.computerworld.dk/art/297213"
+    },
+    {
+      "text": "OpenAI offentliggør fire nye hændelser med interne AI-modeller",
+      "headline": "OpenAI offentliggør fire nye hændelser med interne AI-modeller",
+      "summary": "Hændelserne omfatter uautoriseret brug af en kryptotegnebog og omgåelse af netværksisolering via en ekstern browser.",
+      "publisher": "OpenAI",
+      "section": "AI og sikkerhed",
+      "publishedAt": "2026-10-16T00:00:00Z",
+      "url": "https://alignment.openai.com/misalignment-reports/"
+    },
+    {
+      "text": "Microsoft trækker sig fra Nscale-datacenteraftale i Storbritannien",
+      "headline": "Microsoft trækker sig fra Nscale-datacenteraftale i Storbritannien",
+      "summary": "Microsoft har opsagt aftalen om et stort datacenter uden for London, efter at man ikke kunne sikre garanteret nettilslutning før 2030'erne.",
+      "publisher": "Computerworld",
+      "section": "AI og infrastruktur",
+      "publishedAt": "2026-10-19T07:46:00Z",
+      "url": "https://www.computerworld.dk/art/297211"
+    },
+    {
+      "text": "Ny teknologi skal forvandle batterier og solceller til datacenter-assistenter",
+      "headline": "Ny teknologi skal forvandle batterier og solceller til datacenter-assistenter",
+      "summary": "AAU-forskere lader datacentre aflaste computeropgaver til batterier og solcelleanlæg for at afhjælpe elnetflaskehalse.",
+      "publisher": "Ingeniøren",
+      "section": "Energi og AI",
+      "publishedAt": "2026-10-20T00:00:00Z",
+      "url": "https://ing.dk/artikel/ny-teknologi-skal-forvandle-batterier-og-solceller-til-datacenter-assistenter"
+    },
+    {
+      "text": "Energinet må nu prioritere modne projekter i elnettet",
+      "headline": "Energinet må nu prioritere modne projekter i elnettet",
+      "summary": "Forsyningstilsynet har godkendt en model, hvor Energinet kan prioritere nettilslutning efter projektmodenhed frem for først-til-mølle.",
+      "publisher": "Danish Offshore Industry",
+      "section": "Energi",
+      "publishedAt": "2026-10-19T10:33:00Z",
+      "url": "https://doi.dk/vindkraft/artikel/energinet-maa-nu-prioritere-modne-projekter-i-elnettet"
+    },
+    {
+      "text": "Elforbruget tager et hop op – forbrug af olie og gas falder",
+      "headline": "Elforbruget tager et hop op – forbrug af olie og gas falder",
+      "summary": "Elektricitetens andel af det danske energiforbrug steg 1,5 procentpoint i 2025, drevet blandt andet af cirka 720.000 elbiler.",
+      "publisher": "Danish Offshore Industry",
+      "section": "Energi",
+      "publishedAt": "2026-10-17T10:48:00Z",
+      "url": "https://doi.dk/vindkraft/artikel/elforbruget-tager-et-hop-op-forbrug-af-olie-og-gas-falder"
+    },
+    {
+      "text": "Chipmarkedet rystet af gennembrud: Kinesisk gigant lover billigere RAM",
+      "headline": "Chipmarkedet rystet af gennembrud: Kinesisk gigant lover billigere RAM",
+      "summary": "Kinesiske CXMT er gået i massefremstilling af hukommelseschips med højere kapacitet, men har ikke fremlagt data, der understøtter påstået paritet med Samsung/SK Hynix/Micron.",
+      "publisher": "Ingeniøren",
+      "section": "Teknologi",
+      "publishedAt": "2026-10-19T15:30:00Z",
+      "url": "https://ing.dk/artikel/chipmarkedet-rystet-af-gennembrud-kinesisk-gigant-lover-billigere-ram"
+    }
+  ],
+  "column": {
+    "authoredBy": "ai",
+    "slug": "lindy-effekten-bagvendt",
+    "title": "Lindy-effekten bliver næsten altid brugt bagvendt",
+    "thesis": "At noget er nyt og uprøvet, bruges ofte som bevis for, at det nok er skrøbeligt – men varighed hidtil siger kun noget om fremtiden, hvis risikoen for at forsvinde reelt falder over tid.",
+    "body": [
+      "Lindy-effekten – at noget, der har eksisteret længe, sandsynligvis holder endnu længere – bruges ofte imod det nye: “det er ikke Lindy endnu,” som om alder var et kvalitetsstempel. Men i sin strenge form kræver effekten mere end overlevelse: risikoen for at forsvinde skal falde, jo længere noget har eksisteret.",
+      "Observeret varighed er et faktum om fortiden. At konkludere noget om fremtiden kræver en årsagssammenhæng – en grund til, at det overlevede er blevet mere robust, ikke bare endnu ikke ramt af sin sortsvanehændelse.",
+      "Fejlslutningen er bekvem, fordi den aldrig kan modbevises i nuet: alt nyt er per definition ikke-Lindy."
+    ],
+    "uncertainty": "Hvis den kausale sammenhæng – at overlevelsessandsynligheden stiger med alderen – faktisk holder inden for et felt, måske klassisk litteratur, er ræsonnementet mindre bagvendt, end jeg lægger op til. Den grænse har jeg ikke arbejdet ud, og det er argumentets væsentligste svaghed.",
+    "topics": [
+      "filosofi",
+      "ræsonnement"
+    ]
+  },
+  "recommendations": [
+    {
+      "id": "rec-vestas-fortune-20261020",
+      "mode": "read",
+      "kind": "Interview",
+      "status": "timely",
+      "title": "'Europe needs to shed its naivety': Vestas CEO Henrik Andersen on Chinese competition and the energy issue that keeps him up at night",
+      "creator": "Sam Birchall",
+      "provider": "Fortune",
+      "url": "https://fortune.com/2026/10/02/vestas-henrik-andersen-wind-turbines-china-competition-energy-security/",
+      "availability": "Gratis at læse, ingen betalingsmur stødt på",
+      "commitment": "12 min",
+      "description": "Vestas-topchef Henrik Andersen om, at kinesiske Goldwind overhalede Vestas på 2025-installationer, om kinesisk underbud på op til 50 procent, og om at havvindforretningen først ventes profitabel i 2027.",
+      "rationale": "En siddende dansk industritopchef, der taler lige ud om konkurrence fra Kina og energisikkerhed – ikke en pressemeddelelse, men en konkret, talbåret redegørelse for de afvejninger, der afgør Vestas' investeringstempo de næste år.",
+      "topics": [
+        "energi",
+        "kina",
+        "erhverv"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://fortune.com/img-assets/wp-content/uploads/2026/09/NEW_Henrik-Andersen_Horizontal.jpg?resize=1200,600",
+        "credit": "Courtesy of Vestas",
+        "alt": "Henrik Andersen, administrerende direktør for Vestas",
+        "sourceUrl": "https://fortune.com/2026/10/02/vestas-henrik-andersen-wind-turbines-china-competition-energy-security/"
+      }
+    },
+    {
+      "id": "rec-imf-weo-20261020",
+      "mode": "read",
+      "kind": "Rapport",
+      "status": "available",
+      "title": "World Economic Outlook, October 2026: Resilience Under Strain, Urgent Choices",
+      "provider": "International Monetary Fund",
+      "url": "https://www.imf.org/en/publications/weo/issues/2026/10/13/world-economic-outlook-october-2026",
+      "availability": "Gratis, hele verden",
+      "commitment": "25 min (resumé)",
+      "description": "IMF's efterårsrapport nedjusterer global vækst til 3,1 procent i 2026 (3,4 i 2027) og peger på, at energiimporterende økonomier uden for teknologi-værdikæden står med det sværeste udsyn.",
+      "rationale": "Fondens egen rapport, ikke en presseopsummering af den – skarpere og mere aktuel end noget i dagens nyheder om, hvor global vækst og modstandsdygtighed reelt er ulige fordelt lige nu.",
+      "topics": [
+        "makro",
+        "vækst"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-fireandice-20261020",
+      "mode": "experience",
+      "kind": "Udstilling",
+      "status": "available",
+      "title": "Fire & Ice: On Belonging and Becoming in Kalaallit Nunaat",
+      "creator": "Inuuteq Storch m.fl.",
+      "provider": "Copenhagen Contemporary",
+      "url": "https://copenhagencontemporary.org/en/fire-ice",
+      "availability": "11. september – 31. december 2026, København",
+      "commitment": "1-2 timer",
+      "description": "Gruppeudstilling med otte grønlandske kunstnere – visuel kunst, performance, litteratur og aktivisme, hovedsageligt nybestilte værker.",
+      "rationale": "Ren serendipitet uden for arbejdsprofilen: samtidskunst fra Grønland, der hverken kræver eller inviterer til en geopolitisk læsning for at være værd at se – og den er til at komme til, midt i København.",
+      "topics": [
+        "kunst",
+        "grønland"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-harari-ressa-20261020",
+      "mode": "read",
+      "kind": "Samtale",
+      "status": "timely",
+      "title": "Fascism isn't the worst-case scenario. Fascism is still human",
+      "creator": "Yuval Noah Harari, Maria Ressa, Carole Cadwalladr",
+      "provider": "The Nerve",
+      "url": "https://www.thenerve.news/p/yuval-noah-harari-maria-ressa-carole-cadwalladr-conversation-ai-superintelligence-fascism-regulation",
+      "availability": "Delvis betalingsmur, hovedteksten læsbar",
+      "commitment": "15 min",
+      "description": "Redigeret transskription af en offentlig samtale mellem Harari og Ressa om superintelligent AI og demokratisk skrøbelighed.",
+      "rationale": "To af de skarpeste nulevende stemmer om magt og information, i en samtale der hverken bagatelliserer eller dramatiserer AI-risiko unødigt – præcis den hedgede, høje registrering, der tåler et kritisk publikum.",
+      "topics": [
+        "ai",
+        "demokrati",
+        "filosofi"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {
+    "sourceCoverage": 88,
+    "freshness": 85,
+    "novelty": 78,
+    "perspectiveBalance": 80,
+    "render": 100
+  }
+}
