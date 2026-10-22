@@ -1,0 +1,699 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-20261022-full",
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-22T04:21:23Z",
+  "readingMinutes": 11,
+  "title": "Thomas' Nyheder",
+  "dek": "Torsdag den 22. oktober 2026: En ti år gammel PHP-sårbarhed lukker DMI og Aula ned og får Dansk Industri på banen, USA og Rusland taler diesel og fred uden Ukraine ved bordet, og Lego-familiens skovprojekt bøjer sig for jordpriserne.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-php-di-20261022",
+      "eventKey": "php-kritisk-saarbarhed-di-advarsel",
+      "materialFacts": [
+        "To PHP-sårbarheder (CVE-2026-109618, CVE-2026-109619), begge CVSS 9,2, muliggør remote code execution",
+        "Sårbarhederne har ligget skjult i over ti år og blev fundet med kunstig intelligens",
+        "DMI og Kombit (Aula) lukkede ned for digitale løsninger onsdag",
+        "DI's Jeppe Engell kræver øjeblikkelig opdatering af alle virksomheder og myndigheder med PHP"
+      ],
+      "section": "Erhverv",
+      "headline": "Dansk Industri advarer om alvorlige sikkerhedshuller på hjemmesider",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/dansk-industri-advarer-om-alvorlige-sikkerhedshuller-paa-hjemmesider",
+      "subheadline": "To PHP-sårbarheder med CVSS-score 9,2 har lukket DMI og skolesystemet Aula ned og får Dansk Industris cybersikkerhedsekspert til at kræve øjeblikkelig handling",
+      "body": [
+        "To kritiske sårbarheder i PHP – CVE-2026-109618 og CVE-2026-109619, begge CVSS 9,2 – gør det muligt for hackere at overtage servere, stjæle data eller ændre hjemmesider. Ifølge Dansk Industri har hullerne ligget skjult i over ti år og blev først fundet, da sårbarhedsjægere brugte kunstig intelligens til at gennemgå PHP-koden.",
+        "Onsdag lukkede DMI og kommunernes it-fællesskab Kombit ned for digitale løsninger, herunder skoleplatformen Aula, af frygt for sårbarhederne. »Alle virksomheder og myndigheder med PHP-løsninger på internettet [skal] opdatere nu. Ikke i morgen,« siger DI's cybersikkerhedsekspert, Jeppe Engell, til Ritzau."
+      ],
+      "whyItMatters": "PHP driver store dele af verdens hjemmesider og portaler, og en uopdateret server kan give en hacker fuld kontrol. Ansvaret for at opdatere ligger hos virksomhederne selv, med det samme.",
+      "analysis": "At sårbarheden har ligget skjult i et årti og først nu er fundet med AI-værktøjer, er et varsel om, at samme teknologi både øger og afslører risiko i software, virksomheder har brugt i årevis uden at tænke over det. Beredskabsministeriet følger situationen, men det er virksomhedernes egne it-afdelinger, der afgør, om ugen bliver en fodnote eller et nedbrud.",
+      "topics": [
+        "erhverv",
+        "it-sikkerhed",
+        "dansk-industri"
+      ],
+      "entities": [
+        "Dansk Industri",
+        "Jeppe Engell",
+        "DMI",
+        "Kombit",
+        "Aula"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 82,
+        "decisionValue": 70,
+        "novelty": 75,
+        "sourceQuality": 85,
+        "personalRelevance": 70,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "To PHP-sårbarheder (CVE-2026-109618, CVE-2026-109619) har CVSS-score 9,2 og muliggør remote code execution.",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/297254/kritisk-php-fejl-sender-hjemmesider-over-hele-verden-i-sort-du-skal-opdatere-oejeblikkeligt"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "DMI og Kombit (Aula) lukkede ned for digitale løsninger som følge af sårbarhederne.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/dansk-industri-advarer-om-alvorlige-sikkerhedshuller-paa-hjemmesider"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Jeppe Engell (DI): 'alle virksomheder og myndigheder med PHP-løsninger på internettet [skal] opdatere nu. Ikke i morgen.'",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/dansk-industri-advarer-om-alvorlige-sikkerhedshuller-paa-hjemmesider"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Dansk Industri advarer om alvorlige sikkerhedshuller på hjemmesider",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/dansk-industri-advarer-om-alvorlige-sikkerhedshuller-paa-hjemmesider",
+          "publishedAt": "2026-10-21T15:33:39Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Kritisk PHP-fejl sender hjemmesider over hele verden i sort: Du skal opdatere øjeblikkeligt",
+          "publisher": "Computerworld",
+          "url": "https://www.computerworld.dk/art/297254/kritisk-php-fejl-sender-hjemmesider-over-hele-verden-i-sort-du-skal-opdatere-oejeblikkeligt",
+          "publishedAt": "2026-10-21T16:21:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/w5ontbjs/20261021-164811-l.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Foto: DR",
+        "alt": "Dansk Industris cybersikkerhedsekspert Jeppe Engell advarer om de kritiske PHP-sårbarheder",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/dansk-industri-advarer-om-alvorlige-sikkerhedshuller-paa-hjemmesider"
+      }
+    },
+    {
+      "id": "story-usrus-20261022",
+      "eventKey": "usa-rusland-fred-forretning-ukraine",
+      "materialFacts": [
+        "USA har ophævet sanktioner på russisk diesel-eksport, Rusland har ophævet sit eksportforbud",
+        "Putin har tilbudt øget russisk gødningseksport til USA",
+        "Witkoff fremlagde en fredsplan for Putin uden ukrainsk deltagelse i selve mødet",
+        "Putin har signaleret vilje til trepartsforhandlinger omkring 10. november, muligvis i Abu Dhabi"
+      ],
+      "section": "Udland",
+      "headline": "USA og Rusland taler fred og forretning: 'Ukraine risikerer at betale prisen'",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/usa-og-rusland-taler-fred-og-forretning-ukraine-risikerer-betale-prisen",
+      "subheadline": "USA har ophævet sanktioner på russisk diesel, og Putin tilbyder gødning til det amerikanske marked, mens en fredsaftale uden Ukraine ved bordet tegner sig",
+      "body": [
+        "Mens Trump og Putin søger en afslutning på krigen i Ukraine, taler de to lande også forretning. USA har ophævet sanktionerne på russisk diesel, Rusland har ophævet sit eksportforbud. »Præsidenten er dybt taknemmelig for det,« sagde USA's udsending, Steve Witkoff, til Putin i Sankt Petersborg onsdag.",
+        "Putin tilbød samtidig russisk gødning til det amerikanske marked. Witkoff fremlagde en fredsplan udviklet med Ukraine og Europa – men uden ukrainsk deltagelse i selve mødet. Putin afviste flere vilkår, men har signaleret vilje til trepartsforhandlinger omkring 10. november."
+      ],
+      "whyItMatters": "Seniorforsker Flemming Splidsboel Hansen, DIIS: Jo tættere USA og Rusland kommer, jo mindre vægt får ukrainske og europæiske interesser.",
+      "analysis": "For en europæisk erhvervsleder er det centrale ikke dieselhandlen, men præcedensen: USA forhandler sikkerhed og markedsadgang sammen med sanktioner, uden Europa ved bordet.",
+      "topics": [
+        "eu-us-forhold",
+        "geopolitik",
+        "sanktioner"
+      ],
+      "entities": [
+        "Donald Trump",
+        "Vladimir Putin",
+        "Steve Witkoff",
+        "Volodymyr Zelenskyj",
+        "Ukraine",
+        "Rusland"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 85,
+        "decisionValue": 60,
+        "novelty": 65,
+        "sourceQuality": 80,
+        "personalRelevance": 65,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "USA har ophævet sanktioner på russisk diesel-eksport; Rusland har ophævet sit eksportforbud.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/usa-og-rusland-taler-fred-og-forretning-ukraine-risikerer-betale-prisen"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Putin har signaleret vilje til trepartsforhandlinger omkring 10. november, muligvis i Abu Dhabi.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/usa-og-rusland-taler-fred-og-forretning-ukraine-risikerer-betale-prisen"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "USA og Rusland taler fred og forretning: 'Ukraine risikerer at betale prisen'",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/usa-og-rusland-taler-fred-og-forretning-ukraine-risikerer-betale-prisen",
+          "publishedAt": "2026-10-21T19:00:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/tugdmg2e/photo_collage-1.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Foto: © Cornelius Poppe, Kristina Solovyova & Brendan Smialowski/AFP/Reuters/NTB/Ritzau Scanpix",
+        "alt": "Fotocollage af Steve Witkoff, Vladimir Putin og Donald Trump under forhandlingerne om Ukraine",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/usa-og-rusland-taler-fred-og-forretning-ukraine-risikerer-betale-prisen"
+      }
+    },
+    {
+      "id": "story-skattelettelser-20261022",
+      "eventKey": "blaa-partier-skattelettelser-finanslov",
+      "materialFacts": [
+        "Regeringens skatteplan fjerner top-/mellemskat over 58.000 kr./md. og sænker selskabsskatten 3 procentpoint fra 2030",
+        "Fire blå partier kræver skattelettelse også under 58.000 kr./md., ellers stemmer de imod"
+      ],
+      "section": "Erhverv",
+      "headline": "Fire blå partier vil have skattelettelser til alle i regeringens plan",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/politik/fire-blaa-partier-vil-have-skattelettelser-til-alle-i-regeringens-plan",
+      "subheadline": "Venstre, Liberal Alliance, De Konservative og Danmarksdemokraterne kræver bredere skattelettelser, før de stemmer for regeringens plan – der i forvejen sænker selskabsskatten 3 procentpoint fra 2030",
+      "body": [
+        "Regeringens skatteplan fjerner top- og mellemskatten over 58.000 kr./md. og sænker selskabsskatten tre procentpoint fra 2030. Fire blå partier – Venstre, Liberal Alliance, De Konservative og Danmarksdemokraterne – kræver til ugens skatteforhandlinger, at også lønmodtagere under 58.000 kroner får en lettelse.",
+        "»Det er kun ret og rimeligt, at betjenten, butiksassistenten og elektrikeren også får en skattelettelse,« siger De Konservatives formand, Mona Juul. Venstres Troels Lund Poulsen bakker op om lavere selskabsskat, men kræver en lettelse til alle i arbejde. Uden opbakning stemmer ingen for planen."
+      ],
+      "whyItMatters": "Selskabsskattelettelsen rammer bundlinjen direkte – men er ikke sikret. Trækker det ud, risikerer planen at blive forsinket.",
+      "analysis": "Sagen varsler, hvor hård finanslovssæsonen bliver: Partierne bruger stemmerne som løftestang for lønmodtagere – selskabsskatten bliver gidsel for en anden diskussion.",
+      "topics": [
+        "dansk-erhvervsklima",
+        "skat",
+        "finanslov"
+      ],
+      "entities": [
+        "Venstre",
+        "Liberal Alliance",
+        "De Konservative",
+        "Danmarksdemokraterne",
+        "Mona Juul",
+        "Troels Lund Poulsen",
+        "Jakob Engel-Schmidt"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 68,
+        "decisionValue": 65,
+        "novelty": 55,
+        "sourceQuality": 75,
+        "personalRelevance": 75,
+        "contrast": 30
+      },
+      "claims": [
+        {
+          "text": "Regeringens skatteplan fjerner top- og mellemskat over 58.000 kr./md. og sænker selskabsskatten 3 procentpoint fra 2030.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/politik/fire-blaa-partier-vil-have-skattelettelser-til-alle-i-regeringens-plan"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Mona Juul (K): 'Det er kun ret og rimeligt, at betjenten, butiksassistenten, elektrikeren og alle andre med løn under 58.000 kroner også får en skattelettelse.'",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/politik/fire-blaa-partier-vil-have-skattelettelser-til-alle-i-regeringens-plan"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Fire blå partier vil have skattelettelser til alle i regeringens plan",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/politik/fire-blaa-partier-vil-have-skattelettelser-til-alle-i-regeringens-plan",
+          "publishedAt": "2026-10-20T18:56:55Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/ozggvkzu/20260902-154559-2_crop001.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Foto: © Linda Kastrup, Berlingske/Ritzau Scanpix",
+        "alt": "Arkivfoto fra Christiansborg, hvor fire blå partier kræver bredere skattelettelser i finanslovsforhandlingerne",
+        "sourceUrl": "https://www.dr.dk/nyheder/politik/fire-blaa-partier-vil-have-skattelettelser-til-alle-i-regeringens-plan"
+      }
+    },
+    {
+      "id": "story-stibosystems-20261022",
+      "eventKey": "stibo-systems-salg-medejer",
+      "materialFacts": [
+        "Stibo Holding søger en medejer til Stibo Systems (MDM-software), omsætning 1,3 mia. kr./år",
+        "Stibo Fonden fastholder kontrollerende ejerandel; kunder i ca. 40 lande"
+      ],
+      "section": "Erhverv",
+      "headline": "Sælger ud af den danske milliard-virksomhed Stibo Systems: Går på jagt efter interesserede købere",
+      "primarySourceUrl": "https://www.computerworld.dk/art/297242/saelger-ud-af-den-danske-milliard-virksomhed-stibo-systems-gaar-paa-jagt-efter-interesserede-koebere",
+      "subheadline": "Den aarhusianske Stibo-koncern søger en minoritetsmedejer til at finansiere international vækst i softwareselskabet Stibo Systems, der omsætter for 1,3 mia. kr. om året",
+      "body": [
+        "Stibo-koncernen i Aarhus vil frasælge en del af softwareselskabet Stibo Systems og søger en køber, der kan indtræde som medejer. Selskabet, der leverer data-håndteringssoftware (MDM), omsætter for 1,3 mia. kr. årligt og har kunder i ca. 40 lande. Det oplever ifølge Stibo sin største ordreindgang nogensinde.",
+        "Ejerselskabet Stibo Holding er eneejer og vil fortsat via Stibo Fonden beholde en bestemmende aktieandel, mens den nye medejer får en minoritetsandel. »En erfaren medejer vil kunne tilføre kapital, ekspertise og internationale forbindelser, der kan styrke væksten – organisk og gennem opkøb,« meddeler Stibo."
+      ],
+      "whyItMatters": "Salget følger af, at AI øger behovet for at styre egne data – netop det, selskabet sælger software til.",
+      "analysis": "At en familiefondsejet sektorleder søger ekstern kapital for at vokse internationalt, tyder på, at selv stærke nichevirksomheder vurderer organisk vækst for langsom i AI-æraen.",
+      "topics": [
+        "dansk-industri",
+        "virksomhedssalg",
+        "erhverv"
+      ],
+      "entities": [
+        "Stibo Systems",
+        "Stibo Fonden",
+        "Stibo Holding",
+        "Torben Brandt Munch"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 60,
+        "decisionValue": 70,
+        "novelty": 70,
+        "sourceQuality": 65,
+        "personalRelevance": 80,
+        "contrast": 25
+      },
+      "claims": [
+        {
+          "text": "Stibo Systems har en årlig omsætning på 1,3 mia. kr. og kunder i ca. 40 lande.",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/297242/saelger-ud-af-den-danske-milliard-virksomhed-stibo-systems-gaar-paa-jagt-efter-interesserede-koebere"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Bestyrelsesformand Torben Brandt Munch citeres om, at en erfaren medejer kan tilføre kapital, ekspertise og internationale forbindelser.",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/297242/saelger-ud-af-den-danske-milliard-virksomhed-stibo-systems-gaar-paa-jagt-efter-interesserede-koebere"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Sælger ud af den danske milliard-virksomhed Stibo Systems: Går på jagt efter interesserede købere",
+          "publisher": "Computerworld",
+          "url": "https://www.computerworld.dk/art/297242/saelger-ud-af-den-danske-milliard-virksomhed-stibo-systems-gaar-paa-jagt-efter-interesserede-koebere",
+          "publishedAt": "2026-10-21T11:12:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://www.computerworld.dk/fil/165698?width=1200&height=630&focus=1",
+        "credit": "Kilde: Computerworld",
+        "alt": "Kontorbygning i Stibo-koncernens hovedkvarter i Aarhus, hvor Stibo Systems nu søger en ny medejer",
+        "sourceUrl": "https://www.computerworld.dk/art/297242/saelger-ud-af-den-danske-milliard-virksomhed-stibo-systems-gaar-paa-jagt-efter-interesserede-koebere"
+      }
+    },
+    {
+      "id": "story-leiferikson-20261022",
+      "eventKey": "bulk-infrastructure-soekabel-leif-erikson",
+      "materialFacts": [
+        "Bulk Infrastructure planlægger søkablet 'Leif Erikson' mellem Norge/Europa og Canada uden om amerikansk infrastruktur",
+        "EU og Canada mødes om digitalt samarbejde i Montreal senere i oktober"
+      ],
+      "section": "Teknologi",
+      "headline": "Farvel til USA: Norsk firma vil bygge søkabel direkte mellem Canada og Europa",
+      "primarySourceUrl": "https://ing.dk/artikel/farvel-til-usa-norsk-firma-vil-bygge-soekabel-direkte-mellem-canada-og-europa",
+      "subheadline": "Det norske selskab Bulk Infrastructure vil lægge søkablet 'Leif Erikson' uden om amerikansk infrastruktur, kort før EU og Canada mødes om digitalt samarbejde i Montreal",
+      "body": [
+        "Det norske selskab Bulk Infrastructure planlægger en direkte fiberforbindelse – døbt 'Leif Erikson' – på havbunden mellem Norge/Europa og Canada. Formålet er en forbindelse, der ikke går gennem amerikansk infrastruktur, som i dag dominerer de fleste af Canadas transatlantiske kabler.",
+        "Projektet kommer, kort før EU og Canada senere i oktober skal diskutere digitalt samarbejde i Montreal, og placerer sig i en europæisk strømning mod mindre afhængighed af amerikanske teknologigiganter og transitnet."
+      ],
+      "whyItMatters": "For virksomheder afhængige af stabile dataforbindelser til Nordamerika er kablet en konkret, kommerciel reaktion på politisk usikkerhed – ikke kun et sikkerhedspolitisk signal.",
+      "analysis": "Digital 'de-risking' fra USA foregår mest i taleform i Bruxelles. Et selskab, der faktisk finansierer et søkabel uden om amerikansk territorium, er et konkret bevis på, at nordiske aktører ser uafhængighed som forretning.",
+      "topics": [
+        "digital-infrastruktur",
+        "eu-us-forhold",
+        "nordisk-erhverv"
+      ],
+      "entities": [
+        "Bulk Infrastructure",
+        "Canada",
+        "Norge",
+        "EU"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 58,
+        "decisionValue": 55,
+        "novelty": 75,
+        "sourceQuality": 65,
+        "personalRelevance": 55,
+        "contrast": 60
+      },
+      "claims": [
+        {
+          "text": "Bulk Infrastructure (Norge) planlægger søkablet 'Leif Erikson' direkte mellem Canada og Europa uden om amerikansk infrastruktur.",
+          "sourceUrls": [
+            "https://ing.dk/artikel/farvel-til-usa-norsk-firma-vil-bygge-soekabel-direkte-mellem-canada-og-europa"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Farvel til USA: Norsk firma vil bygge søkabel direkte mellem Canada og Europa",
+          "publisher": "Ingeniøren",
+          "url": "https://ing.dk/artikel/farvel-til-usa-norsk-firma-vil-bygge-soekabel-direkte-mellem-canada-og-europa",
+          "publishedAt": "2026-10-21T10:00:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://ing.dk/sites/mi/files/styles/open_graph_image_16_9/public/2026-10/20171112-152933-pf-1920x1281web.jpg?h=be6e8292&itok=edAB25ZE",
+        "credit": "Kilde: Ingeniøren",
+        "alt": "Optiske fiberkabler af den type, Bulk Infrastructures nye søkabel mellem Canada og Europa vil bruge",
+        "sourceUrl": "https://ing.dk/artikel/farvel-til-usa-norsk-firma-vil-bygge-soekabel-direkte-mellem-canada-og-europa"
+      }
+    },
+    {
+      "id": "story-energidilemma-20261022",
+      "eventKey": "europas-industri-elektrificering-dilemma",
+      "materialFacts": [
+        "Rabobank: op mod 90 pct. af industriens energibehov kan teknisk elektrificeres, men elandelen har ligget fast ca. 33 pct. siden 1990'erne",
+        "EU kan spare 260 mia. euro årligt i fossil energiimport ved 2040; forslag om 1 mia. euro pilotprogram og 100 mia. euro dekarboniseringsbank"
+      ],
+      "section": "Erhverv",
+      "headline": "Europas industriledere står over for nyt energidilemma: Teknologien er klar – men investeringerne er urentable",
+      "primarySourceUrl": "https://ugebrev.dk/ledelse/europas-industriledere-staar-over-for-nyt-energidilemma-teknologien-er-klar-men-investeringerne-er-urentable/",
+      "subheadline": "En ny Rabobank-analyse viser, at op mod 90 pct. af industriens energiforbrug teknisk kan elektrificeres – men elandelen har ligget fast omkring 33 pct. siden 1990'erne",
+      "body": [
+        "Europæisk industri kan elektrificere størstedelen af sit energiforbrug, men udviklingen har stået stille i årtier, viser en ny Rabobank-analyse. Industrien står for en fjerdedel af EU's energiforbrug, men elandelen har ligget fast ca. 33 pct. siden 1990'erne, selvom op mod 90 procent kan elektrificeres på sigt.",
+        "De letteste gevinster ligger i procesvarme hos fødevare-, papir- og kemiindustrien, hvor varmepumper og elkedler kan dække mindst 30 procent af varmebehovet. Analysen peger på fem barrierer: elpriser, netadgang, investeringer, konkurrenceevne og EU-regler."
+      ],
+      "whyItMatters": "Rabobank vurderer, at EU kan spare 260 mia. euro årligt i fossil energiimport ved 2040 – og foreslår en dekarboniseringsbank på 100 mia. euro.",
+      "analysis": "Dilemmaet er ikke teknologisk, men finansielt: uden afklaring om elpriser og EU-regler taber teknologien til status quo – en usikkerhed DI og BusinessEurope længe har kaldt bremseklods.",
+      "topics": [
+        "energi",
+        "gron-omstilling",
+        "eu-konkurrenceevne"
+      ],
+      "entities": [
+        "Rabobank",
+        "EU"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 70,
+        "decisionValue": 75,
+        "novelty": 65,
+        "sourceQuality": 70,
+        "personalRelevance": 85,
+        "contrast": 30
+      },
+      "claims": [
+        {
+          "text": "Op mod 90 pct. af industriens langsigtede energibehov kan teknisk elektrificeres, men elandelen har ligget fast omkring 33 pct. siden 1990'erne.",
+          "sourceUrls": [
+            "https://ugebrev.dk/ledelse/europas-industriledere-staar-over-for-nyt-energidilemma-teknologien-er-klar-men-investeringerne-er-urentable/"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "EU kunne spare 260 mia. euro årligt i fossil energiimport ved 2040; forslag om pilotprogram på 1 mia. euro og dekarboniseringsbank på 100 mia. euro.",
+          "sourceUrls": [
+            "https://ugebrev.dk/ledelse/europas-industriledere-staar-over-for-nyt-energidilemma-teknologien-er-klar-men-investeringerne-er-urentable/"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Europas industriledere står over for nyt energidilemma: Teknologien er klar – men investeringerne er urentable",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/ledelse/europas-industriledere-staar-over-for-nyt-energidilemma-teknologien-er-klar-men-investeringerne-er-urentable/",
+          "publishedAt": "2026-10-21T07:50:55Z",
+          "kind": "analysis"
+        }
+      ],
+      "image": {
+        "url": "https://ugebrev.dk/wp-content/uploads/2026/10/Europa-og-energi.png",
+        "credit": "Kilde: Økonomisk Ugebrev",
+        "alt": "EU-flag foran industriskorstene – et billede på Europas udfordring med at elektrificere industriens energiforbrug",
+        "sourceUrl": "https://ugebrev.dk/ledelse/europas-industriledere-staar-over-for-nyt-energidilemma-teknologien-er-klar-men-investeringerne-er-urentable/"
+      }
+    },
+    {
+      "id": "story-kirkbiskov-20261022",
+      "eventKey": "kirkbi-projekt-evergreen-skovrejsning",
+      "materialFacts": [
+        "Kirkbi har opkøbt ca. en tredjedel af de planlagte 10.000 hektar skov i Midtjylland (2 mia. kr. budget), en tredjedel heraf plantet",
+        "Rekordhøje landbrugsjordpriser (over 200.000 kr./ha, højeste siden 2009) har tvunget Kirkbi til at opgive 10-årsplanen fra 2023"
+      ],
+      "section": "Erhverv",
+      "headline": "Har måttet opgive tidsplan efter massive opkøb: Høje priser presser Lego-familiens ambitiøse projekt",
+      "primarySourceUrl": "https://ugebrev.dk/flashnews/har-maattet-opgive-tidsplan-efter-massive-opkoeb-hoeje-priser-presser-lego-familiens-ambitioese-projekt/",
+      "subheadline": "Kirkbi har opkøbt en tredjedel af de planlagte 10.000 hektar skov i Midtjylland, men rekordhøje landbrugsjordpriser har tvunget investeringsselskabet til at opgive den oprindelige tiårsplan",
+      "body": [
+        "Kirkbi lancerede for nogle år siden 'Projekt Evergreen': to mia. kr. afsat til opkøb af landbrugsjord og 10.000 hektar skov, primært i Midtjylland, i et tempo på over én ejendom om måneden. Planen var en skovrejsning over ti år fra 2023. Tidsplanen er nu opgivet.",
+        "Årsagen er ifølge Kirkbi de høje jordpriser, det højeste niveau siden 2009 – over 200.000 kr. pr. hektar. Selskabet oplyser ikke en ny tidsplan, men bekræfter, at projektet fortsætter: cirka en tredjedel af arealet er opkøbt, og en tredjedel heraf plantet, siger Peter Vind Larsen, chef for Land Sustainability i Kirkbi Climate."
+      ],
+      "whyItMatters": "Når en kapitalstærk familiefond bremser et skovprojekt pga. jordpriser, viser det, hvad prisstigningerne koster selv tålmodige investorer.",
+      "analysis": "Projektet viser grænsen for, hvad kapital alene kan løse: Kirkbis to milliarder er ikke mindre værd, men jorden er dyrere, fordi flere konkurrerer om de samme hektar.",
+      "topics": [
+        "dansk-erhverv",
+        "skovrejsning",
+        "landbrugsjord"
+      ],
+      "entities": [
+        "Kirkbi",
+        "Kirk Kristiansen-familien",
+        "Peter Vind Larsen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 50,
+        "decisionValue": 45,
+        "novelty": 70,
+        "sourceQuality": 65,
+        "personalRelevance": 55,
+        "contrast": 65
+      },
+      "claims": [
+        {
+          "text": "Kirkbi har opkøbt ca. en tredjedel af de planlagte 10.000 hektar skov; en tredjedel heraf er plantet.",
+          "sourceUrls": [
+            "https://ugebrev.dk/flashnews/har-maattet-opgive-tidsplan-efter-massive-opkoeb-hoeje-priser-presser-lego-familiens-ambitioese-projekt/"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Landbrugsjordpriser er på det højeste niveau siden 2009 (over 200.000 kr./ha), hvilket har tvunget Kirkbi til at opgive 10-årsplanen fra 2023.",
+          "sourceUrls": [
+            "https://ugebrev.dk/flashnews/har-maattet-opgive-tidsplan-efter-massive-opkoeb-hoeje-priser-presser-lego-familiens-ambitioese-projekt/"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Har måttet opgive tidsplan efter massive opkøb: Høje priser presser Lego-familiens ambitiøse projekt",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/flashnews/har-maattet-opgive-tidsplan-efter-massive-opkoeb-hoeje-priser-presser-lego-familiens-ambitioese-projekt/",
+          "publishedAt": "2026-10-21T08:22:57Z",
+          "kind": "reporting"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "Afsløret på skjulte optagelser i tv-dokumentar: Tidligere topadvokat får seks måneders fængsel",
+      "headline": "Afsløret på skjulte optagelser i tv-dokumentar: Tidligere topadvokat får seks måneders fængsel",
+      "url": "https://www.dr.dk/nyheder/penge/afsloeret-paa-skjulte-optagelser-i-tv-dokumentar-tidligere-topadvokat-faar-seks-maaneders-faengsel",
+      "publisher": "DR",
+      "section": "Penge",
+      "publishedAt": "2026-10-21T13:34:16Z",
+      "summary": "Tidligere Horten-advokat Nicolai Dyhr er idømt seks måneders fængsel for tjenestemisbrug som kurator, afsløret af TV 2-dokumentaren 'Den sorte svane'."
+    },
+    {
+      "text": "Lækkede data: Novo Nordisk har kortlagt danske læger i hemmeligt kartotek",
+      "headline": "Lækkede data: Novo Nordisk har kortlagt danske læger i hemmeligt kartotek",
+      "url": "https://ing.dk/artikel/laekkede-data-novo-nordisk-har-kortlagt-danske-laeger-i-hemmeligt-kartotek",
+      "publisher": "Ingeniøren",
+      "section": "Life Science",
+      "publishedAt": "2026-10-22T03:00:00Z",
+      "summary": "Lækkede interne data skal vise, at Novo Nordisk har registreret ca. 46.000 danske læger og sygeplejersker efter kommerciel værdi og produktloyalitet over for Ozempic og Wegovy."
+    },
+    {
+      "text": "Magasin du Nord hacket og ramt af ransomware: Kunders data lækket",
+      "headline": "Magasin du Nord hacket og ramt af ransomware: Kunders data lækket",
+      "url": "https://www.computerworld.dk/art/297239/magasin-du-nord-hacket-og-ramt-af-ransomware-kunders-data-laekket",
+      "publisher": "Computerworld",
+      "section": "Sikkerhed",
+      "publishedAt": "2026-10-21T07:24:00Z"
+    },
+    {
+      "text": "Q3: Landbobanks rekordoverskud skjuler tre advarsler: Kreditbufferen udhules, og funding bliver dyrere",
+      "headline": "Q3: Landbobanks rekordoverskud skjuler tre advarsler: Kreditbufferen udhules, og funding bliver dyrere",
+      "url": "https://ugebrev.dk/finans/q3-landbobanks-rekordoverskud-skjuler-tre-advarsler-kreditbufferen-udhules-og-funding-bliver-dyrere/",
+      "publisher": "Økonomisk Ugebrev",
+      "section": "Finans",
+      "publishedAt": "2026-10-21T10:11:26Z"
+    },
+    {
+      "text": "Q3: DSV aktien i kæmpe comeback – oppe 13 %",
+      "headline": "Q3: DSV aktien i kæmpe comeback – oppe 13 %",
+      "url": "https://ugebrev.dk/flashnews/q3-dsv-aktien-i-kaempe-comeback-oppe-13/",
+      "publisher": "Økonomisk Ugebrev",
+      "section": "Finans",
+      "publishedAt": "2026-10-21T10:17:57Z"
+    },
+    {
+      "text": "Paven skal ikke have yderligere kræftbehandling efter operation",
+      "headline": "Paven skal ikke have yderligere kræftbehandling efter operation",
+      "url": "https://www.dr.dk/nyheder/seneste/paven-skal-ikke-have-yderligere-kraeftbehandling-efter-operation",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-10-22T02:24:48Z"
+    },
+    {
+      "text": "Mere end 150 personer dræbt i droneangreb i Sydsudan",
+      "headline": "Mere end 150 personer dræbt i droneangreb i Sydsudan",
+      "url": "https://www.dr.dk/nyheder/seneste/mere-end-150-personer-draebt-i-droneangreb-i-sydsudan",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-10-21T13:40:52Z"
+    },
+    {
+      "text": "Cirkusdirektrice Hanne Berdino er død",
+      "headline": "Cirkusdirektrice Hanne Berdino er død",
+      "url": "https://www.dr.dk/nyheder/seneste/cirkusdirektrice-hanne-berdino-er-doed",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-10-21T17:09:18Z"
+    },
+    {
+      "text": "Michael Valgren får ny arbejdsgiver",
+      "headline": "Michael Valgren får ny arbejdsgiver",
+      "url": "https://www.dr.dk/sporten/cykling/norsk-hold-droemmer-om-jonas-vingegaard-og-mads-pedersen",
+      "publisher": "DR Sporten",
+      "section": "Cykling",
+      "publishedAt": "2026-10-21T11:06:00Z",
+      "summary": "Den danske cykelrytter Michael Valgren skifter til nyt hold."
+    },
+    {
+      "text": "Danske bowling-kvinder vinder VM",
+      "headline": "Danske bowling-kvinder vinder VM",
+      "url": "https://www.dr.dk/sporten/seneste-sport/danske-bowling-kvinder-vinder-vm",
+      "publisher": "DR Sporten",
+      "section": "Sport",
+      "publishedAt": "2026-10-21T15:44:21Z"
+    },
+    {
+      "text": "Ehlers storspiller i NHL",
+      "headline": "Ehlers storspiller i NHL",
+      "url": "https://www.dr.dk/sporten/seneste-sport/ehlers-storspiller-i-nhl",
+      "publisher": "DR Sporten",
+      "section": "Ishockey",
+      "publishedAt": "2026-10-21T06:14:02Z"
+    },
+    {
+      "text": "'Bestemt ikke hver dag, vi ser det': OL-bronzegymnast imponerer ved VM",
+      "headline": "'Bestemt ikke hver dag, vi ser det': OL-bronzegymnast imponerer ved VM",
+      "url": "https://www.dr.dk/sporten/bestemt-ikke-hver-dag-vi-ser-det-ol-bronzegymnast-imponerer-ved-vm",
+      "publisher": "DR Sporten",
+      "section": "Gymnastik",
+      "publishedAt": "2026-10-20T19:15:17Z"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-perstig-bog-20261022",
+      "mode": "read",
+      "kind": "bog",
+      "status": "new",
+      "title": "Den transatlantiske parentes",
+      "creator": "Per Stig Møller",
+      "provider": "Gyldendal",
+      "url": "https://www.altinget.dk/artikel/per-stig-moellers-opgoer-med-usa-er-bedst-naar-historikeren-viger-for-politikeren",
+      "availability": "Udkom 6. oktober 2026 hos Gyldendal, 240 sider. Anmeldelsen og boginfo er tilgængelig frit på Altinget.",
+      "commitment": "Et par aftener",
+      "description": "Tidligere udenrigsminister Per Stig Møllers nye bog om USA's udvikling fra loyal til upålidelig partner for Europa – fra hans egen ungdomsbeundring til erfaringerne som udenrigsminister og nu som iagttager af Trump-æraen.",
+      "rationale": "Et langt, personligt perspektiv på præcis det tema, dagens to USA-historier kun kan vise glimt af: hvordan USA's pålidelighed som partner har ændret sig. Skrevet af en af de få danskere, der har forhandlet med amerikanerne på regeringsniveau.",
+      "topics": [
+        "eu-us-forhold",
+        "boganmeldelse"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://legacy.altinget.dk/images/article/307140/162250.jpg",
+        "credit": "Foto: Altinget",
+        "alt": "Per Stig Møller, forfatter til bogen 'Den transatlantiske parentes'",
+        "sourceUrl": "https://www.altinget.dk/artikel/per-stig-moellers-opgoer-med-usa-er-bedst-naar-historikeren-viger-for-politikeren"
+      }
+    },
+    {
+      "id": "rec-varo-louisiana-20261022",
+      "mode": "experience",
+      "kind": "udstilling",
+      "status": "new",
+      "title": "Remedios Varo",
+      "creator": "Remedios Varo",
+      "provider": "Louisiana Museum of Modern Art",
+      "url": "https://louisiana.dk/en/exhibition/remedios-varo/",
+      "availability": "Louisiana, Humlebæk. 18.9.2026-10.1.2027.",
+      "commitment": "En eftermiddag",
+      "description": "Louisianas nye udstilling med den spansk-mexicanske surrealist Remedios Varos drømmeagtige, mekaniske billedverden – malerier af rejsende, opfindere og alkymistiske rum.",
+      "rationale": "Ren serendipitet, uden for arbejdsprofilen: et kvarters gang fra hverdagens handelspolitik og regnskaber til en kunstner, der malede sin egen indre logik. Netop åbnet, så der er god tid, men ingen grund til at vente.",
+      "topics": [
+        "kunst",
+        "serendipitet"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://louisiana.dk/wp-content/uploads/2026/05/untitled-1-of-2-huge_jpg-1.jpg",
+        "credit": "Foto: Louisiana Museum of Modern Art",
+        "alt": "Maleri af Remedios Varo fra udstillingen på Louisiana",
+        "sourceUrl": "https://louisiana.dk/en/exhibition/remedios-varo/"
+      }
+    },
+    {
+      "id": "rec-nimesroad-louisiana-20261022",
+      "mode": "experience",
+      "kind": "udstilling",
+      "status": "available",
+      "title": "700 Nimes Road",
+      "creator": "Catherine Opie",
+      "provider": "Louisiana Museum of Modern Art",
+      "url": "https://louisiana.dk/en/exhibition/700-nimes-road/",
+      "availability": "Louisiana, Humlebæk. 28.4.2026-10.1.2027.",
+      "commitment": "En time",
+      "description": "Fotografen Catherine Opies fotoserie fra Elizabeth Taylors private hjem og ejendele på 700 Nimes Road i Los Angeles – et portræt af et liv fortalt gennem genstande frem for personen selv.",
+      "rationale": "Et andet format end nyhedernes fakta og citater: et stille, visuelt studie i, hvad ejendele fortæller om formue og identitet – samme spørgsmål, dagens Kirkbi- og Stibo-historier rejser om kapital, blot fortalt gennem et enkelt hjem.",
+      "topics": [
+        "fotografi",
+        "kunst"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://louisiana.dk/wp-content/uploads/2026/05/3684_02-huge_jpg.jpg",
+        "credit": "Foto: Louisiana Museum of Modern Art",
+        "alt": "Andy Warhols portræt af Elizabeth Taylor, fotograferet af Catherine Opie til '700 Nimes Road'",
+        "sourceUrl": "https://louisiana.dk/en/exhibition/700-nimes-road/"
+      }
+    }
+  ],
+  "quality": {
+    "overallScore": 75
+  }
+}
