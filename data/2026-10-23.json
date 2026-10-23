@@ -1,0 +1,715 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-20261023",
+  "date": "2026-10-23",
+  "generatedAt": "2026-10-23T05:00:00Z",
+  "readingMinutes": 11,
+  "title": "Thomas' Nyheder",
+  "dek": "USA og Danmark finder sammen om skibsbygning, elnettet åbner igen for virksomhederne, og Serbiens studenter fylder gaderne dagen før et afgørende valg.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-maritimeusa-20261023",
+      "eventKey": "danmark-usa-maritim-aftale-2026",
+      "materialFacts": [
+        "Lars Løkke Rasmussen underskrev 22/10/2026 en maritim samarbejdsaftale med USA i Washington D.C.",
+        "Dansk eksport af maritime transportydelser til USA var sidste år værd 41,2 mia. kr."
+      ],
+      "section": "Erhverv og handelspolitik",
+      "headline": "Ny aftale skal give USA adgang til dansk søfartsekspertise",
+      "primarySourceUrl": "https://tidende.dk/ind-og-udland/erhverv-politik/ny-aftale-skal-give-usa-adgang-til-dansk-soefartsekspertise/407813",
+      "subheadline": "Danske kompetencer, løsninger og teknologier skal styrke USA som skibsbyggernation, siger udenrigsminister.",
+      "body": [
+        "Udenrigsminister Lars Løkke Rasmussen underskrev torsdag en aftale med USA i Washington D.C. Aftalen skal give danske virksomheder adgang til at hjælpe med at genopbygge amerikansk skibsbygningskapacitet gennem skibsdesign, uddannelse af maritimt personale og salg af dansk maritim teknologi til amerikanske værfter.",
+        "Samarbejdet rækker ud over det civile: Parterne vil også arbejde sammen om maritim forsvarsteknologi, herunder havoverfladedroner og havbundsovervågning. Danske virksomheder skal operere på kommercielle vilkår."
+      ],
+      "whyItMatters": "Dansk eksport af maritime transportydelser til USA var sidste år værd 41,2 mia. kr., og en formaliseret adgang til amerikansk skibsbygning kan udvide fodaftrykket fra rederidrift til industriel eksport.",
+      "analysis": "Aftalen kommer, mens Washington søger at genopbygge en skibsbygningsindustri, der i årtier er sultet, og mens europæisk-amerikansk handel ellers præges af toldfriktioner. At maritim industripolitik bliver et felt for samarbejde, er værd at bemærke.",
+      "counterpoint": "Aftalen er en hensigtserklæring uden oplyst kontraktsum. Det reelle forretningsomfang afhænger af konkrete ordrer, der endnu ikke er indgået.",
+      "image": {
+        "url": "https://tidende.dk/img/desktop.jpg",
+        "credit": "Kilde: Bornholms Tidende",
+        "alt": "Ny aftale skal give USA adgang til dansk søfartsekspertise",
+        "sourceUrl": "https://tidende.dk/ind-og-udland/erhverv-politik/ny-aftale-skal-give-usa-adgang-til-dansk-soefartsekspertise/407813"
+      },
+      "topics": [
+        "eu-us-handelspolitik",
+        "dansk-eksport",
+        "maritim-industri"
+      ],
+      "entities": [
+        "Lars Løkke Rasmussen",
+        "Anne H. Steffensen",
+        "Danske Rederier",
+        "USA",
+        "Danmark"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 82,
+        "decisionValue": 88,
+        "novelty": 75,
+        "sourceQuality": 85,
+        "personalRelevance": 96,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Lars Løkke Rasmussen underskrev 22/10/2026 en maritim samarbejdsaftale med USA i Washington D.C.",
+          "sourceUrls": [
+            "https://tidende.dk/ind-og-udland/erhverv-politik/ny-aftale-skal-give-usa-adgang-til-dansk-soefartsekspertise/407813"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Dansk eksport af maritime transportydelser til USA var sidste år værd 41,2 mia. kr.",
+          "sourceUrls": [
+            "https://tidende.dk/ind-og-udland/erhverv-politik/ny-aftale-skal-give-usa-adgang-til-dansk-soefartsekspertise/407813"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Ny aftale skal give USA adgang til dansk søfartsekspertise",
+          "publisher": "Bornholms Tidende",
+          "url": "https://tidende.dk/ind-og-udland/erhverv-politik/ny-aftale-skal-give-usa-adgang-til-dansk-soefartsekspertise/407813",
+          "publishedAt": "2026-10-22T14:09:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-gridfreeze-20261023",
+      "eventKey": "energinet-tilslutningsstop-ophaeves-2026",
+      "materialFacts": [
+        "Energinet ophæver et otte måneder langt, stort set totalt tilslutningsstop til elnettet.",
+        "Genåbningen i november dækker kun kategori 1 og dele af kategori 2 - batterier og datacentre venter fortsat."
+      ],
+      "section": "Energi og erhverv",
+      "headline": "DI: Genåbning af elnettet er godt nyt, men regeringen har stadig ikke forstået problemets alvor",
+      "primarySourceUrl": "https://via.ritzau.dk/pressemeddelelse/15238063/di-genabning-af-elnettet-er-godt-nyt-men-regeringen-har-stadig-ikke-forstaet-problemets-alvor",
+      "subheadline": "Energinet åbner igen for nye tilslutninger efter otte måneders stort set totalt stop, men to erhvervsorganisationer advarer om, at kapacitetskrisen fortsætter.",
+      "body": [
+        "Energinet ophæver et otte måneder langt, stort set totalt stop for nye tilslutninger til elnettet. Troels Ranis, direktør i DI Energi, kalder det godt nyt, men siger regeringen stadig ikke har forstået problemets omfang.",
+        "Dansk Erhverv bekræfter, at kapacitetstildeling genoptages i november, men kun for kategori 1 og dele af kategori 2. Batterier og datacentre venter fortsat. Vicedirektør Ulrich Bang fra Dansk Erhverv: 'Situationen har været fuldstændig uholdbar.'"
+      ],
+      "whyItMatters": "For virksomheder, der har stået bremset af strømmangel, er genåbningen konkret - men kun delvis. Investeringer kan flytte, hvis virksomheder ikke kan sikre strøm.",
+      "analysis": "Flaskehalsen i elnettet viser, at industripolitisk ambition om elektrificering løber foran infrastrukturen. At genåbningen kommer trinvist, peger på et strukturelt problem.",
+      "image": {
+        "url": "https://via.ritzau.dk/data/images/public/5524343/15238063/9652e475-f201-489e-a39d-8f4015811f6f-w_960.jpeg",
+        "credit": "Kilde: DI - Dansk Industri",
+        "alt": "Troels Ranis, direktør i DI Energi, der kommenterer genåbningen af elnettet",
+        "sourceUrl": "https://via.ritzau.dk/pressemeddelelse/15238063/di-genabning-af-elnettet-er-godt-nyt-men-regeringen-har-stadig-ikke-forstaet-problemets-alvor"
+      },
+      "topics": [
+        "energi",
+        "dansk-erhvervsliv",
+        "infrastruktur"
+      ],
+      "entities": [
+        "Energinet",
+        "Dansk Industri",
+        "Troels Ranis",
+        "Dansk Erhverv",
+        "Ulrich Bang"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 85,
+        "decisionValue": 90,
+        "novelty": 72,
+        "sourceQuality": 82,
+        "personalRelevance": 88,
+        "contrast": 58
+      },
+      "claims": [
+        {
+          "text": "Energinet ophæver et otte måneder langt, stort set totalt stop for nye tilslutninger til elnettet.",
+          "sourceUrls": [
+            "https://via.ritzau.dk/pressemeddelelse/15238063/di-genabning-af-elnettet-er-godt-nyt-men-regeringen-har-stadig-ikke-forstaet-problemets-alvor",
+            "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/oktober/dansk-erhverv-nu-bliver-proppen-hevet-ud-af-elnettet--men-kapacitetskrisen-er-langt-fra-lost"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Genåbningen i november dækker kun kategori 1 og dele af kategori 2; batterier og datacentre venter fortsat.",
+          "sourceUrls": [
+            "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/oktober/dansk-erhverv-nu-bliver-proppen-hevet-ud-af-elnettet--men-kapacitetskrisen-er-langt-fra-lost"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "DI: Genåbning af elnettet er godt nyt, men regeringen har stadig ikke forstået problemets alvor",
+          "publisher": "DI - Dansk Industri",
+          "url": "https://via.ritzau.dk/pressemeddelelse/15238063/di-genabning-af-elnettet-er-godt-nyt-men-regeringen-har-stadig-ikke-forstaet-problemets-alvor",
+          "publishedAt": "2026-10-21T08:02:06Z",
+          "kind": "primary"
+        },
+        {
+          "title": "Dansk Erhverv: Nu bliver proppen hevet ud af elnettet – men kapacitetskrisen er langt fra løst",
+          "publisher": "Dansk Erhverv",
+          "url": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/oktober/dansk-erhverv-nu-bliver-proppen-hevet-ud-af-elnettet--men-kapacitetskrisen-er-langt-fra-lost",
+          "publishedAt": "2026-10-21T00:00:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-dsvq3-20261023",
+      "eventKey": "dsv-q3-2026-road-schenker",
+      "materialFacts": [
+        "DSV's Road-division leverede 331 mio. kr. i justeret EBIT i Q3 2026 mod 798 mio. kr. samme kvartal sidste år - et fald på 58,5 pct.",
+        "Selskabet oplyser, at de planlagte Schenker-synergier bliver forsinket og nu først ventes fuldt indfriet i 2027."
+      ],
+      "section": "Dansk erhvervsliv",
+      "headline": "DSV Q3-regnskab: Udvikling i Road division markant værre end forventet, efter justering for engangsposter",
+      "primarySourceUrl": "https://ugebrev.dk/formue/dsv-q3-regnskab-udvikling-i-road-division-markant-vaerre-end-forventet-efter-justering-for-engangsposter/",
+      "subheadline": "Koncernens Q3-tal slog forventningerne, men Road-divisionen bærer fortsat tunge mén efter Schenker-integrationen.",
+      "body": [
+        "DSV's Q3 2026-omsætning på 80,7 mia. kr. og koncern-EBIT på 6,606 mia. kr. slog forventningerne. Men justeret for en ejendomsgevinst på 195 mio. kr. leverede Road-divisionen kun 331 mio. kr. i EBIT, mod 798 mio. kr. i samme kvartal sidste år - et fald på 58,5 pct.",
+        "Selskabet forklarer tilbagegangen med integrationsproblemer efter Schenker-overtagelsen, der har ramt leveringssikkerhed og kundevolumen i Tyskland, Frankrig og Benelux. De planlagte synergier fra overtagelsen er forsinket og ventes nu først fuldt indfriet i 2027."
+      ],
+      "whyItMatters": "Road-divisionens svaghed under koncernens stærke samlede tal viser, hvor meget af DSV's indtjening der afhænger af, om Schenker-integrationen reelt lykkes operationelt.",
+      "analysis": "At fire analytikere nedjusterede deres anbefalinger, mens aktien samlet overraskede positivt, illustrerer en kløft mellem overskriftstal og underliggende drift.",
+      "image": {
+        "url": "https://ugebrev.dk/wp-content/uploads/2024/10/Jens-H.-Lund.jpg",
+        "credit": "Kilde: Økonomisk Ugebrev",
+        "alt": "DSV Q3-regnskab: Udvikling i Road division markant værre end forventet, efter justering for engangsposter",
+        "sourceUrl": "https://ugebrev.dk/formue/dsv-q3-regnskab-udvikling-i-road-division-markant-vaerre-end-forventet-efter-justering-for-engangsposter/"
+      },
+      "topics": [
+        "dansk-erhvervsliv",
+        "logistik",
+        "eu-det-indre-marked"
+      ],
+      "entities": [
+        "DSV",
+        "DB Schenker",
+        "Tyskland",
+        "Frankrig",
+        "Benelux"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 75,
+        "decisionValue": 85,
+        "novelty": 70,
+        "sourceQuality": 88,
+        "personalRelevance": 85,
+        "contrast": 60
+      },
+      "claims": [
+        {
+          "text": "DSV's Road-division leverede 331 mio. kr. i justeret EBIT i Q3 2026 mod 798 mio. kr. samme kvartal sidste år - et fald på 58,5 pct.",
+          "sourceUrls": [
+            "https://ugebrev.dk/formue/dsv-q3-regnskab-udvikling-i-road-division-markant-vaerre-end-forventet-efter-justering-for-engangsposter/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "De planlagte Schenker-synergier er forsinket og ventes først fuldt indfriet i 2027.",
+          "sourceUrls": [
+            "https://ugebrev.dk/formue/dsv-q3-regnskab-udvikling-i-road-division-markant-vaerre-end-forventet-efter-justering-for-engangsposter/"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "DSV Q3-regnskab: Udvikling i Road division markant værre end forventet, efter justering for engangsposter",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/formue/dsv-q3-regnskab-udvikling-i-road-division-markant-vaerre-end-forventet-efter-justering-for-engangsposter/",
+          "publishedAt": "2026-10-21T06:40:42Z",
+          "kind": "analysis"
+        }
+      ]
+    },
+    {
+      "id": "story-eumethane-20261023",
+      "eventKey": "eu-metan-importkrav-udsaettelse-2026",
+      "materialFacts": [
+        "Europa-Parlamentet stemte 341-225 for at udsætte metan-importkrav fra 2027 til 2030.",
+        "Reglerne for sanktionerede lande, herunder Rusland, er uændrede af udsættelsen."
+      ],
+      "section": "EU og handelspolitik",
+      "headline": "EU-parlamentarikere vil udskyde klimakrav: 'Andre hensyn end klima er rykket op på dagsordenen'",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/eu/eu-parlamentarikere-vil-udskyde-klimakrav-andre-hensyn-end-klima-er-rykket-op-paa-dagsordenen",
+      "subheadline": "Allerede fra januar 2027 skulle krav til industrien skærpes, men de er nu udsat med tre år.",
+      "body": [
+        "Europa-Parlamentet stemte onsdag 341 mod 225 for at udsætte krav om metanlæk-dokumentation for fossil gasimport fra 2027 til 2030. USA og Qatar havde advaret om, at deres gaseksportører ikke kunne nå fristen, og over 50 organisationer advarede mod udsættelsen.",
+        "Reglerne for sanktionerede lande, herunder Rusland, er uændrede - de får ingen lempelse. DR's klimaanalytiker Filip Knaack Kirkegaard: 'Det er en opsigtsvækkende udvikling, som viser, at andre hensyn end klima er rykket op på dagsordenen i EU-Parlamentet.'"
+      ],
+      "whyItMatters": "Udsættelsen viser, at energisikkerhed vejer tungere end klimaambition, når amerikanske og qatarske leverandører signalerer, at de ellers lukkes ude af EU's marked.",
+      "analysis": "At russisk gas holdes uden for lempelsen, mens amerikansk og qatarsk gas får den, er ikke tilfældigt - det er et handelspolitisk signal lige så meget som et klimapolitisk.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/z1wpfhny/20261021-123612-6-8192x4715ma_crop001.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Europa-Parlamentet, hvor et flertal stemte for at udsætte EU's metan-importkrav til 2030",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/eu/eu-parlamentarikere-vil-udskyde-klimakrav-andre-hensyn-end-klima-er-rykket-op-paa-dagsordenen"
+      },
+      "topics": [
+        "eu-konkurrencekraft",
+        "handelspolitik",
+        "energi"
+      ],
+      "entities": [
+        "Europa-Parlamentet",
+        "USA",
+        "Qatar",
+        "Rusland"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 80,
+        "decisionValue": 78,
+        "novelty": 68,
+        "sourceQuality": 85,
+        "personalRelevance": 80,
+        "contrast": 72
+      },
+      "claims": [
+        {
+          "text": "Europa-Parlamentet stemte 341-225 for at udsætte metan-importkrav fra 2027 til 2030.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/eu/eu-parlamentarikere-vil-udskyde-klimakrav-andre-hensyn-end-klima-er-rykket-op-paa-dagsordenen"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Reglerne for sanktionerede lande, herunder Rusland, er uændrede af udsættelsen.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/eu/eu-parlamentarikere-vil-udskyde-klimakrav-andre-hensyn-end-klima-er-rykket-op-paa-dagsordenen"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "EU-parlamentarikere vil udskyde klimakrav: 'Andre hensyn end klima er rykket op på dagsordenen'",
+          "publisher": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/udland/eu/eu-parlamentarikere-vil-udskyde-klimakrav-andre-hensyn-end-klima-er-rykket-op-paa-dagsordenen",
+          "publishedAt": "2026-10-22T19:58:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-greenpowerdk-20261023",
+      "eventKey": "green-power-denmark-finanslov-udspil-2026",
+      "materialFacts": [
+        "Green Power Denmark foreslår 44 fuldt finansierede tiltag til finansloven, herunder en elbils-omstillingsfond.",
+        "Forslaget indeholder 1,5 mia. kr. årligt 2030-2040 til grønt militærbrændstof."
+      ],
+      "section": "Energi og erhverv",
+      "headline": "Green Power Denmark: Regeringen skal tegne stregerne til et elektrisk Danmark",
+      "primarySourceUrl": "https://via.ritzau.dk/pressemeddelelse/15239180/green-power-denmark-regeringen-skal-tegne-stregerne-til-et-elektrisk-danmark",
+      "subheadline": "Et energisystem baseret på grøn strøm er vejen til et sikkert og robust samfund med stabile energipriser, mener brancheorganisationen.",
+      "body": [
+        "Green Power Denmark fremlægger 44 fuldt finansierede forslag til finansloven. Centralt står en omstillingsfond med op til 15.000 kr. pr. elbil til lavindkomsthusstande. CEO Kristian Jensen: 'Vi har i årevis råbt op om en national og langsigtet handleplan for elektrificering.'",
+        "Ifølge Jensen kan et skifte fra benzin- eller dieselbil til elbil spare en husstand 11.000 kr. om året. Udspillet indeholder også 1,5 mia. kr. årligt 2030-2040 til grønt militærbrændstof."
+      ],
+      "whyItMatters": "Forslaget er en brancheorganisations ønskeliste, ikke vedtaget politik, men det lægger konkrete tal på, hvad en elektrificeringsplan ville koste - og dermed hvad fraværet af en sådan plan koster virksomheder.",
+      "analysis": "At forslaget kobler civil elektrificering med finansiering af grønt militærbrændstof, peger på, hvordan energi-, forsvars- og industripolitik tænkes sammen i erhvervslivets egne udspil - ikke kun i regeringens.",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Clever_EV_Charging_Vordingborggade.jpg/1920px-Clever_EV_Charging_Vordingborggade.jpg",
+        "credit": "Foto: Wikimedia Commons",
+        "alt": "Elbiler oplades ved offentlig ladestander i København - den type forbrug, Green Power Denmarks omstillingsfond skal understøtte",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clever_EV_Charging_Vordingborggade.jpg"
+      },
+      "topics": [
+        "energi",
+        "dansk-erhvervsliv"
+      ],
+      "entities": [
+        "Green Power Denmark",
+        "Kristian Jensen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 72,
+        "decisionValue": 75,
+        "novelty": 65,
+        "sourceQuality": 80,
+        "personalRelevance": 78,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Green Power Denmark foreslår 44 fuldt finansierede tiltag til finansloven, herunder en elbils-omstillingsfond på op til 15.000 kr. pr. husstand.",
+          "sourceUrls": [
+            "https://via.ritzau.dk/pressemeddelelse/15239180/green-power-denmark-regeringen-skal-tegne-stregerne-til-et-elektrisk-danmark"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Green Power Denmark: Regeringen skal tegne stregerne til et elektrisk Danmark",
+          "publisher": "Green Power Denmark",
+          "url": "https://via.ritzau.dk/pressemeddelelse/15239180/green-power-denmark-regeringen-skal-tegne-stregerne-til-et-elektrisk-danmark",
+          "publishedAt": "2026-10-22T04:00:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-serbiaelection-20261023",
+      "eventKey": "serbien-valg-studenterbevaegelse-2026",
+      "materialFacts": [
+        "Hundredtusindvis samledes i Beograd til støtte for studenterlisten dagen før det serbiske parlamentsvalg.",
+        "En måling viste studenterlisten foran med 44,5 pct. mod Vučićs parti på 42,7 pct."
+      ],
+      "section": "Geopolitik",
+      "headline": "Hundredtusindvis på gaden i Serbien før afgørende valg",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/hundredtusindvis-paa-gaden-i-serbien-foer-afgoerende-valg",
+      "subheadline": "Støtter til den serbiske studenterbevægelse indtog torsdag aften gaderne flere steder i Serbien - få dage før et parlamentsvalg, hvor en studenterbevægelse udfordrer landets mangeårige leder.",
+      "body": [
+        "Hundredtusindvis samledes torsdag aften i Beograd til støtte for studenterlisten, der med 250 kandidater udfordrer Aleksandar Vučićs parti dagen før et afgørende parlamentsvalg. Bevægelsen voksede ud af næsten to års antikorruptionsprotester efter togstationsulykken i Novi Sad i 2024, hvor 16 omkom.",
+        "Kandidat Tihomir Stanić sagde til skaren: 'Vi er alle trætte af, at vi ikke alle er lige for loven. Serbien fortjener frihed, retfærdighed og ansvar.' En måling viste studenterlisten foran med 44,5 pct. mod 42,7 pct."
+      ],
+      "whyItMatters": "Et valg, hvor en studenterledet protestbevægelse kan vælte en langtidssiddende leder, tester om gadeprotest kan omsættes til politisk magt ved stemmeurnerne.",
+      "analysis": "Uanset udfaldet har bevægelsen rykket dagsordenen varigt: et parti af fagfolk og studerende har tvunget sig til en reel konkurrenceposition mod et parti, der har domineret serbisk politik i over et årti.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/3d1atk1k/20261022-184149-5-5687x3791ma_crop001_crop001.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Folkemængde i Beograd til støtte for den serbiske studenterbevægelse dagen før parlamentsvalget",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/hundredtusindvis-paa-gaden-i-serbien-foer-afgoerende-valg"
+      },
+      "topics": [
+        "geopolitik",
+        "demokrati",
+        "valg"
+      ],
+      "entities": [
+        "Serbien",
+        "Aleksandar Vučić",
+        "Tihomir Stanić"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 83,
+        "decisionValue": 60,
+        "novelty": 70,
+        "sourceQuality": 85,
+        "personalRelevance": 35,
+        "contrast": 68
+      },
+      "claims": [
+        {
+          "text": "Hundredtusindvis samledes i Beograd til støtte for studenterlisten dagen før det serbiske parlamentsvalg.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/hundredtusindvis-paa-gaden-i-serbien-foer-afgoerende-valg"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "En måling viste studenterlisten foran med 44,5 pct. mod Vučićs parti på 42,7 pct.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/hundredtusindvis-paa-gaden-i-serbien-foer-afgoerende-valg"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Hundredtusindvis på gaden i Serbien før afgørende valg",
+          "publisher": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/udland/hundredtusindvis-paa-gaden-i-serbien-foer-afgoerende-valg",
+          "publishedAt": "2026-10-22T19:16:34Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-manutd-20261023",
+      "eventKey": "manchester-united-como-nederlag-2026",
+      "materialFacts": [
+        "Manchester United tabte 4-1 ude til Como i Champions League - sjette kamp i træk uden sejr.",
+        "Carrick kaldte præstationen uacceptabel, mens Fernandes offentligt pegede på stabens taktiske valg om ikke at presse højt."
+      ],
+      "section": "Sport",
+      "headline": "\"Borgerkrig\" i United efter ydmygelse: - Jeg er virkelig sur",
+      "primarySourceUrl": "https://sport.tv2.dk/fodbold/2026-10-22-borgerkrig-i-united-efter-ydmygelse-jeg-er-virkelig-sur",
+      "subheadline": "Situationen er forværret i Manchester United, efter klubben onsdag led et ydmygende nederlag mod Como.",
+      "body": [
+        "Manchester United tabte onsdag 4-1 ude til Como i Champions League - en sen scoring af Zirkzee forhindrede et endnu mere ydmygende nederlag. Det var sjette kamp i træk uden sejr, og uroen om holdet er nu offentlig.",
+        "Manager Michael Carrick: 'Jeg er virkelig sur. Det er ikke acceptabelt for os at spille på den måde.' Anfører Bruno Fernandes pegede på staldens taktiske valg: 'Det er en beslutning fra staben, at vi ikke presser mand mod mand.' The Times kaldte klubben 'en syg klub'."
+      ],
+      "whyItMatters": "At en manager offentligt kalder sit eget holds præstation uacceptabel, mens anføreren peger på stabens taktiske valg, er sjældent et godt tegn midt i en sæson.",
+      "analysis": "Seks kampe uden sejr er alvorligt for en klub af Uniteds størrelse. Hvor meget af det, der er reel uenighed og hvor meget der er pressehåndtering under pres, er endnu uklart - men tonen er skærpet.",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/1/3/8/13848219-a45d-409f-b1fe-9291d39c875f?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCwwLDMyMDAsMTgwMA&s=2cf96a9a58e94848aecf1ed17188c77a",
+        "credit": "Kilde: TV 2 Sport",
+        "alt": "Manchester United-spillere nedtrykte efter 4-1-nederlaget til Como i Champions League",
+        "sourceUrl": "https://sport.tv2.dk/fodbold/2026-10-22-borgerkrig-i-united-efter-ydmygelse-jeg-er-virkelig-sur"
+      },
+      "topics": [
+        "manchester-united",
+        "fodbold"
+      ],
+      "entities": [
+        "Manchester United",
+        "Michael Carrick",
+        "Bruno Fernandes",
+        "Como"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 40,
+        "novelty": 65,
+        "sourceQuality": 80,
+        "personalRelevance": 90,
+        "contrast": 50
+      },
+      "claims": [
+        {
+          "text": "Manchester United tabte 4-1 ude til Como i Champions League - sjette kamp i træk uden sejr.",
+          "sourceUrls": [
+            "https://sport.tv2.dk/fodbold/2026-10-22-borgerkrig-i-united-efter-ydmygelse-jeg-er-virkelig-sur"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Carrick kaldte præstationen uacceptabel, mens Fernandes offentligt pegede på stabens taktiske valg om ikke at presse højt.",
+          "sourceUrls": [
+            "https://sport.tv2.dk/fodbold/2026-10-22-borgerkrig-i-united-efter-ydmygelse-jeg-er-virkelig-sur"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "\"Borgerkrig\" i United efter ydmygelse: - Jeg er virkelig sur",
+          "publisher": "TV 2 Sport",
+          "url": "https://sport.tv2.dk/fodbold/2026-10-22-borgerkrig-i-united-efter-ydmygelse-jeg-er-virkelig-sur",
+          "publishedAt": "2026-10-22T05:53:55Z",
+          "kind": "reporting"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "Energikrisen udløser et nyt stormløb mod EU's grønne kvotesystem",
+      "headline": "Energikrisen udløser et nyt stormløb mod EU's grønne kvotesystem",
+      "summary": "Italiens Giorgia Meloni og Polens Donald Tusk forsøgte under et EU-topmøde at kortslutte forhandlingerne om EU's system for handel med CO2-kvoter, melder Altinget.",
+      "publisher": "Altinget",
+      "section": "EU og klimapolitik",
+      "publishedAt": "2026-10-22T10:00:00Z",
+      "url": "https://www.altinget.dk/artikel/energikrisen-udloeser-et-nyt-stormloeb-mod-eus-groenne-kvotesystem"
+    },
+    {
+      "text": "Forbrugertilliden falder på alle parametre",
+      "headline": "Forbrugertilliden falder på alle parametre",
+      "summary": "Danmarks Statistiks forbrugertillidsindikator faldt til -17,2 i oktober fra -13,7 i september. Alle delindikatorer gik tilbage, størst var faldet i vurderingen af landets nuværende og fremtidige økonomiske situation.",
+      "publisher": "DR Nyheder",
+      "section": "Makroøkonomi",
+      "publishedAt": "2026-10-22T06:25:27Z",
+      "url": "https://www.dr.dk/nyheder/seneste/forbrugertilliden-falder-paa-alle-parametre"
+    },
+    {
+      "text": "16 døde efter kraftigt jordskælv i Tibet",
+      "headline": "16 døde efter kraftigt jordskælv i Tibet",
+      "summary": "Et jordskælv med styrke 7,0 ramte Tibet torsdag aften lokal tid. Mindst 16 døde og 32 kvæstede; mindst 339 huse styrtede sammen. Kina aktiverede beredskabsniveau 2.",
+      "publisher": "DR Nyheder",
+      "section": "Udland",
+      "publishedAt": "2026-10-22T21:30:00Z",
+      "url": "https://www.dr.dk/nyheder/seneste/16-doede-efter-kraftigt-jordskaelv-i-tibet"
+    },
+    {
+      "text": "Kaotiske tilstande i Københavns Lufthavn efter øget krav til sikkerhed",
+      "headline": "Kaotiske tilstande i Københavns Lufthavn efter øget krav til sikkerhed",
+      "summary": "Trafikstyrelsen indførte ekstra sikkerhedskontrol efter et tilsyn fandt efterlevelsesproblemer. Op til en times kø; omkring 250 SAS-passagerer nåede ikke deres fly.",
+      "publisher": "TV 2 Nyheder",
+      "section": "Indland",
+      "publishedAt": "2026-10-22T17:59:00Z",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-22-kaotiske-tilstande-i-koebenhavns-lufthavn-efter-oeget-krav-til-sikkerhed"
+    },
+    {
+      "text": "96 procent af verdens koralrev er kritisk truede, vurderer forskere",
+      "headline": "96 procent af verdens koralrev er kritisk truede, vurderer forskere",
+      "summary": "IUCN-rapport baseret på over 250 eksperters vurdering af 127 koralrevsøkosystemer finder, at 96 pct. er kritisk truede, når 50-års klimafremskrivninger medregnes.",
+      "publisher": "DR Nyheder",
+      "section": "Videnskab",
+      "publishedAt": "2026-10-22T14:47:00Z",
+      "url": "https://www.dr.dk/nyheder/seneste/96-procent-af-verdens-koralrev-er-kritisk-truede-vurderer-forskere"
+    },
+    {
+      "text": "Holch Povlsens guldkalv i en kæmpe nedtur: Dansk rigmand har mistet flere milliarder",
+      "headline": "Holch Povlsens guldkalv i en kæmpe nedtur: Dansk rigmand har mistet flere milliarder",
+      "summary": "Anders Holch Povlsens selskab Heartland har tabt cirka 4,1 mia. kr. på sin resterende Klarna-aktiepost, siden børsnoteringen i efteråret 2025.",
+      "publisher": "Økonomisk Ugebrev",
+      "section": "Kapitalmarkeder",
+      "publishedAt": "2026-10-22T14:23:00Z",
+      "url": "https://ugebrev.dk/flashnews/holch-povlsens-guldkalv-i-en-kaempe-nedtur-dansk-rigmand-har-mistet-flere-milliarder/"
+    },
+    {
+      "text": "Danske Bank nedlægger 106 stillinger",
+      "headline": "Danske Bank nedlægger 106 stillinger",
+      "summary": "Danske Bank nedlægger 106 stillinger på tværs af seks lande i bankens tredje fyringsrunde i 2026. Ingen kundevendte roller er berørt.",
+      "publisher": "DR Nyheder",
+      "section": "Erhverv",
+      "publishedAt": "2026-10-22T10:43:25Z",
+      "url": "https://www.dr.dk/nyheder/seneste/danske-bank-nedlaegger-106-stillinger"
+    },
+    {
+      "text": "Vild kongeetape og lange enkeltstarter: Se Tour-ruten her",
+      "headline": "Vild kongeetape og lange enkeltstarter: Se Tour-ruten her",
+      "summary": "Ruten for Tour de France 2027 er offentliggjort: tre etaper i Storbritannien, en pyrenæisk kongeetape med 5.400 højdemeter og cirka 71 km enkeltstart.",
+      "publisher": "DR Sporten",
+      "section": "Cykling",
+      "publishedAt": "2026-10-22T09:16:30Z",
+      "url": "https://www.dr.dk/sporten/cykling/tourdefrance/nu-afsloeres-tour-ruten-foelg-praesentationen-her"
+    },
+    {
+      "text": "Danske bowling-kvinder vinder VM",
+      "headline": "Danske bowling-kvinder vinder VM",
+      "summary": "Det danske kvindelandshold i bowling vandt VM i München ved at slå Singapore efter at have vundet 3 af 5 kampe.",
+      "publisher": "DR Sporten",
+      "section": "Sport",
+      "publishedAt": "2026-10-21T15:44:21Z",
+      "url": "https://www.dr.dk/sporten/seneste-sport/danske-bowling-kvinder-vinder-vm"
+    },
+    {
+      "text": "Mand idømt 13 års fængsel for skuddrab og usømmelig omgang med lig",
+      "headline": "Mand idømt 13 års fængsel for skuddrab og usømmelig omgang med lig",
+      "summary": "En 59-årig mand er idømt 13 års fængsel ved retten i Næstved for at skyde en 52-årig mand ved et autoværksted i Brøndby og brænde liget. Dommen er anket.",
+      "publisher": "DR Nyheder",
+      "section": "Krimi",
+      "publishedAt": "2026-10-22T10:13:11Z",
+      "url": "https://www.dr.dk/nyheder/seneste/mand-idoemt-13-aars-faengsel-skuddrab-og-usoemmelig-omgang-med-lig"
+    },
+    {
+      "text": "Hamish Brown vandt Hangzhou Open - 5 danskere i sæsonfinalen",
+      "headline": "Hamish Brown vandt Hangzhou Open - 5 danskere i sæsonfinalen",
+      "summary": "Aalborg-baserede Hamish Brown vandt HotelPlanner Tour's Hangzhou Open ved -21. Fem danskere kvalificerede sig til sæsonfinalen på Mallorca 29. oktober-1. november.",
+      "publisher": "19hul.dk",
+      "section": "Golf",
+      "publishedAt": "2026-10-18T09:03:37Z",
+      "url": "https://www.19hul.dk/hamish-brown-vandt-hangzhou-open-5-danskere-i-saesonfinalen/"
+    },
+    {
+      "text": "Ehlers storspiller i NHL",
+      "headline": "Ehlers storspiller i NHL",
+      "summary": "Nikolaj Ehlers scorede to mål og lagde op til et tredje, da Carolina Hurricanes slog Vancouver 6-3 og blev kåret til kampens spiller.",
+      "publisher": "DR Sporten",
+      "section": "Ishockey",
+      "publishedAt": "2026-10-21T06:14:02Z",
+      "url": "https://www.dr.dk/sporten/seneste-sport/ehlers-storspiller-i-nhl"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-varo-20261023",
+      "mode": "experience",
+      "kind": "Udstilling",
+      "status": "available",
+      "title": "Remedios Varo",
+      "creator": "Remedios Varo",
+      "provider": "Louisiana Museum of Modern Art",
+      "url": "https://louisiana.dk/en/exhibition/remedios-varo/",
+      "availability": "18. september 2026 - 10. januar 2027, Humlebæk",
+      "commitment": "1,5-2 timer",
+      "description": "Første store europæiske museumsretrospektiv af den spansk-mexicanske surrealist Remedios Varo (1908-1963), over 70 værker inklusive lån fra mexicanske og amerikanske museer.",
+      "rationale": "Et oprigtigt skridt væk fra arbejdsbordet: en kunstner, der er langt mere anerkendt i Mexico end i Europa, og en sjælden chance for at se hendes univers samlet på dansk grund.",
+      "topics": [
+        "kunst",
+        "serendipitet"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://louisiana.dk/wp-content/uploads/2026/05/untitled-1-of-2-huge_jpg-1.jpg",
+        "credit": "Foto: Louisiana Museum of Modern Art",
+        "alt": "Værk af Remedios Varo fra udstillingen på Louisiana",
+        "sourceUrl": "https://louisiana.dk/en/exhibition/remedios-varo/"
+      }
+    },
+    {
+      "id": "rec-xijinping-20261023",
+      "mode": "watch",
+      "kind": "Dokumentar",
+      "status": "classic",
+      "title": "China, the U.S. & the Rise of Xi Jinping",
+      "provider": "FRONTLINE (PBS)",
+      "url": "https://www.pbs.org/wgbh/frontline/documentary/china-the-u-s-the-rise-of-xi-jinping/",
+      "availability": "Gratis streaming via PBS og YouTube",
+      "commitment": "ca. 2 timer",
+      "description": "Undersøgelse af Xi Jinpings vej til magten, 'China Dream', ekspansion i Sydkinesiske Hav og den økonomiske rivalisering med USA, inklusive Taiwan.",
+      "rationale": "En ældre, men stadig den bedste samlede primer på Kina-USA-dynamikken, der ligger under store dele af dagens handelsdagsorden - værd at genbesøge, ikke kun følge i nyhedsstrøm-klip.",
+      "topics": [
+        "kina",
+        "geopolitik",
+        "handelspolitik"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://www.pbs.org/wgbh/frontline/media/uploads/2024/11/China-the-US-and-the-Rise-of-Xi-Jinping.jpg",
+        "credit": "Foto: FRONTLINE / PBS",
+        "alt": "Plakatbillede fra FRONTLINE-dokumentaren om Xi Jinping",
+        "sourceUrl": "https://www.pbs.org/wgbh/frontline/documentary/china-the-u-s-the-rise-of-xi-jinping/"
+      }
+    },
+    {
+      "id": "rec-aeon-20261023",
+      "mode": "read",
+      "kind": "Essay",
+      "status": "new",
+      "title": "The life-saving scientific knowledge hiding in plain sight",
+      "creator": "Helen Pearson",
+      "provider": "Aeon",
+      "url": "https://aeon.co/essays/the-life-saving-scientific-knowledge-hiding-in-plain-sight",
+      "commitment": "12-15 min",
+      "description": "Helen Pearson om evidenssyntese og metaanalyse som det upåagtede arbejde, der reelt driver fremskridt inden for medicin, uddannelse og klimaforskning.",
+      "rationale": "Ægte serendipitet uden for arbejdsprofilen - et essay om, hvordan viden selv bliver samlet og brugt, som god kontrast til ugens strøm af enkeltstående nyheder.",
+      "topics": [
+        "videnskab",
+        "metode"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-imfpodcast-20261023",
+      "mode": "listen",
+      "kind": "Podcast",
+      "status": "available",
+      "title": "Trade among Geopolitical Rivals: Michele Ruta",
+      "creator": "Michele Ruta",
+      "provider": "IMF Podcasts",
+      "url": "https://www.imf.org/en/news/podcasts/all-podcasts/2026/06/11/michele-ruta-trade-cooperation",
+      "commitment": "21 min",
+      "description": "IMF-handelsøkonom Michele Ruta om, hvordan handelssamarbejde stadig er muligt mellem geopolitiske rivaler trods fragmenterede supermagtsrelationer.",
+      "rationale": "Kompakt format til en pendlertur, der går direkte til kernefeltet: handelspolitik mellem magter, der ellers konkurrerer på stort set alt andet.",
+      "topics": [
+        "handelspolitik",
+        "geopolitik"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {
+    "sourceCoverage": 100,
+    "freshness": 95,
+    "novelty": 82,
+    "perspectiveBalance": 88,
+    "render": 100
+  }
+}
