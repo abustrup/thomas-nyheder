@@ -1,0 +1,703 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-20261025",
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T05:40:00Z",
+  "readingMinutes": 10,
+  "title": "Thomas' Nyheder",
+  "dek": "Storm lukker broerne, Brasilien stemmer, og et landsbyplejehjem nægter at lukke uden kamp - plus moms-ballade i erhvervslivet og en dansker i topform i Holland.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-storm-broer-20261025",
+      "eventKey": "storm-lukker-broer-20261025",
+      "materialFacts": [
+        "Begge broer risikerer lukning ved vindstød over 25 meter i sekundet",
+        "Storebælt: lukningsrisiko kl. 02:00-07:00 natten til søndag",
+        "Øresund: størst lukningsrisiko kl. 05:00-09:00 søndag morgen",
+        "DMI varsler samtidig forhøjet vandstand op mod 3,2 meter ved den jyske vestkyst"
+      ],
+      "section": "Vejr og transport",
+      "headline": "Stormvejr risikerer at lukke Storebæltsbroen og Øresundsbroen i nat",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/vejret/stormvejr-risikerer-lukke-storebaeltsbroen-og-oeresundsbroen-i-nat",
+      "subheadline": "Vindstød over 25 meter i sekundet kan tvinge Sund og Bælt til at lukke begge broforbindelser natten til og morgenen på søndag.",
+      "body": [
+        "Storebæltsbroen og Øresundsbroen risikerer begge at lukke for trafik på grund af stormvejr. Størst risiko for Storebælt er klokken 02-07 natten til søndag, for Øresund klokken 05-09 søndag morgen. Grænsen går ved vindstød på 25 meter i sekundet - bliver den overskredet, standses trafikken af sikkerhedshensyn.",
+        "\"Der er risiko for, at vinden når op over 25 meter i sekundet, hvor vi af sikkerhedshensyn er nødt til at indstille trafikken midlertidigt,\" siger Sund og Bælts pressechef Jens Villemoes, der dog forventer, at det først sker sent i nat. Der gælder allerede restriktioner for trailere under 750 kilo, og selskabet opfordrer bilister til at køre hjemmefra tidligere eller vente til vejret bedres."
+      ],
+      "whyItMatters": "En lukning rammer en søndag, hvor mange er på vej hjem fra efterårsferie, og ingen af broerne har et landevejsalternativ - lukker de, er der reelt ingen vej mellem landsdelene.",
+      "analysis": "Varslet kommer efter en weekend med stormskader i Frankrig og Storbritannien, hvor henholdsvis 161.000 og 10.000 husstande mistede strømmen - uvejret rammer altså bredere end blot de to broer.",
+      "counterpoint": "Selskabets egen vurdering er, at en lukning bliver kortvarig og falder sent på natten, hvor trafikken i forvejen er lav.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/ubwoecgt/20230626-162147-7.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR / Mads Claus Rasmussen, Ritzau Scanpix",
+        "alt": "Arkivbillede af Storebæltsbroen, som DR bruger til at illustrere nattens stormvarsel",
+        "sourceUrl": "https://www.dr.dk/nyheder/vejret/stormvejr-risikerer-lukke-storebaeltsbroen-og-oeresundsbroen-i-nat"
+      },
+      "topics": [
+        "vejr",
+        "transport",
+        "infrastruktur"
+      ],
+      "entities": [
+        "Sund og Bælt",
+        "Storebæltsbroen",
+        "Øresundsbroen",
+        "Jens Villemoes",
+        "DMI"
+      ],
+      "isLead": true,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 72,
+        "decisionValue": 60,
+        "novelty": 45,
+        "sourceQuality": 90,
+        "personalRelevance": 35,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Begge broer risikerer lukning ved vindstød over 25 meter i sekundet, med størst risiko for Storebælt kl. 02-07 og for Øresund kl. 05-09 søndag",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/vejret/stormvejr-risikerer-lukke-storebaeltsbroen-og-oeresundsbroen-i-nat"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Stormvejr risikerer at lukke Storebæltsbroen og Øresundsbroen i nat",
+          "publisher": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/vejret/stormvejr-risikerer-lukke-storebaeltsbroen-og-oeresundsbroen-i-nat",
+          "publishedAt": "2026-10-24T14:16:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-brasilien-valg-20261025",
+      "eventKey": "brasilien-praesidentvalg-2-runde-2026",
+      "materialFacts": [
+        "Brasilianerne stemmer søndag i 2. og afgørende valgrunde mellem Lula og Flavio Bolsonaro",
+        "Første runde 4. oktober: Bolsonaro 47 pct., Lula 45,2 pct.",
+        "Sidste tv-duel fredag var skarp, med korruptionsanklager og en undskyldning"
+      ],
+      "section": "Udland",
+      "headline": "Lula og Bolsonaro diskuterede økonomi og 'ni fingre' i sidste duel inden afgørende valg",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/lula-og-bolsonaro-diskuterede-oekonomi-og-ni-fingre-i-sidste-duel-inden-afgoerende-valg",
+      "subheadline": "Brasilianerne stemmer søndag om, hvem der skal lede landet - Lula da Silva eller Flavio Bolsonaro - efter en skarp sidste tv-duel om gæld og fødevarepriser.",
+      "body": [
+        "Brasilianerne går søndag til stemmeurnerne i afgørende runde af præsidentvalget mellem præsident Lula da Silva og udfordreren Flavio Bolsonaro, søn af den nu fængslede tidligere præsident. Ved første runde 4. oktober fik Bolsonaro 47 procent mod Lulas 45,2 procent.",
+        "I fredagens sidste tv-duel beskyldte kandidaterne hinanden for korruption, og Bolsonaro undskyldte, efter han sagde, at Lula deler penge ud \"med den ene hånd og tager dem tilbage med sine ni fingre\" - en hentydning til Lulas manglende lillefinger. Duellen handlede desuden om gæld og fødevarepriser."
+      ],
+      "whyItMatters": "Brasilien er Latinamerikas største økonomi og en stor fødevareeksportør, så vinderen får betydning for handelspolitik og råvaremarkeder ud over landets grænser.",
+      "analysis": "At valget stadig er uafgjort, siger noget om, hvor polariseret brasiliansk politik er efter Jair Bolsonaros fængsling - sønnen arver vælgerskaren og det juridiske efterspil.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/lgmoj3bd/20261024-031029-3.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR / Andre Coelho, EPA/Ritzau Scanpix",
+        "alt": "Flavio Bolsonaro og præsident Luiz Inácio Lula da Silva mødtes fredag i en sidste tv-duel inden søndagens valg",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/lula-og-bolsonaro-diskuterede-oekonomi-og-ni-fingre-i-sidste-duel-inden-afgoerende-valg"
+      },
+      "topics": [
+        "udland",
+        "politik",
+        "latinamerika"
+      ],
+      "entities": [
+        "Luiz Inácio Lula da Silva",
+        "Flavio Bolsonaro",
+        "Jair Bolsonaro"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 78,
+        "decisionValue": 25,
+        "novelty": 55,
+        "sourceQuality": 85,
+        "personalRelevance": 25,
+        "contrast": 85
+      },
+      "claims": [
+        {
+          "text": "Bolsonaro fik 47 pct. og Lula 45,2 pct. ved valgets første runde 4. oktober",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/lula-og-bolsonaro-diskuterede-oekonomi-og-ni-fingre-i-sidste-duel-inden-afgoerende-valg"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Lula og Bolsonaro diskuterede økonomi og 'ni fingre' i sidste duel inden afgørende valg",
+          "publisher": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/udland/lula-og-bolsonaro-diskuterede-oekonomi-og-ni-fingre-i-sidste-duel-inden-afgoerende-valg",
+          "publishedAt": "2026-10-24T07:15:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-plejehjem-outrup-20261025",
+      "eventKey": "plejehjem-moellegaarden-borgerovertagelse-2026",
+      "materialFacts": [
+        "Varde Kommune lukker tre plejehjem pga. personalemangel, heriblandt Møllegården i Outrup",
+        "Møllegården har 21 pladser og 18 nuværende beboere, som får lov at blive",
+        "En borgergruppe arbejder på selv at overtage og drive hjemmet som friplejehjem"
+      ],
+      "section": "Ældrepleje",
+      "headline": "Plejehjem står til lukning: Nu vil borgerne selv overtage det",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/plejehjem-staar-til-lukning-nu-vil-borgerne-selv-overtage-det",
+      "subheadline": "I Outrup vil en borgergruppe selv overtage og drive det lukningstruede plejehjem Møllegården som friplejehjem, i stedet for at acceptere en kommunal lukning.",
+      "body": [
+        "Varde Kommune lukker tre plejehjem på grund af personalemangel - heriblandt Møllegården i Outrup, der har 21 pladser og 18 beboere. Beboerne får lov at blive, men stedet lukker for nye.",
+        "En lokal borgergruppe accepterer ikke lukningen og arbejder på selv at overtage Møllegården som friplejehjem - en model, der skal opfylde samme krav til pleje som et kommunalt hjem. \"Møllegården er et samlingspunkt i byen. Vi er langt i planlægningen,\" siger Else Andersen fra initiativgruppen. Lignende initiativer kører andre steder, blandt andet i Agerbæk."
+      ],
+      "whyItMatters": "Et friplejehjem modtager kommunal støtte, men drives uafhængigt - lykkes overtagelsen, bliver den en skabelon for andre lokalsamfund med samme problem.",
+      "analysis": "Sagen er et eksempel på den personalemangel, der presser ældreplejen landet over: kommunen lukker ikke af sparehensyn, men fordi den ikke kan bemande forsvarligt.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/xtjpiwe2/20261023-114253-7_crop001.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR / Bo Bechsgaard",
+        "alt": "Else Andersen, en af initiativtagerne, der vil overtage plejehjemmet Møllegården i Outrup",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/plejehjem-staar-til-lukning-nu-vil-borgerne-selv-overtage-det"
+      },
+      "topics": [
+        "ældrepleje",
+        "lokalsamfund",
+        "konstruktiv journalistik"
+      ],
+      "entities": [
+        "Møllegården",
+        "Outrup",
+        "Varde Kommune",
+        "Else Andersen",
+        "Lone Krogh Jensen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 50,
+        "decisionValue": 30,
+        "novelty": 55,
+        "sourceQuality": 85,
+        "personalRelevance": 25,
+        "contrast": 65
+      },
+      "claims": [
+        {
+          "text": "Møllegården har 21 pladser og 18 beboere, og en borgergruppe arbejder på at overtage driften som friplejehjem",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/plejehjem-staar-til-lukning-nu-vil-borgerne-selv-overtage-det"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Plejehjem står til lukning: Nu vil borgerne selv overtage det",
+          "publisher": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/indland/plejehjem-staar-til-lukning-nu-vil-borgerne-selv-overtage-det",
+          "publishedAt": "2026-10-24T17:00:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-stoejberg-landsmoede-20261025",
+      "eventKey": "danmarksdemokraterne-landsmoede-kritik-2026",
+      "materialFacts": [
+        "Danmarksdemokraterne holdt landsmøde lørdag i Herning efter skuffende valgresultater og svage målinger",
+        "Første gang der kommer intern kritik af kursen, selvom Støjberg har bred opbakning som formand",
+        "Kritikken går på for meget fokus på landdistrikter, for lidt på byvælgere og Østdanmark"
+      ],
+      "section": "Indenrigspolitik",
+      "headline": "Det begynder at knage i Støjbergs bagland: - Vi har lavet mange fodfejl, og det har Inger også fået at vide",
+      "primarySourceUrl": "https://nyheder.tv2.dk/politik/2026-10-24-det-begynder-at-knage-i-stoejbergs-bagland-vi-har-lavet-mange-fodfejl-og-det-har-inger-ogsaa-faaet-at-vide",
+      "subheadline": "For første gang lyder der intern kritik af den politiske kurs i Danmarksdemokraterne, efter partiet har præsteret skuffende ved valg og i målinger.",
+      "body": [
+        "Danmarksdemokraterne holdt lørdag landsmøde i Herning efter skuffende valgresultater og svage målinger. For første gang kommer der intern kritik af kursen, selv om formand Inger Støjberg fortsat har bred opbakning. Kritikken går på for meget fokus på landspolitiske emner og for lidt på byvælgerne og Østdanmark.",
+        "\"Vi har lavet mange fodfejl, og det har Inger også fået at vide,\" siger lokalformand Benny Nissen. Adspurgt om partiet er blevet \"kedeligt\", erkender Støjberg: \"Vi har nok været for forsigtige. Der skal være mere liv.\" Hun bebuder et kursskifte mod bredere appel."
+      ],
+      "whyItMatters": "Danmarksdemokraterne har flyttet meget ved valg siden stiftelsen - første tegn på intern splittelse rækker ud over partiet selv og ind i den borgerlige blok.",
+      "analysis": "At kritikken kommer fra lokalt niveau, og at Støjberg selv erkender problemet, tyder på, at et kursskifte allerede er besluttet internt.",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/6/9/5/695f051e-bcdf-4ba6-b0ab-39a0f55e6651?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCwzODIsNzMyNSw0MTIw&s=2f7d72a9eacad9369924d59559b85680",
+        "credit": "Kilde: TV 2",
+        "alt": "Inger Støjberg møder pressen efter sin tale på Danmarksdemokraternes landsmøde i Herning",
+        "sourceUrl": "https://nyheder.tv2.dk/politik/2026-10-24-det-begynder-at-knage-i-stoejbergs-bagland-vi-har-lavet-mange-fodfejl-og-det-har-inger-ogsaa-faaet-at-vide"
+      },
+      "topics": [
+        "indenrigspolitik",
+        "partiorganisation"
+      ],
+      "entities": [
+        "Inger Støjberg",
+        "Danmarksdemokraterne",
+        "Benny Nissen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 60,
+        "decisionValue": 35,
+        "novelty": 55,
+        "sourceQuality": 85,
+        "personalRelevance": 30,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Lokalformand Benny Nissen og formand Inger Støjberg erkender begge fejl i kampagnen ved landsmødet i Herning",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/politik/2026-10-24-det-begynder-at-knage-i-stoejbergs-bagland-vi-har-lavet-mange-fodfejl-og-det-har-inger-ogsaa-faaet-at-vide"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Det begynder at knage i Støjbergs bagland: - Vi har lavet mange fodfejl, og det har Inger også fået at vide",
+          "publisher": "TV 2",
+          "url": "https://nyheder.tv2.dk/politik/2026-10-24-det-begynder-at-knage-i-stoejbergs-bagland-vi-har-lavet-mange-fodfejl-og-det-har-inger-ogsaa-faaet-at-vide",
+          "publishedAt": "2026-10-24T17:36:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-tengstedt-eredivisie-20261025",
+      "eventKey": "tengstedt-eredivisie-topscorer-2026",
+      "materialFacts": [
+        "Tengstedt scorede to gange i Go Ahead Eagles' 3-2-sejr over Telstar",
+        "Topper nu Eredivisiens topscorerliste med 8 mål efter 10 kampe",
+        "Markedsværdi tredoblet til to mio. euro på et år"
+      ],
+      "section": "Sport",
+      "headline": "Dansker reagerer på historisk scoring",
+      "primarySourceUrl": "https://sport.tv2.dk/fodbold/2026-10-24-dansker-reagerer-paa-historisk-scoring",
+      "subheadline": "Søren Tengstedt scorede to gange for Go Ahead Eagles og topper nu topscorerlisten i den hollandske Eredivisie.",
+      "body": [
+        "Søren Tengstedt scorede to gange, da Go Ahead Eagles lørdag vandt 3-2 over Telstar i den hollandske Eredivisie. Danskeren topper nu ligaens topscorerliste med otte mål efter ti kampe, to mere end sin nærmeste forfølger, og er den første Go Ahead Eagles-spiller til at score i klubbens fem første hjemmekampe i en sæson.",
+        "Det er klubbens bedste scoringsrate efter ti ligakampe i 30 år, og Tengstedts markedsværdi er tredoblet til to millioner euro. \"Han er en topspiller under udvikling,\" siger anfører Joris Kramer."
+      ],
+      "whyItMatters": "En dansker i topform i en af Europas mellemstore ligaer plejer at udløse interesse fra større klubber - otte mål på ti kampe er tal, der flytter en spiller videre.",
+      "analysis": "Tengstedts fremgang viser, hvordan et ophold i en mindre liga kan være springbrættet til en større karriere, hvis formen holder resten af sæsonen.",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/3/d/b/3db65ee5-a403-4f84-9889-a9249e1cd698?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MjE0LDE0MywzMjE0LDE4MDg&s=dbcddf8e060dc6dff098504b3944829f",
+        "credit": "Kilde: TV 2",
+        "alt": "Søren Tengstedt har fået en forrygende start på sæsonen i Holland",
+        "sourceUrl": "https://sport.tv2.dk/fodbold/2026-10-24-dansker-reagerer-paa-historisk-scoring"
+      },
+      "topics": [
+        "sport",
+        "fodbold",
+        "dansker i udlandet"
+      ],
+      "entities": [
+        "Søren Tengstedt",
+        "Go Ahead Eagles",
+        "Telstar",
+        "Joris Kramer"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 45,
+        "decisionValue": 15,
+        "novelty": 60,
+        "sourceQuality": 80,
+        "personalRelevance": 55,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "Tengstedt topper Eredivisiens topscorerliste med 8 mål efter 10 kampe efter to scoringer mod Telstar",
+          "sourceUrls": [
+            "https://sport.tv2.dk/fodbold/2026-10-24-dansker-reagerer-paa-historisk-scoring"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Dansker reagerer på historisk scoring",
+          "publisher": "TV 2 Sport",
+          "url": "https://sport.tv2.dk/fodbold/2026-10-24-dansker-reagerer-paa-historisk-scoring",
+          "publishedAt": "2026-10-24T07:46:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-smvdanmark-moms-20261025",
+      "eventKey": "smvdanmark-finanslov-momsfrist-kritik-2026",
+      "materialFacts": [
+        "Finanslovsforslaget vil korte virksomheders momsbetalingsfrist fra 60 til 20 dage",
+        "Momsstramningen finansierer en sænkning af selskabsskatten fra 22 til 19 procent",
+        "De 1.000 største selskabsskattebetalere bidrager med over 70 pct. af selskabsskatten"
+      ],
+      "section": "Erhverv",
+      "headline": "SMVdanmark: Det er helt skævt, når regeringen lader små virksomheder betale for skattelettelser til de store",
+      "primarySourceUrl": "https://www.altinget.dk/erhverv/artikel/smvdanmark-finansloven-giver-skattelettelser-til-de-stoerste-og-rammer-de-mindste",
+      "subheadline": "SMVdanmarks direktør Jesper Beinov kritiserer, at finanslovsforslaget finansierer lavere selskabsskat for de største selskaber ved at korte mindre virksomheders momsfrist.",
+      "body": [
+        "Regeringens finanslovsforslag vil korte virksomheders momsfrist fra 60 til 20 dage - en stramning, der ifølge SMVdanmarks direktør Jesper Beinov rammer skævt. Hver tredje mindre virksomhed har kunder med over 30 dages betalingsfrist, så momsen forfalder, før virksomheden selv har fået betaling. \"Maleren må trække på kassekreditten for at betale moms af penge, han endnu ikke har modtaget,\" skriver Beinov.",
+        "Den kortere frist skal finansiere lavere selskabsskat, fra 22 til 19 procent. Beinov: de 1.000 største betalere står for over 70 procent af skatten og får mest ud af lettelsen, mens de mindre blot mister likviditet."
+      ],
+      "whyItMatters": "Forslaget rammer en klassisk spænding mellem DI's og SMVdanmarks medlemmer: samme sektor, forskellig likviditet og interesse i finansieringen.",
+      "analysis": "Beinov bemærker, at staten selv er en dårlig betaler - Rigsrevisionen fandt, at ministerier betalte hver tiende faktura for sent.",
+      "image": {
+        "url": "https://legacy.altinget.dk/images/article/307163/162337.jpg",
+        "credit": "Kilde: Altinget",
+        "alt": "SMVdanmark: Det er helt skævt, når regeringen lader små virksomheder betale for skattelettelser til de store",
+        "sourceUrl": "https://www.altinget.dk/erhverv/artikel/smvdanmark-finansloven-giver-skattelettelser-til-de-stoerste-og-rammer-de-mindste"
+      },
+      "topics": [
+        "erhvervsorganisationer",
+        "erhvervsbeskatning",
+        "finanslov"
+      ],
+      "entities": [
+        "Jesper Beinov",
+        "SMVdanmark",
+        "Rigsrevisionen",
+        "regeringen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 62,
+        "decisionValue": 68,
+        "novelty": 50,
+        "sourceQuality": 72,
+        "personalRelevance": 85,
+        "contrast": 25
+      },
+      "claims": [
+        {
+          "text": "Finanslovsforslaget korter momsfristen fra 60 til 20 dage og finansierer en sænkning af selskabsskatten fra 22 til 19 procent",
+          "sourceUrls": [
+            "https://www.altinget.dk/erhverv/artikel/smvdanmark-finansloven-giver-skattelettelser-til-de-stoerste-og-rammer-de-mindste"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "SMVdanmark: de 1.000 største selskabsskattebetalere står for over 70 pct. af selskabsskatten",
+          "sourceUrls": [
+            "https://www.altinget.dk/erhverv/artikel/smvdanmark-finansloven-giver-skattelettelser-til-de-stoerste-og-rammer-de-mindste"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "SMVdanmark: Det er helt skævt, når regeringen lader små virksomheder betale for skattelettelser til de store",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/erhverv/artikel/smvdanmark-finansloven-giver-skattelettelser-til-de-stoerste-og-rammer-de-mindste",
+          "publishedAt": "2026-10-23T00:00:00Z",
+          "kind": "analysis"
+        }
+      ]
+    },
+    {
+      "id": "story-anthropic-europa-20261025",
+      "eventKey": "anthropic-ai-konsulentfirma-europa-2026",
+      "materialFacts": [
+        "Anthropic åbner sit første europæiske konsulentfirma med kontorer i London og Berlin inden årets udgang",
+        "Partnerskabet sker med den britiske kapitalfond Hg, der har en AI-afdeling med 150 specialister",
+        "Tidligere i år etablerede Anthropic et tilsvarende konsulentfirma, Ode, i USA med Blackstone og Hellman & Friedman"
+      ],
+      "section": "Teknologi og erhverv",
+      "headline": "Snart kan du hyre AI-konsulenter direkte af Anthropic: Åbner konsulent-firma i Europa om få måneder",
+      "primarySourceUrl": "https://www.computerworld.dk/art/297279",
+      "subheadline": "Anthropic åbner inden årets udgang kontorer i London og Berlin sammen med kapitalfonden Hg og vil dermed konkurrere direkte med de store konsulenthuse om AI-rådgivning.",
+      "body": [
+        "Anthropic åbner sit første europæiske konsulentfirma med kontorer i London og Berlin inden årets udgang, i partnerskab med kapitalfonden Hg, der har en AI-afdeling med 150 specialister. Selskabet skal give europæiske virksomheder adgang til Anthropics egne AI-konsulenter.",
+        "Tidligere i år etablerede Anthropic et tilsvarende firma, Ode, i USA med Blackstone og Hellman & Friedman. OpenAI driver et lignende setup. Det nye europæiske selskab vil konkurrere direkte med Deloitte, EY, KPMG og PwC om AI-rådgivning."
+      ],
+      "whyItMatters": "Når en AI-model-udvikler selv begynder at sælge implementeringsrådgivning, presser det konsulentbranchens marginer på netop det felt, der i dag er dens vækstmotor.",
+      "analysis": "Modellen følger USA-præcedensen med Ode og ligner et forsøg på at komme foran konsulenthusene i Europa, mens virksomhederne leder efter, hvem der kan omsætte AI-investeringer til produktivitet.",
+      "image": {
+        "url": "https://www.computerworld.dk/fil/222788?width=1200&height=630&focus=1",
+        "credit": "Kilde: Computerworld / Solen Feyissa",
+        "alt": "Generisk illustrationsfoto af en smartphone med AI-chatbot-apps, brugt af Computerworld til at illustrere artiklen om Anthropics konsulentsatsning - billedet viser ikke selve firmaet eller dets kontorer",
+        "sourceUrl": "https://www.computerworld.dk/art/297279"
+      },
+      "topics": [
+        "kunstig intelligens",
+        "konsulentbranchen",
+        "europæisk konkurrenceevne"
+      ],
+      "entities": [
+        "Anthropic",
+        "Hg",
+        "Deloitte",
+        "EY",
+        "KPMG",
+        "PwC"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 58,
+        "decisionValue": 55,
+        "novelty": 62,
+        "sourceQuality": 72,
+        "personalRelevance": 55,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "Anthropic åbner konsulentkontorer i London og Berlin inden årets udgang i partnerskab med kapitalfonden Hg",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/297279"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Snart kan du hyre AI-konsulenter direkte af Anthropic: Åbner konsulent-firma i Europa om få måneder",
+          "publisher": "Computerworld DK",
+          "url": "https://www.computerworld.dk/art/297279",
+          "publishedAt": "2026-10-23T13:15:00Z",
+          "kind": "reporting"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "Venstres sekretariatschef i EU-Parlamentet skifter til Dansk Arbejdsgiverforening",
+      "headline": "Venstres sekretariatschef i EU-Parlamentet skifter til Dansk Arbejdsgiverforening",
+      "summary": "Rasmus Trillingsgaard Nielsen, tidligere sekretariatschef for Venstres delegation i EU-Parlamentet, bliver chefkonsulent i Dansk Arbejdsgiverforening med ansvar for internationale medarbejdere.",
+      "url": "https://www.altinget.dk/erhverv/jobskifte/venstres-sekretariatschef-i-eu-parlamentet-skifter-til-dansk-arbejdsgiverforening",
+      "publisher": "Altinget",
+      "section": "Erhverv",
+      "publishedAt": "2026-10-23T11:50:00Z"
+    },
+    {
+      "text": "7-Eleven-topchef stopper efter 20 år",
+      "headline": "7-Eleven-topchef stopper efter 20 år",
+      "summary": "Jesper Østergaard stopper som topchef for 7-Eleven Danmark og bliver i stedet direktør for Reitan Convenience Norge fra 1. januar 2027; salgsdirektør Tania Hartmann Jacobsen overtager den danske post.",
+      "url": "https://www.altinget.dk/transport/navnenyt/7-eleven-topchef-stopper-efter-20-aar",
+      "publisher": "Altinget",
+      "section": "Transport",
+      "publishedAt": "2026-10-22T07:15:00Z"
+    },
+    {
+      "text": "Coop-direktør bliver ny bestyrelsesformand for FDB Møbler",
+      "headline": "Coop-direktør bliver ny bestyrelsesformand for FDB Møbler",
+      "summary": "Thomas Finnerup, økonomidirektør i Coop amba, bliver ny bestyrelsesformand for FDB Møbler og afløser Carsten Bank-Mikkelsen.",
+      "url": "https://www.altinget.dk/erhverv/navnenyt/coop-direktoer-bliver-ny-bestyrelsesformand-for-fdb-moebler",
+      "publisher": "Altinget",
+      "section": "Erhverv",
+      "publishedAt": "2026-10-22T12:28:00Z"
+    },
+    {
+      "text": "ECB-direktionsmedlem: Europæisk opsparing ender uden for Europa",
+      "headline": "ECB-direktionsmedlem: Europæisk opsparing ender uden for Europa",
+      "summary": "Piero Cipollone siger i et interview, at europæiske virksomheder har svært ved at finde vækstkapital, fordi europæernes opsparing i vid udstrækning investeres uden for Europa, og peger på et færdigt europæisk kapitalmarked som løsning.",
+      "url": "https://www.ecb.europa.eu/press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
+      "publisher": "ECB",
+      "section": "Pengepolitik",
+      "publishedAt": "2026-10-24T06:00:00Z"
+    },
+    {
+      "text": "Industriens investeringsforventninger til 2027",
+      "headline": "Industriens investeringsforventninger til 2027",
+      "summary": "Danmarks Statistik: industrien venter samlet en nettostigning i investeringerne i 2027, men føde- og drikkevareindustrien samt maskinindustrien - cirka en tredjedel af industribeskæftigelsen - venter begge fald.",
+      "url": "https://www.dst.dk/nyt/52465",
+      "publisher": "Danmarks Statistik",
+      "section": "Erhverv",
+      "publishedAt": "2026-10-23T07:00:00Z"
+    },
+    {
+      "text": "Københavns Lufthavn forventer perioder med kø i weekenden",
+      "headline": "Københavns Lufthavn forventer perioder med kø i weekenden",
+      "summary": "Lufthavnen venter perioder med kø i weekenden på grund af rejseaktivitet efter efterårsferien.",
+      "url": "https://www.dr.dk/nyheder/seneste/koebenhavns-lufthavn-forventer-perioder-med-koe-i-weekenden",
+      "publisher": "DR Nyheder",
+      "section": "Transport",
+      "publishedAt": "2026-10-24T07:02:00Z"
+    },
+    {
+      "text": "Færre anmelder kontaktsvindel - men problemet er langtfra løst",
+      "headline": "Færre anmelder kontaktsvindel - men problemet er langtfra løst",
+      "summary": "Antallet af anmeldelser om kontaktsvindel er faldet fra 10.583 i 2024 til 7.944 i 2025, men politi og ekspert tror, at mange ofre slet ikke anmelder.",
+      "url": "https://www.dr.dk/nyheder/indland/faerre-anmelder-kontaktsvindel-men-problemet-er-langtfra-loest",
+      "publisher": "DR Nyheder",
+      "section": "Kriminalitet",
+      "publishedAt": "2026-10-24T04:50:00Z"
+    },
+    {
+      "text": "Medie: Kendt musiker kræves fængslet i sag om pistol",
+      "headline": "Medie: Kendt musiker kræves fængslet i sag om pistol",
+      "summary": "Fire mænd mellem 28 og 34 år er fremstillet i grundlovsforhør i en sag om to pistoler, en revolver og 843 gram ketamin - en af dem en kendt dansk hitmager med navneforbud.",
+      "url": "https://nyheder.tv2.dk/krimi/2026-10-24-medie-kendt-musiker-kraeves-faengslet-i-sag-om-pistol",
+      "publisher": "TV 2",
+      "section": "Krimi",
+      "publishedAt": "2026-10-24T11:36:00Z"
+    },
+    {
+      "text": "Hans oliefyr er tomt - nu venter han på et mirakel",
+      "headline": "Hans oliefyr er tomt - nu venter han på et mirakel",
+      "summary": "Fyringsolie koster nu 22,25 kroner literen, cirka 35 procent mere end før Iran-krigen, og en husejer venter forgæves på et prisfald.",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-24-hans-oliefyr-er-tomt-nu-venter-han-paa-et-mirakel",
+      "publisher": "TV 2",
+      "section": "Privatøkonomi",
+      "publishedAt": "2026-10-24T20:19:00Z"
+    },
+    {
+      "text": "Guldhandler fattede mistanke - halvandet døgn efter var svindlere anholdt",
+      "headline": "Guldhandler fattede mistanke - halvandet døgn efter var svindlere anholdt",
+      "summary": "En 75-årig mand fra Fyn blev svindlet for 2,3 millioner kroner af personer, der udgav sig for en PET-agent. En opmærksom guldhandler fattede mistanke, og politiet anholdt tre gerningsmænd halvandet døgn efter anmeldelsen.",
+      "url": "https://www.dr.dk/nyheder/indland/guldhandler-fattede-mistanke-halvandet-doegn-efter-var-svindlere-anholdt",
+      "publisher": "DR Nyheder",
+      "section": "Kriminalitet",
+      "publishedAt": "2026-10-24T14:00:00Z"
+    },
+    {
+      "text": "Tror Tour-arrangørerne mere på Seixas end på Vingegaard?",
+      "headline": "Tror Tour-arrangørerne mere på Seixas end på Vingegaard?",
+      "summary": "TV 2's cykelekspert mener, at Tour de France-arrangørerne tror mere på det franske stjerneskud Paul Seixas end på Jonas Vingegaard som Pogačars reelle udfordrer på 2027-ruten.",
+      "url": "https://sport.tv2.dk/cykling/2026-10-24-tror-tour-arrangoererne-mere-paa-seixas-end-paa-vingegaard",
+      "publisher": "TV 2 Sport",
+      "section": "Cykling",
+      "publishedAt": "2026-10-24T21:23:00Z"
+    },
+    {
+      "text": "Nordiske finanstilsyn styrker samarbejdet om markedsmisbrug og betalingstjenester",
+      "headline": "Nordiske finanstilsyn styrker samarbejdet om markedsmisbrug og betalingstjenester",
+      "summary": "Finanstilsynet og de øvrige nordiske tilsyn har vedtaget en fælles erklæring om styrket tilsynssamarbejde frem mod et direktørmøde i Stockholm i august 2027.",
+      "url": "https://www.finanstilsynet.dk/nyheder-og-presse/nyheder-og-pressemeddelelser/2026/okt/de-nordiske-finanstilsyn-styrker-samarbejdet-om-faelles-tilsynspraksis",
+      "publisher": "Finanstilsynet",
+      "section": "Erhverv",
+      "publishedAt": "2026-10-21T08:00:00Z"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-sammen-om-boersen-20261025",
+      "mode": "experience",
+      "kind": "Besøgscenter",
+      "status": "timely",
+      "title": "Sammen om Børsen",
+      "creator": "Dansk Erhverv / JAC Studios",
+      "provider": "Børsgade 4, 1215 København K",
+      "url": "https://www.sammenomborsen.dk/besog-borsen/",
+      "availability": "Gratis adgang alle ugens dage, løbende mens genopbygningen pågår",
+      "commitment": "30-45 min",
+      "description": "Besøgscenter tæt på byggepladsen, hvor man kan følge genopbygningen af Christian IV's Børs efter branden i 2024 og se 400 års dansk handelshistorie på en lang tidslinje.",
+      "rationale": "Dansk Erhverv er erhvervslivets egen organisation, og Børsen er selve symbolet på dansk handelshistorie - en håndgribelig fortælling om genopbygning og institutioner for en tidligere DI-topchef.",
+      "topics": [
+        "erhvervshistorie",
+        "håndværk",
+        "København"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://www.sammenomborsen.dk/contentassets/36adea2f15b9442fbeeea604b10df178/jac-sand-MlE2K0hRc1hOV09oRU9EaUxVdDBGVXJrdmxvPQ.jpg",
+        "credit": "Kilde: JAC Studios / Dansk Erhverv",
+        "alt": "Nyudskåret sandstensfigur i besøgscenterets gang med udsigt til Børsens tildækkede byggeplads i baggrunden",
+        "sourceUrl": "https://www.sammenomborsen.dk/besog-borsen/"
+      }
+    },
+    {
+      "id": "rec-ones-and-tooze-keynes-20261025",
+      "mode": "listen",
+      "kind": "Podcast",
+      "status": "new",
+      "title": "The New Keynesians and the Nobel Prize",
+      "creator": "Adam Tooze & Cameron Abadi",
+      "provider": "Foreign Policy - Ones and Tooze",
+      "url": "https://foreignpolicy.com/podcasts/ones-and-tooze/the-new-keynesians-and-the-nobel-prize/",
+      "availability": "Udgivet 16. oktober 2026",
+      "commitment": "ca. 45 min",
+      "description": "Adam Tooze og Cameron Abadi diskuterer årets Nobelpris i økonomi til Michael Woodford og Robert Hall for nye makroøkonomiske modeller, og hvad det betyder for stabiliseringspolitik i praksis.",
+      "rationale": "Skarp, historisk funderet økonomisk analyse for en erhvervsleder, der følger pengepolitik og de intellektuelle strømninger bag dagens økonomiske beslutninger.",
+      "topics": [
+        "makroøkonomi",
+        "pengepolitik",
+        "økonomisk historie"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-turning-point-bomb-20261025",
+      "mode": "watch",
+      "kind": "Dokumentarserie",
+      "status": "classic",
+      "title": "Turning Point: The Bomb and the Cold War",
+      "creator": "Brian Knappenberger",
+      "provider": "Netflix",
+      "url": "https://www.netflix.com/title/81614129",
+      "availability": "9 afsnit",
+      "commitment": "ca. 7-8 timer, kan ses i afsnit",
+      "description": "Dokumentarserie om atombombens og Den Kolde Krigs historie, bygget på over 100 interviews med tidligere og nuværende verdensledere og historikere.",
+      "rationale": "Bred historisk kontekst for nutidens geopolitik og stormagtsspændinger - relevant baggrund for en, der har siddet for bordenden i transatlantiske erhvervsforhold.",
+      "topics": [
+        "den kolde krig",
+        "geopolitik",
+        "20. århundrede"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-imf-datamapper-dnk-20261025",
+      "mode": "try",
+      "kind": "Interaktivt dataværktøj",
+      "status": "available",
+      "title": "IMF DataMapper - Danmark",
+      "creator": "Den Internationale Valutafond",
+      "provider": "IMF.org",
+      "url": "https://www.imf.org/external/datamapper/profile/DNK",
+      "availability": "Opdateres løbende med World Economic Outlook-data",
+      "commitment": "10-15 min",
+      "description": "Interaktivt værktøj til at udforske BNP-vækst, inflation, handelsbalance og gæld for ethvert land, med en samlet landeprofil for Danmark.",
+      "rationale": "Hurtigt, pålideligt redskab til at danne sig et overblik over konjunkturer og handelsbalancer og sammenligne Danmarks position med andre markeder.",
+      "topics": [
+        "makroøkonomi",
+        "handelsdata",
+        "landeprofiler"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-peak-human-norberg-20261025",
+      "mode": "read",
+      "kind": "Essay/boganmeldelse",
+      "status": "available",
+      "title": "To Reach \"Peak Human,\" Let Freedom Fuel Civilization",
+      "creator": "The Daily Economy",
+      "provider": "The Daily Economy",
+      "url": "https://thedailyeconomy.org/article/to-reach-peak-human-let-freedom-fuel-civilization/",
+      "availability": "Offentligt tilgængelig",
+      "commitment": "10-12 min",
+      "description": "Gennemgang af Johan Norbergs bog om, hvorfor store civilisationer blomstrede, når de var åbne og frihandlende, og brød sammen, når magten lukkede sig om sig selv.",
+      "rationale": "Handel, åbenhed og institutioner som drivkraft for velstand gennem historien - en konstruktiv, langsigtet vinkel på spørgsmål, han selv har arbejdet med i erhvervspolitik.",
+      "topics": [
+        "økonomisk historie",
+        "frihandel",
+        "institutioner"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {
+    "sourceCoverage": 85,
+    "freshness": 80,
+    "novelty": 65,
+    "perspectiveBalance": 70,
+    "render": 100
+  }
+}
