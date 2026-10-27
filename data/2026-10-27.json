@@ -1,0 +1,717 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-20261027-full",
+  "date": "2026-10-27",
+  "generatedAt": "2026-10-27T08:51:44Z",
+  "readingMinutes": 10,
+  "title": "Thomas' Nyheder — 27. oktober 2026",
+  "dek": "Microsoft tilbyder 60.000 sluttpakker, Polen køber dansk dronemur-radar for 625 millioner, Lula vinder Brasiliens valg og børsen styrter, og et CPR-læk tvinger to ministre i samråd.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-microsoft-sluttpakker-2026",
+      "eventKey": "microsoft-sluttpakker-2026",
+      "materialFacts": [
+        "Microsoft tilbyder sluttpakker til 60.000 medarbejdere i USA, Canada, Indien og Storbritannien",
+        "Tilbuddet dækker ikke datacenter-, salgs- eller marketingmedarbejdere",
+        "Microsoft havde ca. 223.000 ansatte ved udgangen af juni 2026",
+        "Et tilsvarende tilbud til 8.750 pensionsmodne medarbejdere i juli blev accepteret af over 30 procent"
+      ],
+      "section": "Teknologi",
+      "headline": "Microsoft tilbyr sluttpakke til 60.000 ansatte",
+      "primarySourceUrl": "https://e24.no/boers-og-finans/i/El80Po/microsoft-tilbyr-sluttpakke-til-60-000-ansatte",
+      "subheadline": "Techgiganten tilbyder frivillige exit-pakker til mere end en fjerdedel af arbejdsstyrken i fire lande, mens den omstiller sig til kunstig intelligens – Danmark er ikke blandt dem.",
+      "body": [
+        "Microsoft tilbyder sluttpakker til 60.000 medarbejdere i USA, Canada, Indien og Storbritannien, oplyser selskabet ifølge nyhedsbureauet Bloomberg. Tilbuddet gælder ansatte, der overvejer en fremtid uden for selskabet, og dækker ikke medarbejdere i datacentre, salg eller marketing.",
+        "Ved udgangen af juni havde Microsoft omkring 223.000 ansatte, så tilbuddet rammer mere end hver fjerde stilling. HR-direktør Amy Coleman kalder det en mulighed for en støttet overgang. Et tilsvarende tilbud til 8.750 pensionsmodne medarbejdere i juli blev accepteret af over 30 procent."
+      ],
+      "whyItMatters": "Microsoft er verdens mest værdifulde selskab og en bellwether for, hvordan AI omformer arbejdsstyrken i hele techsektoren. At Danmark ikke er blandt de fire lande, der får tilbuddet, siger noget om, hvor omstillingen indtil videre koncentreres.",
+      "analysis": "Et frivilligt exit-program i den størrelse er sjældnere og dyrere end afskedigelser, men det undgår den dårlige presse fra tvungne fyringer og reducerer reelt lønsummen markant, mens selskabet investerer massivt i AI-infrastruktur.",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Satya_Nadella_%28cropped%29.jpg",
+        "credit": "Foto: Briansmale/Wikimedia Commons (CC BY-SA 4.0)",
+        "alt": "Microsofts topchef Satya Nadella. Microsoft har sendt sluttpakke-tilbud til 60.000 ansatte som led i en AI-drevet omstilling.",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Satya_Nadella_(cropped).jpg"
+      },
+      "topics": [
+        "microsoft",
+        "ai",
+        "teknologi",
+        "arbejdsmarked"
+      ],
+      "entities": [
+        "Microsoft",
+        "Amy Coleman"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 85,
+        "decisionValue": 70,
+        "novelty": 70,
+        "sourceQuality": 70,
+        "personalRelevance": 55,
+        "contrast": 50
+      },
+      "claims": [
+        {
+          "text": "Microsoft tilbyder sluttpakker til 60.000 ansatte i USA, Canada, Indien og Storbritannien",
+          "sourceUrls": [
+            "https://e24.no/boers-og-finans/i/El80Po/microsoft-tilbyr-sluttpakke-til-60-000-ansatte"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Microsoft havde omkring 223.000 ansatte ved udgangen af juni 2026",
+          "sourceUrls": [
+            "https://e24.no/boers-og-finans/i/El80Po/microsoft-tilbyr-sluttpakke-til-60-000-ansatte"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "8.750 pensionsmodne medarbejdere fik tilbud om sluttpakke i juli 2026, og over 30 procent accepterede",
+          "sourceUrls": [
+            "https://e24.no/boers-og-finans/i/El80Po/microsoft-tilbyr-sluttpakke-til-60-000-ansatte"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Microsoft tilbyr sluttpakke til 60.000 ansatte",
+          "publisher": "E24",
+          "url": "https://e24.no/boers-og-finans/i/El80Po/microsoft-tilbyr-sluttpakke-til-60-000-ansatte",
+          "publishedAt": "2026-10-26T15:40:35Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-polen-weibel-radar-2026",
+      "eventKey": "polen-weibel-radar-2026",
+      "materialFacts": [
+        "Weibel Scientific fra Allerød har fået en ordre fra Polens forsvar på anti-drone-radarer for 625 millioner kroner",
+        "Ordren er ifølge DR den største, en dansk forsvarsvirksomhed har solgt til en udenlandsk kunde i lang tid",
+        "Radarerne (Xenta) skal indgå i Polens planlagte dronemur mod Kaliningrad, Belarus og Ukraine"
+      ],
+      "section": "Erhverv og forsvar",
+      "headline": "Hybridkrig og droner får Polen til at købe dansk isenkram for 625 millioner kroner i Nordsjælland",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/hybridkrig-og-droner-faar-polen-til-koebe-dansk-isenkram-625-millioner-kroner-i-nordsjaelland",
+      "subheadline": "Den danske radarproducent Weibel Scientific fra Allerød har landet sin største ordre nogensinde: anti-drone-radarer til Polens planlagte forsvarsværn mod Rusland, Belarus og Kaliningrad.",
+      "body": [
+        "Radarproducenten Weibel Scientific fra Allerød har landet sin til dato største ordre: Polens forsvar har bestilt anti-drone-radarer for 625 millioner kroner – den største ordre, en dansk forsvarsvirksomhed ifølge DR har solgt til en udenlandsk kunde i lang tid.",
+        "Weibel skal levere sin Xenta-radar til Polens planlagte \"dronemur\" mod Kaliningrad, Belarus og Ukraine. - At Polen vælger vores radar i tæt konkurrence med andre er et kæmpe kvalitetsstempel, siger adm. direktør Peter Røpke til DR."
+      ],
+      "whyItMatters": "Ordren viser, hvordan europæisk oprustning mod russisk hybridkrig og dronetrusler bliver til konkrete eksportordrer for danske forsvarsvirksomheder.",
+      "analysis": "For dansk eksport er sagen et signal om, at specialiseret forsvarsteknologi kan vinde på det europæiske marked uden de store koncerners stordriftsfordele.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/wlihjm1l/20231130-185317-l.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Foto: © Roman Pilipey, AFP/Ritzau Scanpix",
+        "alt": "Arkivfoto: Ukrainske soldater skyder en russisk drone ned med et tysk Gepard-luftforsvarssystem. Weibel Scientific skal levere lignende anti-drone-radarer til Polens nye dronemur.",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/hybridkrig-og-droner-faar-polen-til-koebe-dansk-isenkram-625-millioner-kroner-i-nordsjaelland"
+      },
+      "topics": [
+        "forsvarseksport",
+        "polen",
+        "droner",
+        "dansk-erhvervsliv"
+      ],
+      "entities": [
+        "Weibel Scientific",
+        "Peter Røpke",
+        "Polen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 70,
+        "decisionValue": 60,
+        "novelty": 65,
+        "sourceQuality": 90,
+        "personalRelevance": 75,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "Weibel Scientific har fået en ordre fra Polens forsvar på anti-drone-radarer for 625 millioner kroner",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/hybridkrig-og-droner-faar-polen-til-koebe-dansk-isenkram-625-millioner-kroner-i-nordsjaelland"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Ordren er den største, en dansk forsvarsvirksomhed har solgt til en udenlandsk forsvarskunde i lang tid",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/hybridkrig-og-droner-faar-polen-til-koebe-dansk-isenkram-625-millioner-kroner-i-nordsjaelland"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Hybridkrig og droner får Polen til at købe dansk isenkram for 625 millioner kroner i Nordsjælland",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/hybridkrig-og-droner-faar-polen-til-koebe-dansk-isenkram-625-millioner-kroner-i-nordsjaelland",
+          "publishedAt": "2026-10-26T20:04:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-brasilien-valgsejr-2026",
+      "eventKey": "brasilien-praesidentvalg-resultat-2026",
+      "materialFacts": [
+        "Lula da Silva vandt søndagens anden valgrunde over Flavio Bolsonaro og genvinder magten for en fjerde præsidentperiode",
+        "Hovedindekset Ibovespa i São Paulo faldt 13,88 procent mandag, og handlen blev sat på pause flere gange",
+        "Den brasilianske real svækkedes kraftigt mod dollaren"
+      ],
+      "section": "International økonomi",
+      "headline": "Lykkerus i Lulas lejr efter brasiliansk valgsejr",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/reels/lykkerus-i-lulas-lejr-efter-brasiliansk-valgsejr",
+      "subheadline": "Lula da Silva vandt søndagens anden valgrunde snævert over Flavio Bolsonaro og sikrede sig en fjerde præsidentperiode – men aktiemarkedet i São Paulo reagerede med et kraftigt fald.",
+      "body": [
+        "Brasiliens siddende præsident, Luiz Inácio Lula da Silva, har vundet søndagens afgørende valgrunde over udfordreren, den højreorienterede senator Flavio Bolsonaro, og genvinder dermed magten for en fjerde præsidentperiode. Hans tilhængere fejrede sejren i gaderne i Rio de Janeiro, skriver DR.",
+        "Sejren blev ikke taget godt imod af aktiemarkedet: Ibovespa på børsen i São Paulo faldt 13,88 procent mandag, og handlen blev sat på pause flere gange på grund af automatiske kursstop. Realen svækkedes samtidig kraftigt mod dollaren, skriver norske E24."
+      ],
+      "whyItMatters": "Markedsreaktionen viser, at investorerne havde sat penge på en sejr til Bolsonaro-lejren og nu omprissætter risikoen ved fire mere år med Lulas politik.",
+      "analysis": "For en læser med erfaring fra vækstmarkeder er kursfaldet en påmindelse om, hvor følsomme investorer er over for politisk retning i store emerging markets.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/hydra-odacache/api/Publication/Image/urn:dr:od3:clippublication:6adf292f1c6211000155b79d?imageId=6b1b6498-810c-4cba-b8b5-5934f41be47e&impolicy=featurecrop",
+        "credit": "Kilde: DR",
+        "alt": "Lula da Silvas tilhængere fejrer valgsejren i Rio de Janeiro.",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/reels/lykkerus-i-lulas-lejr-efter-brasiliansk-valgsejr"
+      },
+      "topics": [
+        "brasilien",
+        "valg",
+        "emerging-markets",
+        "aktiemarked"
+      ],
+      "entities": [
+        "Luiz Inácio Lula da Silva",
+        "Flavio Bolsonaro",
+        "Ibovespa"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 75,
+        "decisionValue": 55,
+        "novelty": 70,
+        "sourceQuality": 80,
+        "personalRelevance": 60,
+        "contrast": 60
+      },
+      "claims": [
+        {
+          "text": "Lula da Silva vandt den afgørende valgrunde i Brasilien over Flavio Bolsonaro og genvinder magten for en fjerde periode",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/reels/lykkerus-i-lulas-lejr-efter-brasiliansk-valgsejr"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Ibovespa faldt 13,88 procent mandag, og handlen blev automatisk sat på pause flere gange",
+          "sourceUrls": [
+            "https://e24.no/boers-og-finans/i/d7Axgw/boersras-i-brasil-etter-presidentvalget"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Den brasilianske real svækkedes kraftigt mod dollaren efter valget",
+          "sourceUrls": [
+            "https://e24.no/boers-og-finans/i/d7Axgw/boersras-i-brasil-etter-presidentvalget"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Lykkerus i Lulas lejr efter brasiliansk valgsejr",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/reels/lykkerus-i-lulas-lejr-efter-brasiliansk-valgsejr",
+          "publishedAt": "2026-10-26T10:29:03Z",
+          "kind": "primary"
+        },
+        {
+          "title": "Børsras i Brasil etter presidentvalget",
+          "publisher": "E24",
+          "url": "https://e24.no/boers-og-finans/i/d7Axgw/boersras-i-brasil-etter-presidentvalget",
+          "publishedAt": "2026-10-26T13:04:34Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-sf-minister-exit-2026",
+      "eventKey": "sf-minister-exit-stress-2026",
+      "materialFacts": [
+        "Signe Munk (SF) udtræder som by-, land- og transportminister på grund af stress",
+        "Karina Lorentzen Dehnhardt (SF) udnævnes til ny by-, land- og transportminister",
+        "Det er den første ministerudskiftning i regeringen siden dens dannelse i juni 2026"
+      ],
+      "section": "Dansk politik",
+      "headline": "Signe Munk udtræder af regeringen på grund af stress",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/politik/signe-munk-udtraeder-af-regeringen-paa-grund-af-stress",
+      "subheadline": "SF-ministeren forlader posten som by-, land- og transportminister og afløses af partifællen Karina Lorentzen Dehnhardt, oplyser Statsministeriet.",
+      "body": [
+        "By-, land- og transportminister Signe Munk (SF) udtræder af regeringen på grund af stress, oplyser Statsministeriet. - Jeg er blevet syg af stress, og jeg har besluttet at træde tilbage som minister, skriver hun selv på Facebook og understreger, at det ikke er et farvel til politik.",
+        "I stedet udnævnes partifællen Karina Lorentzen Dehnhardt til posten som by-, land- og transportminister. Udnævnelsen sker ved, at statsminister Mette Frederiksen præsenterer den nye minister for Kong Frederik senere på eftermiddagen, skriver DR."
+      ],
+      "whyItMatters": "Det er den første ministerudskiftning i regeringen siden dens dannelse i juni 2026. Skiftet sker uden dramatik om sagsindhold – Munk fastholder selv, at det alene handler om helbredet.",
+      "analysis": "En minister, der selv og offentligt sætter stress som årsag, er usædvanligt direkte i dansk politik, hvor den slags beslutninger oftere pakkes ind i vagere formuleringer.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/jtzlk1ai/20261027-064921-a.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Foto: © Claus Bech, Ritzau Scanpix",
+        "alt": "Minister Signe Munk (SF), der trækker sig fra regeringen på grund af stress. (Arkivfoto)",
+        "sourceUrl": "https://www.dr.dk/nyheder/politik/signe-munk-udtraeder-af-regeringen-paa-grund-af-stress"
+      },
+      "topics": [
+        "dansk-politik",
+        "regering"
+      ],
+      "entities": [
+        "Signe Munk",
+        "Karina Lorentzen Dehnhardt",
+        "Mette Frederiksen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 60,
+        "decisionValue": 45,
+        "novelty": 75,
+        "sourceQuality": 90,
+        "personalRelevance": 35,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Signe Munk (SF) udtræder som by-, land- og transportminister på grund af stress",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/politik/signe-munk-udtraeder-af-regeringen-paa-grund-af-stress"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Karina Lorentzen Dehnhardt udnævnes til ny by-, land- og transportminister",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/politik/signe-munk-udtraeder-af-regeringen-paa-grund-af-stress"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Signe Munk udtræder af regeringen på grund af stress",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/politik/signe-munk-udtraeder-af-regeringen-paa-grund-af-stress",
+          "publishedAt": "2026-10-27T06:09:21Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-cpr-laek-samraad-2026",
+      "eventKey": "cpr-laek-samraad-2026",
+      "materialFacts": [
+        "8,8 millioner CPR-numre fra nulevende og afdøde danskere blev stjålet tidligere i oktober 2026",
+        "To ministre skal i samråd om sagen",
+        "To cybersikkerhedseksperter mener, CPR-nummeret ikke længere bør bruges til at bekræfte identitet"
+      ],
+      "section": "Cybersikkerhed",
+      "headline": "Ministre skal i samråd efter CPR-læk. Eksperter er ikke i tvivl om, hvad de ville gøre",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/ministre-skal-i-samraad-efter-cpr-laek-eksperter-er-ikke-i-tvivl-om-hvad-de-ville-goere",
+      "subheadline": "8,8 millioner CPR-numre fra nulevende og afdøde danskere blev stjålet tidligere på måneden. To eksperter mener, at CPR-nummeret ikke længere kan bruges til at bekræfte identitet.",
+      "body": [
+        "Tidligere på måneden blev 8,8 millioner CPR-numre fra nulevende og døde danskere stjålet. I dag skal to ministre i samråd om sagen. - Vi må erkende, at CPR-nummeret er kompromitteret, og den her sag er det sidste søm i kisten, siger Jacob Herbst, forperson for Cybersikkerhedsrådet, til DR.",
+        "Jan Kaastrup, digital efterforsker hos CSIS, bakker op: Vi bør lægge den gamle opfattelse af CPR-systemet som et hemmeligt autentificeringsnummer i graven – det bruges i dag til alt fra apoteket til kviklån."
+      ],
+      "whyItMatters": "CPR-nummeret er stadig nøglen til identifikation hos myndigheder, banker og sundhedsvæsen. Når to eksperter samstemmende siger, det ikke duer til autentificering, er det pres for en ny løsning.",
+      "analysis": "At to ministre skal forklare sig i et samråd samme dag, eksperterne taler så klart, peger på, at sagen har politisk vægt ud over selve lækket.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/pkimyvuz/cpr4.jpg?im=SmartCrop%2Csize%3D%28850%2C478%29",
+        "credit": "Grafik: Søren Winther Nørbæk/DR",
+        "alt": "DR's grafik om det omfattende CPR-nummer-læk, hvor 8,8 millioner numre blev stjålet.",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/ministre-skal-i-samraad-efter-cpr-laek-eksperter-er-ikke-i-tvivl-om-hvad-de-ville-goere"
+      },
+      "topics": [
+        "cybersikkerhed",
+        "cpr-laek",
+        "dansk-politik"
+      ],
+      "entities": [
+        "Jacob Herbst",
+        "Jan Kaastrup",
+        "Cybersikkerhedsrådet",
+        "CSIS"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 70,
+        "decisionValue": 50,
+        "novelty": 60,
+        "sourceQuality": 90,
+        "personalRelevance": 30,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "8,8 millioner CPR-numre fra nulevende og afdøde danskere blev stjålet tidligere i oktober 2026",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/ministre-skal-i-samraad-efter-cpr-laek-eksperter-er-ikke-i-tvivl-om-hvad-de-ville-goere"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "To ministre skal i samråd om CPR-læksagen",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/ministre-skal-i-samraad-efter-cpr-laek-eksperter-er-ikke-i-tvivl-om-hvad-de-ville-goere"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Ministre skal i samråd efter CPR-læk. Eksperter er ikke i tvivl om, hvad de ville gøre",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/ministre-skal-i-samraad-efter-cpr-laek-eksperter-er-ikke-i-tvivl-om-hvad-de-ville-goere",
+          "publishedAt": "2026-10-27T06:26:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-nye-statsborgere-kriminalitet-2026",
+      "eventKey": "nye-statsborgere-kriminalitet-dst-2026",
+      "materialFacts": [
+        "Danmarks Statistik: 0,2 procent af dem, der fik statsborgerskab 2018-2024, blev dømt for en lovovertrædelse samme eller året efter",
+        "Nye statsborgere overtræder straffeloven sjældnere end befolkningen generelt og sjældnere end danskfødte med danske forældre",
+        "Siden 2018 udelukker længere straffe eller bl.a. bandekriminalitet, vold mod børn og seksualforbrydelser fra nogensinde at blive dansk statsborger"
+      ],
+      "section": "Danmark",
+      "headline": "Nye statsborgere overtræder straffeloven mindre end danskere. 'Særlige typer får statsborgerskab', siger professor",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/nye-statsborgere-overtraeder-straffeloven-mindre-end-danskere-saerlige-typer-faar-statsborgerskab",
+      "subheadline": "En særopgørelse fra Danmarks Statistik viser, at 0,2 procent af dem, der fik dansk statsborgerskab 2018-2024, blev dømt for lovovertrædelser samme eller året efter.",
+      "body": [
+        "Danmarks Statistik har for DR lavet en særopgørelse, der viser, at nye statsborgere sjældnere overtræder straffeloven end befolkningen generelt – og sjældnere end danskere født i landet med danske forældre. Opgørelsen dækker dem, der fik statsborgerskab 2018-2024.",
+        "0,2 procent af dem blev dømt for en lovovertrædelse samme år eller året efter. Siden 2018 er loven strammet, så længere straffe eller bandekriminalitet, vold mod børn og seksualforbrydelser udelukker en fra nogensinde at blive dansk statsborger."
+      ],
+      "whyItMatters": "Tallene kommer midt i en ophedet debat om statsborgerskabskrav. At de nye statsborgere har lavere kriminalitet end referencegruppen, skyldes ifølge opgørelsen i høj grad selve udvælgelsen.",
+      "analysis": "Tallet isolerer ikke årsag fra selektion: de 0,2 procent måler en gruppe, loven allerede har filtreret for kriminalitet før statsborgerskabet blev givet.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/cavfcuro/20260906-160328-l.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Foto: © Emil Nicolai Helms, Ritzau Scanpix",
+        "alt": "Statsborgerskabsdag 2026 på Christiansborg, hvor nye danske statsborgere blev fejret.",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/nye-statsborgere-overtraeder-straffeloven-mindre-end-danskere-saerlige-typer-faar-statsborgerskab"
+      },
+      "topics": [
+        "statsborgerskab",
+        "kriminalitet",
+        "danmarks-statistik"
+      ],
+      "entities": [
+        "Danmarks Statistik"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 35,
+        "novelty": 70,
+        "sourceQuality": 90,
+        "personalRelevance": 20,
+        "contrast": 65
+      },
+      "claims": [
+        {
+          "text": "0,2 procent af dem, der fik dansk statsborgerskab 2018-2024, blev dømt for en lovovertrædelse samme eller året efter",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/nye-statsborgere-overtraeder-straffeloven-mindre-end-danskere-saerlige-typer-faar-statsborgerskab"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Nye statsborgere overtræder straffeloven sjældnere end befolkningen generelt og sjældnere end danskfødte med danske forældre",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/nye-statsborgere-overtraeder-straffeloven-mindre-end-danskere-saerlige-typer-faar-statsborgerskab"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Nye statsborgere overtræder straffeloven mindre end danskere. 'Særlige typer får statsborgerskab', siger professor",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/nye-statsborgere-overtraeder-straffeloven-mindre-end-danskere-saerlige-typer-faar-statsborgerskab",
+          "publishedAt": "2026-10-27T04:57:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-holland-ai-embedsmaend-2026",
+      "eventKey": "holland-ai-embedsmaend-2026",
+      "materialFacts": [
+        "Den hollandske regering vil reducere embedsværket med 25.000 fuldtidsstillinger frem mod 2035 (ca. hver sjette stilling)",
+        "Målet er besparelser på 26 milliarder kroner om året, når reduktionerne er fuldt gennemført",
+        "En stor del af funktionerne skal erstattes af AI, men regeringen har endnu ikke en konkret plan for hvordan"
+      ],
+      "section": "Europa og AI",
+      "headline": "Holland vil fjerne hver sjette statslige embedsmand: Vil bruge AI i stedet - kan spare milliarder af kroner",
+      "primarySourceUrl": "https://www.computerworld.dk/art/297313/holland-vil-fjerne-hver-sjette-statslige-embedsmand-vil-bruge-ai-i-stedet-kan-spare-milliarder-af-kroner",
+      "subheadline": "Den hollandske regering vil fjerne 25.000 fuldtidsstillinger i statsapparatet frem mod 2035 og erstatte en stor del af funktionerne med AI – en besparelse, regeringen selv sætter til 26 milliarder kroner om året.",
+      "body": [
+        "Den hollandske regering vil inden for de kommende år rydde kraftigt ud i antallet af embedsfolk, som i vid udstrækning skal erstattes af AI. Frem mod 2035 skal embedsværket reduceres med 25.000 fuldtidsstillinger – omkring hver sjette stilling, skriver Computerworld.",
+        "Fuldt gennemført i 2035 venter regeringen besparelser på 26 milliarder kroner om året. En stor del af funktionerne skal erstattes af AI, men regeringen har endnu ikke en konkret plan for, hvordan det skal ske."
+      ],
+      "whyItMatters": "Holland er dermed det første europæiske land, der sætter et konkret personaletal på AI's forventede effekt i den offentlige sektor – ikke pilotprojekt, men erklæret statsbudget-post.",
+      "analysis": "Målet er sat, før metoden er fundet: besparelsen er regnet hjem på forhånd, mens AI's praktiske udrulning til konkrete sagsbehandlingsopgaver stadig mangler at bevise produktiviteten.",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Dick_Schoof_2024.jpg",
+        "credit": "Foto: Bogdan Hoyaux/Europa-Kommissionen (CC BY 4.0)",
+        "alt": "Hollands statsminister Dick Schoof. Den hollandske regering vil fjerne 25.000 statslige stillinger inden 2035 og erstatte en del af dem med AI.",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dick_Schoof_2024.jpg"
+      },
+      "topics": [
+        "ai",
+        "offentlig-sektor",
+        "holland",
+        "digitalisering"
+      ],
+      "entities": [
+        "Den hollandske regering",
+        "Dick Schoof"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 65,
+        "decisionValue": 55,
+        "novelty": 75,
+        "sourceQuality": 70,
+        "personalRelevance": 50,
+        "contrast": 65
+      },
+      "claims": [
+        {
+          "text": "Den hollandske regering vil reducere embedsværket med 25.000 fuldtidsstillinger frem mod 2035",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/297313/holland-vil-fjerne-hver-sjette-statslige-embedsmand-vil-bruge-ai-i-stedet-kan-spare-milliarder-af-kroner"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Målet er besparelser på 26 milliarder kroner om året, når reduktionerne er fuldt gennemført i 2035",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/297313/holland-vil-fjerne-hver-sjette-statslige-embedsmand-vil-bruge-ai-i-stedet-kan-spare-milliarder-af-kroner"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Holland vil fjerne hver sjette statslige embedsmand: Vil bruge AI i stedet - kan spare milliarder af kroner",
+          "publisher": "Computerworld",
+          "url": "https://www.computerworld.dk/art/297313/holland-vil-fjerne-hver-sjette-statslige-embedsmand-vil-bruge-ai-i-stedet-kan-spare-milliarder-af-kroner",
+          "publishedAt": "2026-10-27T08:00:00Z",
+          "kind": "primary"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "headline": "Nordiske lande vil 'stå sammen mod techgiganterne' med nyt manifest",
+      "text": "Nordiske lande vil 'stå sammen mod techgiganterne' med nyt manifest",
+      "url": "https://www.dr.dk/nyheder/seneste/nordiske-lande-vil-staa-sammen-mod-techgiganterne-med-nyt-manifest",
+      "publisher": "DR",
+      "section": "EU-politik",
+      "publishedAt": "2026-10-27T07:47:03Z",
+      "summary": "De nordiske lande har underskrevet \"Marienborg-manifestet\" og vil ifølge statsminister Mette Frederiksen stå sammen mod techgiganternes magt over børn og unges opvækst, blandt andet gennem regulering nationalt, i EU og globalt."
+    },
+    {
+      "headline": "Norske mediegiganter saksøker Meta",
+      "text": "Norske mediegiganter saksøker Meta",
+      "url": "https://e24.no/naeringsliv/i/p1y6Qj/norske-mediegiganter-saksoeker-meta",
+      "publisher": "E24",
+      "section": "Teknologi",
+      "publishedAt": "2026-10-27T06:30:02Z",
+      "summary": "NRK, TV 2, Schibsted og syv andre norske medievirksomheder har bedt Oslo tingrett stoppe nye Meta-vilkår, som ifølge brancheorganisationen MBL vil give Meta ret til at skrabe alt indhold – også bag betalingsmur – til AI-træning."
+    },
+    {
+      "headline": "Dansk kvante anno 2026: Rammer forskningsforspringet fabriksgulvet?",
+      "text": "Dansk kvante anno 2026: Rammer forskningsforspringet fabriksgulvet?",
+      "url": "https://ing.dk/artikel/dansk-kvante-anno-2026-rammer-forskningsforspringet-fabriksgulvet",
+      "publisher": "Ingeniøren",
+      "section": "Teknologi",
+      "publishedAt": "2026-10-27T08:00:00Z",
+      "summary": "Novo Nordisk Fonden og EIFO ejer i fællesskab QuNorth, der sammen med Atom Computing og Microsoft bygger kvantecomputeren Magne – specificeret til 50 logiske qubits og ventet klar omkring årsskiftet 2026/2027."
+    },
+    {
+      "headline": "Danskernes opsparinger falder to måneder i træk",
+      "text": "Danskernes opsparinger falder to måneder i træk",
+      "url": "https://www.dr.dk/nyheder/seneste/danskernes-opsparinger-falder-maaneder-i-traek",
+      "publisher": "DR",
+      "section": "Penge",
+      "publishedAt": "2026-10-27T08:10:36Z",
+      "summary": "Danskernes samlede bankindlån faldt fra 1.323,2 mia. kr. i juli til 1.317,7 mia. i august og 1.309,3 mia. kr. i september, viser tal fra Nationalbanken ifølge Ritzau – usædvanligt med fald to måneder i træk."
+    },
+    {
+      "headline": "Lars Eller scorer det afgørende mål i Florida-sejr i NHL",
+      "text": "Lars Eller scorer det afgørende mål i Florida-sejr i NHL",
+      "url": "https://www.dr.dk/sporten/seneste-sport/lars-eller-scorer-det-afgoerende-maal-i-florida-sejr-i-nhl",
+      "publisher": "DR",
+      "section": "Sport",
+      "publishedAt": "2026-10-25T22:49:16Z",
+      "summary": "37-årige Lars Eller sikrede Florida Panthers en 3-2-udesejr over Chicago Blackhawks med sin første scoring for klubben, siden han skiftede fra Ottawa Senators før sæsonen."
+    },
+    {
+      "headline": "Fransk forbrukertillit: Laveste på 13 år",
+      "text": "Fransk forbrukertillit: Laveste på 13 år",
+      "url": "https://e24.no/boers-og-finans/i/k0dv69/fransk-forbrukertillit-laveste-paa-13-aar",
+      "publisher": "E24",
+      "section": "Makroøkonomi",
+      "publishedAt": "2026-10-27T08:04:21Z",
+      "summary": "Fransk forbrugertillid faldt til 80 point i oktober mod ventet 85, ifølge statistikbureauet INSEE – det laveste niveau siden juni 2013, efter en periode med stigende renter og demonstrationer."
+    },
+    {
+      "headline": "Venstre: Vi skal have ryddet op i den digitale regulering",
+      "text": "Venstre: Vi skal have ryddet op i den digitale regulering",
+      "url": "https://www.computerworld.dk/art/297297/venstre-vi-skal-have-ryddet-op-i-den-digitale-regulering",
+      "publisher": "Computerworld",
+      "section": "Politik",
+      "publishedAt": "2026-10-26T10:59:00Z",
+      "summary": "Venstres it-ordfører Christoffer Aagaard Melson vil forenkle den digitale regulering, fjerne overlap og gøre krav klarere, så borgere beskyttes uden at kvæle innovation."
+    },
+    {
+      "headline": "Lækkede data fra Novo afslører hemmelig liste med læger",
+      "text": "Lækkede data fra Novo afslører hemmelig liste med læger",
+      "url": "https://www.tv2kosmopol.dk/gentofte/laekkede-data-fra-novo-afslorer-hemmelig-liste-med-laeger-dd2fc",
+      "publisher": "TV 2 Kosmopol",
+      "section": "Erhverv",
+      "publishedAt": "2026-10-22T08:25:00Z",
+      "summary": "Data fra et tidligere hackerangreb mod Novo Nordisk afslører ifølge Ingeniøren en liste, hvor omkring 7.000 danske læger og sygeplejersker er rangeret efter deres kommercielle værdi for selskabet. Novo vil ikke verificere materialet over for Berlingske."
+    },
+    {
+      "headline": "Regeringens nødplan: Busser og færger skal holde landet i gang, hvis broer kollapser",
+      "text": "Regeringens nødplan: Busser og færger skal holde landet i gang, hvis broer kollapser",
+      "url": "https://www.altinget.dk/artikel/laekket-noedplan-busser-og-faerger-skal-holde-landet-i-gang-hvis-broer-kollapser",
+      "publisher": "Altinget",
+      "section": "Infrastruktur",
+      "publishedAt": "2026-10-26T15:00:00Z",
+      "summary": "Regeringen forbereder ifølge interne dokumenter, Altinget har set, en plan for at holde trafikken kørende mellem Jylland, Fyn og Sjælland, hvis broerne over Storebælt eller Lillebælt sættes varigt ud af drift."
+    },
+    {
+      "headline": "0,000091 procent af landets pensionister har fået løfte om 1.000 kroner ekstra om måneden",
+      "text": "0,000091 procent af landets pensionister har fået løfte om 1.000 kroner ekstra om måneden",
+      "url": "https://www.dr.dk/nyheder/politik/0-000091-procent-af-landets-pensionister-har-faaet-loefte-om-1-000-kroner-ekstra-om-maaneden",
+      "publisher": "DR",
+      "section": "Politik",
+      "publishedAt": "2026-10-26T20:36:00Z",
+      "summary": "Socialdemokratiet har indtil videre kun lovet én navngiven pensionist – \"Annemarie\", som Mette Frederiksen har brugt i opslag – det løfte om 1.000 kr. ekstra om måneden, som ifølge finanslovsforslaget skal nå 150.000 pensionister."
+    },
+    {
+      "headline": "Københavns Universitet udsat for nyt hackerangreb",
+      "text": "Københavns Universitet udsat for nyt hackerangreb",
+      "url": "https://www.dr.dk/nyheder/seneste/koebenhavns-universitet-udsat-nyt-hackerangreb",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-10-26T17:23:10Z",
+      "summary": "Københavns Universitet lukkede præventivt flere administrative systemer efter endnu et hackerangreb – en uge efter et angreb, hvor hackere fik adgang til oplysninger om cirka 525.000 personer."
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-aljazeera-brazil-election-2026",
+      "mode": "read",
+      "kind": "explainer",
+      "status": "available",
+      "title": "What to know about Brazil's 2026 presidential election",
+      "creator": "Brian Osgood",
+      "provider": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/3/what-to-know-about-brazils-2026-presidential-election",
+      "availability": "Gratis adgang",
+      "commitment": "10-15 minutter",
+      "description": "Al Jazeeras baggrundsartikel om Brasiliens 2026-valg: kandidaterne, Jair Bolsonaros fængselsdom for kupforsøg, en korruptionsskandale og frygten for amerikansk indblanding op til det snævre opgør mellem Lula og Flavio Bolsonaro.",
+      "rationale": "Konteksten bag dagens valgresultat – hvorfor opgøret blev så tæt, hvad Jair Bolsonaros dom betyder for Flavios kampagne, og hvad der venter en fjerde Lula-periode i et af de vækstmarkeder, hvor dansk erhvervsliv har investeret tungt.",
+      "topics": [
+        "brasilien",
+        "valg",
+        "emerging-markets"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6ab8278b-1790453643.jpg?resize=1200%2C675",
+        "credit": "Foto: Adriano Machado og Pilar Olivares/Reuters",
+        "alt": "Brasiliens præsident Luiz Inácio Lula da Silva og præsidentkandidat Flavio Bolsonaro i et kombinationsbillede.",
+        "sourceUrl": "https://www.aljazeera.com/news/2026/10/3/what-to-know-about-brazils-2026-presidential-election"
+      }
+    },
+    {
+      "id": "rec-ec-draghi-report-2026",
+      "mode": "read",
+      "kind": "report",
+      "status": "available",
+      "title": "The future of European competitiveness: Report by Mario Draghi",
+      "creator": "Mario Draghi",
+      "provider": "Europa-Kommissionen",
+      "url": "https://commission.europa.eu/topics/eu-competitiveness/draghi-report_en",
+      "availability": "Gratis adgang, opdateret løbende",
+      "commitment": "En times læsning af resumeet, eller dyk ned i hele rapporten",
+      "description": "Kommissionens samleside for Draghi-rapporten om europæisk konkurrenceevne, med status på implementeringen – herunder konkurrenceevnekompasset fra januar 2025 og budgetforslaget for 2028-2034 på knap 2.000 mia. euro.",
+      "rationale": "Rapporten er stadig den centrale reference for EU's konkurrenceevnedagsorden – det regelsæt og den finansieringsramme, enhver virksomhed eller rådgiver med europæiske markedsadgangs- eller reguleringsspørgsmål før eller siden støder på.",
+      "topics": [
+        "eu",
+        "konkurrenceevne",
+        "handelspolitik"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://commission.europa.eu/sites/default/files/styles/ewcms_metatag_image/public/2024-09/Draghi-report_featured-media.png?h=ef1d7280&itok=vEsp4OMe",
+        "credit": "Kilde: Europa-Kommissionen",
+        "alt": "Forsidegrafik til Draghi-rapporten om europæisk konkurrenceevne.",
+        "sourceUrl": "https://commission.europa.eu/topics/eu-competitiveness/draghi-report_en"
+      }
+    },
+    {
+      "id": "rec-remedios-varo-louisiana-2026",
+      "mode": "experience",
+      "kind": "exhibition",
+      "status": "available",
+      "title": "Remedios Varo",
+      "creator": "Remedios Varo",
+      "provider": "Louisiana Museum of Modern Art",
+      "url": "https://louisiana.dk/en/exhibition/remedios-varo/",
+      "availability": "Åben nu, Humlebæk, standard entré",
+      "commitment": "En eftermiddag",
+      "description": "Louisianas første store europæiske museumsudstilling om den spansk-mexicanske surrealist Remedios Varo (1908-1963), med værker på lån fra museer i Mexico og USA samt sjældent viste private samlinger.",
+      "rationale": "En håndgribelig pause fra skærme og markedsdata: Varos malerier, der forbinder drømmeverden og videnskabelig udforskning med en næsten alkymistisk præcision, er sjældent vist i Europa og kræver ingen forhåndsviden.",
+      "topics": [
+        "kunst",
+        "kultur",
+        "serendipitet"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://louisiana.dk/wp-content/uploads/2026/05/untitled-1-of-2-huge_jpg-1.jpg",
+        "credit": "© Remedios Varo / Louisiana Museum of Modern Art",
+        "alt": "Værk af Remedios Varo udstillet på Louisiana.",
+        "sourceUrl": "https://louisiana.dk/en/exhibition/remedios-varo/"
+      }
+    }
+  ],
+  "quality": {
+    "editorialConfidence": 75,
+    "sourceDiversity": 75
+  }
+}
