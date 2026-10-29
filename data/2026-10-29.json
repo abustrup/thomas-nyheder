@@ -1,0 +1,746 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-10-29-full",
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T05:12:07Z",
+  "readingMinutes": 11,
+  "title": "Thomas' Nyheder",
+  "dek": "Togkatastrofe i Spanien, et nyt formandskab i Danmarks Erhvervsfremmebestyrelse, og en hård AI-udskilning i dansk venture-software.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-spanien-togulykke-2026",
+      "eventKey": "spanien-togulykke-2026",
+      "materialFacts": [
+        "Et Renfe-højhastighedstog kørte ind i et stillestående Iryo-tog nær Urda, Toledo-provinsen",
+        "Mindst 68 bekræftet døde, omkring 80 indlagt, 15 alvorligt/kritisk skadede",
+        "Transportminister Óscar Puente: en computerfejl stoppede togene, en menneskelig fejl satte dem i gang igen",
+        "Spaniens andet store togulykke i år"
+      ],
+      "section": "Verden",
+      "headline": "OVERBLIK Det ved vi om togulykken i Spanien",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/overblik-det-ved-vi-om-togulykken-i-spanien",
+      "subheadline": "Mindst 68 døde efter sammenstød mellem to tog nær Toledo, mens transportministeren taler om en kombination af en computerfejl og en menneskelig fejl.",
+      "body": [
+        "Et højhastighedstog fra det spanske statsbaneselskab Renfe kørte onsdag ind i et stillestående tog fra det private selskab Iryo nær Urda i Toledo-provinsen, på strækningen mellem Madrid og det sydlige Andalusien. Ulykken har indtil nu kostet mindst 68 mennesker livet, og omkring 80 er indlagt, hvoraf 15 er alvorligt eller kritisk skadet.",
+        "Transportminister Óscar Puente siger, at en computerfejl først fik togene til at stoppe, hvorefter en menneskelig fejl satte dem i gang igen – med sammenstødet som resultat. Han kalder beslutningen om at genstarte togene \"uforklarlig\". Statsminister Pedro Sánchez har erklæret national sorg."
+      ],
+      "whyItMatters": "Det er Spaniens andet store togulykke i år, ni måneder efter en tidligere ulykke kostede 46 mennesker livet, og rejser spørgsmål om sikkerheden i signalsystemerne på en af Europas mest trafikerede højhastighedsstrækninger.",
+      "analysis": "At fejlen ifølge ministeren var en kombination af en teknisk stopmelding og en efterfølgende menneskelig beslutning om at genstarte togene, betyder at undersøgelsen sandsynligvis vil rette sig mod kontrolcentralens procedurer – ikke kun mod selve signalteknikken.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/mj0nrqys/20261028-122555-l.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Redningsmandskab ved sporene efter togulykken nær Urda i Toledo-provinsen, Spanien",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/overblik-det-ved-vi-om-togulykken-i-spanien"
+      },
+      "topics": [
+        "verden",
+        "transport",
+        "spanien"
+      ],
+      "entities": [
+        "Óscar Puente",
+        "Pedro Sánchez",
+        "Renfe",
+        "Iryo"
+      ],
+      "isLead": true,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 92,
+        "decisionValue": 20,
+        "novelty": 85,
+        "sourceQuality": 85,
+        "personalRelevance": 10,
+        "contrast": 60
+      },
+      "claims": [
+        {
+          "text": "Mindst 68 mennesker er bekræftet døde efter sammenstødet mellem et Renfe- og et Iryo-tog nær Urda",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/overblik-det-ved-vi-om-togulykken-i-spanien",
+            "https://www.aljazeera.com/news/2026/10/28/injuries-reported-after-two-trains-collide-in-spain"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Transportminister Óscar Puente beskriver en computerfejl fulgt af en menneskelig fejl som årsag",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/overblik-det-ved-vi-om-togulykken-i-spanien"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "OVERBLIK Det ved vi om togulykken i Spanien",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/overblik-det-ved-vi-om-togulykken-i-spanien",
+          "publishedAt": "2026-10-28T12:00:00Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Injuries reported after two trains collide in Spain",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/28/injuries-reported-after-two-trains-collide-in-spain",
+          "publishedAt": "2026-10-28T10:00:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-venstre-preben-bang-2026",
+      "eventKey": "venstre-preben-bang-eksklusion-2026",
+      "materialFacts": [
+        "Venstre har udstødt Preben Bang Henriksen fra folketingsgruppen",
+        "Krav om fremtidig stemmeloyalitet kom fra Troels Lund Poulsen med mandat fra hovedbestyrelsen",
+        "Bang Henriksen fortsætter som løsgænger",
+        "Sagen stammer fra septembers uro om en landbrugs-/gødningslov"
+      ],
+      "section": "Politik",
+      "headline": "Troels Lund: Preben Bang ville ikke være loyal over for flertallet",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/politik/troels-lund-preben-bang-ville-ikke-vaere-loyal-over-flertallet",
+      "subheadline": "Venstres folketingsgruppe har udstødt det mangeårige medlem Preben Bang Henriksen, efter han afviste et loyalitetskrav fra partiformand Troels Lund Poulsen.",
+      "body": [
+        "Det, der lignede et almindeligt gruppemøde i Venstre, endte onsdag med endnu et dramatisk kapitel for partiet. Formand Troels Lund Poulsen ville have alle medlemmers tilsagn om fremover at stemme med gruppens flertal – et mandat han fik af en enig hovedbestyrelse i weekenden.",
+        "Det løfte kunne det mangeårige medlem Preben Bang Henriksen ikke give, og han er nu ude af gruppen. Han fortsætter som løsgænger. Sagen har rod i septembers uro om en landbrugs- og gødningslov, hvor han stemte mod partilinjen."
+      ],
+      "whyItMatters": "Konflikten viser, hvor stram en linje Troels Lund Poulsen kører for at sikre partidisciplin efter flere måneders intern splittelse siden september – på bekostning af et af Venstres mest erfarne medlemmer.",
+      "analysis": "At kravet kom med fuldt mandat fra hovedbestyrelsen, og at Bang Henriksen stadig vælger løsgænger-vejen frem for at bøje sig, tyder på at bruddet er permanent snarere end et forhandlingstræk.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/u2gljqss/20261027-184212-l_crop001.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Troels Lund Poulsen og Preben Bang Henriksen ved Folketinget",
+        "sourceUrl": "https://www.dr.dk/nyheder/politik/troels-lund-preben-bang-ville-ikke-vaere-loyal-over-flertallet"
+      },
+      "topics": [
+        "danmark",
+        "politik"
+      ],
+      "entities": [
+        "Troels Lund Poulsen",
+        "Preben Bang Henriksen",
+        "Venstre"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 30,
+        "novelty": 75,
+        "sourceQuality": 85,
+        "personalRelevance": 25,
+        "contrast": 30
+      },
+      "claims": [
+        {
+          "text": "Venstres folketingsgruppe har udstødt Preben Bang Henriksen efter han afviste et loyalitetskrav",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/politik/troels-lund-preben-bang-ville-ikke-vaere-loyal-over-flertallet",
+            "https://nyheder.tv2.dk/politik/2026-10-27-preben-bang-henriksen-faerdig-i-venstre"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Troels Lund: Preben Bang ville ikke være loyal over for flertallet",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/politik/troels-lund-preben-bang-ville-ikke-vaere-loyal-over-flertallet",
+          "publishedAt": "2026-10-27T20:07:00Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Preben Bang Henriksen færdig i Venstre",
+          "publisher": "TV 2",
+          "url": "https://nyheder.tv2.dk/politik/2026-10-27-preben-bang-henriksen-faerdig-i-venstre",
+          "publishedAt": "2026-10-27T17:21:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-irgens-erhvervsfremme-2026",
+      "eventKey": "irgens-danmarks-erhvervsfremmebestyrelse-2026",
+      "materialFacts": [
+        "Martin Lidegaard har udpeget Sofie Irgens som ny formand for Danmarks Erhvervsfremmebestyrelse",
+        "15 øvrige medlemmer udpeget samtidig, heriblandt fire nye borgmestre",
+        "Bestyrelsen dækker SMV'er, der udgør to tredjedele af privat beskæftigelse"
+      ],
+      "section": "Erhverv",
+      "headline": "Ny formand for Danmarks Erhvervsfremme-bestyrelse skal styrke konkurrencekraften i danske SMV'er",
+      "primarySourceUrl": "https://via.ritzau.dk/pressemeddelelse/15252587/ny-formand-for-danmarks-erhvervsfremme-bestyrelse-skal-styrke-konkurrencekraften-i-danske-smver?publisherId=5540552&lang=da",
+      "subheadline": "Erhvervsminister Martin Lidegaard har udpeget Sofie Irgens, CEO i Schneider Electric Danmark, som ny formand for bestyrelsen, der dækker to tredjedele af den private beskæftigelse.",
+      "body": [
+        "Sofie Irgens, CEO i Schneider Electric Danmark, bliver ny formand for Danmarks Erhvervsfremmebestyrelse. Det har erhvervsminister Martin Lidegaard besluttet, samtidig med at 15 øvrige medlemmer er udpeget, heriblandt fire nye borgmestre.",
+        "Bestyrelsen skal via Virksomhedsudvikling Danmark hjælpe landets små og mellemstore virksomheder – to tredjedele af den private beskæftigelse – med at udnytte ny teknologi, gribe den grønne omstilling og komme ud på internationale markeder."
+      ],
+      "whyItMatters": "Udpegningen er et eksempel på den bevægelse i dansk erhvervslivs øverste lag, der afgør, hvem der har indflydelse på statens SMV-politik de kommende år.",
+      "analysis": "At ministeren selv fremhæver AI og robotteknologi som redskaberne, bestyrelsen skal hjælpe virksomhederne med, placerer opgaven tæt på produktivitetsdebatten, der også fylder i dagens historie om venture-sektorens AI-pressede softwareselskaber.",
+      "topics": [
+        "erhverv",
+        "who-is-moving",
+        "smv"
+      ],
+      "entities": [
+        "Sofie Irgens",
+        "Martin Lidegaard",
+        "Schneider Electric Danmark"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 50,
+        "decisionValue": 65,
+        "novelty": 80,
+        "sourceQuality": 75,
+        "personalRelevance": 80,
+        "contrast": 20
+      },
+      "claims": [
+        {
+          "text": "Martin Lidegaard har udpeget Sofie Irgens, CEO i Schneider Electric Danmark, som ny formand for Danmarks Erhvervsfremmebestyrelse",
+          "sourceUrls": [
+            "https://via.ritzau.dk/pressemeddelelse/15252587/ny-formand-for-danmarks-erhvervsfremme-bestyrelse-skal-styrke-konkurrencekraften-i-danske-smver?publisherId=5540552&lang=da"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Ny formand for Danmarks Erhvervsfremme-bestyrelse skal styrke konkurrencekraften i danske SMV'er",
+          "publisher": "Erhvervsministeriet (Ritzau)",
+          "url": "https://via.ritzau.dk/pressemeddelelse/15252587/ny-formand-for-danmarks-erhvervsfremme-bestyrelse-skal-styrke-konkurrencekraften-i-danske-smver?publisherId=5540552&lang=da",
+          "publishedAt": "2026-10-28T06:00:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-norden-opjustering-2026",
+      "eventKey": "norden-opjusterer-forventninger-2026",
+      "materialFacts": [
+        "NORDEN hæver årsforventningen til 200-250 mio. dollar",
+        "Q3-nettoresultat på 54 mio. dollar mod 26 mio. dollar sidste år, ROIC 11,8 pct.",
+        "NAV op 38 pct. år til dato til 523 kr. per aktie",
+        "24 mio. dollar til aktionærerne via dividende og aktietilbagekøb"
+      ],
+      "section": "Erhverv",
+      "headline": "NORDEN opjusterer årsforventninger efter stærkt tredje kvartal",
+      "primarySourceUrl": "https://ugebrev.dk/flashnews/norden-opjusterer-aarsforventninger-efter-staerkt-tredje-kvartal/",
+      "subheadline": "Det danske shippingselskab hæver forventningen til 200-250 mio. dollar efter et kvartal med fordoblet nettoresultat og markant stigende indre værdi.",
+      "body": [
+        "NORDEN leverede et nettoresultat på 54 mio. dollar i tredje kvartal, mod 26 mio. dollar samme kvartal sidste år, og hæver nu årsforventningen til 200-250 mio. dollar fra tidligere 180-230 mio. dollar. ROIC endte på 11,8 pct.",
+        "Selskabets indre værdi er steget 38 pct. år til dato til 523 kr. per aktie, og NORDEN sender 24 mio. dollar tilbage til aktionærerne via 2 kr. i dividende og et aktietilbagekøb på 15 mio. dollar."
+      ],
+      "whyItMatters": "Opjusteringen er et konkret pejlemærke for styrken i dansk tørlast- og tankskibsfart, et eksporterhverv der historisk har svinget kraftigt med den globale handel.",
+      "analysis": "Direktør Jan Rindbo kalder det en styrke i begge forretningsben, tørlast og tank, samtidig – en bredde der typisk er sværere at opnå end fremgang i kun ét segment, og som derfor vejer tungere i vurderingen af selskabets underliggende drift.",
+      "topics": [
+        "erhverv",
+        "shipping",
+        "eksport"
+      ],
+      "entities": [
+        "NORDEN",
+        "Jan Rindbo"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 45,
+        "decisionValue": 55,
+        "novelty": 70,
+        "sourceQuality": 70,
+        "personalRelevance": 60,
+        "contrast": 15
+      },
+      "claims": [
+        {
+          "text": "NORDEN hæver årsforventningen til 200-250 mio. dollar efter et Q3-nettoresultat på 54 mio. dollar",
+          "sourceUrls": [
+            "https://ugebrev.dk/flashnews/norden-opjusterer-aarsforventninger-efter-staerkt-tredje-kvartal/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "NORDEN opjusterer årsforventninger efter stærkt tredje kvartal",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/flashnews/norden-opjusterer-aarsforventninger-efter-staerkt-tredje-kvartal/",
+          "publishedAt": "2026-10-28T18:18:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-dansk-erhverv-groentbyggeri-2026",
+      "eventKey": "dansk-erhverv-alliancen-groent-byggeri-2026",
+      "materialFacts": [
+        "Dansk Erhverv lancerer Alliancen for Grønt Byggeri",
+        "Boligpriser i København op knap 50 pct. over tre år",
+        "Social- og Boligstyrelsen venter en boligefterspørgsel i 2040 ca. 61.000 boliger over udbuddet",
+        "Realdania ser potentiale for 40.000-70.000 boliger via genbrug"
+      ],
+      "section": "Erhverv",
+      "headline": "Dansk Erhverv lancerer Alliancen for Grønt Byggeri",
+      "primarySourceUrl": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/oktober/dansk-erhverv-lancerer-alliancen-for-gront-byggeri",
+      "subheadline": "Den nye alliance skal samle byggeriets værdikæde om cirkulære materialer og genbrug af eksisterende bygninger, mens boligpriserne i København er steget næsten 50 pct. på tre år.",
+      "body": [
+        "Dansk Erhverv har lanceret Alliancen for Grønt Byggeri, der samler virksomheder fra hele byggeriets værdikæde om konkrete politiske forslag til mere cirkulære materialer, genbrug af eksisterende bygninger og reform af byggereglerne.",
+        "Baggrunden er et boligmarked under pres: priserne på ejerboliger i København er steget knap 50 pct. over tre år, og Social- og Boligstyrelsens fremskrivning venter en boligefterspørgsel i København og Frederiksberg i 2040, der ligger ca. 61.000 boliger over det nuværende udbud."
+      ],
+      "whyItMatters": "Branchedirektør Katrine Bjerre siger, at løsninger skal skaleres markant op – alliancen er Dansk Erhvervs forsøg på at sætte dagsordenen for byggeriets boligunderskud.",
+      "analysis": "Realdania vurderer potentialet for genbrug til 40.000-70.000 boliger nationalt, op til 5.000 i København via uudnyttede tagetager – tal der gør genbrug til en reel delløsning snarere end et nicheprojekt.",
+      "image": {
+        "url": "https://danskerhverv.imgix.net/contentassets/c29f07354bd44d8e8c58910d14c4d917/katrine-bjerre-RDl1YTVHK1FzeFdKcmlGQnR1YS9rc3JHMDk4PQ.jpg",
+        "credit": "Kilde: Dansk Erhverv",
+        "alt": "Katrine Bjerre, branchedirektør for byggeri i Dansk Erhverv",
+        "sourceUrl": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/oktober/dansk-erhverv-lancerer-alliancen-for-gront-byggeri"
+      },
+      "topics": [
+        "erhverv",
+        "byggeri",
+        "groen-omstilling"
+      ],
+      "entities": [
+        "Dansk Erhverv",
+        "Katrine Bjerre",
+        "Realdania"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 40,
+        "decisionValue": 55,
+        "novelty": 70,
+        "sourceQuality": 75,
+        "personalRelevance": 70,
+        "contrast": 25
+      },
+      "claims": [
+        {
+          "text": "Dansk Erhverv lancerer Alliancen for Grønt Byggeri med boligpris- og boligunderskudstal som baggrund",
+          "sourceUrls": [
+            "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/oktober/dansk-erhverv-lancerer-alliancen-for-gront-byggeri"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Dansk Erhverv lancerer Alliancen for Grønt Byggeri",
+          "publisher": "Dansk Erhverv",
+          "url": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/oktober/dansk-erhverv-lancerer-alliancen-for-gront-byggeri",
+          "publishedAt": "2026-10-28T07:00:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-coloplast-fonden-2026",
+      "eventKey": "coloplast-fonden-ejerskab-2026",
+      "materialFacts": [
+        "Niels Peter Louis-Hansen (78) har overdraget sin Coloplast-andel til Coloplast Fonden",
+        "Finanstilsynet har godkendt overdragelsen",
+        "Fonden får indirekte kontrol med det børsnoterede Coloplast"
+      ],
+      "section": "Erhverv",
+      "headline": "Ny fond har overtaget ejerskabet af dansk C25 virksomhed",
+      "primarySourceUrl": "https://www.altinget.dk/erhverv/artikel/ny-fond-har-overtaget-ejerskabet-af-dansk-c25-virksomhed",
+      "subheadline": "78-årige Niels Peter Louis-Hansen overdrog i starten af oktober sin ejerandel i Coloplast til en nystiftet erhvervsdrivende fond, godkendt af Finanstilsynet.",
+      "body": [
+        "Coloplast, det børsnoterede medicoselskab, får ny ejerstruktur. I starten af oktober overdrog 78-årige Niels Peter Louis-Hansen sin ejerandel i familievirksomheden til en nystiftet fond, Coloplast Fonden, efter Finanstilsynets godkendelse.",
+        "Fonden overtager de indirekte aktier, der lå i NPLH Holding ApS, og får kontrol med det børsnoterede Coloplast Holding ApS. Overdragelsen beskrives som et generationsskifte og et aktivt valg frem for et konventionelt aktiesalg."
+      ],
+      "whyItMatters": "Coloplast bliver endnu en stor dansk virksomhed under fondsejerskab – en model, der kombinerer langsigtet industriel kontrol med almennyttige formål, og som præger store dele af dansk erhvervsliv.",
+      "analysis": "At overdragelsen sker som et bevidst valg snarere end et salg, signalerer at ejerfamilien prioriterer kontinuitet i ledelse og strategi højere end den kortsigtede gevinst et salg til eksterne investorer kunne have givet.",
+      "image": {
+        "url": "https://legacy.altinget.dk/images/article/307245/162504.jpg",
+        "credit": "Kilde: Altinget",
+        "alt": "Ny fond har overtaget ejerskabet af dansk C25 virksomhed",
+        "sourceUrl": "https://www.altinget.dk/erhverv/artikel/ny-fond-har-overtaget-ejerskabet-af-dansk-c25-virksomhed"
+      },
+      "topics": [
+        "erhverv",
+        "ejerskab",
+        "fonde"
+      ],
+      "entities": [
+        "Coloplast",
+        "Coloplast Fonden",
+        "Niels Peter Louis-Hansen",
+        "Finanstilsynet"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 50,
+        "decisionValue": 50,
+        "novelty": 65,
+        "sourceQuality": 70,
+        "personalRelevance": 65,
+        "contrast": 20
+      },
+      "claims": [
+        {
+          "text": "Niels Peter Louis-Hansen har overdraget sin Coloplast-ejerandel til den nystiftede Coloplast Fonden, godkendt af Finanstilsynet",
+          "sourceUrls": [
+            "https://www.altinget.dk/erhverv/artikel/ny-fond-har-overtaget-ejerskabet-af-dansk-c25-virksomhed"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Ny fond har overtaget ejerskabet af dansk C25 virksomhed",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/erhverv/artikel/ny-fond-har-overtaget-ejerskabet-af-dansk-c25-virksomhed",
+          "publishedAt": "2026-10-26T00:00:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-venture-saas-udskilning-2026",
+      "eventKey": "venture-saas-udskilningsloeb-2026",
+      "materialFacts": [
+        "Decide Act, Custimy.io og Uniscale er gået konkurs",
+        "SaaS-værdisætning faldet fra ca. 5x til ca. 2x ARR over tre år",
+        "Via Equity har rejst en ny fond VI på 350 mio. euro",
+        "Frederik Aakard beskriver et 'cap table from hell' hos nødlidende selskaber"
+      ],
+      "section": "Erhverv",
+      "headline": "Hårdt udskilningsløb hos danske venture-ejede softwarefirmaer",
+      "primarySourceUrl": "https://ugebrev.dk/finans/haardt-udskilningsloeb-hos-danske-venture-ejede-softwarefirmaer/",
+      "subheadline": "AI-presset har sendt flere danske SaaS-selskaber i betalingsstop, mens værdisætningen af softwarevirksomheder er halveret på tre år.",
+      "body": [
+        "Flere danske venture-ejede softwareselskaber er gået konkurs under AI-presset. Decide Act fra Bornholm søgte 5 mio. kr. men lukkede, Custimy.io i København voksede til 45 medarbejdere før det stoppede, og Uniscale i Odense faldt efter afvist ny finansiering.",
+        "Værdisætningen af SaaS-selskaber er faldet fra ca. 5x ARR for tre år siden til ca. 2x i dag. Via Equity, med 19 nordiske og tyske softwarevirksomheder, har i år rejst en ny fond VI på 350 mio. euro."
+      ],
+      "whyItMatters": "Rådgiver Frederik Aakard, Dema Partners, beskriver nødlidende selskabers 'cap table fra helvede' – stiftere, familie, venner og gæld, der gør det svært at samle investorerne.",
+      "analysis": "At det primært er de mindre, mindre modne selskaber der falder, mens etablerede selskaber med dybe kundeintegrationer klarer sig, tyder på at AI-presset filtrerer snarere end udsletter – hårdest for de vækstselskaber, venture-kapitalen satsede mest på.",
+      "image": {
+        "url": "https://ugebrev.dk/wp-content/uploads/2026/10/Benjamin-Kramarz-Managing-partner-i-Via-Equity-1536x864.png",
+        "credit": "Kilde: Økonomisk Ugebrev",
+        "alt": "Benjamin Kramarz, managing partner i Via Equity, hvis fond investerer i nordisk og tysk software",
+        "sourceUrl": "https://ugebrev.dk/finans/haardt-udskilningsloeb-hos-danske-venture-ejede-softwarefirmaer/"
+      },
+      "topics": [
+        "erhverv",
+        "ai",
+        "venture",
+        "produktivitet"
+      ],
+      "entities": [
+        "Decide Act",
+        "Custimy.io",
+        "Uniscale",
+        "Via Equity",
+        "Benjamin Kramarz",
+        "Dema Partners",
+        "Frederik Aakard"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 60,
+        "novelty": 75,
+        "sourceQuality": 70,
+        "personalRelevance": 75,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "Decide Act, Custimy.io og Uniscale er gået konkurs under AI-pres, og SaaS-værdisætning er faldet fra ca. 5x til 2x ARR",
+          "sourceUrls": [
+            "https://ugebrev.dk/finans/haardt-udskilningsloeb-hos-danske-venture-ejede-softwarefirmaer/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Hårdt udskilningsløb hos danske venture-ejede softwarefirmaer",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/finans/haardt-udskilningsloeb-hos-danske-venture-ejede-softwarefirmaer/",
+          "publishedAt": "2026-10-28T10:55:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-ilulissat-lufthavn-2026",
+      "eventKey": "ilulissat-lufthavn-aabning-2026",
+      "materialFacts": [
+        "Trafikstyrelsen har godkendt sikkerheden i den nye lufthavn i Ilulissat",
+        "Landingsbane udvidet fra 845 til 2.200 meter",
+        "Air Greenlands indvielsesflyvning fra København lander kl. 14.40",
+        "Rejsetid skåret til 4 timer og 40 minutter, mellemlanding i Nuuk fjernet"
+      ],
+      "section": "Danmark",
+      "headline": "International lufthavn i Grønland får grønt lys til åbning",
+      "primarySourceUrl": "https://nyheder.tv2.dk/trafik/2026-10-29-international-lufthavn-i-groenland-faar-groent-lys-til-aabning",
+      "subheadline": "Trafikstyrelsen har godkendt sikkerheden i den nye lufthavn i Ilulissat, der åbner torsdag og for første gang gør direkte flyvning fra København muligt.",
+      "body": [
+        "Trafikstyrelsen har natten til torsdag godkendt sikkerheden i den nye internationale lufthavn i Ilulissat i Diskobugten, der officielt åbner torsdag. Landingsbanen er udvidet fra 845 til 2.200 meter, så den kan tage mod flyvninger direkte fra udlandet.",
+        "Air Greenlands indvielsesflyvning fra København lander kl. 14.40 dansk tid. Den direkte rute skærer rejsetiden til Ilulissat til 4 timer og 40 minutter og fjerner den hidtidige mellemlanding i Nuuk."
+      ],
+      "whyItMatters": "Lufthavnen er en del af den igangværende ombygning af Grønlands lufthavne – sammen med Nuuk og Qaqortoq – der skal gøre øen tilgængelig uden om Kangerlussuaq-knudepunktet.",
+      "analysis": "At ruten går direkte til en af Grønlands mest besøgte destinationer og ikke kun til hovedstaden, er et tegn på at ombygningen er tænkt bredere end administrativ adgang – den sigter mod at åbne turisme- og erhvervspotentiale internationalt.",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/7/2/2/7226a52d-27f3-4666-a18e-d8d31d62985e?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCw3LDY2NjQsMzc0OQ&s=037cbbfe11b94990892bb435d145bc3e",
+        "credit": "Kilde: TV 2",
+        "alt": "Den nye lufthavn i Ilulissat i Grønland, der åbner for international trafik",
+        "sourceUrl": "https://nyheder.tv2.dk/trafik/2026-10-29-international-lufthavn-i-groenland-faar-groent-lys-til-aabning"
+      },
+      "topics": [
+        "danmark",
+        "groenland",
+        "infrastruktur",
+        "transport"
+      ],
+      "entities": [
+        "Trafikstyrelsen",
+        "Air Greenland",
+        "Lars Korsholm"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 45,
+        "decisionValue": 25,
+        "novelty": 80,
+        "sourceQuality": 80,
+        "personalRelevance": 15,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "Trafikstyrelsen har godkendt den nye Ilulissat-lufthavn, der åbner torsdag med en udvidet landingsbane",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/trafik/2026-10-29-international-lufthavn-i-groenland-faar-groent-lys-til-aabning"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "International lufthavn i Grønland får grønt lys til åbning",
+          "publisher": "TV 2",
+          "url": "https://nyheder.tv2.dk/trafik/2026-10-29-international-lufthavn-i-groenland-faar-groent-lys-til-aabning",
+          "publishedAt": "2026-10-29T04:00:00Z",
+          "kind": "reporting"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "headline": "Ny undersøgelse: Europa bliver mere digitalt afhængigt, mens USA og Kina trækker fra",
+      "text": "Ny undersøgelse: Europa bliver mere digitalt afhængigt, mens USA og Kina trækker fra",
+      "url": "https://www.computerworld.dk/art/297351/ny-undersoegelse-europa-bliver-mere-digitalt-afhaengigt-mens-usa-og-kina-traekker-fra",
+      "publisher": "Computerworld",
+      "section": "Erhverv",
+      "publishedAt": "2026-10-28T16:40:00Z",
+      "summary": "Et studie fra Bonn Universitet og Vodafone-instituttet viser EU's digitale afhængighedsindeks på 0,69 mod USA's 0,38 og Kinas 0,43. Danmark har øremærket 80 mio. kr. til digital suverænitet, men intet er endnu udmøntet."
+    },
+    {
+      "headline": "Københavns Lufthavn henter ny CFO hos Novo",
+      "text": "Københavns Lufthavn henter ny CFO hos Novo",
+      "url": "https://check-in.dk/koebenhavns-lufthavn-henter-ny-cfo-hos-novo/",
+      "publisher": "Check-in.dk",
+      "section": "Erhverv",
+      "publishedAt": "2026-10-28T07:00:00Z",
+      "summary": "Sofie Mørck Jarl forlader en post som Group VP Finance i Novo for at blive CFO i Københavns Lufthavne fra 1. marts 2027. Hun afløser Rasmus Lund, der døde i juli 2026."
+    },
+    {
+      "headline": "Havmølleparker mangler trusselsanalyser midt i hybridkrig: \"Det er jo kritisk\"",
+      "text": "Havmølleparker mangler trusselsanalyser midt i hybridkrig: \"Det er jo kritisk\"",
+      "url": "https://ing.dk/artikel/havmoelleparker-mangler-trusselsanalyser-midt-i-hybridkrig-det-er-jo-kritisk",
+      "publisher": "Ingeniøren",
+      "section": "Energi",
+      "publishedAt": "2026-10-29T05:00:00Z",
+      "summary": "Danmarks kommende havmølleparker bygges uden specifikke trusselsanalyser, trods det skærpede hybridkrigsmiljø i Østersøen og Nordsøen."
+    },
+    {
+      "headline": "Storm af protester over et af Danmarks største datacentre: Byråd møder om få timer for at tage stilling",
+      "text": "Storm af protester over et af Danmarks største datacentre: Byråd møder om få timer for at tage stilling",
+      "url": "https://www.computerworld.dk/art/297337/storm-af-protester-over-et-af-danmarks-stoerste-datacentre-byraad-moedes-om-faa-timer-for-at-tage-stilling",
+      "publisher": "Computerworld",
+      "section": "Energi",
+      "publishedAt": "2026-10-28T11:00:00Z",
+      "summary": "Et foreslået 350 MW-datacenter i Roskilde Kommune ville seksdoble kommunens elforbrug. Byrådet skulle samme aften stemme om et borgerforslag om at skrotte projektet."
+    },
+    {
+      "headline": "Danske banker nedlægger stillinger og fyrer – men hyrer samtidig AI-specialister i massevis",
+      "text": "Danske banker nedlægger stillinger og fyrer – men hyrer samtidig AI-specialister i massevis",
+      "url": "https://www.computerworld.dk/art/297332/danske-banker-nedlaegger-stillinger-og-fyrer-men-hyrer-samtidig-ai-specialister-i-massevis",
+      "publisher": "Computerworld",
+      "section": "Erhverv",
+      "publishedAt": "2026-10-28T09:00:00Z",
+      "summary": "Danske Bank og Nordea afskediger medarbejdere samtidig med at de har over 100 åbne AI-stillinger mellem sig, mange placeret uden for Danmark."
+    },
+    {
+      "headline": "Dansk kvante anno 2026: Rammer forskningsforspringet fabriksgulvet?",
+      "text": "Dansk kvante anno 2026: Rammer forskningsforspringet fabriksgulvet?",
+      "url": "https://ing.dk/artikel/dansk-kvante-anno-2026-rammer-forskningsforspringet-fabriksgulvet",
+      "publisher": "Ingeniøren",
+      "section": "Erhverv",
+      "publishedAt": "2026-10-27T05:00:00Z",
+      "summary": "Novo Nordisk Fonden bygger Quantum Foundry Copenhagen, Europas første kommercielle nanofabrikationsanlæg til kvantematerialer, mens kvantecomputeren Magne venter lancering i 2026/2027."
+    },
+    {
+      "headline": "Treasury Sanctions Rwandan Ministry of Defence and Financial Institution Supporting M23",
+      "text": "Treasury Sanctions Rwandan Ministry of Defence and Financial Institution Supporting M23",
+      "url": "https://home.treasury.gov/news/press-releases/sb0668",
+      "publisher": "U.S. Department of the Treasury",
+      "section": "Verden",
+      "publishedAt": "2026-10-28T18:00:00Z",
+      "summary": "OFAC har sanktioneret Rwandas forsvarsministerium og Zigama Credit and Savings Society for at støtte M23-oprørere i det østlige DR Congo, blandt andet via guldsmugling."
+    },
+    {
+      "headline": "Holger Rune spiller sig i kvartfinale efter gyser-afgørelse",
+      "text": "Holger Rune spiller sig i kvartfinale efter gyser-afgørelse",
+      "url": "https://tv2.dk/reel/2026-10-28-holger-rune-spiller-sig-i-kvartfinale-efter-gyser-afgoerelse-6407560048112",
+      "publisher": "TV 2",
+      "section": "Sport",
+      "publishedAt": "2026-10-28T22:39:00Z",
+      "summary": "Holger Rune slog Hubert Hurkacz 3-6, 6-3, 7-6 i ATP 500-turneringen i Basel og er videre til kvartfinalen – et år efter en akilles-skade sendte ham langt ned i verdensranglisten."
+    },
+    {
+      "headline": "Antonsen tager bladet fra munden – har en pointe, mener ekspert",
+      "text": "Antonsen tager bladet fra munden – har en pointe, mener ekspert",
+      "url": "https://sport.tv2.dk/badminton/2026-10-28-antonsen-tager-bladet-fra-munden-har-en-pointe-mener-ekspert",
+      "publisher": "TV 2",
+      "section": "Sport",
+      "publishedAt": "2026-10-28T17:08:00Z",
+      "summary": "For første gang i BWF-ranglistens historie udgør europæere tre af top fire i herresingle. Danske Anders Antonsen, nummer tre, kritiserer at europæiske turneringer giver færre point end asiatiske."
+    },
+    {
+      "headline": "Danske kajakroer kæntrede i en lånt båd og endte som verdensmestre",
+      "text": "Danske kajakroer kæntrede i en lånt båd og endte som verdensmestre",
+      "url": "https://www.dr.dk/sporten/danske-kajakroer-kaentrede-i-en-laant-baad-og-endte-som-verdensmestre",
+      "publisher": "DR",
+      "section": "Sport",
+      "publishedAt": "2026-10-28T05:00:00Z",
+      "summary": "Valdemar Jørgensen og Jonathan Dagnæs-Hansen vandt VM-guld i K2 maratonkajak i Argentina – Danmarks første i disciplinen i 36 år. Parret kæntrede i en lånt båd efter at blive ramt af en svensk konkurrent, men vandt alligevel det 30 km lange løb."
+    },
+    {
+      "headline": "Introducing the AI Chip Imports Explorer",
+      "text": "Introducing the AI Chip Imports Explorer",
+      "url": "https://epoch.ai/latest/introducing-the-ai-chip-imports-explorer",
+      "publisher": "Epoch AI",
+      "section": "AI",
+      "publishedAt": "2026-10-27T12:00:00Z",
+      "summary": "Epoch AI's toldbaserede analyse viser, at USA har stået for 72 pct. af global AI-regnekraft siden 2022, Kina ca. 10 pct. og EU kun ca. 5 pct."
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-no-priors-brockman",
+      "mode": "watch",
+      "kind": "podcast-video",
+      "status": "available",
+      "title": "OpenAI President: Security Spend Should Exceed Software Spend",
+      "creator": "No Priors (Sarah Guo & Elad Gil), med Greg Brockman",
+      "provider": "YouTube",
+      "url": "https://www.youtube.com/watch?v=lWCPbC35iYY",
+      "commitment": "45-60 min",
+      "description": "OpenAI-præsident Greg Brockman taler med No Priors om, hvorfor cybersikkerhed bør koste mere end softwareudvikling, og om AI's rolle i lægemiddeludvikling.",
+      "rationale": "Et krydsfelt mellem AI, sikkerhed og deeptech fra en af branchens mest centrale stemmer – relevant for den der har fulgt EU's digitale sikkerhedsdebat og industriens AI-investeringer tæt.",
+      "topics": [
+        "ai",
+        "sikkerhed",
+        "deeptech"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://i.ytimg.com/vi/lWCPbC35iYY/hqdefault.jpg",
+        "credit": "Kilde: No Priors / YouTube",
+        "alt": "Greg Brockman i samtale med No Priors-værterne",
+        "sourceUrl": "https://www.youtube.com/watch?v=lWCPbC35iYY"
+      }
+    },
+    {
+      "id": "rec-il-lombardia-seixas",
+      "mode": "watch",
+      "kind": "video",
+      "status": "new",
+      "title": "SUPER-TALENT PAUL SEIXAS IGNITES ON THE CIVIGLIO!!",
+      "creator": "RCS Sport",
+      "provider": "Giro d'Italia (YouTube)",
+      "url": "https://www.youtube.com/watch?v=wkAIYhFlUyE",
+      "commitment": "5 min",
+      "description": "Kort officielt highlight-klip fra Il Lombardia, hvor den unge franskmand Paul Seixas blev den yngste vinder af løbet nogensinde.",
+      "rationale": "Et kort, friskt klip fra hans tætteste sportsinteresse, cykling, på en dag hvor ingen anden cykelnyhed kunne verificeres solidt nok til at stå alene.",
+      "topics": [
+        "cykling",
+        "sport"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://i.ytimg.com/vi/wkAIYhFlUyE/hqdefault.jpg",
+        "credit": "Kilde: Giro d'Italia / YouTube",
+        "alt": "Paul Seixas på Civiglio-stigningen under Il Lombardia",
+        "sourceUrl": "https://www.youtube.com/watch?v=wkAIYhFlUyE"
+      }
+    },
+    {
+      "id": "rec-tate-mendieta",
+      "mode": "experience",
+      "kind": "exhibition",
+      "status": "available",
+      "title": "Ana Mendieta",
+      "creator": "Ana Mendieta",
+      "provider": "Tate Modern",
+      "url": "https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta",
+      "availability": "14. juli 2026 - 17. januar 2027, London. Billet £18.",
+      "commitment": "1-2 timer",
+      "description": "Stor retrospektiv udstilling i Tate Modern med den cubansk-amerikanske kunstner Ana Mendietas jord- og kropsbaserede værker fra 1970'erne.",
+      "rationale": "Dagens bevidste spring uden for både fag- og sportsprofilen: en anerkendt, stadig åben retrospektiv med helt andre spørgsmål end dem erhvervsnyhederne stiller.",
+      "topics": [
+        "kunst"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Ana_Mendieta_lead_img.width-420.format-jpeg.jpg",
+        "credit": "Kilde: Tate",
+        "alt": "Værk af Ana Mendieta fra retrospektivet på Tate Modern",
+        "sourceUrl": "https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta"
+      }
+    },
+    {
+      "id": "rec-asimov-recipe-cells",
+      "mode": "read",
+      "kind": "essay",
+      "status": "new",
+      "title": "A Recipe for Cells",
+      "creator": "Niko McCarty",
+      "provider": "Asimov Press",
+      "url": "https://www.asimov.press/p/recipe",
+      "commitment": "10-15 min",
+      "description": "Essay om hvorfor en komplet liste af en celles molekylære byggesten ikke er nok til at forstå, hvordan de samles til en fungerende organisme.",
+      "rationale": "Et kort, skarpt deeptech/biotek-essay, der sætter grænserne for hvad vi reelt forstår om liv på molekylært niveau – relevant for interessen i kvante- og deeptech-landskabet uden at være en forlængelse af dagens nyheder.",
+      "topics": [
+        "deeptech",
+        "biotek"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {
+    "editorialConfidence": 78,
+    "sourceCoverage": 82,
+    "sourceDiversity": 74
+  }
+}
