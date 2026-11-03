@@ -1,0 +1,743 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-20261103",
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-03T05:37:45Z",
+  "readingMinutes": 11,
+  "title": "Thomas' Nyheder",
+  "dek": "Ecco lukker fabrikker i udlandet, Danfoss ramt af nyt hackerangreb, og et israelsk firma vil overvåge Østersøen fra et bornholmsk hoteltag",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "thomas-story-ecco-20261103",
+      "eventKey": "ecco-lukker-fabrikker-2400-job-2026",
+      "materialFacts": [
+        "Ecco lukker fabrikker i Portugal (650 ansatte) og Vietnam (1.400 ansatte)",
+        "400 yderligere stillinger nedlægges globalt, heraf 80 i Danmark, inden årets udgang",
+        "Underskud på 179 mio. kr. (fra 280 mio. kr.); omsætning faldt til 10,5 mia. kr. fra 11 mia. kr.",
+        "Ecco tilføres 50 mio. euro for at styrke det økonomiske fundament"
+      ],
+      "section": "Dansk erhverv",
+      "headline": "Ecco lukker to fabrikker i udlandet: Flere end 2.000 mister jobbet",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/penge/ecco-lukker-fabrikker-i-udlandet-flere-end-2-000-mister-jobbet",
+      "subheadline": "Den danske skofabrikant lukker fabrikker i Portugal og Vietnam og fjerner yderligere 400 stillinger globalt for at nedbringe omkostningerne",
+      "body": [
+        "Skoproducenten Ecco lukker sine fabrikker i Portugal (650 ansatte) og Vietnam (1.400 ansatte) for at fjerne overkapacitet og skære i produktionsomkostningerne. Produktionen fortsætter i Indonesien, Thailand og Kina, oplyser selskabet.",
+        "Samtidig nedlægges 400 øvrige stillinger globalt, heraf 80 i Danmark, inden årsskiftet. Ecco tilføres 50 mio. euro, efter at underskuddet på 179 mio. kr. (fra 280 mio.) og en faldende omsætning på 10,5 mia. kr. (fra 11 mia.) har presset selskabet."
+      ],
+      "whyItMatters": "Ecco er et af Danmarks mest kendte eksportbrands under familien Toosbuys ejerskab. Lukningerne viser, hvor hårdt selv en etableret dansk producent presses af overkapacitet — og kommer, efter at CEO Thomas Gøgsig stoppede brat i slutningen af oktober.",
+      "analysis": "At lukningerne rammer Portugal og Vietnam, mens produktionen fastholdes i Asien, peger på en bevidst omlægning af forsyningskæden snarere end generel nedskalering. Kapitaltilførslen viser, at ejerkredsen vil betale for omstillingen.",
+      "counterpoint": "Et forbedret underskud år for år kan læses som et selskab på vej ud af krisen, hvor lukningerne er en sidste oprydning snarere end fortsat nedtur.",
+      "topics": [
+        "dansk-erhverv",
+        "produktion",
+        "cost-base"
+      ],
+      "entities": [
+        "Ecco",
+        "Toosbuy",
+        "Portugal",
+        "Vietnam"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 78,
+        "decisionValue": 70,
+        "novelty": 65,
+        "sourceQuality": 85,
+        "personalRelevance": 80,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "Ecco lukker fabrikker i Portugal (650 ansatte) og Vietnam (1.400 ansatte)",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/ecco-lukker-fabrikker-i-udlandet-flere-end-2-000-mister-jobbet"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "400 yderligere stillinger nedlægges globalt, heraf 80 i Danmark, inden årets udgang",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/ecco-lukker-fabrikker-i-udlandet-flere-end-2-000-mister-jobbet"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Underskud 179 mio. kr. (fra 280 mio. kr.); omsætning 10,5 mia. kr. (fra 11 mia. kr.); kapitaltilførsel 50 mio. euro",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/ecco-lukker-fabrikker-i-udlandet-flere-end-2-000-mister-jobbet"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Ecco lukker to fabrikker i udlandet: Flere end 2.000 mister jobbet",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/penge/ecco-lukker-fabrikker-i-udlandet-flere-end-2-000-mister-jobbet",
+          "publishedAt": "2026-11-02T12:10:03Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/qjxfpfy4/20180312-195644-l_crop002.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Foto: Mads Claus Rasmussen, Ritzau Scanpix",
+        "alt": "Ecco-sko på fabrik; skoproducenten lukker fabrikker i Portugal og Vietnam",
+        "sourceUrl": "https://www.dr.dk/nyheder/penge/ecco-lukker-fabrikker-i-udlandet-flere-end-2-000-mister-jobbet"
+      }
+    },
+    {
+      "id": "thomas-story-danfoss-20261103",
+      "eventKey": "danfoss-koelesystem-hackerangreb-2026",
+      "materialFacts": [
+        "Mindst 17 virksomheder i Holland ramt natten til 2. november",
+        "Samme angrebsmetode som mod franske supermarkeder 13. oktober",
+        "Sverige, Belgien, Luxembourg, Irland og Estland også berørt"
+      ],
+      "section": "Cybersikkerhed",
+      "headline": "Danfoss-produkter ramt af hackerangreb mod frysere i Europa",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/penge/danfoss-produkter-ramt-af-hackerangreb-mod-frysere-i-europa",
+      "subheadline": "Mindst 17 virksomheder i Holland blev ramt natten til 2. november, hvor hackere fik Danfoss-sensorer til at varme frysere op i stedet for at køle dem",
+      "body": [
+        "Mindst 17 virksomheder i Holland blev natten til 2. november udsat for hackerangreb, hvor frysertemperaturerne blev ændret. Samme dag blev kæder i Sverige, Belgien, Luxembourg og Irland ramt, hvor fryserne begyndte at varme i stedet for køle.",
+        "Metoden er den samme som ved angrebet mod franske supermarkeder 13. oktober, hvor Danfoss' termostater blev sat til at afrime fryserne. Kommunikationschef Kasper Elbjørn oplyser, at Danfoss har været i tæt dialog med kunderne i tre uger."
+      ],
+      "whyItMatters": "Danfoss er en af Danmarks største industrikoncerner, og sagen viser, hvor sårbare industrielle styringssystemer er over for gentagne angreb — selv efter en offentlig advarsel til kunderne.",
+      "analysis": "At sårbarhederne udnyttes igen tre uger efter advarslen, peger på et strukturelt problem: mange kunder lader kølesystemer forblive tilgængelige på internettet for at lette fjernservice. Kendt teknik, men efterlevelsen halter.",
+      "topics": [
+        "cybersikkerhed",
+        "industri",
+        "danske-multinationale"
+      ],
+      "entities": [
+        "Danfoss",
+        "Holland",
+        "Sverige",
+        "Belgien",
+        "Luxembourg",
+        "Irland",
+        "Estland"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 72,
+        "decisionValue": 68,
+        "novelty": 70,
+        "sourceQuality": 85,
+        "personalRelevance": 78,
+        "contrast": 50
+      },
+      "claims": [
+        {
+          "text": "Mindst 17 virksomheder i Holland ramt natten til 2. november; frysere varmet op i stedet for kølet",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/danfoss-produkter-ramt-af-hackerangreb-mod-frysere-i-europa"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Samme angrebsmetode som mod franske supermarkeder 13. oktober",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/danfoss-produkter-ramt-af-hackerangreb-mod-frysere-i-europa"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Danfoss-produkter ramt af hackerangreb mod frysere i Europa",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/penge/danfoss-produkter-ramt-af-hackerangreb-mod-frysere-i-europa",
+          "publishedAt": "2026-11-02T14:53:28Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/zdahopeq/20261013-115608-l.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Foto: Lucien Libert, Reuters/Ritzau Scanpix",
+        "alt": "Frysedisk i supermarked; Danfoss-termostater er blevet hacket flere steder i Europa",
+        "sourceUrl": "https://www.dr.dk/nyheder/penge/danfoss-produkter-ramt-af-hackerangreb-mod-frysere-i-europa"
+      }
+    },
+    {
+      "id": "thomas-story-bornholm-20261103",
+      "eventKey": "bornholm-israelsk-kamera-overvaagning-varuna-2026",
+      "materialFacts": [
+        "Varuna har to gange forsøgt at få kameraer installeret på bornholmske hoteller",
+        "Begge hoteller har sagt nej; Hotel Klippen har meldt sagen til PET",
+        "DR Verificerer finder tekniske koblinger mellem Varuna og Azimut AI"
+      ],
+      "section": "Sikkerhed og overvågning",
+      "headline": "Mystisk firma vil sætte kamera op på Kjelds tag: 'Det virker suspekt'",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/mystisk-firma-vil-saette-kamera-op-paa-kjelds-tag-det-virker-suspekt",
+      "subheadline": "Det israelske firma Varuna har to gange forsøgt at få installeret overvågningskameraer på bornholmske hoteller for at følge skibstrafikken i Østersøen",
+      "body": [
+        "Kjeld Hammer, der driver Hotel Sandvig Havn på Bornholm, har to gange fået henvendelser fra firmaet Varuna om et kamera til at overvåge skibstrafikken i Østersøen. '- Det virker suspekt,' siger han. Hotel Klippen fik samme henvendelse; begge sagde nej, og Klippen meldte det til PET.",
+        "DR Verificerer finder tekniske spor, der kobler Varunas hjemmeside til samme platform som Azimut AI, hvis stiftere ifølge egne LinkedIn-profiler har været i Israels flåde og efterretningstjeneste. Varunas telefonnummer har colombiansk landekode og svarer ikke."
+      ],
+      "whyItMatters": "Sagen føjer sig til episoder, hvor udenlandske aktører søger adgang til dansk infrastruktur nær en travl sejlrute uden bekræftet formål.",
+      "analysis": "At et firma med colombiansk kontaktvej og koblinger til et efterretningsnært selskab søger adgang hertil, viser, hvor let privat infrastruktur kan blive mål — og hvor afhængig afsløringen er af vagtsomme borgere.",
+      "topics": [
+        "sikkerhed",
+        "efterretning",
+        "bornholm",
+        "oestersoeen"
+      ],
+      "entities": [
+        "Varuna",
+        "Azimut AI",
+        "Bornholm",
+        "PET",
+        "Hotel Sandvig Havn",
+        "Hotel Klippen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 62,
+        "decisionValue": 40,
+        "novelty": 82,
+        "sourceQuality": 88,
+        "personalRelevance": 35,
+        "contrast": 85
+      },
+      "claims": [
+        {
+          "text": "Varuna har to gange forsøgt at få kameraer installeret på bornholmske hoteller for at overvåge Østersø-skibstrafik",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/mystisk-firma-vil-saette-kamera-op-paa-kjelds-tag-det-virker-suspekt"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "DR Verificerer finder tekniske spor, der kobler Varunas hjemmeside til samme platform som Azimut AI",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/mystisk-firma-vil-saette-kamera-op-paa-kjelds-tag-det-virker-suspekt"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Mystisk firma vil sætte kamera op på Kjelds tag: 'Det virker suspekt'",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/mystisk-firma-vil-saette-kamera-op-paa-kjelds-tag-det-virker-suspekt",
+          "publishedAt": "2026-11-02T18:50:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/lq0pntk5/kjeld1.jpeg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Foto: Sarah Thun Kristensen, DR",
+        "alt": "Kjeld Hammer foran udsigten over Østersøen fra Hotel Sandvig Havn på Bornholm",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/mystisk-firma-vil-saette-kamera-op-paa-kjelds-tag-det-virker-suspekt"
+      }
+    },
+    {
+      "id": "thomas-story-sosu-20261103",
+      "eventKey": "udenlandske-sosu-hjaelpere-aeldrepleje-2026",
+      "materialFacts": [
+        "SOSU-medarbejdere med udenlandsk statsborgerskab steg med 11.400 2011-2025",
+        "Antal med dansk statsborgerskab faldt med 3.200 i samme periode"
+      ],
+      "section": "Arbejdsmarked",
+      "headline": "Én gruppe står bag hele væksten i ældreplejen",
+      "primarySourceUrl": "https://nyheder.tv2.dk/2026-11-02-en-gruppe-staar-bag-hele-vaeksten-i-aeldreplejen",
+      "subheadline": "Udenlandske medarbejdere har siden 2011 mere end opvejet et fald i danskfødte SOSU-ansatte, viser ny Rockwool Fonden-undersøgelse",
+      "body": [
+        "Fra 2011 til 2025 steg antallet af SOSU-medarbejdere med udenlandsk statsborgerskab i ældreplejen med 11.400, mens antallet med dansk statsborgerskab faldt med 3.200, viser en ny Rockwool Fonden-undersøgelse.",
+        "På plejecenter Rosengården i Vejle er ca. 40 nationaliteter repræsenteret blandt ca. 130 medarbejdere. '- Jeg elsker at give omsorg,' siger SOSU-hjælper Hananeh Nobkhat, der kom fra Iran. Centerleder Anja Hansen kalder udenlandske medarbejdere afgørende."
+      ],
+      "whyItMatters": "Tallene viser, hvor afhængig ældreplejen er af udenlandsk arbejdskraft for at følge med stigningen i antal ældre — en afhængighed, der vokser uden flere danskfødte i faget.",
+      "analysis": "At hele nettoveksten kommer fra udenlandske medarbejdere, mens den danskfødte arbejdsstyrke er faldet, betyder, at ældreplejen er mere afhængig af arbejdskraftsindvandring — stik modsat debattens billede.",
+      "topics": [
+        "arbejdsmarked",
+        "aeldrepleje",
+        "indvandring",
+        "konstruktiv-journalistik"
+      ],
+      "entities": [
+        "Rockwool Fonden",
+        "Vejle",
+        "Rosengården"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 68,
+        "decisionValue": 55,
+        "novelty": 60,
+        "sourceQuality": 75,
+        "personalRelevance": 40,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "SOSU-medarbejdere med udenlandsk statsborgerskab steg med 11.400 2011-2025, mens antal med dansk statsborgerskab faldt med 3.200",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/2026-11-02-en-gruppe-staar-bag-hele-vaeksten-i-aeldreplejen"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Én gruppe står bag hele væksten i ældreplejen",
+          "publisher": "TV 2",
+          "url": "https://nyheder.tv2.dk/2026-11-02-en-gruppe-staar-bag-hele-vaeksten-i-aeldreplejen",
+          "publishedAt": "2026-11-02T21:25:36Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/2/e/5/2e597977-81c6-434c-b97a-893644c1e3d1?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCwwLDE5MjAsMTA4MA&s=2cb5bfb97b52f4d6c0aa5951be590f4d",
+        "credit": "Kilde: TV 2",
+        "alt": "SOSU-hjælper på plejecenter Rosengården i Vejle",
+        "sourceUrl": "https://nyheder.tv2.dk/2026-11-02-en-gruppe-staar-bag-hele-vaeksten-i-aeldreplejen"
+      }
+    },
+    {
+      "id": "thomas-story-eltruck-20261103",
+      "eventKey": "di-el-lastbiler-politik-2026",
+      "materialFacts": [
+        "DI Transport forventer kun ca. 7.100 el-lastbiler i 2030 mod regeringens 12.000"
+      ],
+      "section": "Grøn omstilling",
+      "headline": "DI: Manglende politisk handling forsinker skift til el-lastbiler",
+      "primarySourceUrl": "https://ugebrev.dk/samfundsansvar/esg-nyt/di-manglende-politisk-handling-forsinker-skift-til-el-lastbiler/",
+      "subheadline": "Dansk Industri vurderer, at kun omkring 7.100 el-lastbiler når at komme på vejene i 2030 mod regeringens forventede 12.000",
+      "body": [
+        "Dansk Industris transportafdeling vurderer i en ny analyse, at kun omkring 7.100 el-lastbiler vil være på danske veje i 2030, mens regeringen selv forventer 12.000. DI peger på, at fokus på højere dieselafgifter frem for ladeinfrastruktur bremser omstillingen.",
+        "Organisationen argumenterer for, at indtægterne fra vejtransportbeskatning i stedet bør gøre det muligt at elektrificere flåden hurtigere."
+      ],
+      "whyItMatters": "Gabet mellem fremskrivningerne er stort nok til at udhule regeringens egne klimaberegninger for transportsektoren — og det er DI selv, der rejser flaget.",
+      "analysis": "At DI peger på fraværet af ladeinfrastruktur snarere end afgiftsniveauet, flytter debatten fra, om lastbiler skal beskattes hårdere, til hvor pengene skal bruges — lettere at vinde opbakning til blandt branche og politikere.",
+      "topics": [
+        "dansk-industri",
+        "groen-omstilling",
+        "transport"
+      ],
+      "entities": [
+        "Dansk Industri",
+        "DI Transport"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 62,
+        "novelty": 50,
+        "sourceQuality": 70,
+        "personalRelevance": 85,
+        "contrast": 30
+      },
+      "claims": [
+        {
+          "text": "DI Transport-analyse forudser ca. 7.100 el-lastbiler i 2030 mod regeringens forventede 12.000",
+          "sourceUrls": [
+            "https://ugebrev.dk/samfundsansvar/esg-nyt/di-manglende-politisk-handling-forsinker-skift-til-el-lastbiler/"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "DI: Manglende politisk handling forsinker skift til el-lastbiler",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/samfundsansvar/esg-nyt/di-manglende-politisk-handling-forsinker-skift-til-el-lastbiler/",
+          "publishedAt": "2026-11-02T19:30:32Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://ugebrev.dk/wp-content/uploads/2020/10/20190728-141643-A_facebook.jpg",
+        "credit": "Kilde: Økonomisk Ugebrev",
+        "alt": "DI: Manglende politisk handling forsinker skift til el-lastbiler",
+        "sourceUrl": "https://ugebrev.dk/samfundsansvar/esg-nyt/di-manglende-politisk-handling-forsinker-skift-til-el-lastbiler/"
+      }
+    },
+    {
+      "id": "thomas-story-lf-castle-20261103",
+      "eventKey": "landbrug-fodevarer-ny-sundhedsdirektoer-2026",
+      "materialFacts": [
+        "Charlotte Vilstrup Castle bliver ny direktør i Landbrug & Fødevarer fra 1. december",
+        "Kommer fra posten som veterinærdirektør i Fødevarestyrelsen"
+      ],
+      "section": "Landbrug og fødevarer",
+      "headline": "Landbrug & Fødevarer præsenterer ny direktør for Sundhed, Dyrevelfærd & Markeder: – En stærk profil på et vigtigt tidspunkt",
+      "primarySourceUrl": "https://sydnyt.dk/landbrug-foedevarer-praesenterer-ny-direktoer-for-sundhed-dyrevelfaerd-markeder-en-staerk-profil-paa-et-vigtigt-tidspunkt/",
+      "subheadline": "Charlotte Vilstrup Castle forlader posten som veterinærdirektør i Fødevarestyrelsen og tiltræder i Landbrug & Fødevarer 1. december",
+      "body": [
+        "Landbrug & Fødevarer har ansat Charlotte Vilstrup Castle som ny direktør for Sundhed, Dyrevelfærd & Markeder. Hun kommer fra posten som veterinærdirektør i Fødevarestyrelsen og tiltræder 1. december. Udnævnelsen fuldender organisationens nyetablerede koncernledelse.",
+        "'- Jeg glæder mig til at kaste mig over kendte fagligheder på en ny måde,' siger Castle. Viceadm. direktør Anna de Klauman kalder det 'en stærk profil på et vigtigt tidspunkt'."
+      ],
+      "whyItMatters": "Landbrug & Fødevarer nævnes typisk side om side med Dansk Industri i dansk erhvervspolitik, og en ny koncernledelse markerer, at organisationen står færdigformeret til forhandlinger om dyrevelfærd og fødevaremarkeder.",
+      "analysis": "At rekrutteringen går fra en central myndighedsrolle til interesseorganisationen, er et klassisk mønster, hvor myndighedserfaring omsættes til organisatorisk slagkraft — en bevægelse, der sjældent får opmærksomhed uden for branchen.",
+      "topics": [
+        "dansk-industri-rivaler",
+        "landbrug",
+        "who-is-moving"
+      ],
+      "entities": [
+        "Landbrug & Fødevarer",
+        "Charlotte Vilstrup Castle",
+        "Fødevarestyrelsen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 35,
+        "decisionValue": 45,
+        "novelty": 40,
+        "sourceQuality": 60,
+        "personalRelevance": 70,
+        "contrast": 20
+      },
+      "claims": [
+        {
+          "text": "Charlotte Vilstrup Castle bliver direktør for Sundhed, Dyrevelfærd & Markeder i Landbrug & Fødevarer fra 1. december",
+          "sourceUrls": [
+            "https://sydnyt.dk/landbrug-foedevarer-praesenterer-ny-direktoer-for-sundhed-dyrevelfaerd-markeder-en-staerk-profil-paa-et-vigtigt-tidspunkt/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Landbrug & Fødevarer præsenterer ny direktør for Sundhed, Dyrevelfærd & Markeder: – En stærk profil på et vigtigt tidspunkt",
+          "publisher": "Sydnyt.dk",
+          "url": "https://sydnyt.dk/landbrug-foedevarer-praesenterer-ny-direktoer-for-sundhed-dyrevelfaerd-markeder-en-staerk-profil-paa-et-vigtigt-tidspunkt/",
+          "publishedAt": "2026-11-02T12:51:18Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "thomas-story-ferrero-20261103",
+      "eventKey": "ferrero-shelton-alcaraz-rival-coach-2026",
+      "materialFacts": [
+        "Juan Carlos Ferrero skifter fra Alcaraz til Ben Sheltons team fra 2027"
+      ],
+      "section": "Tennis",
+      "headline": "Rival vækker opsigt – snupper Alcaraz' succestræner",
+      "primarySourceUrl": "https://sport.tv2.dk/tennis/2026-11-02-rival-vaekker-opsigt-snupper-alcaraz-succestraener",
+      "subheadline": "Juan Carlos Ferrero, der i syv år førte Carlos Alcaraz til storhed, skifter til verdens nummer fire, Ben Shelton, fra den kommende sæson",
+      "body": [
+        "Juan Carlos Ferrero, der i syv titelvindende år har trænet Carlos Alcaraz, skifter til verdens nummer fire Ben Sheltons team fra den kommende sæson. Shelton fortsætter samtidig med sin far og træner, Bryan Shelton. '- En kæmpe tilføjelse til mit team,' skriver Ben Shelton på Instagram.",
+        "Nyheden kom, mens Alcaraz netop havde vundet ATP 500-turneringen i Wien. '- Jeg tror, det bliver en god tilføjelse til Sheltons team, og jeg kommer til at holde øje med ham,' sagde Alcaraz med et smil på et pressemøde."
+      ],
+      "whyItMatters": "Trænerskiftet samler to af herretennissens kommende rivaler omkring samme ekspertise og kan styrke Sheltons chancer for at udfordre Alcaraz i toppen af verdensranglisten.",
+      "analysis": "At Alcaraz offentligt tager skiftet med ro, mens tennisjournalister kalder det en 'bombe' og en 'novemberoverraskelse', viser, hvor usædvanligt det er, at en træner af Ferreros kaliber skifter direkte til en rival.",
+      "topics": [
+        "tennis",
+        "sport"
+      ],
+      "entities": [
+        "Juan Carlos Ferrero",
+        "Ben Shelton",
+        "Carlos Alcaraz"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 40,
+        "decisionValue": 20,
+        "novelty": 70,
+        "sourceQuality": 72,
+        "personalRelevance": 55,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Juan Carlos Ferrero skifter fra Alcaraz til Ben Sheltons team fra 2027; Bryan Shelton fortsætter som træner",
+          "sourceUrls": [
+            "https://sport.tv2.dk/tennis/2026-11-02-rival-vaekker-opsigt-snupper-alcaraz-succestraener"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Rival vækker opsigt – snupper Alcaraz' succestræner",
+          "publisher": "TV 2",
+          "url": "https://sport.tv2.dk/tennis/2026-11-02-rival-vaekker-opsigt-snupper-alcaraz-succestraener",
+          "publishedAt": "2026-11-02T10:02:12Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/f/6/f/f6f978af-b3e0-4810-8484-2fbcf9a6c62c?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MjExLDkzLDM1NDEsMTk5Mw&s=40f4560d656342b28a25192780f8f11f",
+        "credit": "Foto: Violeta Santos Moura, Ritzau Scanpix",
+        "alt": "Juan Carlos Ferrero, der skifter fra Carlos Alcaraz til Ben Sheltons træerteam",
+        "sourceUrl": "https://sport.tv2.dk/tennis/2026-11-02-rival-vaekker-opsigt-snupper-alcaraz-succestraener"
+      }
+    },
+    {
+      "id": "thomas-story-pogacar-20261103",
+      "eventKey": "pogacar-agent-u23-opraab-2026",
+      "materialFacts": [
+        "Pogacars agent Alex Carera opfordrer UCI til obligatorisk U23-niveau for unge ryttere"
+      ],
+      "section": "Cykling",
+      "headline": "Pogacars agent kommer med opråb",
+      "primarySourceUrl": "https://sport.tv2.dk/cykling/2026-11-02-pogacars-agent-kommer-med-opraab",
+      "subheadline": "Tadej Pogacars agent Alex Carera opfordrer UCI til at gøre det obligatorisk for unge ryttere at køre U23-niveau, før de rykker op i WorldTouren",
+      "body": [
+        "Tadej Pogacars agent, Alex Carera, opfordrer i TV 2 Sports podcast 'Med schwung på' til, at UCI gør det obligatorisk for unge ryttere at køre U23-niveau, før de rykker op i WorldTouren. '- Juniorkategorien er den vigtigste for agenterne lige nu,' siger Carera.",
+        "Som reglerne er i dag, er der intet krav om U23-erfaring, før springet til seniorniveauet tages. Carera kontrasterer Pogacars gradvise vej til toppen med ryttere som Remco Evenepoel, der sprang direkte til seniorniveau."
+      ],
+      "whyItMatters": "Forslaget rører ved en debat om, hvorvidt jagten på unge talenter presser ryttere ud på et niveau, de ikke er modne til — en sammenhæng, Carera antyder, men ikke fastslår, med de mange styrt i feltet.",
+      "analysis": "At forslaget kommer fra en af sportens mest indflydelsesrige agenter og ikke fra UCI selv, viser, at presset kommer nedefra — fra dem, der ser konsekvenserne i ryttermarkedet, snarere end fra forbundet selv.",
+      "topics": [
+        "cykling",
+        "sport"
+      ],
+      "entities": [
+        "Tadej Pogacar",
+        "Alex Carera",
+        "UCI",
+        "Remco Evenepoel"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 32,
+        "decisionValue": 15,
+        "novelty": 55,
+        "sourceQuality": 68,
+        "personalRelevance": 68,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "Pogacars agent Alex Carera opfordrer i TV 2-podcasten 'Med schwung på' til obligatorisk U23-niveau før WorldTour",
+          "sourceUrls": [
+            "https://sport.tv2.dk/cykling/2026-11-02-pogacars-agent-kommer-med-opraab"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pogacars agent kommer med opråb",
+          "publisher": "TV 2",
+          "url": "https://sport.tv2.dk/cykling/2026-11-02-pogacars-agent-kommer-med-opraab",
+          "publishedAt": "2026-11-02T21:20:42Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/e/6/1/e6150d4c-f4ef-4567-941a-a54bf7c86983?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCwzNjQsNzg4OCw0NDM3&s=34c37d7a400f23efab141675530cb3d8",
+        "credit": "Kilde: TV 2 Sport",
+        "alt": "Tadej Pogacar under et cykelløb; hans agent opfordrer til obligatorisk U23-niveau for unge ryttere",
+        "sourceUrl": "https://sport.tv2.dk/cykling/2026-11-02-pogacars-agent-kommer-med-opraab"
+      }
+    }
+  ],
+  "signals": [
+    {
+      "text": "Dronning Mary rejser til Colombia",
+      "headline": "Dronning Mary rejser til Colombia",
+      "summary": "Dronning Mary foretager officielt besøg i Colombia 23.-26. november sammen med erhvervsminister Ida Auken og dansk erhvervsliv, med besøg i jordskælvsramte områder.",
+      "publisher": "DR",
+      "section": "Kongehuset",
+      "publishedAt": "2026-11-02T10:08:15Z",
+      "url": "https://www.dr.dk/nyheder/seneste/dronning-mary-rejser-til-colombia"
+    },
+    {
+      "text": "Tv-vært Henrik Dahl er død",
+      "headline": "Tv-vært Henrik Dahl er død",
+      "summary": "Tv-vært og forbrugerjournalist Henrik Dahl, kendt fra 'Rene ord for pengene' og 'Rabatten', er død 62 år gammel efter længere tids sygdom.",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-11-02T08:25:37Z",
+      "url": "https://www.dr.dk/nyheder/indland/tv-vaert-henrik-dahl-er-doed"
+    },
+    {
+      "text": "Skal der hakkebøffer på menuen på Københavns plejehjem? Nu blander ministeren sig",
+      "headline": "Skal der hakkebøffer på menuen på Københavns plejehjem? Nu blander ministeren sig",
+      "summary": "Minister Jacob Mark slår i brev til alle kommuner fast, at ældres frie valg af kost går forud for kommunal klimapolitik, efter debat om plantebaseret kost på Københavns plejehjem.",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-11-03T05:00:00Z",
+      "url": "https://www.dr.dk/nyheder/indland/skal-der-hakkeboeffer-paa-menuen-paa-koebenhavns-plejehjem-nu-blander-ministeren-sig"
+    },
+    {
+      "text": "Før og efter drabet på 15-årig dreng blev voldsomme videoer delt online",
+      "headline": "Før og efter drabet på 15-årig dreng blev voldsomme videoer delt online",
+      "summary": "DR-gennemgang viser, at voldsomme videoer af en 15-årig dreng, dræbt på Nørrebro, cirkulerede online før og efter drabet; moren efterlyser forældreansvar om børns smartphoneadgang.",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-11-02T20:36:00Z",
+      "url": "https://www.dr.dk/nyheder/indland/foer-og-efter-drabet-paa-15-aarig-dreng-blev-voldsomme-videoer-delt-online"
+    },
+    {
+      "text": "Vinterens første dunkelflaute rammer Europa: »Det kan lynhurtigt mærkes på elprisen«",
+      "headline": "Vinterens første dunkelflaute rammer Europa: »Det kan lynhurtigt mærkes på elprisen«",
+      "summary": "Lav vind og lav sol samtidig rammer Europa for første gang denne vinter og kan presse elpriserne op i løbet af ugen.",
+      "publisher": "Ingeniøren",
+      "section": "Energi",
+      "publishedAt": "2026-11-02T11:11:25Z",
+      "url": "https://ing.dk/artikel/vinterens-foerste-dunkelflaute-rammer-europa-det-kan-lynhurtigt-maerkes-paa-elprisen"
+    },
+    {
+      "text": "Vil indføre milliardskat på tech-giganterne: Nu får vi indblik i regeringens planer",
+      "headline": "Vil indføre milliardskat på tech-giganterne: Nu får vi indblik i regeringens planer",
+      "summary": "Regeringen forventer at hente en milliard kroner fra store tech-virksomheder med en ny skat; nye ministersvar belyser planernes fremdrift.",
+      "publisher": "Computerworld",
+      "section": "Erhverv",
+      "publishedAt": "2026-11-02T14:15:00Z",
+      "url": "https://www.computerworld.dk/art/297405"
+    },
+    {
+      "text": "Tænketanken Europa ansætter Bo Lidegaard",
+      "headline": "Tænketanken Europa ansætter Bo Lidegaard",
+      "summary": "Bo Lidegaard, tidligere departementsråd og ansvarshavende chefredaktør på Politiken, bliver seniorrådgiver i Tænketanken Europa med fokus på Grønland, Arktis og den grønne omstilling.",
+      "publisher": "Altinget",
+      "section": "Navnenyt",
+      "publishedAt": "2026-11-02T09:35:00Z",
+      "url": "https://www.altinget.dk/eu/navnenyt/taenketanken-europa-ansaetter-bo-lidegaard"
+    },
+    {
+      "text": "Ballon d'Or-tallene lyver ikke: Europa peger på Kane, mens Fillipinerne elsker Pernille Harder",
+      "headline": "Ballon d'Or-tallene lyver ikke: Europa peger på Kane, mens Fillipinerne elsker Pernille Harder",
+      "summary": "Pernille Harder sluttede som eneste danske islæt på en samlet 7. plads i kvindernes Ballon d'Or med 220 point; Filippinernes stemmeberettigede journalist gav hende 2. plads.",
+      "publisher": "DR",
+      "section": "Sport",
+      "publishedAt": "2026-11-02T14:46:10Z",
+      "url": "https://www.dr.dk/sporten/fodbold/ballon-d-tallene-lyver-ikke-europa-peger-paa-kane-mens-fillipinerne-elsker-pernille-harder"
+    },
+    {
+      "text": "Dansker tvivlede i nyt makkerskab — nu har de vundet første titel",
+      "headline": "Dansker tvivlede i nyt makkerskab — nu har de vundet første titel",
+      "summary": "Rasmus Kjær og Christian Faust Kjær, nr. 26 i verden, vandt Super 500-turneringen HYLO Open i herredouble ved at slå englænderne Lane/Vendy 2-0.",
+      "publisher": "TV 2",
+      "section": "Sport",
+      "publishedAt": "2026-11-02T07:09:03Z",
+      "url": "https://sport.tv2.dk/badminton/2026-11-01-dansker-tvivlede-i-nyt-makkerskab-nu-har-de-vundet-foerste-titel"
+    },
+    {
+      "text": "Havne ved Storebælt skal opgraderes som led i et styrket beredskab",
+      "headline": "Havne ved Storebælt skal opgraderes som led i et styrket beredskab",
+      "summary": "Halsskov Havn og Knudshoved Havn skal opgraderes, så nødfærger hurtigt kan sættes ind ved større afbrydelser på Storebæltsforbindelsen; udbud sendt 2. november.",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-11-02T14:29:20Z",
+      "url": "https://www.dr.dk/nyheder/seneste/havne-ved-storebaelt-skal-opgraderes-som-led-i-et-styrket-beredskab"
+    },
+    {
+      "text": "Et af Energinets største projekter til dato: 15,8 milliarder kroner skal løfte Nordjyllands elnet",
+      "headline": "Et af Energinets største projekter til dato: 15,8 milliarder kroner skal løfte Nordjyllands elnet",
+      "summary": "Energinets bestyrelse har afsat 15,8 mia. kr. til at udbygge elnettet mellem Aarhus, Aalborg og Viborg for at håndtere en voksende bunke tilslutningsansøgninger.",
+      "publisher": "Ingeniøren",
+      "section": "Energi",
+      "publishedAt": "2026-11-02T09:27:06Z",
+      "url": "https://ing.dk/artikel/et-af-energinets-stoerste-projekter-til-dato-158-milliarder-kroner-skal-loefte-nordjyllands-elnet"
+    },
+    {
+      "text": "Defekt på varmeværk gør varmen dyrere i Aarhus",
+      "headline": "Defekt på varmeværk gør varmen dyrere i Aarhus",
+      "summary": "Fjernvarmen i Aarhus stiger ca. 8 pct. næste år pga. en turbinedefekt på Studstrupværket, der tvinger Kredsløb til dyrere el/oliekedler i reparationsperioden.",
+      "publisher": "DR",
+      "section": "Kort nyt",
+      "publishedAt": "2026-11-02T14:59:00Z",
+      "url": "https://www.dr.dk/nyheder/seneste/defekt-paa-varmevaerk-goer-varmen-dyrere-i-aarhus"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "thomas-rec-chrismartina-20261103",
+      "mode": "watch",
+      "kind": "Dokumentar",
+      "status": "new",
+      "title": "Chris & Martina: The Final Set",
+      "provider": "Netflix",
+      "url": "https://www.netflix.com/title/81786159",
+      "availability": "Streaming på Netflix",
+      "description": "Netflix-dokumentar om Chris Evert og Martina Navratilovas årtier lange rivalisering i toppen af kvindetennis og det venskab, der har holdt gennem begge kvinders kræftforløb.",
+      "rationale": "En dokumentar om ægte sportslig rivalisering snarere end et transferdrama: tre årtiers duel på banen og et venskab, der har holdt gennem begge kvinders sygdom — prestigefyldt tennisfortælling, ikke nyhedsreferat.",
+      "topics": [
+        "tennis",
+        "sport"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://occ-0-3012-114.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABZUQEyohlLymGD7bzi2kMCHM4kzA6g8apO7jYth5icGwWfgSGUmhfcq3Fz_StfwaxndT5azYoLSahhEMeBlMB4fPAJChmMO20b3b.jpg",
+        "credit": "Netflix",
+        "alt": "Chris Evert og Martina Navratilova i dokumentaren 'Chris & Martina: The Final Set'",
+        "sourceUrl": "https://www.netflix.com/title/81786159"
+      }
+    },
+    {
+      "id": "thomas-rec-oddlots-20261103",
+      "mode": "listen",
+      "kind": "Podcast",
+      "status": "available",
+      "title": "What Everyone Gets Wrong About the Economic Problems in Europe",
+      "creator": "Joe Weisenthal, Tracy Alloway og Dominik Leusder",
+      "provider": "Odd Lots (Bloomberg)",
+      "url": "https://podcasts.apple.com/us/podcast/what-everyone-gets-wrong-about-the-economic-problems/id1056200096?i=1000793824644",
+      "commitment": "53 min",
+      "description": "Økonom Dominik Leusder stiller i Bloombergs Odd Lots-podcast spørgsmålstegn ved, om Draghi-rapporten har målt Europas konkurrenceproblem korrekt, og om fortællingen om europæisk tilbagegang holder.",
+      "rationale": "Et kontrarisk modspil til den Draghi-centrerede konkurrenceevnedebat, han selv har arbejdet tæt med i årevis — værd at høre præcis fordi det udfordrer en ramme, han kender indefra.",
+      "topics": [
+        "eu-konkurrenceevne",
+        "makroøkonomi"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "thomas-rec-noema-longgame-20261103",
+      "mode": "read",
+      "kind": "Essay",
+      "status": "available",
+      "title": "Americans Are Losing The Long Game",
+      "provider": "Noema Magazine",
+      "url": "https://www.noemamag.com/americans-are-losing-the-long-game/",
+      "commitment": "15-20 min",
+      "description": "Essay om, hvordan amerikansk kortsigtet tænkning står i kontrast til Kinas tålmodige, årtier lange opbygning af infrastruktur og forsyningskæder.",
+      "rationale": "En geopolitisk ramme, der rækker ud over dagens enkeltsager, og som er direkte relevant for hans baggrund i Kina-markedsadgang og transatlantiske forhold.",
+      "topics": [
+        "geopolitik",
+        "kina",
+        "usa"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "thomas-rec-smk-20261103",
+      "mode": "experience",
+      "kind": "Udstilling",
+      "status": "available",
+      "title": "Parterapi",
+      "provider": "SMK – Statens Museum for Kunst",
+      "url": "https://www.smk.dk/en/exhibition/couples-therapy/",
+      "availability": "København, til 24. januar 2027",
+      "description": "Fire danske kunstnerpar udstiller værker om magt, velfærdsstat og usynligt arbejde, bygget op om deres årtier lange kunstneriske samarbejder.",
+      "rationale": "Et serendipitøst valg uden for arbejdsprofilen: en udstilling om, hvad det kræver at holde et langt samarbejde sammen — relevant for enhver, der har ledet store organisationer, uden selv at handle om erhverv.",
+      "topics": [
+        "kunst",
+        "serendipitet"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {
+    "sourceCoverage": 95,
+    "freshness": 95,
+    "novelty": 80,
+    "perspectiveBalance": 85,
+    "render": 100
+  }
+}
