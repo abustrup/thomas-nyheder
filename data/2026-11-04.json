@@ -1,0 +1,714 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-11-04-v1",
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-04T05:26:53.871Z",
+  "readingMinutes": 11,
+  "title": "Thomas' Nyheder",
+  "dek": "Demokraterne vinder Kongressen, Grønland godkender USA-aftalen, og en dansk radar skal se ind i en asteroide for første gang.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-us-midterms-20261104",
+      "eventKey": "us-midterms-democrats-2026",
+      "materialFacts": [
+        "Demokraterne vinder Repræsentanternes Hus",
+        "Demokraterne ser ud til at vinde Senatet, men det er ikke endeligt afgjort",
+        "Republikanerne ser ud til at tabe Senatspladsen i South Carolina, ifølge DR en kæmpe overraskelse",
+        "Kansas og Texas er ikke endeligt afgjort"
+      ],
+      "section": "Udland",
+      "headline": "ANALYSE Vælgerne siger nej til Trump",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/valg-i-usa/analyse-vaelgerne-siger-nej-til-trump",
+      "subheadline": "Demokraterne vinder Repræsentanternes Hus, og sejren i Senatet ser også ud til at gå deres vej, efter et midtvejsvalg hvor selv sikre republikanske stater vendte sig mod Trump.",
+      "body": [
+        "Det amerikanske midtvejsvalg er faldet ud til Demokraternes fordel. Partiet vinder Repræsentanternes Hus, og ifølge DR's USA-korrespondent tegner det også til sejr i Senatet, selv om resultatet afventer flere delstater. Selv om Trump ikke selv stod på en stemmeseddel, var det ham, vælgerne stemte imod.",
+        "Den klareste overraskelse er, at Republikanerne ser ud til at tabe senatspladsen i South Carolina, normalt sikkert republikansk territorium. Kansas og Texas er uafgjorte, men selv her har vælgerne vendt partiet og præsidenten ryggen."
+      ],
+      "whyItMatters": "Krigen i Iran, stigende forbrugerpriser og korruption er ifølge DR's analyse blandt de faktorer, vælgerne har reageret på. Et demokratisk Kongres kan bremse Trumps sidste to år, herunder hans råderum på told, udgifter og udnævnelser.",
+      "analysis": "Trump har rettet sin vrede mod Fox News for efter hans mening at give Demokraterne for meget sendetid. Med et præsidentvalg om to år skal Demokraterne nu omsætte sejren til et program, vælgerne tror på.",
+      "topics": [
+        "usa",
+        "politik",
+        "udland"
+      ],
+      "entities": [
+        "Donald Trump",
+        "Demokraterne",
+        "Republikanerne",
+        "USA"
+      ],
+      "isLead": true,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 92,
+        "decisionValue": 55,
+        "novelty": 90,
+        "sourceQuality": 85,
+        "personalRelevance": 45,
+        "contrast": 80
+      },
+      "claims": [
+        {
+          "text": "Demokraterne vinder Repræsentanternes Hus, ser ud til at vinde Senatet, og Republikanerne ser ud til at tabe senatspladsen i South Carolina; Kansas og Texas er uafgjorte.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/valg-i-usa/analyse-vaelgerne-siger-nej-til-trump"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "ANALYSE Vælgerne siger nej til Trump",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/valg-i-usa/analyse-vaelgerne-siger-nej-til-trump",
+          "publishedAt": "2026-11-04T03:59:59Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/ym3lpmam/20261103-110543-5.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Foto: Brendan Smialowski/AFP/Ritzau Scanpix",
+        "alt": "Arkivfoto af USA's præsident Donald Trump, som ikke selv stod på stemmesedlen ved midtvejsvalget",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/valg-i-usa/analyse-vaelgerne-siger-nej-til-trump"
+      }
+    },
+    {
+      "id": "story-groenland-usa-20261104",
+      "eventKey": "groenland-usa-forsvarsaftale-2026",
+      "materialFacts": [
+        "Inatsisartut godkendte forsvarsaftalen 16-0 med 7 blanke stemmer",
+        "Folketinget behandler aftalen 12.-19. november",
+        "Aftalen blev indgået 22. september i New York"
+      ],
+      "section": "Indland",
+      "headline": "Grønlands parlament giver grønt lys til USA-aftale",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/groenland/groenlands-parlament-giver-groent-lys-til-usa-aftale",
+      "subheadline": "Inatsisartut stemte 16-0 for den dansk-grønlandsk-amerikanske forsvarsaftale fra september. Nu skal Folketinget behandle sagen, før den kan træde i kraft.",
+      "body": [
+        "Grønlands parlament, Inatsisartut, har godkendt forsvarsaftalen, som Grønland, USA og Danmark indgik 22. september i New York. Stemmerne blev 16 for og 0 imod, mens syv medlemmer stemte blankt.",
+        "Næste skridt er Folketinget, der behandler aftalen fra 12. til 19. november. Aftalen træder først i kraft, når USA har fået besked om, at begge parlamenter har godkendt den."
+      ],
+      "whyItMatters": "Grønlands udenrigsminister, Múte B. Egede, siger, man nu kun venter på den danske ratificeringsproces. Aftalen binder sikkerhedsrelationen mellem Grønland, Danmark og USA tættere sammen, mens amerikansk interesse for Arktis stiger.",
+      "analysis": "At stemmetallet er så entydigt, mens syv stemte blankt snarere end imod, tyder på bred accept af aftalens indhold -- men også på fortsat usikkerhed om dens konsekvenser for grønlandsk selvstændighed.",
+      "topics": [
+        "groenland",
+        "sikkerhedspolitik",
+        "danmark"
+      ],
+      "entities": [
+        "Inatsisartut",
+        "Múte B. Egede",
+        "Grønland",
+        "USA",
+        "Danmark"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 78,
+        "decisionValue": 60,
+        "novelty": 70,
+        "sourceQuality": 85,
+        "personalRelevance": 55,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Inatsisartut godkendte forsvarsaftalen 16-0 med 7 blanke stemmer; Folketinget behandler sagen 12.-19. november; aftalen blev indgået 22. september i New York.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/groenland/groenlands-parlament-giver-groent-lys-til-usa-aftale"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Grønlands parlament giver grønt lys til USA-aftale",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/groenland/groenlands-parlament-giver-groent-lys-til-usa-aftale",
+          "publishedAt": "2026-11-03T16:36:09Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/djrljeyq/20260924-132235-2.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Arkivfoto i forbindelse med den dansk-grønlandsk-amerikanske forsvarsaftale",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/groenland/groenlands-parlament-giver-groent-lys-til-usa-aftale"
+      }
+    },
+    {
+      "id": "story-fsa-danskebank-20261104",
+      "eventKey": "finanstilsynet-danske-bank-boliglaan-2026",
+      "materialFacts": [
+        "Finanstilsynet fandt væsentlige fejl i 6/23 forenklede sager og 13/35 standardsager",
+        "4 af 58 undersøgte bevillinger burde ikke være givet",
+        "Banken er påbudt at sikre korrekt og dokumenteret bevillingsgrundlag"
+      ],
+      "section": "Penge",
+      "headline": "Finanstilsynet påbyder Danske Bank at styrke kreditvurderingen af boliglån",
+      "primarySourceUrl": "https://ugebrev.dk/flashnews/finanstilsynet-paabyder-danske-bank-at-styrke-kreditvurderingen-af-boliglaan/",
+      "subheadline": "En inspektion af 58 risikofyldte boliglånssager hos Danske Bank finder væsentlige fejl i over en fjerdedel af sagerne. Banken får nu påbud om at stramme kreditvurderingen.",
+      "body": [
+        "Finanstilsynet har mellem maj og august 2026 gennemgået 58 af Danske Banks boliglånsbevillinger fra første kvartal -- udvalgt blandt kunder med gældsfaktor over 3,5 og belåningsgrad over 60 procent. Tilsynet vurderer, at fire af de 58 bevillinger ikke burde være givet.",
+        "I bankens forenklede kreditproces var der væsentlige fejl i 6 af 23 sager, i den almindelige proces i 13 af 35. Sagerne omfattede høj gæld, høj belåning og usikre indkomster hos låntagerne."
+      ],
+      "whyItMatters": "Finanstilsynet har påbudt Danske Bank at sikre et korrekt og dokumenteret bevillingsgrundlag fremover. Inspektionen ændrer ikke solvensbehovet, men viser en højere fejlandel hos Danmarks største bank end hos øvrige institutter i samme undersøgelse.",
+      "analysis": "Tilsynet påpeger, at data stammer fra en senere periode. Det ændrer ikke ved, at mangelfuldt dokumenterede sager hos landets største udlåner er en konkret advarsel.",
+      "topics": [
+        "finans",
+        "regulering",
+        "danmark"
+      ],
+      "entities": [
+        "Finanstilsynet",
+        "Danske Bank"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 68,
+        "decisionValue": 55,
+        "novelty": 65,
+        "sourceQuality": 80,
+        "personalRelevance": 55,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "58 risikosager undersøgt; fejl i 6/23 forenklede sager og 13/35 standardsager; 4/58 bevillinger burde ikke være givet; påbud udstedt; ingen ændring i solvensbehov.",
+          "sourceUrls": [
+            "https://ugebrev.dk/flashnews/finanstilsynet-paabyder-danske-bank-at-styrke-kreditvurderingen-af-boliglaan/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Finanstilsynet påbyder Danske Bank at styrke kreditvurderingen af boliglån",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/flashnews/finanstilsynet-paabyder-danske-bank-at-styrke-kreditvurderingen-af-boliglaan/",
+          "publishedAt": "2026-11-03T12:42:51Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-chemometec-20261104",
+      "eventKey": "chemometec-opjustering-2026",
+      "materialFacts": [
+        "Omsætningsforventning hævet til 570-605 mio. kr. fra 560-590 mio. kr.",
+        "EBITDA-forventning hævet til 335-360 mio. kr. fra 330-345 mio. kr.",
+        "Første kvartals omsætning steg 28 pct. til 160 mio. kr. fra 124,6 mio. kr."
+      ],
+      "section": "Penge",
+      "headline": "ChemoMetec opjusterer forventninger til omsætning og driftsresultat",
+      "primarySourceUrl": "https://ugebrev.dk/flashnews/chemometec-opjusterer-forventninger-til-omsaetning-og-driftsresultat/",
+      "subheadline": "Den danske celletælling-producent ChemoMetec hæver forventningerne til året efter et kvartal med 28 procent vækst og stigende indtjeningsmargin.",
+      "body": [
+        "ChemoMetec har opjusteret forventningerne til regnskabsåret 2026/27. Selskabet venter nu 570-605 millioner kroner i omsætning mod tidligere 560-590 millioner, mens EBITDA-forventningen er hævet til 335-360 millioner kroner fra 330-345 millioner.",
+        "Opjusteringen kommer, efter at første kvartal viste en omsætning på 160 millioner kroner, en stigning på 28 procent fra 124,6 millioner sidste år. EBITDA i kvartalet var 100,3 millioner kroner, og marginen steg."
+      ],
+      "whyItMatters": "Væksten drives af efterspørgsel efter NC-203-instrumentet og fortsatte besparelser. For en dansk nichevirksomhed i laboratorieudstyr er en opjustering midt i kvartalet et signal om, at ordrebogen er stærkere end ventet.",
+      "analysis": "Historien går mod strømmen af nedjusteringer i dansk fremstillingsindustri for tiden -- et lille, specialiseret selskab med høj margin, der viser plads til vækst i dansk eksport, når produktet rammer rigtigt.",
+      "topics": [
+        "danmark",
+        "erhverv",
+        "vaekst"
+      ],
+      "entities": [
+        "ChemoMetec"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 45,
+        "decisionValue": 40,
+        "novelty": 55,
+        "sourceQuality": 75,
+        "personalRelevance": 50,
+        "contrast": 25
+      },
+      "claims": [
+        {
+          "text": "Omsætning og EBITDA-forventning for 2026/27 hævet; Q1-omsætning op 28 pct. til 160 mio. kr. med EBITDA på 100,3 mio. kr.",
+          "sourceUrls": [
+            "https://ugebrev.dk/flashnews/chemometec-opjusterer-forventninger-til-omsaetning-og-driftsresultat/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "ChemoMetec opjusterer forventninger til omsætning og driftsresultat",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/flashnews/chemometec-opjusterer-forventninger-til-omsaetning-og-driftsresultat/",
+          "publishedAt": "2026-11-03T13:21:32Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-udenrigsmin-usa-20261104",
+      "eventKey": "udenrigsminister-usa-delstater-2026",
+      "materialFacts": [
+        "Besøg i Georgia og North Carolina 2.-5. november 2026",
+        "Ca. 70 danske virksomheder i Georgia",
+        "Danske virksomheder understøtter ca. 16.000 job i de to stater"
+      ],
+      "section": "Erhverv",
+      "headline": "Udenrigsministeren rejser til Georgia og North Carolina",
+      "primarySourceUrl": "https://via.ritzau.dk/pressemeddelelse/15263207/udenrigsministeren-rejser-til-georgia-og-north-carolina?lang=da",
+      "subheadline": "Lars Løkke Rasmussen besøger to amerikanske delstater, hvor danske virksomheder investerer tungt i livsvidenskab og grøn energi, for at følge udviklingen i amerikansk delstatspolitik.",
+      "body": [
+        "Udenrigsminister Lars Løkke Rasmussen besøger 2.-5. november Georgia og North Carolina for at mødes med danske virksomheder. I Georgia opererer omkring 70 danske virksomheder; North Carolina er centrum for danske investeringer i livsvidenskab og grøn energi.",
+        "Ifølge Udenrigsministeriet understøtter danske virksomheder samlet omkring 16.000 job i de to delstater. Med USA som Danmarks største samhandelspartner betyder amerikansk politik meget for virksomhedernes vækstmuligheder."
+      ],
+      "whyItMatters": "»USA er mere end Washington D.C. Det er i de enkelte delstater, at danske virksomheder investerer, skaber arbejdspladser og udvikler nye løsninger,« siger Løkke Rasmussen. Delstaternes egen lovgivning former i stigende grad adgangen til det amerikanske marked.",
+      "analysis": "At ministeren selv rejser ud i delstaterne er et svar på, at magt over told og regulering også ligger hos guvernører og delstatsforsamlinger.",
+      "topics": [
+        "eksport",
+        "usa",
+        "handelspolitik"
+      ],
+      "entities": [
+        "Lars Løkke Rasmussen",
+        "Udenrigsministeriet",
+        "Georgia",
+        "North Carolina"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 60,
+        "decisionValue": 65,
+        "novelty": 60,
+        "sourceQuality": 80,
+        "personalRelevance": 80,
+        "contrast": 30
+      },
+      "claims": [
+        {
+          "text": "Lars Løkke Rasmussen besøger Georgia og North Carolina 2.-5. november; ca. 70 danske virksomheder i Georgia; ca. 16.000 job understøttet i de to stater.",
+          "sourceUrls": [
+            "https://via.ritzau.dk/pressemeddelelse/15263207/udenrigsministeren-rejser-til-georgia-og-north-carolina?lang=da"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Udenrigsministeren rejser til Georgia og North Carolina",
+          "publisher": "Udenrigsministeriet",
+          "url": "https://via.ritzau.dk/pressemeddelelse/15263207/udenrigsministeren-rejser-til-georgia-og-north-carolina?lang=da",
+          "publishedAt": "2026-11-02T14:53:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-cbrain-carahsoft-20261104",
+      "eventKey": "cbrain-carahsoft-sewp-2026",
+      "materialFacts": [
+        "cBrain får F2 distribueret til amerikanske myndigheder via Carahsoft og NASA SEWP V",
+        "Bygger på ny amerikansk filial og SAM.gov-registrering fra oktober 2026",
+        "Følger cBrains første Californien-statskontrakt fra august 2026"
+      ],
+      "section": "Erhverv",
+      "headline": "cBrain expands U.S. market access through partnership with Carahsoft Technology Corporation",
+      "primarySourceUrl": "https://www.cbrain.com/post/cbrain-expands-u-s-market-access-through-partnership-with-carahsoft-technology-corporation",
+      "subheadline": "Det børsnoterede danske softwarehus cBrain får sin sagsbehandlingsplatform F2 ind i et amerikansk indkøbsprogram, der forenkler vejen til kontrakter med USA's myndigheder.",
+      "body": [
+        "cBrain har indgået en distributionsaftale med Carahsoft Technology Corporation, der gør F2-platformen tilgængelig for amerikanske myndigheder gennem NASA's indkøbsprogram SEWP V -- en kontraktform, der forenkler myndigheders indkøb hos leverandører.",
+        "Aftalen bygger på cBrains amerikanske datterselskab og SAM.gov-registrering fra oktober 2026, og kommer efter selskabets første statskontrakt i USA, med Californien, i august."
+      ],
+      "whyItMatters": "cBrain kalder partnerskabet en vigtig kommerciel milepæl, fordi det forkorter tiden til kontrakter med føderale kunder. For et dansk softwarehus, hvis forretning har hvilet på den danske stat, er det en reel udvidelse af kundegrundlaget.",
+      "analysis": "Historien viser, hvordan mindre danske tech-eksportører navigerer det amerikanske marked uden om de store handelsspændinger: via lokal tilstedeværelse og registrering i indkøbssystemer snarere end politiske aftaler.",
+      "topics": [
+        "eksport",
+        "usa",
+        "it"
+      ],
+      "entities": [
+        "cBrain",
+        "Carahsoft Technology Corp",
+        "NASA SEWP V"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 60,
+        "novelty": 65,
+        "sourceQuality": 75,
+        "personalRelevance": 75,
+        "contrast": 30
+      },
+      "claims": [
+        {
+          "text": "cBrain distribuerer F2 til amerikanske myndigheder via Carahsoft og NASA SEWP V, efter amerikansk filial/SAM.gov-registrering (okt. 2026) og Californien-kontrakt (aug. 2026).",
+          "sourceUrls": [
+            "https://www.cbrain.com/post/cbrain-expands-u-s-market-access-through-partnership-with-carahsoft-technology-corporation"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "cBrain expands U.S. market access through partnership with Carahsoft Technology Corporation",
+          "publisher": "cBrain",
+          "url": "https://www.cbrain.com/post/cbrain-expands-u-s-market-access-through-partnership-with-carahsoft-technology-corporation",
+          "publishedAt": "2026-11-01T23:00:00Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.prod.website-files.com/6780f1c9d07d32578f73709d/6ae85a77ce7ee1b5768e3c63_iStock-465469752%20Hero.jpg",
+        "credit": "Kilde: cBrain",
+        "alt": "Arkivfoto anvendt af cBrain til pressemeddelelsen om den amerikanske aftale",
+        "sourceUrl": "https://www.cbrain.com/post/cbrain-expands-u-s-market-access-through-partnership-with-carahsoft-technology-corporation"
+      }
+    },
+    {
+      "id": "story-eu-ets-reform-20261104",
+      "eventKey": "eu-ets-reform-konkurrenceevne-2026",
+      "materialFacts": [
+        "EU forbereder ETS-reform for at lette konkurrencepres uden at opgive klimamål",
+        "Reform forventes at dæmpe prisudsving og understøtte CBAM-indfasning",
+        "Analyse peger på risiko for carbon leakage uden justering"
+      ],
+      "section": "EU",
+      "headline": "EU planlægger reform af kvotesystem for at styrke konkurrenceevne",
+      "primarySourceUrl": "https://ugebrev.dk/samfundsansvar/eu-planlaegger-reform-af-kvotesystem-for-at-styrke-konkurrenceevne/",
+      "subheadline": "EU forbereder en reform af sit kvotehandelssystem for at lette presset på europæisk industri, uden at opgive klimamålene, viser en analyse fra Deutsche Bank Research.",
+      "body": [
+        "EU forbereder en reform af sit kvotehandelssystem, EU ETS, for at lette konkurrencepresset på europæisk industri uden at gå på kompromis med klimamålene. Det fremgår af en analyse fra Deutsche Bank Research. Kvotesystemet har de seneste år lagt et markant pres på energi- og CO2-intensive virksomheder i Europa.",
+        "Ifølge chefanalytiker Eric Heymann står beslutningstagerne i en svær balancegang: Industrien skal tilskyndes til hurtig dekarbonisering, samtidig som udflytning til lande med lempeligere miljøkrav -- carbon leakage -- skal forhindres."
+      ],
+      "whyItMatters": "En reform forventes at dæmpe prisudsving på CO2-kvoter og skabe forudsigelighed for investeringer, mens grænsemekanismen CBAM gradvist indfases.",
+      "analysis": "Uden justeringer risikerer kvotepriserne at udhule europæisk konkurrenceevne, mens USA og Kina satser massivt på statsstøtte -- samme afvejning, der ligger under hele Draghi-dagsordenen.",
+      "topics": [
+        "eu",
+        "konkurrenceevne",
+        "klima"
+      ],
+      "entities": [
+        "Europa-Kommissionen",
+        "Deutsche Bank Research",
+        "Eric Heymann"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 62,
+        "decisionValue": 60,
+        "novelty": 55,
+        "sourceQuality": 70,
+        "personalRelevance": 85,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "EU forbereder ETS-reform for at lette konkurrencepres på CO2-intensiv industri uden at opgive klimamål, ifølge Deutsche Bank Research-analytiker Eric Heymann.",
+          "sourceUrls": [
+            "https://ugebrev.dk/samfundsansvar/eu-planlaegger-reform-af-kvotesystem-for-at-styrke-konkurrenceevne/"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "EU planlægger reform af kvotesystem for at styrke konkurrenceevne",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/samfundsansvar/eu-planlaegger-reform-af-kvotesystem-for-at-styrke-konkurrenceevne/",
+          "publishedAt": "2026-11-03T19:30:28Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://ugebrev.dk/wp-content/uploads/2023/12/EU.jpg",
+        "credit": "Kilde: Økonomisk Ugebrev",
+        "alt": "EU planlægger reform af kvotesystem for at styrke konkurrenceevne",
+        "sourceUrl": "https://ugebrev.dk/samfundsansvar/eu-planlaegger-reform-af-kvotesystem-for-at-styrke-konkurrenceevne/"
+      }
+    },
+    {
+      "id": "story-hera-gomspace-20261104",
+      "eventKey": "hera-dimorphos-ankomst-2026",
+      "materialFacts": [
+        "ESA-sonden Hera ankommer til asteroiden Dimorphos 4. november 2026",
+        "DART-sammenstødet i 2022 ændrede Dimorphos' omløbstid omkring 30 minutter, mere end forventet",
+        "Dansk-bygget instrument Juventas skal som første nogensinde radarscanne en asteroides indre"
+      ],
+      "section": "Videnskab",
+      "headline": "Rumsonde skal afsløre resultatet af vildt eksperiment: Kan redde os fra dræber-asteroider",
+      "primarySourceUrl": "https://videnskab.dk/rummet/rumsonde-skal-afsloere-resultatet-af-vildt-eksperiment-kan-redde-os-fra-daeber-asteroider/",
+      "subheadline": "Fire år efter at NASA-sonden DART bevidst styrtede ind i asteroiden Dimorphos, ankommer det europæiske opfølgningsprojekt Hera i dag -- med et dansk-bygget instrument om bord.",
+      "body": [
+        "I 2022 bankede rumsonden DART ind i asteroiden Dimorphos for at teste, om farlige asteroider kan skubbes ud af kurs med Jorden. I dag ankommer rumsonden Hera til samme asteroide for at undersøge konsekvenserne -- som ikke gik som antaget. »Det var en voldsommere effekt end forventet,« siger astrofysiker Michael Linden-Vørnle, DTU Space.",
+        "Sammenstødet ændrede Dimorphos' omløbstid med omkring 30 minutter -- langt mere end de få minutter, forskerne ventede. Til januar frigiver Hera sonderne Milani og danskudviklede Juventas, bygget af GomSpace i Aalborg."
+      ],
+      "whyItMatters": "Juventas skal med radar analysere asteroidens indre -- aldrig gjort før. Missionen skal vise, hvor meget kraft der skal til for at ændre en asteroides bane.",
+      "analysis": "At udsvinget først nu kan forklares, viser, hvor usikker planetforsvar stadig er -- og hvorfor et dansk instrument kan flytte grundlaget for fremtidige missioner.",
+      "topics": [
+        "rumfart",
+        "forskning",
+        "danmark"
+      ],
+      "entities": [
+        "ESA",
+        "Hera",
+        "GomSpace",
+        "DTU Space",
+        "Michael Linden-Vørnle"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 58,
+        "decisionValue": 30,
+        "novelty": 85,
+        "sourceQuality": 75,
+        "personalRelevance": 15,
+        "contrast": 90
+      },
+      "claims": [
+        {
+          "text": "Hera ankommer til Dimorphos 4. november 2026; DART ændrede omløbstiden ca. 30 minutter; Juventas (GomSpace, Aalborg) skal som første nogensinde radarscanne en asteroides indre.",
+          "sourceUrls": [
+            "https://videnskab.dk/rummet/rumsonde-skal-afsloere-resultatet-af-vildt-eksperiment-kan-redde-os-fra-daeber-asteroider/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Rumsonde skal afsløre resultatet af vildt eksperiment: Kan redde os fra dræber-asteroider",
+          "publisher": "Videnskab.dk",
+          "url": "https://videnskab.dk/rummet/rumsonde-skal-afsloere-resultatet-af-vildt-eksperiment-kan-redde-os-fra-daeber-asteroider/",
+          "publishedAt": "2026-10-29T05:00:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://videnskab.dk/wp-content/uploads/2026/10/hera-ankommer-til-dimorphos-illustration-esa-1440x810.jpg",
+        "credit": "Illustration: ESA",
+        "alt": "ESA-illustration af rumsonden Hera, der ankommer til asteroiden Dimorphos",
+        "sourceUrl": "https://videnskab.dk/rummet/rumsonde-skal-afsloere-resultatet-af-vildt-eksperiment-kan-redde-os-fra-daeber-asteroider/"
+      }
+    }
+  ],
+  "signals": [
+    {
+      "text": "Vi lægger flere penge i butikker uden for bymidten, viser DI-analyse",
+      "headline": "Vi lægger flere penge i butikker uden for bymidten, viser DI-analyse",
+      "url": "https://www.dr.dk/nyheder/seneste/vi-laegger-flere-penge-i-butikker-uden-bymidten-viser-di-analyse",
+      "publisher": "DR",
+      "section": "Erhverv",
+      "publishedAt": "2026-11-04T04:45:27Z",
+      "summary": "DI-analyse af 10.638 detailhandlere 2019-2025 viser, at indtjeningen pr. medarbejder uden for bymidten er dobbelt så høj som i bymidten, siger DI Handels direktør Jacob Kjeldsen."
+    },
+    {
+      "text": "Ansattes oplysninger lækket i sikkerhedsbrud hos Magasin",
+      "headline": "Ansattes oplysninger lækket i sikkerhedsbrud hos Magasin",
+      "url": "https://www.dr.dk/nyheder/indland/ansattes-oplysninger-laekket-i-sikkerhedsbrud-hos-magasin",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-11-03T20:59:23Z",
+      "summary": "Magasin bekræfter, at nuværende og tidligere medarbejderes fortrolige data blev kompromitteret efter uautoriseret adgang til IT-systemer 18. oktober."
+    },
+    {
+      "text": "1,1 millioner har søgt om kreditadvarsel efter CPR-læk",
+      "headline": "1,1 millioner har søgt om kreditadvarsel efter CPR-læk",
+      "url": "https://www.dr.dk/nyheder/indland/1-1-millioner-har-soegt-om-kreditadvarsel-efter-cpr-laek",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-11-03T14:02:00Z",
+      "summary": "Antallet af ansøgninger om kreditadvarsel er steget fra ca. 250.000 til 1,1 millioner efter CPR-lækket, hvor en leverandørs password var \"123456\" uden 2FA."
+    },
+    {
+      "text": "Forsvarer ville have sigtet i sag om babybortførelse løsladt: Dommer forlænger fængsling",
+      "headline": "Forsvarer ville have sigtet i sag om babybortførelse løsladt: Dommer forlænger fængsling",
+      "url": "https://www.dr.dk/nyheder/indland/forsvarer-ville-have-sigtet-i-sag-om-babybortfoerelse-loesladt-dommer-forlaenger-faengsling",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-11-03T12:21:17Z",
+      "summary": "En 37-årig mand sigtet for bortførelse af en syv måneder gammel baby fra Haderslev får forlænget varetægtsfængsling fire uger."
+    },
+    {
+      "text": "Lillebæltsbroen skal renoveres",
+      "headline": "Lillebæltsbroen skal renoveres",
+      "url": "https://www.dr.dk/nyheder/indland/lillebaeltsbroen-skal-renoveres",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-11-03T09:06:14Z",
+      "summary": "Renovering i 2027-2028 vil påvirke omkring 80.000 daglige køretøjer, med tre spor pr. retning og 50 km/t under arbejdet."
+    },
+    {
+      "text": "Polen opruster ved Kaliningrad efter Putin-melding",
+      "headline": "Polen opruster ved Kaliningrad efter Putin-melding",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-03-polen-opruster-ved-kaliningrad-efter-putin-melding",
+      "publisher": "TV 2",
+      "section": "Udland",
+      "publishedAt": "2026-11-03T20:20:10Z",
+      "summary": "Polen forstærker militær og politi ved grænsen til Kaliningrad efter rapporter om mistænkelige personer med lommelygter."
+    },
+    {
+      "text": "Næste års Giro-rute er \"meget attraktiv\" for Mads P.",
+      "headline": "Næste års Giro-rute er \"meget attraktiv\" for Mads P.",
+      "url": "https://sport.tv2.dk/cykling/2026-11-03-naeste-aars-giro-rute-er-meget-attraktiv-for-mads-p",
+      "publisher": "TV 2 Sport",
+      "section": "Sport",
+      "publishedAt": "2026-11-03T20:43:16Z",
+      "summary": "2027-Giroen (8.-30. maj) har mange etaper, der ifølge TV 2's cykelekspert passer Mads Pedersens profil for pink-jersey-dage."
+    },
+    {
+      "text": "Djokovic er ved at nå til bunds i sit problem",
+      "headline": "Djokovic er ved at nå til bunds i sit problem",
+      "url": "https://sport.tv2.dk/tennis/2026-11-03-djokovic-er-ved-at-naa-til-bunds-i-sit-problem",
+      "publisher": "TV 2 Sport",
+      "section": "Sport",
+      "publishedAt": "2026-11-03T10:57:50Z",
+      "summary": "Novak Djokovic siger, han er tæt på at løse gentagne varmerelaterede problemer på banen, og vil satse på indendørsturneringer resten af sæsonen."
+    },
+    {
+      "text": "Historiske præstationer og dansker med i stort comeback",
+      "headline": "Historiske præstationer og dansker med i stort comeback",
+      "url": "https://sport.tv2.dk/amerikansk-fodbold/2026-11-02-historiske-praestationer-og-dansker-med-i-stort-comeback",
+      "publisher": "TV 2 Sport",
+      "section": "Sport",
+      "publishedAt": "2026-11-02T06:15:04Z",
+      "summary": "Dansk center Hjalte Froholdt medvirkede til Arizona Cardinals' 33-30 comeback-sejr over Dallas i overtid."
+    },
+    {
+      "text": "Gidsel går forrest på område, hvor håndbold er lysår bagud",
+      "headline": "Gidsel går forrest på område, hvor håndbold er lysår bagud",
+      "url": "https://www.dr.dk/sporten/fodbold/superliga/gidsel-gaar-forrest-paa-omraade-hvor-haandbold-er-lysaar-bagud",
+      "publisher": "DR",
+      "section": "Sport",
+      "publishedAt": "2026-11-03T06:17:00Z",
+      "summary": "Verdens bedste håndboldspiller, Mathias Gidsel, presser for biometrisk præstationsdata i en sport, han selv siger er lysår bagud på området."
+    },
+    {
+      "text": "Dansk it-sikkerhedsfirma skifter navn og strategi: Ruster sig mod skærpede AI-trusler",
+      "headline": "Dansk it-sikkerhedsfirma skifter navn og strategi: Ruster sig mod skærpede AI-trusler",
+      "url": "https://www.computerworld.dk/art/297421/dansk-it-sikkerhedsfirma-skifter-navn-og-strategi-ruster-sig-mod-skaerpede-ai-trusler",
+      "publisher": "Computerworld DK",
+      "section": "Erhverv",
+      "publishedAt": "2026-11-03T12:30:00Z",
+      "summary": "Axcel-ejede BullWall omdøbes til Helm og udvider fra ransomware-indeslutning til generel angrebsrespons, med AI-accelererede angreb som begrundelse."
+    },
+    {
+      "text": "Isabella Arendt: Jeg nægter at høre på, at arbejdsudbud er det vigtigste mål for politiske reformer",
+      "headline": "Isabella Arendt: Jeg nægter at høre på, at arbejdsudbud er det vigtigste mål for politiske reformer",
+      "url": "https://www.altinget.dk/artikel/isabella-arendt-jeg-naegter-at-hoere-paa-at-arbejdsudbud-skal-vaere-det-vigtigste-i-politiske-reformer",
+      "publisher": "Altinget",
+      "section": "Politik",
+      "publishedAt": "2026-11-04T01:00:00Z",
+      "summary": "L&F-rådgiver Isabella Arendt argumenterer mod at lade arbejdsudbud-gevinster for få tusinde veje tungere end ca. 100.000 stressramte uden for arbejdsmarkedet."
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-noema-japan-failure-20261104",
+      "mode": "read",
+      "kind": "Essay",
+      "status": "new",
+      "title": "In Praise Of Japan's Failure To Keep Up",
+      "creator": "Michael Fitzpatrick",
+      "provider": "Noema Magazine",
+      "url": "https://www.noemamag.com/in-praise-of-japans-failure-to-keep-up/",
+      "availability": "Frit tilgængelig",
+      "commitment": "10-12 min læsning",
+      "description": "Essayet argumenterer for, at Japans institutionelle modstand mod Silicon Valley-stilens disruption har beskyttet arbejdstageres velfærd og social sammenhæng snarere end at koste konkurrenceevne.",
+      "rationale": "Et velargumenteret modsyn til den konkurrenceevne-ortodoksi, han selv har rådgivet om i tre årtier -- nyttig friktion, ikke bekræftelse.",
+      "topics": [
+        "konkurrenceevne",
+        "japan",
+        "arbejdsmarked"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-cosmos-freedom-choice-20261104",
+      "mode": "read",
+      "kind": "Essay",
+      "status": "available",
+      "title": "Beyond Freedom of Choice",
+      "creator": "Alex Chalmers",
+      "provider": "Cosmos Institute",
+      "url": "https://blog.cosmos-institute.org/p/beyond-freedom-of-choice",
+      "availability": "Frit tilgængelig",
+      "commitment": "8-10 min læsning",
+      "description": "Essayet argumenterer for, at det ikke er nok blot at kunne afvise AI's råd for at udøve reel dømmekraft -- ægte autonomi kræver kultiveret praktisk visdom, ikke bare vetoret over maskiner.",
+      "rationale": "Direkte relevant for en, der netop er begyndt at bygge en uafhængig rådgivningspraksis på sin egen dømmekraft -- ikke en generisk AI-anbefaling, men et argument om selve det, han nu lever af.",
+      "topics": [
+        "ai",
+        "dømmekraft",
+        "filosofi"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-arken-dambo-garbage-20261104",
+      "mode": "experience",
+      "kind": "Udstilling",
+      "status": "timely",
+      "title": "Thomas Dambo -- The Garbage Man",
+      "creator": "Thomas Dambo",
+      "provider": "ARKEN Museum of Contemporary Art",
+      "url": "https://www.arken.dk/en/exhibitions/the-garbage-man",
+      "availability": "ARKEN, Ishøj, til og med 29. november 2026",
+      "commitment": "1-1,5 time",
+      "description": "Monumentale troldefigurer bygget udelukkende af genbrugsmaterialer, med workshops hvor man kan bygge sin egen trold.",
+      "rationale": "Serendipitøst valg uden for den faglige profil -- en konkret, snart afsluttende oplevelse, og et cirkulær-økonomi-tema, der ikke kræver forklaring for at give mening.",
+      "topics": [
+        "kultur",
+        "cirkulaer-oekonomi"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://cdn.prod.website-files.com/649025fd8b383baeda56283d/6a1012f4795c322dc937875d_Thomas%20Dambo%20%E2%80%93%20The%20Garbage%20Man.%20Foto_Anders%20Sune%20Berg02.webp",
+        "credit": "Foto: Anders Sune Berg",
+        "alt": "En af Thomas Dambos trolde bygget af genbrugsmaterialer på ARKEN",
+        "sourceUrl": "https://www.arken.dk/en/exhibitions/the-garbage-man"
+      }
+    },
+    {
+      "id": "rec-mulder-economic-weapon-20261104",
+      "mode": "read",
+      "kind": "Bog",
+      "status": "classic",
+      "title": "The Economic Weapon: The Rise of Sanctions as a Tool of Modern War",
+      "creator": "Nicholas Mulder",
+      "provider": "Yale University Press",
+      "url": "https://yalebooks.yale.edu/book/9780300270488/the-economic-weapon/",
+      "availability": "Tilgængelig i bog- og e-bogform hos Yale University Press",
+      "commitment": "Flere timer; kan læses i dele",
+      "description": "Prisvindende historie om, hvordan økonomiske sanktioner blev et krigsvåben fra Første Verdenskrig til Anden Verdenskrig.",
+      "rationale": "Seriøs forskning om præcis det sanktions- og toldværktøj, der i dag former EU-USA- og EU-Kina-forholdet -- hans gamle register, fra en vinkel han sandsynligvis ikke har læst.",
+      "topics": [
+        "handelspolitik",
+        "historie"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {
+    "importance": 70,
+    "decisionValue": 55,
+    "novelty": 65,
+    "sourceQuality": 75,
+    "personalRelevance": 55,
+    "contrast": 45
+  }
+}
