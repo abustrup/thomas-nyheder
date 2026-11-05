@@ -1,0 +1,740 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-11-05-001",
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T05:23:35Z",
+  "readingMinutes": 11,
+  "title": "Thomas' Nyheder – 5. november 2026",
+  "dek": "Novo Nordisk opjusterer for tredje gang i træk, DF stiller benzin-ultimatum til regeringens skattereform, og statsministeren beder danskerne ruste sig mod cyberangreb.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-novo-nordisk-q3-20261105",
+      "eventKey": "novo-nordisk-q3-2026-guidance-raise",
+      "materialFacts": [
+        "Q3 2026 adjusted driftsresultat steg 27% ved CER til DKK 31.720 mio.",
+        "Q3 2026 adjusted salg steg 4% ved CER til DKK 79.195 mio.",
+        "FY2026-guidance opjusteret ved Q3-regnskabet",
+        "9-måneders adjusted nettosalg DKK 227.746 mio. (+2% CER)"
+      ],
+      "section": "Erhverv",
+      "headline": "Novo raises full-year outlook on continued GLP-1 momentum, with third-quarter adjusted operating profit increasing 27% at CER to DKK 31,720 million",
+      "primarySourceUrl": "https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=919765",
+      "subheadline": "Novo Nordisk opjusterer forventningerne for tredje gang i træk, mens GLP-1-salget fortsat vokser i USA og internationalt – med direkte betydning for dansk eksport og BNP.",
+      "body": [
+        "Novo Nordisk opjusterede torsdag sin forventning til hele 2026. Det justerede driftsresultat steg 27 procent ved konstante valutakurser i tredje kvartal til 31,7 milliarder kroner, mens salget steg 4 procent til 79,2 milliarder kroner – drevet af fortsat volumenvækst i GLP-1-præparater mod fedme og diabetes i USA og internationalt.",
+        "For årets første ni måneder lyder det justerede nettosalg på 227,7 milliarder kroner, en stigning på 2 procent. Administrerende direktør Mike Doustdar kalder det et stærkere kvartal end ventet."
+      ],
+      "whyItMatters": "Novo Nordisk er Danmarks tungeste enkeltaktør i eksportstatistikken, og selskabets kvartalstal slår direkte igennem på landets vækstbillede. En opjustering ved Q3 betyder, at medicinalindustriens vægt i dansk BNP fortsat øges snarere end flader ud.",
+      "analysis": "Opjusteringen kommer, mens selskabet samtidig sparer efter et turbulent 2025 og møder skarpere konkurrence om GLP-1-markedet. At resultatet alligevel overrasker positivt, tyder på, at efterspørgslen endnu ikke er mættet – en styrke for dansk eksport i dag, men en koncentrationsrisiko, hvis væksten en dag flader ud.",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Maziar_Mike_Doustdar.jpg/1920px-Maziar_Mike_Doustdar.jpg",
+        "credit": "Foto: Canyak1982 / Wikimedia Commons (CC0)",
+        "alt": "Mike Doustdar, administrerende direktør for Novo Nordisk, ved et Novo Nordisk-arrangement i 2024 (arkivfoto)",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maziar_Mike_Doustdar.jpg"
+      },
+      "topics": [
+        "export",
+        "pharma",
+        "makroøkonomi",
+        "novo-nordisk"
+      ],
+      "entities": [
+        "Novo Nordisk",
+        "Mike Doustdar",
+        "Danmark"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 82,
+        "decisionValue": 70,
+        "novelty": 60,
+        "sourceQuality": 90,
+        "personalRelevance": 85,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Q3 2026 adjusted driftsresultat steg 27% ved CER til DKK 31.720 mio.",
+          "sourceUrls": [
+            "https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=919765"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "FY2026-guidance opjusteret for tredje gang i træk",
+          "sourceUrls": [
+            "https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=919765"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Novo raises full-year outlook on continued GLP-1 momentum, with third-quarter adjusted operating profit increasing 27% at CER to DKK 31,720 million",
+          "publisher": "Novo Nordisk",
+          "url": "https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=919765",
+          "publishedAt": "2026-11-04T06:30:47Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-df-fuel-tax-20261105",
+      "eventKey": "df-fuel-tax-ultimatum",
+      "materialFacts": [
+        "DF kræver mindst 2 kr./liter lavere benzin- og dieselpris i mindst et år (ca. 3 mia. kr./år)",
+        "Reformen sænker selskabsskatten fra 22% til 19% og fjerner mellemskat og tillægsskat",
+        "Enhedslisten og Alternativet afviser deltagelse; DF's 16 mandater kan blive udslagsgivende"
+      ],
+      "section": "Dansk politik",
+      "headline": "DF stiller ultimatum til regeringen: Kræver lavere benzinpriser for at støtte skattelettelser til de rigeste",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/politik/df-stiller-ultimatum-til-regeringen-kraever-lavere-benzinpriser-stoette-skattelettelser-til-de",
+      "subheadline": "Dansk Folkeparti kræver markant lavere benzin- og dieselpriser som pris for at redde regeringens skattereform, der sænker selskabsskatten fra 22 til 19 procent.",
+      "body": [
+        "Dansk Folkeparti stiller nu et ultimatum til regeringen: mindst 2 kroner lavere pris per liter benzin og diesel i mindst et år, før partiet vil støtte skattereformen – et krav på omkring 3 milliarder kroner årligt.",
+        "Reformen fjerner mellemskat og tillægsskat for højere indkomster og sænker selskabsskatten fra 22 til 19 procent. Enhedslisten og Alternativet afviser at deltage, så DF's 16 mandater kan blive udslagsgivende."
+      ],
+      "whyItMatters": "En selskabsskattesænkning fra 22 til 19 procent er et indgreb i virksomheders vilkår – men vedtagelsen er bundet op på en brændstofpris-forhandling, ikke erhvervspolitisk substans.",
+      "analysis": "Anders Vistisen sætter selv prisen: 'Hvis vi kan få en markant nedsættelse af prisen på benzin og diesel i Danmark, så er vi klar til at indgå i forhandlinger med regeringen om deres skattereform.' Det viser, hvor afhængig lettelsen er af et bytteforhold uden forbindelse til selskabsskat.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/4t2jeptc/20260810-143932-l.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR (Foto: Claus Fisker/Ritzau Scanpix)",
+        "alt": "Morten Messerschmidt og Anders Vistisen (DF), hvis 16 mandater kan blive udslagsgivende for skattereformen (arkivfoto)",
+        "sourceUrl": "https://www.dr.dk/nyheder/politik/df-stiller-ultimatum-til-regeringen-kraever-lavere-benzinpriser-stoette-skattelettelser-til-de"
+      },
+      "topics": [
+        "dansk-politik",
+        "skat",
+        "erhvervsvilkaar"
+      ],
+      "entities": [
+        "Dansk Folkeparti",
+        "Anders Vistisen",
+        "Morten Messerschmidt"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 70,
+        "decisionValue": 75,
+        "novelty": 55,
+        "sourceQuality": 85,
+        "personalRelevance": 75,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "DF kræver mindst 2 kr./liter lavere benzin- og dieselpris i mindst et år",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/politik/df-stiller-ultimatum-til-regeringen-kraever-lavere-benzinpriser-stoette-skattelettelser-til-de"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Reformen sænker selskabsskatten fra 22% til 19%",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/politik/df-stiller-ultimatum-til-regeringen-kraever-lavere-benzinpriser-stoette-skattelettelser-til-de"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "DF stiller ultimatum til regeringen: Kræver lavere benzinpriser for at støtte skattelettelser til de rigeste",
+          "publisher": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/politik/df-stiller-ultimatum-til-regeringen-kraever-lavere-benzinpriser-stoette-skattelettelser-til-de",
+          "publishedAt": "2026-11-04T06:30:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-venstre-landbrug-20261105",
+      "eventKey": "venstre-landbrug-strain",
+      "materialFacts": [
+        "Ved L&F's delegeretmøde i Herning gik landmændenes kritik primært mod Alternativets leder Franciska Rosenkilde, ikke mod Troels Lund Poulsen",
+        "L&F-formand Søren Søndergaard: 'Vi har ikke nogen nærmeste samarbejdspartner på Christiansborg. Vi taler med alle partier'",
+        "Søren Gade forlod Folketinget, og Preben Bang Henriksen blev smidt ud af Venstre, begge efter uenighed om skærpede kvælstofkrav"
+      ],
+      "section": "Dansk politik",
+      "headline": "Venstres historiske bånd til landbruget er under pres: Tvivler på Troels Lund som formand",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/politik/venstres-historiske-baand-til-landbruget-er-under-pres-tvivler-paa-troels-lund-som-formand",
+      "subheadline": "L&F's formand taler nu diplomatisk undvigende om Venstre som samarbejdspartner, mens to profilerede exits fra Venstre over kvælstofpolitik viser et bånd under pres.",
+      "body": [
+        "Ved L&F's delegeretmøde i Herning gik kritikken i partilederdebatten mod Alternativets leder Franciska Rosenkilde – Troels Lund Poulsen undgik stort set at blive ramt.",
+        "Søren Gade forlod Folketinget, og Preben Bang Henriksen blev smidt ud af Venstre – begge efter uenighed om kvælstofkrav. L&F-formand Søren Søndergaard: 'Vi har ikke nogen nærmeste samarbejdspartner på Christiansborg. Vi taler med alle partier.'"
+      ],
+      "whyItMatters": "Venstres relation til landbruget har i årtier været en stabil alliance. At formanden nu taler om 'alle partier' snarere end én nærmeste samarbejdspartner, matcher to afgange fra Venstres rækker over kvælstofpolitik.",
+      "analysis": "At Poulsen undgik det værste af kritikken, mens den ramte Alternativet, viser, at utilfredsheden med den grønne kurs ikke kun er landbrugets mod Venstre. Gades og Bang Henriksens exits er et konkret varsel om, at prisen betales i egne rækker.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/1jbhh5zc/20260625-153725-l-1920x1280web_crop001.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR (Foto: Mads Claus Rasmussen/Ritzau Scanpix)",
+        "alt": "Troels Lund Poulsen (V), der undgik det værste af landbrugets kritik ved L&F's delegeretmøde i Herning (arkivfoto)",
+        "sourceUrl": "https://www.dr.dk/nyheder/politik/venstres-historiske-baand-til-landbruget-er-under-pres-tvivler-paa-troels-lund-som-formand"
+      },
+      "topics": [
+        "dansk-politik",
+        "landbrug",
+        "erhvervsorganisationer"
+      ],
+      "entities": [
+        "Venstre",
+        "Landbrug & Fødevarer",
+        "Troels Lund Poulsen",
+        "Søren Søndergaard"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 68,
+        "decisionValue": 60,
+        "novelty": 65,
+        "sourceQuality": 85,
+        "personalRelevance": 70,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Ved L&F's delegeretmøde i Herning gik kritikken i partilederdebatten primært mod Alternativets leder Franciska Rosenkilde, ikke mod Troels Lund Poulsen",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/politik/venstres-historiske-baand-til-landbruget-er-under-pres-tvivler-paa-troels-lund-som-formand"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "L&F-formand Søren Søndergaard: 'Vi har ikke nogen nærmeste samarbejdspartner på Christiansborg. Vi taler med alle partier.'",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/politik/venstres-historiske-baand-til-landbruget-er-under-pres-tvivler-paa-troels-lund-som-formand"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Søren Gade forlod Folketinget, og Preben Bang Henriksen blev smidt ud af Venstre, begge efter uenighed om skærpede kvælstofkrav",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/politik/venstres-historiske-baand-til-landbruget-er-under-pres-tvivler-paa-troels-lund-som-formand"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Venstres historiske bånd til landbruget er under pres: Tvivler på Troels Lund som formand",
+          "publisher": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/politik/venstres-historiske-baand-til-landbruget-er-under-pres-tvivler-paa-troels-lund-som-formand",
+          "publishedAt": "2026-11-04T17:30:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-ec-work-programme-20261105",
+      "eventKey": "ec-2027-work-programme-simplification",
+      "materialFacts": [
+        "Kommissionens arbejdsprogram for 2027 rummer markant færre nye initiativer end sidste år – Altinget opgør det til et fald fra 62 til 24, næsten to tredjedele færre",
+        "Op til 10 af forslagene handler om forenkling",
+        "Forslag om energiskat og grøn mærkning trækkes tilbage; naturbeskyttelse er til revision"
+      ],
+      "section": "EU og erhvervspolitik",
+      "headline": "Von der Leyen skruer ned for blusset og dropper forslag om energiskat og grøn mærkning",
+      "primarySourceUrl": "https://www.altinget.dk/eu/artikel/von-der-leyen-skruer-ned-for-blusset-og-dropper-forslag-om-energiskat-og-groen-maerkning",
+      "subheadline": "EU-Kommissionen dropper forslag om energiskat og grøn mærkning og skærer kraftigt i antallet af nye lovforslag i 2027 – forenkling er nu den politiske prioritet.",
+      "body": [
+        "Europa-Kommissionen fremlagde i denne uge sit arbejdsprogram for 2027. Antallet af nye planlagte initiativer falder markant – Altinget opgør det til fra 62 sidste år til 24, næsten to tredjedele færre, hvoraf op til 10 forslag selv handler om forenkling.",
+        "Samtidig trækkes forslag om energiskat og grøn mærkning helt tilbage, og reglerne for naturbeskyttelse sendes til revision."
+      ],
+      "whyItMatters": "For en konkurrenceevnedagsorden, der længe har handlet om at fjerne regulatorisk byrde, er kursskiftet konkret: markant færre nye forslag, flere trukket tilbage, implementering frem for ny lovgivning som det erklærede fokus.",
+      "analysis": "Handelskommissær Maroš Šefčovič kalder det en lytning til erhvervslivet: 'Det, vi hører fra virksomheder og regeringer på tværs af Europa, er et ønske om forenkling af reglerne, ikke flere regler.' Spørgsmålet er, om de grønne forslag taber til en bredere dereguleringsstemning før 2027.",
+      "image": {
+        "url": "https://legacy.altinget.dk/images/article/307447/162962.jpg",
+        "credit": "Kilde: Altinget",
+        "alt": "Ursula von der Leyen, formand for Europa-Kommissionen, ved fremlæggelsen af Kommissionens arbejdsprogram for 2027",
+        "sourceUrl": "https://www.altinget.dk/eu/artikel/von-der-leyen-skruer-ned-for-blusset-og-dropper-forslag-om-energiskat-og-groen-maerkning"
+      },
+      "topics": [
+        "eu-konkurrenceevne",
+        "eu-regulering",
+        "simplification"
+      ],
+      "entities": [
+        "Europa-Kommissionen",
+        "Ursula von der Leyen",
+        "Maroš Šefčovič"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 72,
+        "decisionValue": 65,
+        "novelty": 60,
+        "sourceQuality": 75,
+        "personalRelevance": 80,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Kommissionens arbejdsprogram for 2027 falder fra 62 til 24 nye initiativer, næsten to tredjedele færre; op til 10 af forslagene handler selv om forenkling",
+          "sourceUrls": [
+            "https://www.altinget.dk/eu/artikel/hvad-vil-eu-i-2027-her-er-kommissionens-liste-for-2027"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Maroš Šefčovič: 'Det, vi hører fra virksomheder og regeringer på tværs af Europa, er et ønske om forenkling af reglerne, ikke flere regler.'",
+          "sourceUrls": [
+            "https://www.altinget.dk/eu/artikel/von-der-leyen-skruer-ned-for-blusset-og-dropper-forslag-om-energiskat-og-groen-maerkning"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Von der Leyen skruer ned for blusset og dropper forslag om energiskat og grøn mærkning",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/eu/artikel/von-der-leyen-skruer-ned-for-blusset-og-dropper-forslag-om-energiskat-og-groen-maerkning",
+          "publishedAt": "2026-11-05T01:00:00Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Hvad vil EU i 2027? Her er Kommissionens liste over nye forslag",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/eu/artikel/hvad-vil-eu-i-2027-her-er-kommissionens-liste-for-2027",
+          "publishedAt": "2026-11-05T01:00:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-pm-cyberattack-20261105",
+      "eventKey": "pm-urges-cyberattack-preparedness",
+      "materialFacts": [
+        "Statsminister Mette Frederiksen opfordrer borgere til at forberede sig på cyberangreb og hybride trusler",
+        "Henviser til CPR-datalæk, hackede universitetssites og hackerangreb mod køle-/frysesystemer i Europa",
+        "Ekspert Jens Myrup Pedersen anbefaler 2FA, unikke passwords og opdaterede enheder"
+      ],
+      "section": "Dansk politik",
+      "headline": "Statsministeren beder danskerne forberede sig på cyberangreb – det her skal du gøre",
+      "primarySourceUrl": "https://nyheder.tv2.dk/samfund/2026-11-03-statsministeren-beder-danskerne-forberede-sig-paa-cyberangreb-det-her-skal-du-goere",
+      "subheadline": "Statsminister Mette Frederiksen opfordrer danskerne til at ruste sig mod cyberangreb, efter en række hackerangreb og datalæk har ramt landet.",
+      "body": [
+        "Statsminister Mette Frederiksen opfordrede denne uge danskerne til at forberede sig på cyberangreb. Opfordringen følger en række hændelser: datalæk fra CPR-registret, hackede universitetssites og angreb mod køle- og frysesystemer i Europa.",
+        "Cybersikkerhedsekspert Jens Myrup Pedersen anbefaler konkrete skridt: to-faktor-login, unikke adgangskoder og løbende opdatering af enheder – simple tiltag mod de mest almindelige angrebsmetoder."
+      ],
+      "whyItMatters": "Når en statsminister taler direkte til borgerne om cybersikkerhed, er det et signal om, at truslen vurderes at ramme danskernes hverdag – ikke kun kritisk infrastruktur og store organisationer.",
+      "analysis": "Opfordringen kommer, mens angrebsmetoderne selv bliver mere sofistikerede: stemmekloning med kunstig intelligens er for nylig brugt i et forsøg på at franarre en dansk erhvervsorganisation penge. Beskeden til borgerne er enkel – trusselsbilledet er det ikke.",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/7/c/0/7c0c0925-be7d-4ccd-8ef4-35fb8bb2db36?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCw1Miw0NzU2LDI2Nzk&s=0e37230d2786084259ff00a9fa22efe7",
+        "credit": "Foto: Liselotte Sabroe/Ritzau Scanpix",
+        "alt": "Statsminister Mette Frederiksen under statsministerens spørgetime på Christiansborg, 3. november 2026",
+        "sourceUrl": "https://nyheder.tv2.dk/samfund/2026-11-03-statsministeren-beder-danskerne-forberede-sig-paa-cyberangreb-det-her-skal-du-goere"
+      },
+      "topics": [
+        "cybersikkerhed",
+        "dansk-politik",
+        "beredskab"
+      ],
+      "entities": [
+        "Mette Frederiksen",
+        "Jens Myrup Pedersen",
+        "Danmark"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 75,
+        "decisionValue": 55,
+        "novelty": 60,
+        "sourceQuality": 80,
+        "personalRelevance": 40,
+        "contrast": 70
+      },
+      "claims": [
+        {
+          "text": "Statsminister Mette Frederiksen opfordrer borgere til at forberede sig på cyberangreb og hybride trusler",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/samfund/2026-11-03-statsministeren-beder-danskerne-forberede-sig-paa-cyberangreb-det-her-skal-du-goere"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Ekspert Jens Myrup Pedersen anbefaler 2FA, unikke adgangskoder og opdaterede enheder",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/samfund/2026-11-03-statsministeren-beder-danskerne-forberede-sig-paa-cyberangreb-det-her-skal-du-goere"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Statsministeren beder danskerne forberede sig på cyberangreb – det her skal du gøre",
+          "publisher": "TV 2 Nyheder",
+          "url": "https://nyheder.tv2.dk/samfund/2026-11-03-statsministeren-beder-danskerne-forberede-sig-paa-cyberangreb-det-her-skal-du-goere",
+          "publishedAt": "2026-11-04T16:36:42Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-man-utd-roma-20261105",
+      "eventKey": "man-utd-roma-comeback-schmeichel",
+      "materialFacts": [
+        "Manchester United vendte 0-2 til 3-2 mod AS Roma i Champions League og endte ni kampe uden sejr",
+        "Bruno Fernandes scorede på straffe i 58. minut, Matheus Cunha scorede to gange i sidste ti minutter",
+        "Kasper Schmeichel opfordrer til sammenhold; cheftræner Michael Carricks job har været diskuteret"
+      ],
+      "section": "Sport",
+      "headline": "Schmeichel sender klar opfordring efter United-comeback",
+      "primarySourceUrl": "https://sport.tv2.dk/fodbold/2026-11-04-schmeichel-sender-klar-opfordring-efter-united-comeback",
+      "subheadline": "Manchester United vendte en 0-2-føring til 3-2-sejr over AS Roma i Champions League og afsluttede ni kampe uden sejr.",
+      "body": [
+        "Manchester United var bagud 0-2 mod AS Roma i Champions League, men vendte kampen til 3-2-sejr og stoppede ni kampe i træk uden sejr. Bruno Fernandes bragte United tilbage med en scoring på straffe i det 58. minut.",
+        "Matheus Cunha afgjorde herefter kampen med to scoringer i de sidste ti minutter. Cheftræner Michael Carricks fremtid i klubben har været heftigt diskuteret."
+      ],
+      "whyItMatters": "For en klub i åbenlys krise er comebacket mere end tre point: det første konkrete tegn på, at truppen fortsat kæmper for træneren, trods ugers spekulation om splittelse i omklædningsrummet.",
+      "analysis": "Kasper Schmeichel, der fulgte opgøret som ekspert for britisk tv, opfordrer til sammenhold: 'Man er nødt til at lægge uenighederne til side.' Fernandes afviser selv, at sejren var en redningsaktion for træneren – men medgiver, at hans tidligere bænkning føltes som en straf for hans kritik, og at det i givet fald var korrekt.",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/7/5/5/755a0b88-077d-4af7-9ec4-ecd02934a5e7?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MjMyLDkzLDE1ODQsODkw&s=3cc10589f28dfc827eaaf8968d0c5dac",
+        "credit": "Foto: Jason Cairnduff/Ritzau Scanpix",
+        "alt": "Bruno Fernandes i Manchester Uniteds trøje under opgøret mod AS Roma, hvor han scorede på straffe til comebacket",
+        "sourceUrl": "https://sport.tv2.dk/fodbold/2026-11-04-schmeichel-sender-klar-opfordring-efter-united-comeback"
+      },
+      "topics": [
+        "sport",
+        "fodbold",
+        "manchester-united"
+      ],
+      "entities": [
+        "Manchester United",
+        "Bruno Fernandes",
+        "Matheus Cunha",
+        "Kasper Schmeichel",
+        "AS Roma"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 35,
+        "decisionValue": 15,
+        "novelty": 55,
+        "sourceQuality": 80,
+        "personalRelevance": 90,
+        "contrast": 20
+      },
+      "claims": [
+        {
+          "text": "Manchester United vendte 0-2 til 3-2 mod AS Roma i Champions League og endte ni kampe uden sejr",
+          "sourceUrls": [
+            "https://sport.tv2.dk/fodbold/2026-11-04-schmeichel-sender-klar-opfordring-efter-united-comeback"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Kasper Schmeichel: 'Man er nødt til at lægge uenighederne til side.'",
+          "sourceUrls": [
+            "https://sport.tv2.dk/fodbold/2026-11-04-schmeichel-sender-klar-opfordring-efter-united-comeback"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Schmeichel sender klar opfordring efter United-comeback",
+          "publisher": "TV 2 Sport",
+          "url": "https://sport.tv2.dk/fodbold/2026-11-04-schmeichel-sender-klar-opfordring-efter-united-comeback",
+          "publishedAt": "2026-11-04T06:56:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-energinet-grid-20261105",
+      "eventKey": "energinet-north-jutland-grid-15-8bn",
+      "materialFacts": [
+        "15,8 mia. kr. statsfinansieret netudbygning i Nordjylland via Energinet",
+        "Drevet af pukkel af tilslutningsanmodninger fra sol, vind, varmepumper og elbiler",
+        "Energinet kører i alt over 200 projekter for samlet over 100 mia. kr."
+      ],
+      "section": "Energi og grøn omstilling",
+      "headline": "Et af Energinets største projekter til dato: 15,8 milliarder kroner skal løfte Nordjyllands elnet",
+      "primarySourceUrl": "https://ing.dk/artikel/et-af-energinets-stoerste-projekter-til-dato-158-milliarder-kroner-skal-loefte-nordjyllands-elnet",
+      "subheadline": "Energinet sætter et af sine største projekter nogensinde i gang: 15,8 milliarder kroner skal løfte det nordjyske elnet, efter en pukkel af tilslutningsanmodninger.",
+      "body": [
+        "Energinet igangsætter en udbygning af elnettet i Nordjylland til 15,8 milliarder kroner – et af selskabets største enkeltprojekter nogensinde. Udbygningen skal fjerne en pukkel af tilslutningsanmodninger fra solceller, vindmøller, varmepumper og elbiler.",
+        "Projektet er ét blandt over 200, som Energinet i øjeblikket har i gang for samlet over 100 milliarder kroner. Selskabets fungerende direktion peger på, at nettet må bygges både hurtigere og i større omfang, end det hidtil er sket."
+      ],
+      "whyItMatters": "Elnettet er i stigende grad den faktiske flaskehals for den grønne omstilling: det nytter lidt at bygge mere vedvarende energi, hvis kapaciteten til at tilslutte og transportere strømmen ikke følger med.",
+      "analysis": "At et enkelt regionalt projekt når 15,8 milliarder kroner, siger noget om det samlede investeringsbehov i dansk infrastruktur de kommende år – en regning, der i sidste ende finansieres gennem elpriserne.",
+      "image": {
+        "url": "https://ing.dk/sites/mi/files/styles/open_graph_image_16_9/public/2026-06/da905bf0-15b0-40ca-a625-21b7f2510ab0.jpg?itok=NwgMtjeO",
+        "credit": "Kilde: Ingeniøren",
+        "alt": "Tekniker arbejder på en elmast – illustration af den netudbygning, Energinet nu sætter i gang i Nordjylland",
+        "sourceUrl": "https://ing.dk/artikel/et-af-energinets-stoerste-projekter-til-dato-158-milliarder-kroner-skal-loefte-nordjyllands-elnet"
+      },
+      "topics": [
+        "energi",
+        "groen-omstilling",
+        "infrastruktur"
+      ],
+      "entities": [
+        "Energinet",
+        "Nordjylland",
+        "Danmark"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 60,
+        "decisionValue": 55,
+        "novelty": 55,
+        "sourceQuality": 75,
+        "personalRelevance": 65,
+        "contrast": 30
+      },
+      "claims": [
+        {
+          "text": "15,8 mia. kr. statsfinansieret netudbygning i Nordjylland via Energinet",
+          "sourceUrls": [
+            "https://ing.dk/artikel/et-af-energinets-stoerste-projekter-til-dato-158-milliarder-kroner-skal-loefte-nordjyllands-elnet"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Energinet kører i alt over 200 projekter for samlet over 100 mia. kr.",
+          "sourceUrls": [
+            "https://ing.dk/artikel/et-af-energinets-stoerste-projekter-til-dato-158-milliarder-kroner-skal-loefte-nordjyllands-elnet"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Et af Energinets største projekter til dato: 15,8 milliarder kroner skal løfte Nordjyllands elnet",
+          "publisher": "Ingeniøren",
+          "url": "https://ing.dk/artikel/et-af-energinets-stoerste-projekter-til-dato-158-milliarder-kroner-skal-loefte-nordjyllands-elnet",
+          "publishedAt": "2026-11-02T09:27:06Z",
+          "kind": "reporting"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "Landbrug & Fødevarer fyrer og omrokerer i ledelsen",
+      "headline": "Landbrug & Fødevarer fyrer og omrokerer i ledelsen",
+      "url": "https://www.dr.dk/nyheder/seneste/landbrug-foedevarer-fyrer-og-omrokerer-i-ledelsen",
+      "summary": "17 opsigelser og 8 ubesatte stillinger; søjlestruktur afløses af samlet direktion under CEO Morten Boje Hviid fra 1. november.",
+      "publisher": "DR Nyheder",
+      "section": "Erhverv",
+      "publishedAt": "2026-10-29T15:41:54Z"
+    },
+    {
+      "text": "Landbrug & Fødevarer præsenterer ny direktør for Sundhed, Dyrevelfærd & Markeder: – En stærk profil på et vigtigt tidspunkt",
+      "headline": "Landbrug & Fødevarer præsenterer ny direktør for Sundhed, Dyrevelfærd & Markeder: – En stærk profil på et vigtigt tidspunkt",
+      "url": "https://sydnyt.dk/landbrug-foedevarer-praesenterer-ny-direktoer-for-sundhed-dyrevelfaerd-markeder-en-staerk-profil-paa-et-vigtigt-tidspunkt/",
+      "summary": "Charlotte Vilstrup Castle, tidl. veterinærdirektør i Fødevarestyrelsen, tiltræder 1. december og skal koordinere på tværs af kvæg-, svine- og fjerkræsektor.",
+      "publisher": "Sydnyt.dk",
+      "section": "Erhverv",
+      "publishedAt": "2026-11-02T12:51:18Z"
+    },
+    {
+      "text": "Ny finansdirektør flyver fra Novo til Københavns Lufthavne",
+      "headline": "Ny finansdirektør flyver fra Novo til Københavns Lufthavne",
+      "url": "https://www.altinget.dk/jobskifte/ny-finansdirektoer-flyver-fra-novo-til-koebenhavns-lufthavne",
+      "summary": "Sofie Mørck Jarl, finansdirektør i Novo Nordisk Engineering, bliver CFO i Københavns Lufthavne senest 1. marts 2027.",
+      "publisher": "Altinget",
+      "section": "Erhverv",
+      "publishedAt": "2026-10-28T09:50:00Z"
+    },
+    {
+      "text": "Rasmussen Global ansætter tidligere direktør for fødevaretænketank",
+      "headline": "Rasmussen Global ansætter tidligere direktør for fødevaretænketank",
+      "url": "https://www.altinget.dk/navnenyt/iben-krog-er-blevet-ansat-i-rasmussen-global",
+      "summary": "Iben Krog (V) bliver rådgiver hos Anders Fogh Rasmussens Rasmussen Global.",
+      "publisher": "Altinget",
+      "section": "Erhverv",
+      "publishedAt": "2026-11-04T14:10:00Z"
+    },
+    {
+      "text": "Dansk Industris direktør udsat for identitetstyveri",
+      "headline": "Dansk Industris direktør udsat for identitetstyveri",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-29-dansk-industris-direktoer-udsat-for-identitetstyveri",
+      "summary": "Svindlere kopierede DI-direktør Lars Sandahl Sørensens stemme med AI for at godkende en betaling fra DI's Sydkorea-kontor; en medarbejder stoppede overførslen.",
+      "publisher": "TV 2 Nyheder",
+      "section": "Erhverv",
+      "publishedAt": "2026-10-29T18:29:46Z"
+    },
+    {
+      "text": "Marius Borg Høiby skal alligevel forblive fængslet",
+      "headline": "Marius Borg Høiby skal alligevel forblive fængslet",
+      "url": "https://www.dr.dk/nyheder/seneste/marius-borg-hoeiby-skal-alligevel-forblive-faengslet",
+      "summary": "Norsk ankedomstol omgør løsladelse; Høiby forbliver varetægtsfængslet med fodlænke på Skaugum.",
+      "publisher": "DR Nyheder",
+      "section": "Udland",
+      "publishedAt": "2026-11-04T14:56:37Z"
+    },
+    {
+      "text": "Højesteret frifinder kvinder for snagen i datasystem",
+      "headline": "Højesteret frifinder kvinder for snagen i datasystem",
+      "url": "https://www.dr.dk/nyheder/indland/hoejesteret-frifinder-kvinder-snagen-i-datasystem",
+      "summary": "To kvinder frifindes for uberettiget opslag i Viborg Kommunes database; adfærden var ikke 'grov nok' til straf.",
+      "publisher": "DR Nyheder",
+      "section": "Indland",
+      "publishedAt": "2026-11-04T11:48:17Z"
+    },
+    {
+      "text": "Storebæltsbroen skal løftes 84 gange i kæmpe renovering",
+      "headline": "Storebæltsbroen skal løftes 84 gange i kæmpe renovering",
+      "url": "https://www.dr.dk/nyheder/indland/storebaeltsbroen-skal-loeftes-84-gange-i-kaempe-renovering",
+      "summary": "188 brolejer efterses, 44 udskiftes; broen løftes 20 mm, 84 gange over tre år fra april 2027 for 232 mio. kr.",
+      "publisher": "DR Nyheder",
+      "section": "Indland",
+      "publishedAt": "2026-11-04T14:30:00Z"
+    },
+    {
+      "text": "Alvorligt uheld på motorvej – mand ramt af lastbil",
+      "headline": "Alvorligt uheld på motorvej – mand ramt af lastbil",
+      "url": "https://nyheder.tv2.dk/trafik/2026-11-05-alvorligt-uheld-paa-motorvej-mand-ramt-af-lastbil",
+      "summary": "Mand ramt af lastbil i tæt tåge på Køge Bugt Motorvejen ved Solrød Strand; tilstand ikke bekræftet af politiet.",
+      "publisher": "TV 2 Nyheder",
+      "section": "Indland",
+      "publishedAt": "2026-11-05T04:45:38Z"
+    },
+    {
+      "text": "Ulvealarmer revet væk",
+      "headline": "Ulvealarmer revet væk",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-04-ulvealarmer-revet-vaek",
+      "summary": "Jagtbutik i Bylderup Bov sælger flere hundrede ulvealarmer på en måned; forsker kalder risikoen for angreb minimal.",
+      "publisher": "TV 2 Nyheder",
+      "section": "Indland",
+      "publishedAt": "2026-11-04T12:12:46Z"
+    },
+    {
+      "text": "Ekspert jubler over Rune og Tausons fællesplan",
+      "headline": "Ekspert jubler over Rune og Tausons fællesplan",
+      "url": "https://sport.tv2.dk/tennis/2026-11-04-ekspert-jubler-over-rune-og-tausons-faellesplan",
+      "summary": "Danmark sigter efter første kvalifikation til United Cup med Holger Rune og Clara Tauson i tidligt 2027.",
+      "publisher": "TV 2 Sport",
+      "section": "Sport",
+      "publishedAt": "2026-11-04T18:24:10Z"
+    },
+    {
+      "text": "Her er Riemers trup til Nations League-kampe",
+      "headline": "Her er Riemers trup til Nations League-kampe",
+      "url": "https://sport.tv2.dk/fodbold/2026-11-04-her-er-riemers-trup-til-nations-league-kampe",
+      "summary": "Trup udtaget til Nations League-kampe mod Portugal og Norge senere på måneden; Mathias Jensen og Alexander Bah tilbage, Jesper Lindstrøm med efter 18 måneders fravær.",
+      "publisher": "TV 2 Sport",
+      "section": "Sport",
+      "publishedAt": "2026-11-04T11:04:20Z"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-superflex-arken-20261105",
+      "mode": "experience",
+      "kind": "Udstilling",
+      "status": "available",
+      "title": "Come Hell Or High Water",
+      "creator": "SUPERFLEX",
+      "provider": "ARKEN Museum of Modern Art",
+      "url": "https://www.arken.dk/en/exhibitions/come-hell-or-high-water",
+      "availability": "Åben nu til 3. januar 2027, ARKEN, Ishøj",
+      "commitment": "1-2 timer",
+      "description": "Den danske kunstnergruppe SUPERFLEX forvandler ARKEN til et halvt sunket ark og bygger som en del af udstillingen et virkeligt kunstigt rev til havets biodiversitet under stigende vandstand.",
+      "rationale": "En legende og konkret fortolkning af klimatilpasning – skulptur og design snarere end politik-slide – der giver et skævt perspektiv på stof, han ellers læser fagligt hver dag.",
+      "topics": [
+        "kunst",
+        "klima",
+        "serendipitet"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://cdn.prod.website-files.com/649025fd8b383baeda56283d/69fb435c712c58319f202ae6_Come%20Hell%20or%20High%20Water_SUPERFLEX.Foto_Anders%20Sune%20Berg_09.webp",
+        "credit": "Foto: Anders Sune Berg / ARKEN",
+        "alt": "Installation fra SUPERFLEX-udstillingen 'Come Hell Or High Water' på ARKEN",
+        "sourceUrl": "https://www.arken.dk/en/exhibitions/come-hell-or-high-water"
+      }
+    },
+    {
+      "id": "rec-the-cycle-doc-20261105",
+      "mode": "watch",
+      "kind": "Dokumentar",
+      "status": "available",
+      "title": "The Cycle",
+      "creator": "Trek racing team",
+      "provider": "HBO Max / discovery+ (Norden)",
+      "url": "https://racing.trekbikes.com/stories/lidl-trek/the-cycle-documentary-film-thibau-nys-evie-richards-emil-johansson-hbo-discovery-eurosport",
+      "availability": "Streaming nu i Europa på HBO Max og discovery+",
+      "description": "Dokumentarfilmen følger fem Trek-ryttere – Thibau Nys, Emma Norsgaard, Evie Richards, Emil Johansson og Lachlan Stevens-McNab – på tværs af landevej, cyclocross, MTB og styrt, på vejen mod toppen.",
+      "rationale": "Cykling er den sportsgren, han følger tættest, og her bliver det rytternes udvikling snarere end løbsresultater, der er i centrum.",
+      "topics": [
+        "sport",
+        "cykling"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://racing.trekbikes.com/wp-content/uploads/2026/03/THE-CYCLE_HBOMax_Now-Streaming_KA_16x9-scaled-1600x800-c-center.jpg",
+        "credit": "Kilde: Trek / Lidl-Trek",
+        "alt": "Plakat for dokumentarfilmen 'The Cycle' om fem Trek-ryttere",
+        "sourceUrl": "https://racing.trekbikes.com/stories/lidl-trek/the-cycle-documentary-film-thibau-nys-evie-richards-emil-johansson-hbo-discovery-eurosport"
+      }
+    },
+    {
+      "id": "rec-glyptotek-fashion-20261105",
+      "mode": "experience",
+      "kind": "Udstilling",
+      "status": "available",
+      "title": "The Power of Fashion in the Roman Empire",
+      "provider": "Ny Carlsberg Glyptotek",
+      "url": "https://glyptoteket.com/exhibitions/current-exhibitions/power-fashion",
+      "availability": "Åben nu til 29. marts 2027, Glyptoteket, København",
+      "commitment": "1-2 timer",
+      "description": "Glyptotekets hidtil største antikudstilling udforsker tøj og smykker som magt- og statussymbol i Romerriget, med lån fra British Museum og en kolossal statue af kejser Septimius Severus.",
+      "rationale": "Et skævt og vittigt blik på selvfremstillingens spil gennem antikken – samme dynamik, han ser dagligt i erhvervsliv og diplomati, bare to tusind år væk.",
+      "topics": [
+        "kunst",
+        "historie",
+        "serendipitet"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://akqa-glyptoteket.euwest01.umbraco.io/media/ugzfcubk/hero_1920x1080px_72dpi_pof_2.jpg",
+        "credit": "Kilde: Ny Carlsberg Glyptotek",
+        "alt": "Udstillingsbillede fra 'The Power of Fashion in the Roman Empire' på Glyptoteket",
+        "sourceUrl": "https://glyptoteket.com/exhibitions/current-exhibitions/power-fashion"
+      }
+    },
+    {
+      "id": "rec-rhine-group-20261105",
+      "mode": "read",
+      "kind": "Policy-initiativ",
+      "status": "available",
+      "title": "Rhine Group",
+      "creator": "Mario Draghi, Patrick Collison (co-chairs); Luis Garicano (eksekverende direktør)",
+      "provider": "Rhine Group",
+      "url": "https://rhinegroup.eu/",
+      "availability": "Frit tilgængeligt",
+      "commitment": "10 minutter",
+      "description": "Ny Bruxelles-nær tænketank og forum stiftet for at omsætte Draghi-rapportens anbefalinger til faktisk reform, med regeringer, akademia og erhvervsliv samlet.",
+      "rationale": "Den mest relevante igangværende institutionelle indsats for at omsætte Draghi-dagsordenen til virkelighed – hans felt, direkte fra kilden, og en naturlig forlængelse af dagens historie om Kommissionens arbejdsprogram.",
+      "topics": [
+        "eu-konkurrenceevne"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {
+    "averageImportance": 66,
+    "averageSourceQuality": 81,
+    "outsideProfileShare": 14,
+    "publisherConcentrationMax": 29
+  }
+}
