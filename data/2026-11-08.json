@@ -1,0 +1,752 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-11-08",
+  "date": "2026-11-08",
+  "generatedAt": "2026-11-08T05:49:14Z",
+  "readingMinutes": 11,
+  "title": "Thomas' Nyheder",
+  "dek": "Sikkerhedsvurderinger af dansk havvind er gået i stå, mens eksperter frygter EU-lovbrud i regeringens elnet-model og DFDS' kommercielle chef stopper efter 30 år – plus et dansk studie om fertilitetsbehandling og kræftrisiko, en overraskende VM-sejr på hjemmebane, og Israels præsident springer Netanyahu over.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-havvind-sikkerhed-20261108",
+      "eventKey": "havvind-sikkerhedsvurdering-forsinket",
+      "materialFacts": [
+        "Sikkerheds- og risikovurderinger af danske havvindmølleparker og energiøer er blevet forsinket",
+        "Størstedelen af Folketingets oppositionspartier kræver nu svar fra klima-, energi- og forsyningsministeren",
+        "Artiklen rejser muligheden for kinesisk teknologi i kritisk dansk energiinfrastruktur som en del af bekymringen"
+      ],
+      "section": "Energi & sikkerhed",
+      "headline": "Sikkerheden blev syltet på havvind og energiøer: Nu kræver rasende opposition svar fra ministeren",
+      "primarySourceUrl": "https://ing.dk/artikel/sikkerheden-blev-syltet-paa-havvind-og-energioeer-nu-kraever-rasende-opposition-svar-fra-ministeren",
+      "subheadline": "Sikkerhedsvurderinger af danske havmølleparker og energiøer er gået i stå, og størstedelen af Folketingets oppositionspartier kræver nu svar fra klima-, energi- og forsyningsministeren.",
+      "body": [
+        "Sikkerheds- og risikovurderinger af danske havvindmølleparker og energiøer er blevet syltet, skriver Ingeniøren. Størstedelen af Folketingets oppositionspartier kræver nu svar fra klima-, energi- og forsyningsministeren, mens Danmark fortsat udbygger sin afhængighed af havvind som bærende element i den grønne omstilling.",
+        "Artiklen rejser samtidig muligheden for, at kinesisk teknologi indgår i dele af den kritiske danske energiinfrastruktur – et forhold, der ifølge Ingeniøren endnu ikke er afklaret, men som skærper presset for, at de forsinkede vurderinger færdiggøres og offentliggøres."
+      ],
+      "whyItMatters": "For en sektor, der skal bære en stadig større andel af dansk elproduktion, er forsinkede sikkerhedstjek ikke en detalje, men et hul i beredskabet – i en periode hvor europæisk energiinfrastruktur allerede er mål for sabotage- og droneepisoder.",
+      "analysis": "Sagen føjer sig til et mønster, hvor den grønne udbygning har overhalet den sikkerhedsmæssige kontrol af den. Det politiske pres betyder, at ministeren nu skal svare konkret på, hvornår vurderingerne er færdige – ikke blot bekræfte, at der arbejdes på sagen.",
+      "topics": [
+        "energi",
+        "sikkerhed",
+        "kritisk-infrastruktur",
+        "kina"
+      ],
+      "entities": [
+        "Klima-, Energi- og Forsyningsministeriet",
+        "Folketinget"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 75,
+        "decisionValue": 70,
+        "novelty": 60,
+        "sourceQuality": 85,
+        "personalRelevance": 80,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Sikkerheds- og risikovurderinger af danske havvindmølleparker og energiøer er blevet forsinket",
+          "sourceUrls": [
+            "https://ing.dk/artikel/sikkerheden-blev-syltet-paa-havvind-og-energioeer-nu-kraever-rasende-opposition-svar-fra-ministeren"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Flere oppositionspartier kræver nu svar fra klima-, energi- og forsyningsministeren",
+          "sourceUrls": [
+            "https://ing.dk/artikel/sikkerheden-blev-syltet-paa-havvind-og-energioeer-nu-kraever-rasende-opposition-svar-fra-ministeren"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Sikkerheden blev syltet på havvind og energiøer: Nu kræver rasende opposition svar fra ministeren",
+          "publisher": "Ingeniøren",
+          "url": "https://ing.dk/artikel/sikkerheden-blev-syltet-paa-havvind-og-energioeer-nu-kraever-rasende-opposition-svar-fra-ministeren",
+          "publishedAt": "2026-11-06T04:00:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://ing.dk/sites/mi/files/styles/open_graph_image_16_9/public/2026-11/20260629-134038-l-7704x5136ma.jpg?itok=XQXUv1lM",
+        "credit": "Kilde: Ingeniøren",
+        "alt": "Sikkerheden blev syltet på havvind og energiøer: Nu kræver rasende opposition svar fra ministeren",
+        "sourceUrl": "https://ing.dk/artikel/sikkerheden-blev-syltet-paa-havvind-og-energioeer-nu-kraever-rasende-opposition-svar-fra-ministeren"
+      }
+    },
+    {
+      "id": "story-fertilitet-kraeft-20261108",
+      "eventKey": "fertilitetsbehandling-boern-kraeftrisiko",
+      "materialFacts": [
+        "Nyt dansk studie i Jama finder ICSI og FET-behandling kobles til øget kræftrisiko hos børn",
+        "Absolut forekomst: 18 tilfælde pr. 100.000 børn uden fertilitetsbehandling, mod 41 efter FET og 28 efter ICSI",
+        "Hvert niende barn i Danmark fødes nu via fertilitetsbehandling"
+      ],
+      "section": "Sundhed & forskning",
+      "headline": "Dansk forskning kobler to slags fertilitetsbehandlinger til øget kræftrisiko for børn",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/viden/dansk-forskning-kobler-slags-fertilitetsbehandlinger-til-oeget-kraeftrisiko-boern",
+      "subheadline": "Nyt dansk studie i Jama kobler mikroinsemination og nedfrosne embryoner til øget, men fortsat sjælden, kræftrisiko hos børn. Almindelig IVF viser ingen øget risiko.",
+      "body": [
+        "Et nyt dansk studie i Jama kobler mikroinsemination (ICSI) og nedfrosne embryoner (FET) til øget kræftrisiko hos børn. Studiet er lavet af Kræftens Bekæmpelse og Syddansk Universitet. Almindelig IVF viser ingen øget risiko.",
+        "Tallene: 18 kræfttilfælde pr. 100.000 børn uden fertilitetsbehandling, mod 41 efter FET og ca. 28 efter ICSI – en fordobling og en 50 procent højere risiko. Hvert niende barn i Danmark fødes via fertilitetsbehandling."
+      ],
+      "whyItMatters": "Seniorforsker Marie Hargreave understreger forbeholdet: børnekræft er alvorligt, men meget sjældent – ca. 280 danske børn og unge får en kræftdiagnose om året. En fordobling af en meget lille risiko er stadig lille, men rammer flere familier.",
+      "analysis": "At IVF ikke viser øget risiko, peger på selve metoden - ikke fertilitetsbehandling generelt - som forklaringen, og giver klinikker et konkret sted at undersøge videre.",
+      "topics": [
+        "sundhed",
+        "forskning",
+        "boern"
+      ],
+      "entities": [
+        "Kræftens Bekæmpelse",
+        "Syddansk Universitet",
+        "Marie Hargreave"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 70,
+        "decisionValue": 55,
+        "novelty": 85,
+        "sourceQuality": 90,
+        "personalRelevance": 20,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "ICSI og FET kobles til øget kræftrisiko hos børn; forekomsten var 18/100.000 uden behandling, 41/100.000 efter FET og ca. 28/100.000 efter ICSI",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/viden/dansk-forskning-kobler-slags-fertilitetsbehandlinger-til-oeget-kraeftrisiko-boern"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Hvert niende barn i Danmark fødes via fertilitetsbehandling, og ca. 280 børn/unge får årligt en kræftdiagnose i Danmark",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/viden/dansk-forskning-kobler-slags-fertilitetsbehandlinger-til-oeget-kraeftrisiko-boern"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Dansk forskning kobler to slags fertilitetsbehandlinger til øget kræftrisiko for børn",
+          "publisher": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/viden/dansk-forskning-kobler-slags-fertilitetsbehandlinger-til-oeget-kraeftrisiko-boern",
+          "publishedAt": "2026-11-07T20:21:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/ecabxk05/20201217-171042-a_crop001.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Arkivfoto af gravid kvinde – illustration til historien om fertilitetsbehandling og kræftrisiko, ikke en patient fra det konkrete studie",
+        "sourceUrl": "https://www.dr.dk/nyheder/viden/dansk-forskning-kobler-slags-fertilitetsbehandlinger-til-oeget-kraeftrisiko-boern"
+      }
+    },
+    {
+      "id": "story-eu-brake-20261108",
+      "eventKey": "eu-2027-emergency-brake",
+      "materialFacts": [
+        "EU-Kommissionens arbejdsprogram for 2027 indeholder 23 nye initiativer mod 45 i 2025 og 38 i 2026",
+        "Merz, Meloni og De Wever kræver en institutionel nødbremse-mekanisme mod ny EU-lovgivning",
+        "Fem forslag er trukket helt tilbage, bl.a. elbeskatningsdirektivet og direktivet om bæredygtighedspåstande"
+      ],
+      "section": "EU & regulering",
+      "headline": "I 2027 skal Europas politikere gøre mindre – så de får travlt",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/eu/i-2027-skal-europas-politikere-goere-mindre-saa-de-faar-travlt",
+      "subheadline": "EU-Kommissionens arbejdsprogram for 2027 skærer kraftigt i antallet af nye initiativer, men Tyskland, Italien og Belgien vil videre og kræver en fast mekanisme til at bremse fremtidig lovgivning.",
+      "body": [
+        "EU-Kommissionens arbejdsprogram for 2027 lander på 23 nye initiativer, mod 45 i 2025 og 38 i 2026. Fem forslag er trukket helt tilbage, blandt andet om elbeskatning og om bæredygtighedspåstande.",
+        "Det er ikke nok for Tysklands Merz, Italiens Meloni og Belgiens De Wever, som ifølge DR kræver en institutionel 'nødbremse' – en mekanisme, der kan lade medlemslande blokere ny EU-lovgivning, de opfatter som en byrde."
+      ],
+      "whyItMatters": "Det er præcis dagsordenen – regelforenkling og mindre byrde på europæisk erhvervsliv – som har været den danske erhvervsorganisationsverdens og BusinessEurope-sporets centrale kampagne. At store medlemslande kræver en strukturel bremse, flytter debatten til EU's lovgivningsmaskine.",
+      "analysis": "En nødbremse-mekanisme vil, hvis den bliver til noget, ændre magtbalancen mellem Kommissionen og medlemslandene varigt. Værd at følge, om den bliver institutionel eller forbliver politisk pres.",
+      "topics": [
+        "eu",
+        "handelspolitik",
+        "regulering"
+      ],
+      "entities": [
+        "Friedrich Merz",
+        "Giorgia Meloni",
+        "Bart De Wever",
+        "EU-Kommissionen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 70,
+        "decisionValue": 70,
+        "novelty": 60,
+        "sourceQuality": 85,
+        "personalRelevance": 70,
+        "contrast": 50
+      },
+      "claims": [
+        {
+          "text": "EU's arbejdsprogram for 2027 har 23 nye initiativer mod 45 i 2025 og 38 i 2026, og fem forslag er trukket tilbage",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/eu/i-2027-skal-europas-politikere-goere-mindre-saa-de-faar-travlt"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Merz, Meloni og De Wever kræver en institutionel nødbremse-mekanisme mod ny EU-lovgivning",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/eu/i-2027-skal-europas-politikere-goere-mindre-saa-de-faar-travlt"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "I 2027 skal Europas politikere gøre mindre – så de får travlt",
+          "publisher": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/udland/eu/i-2027-skal-europas-politikere-goere-mindre-saa-de-faar-travlt",
+          "publishedAt": "2026-11-07T10:50:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/u3xb13oi/20261028-190431-l-0x0ma.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Italiens premierminister Giorgia Meloni taler ved et EU-arrangement",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/eu/i-2027-skal-europas-politikere-goere-mindre-saa-de-faar-travlt"
+      }
+    },
+    {
+      "id": "story-elnet-eu-risiko-20261108",
+      "eventKey": "elnet-koeplan-eu-retlig-risiko",
+      "materialFacts": [
+        "Regeringen indførte 12. oktober en ny prioriteringsmodel for nettilslutning, der erstatter 'først-til-mølle'-princippet",
+        "El-jurist Jan Rasmussen og andre eksperter i el-lovgivning mener, modellen strider mod EU-retten og udfordrer retssikkerheden"
+      ],
+      "section": "Energi & regulering",
+      "headline": "»Det er helt vildt, det der er foregået«: Eksperter frygter lovbrud i regeringens store akutplan for elnettet",
+      "primarySourceUrl": "https://ing.dk/artikel/det-er-helt-vildt-det-der-er-foregaaet-eksperter-frygter-lovbrud-i-regeringens-store-akutplan",
+      "subheadline": "Regeringen har droppet først-til-mølle-princippet for nettilslutning til fordel for en ny prioriteringsmodel. Eksperter advarer om, at den kan bryde med EU-retten.",
+      "body": [
+        "Regeringen indførte 12. oktober en ny prioriteringsmodel for nettilslutning, der erstatter 'først-til-mølle'-princippet, skriver Ingeniøren. Jan Rasmussen, der har arbejdet med el-lovgivning i 15 år og rådgiver virksomheder om nettilslutning, kalder forløbet 'helt vildt'.",
+        "Han og andre eksperter vurderer, at en central del af akutplanen for det pressede elnet strider mod EU-retten og udfordrer retssikkerheden for virksomheder, der venter i køen."
+      ],
+      "whyItMatters": "For virksomheder, der venter på nettilslutning, er dette ikke en teknisk detalje, men et spørgsmål om retssikkerhed: en model, der kan underkendes ved domstolene, skaber usikkerhed om investeringer planlagt efter gamle regler.",
+      "analysis": "Sagen er adskilt fra dagens havvind-historie – her handler det om adgangen til nettet, ikke sikkerhed. Tilsammen tegner de et billede af infrastruktur, der halter efter ambitionerne på to måder.",
+      "topics": [
+        "energi",
+        "elnet",
+        "eu",
+        "regulering"
+      ],
+      "entities": [
+        "Jan Rasmussen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 65,
+        "decisionValue": 65,
+        "novelty": 55,
+        "sourceQuality": 85,
+        "personalRelevance": 80,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "Regeringen indførte 12. oktober en ny prioriteringsmodel for nettilslutning, der erstatter 'først-til-mølle'-princippet",
+          "sourceUrls": [
+            "https://ing.dk/artikel/det-er-helt-vildt-det-der-er-foregaaet-eksperter-frygter-lovbrud-i-regeringens-store-akutplan"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Jan Rasmussen, der har arbejdet med el-lovgivning i 15 år, og andre eksperter mener en central del af akutplanen strider mod EU-retten",
+          "sourceUrls": [
+            "https://ing.dk/artikel/det-er-helt-vildt-det-der-er-foregaaet-eksperter-frygter-lovbrud-i-regeringens-store-akutplan"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "»Det er helt vildt, det der er foregået«: Eksperter frygter lovbrud i regeringens store akutplan for elnettet",
+          "publisher": "Ingeniøren",
+          "url": "https://ing.dk/artikel/det-er-helt-vildt-det-der-er-foregaaet-eksperter-frygter-lovbrud-i-regeringens-store-akutplan",
+          "publishedAt": "2026-11-03T09:18:41Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://ing.dk/sites/mi/files/styles/open_graph_image_16_9/public/2026-08/f8881927-c3be-4727-a33a-64e953660984.jpg?h=9581739c&itok=IqEJw58U",
+        "credit": "Kilde: Ingeniøren",
+        "alt": "En kilde fremviser et lovforslag om nettilslutning af vedvarende energi, med elmaster i baggrunden",
+        "sourceUrl": "https://ing.dk/artikel/det-er-helt-vildt-det-der-er-foregaaet-eksperter-frygter-lovbrud-i-regeringens-store-akutplan"
+      }
+    },
+    {
+      "id": "story-di-us-governors-20261108",
+      "eventKey": "di-usa-delstater-ny-guvernoer",
+      "materialFacts": [
+        "121 af Danmarks 945 amerikanske datterselskaber opererer nu i delstater med nye demokratiske guvernører",
+        "Dansk direkte investering i USA var knap 423 mia. kr. i 2025",
+        "DI peger på både mulighed (grøn teknologi) og risiko (regulatorisk fragmentering mellem delstater)"
+      ],
+      "section": "Eksport & USA",
+      "headline": "121 danske selskaber får nye demokratiske guvernører",
+      "primarySourceUrl": "https://www.danskindustri.dk/di-business/arkiv/nyheder/2026/11/121-danske-selskaber-far-nye-demokratiske-guvernorer/",
+      "subheadline": "Fem amerikanske delstater har efter midtvejsvalget skiftet fra republikansk til demokratisk guvernør. DI peger på nye døre for grøn teknologi, men også på mere forskelligartet regulering.",
+      "body": [
+        "Fem amerikanske delstater har efter midtvejsvalget sat republikanske guvernører på porten til fordel for demokratiske, skriver Dansk Industri. 121 af Danmarks 945 amerikanske datterselskaber skal nu forholde sig til ny delstatspolitik. Dansk direkte investering i USA var knap 423 mia. kr. i 2025.",
+        "'Den demokratiske fremgang kan åbne døre for grønne danske virksomheder med teknologi, amerikanerne har brug for,' siger Lukas Lausen, DI's chef for Global Handel og Investeringer."
+      ],
+      "whyItMatters": "Amerikansk delstatspolitik er der, handelspolitikken reelt leves for eksportvirksomheder, mens magten i Washington ligger fast. En mere blandet guvernørkortlægning betyder flere regelsæt at navigere.",
+      "analysis": "DI's analyse er en anticiperende vurdering, ikke en beskrivelse af noget allerede ændret – guvernørerne sidder ikke i embedet endnu. Værdien ligger i tallene: hvor dansk erhvervsliv faktisk er eksponeret.",
+      "topics": [
+        "usa",
+        "handelspolitik",
+        "export"
+      ],
+      "entities": [
+        "Dansk Industri",
+        "Lukas Lausen",
+        "Texas",
+        "Georgia",
+        "Ohio",
+        "Nevada",
+        "Iowa"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 60,
+        "decisionValue": 60,
+        "novelty": 65,
+        "sourceQuality": 78,
+        "personalRelevance": 85,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "121 af Danmarks 945 amerikanske datterselskaber befinder sig i fem delstater, der har fået ny demokratisk guvernør",
+          "sourceUrls": [
+            "https://www.danskindustri.dk/di-business/arkiv/nyheder/2026/11/121-danske-selskaber-far-nye-demokratiske-guvernorer/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Dansk direkte investering i USA var knap 423 mia. kr. i 2025 ifølge Danmarks Statistik",
+          "sourceUrls": [
+            "https://www.danskindustri.dk/di-business/arkiv/nyheder/2026/11/121-danske-selskaber-far-nye-demokratiske-guvernorer/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "121 danske selskaber får nye demokratiske guvernører",
+          "publisher": "Dansk Industri",
+          "url": "https://www.danskindustri.dk/di-business/arkiv/nyheder/2026/11/121-danske-selskaber-far-nye-demokratiske-guvernorer/",
+          "publishedAt": "2026-11-04T00:00:00Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://www.danskindustri.dk/globalassets/di-business/arbejdsmarked/danske-datterselskaber-i-usa-16x9-illustration-katrine-davidsen.png",
+        "credit": "Illustration: Katrine Davidsen / Dansk Industri",
+        "alt": "Kort over amerikanske delstater med ny demokratisk guvernør efter midtvejsvalget og antal danske datterselskaber i udvalgte stater",
+        "sourceUrl": "https://www.danskindustri.dk/di-business/arkiv/nyheder/2026/11/121-danske-selskaber-far-nye-demokratiske-guvernorer/"
+      }
+    },
+    {
+      "id": "story-dfds-refsgaard-20261108",
+      "eventKey": "dfds-refsgaard-exit",
+      "materialFacts": [
+        "DFDS' kommercielle chef Anders Refsgaard forlader posten efter cirka 30 år i koncernen",
+        "Opsigelse meddelt 4. november; sidste arbejdsdag 31. marts 2027",
+        "Intern efterfølger overtager fra april 2027"
+      ],
+      "section": "Ledelse & erhverv",
+      "headline": "DFDS-chef forlader skuden i slow motion",
+      "primarySourceUrl": "https://www.altinget.dk/eu/navnenyt/dfds-chef-forlader-skuden-i-slow-motion",
+      "subheadline": "Anders Refsgaard, DFDS' kommercielle chef siden 1990 (med en afstikker til Scandlines), stopper efter knap 30 år i rederiet. Sidste arbejdsdag er 31. marts 2027.",
+      "body": [
+        "DFDS' kommercielle chef Anders Refsgaard forlader posten efter cirka 30 år i koncernen, skriver Altinget. Han har været i DFDS siden 1990, med en syvårig afstikker til Scandlines undervejs. Opsigelsen er meddelt 4. november, men overgangen er lang: sidste arbejdsdag er først 31. marts 2027.",
+        "'Det har ikke været en nem beslutning at forlade DFDS, som har været meget mere end bare en arbejdsplads for mig,' siger Refsgaard. En intern efterfølger overtager fra april 2027, men er endnu ikke navngivet offentligt."
+      ],
+      "whyItMatters": "En afgang på dette niveau i et af Danmarks største shippingselskaber er værd at kende til tidligt – et signal om, hvilke profiler der bliver ledige, og hvordan et stort rederi tænker sin overgang.",
+      "analysis": "Den lange overgangsperiode – næsten fem måneder til exit, og endnu længere til en efterfølger – er usædvanlig og tyder på rolig overlevering frem for hurtig udskiftning.",
+      "topics": [
+        "ledelse",
+        "shipping"
+      ],
+      "entities": [
+        "DFDS",
+        "Anders Refsgaard"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 65,
+        "novelty": 50,
+        "sourceQuality": 75,
+        "personalRelevance": 85,
+        "contrast": 30
+      },
+      "claims": [
+        {
+          "text": "Anders Refsgaard forlader posten som kommerciel chef i DFDS efter ca. 30 år i koncernen; sidste arbejdsdag 31. marts 2027",
+          "sourceUrls": [
+            "https://www.altinget.dk/eu/navnenyt/dfds-chef-forlader-skuden-i-slow-motion"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "DFDS-chef forlader skuden i slow motion",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/eu/navnenyt/dfds-chef-forlader-skuden-i-slow-motion",
+          "publishedAt": "2026-11-04T12:40:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-ishockey-vm-japan-20261108",
+      "eventKey": "dk-ishockey-kvinder-vm-japan",
+      "materialFacts": [
+        "Danmark vendte en 0-2-føring og vandt på straffeslag over Japan ved VM på hjemmebane",
+        "17-årige Teresa Christensen udlignede tre minutter før tid; Frederikke Foss scorede det afgørende straffeslag"
+      ],
+      "section": "Sport",
+      "headline": "\"Surrealistisk\" – Danmark overrasker ved VM",
+      "primarySourceUrl": "https://sport.tv2.dk/ishockey/2026-11-07-surrealistisk-danmark-overrasker-ved-vm",
+      "subheadline": "Det danske kvindelandshold i ishockey vendte en 0-2-føring og slog Japan på straffeslag ved VM på hjemmebane, med den 17-årige Teresa Christensen som sen helt.",
+      "body": [
+        "Det danske kvindelandshold i ishockey vandt lørdag aften over Japan på straffeslag ved VM på hjemmebane, efter kampen i ordinær tid endte 2-2, skriver TV 2. Danmark var bagud 0-2, før 17-årige Teresa Christensen udlignede tre minutter før tid.",
+        "Frederikke Foss scorede det afgørende straffeslag. Truppen har en gennemsnitsalder på 23 år og tæller syv teenagere – sejren holder liv i Danmarks kvartfinalechancer foran hjemmepublikum."
+      ],
+      "whyItMatters": "Et ungt dansk landshold, der vinder en comeback-sejr på hjemmebane ved et VM, er præcis den slags landsholdspræstation på højt internationalt niveau, der hører hjemme i sportsdelen uanset forhåndskendskab til ishockey som disciplin.",
+      "analysis": "At sejren kommer fra en trup domineret af unge spillere og teenagere, gør den mere end en enkeltstående resultat – det er et tegn på, at dansk kvindeishockey har en bredde at bygge videre på frem mod slutspillet.",
+      "topics": [
+        "sport",
+        "ishockey",
+        "landshold"
+      ],
+      "entities": [
+        "Frederikke Foss",
+        "Teresa Christensen",
+        "Danmarks kvindelandshold i ishockey",
+        "Japan"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 45,
+        "decisionValue": 25,
+        "novelty": 75,
+        "sourceQuality": 80,
+        "personalRelevance": 55,
+        "contrast": 25
+      },
+      "claims": [
+        {
+          "text": "Danmark vendte en 0-2-føring og vandt 3-2 på straffeslag over Japan (2-2 i ordinær tid) ved VM på hjemmebane",
+          "sourceUrls": [
+            "https://sport.tv2.dk/ishockey/2026-11-07-surrealistisk-danmark-overrasker-ved-vm"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "\"Surrealistisk\" – Danmark overrasker ved VM",
+          "publisher": "TV 2 Sport",
+          "url": "https://sport.tv2.dk/ishockey/2026-11-07-surrealistisk-danmark-overrasker-ved-vm",
+          "publishedAt": "2026-11-07T20:51:01Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/0/e/7/0e73b2ab-4fa8-4d96-ad4a-f133eed1d0fe?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCwzMTksNDY0MCwyNjE2&s=7b81d87e0ac5deb0e023075a5f2c578f",
+        "credit": "Kilde: TV 2",
+        "alt": "Det danske kvindelandshold i ishockey jubler efter sejren over Japan ved VM",
+        "sourceUrl": "https://sport.tv2.dk/ishockey/2026-11-07-surrealistisk-danmark-overrasker-ved-vm"
+      }
+    },
+    {
+      "id": "story-israel-eisenkot-20261108",
+      "eventKey": "israel-eisenkot-regeringsdannelse",
+      "materialFacts": [
+        "67 lovgivere, inkl. arabisk-ledede partier, bakkede Gadi Eisenkot mod 46 for Netanyahu",
+        "Eisenkot får 28 dage (plus mulige 14) til at danne en regering med 61 mandater"
+      ],
+      "section": "Verden",
+      "headline": "Israel's president picks Eisenkot over Netanyahu to form next government",
+      "primarySourceUrl": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government",
+      "subheadline": "Israels præsident Isaac Herzog har sprunget den siddende premierminister over og givet regeringsdannelsen til rivalen Gadi Eisenkot, efter konsultationer hvor et flertal af Knessets medlemmer anbefalede ham.",
+      "body": [
+        "Israels præsident Isaac Herzog har givet mandatet til at danne landets næste regering til Gadi Eisenkot, leder af partiet Yashar, frem for siddende premierminister Benjamin Netanyahu, skriver Al Jazeera. I konsultationer med partierne anbefalede 67 lovgivere Eisenkot, mod 46 for Netanyahu.",
+        "Eisenkot får 28 dage, med mulighed for 14 dages forlængelse, til at samle 61 mandater. Han har selv udelukket et flertal med de arabisk-ledede partier og sigter i stedet mod de to ultraortodokse partier."
+      ],
+      "whyItMatters": "At en siddende premierminister bliver sprunget over af sit statsoverhoved til fordel for en tidligere forsvarschef, er en mere direkte form for politisk risiko end usikkerheden, resten af udgaven handler om.",
+      "analysis": "Udfaldet er åbent: vejen via de ultraortodokse partier kan vise sig lige så skrøbelig som regeringen, den afløser. At præsidenten aktivt vælger en udfordrer, er usædvanligt.",
+      "topics": [
+        "geopolitik",
+        "israel",
+        "demokrati"
+      ],
+      "entities": [
+        "Gadi Eisenkot",
+        "Benjamin Netanyahu",
+        "Isaac Herzog"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 70,
+        "decisionValue": 30,
+        "novelty": 70,
+        "sourceQuality": 75,
+        "personalRelevance": 15,
+        "contrast": 70
+      },
+      "claims": [
+        {
+          "text": "67 lovgivere bakkede Eisenkot mod 46 for Netanyahu; Eisenkot får 28 (+14) dage til at danne en regering med 61 mandater",
+          "sourceUrls": [
+            "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Israel's president picks Eisenkot over Netanyahu to form next government",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government",
+          "publishedAt": "2026-11-07T20:26:58Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-27T234936Z_337143780_RC2ZBOAVPW2L_RTRMADP_3_ISRAEL-ELECTION-1794082454.jpg?resize=1920%2C1440",
+        "credit": "Foto: Reuters via Al Jazeera",
+        "alt": "Gadi Eisenkot vinker til tilhængere",
+        "sourceUrl": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government"
+      }
+    }
+  ],
+  "signals": [
+    {
+      "headline": "Kortere momsfrister kan ramme mindre virksomheder",
+      "text": "Kortere momsfrister kan ramme mindre virksomheder",
+      "url": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/november/kortere-momsfrister-kan-ramme-mindre-virksomheder",
+      "publisher": "Dansk Erhverv",
+      "section": "Erhverv",
+      "publishedAt": "2026-11-06T09:26:27Z",
+      "summary": "Regeringens finanslovspakke lægger op til en ensartet 20-dages momsfrist uanset virksomhedsstørrelse, hvilket Dansk Erhverv mener rammer webshops og transportvirksomheders likviditet hårdest."
+    },
+    {
+      "headline": "Dansk Industri mistænker storm af aktindsigter for at være drengestreger eller chikane",
+      "text": "Dansk Industri mistænker storm af aktindsigter for at være drengestreger eller chikane",
+      "url": "https://www.dr.dk/nyheder/indland/dansk-industri-mistaenker-storm-af-aktindsigter-vaere-drengestreger-eller-chikane",
+      "publisher": "DR Nyheder",
+      "section": "Indland",
+      "publishedAt": "2026-11-07T12:28:36Z",
+      "summary": "Danske gymnasier, erhvervsskoler, vand- og fjernvarmeselskaber har modtaget usædvanligt mange ensartede, tilsyneladende AI-skrevne aktindsigtsanmodninger. Justitsministeriet bekræfter at kende til mønsteret."
+    },
+    {
+      "headline": "Iværksættere med genbrugsguld viser vej til Indonesiens blå øhav",
+      "text": "Iværksættere med genbrugsguld viser vej til Indonesiens blå øhav",
+      "url": "https://www.danskindustri.dk/di-business/arkiv/nyheder/2026/11/ivarksattere-med-genbrugsguld-viser-vej-til-indonesiens-bla-ohav/",
+      "publisher": "Dansk Industri",
+      "section": "Erhverv",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "summary": "EU og Indonesien ventes at underskrive handelsaftalen CEPA 21. november, med ikrafttræden senere på året. Den reducerer eller fjerner told på over 98 pct. af toldpositionerne. Dansk eksport til Indonesien var 4,45 mia. plus 2,6 mia. kr. i 2025."
+    },
+    {
+      "headline": "Batterier førte til 127 brande sidste år – opladning er en stor synder",
+      "text": "Batterier førte til 127 brande sidste år – opladning er en stor synder",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-07-batterier-foerte-til-127-brande-sidste-aar-opladning-er-en-stor-synder",
+      "publisher": "TV 2 Nyheder",
+      "section": "Samfund",
+      "publishedAt": "2026-11-07T13:15:08Z",
+      "summary": "Nye tal fra Beredskabsstyrelsen viser 127 brande sidste år forårsaget af små lithiumbatteri-produkter. Næsten hver fjerde opstod under opladning."
+    },
+    {
+      "headline": "Nyt system skal overvåge droner ved Storebæltsbroen",
+      "text": "Nyt system skal overvåge droner ved Storebæltsbroen",
+      "url": "https://www.dr.dk/nyheder/seneste/nyt-system-skal-overvaage-droner-ved-storebaeltsbroen",
+      "publisher": "DR Nyheder",
+      "section": "Indland",
+      "publishedAt": "2026-11-06T09:55:18Z",
+      "summary": "Nye radarmaster opføres på og omkring Storebæltsbroen i løbet af efteråret og er i drift ved årsskiftet, bygget med Rigspolitiet og Forsvaret til dronedetektion."
+    },
+    {
+      "headline": "Dansker sætter verdensrekord i ironman",
+      "text": "Dansker sætter verdensrekord i ironman",
+      "url": "https://www.dr.dk/sporten/dansker-saetter-verdensrekord-i-ironman",
+      "publisher": "DR Sporten",
+      "section": "Sport",
+      "publishedAt": "2026-11-07T19:54:20Z",
+      "summary": "Magnus Ditlev gennemførte IRONMAN Florida i 7:19:17 – hurtigste tid nogensinde i disciplinen, med ny cykeletaperekord. Tredje karriere-verdensrekord, kvalificerer til VM i Hawaii 2027."
+    },
+    {
+      "headline": "Bestseller-ejer køber Aarhus Lufthavn",
+      "text": "Bestseller-ejer køber Aarhus Lufthavn",
+      "url": "https://nyheder.tv2.dk/business/2026-11-05-bestseller-ejer-koeber-aarhus-lufthavn",
+      "publisher": "TV 2 Nyheder",
+      "section": "Business",
+      "publishedAt": "2026-11-05T08:40:29Z",
+      "summary": "Heartland køber terminal, hotel og parkeringsareal i en sale-and-leaseback. Aarhus Kommunes lån til lufthavnen konverteres samtidig til egenkapital."
+    },
+    {
+      "headline": "Hundreds of thousands protest across France over high cost of living",
+      "text": "Hundreds of thousands protest across France over high cost of living",
+      "url": "https://www.aljazeera.com/news/2026/11/5/workers-strike-across-france-hundreds-of-thousands-expected-to-protest",
+      "publisher": "Al Jazeera",
+      "section": "Verden",
+      "publishedAt": "2026-11-05T12:21:13Z",
+      "summary": "575.000 deltog ifølge myndighederne i protester mod en stram finanslov; fagforeningen CGT hævder 1,6 mio. Fem måneder før valg, hvor Le Pen fører i meningsmålinger."
+    },
+    {
+      "headline": "OL-dansker dropper curling på grund af manglende støtte",
+      "text": "OL-dansker dropper curling på grund af manglende støtte",
+      "url": "https://www.dr.dk/sporten/vintersport/ol-dansker-dropper-curling-paa-grund-af-manglende-stoette",
+      "publisher": "DR Sporten",
+      "section": "Vintersport",
+      "publishedAt": "2026-11-07T16:37:39Z",
+      "summary": "Tidligere OL-curler Mathilde Halse stopper på eliteplan, efter Dansk Curling Forbund er stoppet med at søge Team Danmark-støtte til kvindelandsholdet forud for OL 2030."
+    },
+    {
+      "headline": "Dansker skyder sig til VM-sølv i Doha",
+      "text": "Dansker skyder sig til VM-sølv i Doha",
+      "url": "https://www.dr.dk/sporten/seneste-sport/dansker-skyder-sig-til-vm-soelv-i-doha",
+      "publisher": "DR Sporten",
+      "section": "Sport",
+      "publishedAt": "2026-11-07T10:23:00Z",
+      "summary": "Stephanie Grundsøe vandt sølv i 50m liggende riffel ved VM i Doha, og tabte guldet til Norges Lund kun på sjette og sidste skud. Danmarks tredje medalje ved mesterskaberne."
+    },
+    {
+      "headline": "Hans mor mistede smykker for 250.000 kroner på plejehjem",
+      "text": "Hans mor mistede smykker for 250.000 kroner på plejehjem",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-07-hans-mor-mistede-smykker-for-250000-kroner-paa-plejehjem",
+      "publisher": "TV 2 Nyheder",
+      "section": "Samfund",
+      "publishedAt": "2026-11-07T11:10:17Z",
+      "summary": "En ældre plejehjemsbeboer i Dragør mistede flere værdifulde smykker over godt et år. To politianmeldelser om tyveri blev lukket uden resultat."
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-varo-louisiana-20261108",
+      "mode": "experience",
+      "kind": "Kunstudstilling",
+      "status": "available",
+      "title": "Remedios Varo",
+      "creator": "Remedios Varo",
+      "provider": "Louisiana Museum of Modern Art",
+      "url": "https://louisiana.dk/en/exhibition/remedios-varo/",
+      "availability": "Humlebæk, Danmark. 18. september 2026 – 10. januar 2027.",
+      "commitment": "1,5-2 timer",
+      "description": "Første store europæiske retrospektiv (70+ værker) af den spansk-mexicanske surrealist, der blander drømmebilleder, videnskab og mystik.",
+      "rationale": "En sjælden begivenhed frem for en tilbagevendende: et første-i-Europa-retrospektiv kommer ikke igen med det samme. Varos malerier er underligt mekaniske og præcise på en måde, der belønner et roligt kig snarere end et hurtigt.",
+      "topics": [
+        "kunst",
+        "kultur"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://louisiana.dk/wp-content/uploads/2026/05/untitled-1-of-2-huge_jpg-1.jpg",
+        "credit": "Foto: Louisiana Museum of Modern Art",
+        "alt": "Maleri af Remedios Varo, der viser en rejsende skikkelse i en fantasifuld båd",
+        "sourceUrl": "https://louisiana.dk/en/exhibition/remedios-varo/"
+      }
+    },
+    {
+      "id": "rec-botvinick-cosmos-20261108",
+      "mode": "read",
+      "kind": "Interview/essay",
+      "status": "new",
+      "title": "What Will You Build For: Matthew Botvinick",
+      "creator": "Matthew Botvinick",
+      "provider": "Cosmos Institute",
+      "url": "https://blog.cosmos-institute.org/p/what-will-you-build-for-matthew-botvinick",
+      "availability": "Frit tilgængeligt på nettet.",
+      "commitment": "15 minutter",
+      "description": "Interview med Matthew Botvinick (senior fellow ved Yale Law, leder aktuelt Anthropics arbejde med AI og retsstaten, tidligere Google DeepMind) om AI's risici for demokratiske institutioner, magtkoncentration og hvad 'Athen i stor skala' kunne betyde.",
+      "rationale": "Direkte på hans interesse for AI-styring og magtens grænser, fra en primær, navngiven kilde snarere end et resumé. Cosmos Institute skriver fra en erklæret klassisk-liberal position – læs det som argument, ikke neutral rapportering.",
+      "topics": [
+        "ai",
+        "demokrati",
+        "governance"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-casado-colossus-20261108",
+      "mode": "listen",
+      "kind": "Podcast",
+      "status": "new",
+      "title": "The Productive Investor",
+      "creator": "Martin Casado, Patrick O'Shaughnessy",
+      "provider": "Invest Like the Best / Colossus",
+      "url": "https://colossus.com/episode/the-productive-investor/",
+      "availability": "Gratis, standard podcast-apps.",
+      "description": "Martin Casado (a16z) om, hvorfor traditionelle venture-nøgletal fejlvurderer frontier-AI-modellers økonomi, og hvad der reelt afgør konkurrenceevnen.",
+      "rationale": "Bygger bro mellem hans kapitalmarkeds-baggrund og AI-sporet – en skarp investorvinkel, ikke en hypefortælling.",
+      "topics": [
+        "ai",
+        "venture",
+        "investering"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-roykeane-overlap-20261108",
+      "mode": "listen",
+      "kind": "Podcast",
+      "status": "new",
+      "title": "Roy's Return to Management In Our Most Personal Episode Yet!",
+      "creator": "Gary Neville, Roy Keane, Ian Wright, Jill Scott",
+      "provider": "The Overlap / Stick to Football",
+      "url": "https://shows.acast.com/stick-to-football",
+      "availability": "Gratis, standard podcast-apps.",
+      "commitment": "74 minutter",
+      "description": "Personlig, reflekterende episode med Roy Keane om at vende tilbage til management, og Gary Neville om anførerrollen – ikke transferrygter.",
+      "rationale": "Seriens outlier: et personligt register fra to Manchester United-legender, valgt netop fordi det ikke forlænger nogen af dagens nyhedshistorier.",
+      "topics": [
+        "fodbold",
+        "manchester-united"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://open-images.acast.com/shows/65118b05e7b19e00113ac2c0/1791538975077-20da93fb-cfbc-4a6d-8149-b292937a41c8.jpeg?height=315",
+        "credit": "Kilde: The Overlap / Acast",
+        "alt": "Cover-artwork for podcasten Stick to Football",
+        "sourceUrl": "https://shows.acast.com/stick-to-football"
+      }
+    }
+  ],
+  "quality": {
+    "sourceCoverage": 82,
+    "freshness": 85,
+    "novelty": 80,
+    "perspectiveBalance": 80,
+    "render": 100
+  }
+}
