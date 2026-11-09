@@ -1,0 +1,757 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-20261109",
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T05:40:28Z",
+  "readingMinutes": 10,
+  "title": "Thomas' Nyheder",
+  "dek": "Mærsk-aktien dykker ti procent trods et af selskabets bedste kvartaler nogensinde, Ørsted idriftsætter to havvindmølleparker men nedjusterer investeringerne, og Magnus Ditlev sætter verdensrekord i ironman en måned efter et VM-sammenbrud.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-maersk-aktiefald-20261109",
+      "eventKey": "maersk-aktiefald-20261105",
+      "materialFacts": [
+        "Mærsk-aktien faldt omkring ti procent efter Q3-regnskabet 5. november 2026",
+        "Driftsoverskud på 22 milliarder kroner i tredje kvartal",
+        "CEO Vincent Clerc kritiserede analytikernes forventninger på pressemødet"
+      ],
+      "section": "erhverv",
+      "headline": "Mærsk-aktien faldt ti procent: Direktøren revser analytikere",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/penge/maersk-aktien-faldt-ti-procent-direktoeren-revser-analytikere",
+      "subheadline": "Et driftsoverskud på 22 milliarder kroner i tredje kvartal var ikke nok til at holde aktien oppe – Mærsks topchef Vincent Clerc afviser analytikernes skepsis.",
+      "body": [
+        "A.P. Møller - Mærsk præsenterede 5. november et driftsoverskud på 22 milliarder kroner for tredje kvartal 2026 – et af selskabets bedste resultater uden for coronaårene. Alligevel faldt aktien omkring ti procent, fordi analytikerne havde ventet endnu mere.",
+        "På pressemødet langede direktør Vincent Clerc ud efter kritikerne og afviste, at resultatet var skuffende. Markedets tvivl bunder ifølge analytikere i usikkerhed om, hvor længe de høje fragtrater – drevet af omlægninger i Rødehavet og havneoverbelastning – kan holde."
+      ],
+      "whyItMatters": "Mærsk er en konjunkturmåler for verdenshandlen, og en dansk virksomheds kurssving kan mærkes i BNP-statistikken. Markedets tvivl om fragtraterne er et signal om, hvor skrøbelig handelsopgangen er.",
+      "analysis": "Clercs skarpe svar er usædvanligt for en dansk topchef, men afspejler uenighed om, hvor varig fremgangen er. Normaliseres Rødehavs-omlægningerne, forsvinder en del af indtjeningen – det er risikoen, markedet priser ind.",
+      "counterpoint": "Jyske Banks aktieanalytiker Haider Anjum roser kvartalet, men peger på, at indtjeningen bæres af trængsel, høje spotrater og forstyrrelser frem for en strukturel ændring – spørgsmålet er ikke, hvor stærkt Mærsk tjener nu, men hvor længe medvinden varer.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/ewtbdckj/20250508-114200-l.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Foto: Mads Claus Rasmussen/Ritzau Scanpix",
+        "alt": "Mærsks topchef Vincent Clerc på pressemødet, hvor han præsenterede et driftsoverskud på 22 milliarder kroner for tredje kvartal.",
+        "sourceUrl": "https://www.dr.dk/nyheder/penge/maersk-aktien-faldt-ti-procent-direktoeren-revser-analytikere"
+      },
+      "topics": [
+        "erhverv",
+        "shipping",
+        "handel",
+        "markeder"
+      ],
+      "entities": [
+        "A.P. Møller - Mærsk",
+        "Vincent Clerc"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 80,
+        "decisionValue": 62,
+        "novelty": 70,
+        "sourceQuality": 90,
+        "personalRelevance": 70,
+        "contrast": 20
+      },
+      "claims": [
+        {
+          "text": "Mærsk-aktien faldt omkring ti procent, efter at selskabet offentliggjorde et driftsoverskud på 22 milliarder kroner for tredje kvartal 2026.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/maersk-aktien-faldt-ti-procent-direktoeren-revser-analytikere"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Administrerende direktør Vincent Clerc kritiserede analytikernes forventninger på pressemødet og kaldte resultatet stærkt.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/maersk-aktien-faldt-ti-procent-direktoeren-revser-analytikere"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Mærsk-aktien faldt ti procent: Direktøren revser analytikere",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/penge/maersk-aktien-faldt-ti-procent-direktoeren-revser-analytikere",
+          "publishedAt": "2026-11-05T13:10:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-orsted-q3-20261109",
+      "eventKey": "orsted-q3-2026",
+      "materialFacts": [
+        "9M-2026 EBITDA (ekskl. nye partnerskaber) steg 19 pct. til 20,2 mia. kr.",
+        "Borkum Riffgrund 3 (Tyskland) og Revolution Wind (USA) nåede kommerciel drift i kvartalet",
+        "Investeringsguidance for 2026 nedjusteret til 45-50 mia. kr., 5 mia. kr. lavere end tidligere"
+      ],
+      "section": "erhverv",
+      "headline": "Ørsted leverer stærk indtjening med 19 % vækst i EBITDA og idriftsætter havvindmølleparkerne Borkum Riffgrund 3 i Tyskland og Revolution Wind i USA",
+      "primarySourceUrl": "https://orsted.com/da/company-announcement-list/2026/11/orsted-delivers-strong-earnings-with-19--ebitda-gr-152708491",
+      "subheadline": "Ørsted fastholder sin indtjeningsguidance for 2026 efter et stærkt kvartal, men skruer ned for investeringsplanen med 5 milliarder kroner.",
+      "body": [
+        "Ørsted fastholder sin EBITDA-guidance for 2026 efter et stærkt kvartal, hvor driftsresultatet ekskl. nye partnerskaber voksede 19 procent til 20,2 milliarder kroner for årets første ni måneder, drevet af højere vindhastigheder og nye havvindmølleparker.",
+        "Borkum Riffgrund 3 i Tyskland og Revolution Wind i USA nåede begge kommerciel drift i kvartalet, og kapaciteten er nu 19,5 GW. Investeringsguidancen blev dog nedjusteret til 45-50 milliarder kroner – 5 milliarder lavere, pga. forskudte byggebetalinger."
+      ],
+      "whyItMatters": "Ørsted er omdrejningspunktet for dansk havvindindustri, og evnen til at levere til tiden er en temperaturmåler for den grønne omstilling som erhvervsgren – ikke kun som klimamål.",
+      "analysis": "At investeringerne nedjusteres uden at indtjeningsmålet rokkes, tyder på forsigtighed om timing efter års overskridelser i sektoren – disciplin snarere end svaghed, men et tegn på havvindøkonomiens følsomhed.",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Borkum_Riffgrund_1.jpg/1920px-Borkum_Riffgrund_1.jpg",
+        "credit": "Foto: Offonshore/Wikimedia Commons (CC BY-SA 4.0)",
+        "alt": "Arkivfoto af Ørsteds havvindmøllepark Borkum Riffgrund 1 ved øen Borkum i Tyskland – søsterparken Borkum Riffgrund 3, der nævnes i historien, ligger i samme område og nåede kommerciel drift i tredje kvartal 2026.",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Borkum_Riffgrund_1.jpg"
+      },
+      "topics": [
+        "energi",
+        "groen-omstilling",
+        "erhverv",
+        "industri"
+      ],
+      "entities": [
+        "Ørsted",
+        "Rasmus Errboe",
+        "Borkum Riffgrund 3",
+        "Revolution Wind"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 72,
+        "decisionValue": 55,
+        "novelty": 60,
+        "sourceQuality": 92,
+        "personalRelevance": 65,
+        "contrast": 25
+      },
+      "claims": [
+        {
+          "text": "Ørsteds driftsresultat ekskl. nye partnerskaber og annulleringsgebyrer voksede 19 procent til 20,2 mia. kr. i årets første ni måneder.",
+          "sourceUrls": [
+            "https://orsted.com/da/company-announcement-list/2026/11/orsted-delivers-strong-earnings-with-19--ebitda-gr-152708491"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Investeringsguidancen for 2026 blev nedjusteret til 45-50 mia. kr., 5 mia. kr. lavere end tidligere guidance.",
+          "sourceUrls": [
+            "https://orsted.com/da/company-announcement-list/2026/11/orsted-delivers-strong-earnings-with-19--ebitda-gr-152708491"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Ørsted leverer stærk indtjening med 19 % vækst i EBITDA og idriftsætter havvindmølleparkerne Borkum Riffgrund 3 i Tyskland og Revolution Wind i USA",
+          "publisher": "Ørsted",
+          "url": "https://orsted.com/da/company-announcement-list/2026/11/orsted-delivers-strong-earnings-with-19--ebitda-gr-152708491",
+          "publishedAt": "2026-11-05T07:00:05Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-dkerhverv-usamidt-20261109",
+      "eventKey": "dansk-erhverv-usa-midtvejsvalg-20261105",
+      "materialFacts": [
+        "Demokraterne vandt begge kamre i Kongressen ved midtvejsvalget",
+        "Dansk eksport af varer og tjenester til USA voksede ca. 14 mia. kr. fra 2024 til 2025",
+        "Omkring tre fjerdedele af dansk vareeksport til USA krydsede i 2024 ikke selv den danske grænse"
+      ],
+      "section": "eu-usa-handel",
+      "headline": "Dansk Erhvervs USA-chef: Her er, hvad dansk erhvervsliv bør tage med fra midtvejsvalget",
+      "primarySourceUrl": "https://www.altinget.dk/erhverv/artikel/dansk-erhvervs-usa-chef-her-er-hvad-dansk-erhvervsliv-boer-tage-med-fra-midtvejsvalget",
+      "subheadline": "Demokraternes sejr ved midtvejsvalget ændrer ikke ved, at danske virksomheder er dybt integreret i amerikansk produktion, skriver Dansk Erhvervs USA-chef Søren Friis Larsen i et Altinget-indlæg.",
+      "body": [
+        "Demokraterne generobrede begge kamre ved midtvejsvalget – en større sejr, end selv iagttagere på østkysten havde ventet. Men ifølge Søren Friis Larsen, USA-chef i Dansk Erhverv, ændrer det ikke afgørende ved vilkårene for dansk erhvervsliv i USA.",
+        "Han peger på, at dansk eksport til USA voksede godt 14 mia. kr. fra 2024 til 2025, og at tre fjerdedele af vareeksporten i 2024 ikke krydsede den danske grænse, fordi varerne blev forarbejdet i udlandet – i vid udstrækning i USA selv."
+      ],
+      "whyItMatters": "Bred enighed om nearshoring overlever regeringsskifter i Washington – det er denne bølge, ikke valget isoleret set, der afgør, hvor udsatte danske virksomheder er for toldpolitik.",
+      "analysis": "Pointen er, at danske virksomheder har tilpasset sig ved at investere direkte i amerikansk produktion, hvilket gør dem mindre sårbare over for told end en ren eksportmodel – hans egen analyse, men baseret på en veldokumenteret tendens.",
+      "image": {
+        "url": "https://legacy.altinget.dk/images/article/307446/162961.jpg",
+        "credit": "Foto: Mandel Ngan/AFP/Ritzau Scanpix",
+        "alt": "Donald Trump på besøg på en byggeplads i USA – Altingets illustration til Søren Friis Larsens analyse af dansk erhvervslivs eksponering mod det amerikanske marked.",
+        "sourceUrl": "https://www.altinget.dk/erhverv/artikel/dansk-erhvervs-usa-chef-her-er-hvad-dansk-erhvervsliv-boer-tage-med-fra-midtvejsvalget"
+      },
+      "topics": [
+        "eu-usa-handel",
+        "erhverv",
+        "eksport"
+      ],
+      "entities": [
+        "Dansk Erhverv",
+        "Søren Friis Larsen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 65,
+        "decisionValue": 82,
+        "novelty": 55,
+        "sourceQuality": 72,
+        "personalRelevance": 93,
+        "contrast": 10
+      },
+      "claims": [
+        {
+          "text": "Dansk eksport af varer og tjenester til USA voksede med godt 14 milliarder kroner fra 2024 til 2025.",
+          "sourceUrls": [
+            "https://www.altinget.dk/erhverv/artikel/dansk-erhvervs-usa-chef-her-er-hvad-dansk-erhvervsliv-boer-tage-med-fra-midtvejsvalget"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Omkring tre fjerdedele af den danske vareeksport til USA krydsede i 2024 ikke selv den danske grænse.",
+          "sourceUrls": [
+            "https://www.altinget.dk/erhverv/artikel/dansk-erhvervs-usa-chef-her-er-hvad-dansk-erhvervsliv-boer-tage-med-fra-midtvejsvalget"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Dansk Erhvervs USA-chef: Her er, hvad dansk erhvervsliv bør tage med fra midtvejsvalget",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/erhverv/artikel/dansk-erhvervs-usa-chef-her-er-hvad-dansk-erhvervsliv-boer-tage-med-fra-midtvejsvalget",
+          "publishedAt": "2026-11-05T13:00:00Z",
+          "kind": "analysis"
+        }
+      ]
+    },
+    {
+      "id": "story-dst-eu-overskud-20261109",
+      "eventKey": "dst-eu-overskud-2025",
+      "materialFacts": [
+        "Danmarks offentlige overskud i 2025 var 90,2 mia. kr., 2,9 pct. af BNP",
+        "Kun Cypern havde et større overskud i EU (3,6 pct. af BNP)",
+        "EU-27-gennemsnittet var et underskud på 3,1 pct. af BNP"
+      ],
+      "section": "makrooekonomi",
+      "headline": "Danmark havde EU's næststørste overskud i 2025",
+      "primarySourceUrl": "https://www.dst.dk/nyt/54370",
+      "subheadline": "Kun Cypern havde et større offentligt overskud end Danmark i EU sidste år, viser nye tal fra Danmarks Statistik.",
+      "body": [
+        "Danmarks offentlige overskud (ØMU-saldo) var på 90,2 milliarder kroner i 2025, svarende til 2,9 procent af BNP – det næststørste i EU, kun overgået af Cypern med 3,6 procent, viser en opgørelse fra Danmarks Statistik.",
+        "Til sammenligning havde EU-27 i gennemsnit et underskud på 3,1 procent af BNP i 2025, og kun fem af de 27 medlemslande endte året med overskud."
+      ],
+      "whyItMatters": "Et solidt offentligt overskud giver staten råderum til at håndtere stød som energikriser eller konjunkturnedgang – et argument, Danmark kan bruge i Bruxelles, når EU-Kommissionen skærper budgetdisciplinen i andre medlemslande.",
+      "analysis": "Danmarks position skiller sig markant ud fra de fleste EU-lande, der kæmper med underskud over 3-procents-kriteriet. Det afspejler en stram finanspolitisk tradition, og at Danmark – modsat mange eurolande – har haft overskud i størstedelen af perioden siden 2015.",
+      "image": {
+        "url": "https://www.dst.dk/site/dst/udgivelser/nyt/getimage.aspx?cid=54370",
+        "credit": "Kilde: Danmarks Statistik",
+        "alt": "Danmarks Statistiks diagram over det offentlige underskud/overskud (ØMU-saldoen) for EU-landene i 2025, med Danmark markeret i grønt som nummer to efter Cypern.",
+        "sourceUrl": "https://www.dst.dk/nyt/54370"
+      },
+      "topics": [
+        "makrooekonomi",
+        "offentlige-finanser"
+      ],
+      "entities": [
+        "Danmarks Statistik",
+        "EU"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 58,
+        "decisionValue": 60,
+        "novelty": 45,
+        "sourceQuality": 96,
+        "personalRelevance": 75,
+        "contrast": 15
+      },
+      "claims": [
+        {
+          "text": "Danmarks offentlige overskud i 2025 var 90,2 mia. kr., svarende til 2,9 pct. af BNP – EU's næststørste efter Cypern.",
+          "sourceUrls": [
+            "https://www.dst.dk/nyt/54370"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Danmark havde EU's næststørste overskud i 2025",
+          "publisher": "Danmarks Statistik",
+          "url": "https://www.dst.dk/nyt/54370",
+          "publishedAt": "2026-11-05T06:00:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-fck-broendby-derby-20261109",
+      "eventKey": "fck-broendby-derby-20261108",
+      "materialFacts": [
+        "FCK vandt 1-0 over Brøndby i Parken 8. november",
+        "William Clem scorede i det 54. minut",
+        "Første derby i to år med fans fra begge hold samtidig i Parken, efter sikkerhedsoptrapning"
+      ],
+      "section": "danmark",
+      "headline": "Derbysejr på kanon-kasse af Clem",
+      "primarySourceUrl": "https://www.fck.dk/nyhed/derbysejr-paa-kanon-kasse-af-clem",
+      "subheadline": "FC København vandt 1-0 over Brøndby i det første Parken-derby i to år med fans fra begge hold samtidig på lægterne, efter at politiet havde skærpet sikkerheden omkring kampen.",
+      "body": [
+        "FC København vandt søndag det første derby mod Brøndby i to år med tilhængere fra begge klubber i Parken samtidig. William Clem afgjorde med et langskud i det 54. minut – et »drømmemål«, som også gav ham fansenes stemmer som kampens spiller.",
+        "Opgøret var omgærdet af ekstra sikkerhed. Ved mødet i september fik tilhængere fra begge lejre bøde- og betinget tribunestraf for pyroteknik, hærværk og et krænkende banner, og politiet havde denne gang opsat en visitationszone."
+      ],
+      "whyItMatters": "Dansk fodbolds mest ladede rivalitet har krævet, at myndighederne adskilte fangrupperne fysisk. At begge denne gang var i Parken samtidig, er et pejlemærke for, hvor den linje bevæger sig hen.",
+      "analysis": "Sejren styrker FCK's placering i Superligaen, men historien ligger uden for banen: at lukke begge fangrupper ind samtidig var en kalkuleret risiko efter sidste sæsons uroligheder, og udfaldet vil forme fremtidige derbyer.",
+      "image": {
+        "url": "https://www.fck.dk/sites/default/files/styles/hero_image/public/images/2026-11/261108_fck-bif-07.jpg?itok=-2_qfeQ9",
+        "credit": "Kilde: F.C. København",
+        "alt": "Derbysejr på kanon-kasse af Clem",
+        "sourceUrl": "https://www.fck.dk/nyhed/derbysejr-paa-kanon-kasse-af-clem"
+      },
+      "topics": [
+        "danmark",
+        "sikkerhed",
+        "fodbold"
+      ],
+      "entities": [
+        "FC København",
+        "Brøndby IF",
+        "William Clem",
+        "Københavns Politi"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 50,
+        "decisionValue": 15,
+        "novelty": 55,
+        "sourceQuality": 85,
+        "personalRelevance": 15,
+        "contrast": 90
+      },
+      "claims": [
+        {
+          "text": "FC København vandt 1-0 over Brøndby, afgjort af William Clems scoring i det 54. minut.",
+          "sourceUrls": [
+            "https://www.fck.dk/nyhed/derbysejr-paa-kanon-kasse-af-clem"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Ved parternes møde i september fik tilhængere fra begge lejre bøde- og betinget tribunestraf for pyroteknik, hærværk og et krænkende banner, og politiet opsatte en visitationszone forud for november-opgøret.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/politiet-klar-til-foerste-derby-i-aar-med-fans-fra-begge-hold-i-parken"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Derbysejr på kanon-kasse af Clem",
+          "publisher": "F.C. København",
+          "url": "https://www.fck.dk/nyhed/derbysejr-paa-kanon-kasse-af-clem",
+          "publishedAt": "2026-11-08T13:00:00Z",
+          "kind": "primary"
+        },
+        {
+          "title": "Politiet klar til første Derby i to år med fans fra begge hold i Parken",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/politiet-klar-til-foerste-derby-i-aar-med-fans-fra-begge-hold-i-parken",
+          "publishedAt": "2026-11-08T08:16:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-ditlev-ironman-20261109",
+      "eventKey": "magnus-ditlev-ironman-verdensrekord-20261107",
+      "materialFacts": [
+        "Magnus Ditlev satte verdensrekord i Ironman Florida: 7:19:17",
+        "14 minutter og 8 sekunder foran nummer to",
+        "Kom 28 dage efter en skuffende VM-præstation; kvalificerede sig til VM på Hawaii"
+      ],
+      "section": "sport",
+      "headline": "Dansker sætter verdensrekord i ironman",
+      "primarySourceUrl": "https://www.dr.dk/sporten/dansker-saetter-verdensrekord-i-ironman",
+      "subheadline": "Magnus Ditlev vandt Ironman Florida i tiden 7:19:17 – den hurtigste tid nogensinde i disciplinen, en måned efter en skuffende VM-præstation.",
+      "body": [
+        "Den danske triatlet Magnus Ditlev satte lørdag verdensrekord i ironman i tiden 7:19:17 – 14 minutter og 8 sekunder foran nummer to. Det er den hurtigste tid, der nogensinde er opnået i disciplinen.",
+        "Rekorden kommer blot 28 dage efter, at Ditlev gik kold ved VM på Hawaii, hvor han ellers længe lå i front. Han satte både sin hurtigste cykeltid og maratontid, og resultatet sikrer ham en plads ved næste VM. »Det er dejligt at få lidt hævn. Kona var hjerteskærende, men jeg er stolt af, hvordan jeg er kommet tilbage,« sagde Ditlev."
+      ],
+      "whyItMatters": "En verdensrekord i udholdenhedssportens mest krævende disciplin er bemærkelsesværdig, men tidspunktet gør den interessant: Ditlev svarer igen en måned efter sit lavpunkt.",
+      "analysis": "At sætte både cykel- og løberekord i samme løb tyder på, at formen er intakt trods to års sygdom, som han selv har beskrevet det. Hawaii-kvalifikationen giver en ny chance for VM-oprejsning.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/ygypcpmn/magnus-ditlev-smadrer-ironman-verdensrekorden-i-florida_foto-donald-miralle-for-ironman_2_crop001.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Foto: Donald Miralle for IRONMAN",
+        "alt": "Magnus Ditlev fejrer sejren ved Visit Panama City Beach Ironman Florida, hvor han nu har kvalificeret sig til VM i ironman 2027.",
+        "sourceUrl": "https://www.dr.dk/sporten/dansker-saetter-verdensrekord-i-ironman"
+      },
+      "topics": [
+        "sport",
+        "triatlon",
+        "danske-sportsfolk"
+      ],
+      "entities": [
+        "Magnus Ditlev",
+        "Ironman Florida"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 48,
+        "decisionValue": 8,
+        "novelty": 82,
+        "sourceQuality": 88,
+        "personalRelevance": 10,
+        "contrast": 92
+      },
+      "claims": [
+        {
+          "text": "Magnus Ditlev satte verdensrekord ved Ironman Florida i tiden 7:19:17, 14 minutter og 8 sekunder foran nummer to.",
+          "sourceUrls": [
+            "https://www.dr.dk/sporten/dansker-saetter-verdensrekord-i-ironman"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "»Det er dejligt at få lidt hævn. Kona var hjerteskærende, men jeg er stolt af, hvordan jeg er kommet tilbage,« sagde Magnus Ditlev efter løbet.",
+          "sourceUrls": [
+            "https://www.dr.dk/sporten/dansker-saetter-verdensrekord-i-ironman"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Dansker sætter verdensrekord i ironman",
+          "publisher": "DR Sporten",
+          "url": "https://www.dr.dk/sporten/dansker-saetter-verdensrekord-i-ironman",
+          "publishedAt": "2026-11-07T19:54:20Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-temu-koelemad-20261109",
+      "eventKey": "temu-koelevarer-fare-20261108",
+      "materialFacts": [
+        "Forbrugerrådet Tænk testede Temu-køligvarer syv gange - alle fejlede",
+        "Produkter ankom op til 22 grader mod en anbefalet temperatur på 8 grader",
+        "Temu har fjernet de fleste køligvarer fra det danske marked"
+      ],
+      "section": "danmark",
+      "headline": "Temu-mad risikerer at gøre dig syg, lyder varsel",
+      "primarySourceUrl": "https://nyheder.tv2.dk/samfund/2026-11-08-temu-mad-risikerer-at-goere-dig-syg-lyder-varsel",
+      "subheadline": "Forbrugerrådet Tænk har testet køligvarer fra Temu syv gange – alle gange ankom de for varme, viser ny test.",
+      "body": [
+        "Forbrugerrådet Tænk har testet køligvarer fra Temu syv gange, og alle syv dumpede. Flere produkter ankom op til 22 grader mod en anbefalet temperatur på 8 grader – en italiensk pølse var 12 dage undervejs, før den blev leveret varm.",
+        "»Der kan være en reel sikkerhedsmæssig risiko,« siger Maja Effersøe Khan, Forbrugerrådet Tænk, der peger på øget risiko for bakterievækst ved varme fødevarer. Temu har siden fjernet de fleste køligvarer fra markedet, og Forbrugerrådet klager nu over fødevaresikkerhed og digitale regler."
+      ],
+      "whyItMatters": "Temu er blandt de mest brugte handelsplatforme i Danmark, og sagen illustrerer et problem ved e-handel med letfordærvelige varer: ansvar følger ikke nødvendigvis med over flere grænser.",
+      "analysis": "At Temu reagerer ved at fjerne varekategorien frem for at rette logistikken, tyder på en kølekæde, der ikke kan garanteres – noget forbrugerne selv må opdage, medmindre tilsynet skærpes.",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/6/9/d/69d337b9-a286-443d-92d3-e7db5c24e489?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCw1Niw4NDEsNDcz&s=723fc040d60e09456ce81e6984639b47",
+        "credit": "Foto: Thomas Dahl/Forbrugerrådet Tænk",
+        "alt": "En kasse med køligvarer bestilt via Temu, pakket i bobleplast med pølser og oste synlige – fotograferet af Forbrugerrådet Tænk i forbindelse med testen.",
+        "sourceUrl": "https://nyheder.tv2.dk/samfund/2026-11-08-temu-mad-risikerer-at-goere-dig-syg-lyder-varsel"
+      },
+      "topics": [
+        "danmark",
+        "forbruger",
+        "foedevaresikkerhed"
+      ],
+      "entities": [
+        "Temu",
+        "Forbrugerrådet Tænk",
+        "Maja Effersøe Khan"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 46,
+        "decisionValue": 15,
+        "novelty": 65,
+        "sourceQuality": 82,
+        "personalRelevance": 10,
+        "contrast": 82
+      },
+      "claims": [
+        {
+          "text": "Forbrugerrådet Tænk testede Temu-køligvarer syv gange; alle syv ankom for varmt, op til 22 grader mod en anbefalet temperatur på 8 grader.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/samfund/2026-11-08-temu-mad-risikerer-at-goere-dig-syg-lyder-varsel"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "»Der kan være en reel sikkerhedsmæssig risiko,« siger Maja Effersøe Khan, Forbrugerrådet Tænk.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/samfund/2026-11-08-temu-mad-risikerer-at-goere-dig-syg-lyder-varsel"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Temu-mad risikerer at gøre dig syg, lyder varsel",
+          "publisher": "TV 2",
+          "url": "https://nyheder.tv2.dk/samfund/2026-11-08-temu-mad-risikerer-at-goere-dig-syg-lyder-varsel",
+          "publishedAt": "2026-11-08T20:31:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-irgens-erhvervsfremme-20261109",
+      "eventKey": "sofie-irgens-erhvervsfremmebestyrelse-20261028",
+      "materialFacts": [
+        "Martin Lidegaard har udpeget Sofie Irgens som ny formand for Danmarks Erhvervsfremmebestyrelse",
+        "Irgens er CEO i Schneider Electric Denmark",
+        "Bestyrelsen har 16 medlemmer fra erhvervsliv, arbejdsmarkedets parter og kommuner"
+      ],
+      "section": "erhverv",
+      "headline": "Ny formand for Danmarks Erhvervsfremme-bestyrelse skal styrke konkurrencekraften i danske SMV'er",
+      "primarySourceUrl": "https://via.ritzau.dk/pressemeddelelse/15252587/ny-formand-for-danmarks-erhvervsfremme-bestyrelse-skal-styrke-konkurrencekraften-i-danske-smver?lang=da",
+      "subheadline": "Erhvervsminister Martin Lidegaard har udpeget Sofie Irgens, CEO i Schneider Electric Denmark, som ny formand for det statslige erhvervsfremmeorgan.",
+      "body": [
+        "Erhvervsminister Martin Lidegaard har udpeget Sofie Irgens, direktør i Schneider Electric Denmark, som ny formand for Danmarks Erhvervsfremmebestyrelse. Bestyrelsen har 16 medlemmer fra erhvervsliv, arbejdsmarkedets parter og kommunerne og skal styrke konkurrenceevnen i danske SMV'er.",
+        "»Med Sofie Irgens som ny formand får bestyrelsen en markant erhvervsprofil …« siger Lidegaard. Irgens peger på digitalisering og grøn omstilling: »SMV'erne er altafgørende for Danmarks vækst og konkurrencekraft. Det forpligter.«"
+      ],
+      "whyItMatters": "Formandsposter i erhvervsfremmeorganer indgår i udpegninger, hvor erfarne profiler bevæger sig mellem det private og det halvoffentlige – værd at følge for enhver, der følger dansk erhvervspolitik.",
+      "analysis": "Valget af en CEO fra en global koncern frem for en klassisk organisationsprofil signalerer, at ministeriet her prioriterer praktisk erfaring med digitalisering over traditionel baggrund.",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Martin_Lidegaard_by_Christian_Ursilva.jpg/1920px-Martin_Lidegaard_by_Christian_Ursilva.jpg",
+        "credit": "Foto: Christian Ursilva/Wikimedia Commons (CC BY-SA 4.0)",
+        "alt": "Erhvervsminister Martin Lidegaard, som har udpeget Sofie Irgens til ny formand for Danmarks Erhvervsfremmebestyrelse, fotograferet ved Folketingets åbning i oktober 2025.",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Martin_Lidegaard_by_Christian_Ursilva.jpg"
+      },
+      "topics": [
+        "erhverv",
+        "ledelse",
+        "who-is-moving"
+      ],
+      "entities": [
+        "Sofie Irgens",
+        "Martin Lidegaard",
+        "Danmarks Erhvervsfremmebestyrelse",
+        "Schneider Electric Denmark"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 44,
+        "decisionValue": 78,
+        "novelty": 35,
+        "sourceQuality": 78,
+        "personalRelevance": 90,
+        "contrast": 10
+      },
+      "claims": [
+        {
+          "text": "Martin Lidegaard har udpeget Sofie Irgens, CEO i Schneider Electric Denmark, som ny formand for Danmarks Erhvervsfremmebestyrelse.",
+          "sourceUrls": [
+            "https://via.ritzau.dk/pressemeddelelse/15252587/ny-formand-for-danmarks-erhvervsfremme-bestyrelse-skal-styrke-konkurrencekraften-i-danske-smver?lang=da"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Ny formand for Danmarks Erhvervsfremme-bestyrelse skal styrke konkurrencekraften i danske SMV'er",
+          "publisher": "Erhvervsministeriet",
+          "url": "https://via.ritzau.dk/pressemeddelelse/15252587/ny-formand-for-danmarks-erhvervsfremme-bestyrelse-skal-styrke-konkurrencekraften-i-danske-smver?lang=da",
+          "publishedAt": "2026-10-28T06:00:00Z",
+          "kind": "primary"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "Landbrug & Fødevarer fyrer og omrokerer i ledelsen",
+      "headline": "Landbrug & Fødevarer fyrer og omrokerer i ledelsen",
+      "summary": "L&F har afskediget og omrokeret omkring 25 stillinger og forenklet ledelsesstrukturen under CEO Morten Boje Hviid pr. 1. november.",
+      "publisher": "DR",
+      "section": "erhverv",
+      "publishedAt": "2026-10-29T15:41:54Z",
+      "url": "https://www.dr.dk/nyheder/seneste/landbrug-foedevarer-fyrer-og-omrokerer-i-ledelsen"
+    },
+    {
+      "text": "Ulrik Vestergaard Knudsen i AI-opråb: Europa kan ikke trykke på snooze i ti år mere",
+      "headline": "Ulrik Vestergaard Knudsen i AI-opråb: Europa kan ikke trykke på snooze i ti år mere",
+      "summary": "Netcompany-direktør og tidligere OECD-vicegeneralsekretær Ulrik Vestergaard Knudsen advarer om, at Europa risikerer at sakke yderligere bagud på AI i forhold til USA og Kina.",
+      "publisher": "Altinget",
+      "section": "eu-konkurrenceevne",
+      "publishedAt": "2026-10-30T01:00:00Z",
+      "url": "https://www.altinget.dk/eu/artikel/ulrik-vestergaard-knudsen-i-ai-opraab-vi-kan-ikke-trykke-paa-snooze-i-ti-aar-mere"
+    },
+    {
+      "text": "Kortere momsfrister kan ramme mindre virksomheder",
+      "headline": "Kortere momsfrister kan ramme mindre virksomheder",
+      "summary": "Et finanslovsforslag harmoniserer momsfristen til 20 dage for alle virksomheder, langt hurtigere end i dag for mange SMV'er, og Dansk Erhverv advarer om likviditetsrisiko for bl.a. webshops og transportvirksomheder.",
+      "publisher": "Dansk Erhverv",
+      "section": "erhverv",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "url": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/november/kortere-momsfrister-kan-ramme-mindre-virksomheder"
+    },
+    {
+      "text": "Færre konkurser, men flere tabte job i oktober",
+      "headline": "Færre konkurser, men flere tabte job i oktober",
+      "summary": "151 konkurser i oktober, sæsonkorrigeret -2,6 pct., mens 1.072 fuldtidsstillinger gik tabt ved konkurser, en stigning på 17 pct.",
+      "publisher": "Danmarks Statistik",
+      "section": "erhverv",
+      "publishedAt": "2026-11-05T06:00:00Z",
+      "url": "https://www.dst.dk/nyt/53411"
+    },
+    {
+      "text": "ECB holder renten i ro",
+      "headline": "ECB holder renten i ro",
+      "summary": "Den Europæiske Centralbank fastholdt indlånsrenten på 2,50 pct. og undlod at binde sig til en bestemt rentesti fremadrettet.",
+      "publisher": "ECB",
+      "section": "pengepolitik",
+      "publishedAt": "2026-10-29T12:15:00Z",
+      "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html"
+    },
+    {
+      "text": "Denne uges elpriser har været de højeste i knap fire år",
+      "headline": "Denne uges elpriser har været de højeste i knap fire år",
+      "summary": "Spotpriser op mod 2,0-2,6 kr./kWh i denne uge pga. dunkelflaute og høje gaspriser – de højeste siden slutningen af 2022.",
+      "publisher": "DR",
+      "section": "energi",
+      "publishedAt": "2026-11-08T06:08:16Z",
+      "url": "https://www.dr.dk/nyheder/penge/denne-uges-elpriser-har-vaeret-de-hoejeste-i-knap-fire-aar"
+    },
+    {
+      "text": "Schouw & Co. hæver forventningerne til omsætning og EBITDA i 2026",
+      "headline": "Schouw & Co. hæver forventningerne til omsætning og EBITDA i 2026",
+      "summary": "Omsætningsguidancen opjusteres til 36,2-38,1 mia. kr. og EBITDA-guidancen til 3.375-3.525 mio. kr. for 2026.",
+      "publisher": "Økonomisk Ugebrev",
+      "section": "markeder",
+      "publishedAt": "2026-11-06T07:22:31Z",
+      "url": "https://ugebrev.dk/flashnews/schouw-co-haever-forventningerne-til-omsaetning-og-ebitda-i-2026/"
+    },
+    {
+      "text": "Kronprins Frederiks Bro genåbner i dag",
+      "headline": "Kronprins Frederiks Bro genåbner i dag",
+      "summary": "Broen i Frederikssund genåbner efter at have været lukket siden august til belægnings- og fugtisoleringsarbejde.",
+      "publisher": "DR",
+      "section": "danmark",
+      "publishedAt": "2026-11-08T07:34:36Z",
+      "url": "https://www.dr.dk/nyheder/seneste/kronprins-frederiks-bro-genaabner-i-dag"
+    },
+    {
+      "text": "Musiker Klaus Kjellerup er død",
+      "headline": "Musiker Klaus Kjellerup er død",
+      "summary": "Musiker og sangskriver Klaus Kjellerup er død, 72 år. Han var medstifter af Tøsedrengene i 1978 og Danser med Drenge i 1991.",
+      "publisher": "TV 2",
+      "section": "danmark",
+      "publishedAt": "2026-11-08T19:34:00Z",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-08-musiker-klaus-kjellerup-er-doed"
+    },
+    {
+      "text": "Datalæk: Hotelgæster blev bedt om at udlevere kortoplysninger",
+      "headline": "Datalæk: Hotelgæster blev bedt om at udlevere kortoplysninger",
+      "summary": "En datalæk hos bookingsystemet TecHotel ramte flere danske hoteller, bl.a. Hotel Koldingfjord, hvor gæster modtog falske WhatsApp-beskeder med krav om kortoplysninger.",
+      "publisher": "DR",
+      "section": "danmark",
+      "publishedAt": "2026-11-08T12:09:00Z",
+      "url": "https://www.dr.dk/nyheder/indland/datalaek-hotelgaester-blev-bedt-om-udlevere-kortoplysninger"
+    },
+    {
+      "text": "Kapløb mod tiden – stort dansk løb kan være i fare",
+      "headline": "Kapløb mod tiden – stort dansk løb kan være i fare",
+      "summary": "PostNord trækker sig som hovedsponsor for både Danmarks Cykle Union og Danmark Rundt, uden at der endnu er fundet en erstatning.",
+      "publisher": "TV 2 Sport",
+      "section": "cykling",
+      "publishedAt": "2026-11-06T06:28:09Z",
+      "url": "https://sport.tv2.dk/cykling/2026-11-06-kaploeb-mod-tiden-stort-dansk-loeb-kan-vaere-i-fare"
+    },
+    {
+      "text": "Danskers drøm er endelig gået i opfyldelse: - Det er surrealistisk",
+      "headline": "Danskers drøm er endelig gået i opfyldelse: - Det er surrealistisk",
+      "summary": "24-årige Morten Nørtoft har skrevet en WorldTour-kontrakt for 2027-28 med det belgiske hold Alpecin-Premier Tech.",
+      "publisher": "TV 2 Sport",
+      "section": "cykling",
+      "publishedAt": "2026-11-01T05:56:15Z",
+      "url": "https://sport.tv2.dk/cykling/2026-10-31-danskers-droem-er-endelig-gaaet-i-opfyldelse-det-er-surrealistisk"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-aros-ulydig-punk-20261109",
+      "mode": "experience",
+      "kind": "udstilling",
+      "status": "available",
+      "title": "Ulydig – Kroppen i punk",
+      "creator": "Kurateret af Marie Arleth Skov",
+      "provider": "ARoS Aarhus Kunstmuseum",
+      "url": "https://www.aros.dk/udstillinger/ulydig-kroppen-i-punk/",
+      "availability": "Vises til og med 13. december 2026",
+      "commitment": "1-2 timer",
+      "description": "Omkring 130 værker, der sporer punkens brug af kroppen som politisk modstand fra 1970'ernes London til Berlins undergrundsscener - med værker af bl.a. Derek Jarman, Linder og Cornelia Schleime, flere vist i Skandinavien for første gang.",
+      "rationale": "En håndgribelig pause fra nyhedsstrømmen: en fysisk udstilling om subkultur og modstand, kurateret med akademisk tyngde - et skarpt modstykke til kontorets abstraktioner, og uden for enhver professionel dagsorden.",
+      "topics": [
+        "kunst",
+        "kultur",
+        "serendipitet"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://www.aros.dk/media/2bjbn0c0/ulydig_mads-smidstrup-68-of-96.jpg?width=1200&height=630&v=1dd079d5641ddc0",
+        "credit": "Foto: Mads Smidstrup/ARoS",
+        "alt": "Installationsfoto fra ARoS' udstilling 'Ulydig - Kroppen i punk' med et fotografi af to sammenspejlede ansigter og punk-kostumer i baggrunden.",
+        "sourceUrl": "https://www.aros.dk/udstillinger/ulydig-kroppen-i-punk/"
+      }
+    },
+    {
+      "id": "rec-sahm-ai-cea-20261109",
+      "mode": "read",
+      "kind": "kommentar",
+      "status": "new",
+      "title": "AI is coming for the economists in the White House",
+      "creator": "Claudia Sahm",
+      "provider": "Bloomberg Opinion",
+      "url": "https://www.hawaiitribune-herald.com/2026/11/07/opinion/ai-is-coming-for-the-economists-in-the-white-house/",
+      "commitment": "5 minutter",
+      "description": "Tidligere Fed-økonom Claudia Sahm svarer på forslag om at erstatte juniorøkonomer i Det Økonomiske Råd (CEA) med AI - og argumenterer for, at institutionens værdi ligger i intern uenighed og dømmekraft, ikke analysetempo.",
+      "rationale": "Et skarpt bud på, hvad AI reelt kan og ikke kan erstatte i institutioner bygget til at udfordre magten indefra - relevant for enhver, der har siddet i et sekretariat, der skal levere upopulære sandheder opad.",
+      "topics": [
+        "ai",
+        "oekonomisk-politik",
+        "institutioner"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-noema-japan-20261109",
+      "mode": "read",
+      "kind": "essay",
+      "status": "new",
+      "title": "In Praise Of Japan's Failure To Keep Up",
+      "creator": "Michael Fitzpatrick",
+      "provider": "Noema Magazine",
+      "url": "https://www.noemamag.com/in-praise-of-japans-failure-to-keep-up/",
+      "commitment": "8 minutter",
+      "description": "Fitzpatrick argumenterer for, at Japans tilbageholdenhed med hastig teknologisk disruption har bevaret social sammenhængskraft og beskæftigelsesstabilitet - og at landets modvilje mod at følge Silicon Valleys tempo kan vise sig at være en styrke snarere end en svaghed.",
+      "rationale": "Et modstrøms-perspektiv på konkurrenceevne, der passer godt til den konstruktive vinkel: hvad et land vinder ved bevidst at sige nej til forandringstempoet, frem for altid at måle fremskridt på USA's og Kinas skala.",
+      "topics": [
+        "geopolitik",
+        "teknologi",
+        "konkurrenceevne"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {
+    "sourceCoverage": 100,
+    "freshness": 90,
+    "novelty": 80,
+    "perspectiveBalance": 85,
+    "render": 100
+  }
+}
