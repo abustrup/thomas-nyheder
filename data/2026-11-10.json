@@ -1,0 +1,713 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-11-10-full",
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-10T07:03:10Z",
+  "readingMinutes": 10,
+  "title": "Thomas' Nyheder",
+  "dek": "Nordea får historisk hvidvaskbøde, en tidligere Novo-topchef får nyt formandskab, og Horesta kan vende tilbage til Dansk Erhverv efter 15 år alene.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "nordea-hvidvask-20261110",
+      "eventKey": "nordea-hvidvask-dom-20261110",
+      "materialFacts": [
+        "Københavns Byret idømte Nordea en bøde på 155 millioner kroner for overtrædelse af hvidvaskloven.",
+        "Anklagemyndigheden havde krævet 6,6 milliarder kroner, svarende til 25 pct. af de mere end 26 milliarder kroner, sagen omfattede.",
+        "17.726 transaktioner for næsten 25 milliarder kroner blev sendt gennem Nordeas nu lukkede internationale filial på Vesterport mellem 2012 og 2015.",
+        "Det er første gang, en dansk domstol tager stilling til, om en bank har overtrådt hvidvaskloven."
+      ],
+      "section": "Erhverv",
+      "headline": "Nordea får bøde på 155 millioner kroner i historisk hvidvasksag",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/penge/nordea-faar-boede-paa-155-millioner-kroner-i-historisk-hvidvasksag",
+      "subheadline": "Københavns Byret idømmer banken bøde for brud på hvidvaskloven, men frikender den for størstedelen af anklagerne – og lander langt under anklagemyndighedens krav på 6,6 milliarder kroner.",
+      "body": [
+        "Københavns Byret har idømt Nordea en bøde på 155 millioner kroner for overtrædelse af hvidvaskloven. Sagen handler om 17.726 transaktioner for næsten 25 milliarder kroner, der mellem 2012 og 2015 blev sendt gennem bankens nu lukkede internationale filial på Vesterport i København.",
+        "Anklagemyndigheden havde krævet en bøde på 6,6 milliarder kroner – 25 procent af den samlede transaktionssum – men retten frikendte banken for størstedelen af anklagerne, herunder anklagen om 253 erhvervskunder inden for valutaveksling. Mere end 200.000 transaktionsalarmer blev ifølge sagen arkiveret uden undersøgelse."
+      ],
+      "whyItMatters": "Det er første gang, en dansk domstol tager stilling til, om en bank har overtrådt hvidvaskloven. Dommen sætter en målestok for, hvor hårdt banker kan straffes – og hvor svært det er at bevise forsæt.",
+      "analysis": "155 millioner kroner er en brøkdel af de 6,6 milliarder, anklagemyndigheden bad om, og langt mindre end Danske Banks bøde på 15,3 milliarder i Estland-sagen. Den lave bøde kan gøre fremtidige sager sværere at føre.",
+      "counterpoint": "Nordea har hele tiden afvist at have handlet forsætligt og blev frikendt for de fleste anklager – et resultat, banken selv vil læse som en sejr snarere end et nederlag.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/hl1oux2g/20200126-131735-5.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Nordea-flag foran bankens hovedkontor.",
+        "sourceUrl": "https://www.dr.dk/nyheder/penge/nordea-faar-boede-paa-155-millioner-kroner-i-historisk-hvidvasksag"
+      },
+      "topics": [
+        "danske-erhvervsforhold",
+        "regulering",
+        "finanssektor"
+      ],
+      "entities": [
+        "Nordea",
+        "Anklagemyndigheden",
+        "Københavns Byret"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 82,
+        "decisionValue": 60,
+        "novelty": 70,
+        "sourceQuality": 85,
+        "personalRelevance": 70,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Københavns Byret idømte Nordea en bøde på 155 millioner kroner for overtrædelse af hvidvaskloven.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/nordea-faar-boede-paa-155-millioner-kroner-i-historisk-hvidvasksag"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Anklagemyndigheden havde krævet 6,6 milliarder kroner, svarende til 25 pct. af de over 26 milliarder kroner sagen omfattede.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/nordea-faar-boede-paa-155-millioner-kroner-i-historisk-hvidvasksag"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Det er første gang, en dansk domstol tager stilling til, om en bank har overtrådt hvidvaskloven.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/nordea-faar-boede-paa-155-millioner-kroner-i-historisk-hvidvasksag"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Nordea får bøde på 155 millioner kroner i historisk hvidvasksag",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/penge/nordea-faar-boede-paa-155-millioner-kroner-i-historisk-hvidvasksag",
+          "publishedAt": "2026-11-09T12:15:11Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "lundbeck-formand-20261110",
+      "eventKey": "lundbeck-fruergaard-formand-20261110",
+      "materialFacts": [
+        "Lundbeck oplyste 18. oktober 2026, at bestyrelsen har til hensigt at vælge Lars Fruergaard Jørgensen som ny formand på generalforsamlingen i 2027.",
+        "Fra 10. november 2026 indtræder Fruergaard Jørgensen i Lundbecks bestyrelse som observatør forud for den formelle valghandling.",
+        "Han var CEO for Novo Nordisk 2017-2025, og sidder i dag i bestyrelsen for Danmarks Nationalbank og som formand for Healthcare Denmark.",
+        "Den afgående formand, Dorothea Wenzel, træder tilbage i forbindelse med generalforsamlingen i 2027."
+      ],
+      "section": "Erhverv",
+      "headline": "Lars Fruergaard Jørgensen bliver ny formand for Lundbeck",
+      "primarySourceUrl": "https://npinvestor.dk/nyheder/lars-fruergaard-joergensen-bliver-ny-formand-for-lundbeck/",
+      "subheadline": "Fra i dag indtræder den tidligere Novo Nordisk-topchef i Lundbecks bestyrelse som observatør, forud for den formelle udnævnelse på generalforsamlingen i 2027.",
+      "body": [
+        "Lundbeck oplyste søndag den 18. oktober, at bestyrelsen har til hensigt at vælge Lars Fruergaard Jørgensen som ny formand på generalforsamlingen i 2027. Fra i dag, den 10. november, indtræder han i bestyrelsen som observatør forud for den formelle valghandling.",
+        "Fruergaard Jørgensen var topchef for Novo Nordisk fra 2017 til 2025. Han sidder i dag i bestyrelsen for Danmarks Nationalbank og er formand for Healthcare Denmark. Den afgående formand, Dorothea Wenzel, træder tilbage i forbindelse med generalforsamlingen i 2027."
+      ],
+      "whyItMatters": "Det er en af de mest markante bestyrelsesposter i dansk life science, og den går til manden, der i otte år stod i spidsen for virksomheden, hvis op- og nedture trækker i dansk BNP.",
+      "analysis": "At en tidligere Novo Nordisk-topchef vælges til formand i et andet medicinalselskab viser, hvor tæt dansk pharma hænger sammen på bestyrelsesniveau, og hvor få der besætter de tungeste poster.",
+      "image": {
+        "url": "https://npinvestor.dk/wp-content/uploads/2026/10/npinv-news-519042.jpg",
+        "credit": "Kilde: npinvestor.dk",
+        "alt": "Lars Fruergaard Jørgensen bliver ny formand for Lundbeck",
+        "sourceUrl": "https://npinvestor.dk/nyheder/lars-fruergaard-joergensen-bliver-ny-formand-for-lundbeck/"
+      },
+      "topics": [
+        "who-is-moving",
+        "dansk-erhverv",
+        "pharma"
+      ],
+      "entities": [
+        "Lars Fruergaard Jørgensen",
+        "H. Lundbeck A/S",
+        "Novo Nordisk",
+        "Danmarks Nationalbank",
+        "Dorothea Wenzel"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 62,
+        "decisionValue": 80,
+        "novelty": 55,
+        "sourceQuality": 75,
+        "personalRelevance": 90,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Lundbecks bestyrelse har til hensigt at vælge Lars Fruergaard Jørgensen som ny formand på generalforsamlingen i 2027.",
+          "sourceUrls": [
+            "https://npinvestor.dk/nyheder/lars-fruergaard-joergensen-bliver-ny-formand-for-lundbeck/",
+            "http://www.prnewswire.com/news-releases/changes-to-the-board-of-directors-of-h-lundbeck-as-302911998.html"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Fruergaard Jørgensen var CEO for Novo Nordisk 2017-2025 og sidder i bestyrelsen for Danmarks Nationalbank samt som formand for Healthcare Denmark.",
+          "sourceUrls": [
+            "http://www.prnewswire.com/news-releases/changes-to-the-board-of-directors-of-h-lundbeck-as-302911998.html"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Fra 10. november 2026 indtræder Fruergaard Jørgensen i Lundbecks bestyrelse som observatør, forud for den formelle valghandling på generalforsamlingen i 2027.",
+          "sourceUrls": [
+            "http://www.prnewswire.com/news-releases/changes-to-the-board-of-directors-of-h-lundbeck-as-302911998.html"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Lars Fruergaard Jørgensen bliver ny formand for Lundbeck",
+          "publisher": "npinvestor.dk",
+          "url": "https://npinvestor.dk/nyheder/lars-fruergaard-joergensen-bliver-ny-formand-for-lundbeck/",
+          "publishedAt": "2026-10-21T08:10:00Z",
+          "kind": "primary"
+        },
+        {
+          "title": "Changes to the Board of Directors of H. Lundbeck A/S",
+          "publisher": "PR Newswire / H. Lundbeck A/S",
+          "url": "http://www.prnewswire.com/news-releases/changes-to-the-board-of-directors-of-h-lundbeck-as-302911998.html",
+          "publishedAt": "2026-10-18T17:37:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "horesta-danskerhverv-20261110",
+      "eventKey": "horesta-dansk-erhverv-fusion-20261110",
+      "materialFacts": [
+        "Horestas repræsentantskab skal onsdag stemme om en fusion med Dansk Erhverv.",
+        "Horesta har opereret selvstændigt siden 2011, da organisationen skilte sig fra Dansk Erhverv.",
+        "En kilde siger til Altinget: 'Man stemmer jo ikke uden at have en idé om, at det bliver et ja.'",
+        "Så sent som for tre år siden afviste Horestas daværende bestyrelsesformand rygter om en fusion."
+      ],
+      "section": "Erhverv",
+      "headline": "Altinget erfarer: Horesta vil fusionere med Dansk Erhverv efter 15 års soloridt",
+      "primarySourceUrl": "https://www.altinget.dk/erhverv/artikel/altinget-erfarer-horesta-vil-fusionere-med-dansk-erhverv-efter-15-aars-soloridt",
+      "subheadline": "Horestas repræsentantskab stemmer onsdag om en fusion, der vil samle restaurationsbranchens arbejdsgiverorganisation med Dansk Erhverv igen efter 15 år som selvstændig forening.",
+      "body": [
+        "Horesta har opereret selvstændigt siden 2011, da organisationen skilte sig fra Dansk Erhverv. Onsdag skal foreningens repræsentantskab stemme om at vende tilbage i folden, erfarer Altinget.",
+        "En kilde tæt på processen siger: 'Man stemmer jo ikke uden at have en idé om, at det bliver et ja.' Så sent som for tre år siden afviste Horestas daværende bestyrelsesformand rygter om en fusion."
+      ],
+      "whyItMatters": "Dansk Erhverv vil med en fusion befæste sin position som en af de tungeste stemmer i dansk erhvervsliv, mens Horesta opgiver den selvstændighed, foreningen vandt for 15 år siden.",
+      "analysis": "Konsolideringen af landskabet af danske erhvervsorganisationer fortsætter – færre, større foreninger med mere samlet vægt bag hver holdning, men længere afstand fra den enkelte branches særinteresser.",
+      "image": {
+        "url": "https://legacy.altinget.dk/images/article/307525/163069.jpg",
+        "credit": "Kilde: Altinget",
+        "alt": "Altinget erfarer: Horesta vil fusionere med Dansk Erhverv efter 15 års soloridt",
+        "sourceUrl": "https://www.altinget.dk/erhverv/artikel/altinget-erfarer-horesta-vil-fusionere-med-dansk-erhverv-efter-15-aars-soloridt"
+      },
+      "topics": [
+        "dansk-erhverv",
+        "erhvervsorganisationer"
+      ],
+      "entities": [
+        "Horesta",
+        "Dansk Erhverv"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 65,
+        "novelty": 75,
+        "sourceQuality": 70,
+        "personalRelevance": 80,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "Horestas repræsentantskab skal onsdag stemme om en fusion med Dansk Erhverv efter 15 år som selvstændig forening.",
+          "sourceUrls": [
+            "https://www.altinget.dk/erhverv/artikel/altinget-erfarer-horesta-vil-fusionere-med-dansk-erhverv-efter-15-aars-soloridt"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Altinget erfarer: Horesta vil fusionere med Dansk Erhverv efter 15 års soloridt",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/erhverv/artikel/altinget-erfarer-horesta-vil-fusionere-med-dansk-erhverv-efter-15-aars-soloridt",
+          "publishedAt": "2026-11-10T04:00:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "laerer-indgriben-20261110",
+      "eventKey": "laerer-fysisk-indgriben-lovforslag-20261110",
+      "materialFacts": [
+        "Et regeringsforslag, der udvider læreres ret til fysisk at gribe ind over for elever, førstebehandles i dag i Folketinget.",
+        "I dag må lærere kun gribe fysisk ind, hvis en elev er til fare for sig selv eller andre; forslaget vil også tillade det, hvis en elev væsentligt forstyrrer undervisningen efter gentagne verbale forsøg på at stoppe det.",
+        "Undervisningsminister Magnus Heunicke siger: 'Lærerne skal ikke være i tvivl om, hvad de må gøre, når en situation eskalerer.'",
+        "Skoleforsker Louise Klinge advarer: 'På nogle skoler vil fysisk indgriben forværre de problemer, der er med uro og børns grænseoverskridende adfærd.'"
+      ],
+      "section": "Danmark",
+      "headline": "Må en lærer tage fat i en elev, der forstyrrer? Nu skal Folketinget diskutere nye regler",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/maa-en-laerer-tage-fat-i-en-elev-der-forstyrrer-nu-skal-folketinget-diskutere-nye-regler",
+      "subheadline": "Et lovforslag, der udvider læreres ret til fysisk at gribe ind, når en elev forstyrrer undervisningen væsentligt, førstebehandles i dag i Folketinget.",
+      "body": [
+        "I dag må lærere kun gribe fysisk ind, hvis en elev er til fare for sig selv eller andre. Et nyt lovforslag, der førstebehandles i Folketinget i dag, vil også tillade indgriben, når en elev væsentligt forstyrrer undervisningen efter gentagne verbale forsøg på at stoppe det.",
+        "Undervisningsminister Magnus Heunicke siger: 'Lærerne skal ikke være i tvivl om, hvad de må gøre, når en situation eskalerer.' Fysisk indgriben skal fortsat være sidste udvej."
+      ],
+      "whyItMatters": "Forslaget rører ved en grundlæggende usikkerhed i dansk folkeskole om, hvor grænsen går mellem pædagogisk ro og fysisk magt – en usikkerhed, mange lærere oplever dagligt.",
+      "analysis": "Skoleforsker Louise Klinge advarer: 'På nogle skoler vil fysisk indgriben forværre de problemer, der er med uro og børns grænseoverskridende adfærd.' Reglen kan altså løse noget på nogle skoler og forværre det på andre.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/gqzlal1u/20210712-100521-3.jpg?im=SmartCrop%2Csize%3D%28700%2C394%29",
+        "credit": "Kilde: DR",
+        "alt": "Arkivfoto fra et dansk klasseværelse.",
+        "sourceUrl": "https://www.dr.dk/nyheder/maa-en-laerer-tage-fat-i-en-elev-der-forstyrrer-nu-skal-folketinget-diskutere-nye-regler"
+      },
+      "topics": [
+        "almindelige-danske-nyheder",
+        "uddannelse"
+      ],
+      "entities": [
+        "Folketinget",
+        "Magnus Heunicke",
+        "danske skoler"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 20,
+        "novelty": 65,
+        "sourceQuality": 80,
+        "personalRelevance": 15,
+        "contrast": 85
+      },
+      "claims": [
+        {
+          "text": "Et lovforslag, der udvider læreres ret til fysisk at gribe ind, når en elev væsentligt forstyrrer undervisningen, førstebehandles i dag i Folketinget.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/maa-en-laerer-tage-fat-i-en-elev-der-forstyrrer-nu-skal-folketinget-diskutere-nye-regler"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Skoleforsker Louise Klinge advarer om, at fysisk indgriben på nogle skoler kan forværre uro.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/maa-en-laerer-tage-fat-i-en-elev-der-forstyrrer-nu-skal-folketinget-diskutere-nye-regler"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Må en lærer tage fat i en elev, der forstyrrer? Nu skal Folketinget diskutere nye regler",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/maa-en-laerer-tage-fat-i-en-elev-der-forstyrrer-nu-skal-folketinget-diskutere-nye-regler",
+          "publishedAt": "2026-11-10T05:00:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "boern-luksusgode-20261110",
+      "eventKey": "boern-luksusgode-demografi-20261110",
+      "materialFacts": [
+        "Ny fremskrivning fra Rockwool Fonden og Københavns Universitet viser, at næsten halvdelen af mænd født i 1989 og frem med kun grundskoleuddannelse forbliver barnløse.",
+        "Omkring en tredjedel af de mindst uddannede kvinder forbliver også barnløse.",
+        "Forsker Peter Fallesen: 'Vi ser, at børn i stigende grad er ved at blive et luksusgode i Danmark.'",
+        "Professor Cecilia Ramlau-Hansen: de højtuddannede 'stadig får en partner og børn som før.'"
+      ],
+      "section": "Danmark",
+      "headline": "Børn bliver i stigende grad et \"luksusgode\"",
+      "primarySourceUrl": "https://nyheder.tv2.dk/samfund/2026-11-09-boern-bliver-i-stigende-grad-et-luksusgode",
+      "subheadline": "Ny fremskrivning fra Rockwool Fonden og Københavns Universitet viser, at barnløshed vokser markant blandt de mindst uddannede danskere.",
+      "body": [
+        "Næsten halvdelen af mænd født i 1989 og frem med kun en grundskoleuddannelse vil ifølge fremskrivningen forblive barnløse. For kvinder uden uddannelse gælder det omkring en tredjedel.",
+        "Forsker Peter Fallesen fra Københavns Universitet og Rockwool Fonden siger: 'Vi ser, at børn i stigende grad er ved at blive et luksusgode i Danmark.' Professor Cecilia Ramlau-Hansen fra Aarhus Universitet tilføjer, at de højtuddannede 'stadig får en partner og børn som før.'"
+      ],
+      "whyItMatters": "Udviklingen betyder, at barnløshed i stigende grad bliver et spørgsmål om uddannelse og ressourcer snarere end et frit valg – med konsekvenser for både velfærdsstatens finansiering og ulighed mellem generationer.",
+      "analysis": "Forskerne daterer vendepunktet til tiden efter finanskrisen, hvor faldet i børnefødsler blandt de mindst uddannede tog fart og siden ikke er vendt – et langt, stille skred, der sjældent når forsiderne.",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/5/a/f/5af30edd-835f-46dc-a64e-661ac53d70d2?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCwxODksNTg1NCwzMjk1&s=c3afc56e3d1ee07d7798d23267a665b3",
+        "credit": "Kilde: TV 2",
+        "alt": "En mor går tur med en barnevogn. Arkivfoto.",
+        "sourceUrl": "https://nyheder.tv2.dk/samfund/2026-11-09-boern-bliver-i-stigende-grad-et-luksusgode"
+      },
+      "topics": [
+        "almindelige-danske-nyheder",
+        "demografi"
+      ],
+      "entities": [
+        "Rockwool Fonden",
+        "Peter Fallesen",
+        "Cecilia Ramlau-Hansen",
+        "Københavns Universitet",
+        "Aarhus Universitet"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 60,
+        "decisionValue": 15,
+        "novelty": 70,
+        "sourceQuality": 75,
+        "personalRelevance": 10,
+        "contrast": 80
+      },
+      "claims": [
+        {
+          "text": "Næsten halvdelen af mænd født i 1989 og frem med kun grundskoleuddannelse vil forblive barnløse, mod en tredjedel af kvinder uden uddannelse.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/samfund/2026-11-09-boern-bliver-i-stigende-grad-et-luksusgode"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Børn bliver i stigende grad et \"luksusgode\"",
+          "publisher": "TV 2",
+          "url": "https://nyheder.tv2.dk/samfund/2026-11-09-boern-bliver-i-stigende-grad-et-luksusgode",
+          "publishedAt": "2026-11-09T15:45:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "boligpriser-kbh-aarhus-20261110",
+      "eventKey": "boligpriser-koebenhavn-aarhus-20261110",
+      "materialFacts": [
+        "Lejlighedspriserne i København faldt 1,1 pct. i oktober, det tredje fald i træk, men er stadig 12,3 pct. højere end for et år siden.",
+        "I Aarhus steg priserne 1,5 pct. på en måned og 23,2 pct. på et år; hver fjerde handel endte over udbudsprisen.",
+        "Landsplan lå priserne fladt måned for måned, men 8,7 pct. højere end for et år siden.",
+        "Birgit Daetz fra Boligsiden peger på stigende udbud i København som en del af forklaringen."
+      ],
+      "section": "Danmark",
+      "headline": "Igen falder lejlighedspriserne i København, mens de fortsætter opad i Aarhus",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/penge/igen-falder-lejlighedspriserne-i-koebenhavn-mens-de-fortsaetter-opad-i-aarhus",
+      "subheadline": "Boligsiden måler et tredje månedligt fald i København i oktober, mens Aarhus fortsætter de kraftige stigninger.",
+      "body": [
+        "Lejlighedspriserne i København faldt 1,1 pct. i oktober – det tredje fald i træk – men er stadig 12,3 pct. højere end for et år siden. Ifølge Boligsiden er København den eneste af de store danske byer med faldende priser lige nu.",
+        "I Aarhus steg priserne 1,5 pct. på en måned og 23,2 pct. på et år, og hver fjerde handel endte over udbudsprisen. På landsplan lå priserne fladt måned for måned, men 8,7 pct. højere end for et år siden."
+      ],
+      "whyItMatters": "Divergensen mellem landets to største byer viser, at boligmarkedet ikke bevæger sig i takt – København og Aarhus er nu på hver sin side af kurven.",
+      "analysis": "Boligsidens Birgit Daetz peger på et stigende udbud i København som en del af forklaringen på de faldende priser – et sæsonmønster, der kan vende igen, når udbuddet falder.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/b3ce2hax/20170913-171606-l_crop002.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Til salg-skilt på en bygning. Arkivfoto.",
+        "sourceUrl": "https://www.dr.dk/nyheder/penge/igen-falder-lejlighedspriserne-i-koebenhavn-mens-de-fortsaetter-opad-i-aarhus"
+      },
+      "topics": [
+        "almindelige-danske-nyheder",
+        "boligmarked"
+      ],
+      "entities": [
+        "Boligsiden",
+        "Birgit Daetz",
+        "København",
+        "Aarhus"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 50,
+        "decisionValue": 25,
+        "novelty": 55,
+        "sourceQuality": 75,
+        "personalRelevance": 20,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "Lejlighedspriserne faldt 1,1 pct. i København i oktober, mens de steg 1,5 pct. i Aarhus.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/igen-falder-lejlighedspriserne-i-koebenhavn-mens-de-fortsaetter-opad-i-aarhus"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Igen falder lejlighedspriserne i København, mens de fortsætter opad i Aarhus",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/penge/igen-falder-lejlighedspriserne-i-koebenhavn-mens-de-fortsaetter-opad-i-aarhus",
+          "publishedAt": "2026-11-10T05:30:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "dadirektoer-danskmodel-20261110",
+      "eventKey": "da-direktoer-danske-model-20261110",
+      "materialFacts": [
+        "DA-direktør Mina Bernardini, der kom til organisationen fra fagbevægelsen for et år siden, vil have virksomheder til bedre at forstå værdien af kollektive overenskomster.",
+        "Hun mener, at den danske model kan bære mere synlighed udadtil, og at DA bør blive bedre til at fortælle dens værdi."
+      ],
+      "section": "Erhverv",
+      "headline": "DA-direktør vil styrke fortællingen om den danske model",
+      "primarySourceUrl": "https://www.altinget.dk/erhverv/artikel/da-direktoer-om-den-danske-model-vi-skal-saelge-den-bedre",
+      "subheadline": "Mina Bernardini, der kom til Dansk Arbejdsgiverforening fra fagbevægelsen for et år siden, vil have danske virksomheder til bedre at forstå værdien af den danske model.",
+      "body": [
+        "Mina Bernardini har været direktør i Dansk Arbejdsgiverforening i et år, efter 15 år i fagbevægelsen og senest som forhandlingschef i FH.",
+        "Ifølge Altinget mener hun, at virksomheder i højere grad skal kunne se fordelene ved at have en overenskomst, og at DA skal blive bedre til at fortælle om organisationens arbejde. Modellen kan godt bære mere synlighed udadtil, mener hun."
+      ],
+      "whyItMatters": "At DA's øverste chef kommer fra fagbevægelsen og nu vil sælge modellen bedre internt i erhvervslivet, siger noget om, hvor skrøbelig forankringen er blandt virksomheder uden egen overenskomst.",
+      "analysis": "Bernardinis baggrund gør hende til en usædvanlig budbringer for arbejdsgiversiden – men den baggrund kan være styrken, når hun skal overbevise virksomheder om en model, fagbevægelsen traditionelt har promoveret hårdest.",
+      "image": {
+        "url": "https://legacy.altinget.dk/images/article/307507/162880.jpg",
+        "credit": "Kilde: Altinget",
+        "alt": "DA-direktør vil styrke fortællingen om den danske model",
+        "sourceUrl": "https://www.altinget.dk/erhverv/artikel/da-direktoer-om-den-danske-model-vi-skal-saelge-den-bedre"
+      },
+      "topics": [
+        "dansk-erhverv",
+        "arbejdsmarked"
+      ],
+      "entities": [
+        "Mina Bernardini",
+        "Dansk Arbejdsgiverforening",
+        "FH"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 35,
+        "decisionValue": 40,
+        "novelty": 45,
+        "sourceQuality": 65,
+        "personalRelevance": 60,
+        "contrast": 20
+      },
+      "claims": [
+        {
+          "text": "DA-direktør Mina Bernardini vil have virksomheder til bedre at forstå værdien af kollektive overenskomster og den danske model.",
+          "sourceUrls": [
+            "https://www.altinget.dk/erhverv/artikel/da-direktoer-om-den-danske-model-vi-skal-saelge-den-bedre"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "DA-direktør vil styrke fortællingen om den danske model",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/erhverv/artikel/da-direktoer-om-den-danske-model-vi-skal-saelge-den-bedre",
+          "publishedAt": "2026-11-10T01:00:00Z",
+          "kind": "primary"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "Store virksomheder dominerer dansk eksport",
+      "url": "https://www.dst.dk/da/nyt/58439",
+      "headline": "Store virksomheder dominerer dansk eksport",
+      "summary": "Virksomheder med mindst 250 ansatte eksporterede for 496 mia. kr. i 2025 – en stigning på 79 mia. kr. siden 2023 – og stod for lidt over halvdelen af den samlede vareeksport.",
+      "publisher": "Danmarks Statistik",
+      "section": "Erhverv",
+      "publishedAt": "2026-11-09T07:00:00Z"
+    },
+    {
+      "text": "Eksporten steg i september",
+      "url": "https://www.dst.dk/da/nyt/53197",
+      "headline": "Eksporten steg i september",
+      "summary": "Den samlede eksport af varer og tjenester steg 4,4 pct. til 204,3 mia. kr. i september; vareeksporten alene steg 6,1 pct.",
+      "publisher": "Danmarks Statistik",
+      "section": "Erhverv",
+      "publishedAt": "2026-11-09T07:00:00Z"
+    },
+    {
+      "text": "European Commission adopts revised ESRS for sustainability reporting",
+      "url": "https://www.ey.com/en_gl/technical/csrd-technical-resources/eu-adopts-revised-esrs-for-sustainability-reporting",
+      "headline": "European Commission adopts revised ESRS for sustainability reporting",
+      "summary": "De reviderede EU-standarder for bæredygtighedsrapportering (ESRS) forventes at træde i kraft i dag, hvis ingen indsigelse rejses, og gælde fra regnskabsåret 2027, med færre obligatoriske datapunkter som led i omnibus-forenklingen.",
+      "publisher": "EY",
+      "section": "EU-regulering",
+      "publishedAt": "2026-07-23T00:00:00Z"
+    },
+    {
+      "text": "Zealand Pharma announces Boehringer Ingelheim's survodutide is the first glucagon/GLP-1 dual agonist to demonstrate a favorable cardiovascular safety profile in global Phase 3 SYNCHRONIZE-CVOT trial",
+      "url": "https://view.news.eu.nasdaq.com/view?id=1475990",
+      "headline": "Zealand Pharma announces Boehringer Ingelheim's survodutide is the first glucagon/GLP-1 dual agonist to demonstrate a favorable cardiovascular safety profile in global Phase 3 SYNCHRONIZE-CVOT trial",
+      "summary": "Survodutide opfyldte det primære endepunkt uden at øge risikoen for kardiovaskulære hændelser (HR 0,89) i et forsøg med 5.530 deltagere, og gav op til 13,7 pct. vægttab ved uge 72.",
+      "publisher": "Nasdaq / Zealand Pharma",
+      "section": "Erhverv",
+      "publishedAt": "2026-11-09T14:45:00Z"
+    },
+    {
+      "text": "Kina forlænger pauser i told på amerikanske varer og skibe",
+      "url": "https://www.dr.dk/nyheder/seneste/kina-forlaenger-pauser-i-told-paa-amerikanske-varer-og-skibe",
+      "headline": "Kina forlænger pauser i told på amerikanske varer og skibe",
+      "summary": "Kina forlænger suspenderingen af den forhøjede told på 24 pct. på amerikanske varer samt havneafgifter på USA-tilknyttede skibe med yderligere to måneder; suspenderingerne udløb ellers i dag.",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-11-09T06:02:00Z"
+    },
+    {
+      "text": "Partiet Atassut træder ud af Grønlands regeringskoalition",
+      "url": "https://www.dr.dk/nyheder/seneste/partiet-atassut-traeder-ud-af-groenlands-regeringskoalition",
+      "headline": "Partiet Atassut træder ud af Grønlands regeringskoalition",
+      "summary": "Atassut forlader koalitionen, efter at minister Nivi Olsen nægtede at gå af i en sag om et foreningstilskud; Demokraatit og IA har fortsat flertal med 18 af 31 mandater.",
+      "publisher": "DR",
+      "section": "Politik",
+      "publishedAt": "2026-11-09T20:43:00Z"
+    },
+    {
+      "text": "Restriktioner i luftrummet over København frem til torsdag",
+      "url": "https://www.dr.dk/nyheder/seneste/restriktioner-i-luftrummet-over-koebenhavn-frem-til-torsdag",
+      "headline": "Restriktioner i luftrummet over København frem til torsdag",
+      "summary": "Fra klokken 19 i går til torsdag morgen klokken 7 er luftrummet over store dele af København og hele Amager lukket for droner uden politiets tilladelse.",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-11-09T14:20:00Z"
+    },
+    {
+      "text": "Troede hun blev europamester… Men så traf arrangører 'respektløs' beslutning",
+      "url": "https://www.dr.dk/sporten/cykling/troede-hun-blev-europamester-men-saa-traf-arrangoerer-respektloes-beslutning",
+      "headline": "Troede hun blev europamester… Men så traf arrangører 'respektløs' beslutning",
+      "summary": "Den luxembourgske cyklist Marie Schreiber kom først over målstregen ved EM i cyklocross, men blev degraderet til andenpladsen for angiveligt ikke at holde sin linje i spurten.",
+      "publisher": "DR Sporten",
+      "section": "Sport",
+      "publishedAt": "2026-11-09T09:15:43Z"
+    },
+    {
+      "text": "Eksperter ønsker ikke, at Vingegaard gentager Giro-projekt",
+      "url": "https://sport.tv2.dk/cykling/2026-11-09-eksperter-oensker-ikke-at-vingegaard-gentager-giro-projekt",
+      "headline": "Eksperter ønsker ikke, at Vingegaard gentager Giro-projekt",
+      "summary": "Cykeleksperter Rolf Sørensen og Lars Bak fraråder Jonas Vingegaard at bruge Giro d'Italia som optakt til Touren igen og peger på, at han skal være mere 'punchy' for at slå Tadej Pogačar.",
+      "publisher": "TV 2 Sport",
+      "section": "Sport",
+      "publishedAt": "2026-11-09T21:07:54Z"
+    },
+    {
+      "text": "Teenager bliver yngste PGA-vinder siden 1931",
+      "url": "https://sport.tv2.dk/golf/2026-11-09-teenager-bliver-yngste-pga-vinder-siden-1931",
+      "headline": "Teenager bliver yngste PGA-vinder siden 1931",
+      "summary": "19-årige Blades Brown fra Tennessee vandt World Wide Technology Championship i Mexico efter en omspilsejr og er dermed den yngste PGA Tour-vinder siden 1931.",
+      "publisher": "TV 2 Sport",
+      "section": "Sport",
+      "publishedAt": "2026-11-09T08:19:13Z"
+    },
+    {
+      "text": "Uniteds krise nager Dorgu trods stærkt comeback",
+      "url": "https://avisendanmark.dk/sport/uniteds-krise-nager-dorgu-trods-staerkt-comeback",
+      "headline": "Uniteds krise nager Dorgu trods stærkt comeback",
+      "summary": "Patrick Dorgu leverede en assist og scorede selv udligningen, da Manchester United spillede 4-4 mod Aston Villa, men klubbens krise fortsætter trods comebacket.",
+      "publisher": "Avisen Danmark (Ritzau)",
+      "section": "Sport",
+      "publishedAt": "2026-11-09T00:05:05Z"
+    },
+    {
+      "text": "Endnu en anholdelse efter voldsomt hjemmerøveri om Pokémon-kort",
+      "url": "https://www.dr.dk/nyheder/indland/endnu-en-anholdelse-efter-voldsomt-hjemmeroeveri-om-pokemon-kort",
+      "headline": "Endnu en anholdelse efter voldsomt hjemmerøveri om Pokémon-kort",
+      "summary": "En 25-årig mand er anholdt i Sverige og udleveret til Danmark som den anden mistænkte i sagen om et voldsomt hjemmerøveri i Faxe Ladeplads, hvor et ældre ægtepar blev stukket med kniv for en samling Pokémon-kort.",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-11-09T13:54:00Z"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-fireandice-20261110",
+      "mode": "experience",
+      "kind": "udstilling",
+      "status": "timely",
+      "title": "Fire & Ice: On Belonging and Becoming in Kalaallit Nunaat (Greenland)",
+      "creator": "Otte grønlandsk-forankrede kunstnere",
+      "provider": "Copenhagen Contemporary",
+      "url": "https://copenhagencontemporary.org/en/fire-ice",
+      "availability": "Til og med 31. december 2026, Refshaleøen, København",
+      "commitment": "1-2 timer",
+      "description": "Gruppeudstilling med otte grønlandsk-forankrede kunstnere – blandt andre Inuuteq Storch og Julie Edel Hardenberg – der gennem visuel kunst, performance og litteratur udforsker identitet, tilhørsforhold og kolonial arv i Grønland.",
+      "rationale": "En dansker med årtiers erfaring i international handelspolitik møder her Grønland fra en helt anden vinkel end forhandlingsbordet: ikke som strategisk aktiv, men som de mennesker, debatten handler om.",
+      "topics": [
+        "grønland",
+        "kunst",
+        "identitet"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://pub-9197c3231b124e16ba861d7731d9ca6c.r2.dev/Fire-and-Ice_Copenhagen-Contemporary_012_Photo-by-David-Stjernholm-1400x950.webp",
+        "credit": "Foto: David Stjernholm / Copenhagen Contemporary",
+        "alt": "Værker fra udstillingen Fire & Ice om grønlandsk identitet og tilhørsforhold.",
+        "sourceUrl": "https://copenhagencontemporary.org/en/fire-ice"
+      }
+    },
+    {
+      "id": "rec-hbrideacast-20261110",
+      "mode": "listen",
+      "kind": "podcast",
+      "status": "available",
+      "title": "How AI Is Changing Strategy: Rethinking What Your Business Is Designed to Do",
+      "creator": "Ethan Mollick (Wharton)",
+      "provider": "Harvard Business Review",
+      "url": "https://hbr.org/podcast/2026/10/how-ai-is-changing-strategy-rethinking-what-your-business-is-designed-to-do",
+      "commitment": "ca. 30 minutter",
+      "description": "Wharton-professor Ethan Mollick om, hvordan AI tvinger virksomheder til at redesigne deres organisation frem for blot at bruge AI som et produktivitetsværktøj, og hvilke menneskelige kompetencer der bliver mere værdifulde.",
+      "rationale": "Direkte i krydsfeltet mellem AI's effekt på erhvervslivet og ledelse – de to emner, han har fulgt tættest siden sin tid i erhvervslivets top.",
+      "topics": [
+        "ai",
+        "ledelse",
+        "strategi"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-powerofcycling-20261110",
+      "mode": "watch",
+      "kind": "filmserie",
+      "status": "available",
+      "title": "The Power of Cycling",
+      "provider": "European Cyclists' Federation",
+      "url": "https://contentwithpurpose.co.uk/ecf/thepowerofcycling/",
+      "commitment": "korte film, 10-20 minutter hver",
+      "description": "Gratis digital filmserie fra European Cyclists' Federation om cykling som mobilitets- og infrastrukturemne: sundhed, bytransport og grænseoverskridende samarbejde på tværs af 15 partnerlande.",
+      "rationale": "Forener hans cykelinteresse med den infrastruktur- og mobilitetsvinkel, han kender fra erhvervspolitikken – cykling behandlet som systemisk spørgsmål, ikke kun som sport.",
+      "topics": [
+        "cykling",
+        "mobilitet",
+        "økonomi"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-mmai-20261110",
+      "mode": "read",
+      "kind": "artikel",
+      "status": "classic",
+      "title": "Erhvervslivet ejer fortællingen om AI",
+      "creator": "Lisbeth Knudsen",
+      "provider": "Mandag Morgen",
+      "url": "https://www.mm.dk/artikel/erhvervslivet-ejer-fortaellingen-om-ai",
+      "commitment": "10 minutter",
+      "description": "Baseret på en analyse af cirka 30.000 danske artikler om AI: erhvervslivet leverer knap 40 procent af alle citater i dansk AI-dækning, mod 14 procent fra forskere og omkring 7 procent fra fagbevægelsen.",
+      "rationale": "En medie-kritisk kontrapunkt til den vækst- og innovationsfortælling om AI, han møder dagligt i erhvervspressen – relevant for en, der selv har stået i den fortælling.",
+      "topics": [
+        "ai",
+        "medier",
+        "erhverv"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://www.mm.dk/cdn-cgi/image/fit=crop,w=2048,f=jpeg,q=80/https://legacy.mm.dk/images/article/20722/23269.jpg",
+        "credit": "Kilde: Mandag Morgen",
+        "alt": "Illustration til Mandag Morgens analyse af AI-dækningen i danske medier.",
+        "sourceUrl": "https://www.mm.dk/artikel/erhvervslivet-ejer-fortaellingen-om-ai"
+      }
+    }
+  ],
+  "quality": {
+    "editorialConfidence": 80,
+    "sourceDiversity": 75
+  }
+}
