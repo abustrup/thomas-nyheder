@@ -1,0 +1,761 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-20261111",
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-11T07:10:00Z",
+  "readingMinutes": 10,
+  "title": "Thomas' Nyheder",
+  "dek": "Zelenskyjs besøg og en ny Ukraine-donation, det største ebolaudbrud i DR Congos historie, EU's forenklingsbølge, dansk eksports stigende koncentration, en grønlandsk ministers afgang, kampen om fysisk magt i skolen og en dansk cykelkarriere, der slutter midt i opturen.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-ukraine-aid-20261111",
+      "eventKey": "ukraine-aid-32-pakke-20261110",
+      "materialFacts": [
+        "Danmark sender sin 32. donationspakke til Ukraine: 4,8 mia. kr. i militærstøtte plus 150 mio. kr. ekstra til energisektoren",
+        "Beslutningen falder samme dag som Zelenskyjs besøg i Danmark, hvor han mødtes med nordiske ledere og fik audiens hos Kong Frederik"
+      ],
+      "section": "Udenrigspolitik",
+      "headline": "Danmark i ny milliarddonation til Ukraine",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/seneste/danmark-i-ny-milliarddonation-til-ukraine",
+      "subheadline": "32. donationspakke på 4,95 mia. kr. falder, samme dag som Zelenskyj besøger Danmark og får audiens hos kongen",
+      "body": [
+        "Danmark sender sin 32. donationspakke til Ukraine: 4,8 milliarder kroner i militærstøtte og yderligere 150 millioner kroner til at beskytte den ukrainske energisektor gennem vinteren. Udenrigsminister Lars Løkke Rasmussen meddelte beslutningen efter et møde i Det Udenrigspolitiske Nævn.",
+        "Beslutningen falder samme dag som Ukraines præsident Volodymyr Zelenskyj besøger Danmark. Han mødes med statsminister Mette Frederiksen og nordiske regeringsledere og får audiens hos Kong Frederik, i et besøg der ifølge DR handler om luftforsvar og beskyttelse af Ukraines energiinfrastruktur."
+      ],
+      "whyItMatters": "Løkke Rasmussen begrundede timingen med forholdene i Ukraine: »Folk fryser allerede i Ukraine. Der er strømafbrydelser på et niveau, vi ikke har set siden krigen startede,« sagde han og kædede donationen sammen med Zelenskyjs besøg som et signal om, at Danmark kan regnes med.",
+      "analysis": "Med 32 pakker siden 2022 er dansk Ukraine-støtte nu en fast post snarere end en undtagelse, og vægten på energistøtte frem for kun våben afspejler, at krigen går ind i sin femte vinter med civil robusthed som et selvstændigt slagmark.",
+      "topics": [
+        "udenrigspolitik",
+        "ukraine",
+        "forsvar"
+      ],
+      "entities": [
+        "Lars Løkke Rasmussen",
+        "Volodymyr Zelenskyj",
+        "Mette Frederiksen",
+        "Kong Frederik"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 80,
+        "decisionValue": 70,
+        "novelty": 55,
+        "sourceQuality": 70,
+        "personalRelevance": 35,
+        "contrast": 30
+      },
+      "claims": [
+        {
+          "text": "Danmark sender en 32. donationspakke på 4,8 mia. kr. i militærstøtte plus 150 mio. kr. til Ukraines energisektor.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/seneste/danmark-i-ny-milliarddonation-til-ukraine"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Zelenskyj besøgte Danmark samme dag, mødtes med statsministeren og nordiske ledere, og fik audiens hos Kong Frederik.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/seneste/zelenskyj-laegger-i-dag-vejen-forbi-danmark"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Danmark i ny milliarddonation til Ukraine",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/seneste/danmark-i-ny-milliarddonation-til-ukraine",
+          "publishedAt": "2026-11-10T10:03:45Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Zelenskyj lægger i dag vejen forbi Danmark",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-laegger-i-dag-vejen-forbi-danmark",
+          "publishedAt": "2026-11-10T08:14:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Volodymyr_Zelenskyy_speaking_during_the_2026_NATO_Summit_in_Ankara%2C_T%C3%BCrkiye.jpg/1920px-Volodymyr_Zelenskyy_speaking_during_the_2026_NATO_Summit_in_Ankara%2C_T%C3%BCrkiye.jpg",
+        "credit": "Foto: Dati Bendo / EU, 2026 (CC BY 4.0)",
+        "alt": "Ukraines præsident Volodymyr Zelenskyj taler ved et podium under NATO-topmødet i Ankara, 2026",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelenskyy_speaking_during_the_2026_NATO_Summit_in_Ankara,_T%C3%BCrkiye.jpg"
+      }
+    },
+    {
+      "id": "story-ebola-drc-20261111",
+      "eventKey": "ebola-drc-udbrud-20261106",
+      "materialFacts": [
+        "Største ebolaudbrud (Bundibugyo-virus) nogensinde registreret i DR Congo: 10.668 bekræftede tilfælde, 5.198 døde pr. 3. november",
+        "Smitte eksporteret til Kenya (9 tilfælde, 2 døde) og Nigeria (1 tilfælde, evakueret)"
+      ],
+      "section": "Global sundhed",
+      "headline": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo, Kenya and Nigeria",
+      "primarySourceUrl": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON625",
+      "subheadline": "WHO: 10.668 smittede og 5.198 døde gør udbruddet til det største ebolaudbrud, der nogensinde er registreret i DR Congo",
+      "body": [
+        "WHO betegner det igangværende ebolaudbrud i DR Congo, forårsaget af Bundibugyo-virus, som det største nogensinde registreret i landet. Pr. 3. november er der 10.668 bekræftede tilfælde og 5.198 døde — en dødelighed på 48,7 procent.",
+        "Smitten har krydset grænser: Kenya har ni tilfælde og to døde, Nigeria ét tilfælde, hvor patienten blev evakueret. Tidligere smittekæder i Frankrig og Uganda er allerede under kontrol."
+      ],
+      "whyItMatters": "Udbruddet blev erklæret 15. maj, og WHO fraråder eksplicit rejse- eller handelsrestriktioner mod de ramte lande — en afvejning af smitterisiko mod de økonomiske skader, restriktioner typisk påfører.",
+      "analysis": "At udbruddet kan spredes til fire lande og stadig holdes nogenlunde under kontrol, viser både fremskridt i beredskabet siden 2014 og hvor skrøbelig den kontrol er i et land med 51 aktive sundhedszoner.",
+      "topics": [
+        "sundhed",
+        "afrika",
+        "global-sundhed"
+      ],
+      "entities": [
+        "WHO",
+        "DR Congo",
+        "Bundibugyo-virus",
+        "Kenya",
+        "Nigeria"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 85,
+        "decisionValue": 40,
+        "novelty": 60,
+        "sourceQuality": 90,
+        "personalRelevance": 10,
+        "contrast": 70
+      },
+      "claims": [
+        {
+          "text": "WHO betegner udbruddet som det største ebolaudbrud nogensinde registreret i DR Congo, med 10.668 tilfælde og 5.198 døde pr. 3. november 2026.",
+          "sourceUrls": [
+            "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON625"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Smitte er eksporteret til Kenya (9 tilfælde, 2 døde) og Nigeria (1 tilfælde, evakueret); tidligere kæder i Frankrig og Uganda er kontrolleret.",
+          "sourceUrls": [
+            "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON625"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo, Kenya and Nigeria",
+          "publisher": "WHO",
+          "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON625",
+          "publishedAt": "2026-11-06T12:00:00Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Nurses_in_Ebola_isolation_ward%2C_Kikwit_1995.png/1920px-Nurses_in_Ebola_isolation_ward%2C_Kikwit_1995.png",
+        "credit": "Foto: Ethleen Lloyd / CDC (public domain)",
+        "alt": "Arkivfoto: Sygeplejersker i et ebola-isolationsafsnit på et hospital i det daværende Zaire, nu DR Congo, under et tidligere udbrud",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nurses_in_Ebola_isolation_ward,_Kikwit_1995.png"
+      }
+    },
+    {
+      "id": "story-eu-forenkling-20261111",
+      "eventKey": "eu-arbejdsprogram-2027-20261105",
+      "materialFacts": [
+        "Kommissionens arbejdsprogram for 2027 indeholder under halvt så mange nye forslag som året før; energiskat og grøn mærkning droppes",
+        "Samtidig trådte den forenklede ESRS-bæredygtighedsrapportering (CSRD-omnibus) i kraft 10. november"
+      ],
+      "section": "EU og konkurrencekraft",
+      "headline": "Von der Leyen skruer ned for blusset og dropper forslag om energiskat og grøn mærkning",
+      "primarySourceUrl": "https://www.altinget.dk/eu/artikel/von-der-leyen-skruer-ned-for-blusset-og-dropper-forslag-om-energiskat-og-groen-maerkning",
+      "subheadline": "Kommissionens 2027-program halverer antallet af nye forslag, og en forenklet bæredygtighedsrapportering trådte i kraft samme uge",
+      "body": [
+        "Kommissionens arbejdsprogram for 2027 indeholder under halvt så mange nye forslag som året før. Forslag om energiskat og grøn mærkning udgår helt. Handelskommissær Maroš Šefčovič: »Det, vi hører fra virksomheder og regeringer på tværs af Europa, er et ønske om forenkling af reglerne, ikke flere regler.«",
+        "Programmet lander samme uge som en konkret udmøntning: Kommissionens forordning om forenklede ESRS-rapporteringsstandarder under CSRD trådte i kraft 10. november, gældende fra regnskabsåret 2027."
+      ],
+      "whyItMatters": "Grønne organisationer og politikere kritiserer ifølge Altinget Kommissionen for at vælge forenkling og industrielle interesser frem for miljøambition.",
+      "analysis": "Det er den europæiske konkurrencekraftsdagsorden — Draghi-rapportens arv omsat i konkrete omnibus-pakker — som dansk erhvervsliv og BusinessEurope har presset på for i flere år.",
+      "topics": [
+        "eu-konkurrencekraft",
+        "regulering",
+        "csrd"
+      ],
+      "entities": [
+        "Ursula von der Leyen",
+        "Maroš Šefčovič",
+        "Europa-Kommissionen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 40,
+        "novelty": 55,
+        "sourceQuality": 65,
+        "personalRelevance": 80,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "Kommissionens 2027-arbejdsprogram indeholder under halvt så mange nye forslag som sidste år og dropper forslag om energiskat og grøn mærkning.",
+          "sourceUrls": [
+            "https://www.altinget.dk/eu/artikel/von-der-leyen-skruer-ned-for-blusset-og-dropper-forslag-om-energiskat-og-groen-maerkning"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Šefčovič citeres for at sige, at virksomheder og regeringer ønsker forenkling, ikke flere regler.",
+          "sourceUrls": [
+            "https://www.altinget.dk/eu/artikel/von-der-leyen-skruer-ned-for-blusset-og-dropper-forslag-om-energiskat-og-groen-maerkning"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Kommissionens delegerede forordning (EU) 2026/1563 om forenklet ESRS-rapportering trådte i kraft 10. november 2026 og gælder fra regnskabsåret 2027.",
+          "sourceUrls": [
+            "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601563"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Von der Leyen skruer ned for blusset og dropper forslag om energiskat og grøn mærkning",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/eu/artikel/von-der-leyen-skruer-ned-for-blusset-og-dropper-forslag-om-energiskat-og-groen-maerkning",
+          "publishedAt": "2026-11-05T01:00:00.000Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Commission Delegated Regulation (EU) 2026/1563",
+          "publisher": "EUR-Lex / Den Europæiske Unions Tidende",
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601563",
+          "publishedAt": "2026-11-10T00:00:00.000Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://legacy.altinget.dk/images/article/307447/162962.jpg",
+        "credit": "Kilde: Altinget",
+        "alt": "Von der Leyen skruer ned for blusset og dropper forslag om energiskat og grøn mærkning",
+        "sourceUrl": "https://www.altinget.dk/eu/artikel/von-der-leyen-skruer-ned-for-blusset-og-dropper-forslag-om-energiskat-og-groen-maerkning"
+      }
+    },
+    {
+      "id": "story-dansk-eksport-20261111",
+      "eventKey": "dansk-eksport-koncentration-20261109",
+      "materialFacts": [
+        "Virksomheder med 250+ ansatte eksporterede varer for 496 mia. kr. i 2025 — en stigning på 79 mia. kr. fra 2023 — og står for lige over halvdelen af vareeksporten",
+        "Samlet eksport af varer og tjenester steg 4,4 pct. til 204,3 mia. kr. i september 2026"
+      ],
+      "section": "Erhverv og eksport",
+      "headline": "Store virksomheder dominerer dansk eksport",
+      "primarySourceUrl": "https://www.dst.dk/da/Statistik/nyt/NytHtml?cid=58439",
+      "subheadline": "Danmarks Statistik: de største virksomheder eksporterede for 496 mia. kr. i 2025, mens den samlede eksport fortsat stiger",
+      "body": [
+        "Danske virksomheder med mindst 250 ansatte eksporterede varer for 496 milliarder kroner i 2025 — op 79 milliarder siden 2023 — og tegner sig nu for lige over halvdelen af vareeksporten, viser tal fra Danmarks Statistik. De samme virksomheder står for 60 procent af serviceeksporten.",
+        "Tallene kommer samme uge som Danmarks Statistik melder om fortsat fremgang: samlet eksport af varer og tjenester steg 4,4 procent til 204,3 milliarder kroner i september, drevet af en stigning i vareeksporten på 6,1 procent."
+      ],
+      "whyItMatters": "Koncentrationen betyder, at eksportvæksten i stigende grad afhænger af et fåtal store koncerner — en sårbarhed, der blev synlig i september, da medicinalindustrien alene stod for 10 procents vækst mod 2 procent i resten af industrien.",
+      "analysis": "For en eksportmaskine, der hviler på få koncerner, er spørgsmålet ikke om væksten fortsætter, men hvor robust den er over for et enkelt selskabs modvind.",
+      "topics": [
+        "erhverv",
+        "eksport",
+        "makrooekonomi"
+      ],
+      "entities": [
+        "Danmarks Statistik"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 45,
+        "novelty": 55,
+        "sourceQuality": 80,
+        "personalRelevance": 75,
+        "contrast": 25
+      },
+      "claims": [
+        {
+          "text": "Virksomheder med 250+ ansatte eksporterede varer for 496 mia. kr. i 2025, en stigning på 79 mia. kr. fra 2023, og udgør lige over halvdelen af vareeksporten samt 60 pct. af serviceeksporten.",
+          "sourceUrls": [
+            "https://www.dst.dk/da/Statistik/nyt/NytHtml?cid=58439"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Samlet eksport af varer og tjenester steg 4,4 pct. til 204,3 mia. kr. i september 2026; vareeksporten alene steg 6,1 pct.",
+          "sourceUrls": [
+            "https://www.dst.dk/da/Statistik/udgivelser/NytHtml?cid=53427"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Industriproduktionen steg 4,8 pct. i september, men medicinalindustrien alene steg 10 pct. mod 2 pct. for resten af industrien.",
+          "sourceUrls": [
+            "https://www.dst.dk/da/Statistik/udgivelser/NytHtml?cid=53376"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Store virksomheder dominerer dansk eksport",
+          "publisher": "Danmarks Statistik",
+          "url": "https://www.dst.dk/da/Statistik/nyt/NytHtml?cid=58439",
+          "publishedAt": "2026-11-09T12:00:00Z",
+          "kind": "primary"
+        },
+        {
+          "title": "Eksporten steg i september",
+          "publisher": "Danmarks Statistik",
+          "url": "https://www.dst.dk/da/Statistik/udgivelser/NytHtml?cid=53427",
+          "publishedAt": "2026-11-09T12:00:00Z",
+          "kind": "primary"
+        },
+        {
+          "title": "Industriproduktionen steg i september",
+          "publisher": "Danmarks Statistik",
+          "url": "https://www.dst.dk/da/Statistik/udgivelser/NytHtml?cid=53376",
+          "publishedAt": "2026-11-06T12:00:00Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://www.dst.dk/site/dst/udgivelser/nyt/getimage.aspx?cid=58439",
+        "credit": "Kilde: Danmarks Statistik",
+        "alt": "Store virksomheder dominerer dansk eksport",
+        "sourceUrl": "https://www.dst.dk/da/Statistik/nyt/NytHtml?cid=58439"
+      }
+    },
+    {
+      "id": "story-groenland-minister-20261111",
+      "eventKey": "groenland-nivi-olsen-afgang-20261110",
+      "materialFacts": [
+        "Nivi Olsen (Demokraatit) går af som grønlandsk minister for uddannelse, kultur, idræt og kirke",
+        "Afgangen følger efter at koalitionspartneren Atassut forlod regeringskoalitionen og krævede hendes afgang i en sag om foreningstilskud"
+      ],
+      "section": "Grønland",
+      "headline": "Grønlandsk minister træder tilbage",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/seneste/groenlandsk-minister-traeder-tilbage",
+      "subheadline": "Nivi Olsen går af som minister, efter Atassut forlod koalitionen og krævede hendes afgang i en tilskudssag",
+      "body": [
+        "Nivi Olsen fra Demokraatit går af som grønlandsk minister for uddannelse, kultur, idræt og kirke. Afgangen kommer dagen efter, at koalitionspartneren Atassut forlod regeringskoalitionen og krævede hendes afgang i en sag om tilskud til en forening.",
+        "Olsen kom ifølge DR ikke nærmere ind på årsagen, men sagde, at det »har været en stor ære« at have posten. Hun afviste først kravet, men vendte beslutningen dagen efter."
+      ],
+      "whyItMatters": "En koalitionspartners exit og en ministers afgang inden for to dage er usædvanligt tempo selv for grønlandsk politik og lægger pres på resten af Naalakkersuisut om at vise, koalitionen kan holde.",
+      "analysis": "Sagen handler på overfladen om et foreningstilskud, men den reelle historie er, hvor skrøbeligt magtgrundlaget i Nuuk er, når et lille parti kan vælte en minister ved at forlade koalitionen.",
+      "topics": [
+        "groenland",
+        "politik"
+      ],
+      "entities": [
+        "Nivi Olsen",
+        "Atassut",
+        "Naalakkersuisut",
+        "Demokraatit"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 60,
+        "decisionValue": 45,
+        "novelty": 70,
+        "sourceQuality": 70,
+        "personalRelevance": 25,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Nivi Olsen (Demokraatit), grønlandsk minister for uddannelse, kultur, idræt og kirke, går af, efter Atassut forlod koalitionen og krævede hendes afgang i en sag om foreningstilskud.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/seneste/groenlandsk-minister-traeder-tilbage"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Grønlandsk minister træder tilbage",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/seneste/groenlandsk-minister-traeder-tilbage",
+          "publishedAt": "2026-11-10T12:13:24Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/mq5drhlt/20260126-213237-1-4351x5504ma_crop001.jpg?im=SmartCrop%2Csize%3D%28700%2C394%29",
+        "credit": "Kilde: DR",
+        "alt": "Nivi Olsen, der går af som grønlandsk minister for uddannelse, kultur, idræt og kirke",
+        "sourceUrl": "https://www.dr.dk/nyheder/seneste/groenlandsk-minister-traeder-tilbage"
+      }
+    },
+    {
+      "id": "story-laerer-magt-20261111",
+      "eventKey": "laerer-fysisk-magt-lovforslag-20261110",
+      "materialFacts": [
+        "Folketinget behandler lovforslag, der åbner for mere fysisk magtanvendelse for lærere over for elever",
+        "Flere organisationer advarer om, at det vil normalisere fysisk magt som redskab, også over for børn med behov for pædagogisk støtte"
+      ],
+      "section": "Danmark",
+      "headline": "Regeringen vil give lærere mere fysisk magt i skolen",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/reels/regeringen-vil-give-laerere-mere-fysisk-magt-i-skolen",
+      "subheadline": "Folketinget behandler lovforslag om mere fysisk magt til lærere, mens en familie fortæller om eftervirkningerne af en fastholdelse",
+      "body": [
+        "Folketinget behandler i dag et lovforslag, der åbner for mere fysisk magt fra lærere over for elever. Organisationer advarer om, at det vil gøre fysisk magt til et almindeligt redskab — også over for børn med behov for pædagogisk støtte.",
+        "Samme dag fortæller 14-årige Magnus Ivarsens mor til DR, at sønnen blev holdt fast af tre lærere for to år siden efter at svinge en kæp i vrede. Hun beskriver varige panikanfald."
+      ],
+      "whyItMatters": "Debatten rammer en afvejning: lærere efterspørger redskaber mod elever, der mister kontrollen, mens kritikere frygter, at fysisk indgriben skader netop de børn, loven skal beskytte andre imod.",
+      "counterpoint": "Magnus' sag illustrerer frygten: en fastholdelse ment som akut håndtering efterlod et barn, der mistede tilliden til de voksne.",
+      "analysis": "At forslaget fremsættes, mens en sag om eftervirkninger når offentligheden, sætter afvejningen mellem læreres vilkår og børns tryghed i et s",
+      "topics": [
+        "danmark",
+        "skole",
+        "politik"
+      ],
+      "entities": [
+        "Folketinget",
+        "Magnus Ivarsen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 50,
+        "novelty": 60,
+        "sourceQuality": 65,
+        "personalRelevance": 15,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Folketinget behandler et lovforslag, der åbner for mere fysisk magtanvendelse for lærere.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/reels/regeringen-vil-give-laerere-mere-fysisk-magt-i-skolen"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Organisationer advarer om, at forslaget vil gøre fysisk magt til et mere almindeligt redskab, også mod børn med behov for pædagogisk støtte.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/reels/regeringen-vil-give-laerere-mere-fysisk-magt-i-skolen"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "14-årige Magnus Ivarsen blev holdt fast af tre lærere for to år siden; moderen beskriver varige panikanfald siden.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/magnus-blev-holdt-nede-af-flere-laerere-jeg-foelte-ikke-jeg-kunne-stole-paa-dem-bagefter"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Regeringen vil give lærere mere fysisk magt i skolen",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/reels/regeringen-vil-give-laerere-mere-fysisk-magt-i-skolen",
+          "publishedAt": "2026-11-10T14:36:00Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Magnus blev holdt nede af flere lærere: 'Jeg følte ikke, jeg kunne stole på dem bagefter'",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/magnus-blev-holdt-nede-af-flere-laerere-jeg-foelte-ikke-jeg-kunne-stole-paa-dem-bagefter",
+          "publishedAt": "2026-11-10T11:50:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/hydra-odacache/api/Publication/Image/urn:dr:od3:clippublication:6af2ed6a4faffa000148d624?imageId=e383efd0-9c18-423f-9e5b-f6726c7ec1f5&impolicy=featurecrop",
+        "credit": "Kilde: DR",
+        "alt": "Regeringen vil give lærere mere fysisk magt i skolen",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/reels/regeringen-vil-give-laerere-mere-fysisk-magt-i-skolen"
+      }
+    },
+    {
+      "id": "story-price-pejtersen-20261111",
+      "eventKey": "price-pejtersen-stopper-20261110",
+      "materialFacts": [
+        "27-årige Johan Price-Pejtersen stopper karrieren efter mentale udfordringer og fysisk ubehag under træning",
+        "Tidligere U23-Europa- og verdensmester i enkeltstart, senest hos Alpecin"
+      ],
+      "section": "Sport",
+      "headline": "Dansker stopper karrieren som 27-årig",
+      "primarySourceUrl": "https://sport.tv2.dk/cykling/2026-11-10-dansker-stopper-karrieren-som-27-aarig",
+      "subheadline": "Enkeltstartsspecialisten Johan Price-Pejtersen stopper karrieren efter mentale udfordringer og fysisk ubehag under træning",
+      "body": [
+        "Johan Price-Pejtersen stopper sin cykelkarriere som 27-årig. Han meddeler det i podcasten Forhjulslir: »Det er en omvæltning, men det er også en beslutning, jeg har truffet for ret lang tid siden.« Han fortæller, at han har kæmpet med mentale problemer: »Hver gang jeg kørte ud og trænede, havde jeg det som om, jeg havde spist noget dårligt til morgenmad. Som om, jeg skulle kaste op.«",
+        "Han var tidligere Europa- og verdensmester i enkeltstart i U23-rækken og kørte fem WorldTour-sæsoner, senest for Alpecin, hvis kontrakt udløber ved årets udgang."
+      ],
+      "whyItMatters": "Et stop midt i karrieren hos en tidligere mester er sjældent, og at han selv sætter ord på det mentale pres, føjer sig til flere ryttere, der taler åbent om, hvad der ligger bag resultaterne.",
+      "analysis": "Sagen er endnu et eksempel på, at cykelsportens belastning i stigende grad diskuteres som et mentalt såvel som fysisk vilkår.",
+      "topics": [
+        "sport",
+        "cykling",
+        "danske-sportsfolk"
+      ],
+      "entities": [
+        "Johan Price-Pejtersen",
+        "Alpecin"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 25,
+        "decisionValue": 10,
+        "novelty": 60,
+        "sourceQuality": 60,
+        "personalRelevance": 40,
+        "contrast": 30
+      },
+      "claims": [
+        {
+          "text": "Johan Price-Pejtersen (27) stopper karrieren og beskriver i podcasten Forhjulslir mentale udfordringer og fysisk ubehag under træning.",
+          "sourceUrls": [
+            "https://sport.tv2.dk/cykling/2026-11-10-dansker-stopper-karrieren-som-27-aarig"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Han var tidligere U23-Europa- og verdensmester i enkeltstart og har kørt fem WorldTour-sæsoner, senest for Alpecin.",
+          "sourceUrls": [
+            "https://sport.tv2.dk/cykling/2026-11-10-dansker-stopper-karrieren-som-27-aarig"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Dansker stopper karrieren som 27-årig",
+          "publisher": "TV 2",
+          "url": "https://sport.tv2.dk/cykling/2026-11-10-dansker-stopper-karrieren-som-27-aarig",
+          "publishedAt": "2026-11-10T18:16:00.810Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/7/5/3/753cdc7c-35c2-48ed-9d83-09f60ea3985b?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCwyNDMsNzM0Niw0MTQw&s=b20776eb77ed912f4ad954b042bf7aab",
+        "credit": "Kilde: TV 2",
+        "alt": "Johan Price-Pejtersen i enkeltstartsudstyr for Alpecin under et løb",
+        "sourceUrl": "https://sport.tv2.dk/cykling/2026-11-10-dansker-stopper-karrieren-som-27-aarig"
+      }
+    }
+  ],
+  "signals": [
+    {
+      "text": "Maskerede rambuktyve bragede ind gennem port og stjal cykler for en million",
+      "headline": "Maskerede rambuktyve bragede ind gennem port og stjal cykler for en million",
+      "url": "https://www.dr.dk/nyheder/indland/maskerede-rambuktyve-bragede-ind-gennem-port-og-stjal-cykler-en-million",
+      "summary": "Maskerede gerningsmænd kørte en varevogn gennem porten til en cykelbutik i Højbjerg og stjal 11-12 cykler til op mod 100.000 kr. stykket på cirka tre minutter.",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-11-10T18:41:00Z"
+    },
+    {
+      "text": "Mariah Carey kommer til Sønderborg: Sådan booker du en verdensstjerne",
+      "headline": "Mariah Carey kommer til Sønderborg: Sådan booker du en verdensstjerne",
+      "url": "https://www.dr.dk/nyheder/indland/mariah-carey-kommer-til-soenderborg-saadan-booker-du-en-verdensstjerne",
+      "summary": "Mariah Carey spiller Mølleparken i Sønderborg næste sommer — hendes eneste danske koncert og første show i Danmark i otte år.",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-11-10T12:41:00Z"
+    },
+    {
+      "text": "Præst og teolog har læst det nye fadervor. Her er, hvad de især hæfter sig ved",
+      "headline": "Præst og teolog har læst det nye fadervor. Her er, hvad de især hæfter sig ved",
+      "url": "https://www.dr.dk/nyheder/indland/praest-og-teolog-har-laest-det-nye-fadervor-her-er-hvad-de-isaer-haefter-sig-ved",
+      "summary": "En ny prøveoversættelse ændrer »Vor Fader« til »Vores far«; sigtet er officiel vedtagelse i 2036 ved reformationsjubilæet.",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-11-10T20:15:00Z"
+    },
+    {
+      "text": "Elefantunge født i Zoologisk Have en måned før tid",
+      "headline": "Elefantunge født i Zoologisk Have en måned før tid",
+      "url": "https://www.dr.dk/nyheder/seneste/elefantunge-foedt-i-zoologisk-have-en-maaned-foer-tid",
+      "summary": "Elefanten Surin fødte en cirka 100 kg han-kalv en måned for tidligt; zoodirektøren siger, kalven virker sund.",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-11-10T11:32:14Z"
+    },
+    {
+      "text": "Klimarådet får ny forperson",
+      "headline": "Klimarådet får ny forperson",
+      "url": "https://www.dr.dk/nyheder/seneste/klimaraadet-faar-ny-forperson",
+      "summary": "Professor Bo Jellesmark Thorsen overtager som formand for Klimarådet efter Peter Møllgaard, hvis otteårige åremål er udløbet.",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-11-10T11:40:33Z"
+    },
+    {
+      "text": "Commission approves €2 billion Belgian State aid to support offshore wind energy",
+      "headline": "Commission approves €2 billion Belgian State aid to support offshore wind energy",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2373",
+      "summary": "Europa-Kommissionen godkender 2 mia. euro belgisk statsstøtte til havvind under Clean Industrial Deal State Aid Framework.",
+      "publisher": "Europa-Kommissionen",
+      "section": "EU",
+      "publishedAt": "2026-11-10T12:00:00Z"
+    },
+    {
+      "text": "Monetary policy decisions",
+      "headline": "Monetary policy decisions",
+      "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
+      "summary": "ECB holder indlånsrenten på 2,50 pct.; samtidig meddeler Christine Lagarde, at hun går af som ECB-chef fra 7. februar 2027.",
+      "publisher": "ECB",
+      "section": "Makroøkonomi",
+      "publishedAt": "2026-10-29T12:00:00Z"
+    },
+    {
+      "text": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
+      "headline": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "summary": "Anthropic lancerer Fable 5.2 (offentlig) og Mythos 5.2 (godkendte organisationer), der ifølge selskabet slår Opus 5.5 på de fleste testede benchmarks.",
+      "publisher": "Anthropic",
+      "section": "Teknologi",
+      "publishedAt": "2026-11-09T12:00:00Z"
+    },
+    {
+      "text": "Rune sejrer i Stockholm-comeback",
+      "headline": "Rune sejrer i Stockholm-comeback",
+      "url": "https://tv2.dk/sport/reel/2026-11-10-rune-sejrer-i-stockholm-comeback-6408202238112",
+      "summary": "Holger Rune slog Zizou Bergs 2-0 i første runde af Stockholm Open — comeback på stedet, hvor han sprængte achillessenen i oktober 2025.",
+      "publisher": "TV 2",
+      "section": "Sport",
+      "publishedAt": "2026-11-10T12:00:00Z"
+    },
+    {
+      "text": "Helligkilde og Lewis deler føringen på DP World Tour Tourskolen",
+      "headline": "Helligkilde og Lewis deler føringen på DP World Tour Tourskolen",
+      "url": "https://www.19hul.dk/helligkilde-og-lewis-deler-foeringen-paa-dp-world-tour-tourskolen",
+      "summary": "Marcus Helligkilde deler føringen efter femte runde af Tour-skolen i Spanien; den afgørende sidste runde spilles i dag.",
+      "publisher": "19hul.dk",
+      "section": "Sport",
+      "publishedAt": "2026-11-11T12:00:00Z"
+    },
+    {
+      "text": "Derfor er Michael Carrick færdig i Manchester United",
+      "headline": "Derfor er Michael Carrick færdig i Manchester United",
+      "url": "https://www.plbold.dk/nyhed/derfor-er-michael-carrick-faerdig-i-manchester-united-2",
+      "summary": "United ligger nummer 18 med 8 point fra 10 kampe; ifølge The Athletic ventes Carrick fyret inden for 12 dage, med Mauricio Pochettino nævnt som afløser.",
+      "publisher": "PLBold",
+      "section": "Sport",
+      "publishedAt": "2026-11-10T12:00:00Z"
+    },
+    {
+      "text": "Troede hun blev europamester… Men så traf arrangører 'respektløs' beslutning",
+      "headline": "Troede hun blev europamester… Men så traf arrangører 'respektløs' beslutning",
+      "url": "https://www.dr.dk/sporten/cykling/troede-hun-blev-europamester-men-saa-traf-arrangoerer-respektloes-beslutning",
+      "summary": "Marie Schreiber blev nedrykket til sølv efter en spurtlinje-straf ved cyclocross-EM; Brian Holm kalder det den største uretfærdighed, han har set.",
+      "publisher": "DR",
+      "section": "Sport",
+      "publishedAt": "2026-11-09T09:15:43Z"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-avedon-netflix-20261111",
+      "mode": "watch",
+      "kind": "Dokumentarfilm",
+      "status": "new",
+      "title": "Avedon",
+      "creator": "instr. Ron Howard",
+      "provider": "Netflix",
+      "url": "https://www.netflix.com/tudum/articles/avedon-release-date-news",
+      "availability": "Globalt på Netflix fra 11. november 2026",
+      "commitment": "1 t 44 min",
+      "description": "Ron Howards dokumentar om fotografen Richard Avedon bygger på hans personlige arkiv og nye interviews med tætte samarbejdspartnere om, hvordan hans portrætter formede det 20. århundredes billedsprog.",
+      "rationale": "En fotograf, der gjorde portrættet til en magtfuld, minimalistisk form, fortalt gennem materiale ingen har set før — relevant for enhver, der arbejder med, hvordan virksomheder og mennesker fremstiller sig selv offentligt.",
+      "topics": [
+        "kunst",
+        "fotografi",
+        "kultur"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://dnm.nflximg.net/api/v6/s0XAg4q_jvYbSSbLvySyUsliNSg/AAAAQXj0Nmmrt4rZERjhX4Wo7bzstwWlpJZv5XAnqCJLsHFcsfFSjCw0X-Xm_dHrqMKLh7_-2a1P7pzdUKx20rzbzSeWmwHymi3nIIDzScxCbpGtFvziUKCyV5EEkhaqZsW4DNLebMQb8VBvPu_nuSStK4uWQ28.jpg?r=03c",
+        "credit": "Kilde: Netflix/Tudum",
+        "alt": "Richard Avedon fotograferet ovenfra i sit studie, omgivet af store sort-hvide portrætværker",
+        "sourceUrl": "https://www.netflix.com/tudum/articles/avedon-release-date-news"
+      }
+    },
+    {
+      "id": "rec-tracey-emin-louisiana-20261111",
+      "mode": "experience",
+      "kind": "Kunstudstilling",
+      "status": "available",
+      "title": "Tracey Emin: A Second Life",
+      "creator": "Tracey Emin",
+      "provider": "Louisiana Museum of Modern Art",
+      "url": "https://louisiana.dk/en/exhibition/tracey-emin/",
+      "availability": "Humlebæk, 8. oktober 2026 – 18. april 2027",
+      "commitment": "1,5-2 timer",
+      "description": "Retrospektiv udstilling om Tracey Emin, tilrettelagt med kunstneren selv og Tate Modern, der spænder over næsten fire årtier af maleri, tekstil, skulptur og film.",
+      "rationale": "Et oplagt modstykke til dagens øvrige stof: kunst, der insisterer på det personlige og ubekvemme, fra en kunstner der har brugt et helt forfatterskab på at gøre sårbarhed til materiale — langt fra bestyrelseslokalet, og netop derfor et friskt pusterum.",
+      "topics": [
+        "kunst",
+        "kultur",
+        "serendipitet"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://louisiana.dk/wp-content/uploads/2026/05/7.-Tracey-Emin-The-End-of-Love-2024-©-Tracey-Emin.-Tate.-full_jpg-huge_jpg.jpg",
+        "credit": "Foto: © Tracey Emin, gengivet med tilladelse fra Tate",
+        "alt": "Tracey Emins maleri »The End of Love« (2024): en seng-lignende form i rødt og blåt med en sort kat siddende på en kommode",
+        "sourceUrl": "https://louisiana.dk/en/exhibition/tracey-emin/"
+      }
+    },
+    {
+      "id": "rec-pogacar-goat-doc-20261111",
+      "mode": "watch",
+      "kind": "Sportsdokumentar",
+      "status": "new",
+      "title": "Anatomy of a G.O.A.T.",
+      "creator": "TNT Sports/Eurosport Original",
+      "provider": "Eurosport 2 / HBO Max / TNT Sports",
+      "url": "https://www.advanced-television.com/2026/11/04/tnt-sports-eurosport-to-premiere-tadej-pogacar-doc-anatomy-of-a-g-o-a-t/",
+      "availability": "Eurosport 2 og HBO Max (Europa/USA); TNT Sports (Storbritannien/Irland). Haft premiere 7. november 2026.",
+      "commitment": "45 min",
+      "description": "Datadrevet portræt af Tadej Pogačar, der bruger præstationsdata fra hans træning sammen med interviews med Eddy Merckx og Alberto Contador til at forklare dominansen.",
+      "rationale": "Cykling er den sport i denne brief, der aldrig behøver en undskyldning — og en dokumentar, der forsøger at måle snarere end blot beundre den bedste rytter i feltet lige nu, passer præcist til den interesse.",
+      "topics": [
+        "sport",
+        "cykling"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-notebooklm-google-20261111",
+      "mode": "try",
+      "kind": "Værktøj",
+      "status": "available",
+      "title": "Do better research with NotebookLM",
+      "provider": "Google",
+      "url": "https://blog.google/innovation-and-ai/products/notebooklm/better-research-notebooklm/",
+      "availability": "Gratis med en Google-konto",
+      "commitment": "10 min at læse og prøve",
+      "description": "Googles egen gennemgang af NotebookLM-opdateringen: værktøjet kan nu køre kode i en isoleret notebook, generere PDF'er, Excel-ark og præsentationer og selv hente friske kilder fra nettet.",
+      "rationale": "For en der bygger en selvstændig rådgivningspraksis op fra bunden, er et værktøj, der kan destillere store mængder kildemateriale til brugbare dokumenter, en konkret produktivitetsgevinst snarere end endnu en AI-nyhed.",
+      "topics": [
+        "ai",
+        "produktivitet",
+        "konsulentarbejde"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {
+    "sourceCoverage": 90,
+    "freshness": 78,
+    "novelty": 75,
+    "perspectiveBalance": 85,
+    "render": 100
+  }
+}
