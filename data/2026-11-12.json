@@ -1,0 +1,729 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-20261112",
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T06:30:00Z",
+  "readingMinutes": 10,
+  "title": "Thomas' Nyheder",
+  "dek": "Zelenskyjs besøg og Projekt Freya, et databrud hos Mærsk, en ledelseskrise hos Nvidia og Danmarks digitale bagstræben på AI — samt USA's Senatsoverraskelse og en hospitalsangreb i Gaza.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-zelenskyj-freya-20261112",
+      "eventKey": "zelenskyj-danmark-projekt-freya-20261111",
+      "materialFacts": [
+        "Zelenskyj besøgte Danmark og mødtes med nordiske ledere",
+        "Danmark lancerer 'Projekt Freya' som alternativ til Patriot-systemet",
+        "Debat om Danmarks uforholdsmæssigt store bidrag til Ukraine"
+      ],
+      "section": "Udenrigs- og forsvarspolitik",
+      "headline": "Nyt våbenprojekt og et styrket Ukraine: Her er, hvad du skal tage med fra Zelenskyjs besøg",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/nyt-vaabenprojekt-og-et-styrket-ukraine-her-er-hvad-du-skal-tage-med-fra-zelenskyjs-besoeg",
+      "subheadline": "Et statsbesøg med en konkret industriel konsekvens: Danmark går selv ind i luftforsvar, og spørgsmålet om byrdefordeling i Ukraine-støtten skærpes",
+      "body": [
+        "Volodymyr Zelenskyj besøgte onsdag Danmark og mødtes med de nordiske statsministre på Marienborg. Resultatet er 'Projekt Freya' – et dansk initiativ til et alternativ til det amerikanske Patriot-luftforsvarssystem, som DR's forsvarskorrespondent kalder både ekstraordinært dyrt og underlagt amerikansk kontrol.",
+        "Besøget fulgte kort efter Danmarks 32. donation til Ukraine, 4,8 mia. kr. Danmark har nu doneret over 90 mia. kr. og er ifølge DR det EU-land, der har støttet mest målt på andel af BNP."
+      ],
+      "whyItMatters": "Et dansk forsvarsprojekt uden amerikansk kontrol er en strukturel beslutning – det rejser spørgsmål om hvem der skal bygge og eje fremtidens luftforsvar i Europa.",
+      "analysis": "Et stort budgetaftryk kombineret med en spirende debat om byrdefordeling betyder, at finansieringen af Ukraine-støtten nu er et selvstændigt dansk politisk spørgsmål, ikke kun et forsvarspolitisk.",
+      "counterpoint": "Et Patriot-alternativ har endnu ingen tidsplan eller prissat forpligtelse – 'Projekt Freya' er i dag en ambition, ikke en kontrakt.",
+      "topics": [
+        "udenrigspolitik",
+        "forsvar",
+        "ukraine"
+      ],
+      "entities": [
+        "Volodymyr Zelenskyj",
+        "Danmark",
+        "Ukraine"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 88,
+        "decisionValue": 70,
+        "novelty": 60,
+        "sourceQuality": 85,
+        "personalRelevance": 45,
+        "contrast": 50
+      },
+      "claims": [
+        {
+          "text": "Danmark lancerer 'Projekt Freya' som alternativ til det amerikanske Patriot-system",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/nyt-vaabenprojekt-og-et-styrket-ukraine-her-er-hvad-du-skal-tage-med-fra-zelenskyjs-besoeg"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Danmarks seneste donation er 4,8 mia. kr. (32. donation), samlet over 90 mia. kr., og Danmark er EU's største bidragyder målt på BNP",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/zelenskyj-rejser-hjem-med-flere-milliarder-hvorfor-skal-lille-danmark-bidrage-mest-til-ukraine"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Nyt våbenprojekt og et styrket Ukraine: Her er, hvad du skal tage med fra Zelenskyjs besøg",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/nyt-vaabenprojekt-og-et-styrket-ukraine-her-er-hvad-du-skal-tage-med-fra-zelenskyjs-besoeg",
+          "publishedAt": "2026-11-11T20:20:00Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Zelenskyj rejser hjem med flere milliarder: Hvorfor skal lille Danmark bidrage mest til Ukraine?",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/zelenskyj-rejser-hjem-med-flere-milliarder-hvorfor-skal-lille-danmark-bidrage-mest-til-ukraine",
+          "publishedAt": "2026-11-11T19:00:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/ftxdkv2i/20261111-134427-l-1920x1280web_crop001.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Volodymyr Zelenskyj på besøg i Danmark",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/nyt-vaabenprojekt-og-et-styrket-ukraine-her-er-hvad-du-skal-tage-med-fra-zelenskyjs-besoeg"
+      }
+    },
+    {
+      "id": "story-maersk-databrud-20261112",
+      "eventKey": "maersk-databrud-20261111",
+      "materialFacts": [
+        "Mærsk bekræfter databrud i et ældre it-system fra et opkøb",
+        "Hackergruppen WhiteArmor kræver 5 mio. dollar i bitcoin",
+        "Mærsk og angriberne er uenige om omfanget"
+      ],
+      "section": "Erhverv og cybersikkerhed",
+      "headline": "Mærsk bekræfter datalæk efter Ingeniørens afsløring: Her brød hackerne ind",
+      "primarySourceUrl": "https://ing.dk/artikel/maersk-bekraefter-datalaek-efter-ingenioerens-afsloering-her-broed-hackerne-ind",
+      "subheadline": "A.P. Møller - Mærsk bekræfter uautoriseret adgang til et it-system fra logistikopkøbet LF Logistics, mens hackergruppen WhiteArmor kræver 5 mio. dollar",
+      "body": [
+        "A.P. Møller - Mærsk bekræfter over for Ingeniøren uautoriseret adgang til et ældre it-system, som fulgte med opkøbet af LF Logistics. Hackergruppen WhiteArmor hævder at have ca. 100 GB data, heriblandt chaufførkonti med adgangskoder i klartekst, og kræver 5 mio. dollar i bitcoin.",
+        "Mærsk oplyser, at en indledende undersøgelse ikke har fundet følsomme data kompromitteret, og at driften ikke er påvirket. WhiteArmors egne tal – bl.a. næsten 16.000 chaufførkonti – strider mod Mærsks fremstilling og er ubekræftede fra tredje part."
+      ],
+      "whyItMatters": "Et opkøbt systems sårbarhed, der først viser sig år efter integrationen, er en påmindelse om, at it-risiko ved opkøb sjældent er fuldt afdækket ved overtagelsen.",
+      "analysis": "Mærsks 'ingen følsomme data'-udmelding står lige nu alene mod en angribers modstridende tal, og den offentlige fortælling afhænger af, hvem der først dokumenterer sin version.",
+      "topics": [
+        "erhverv",
+        "cybersikkerhed",
+        "logistik"
+      ],
+      "entities": [
+        "A.P. Møller - Mærsk",
+        "WhiteArmor",
+        "LF Logistics"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 72,
+        "decisionValue": 60,
+        "novelty": 68,
+        "sourceQuality": 80,
+        "personalRelevance": 65,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "Mærsk bekræfter uautoriseret adgang til et ældre it-system knyttet til opkøbet af LF Logistics",
+          "sourceUrls": [
+            "https://ing.dk/artikel/maersk-bekraefter-datalaek-efter-ingenioerens-afsloering-her-broed-hackerne-ind"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "WhiteArmor kræver 5 mio. dollar i bitcoin og hævder at have ca. 100 GB data; Mærsk bestrider omfanget",
+          "sourceUrls": [
+            "https://ing.dk/artikel/maersk-bekraefter-datalaek-efter-ingenioerens-afsloering-her-broed-hackerne-ind"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Mærsk bekræfter datalæk efter Ingeniørens afsløring: Her brød hackerne ind",
+          "publisher": "Ingeniøren",
+          "url": "https://ing.dk/artikel/maersk-bekraefter-datalaek-efter-ingenioerens-afsloering-her-broed-hackerne-ind",
+          "publishedAt": "2026-11-11T11:44:44Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://ing.dk/sites/mi/files/styles/open_graph_image_16_9/public/2023-09/maersk1.jpg?itok=TiWP6zd3",
+        "credit": "Kilde: Ingeniøren",
+        "alt": "Arkivfoto af Mærsk-container",
+        "sourceUrl": "https://ing.dk/artikel/maersk-bekraefter-datalaek-efter-ingenioerens-afsloering-her-broed-hackerne-ind"
+      }
+    },
+    {
+      "id": "story-us-senat-mississippi-20261112",
+      "eventKey": "us-senat-mississippi-20261111",
+      "materialFacts": [
+        "Demokraten Scott Colom vinder senatsvalget i Mississippi",
+        "Første demokratiske senator fra Mississippi siden 1982",
+        "Demokraterne har nu 55 pladser mod Republikanernes 44"
+      ],
+      "section": "USA",
+      "headline": "Valgsejren udbygges i USA: Nattens resultat er 'måske den allerstørste overraskelse'",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/valgsejren-udbygges-i-det-amerikanske-senat-mississippi-gaar-til-demokraterne",
+      "subheadline": "Demokraten Scott Colom slår den sidste republikanske senator Cindy Hyde-Smith i Mississippi – første gang siden 1982",
+      "body": [
+        "Demokraten Scott Colom har vundet senatsvalget i Mississippi med 49,2 pct. mod republikaneren Cindy Hyde-Smiths 48,7 pct., med 99 pct. af stemmerne optalt, konkluderer AP. Det er første gang siden 1982, Mississippi får en demokratisk senator.",
+        "DR's USA-korrespondent Kim Bildsøe Lassen kalder det en af valgnattens største overraskelser: Hyde-Smith førte ifølge korrespondenten stort set ikke valgkamp. Demokraterne har nu 55 pladser i Senatet mod Republikanernes 44; Alaska er sidste uafgjorte delstat."
+      ],
+      "whyItMatters": "En rød delstat, der vælter om i et midtvejsvalg, er et mål for, hvor dybt en politisk strømning går – ikke kun et tabt sæde, men et tegn på utilfredshedens bredde.",
+      "analysis": "Sejren rækker ind i stater, hvor den tidligere var utænkelig, hvilket ændrer den amerikanske magtbalance op mod 2028.",
+      "topics": [
+        "usa",
+        "politik",
+        "midtvejsvalg"
+      ],
+      "entities": [
+        "Scott Colom",
+        "Cindy Hyde-Smith",
+        "Mississippi"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 70,
+        "decisionValue": 40,
+        "novelty": 65,
+        "sourceQuality": 85,
+        "personalRelevance": 15,
+        "contrast": 70
+      },
+      "claims": [
+        {
+          "text": "Scott Colom (D) vinder med 49,2 pct. mod Cindy Hyde-Smiths 48,7 pct., 99 pct. optalt",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/valgsejren-udbygges-i-det-amerikanske-senat-mississippi-gaar-til-demokraterne"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Demokraterne har nu 55 pladser i Senatet mod Republikanernes 44",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/valgsejren-udbygges-i-det-amerikanske-senat-mississippi-gaar-til-demokraterne"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Valgsejren udbygges i USA: Nattens resultat er 'måske den allerstørste overraskelse'",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/valgsejren-udbygges-i-det-amerikanske-senat-mississippi-gaar-til-demokraterne",
+          "publishedAt": "2026-11-11T23:25:24Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/p31dmzin/20261110-223842-3.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR (foto: Brandon Bell, AFP/Ritzau Scanpix)",
+        "alt": "Demokraten Scott Colom, nyvalgt senator for Mississippi",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/valgsejren-udbygges-i-det-amerikanske-senat-mississippi-gaar-til-demokraterne"
+      }
+    },
+    {
+      "id": "story-gaza-hospital-20261112",
+      "eventKey": "gaza-hospital-angreb-20261112",
+      "materialFacts": [
+        "Israelsk luftangreb rammer Nasser-hospitalet i Khan Younis",
+        "Fem meldt dræbt, ca. 20 såret",
+        "Sker trods våbenhvilen fra oktober 2025"
+      ],
+      "section": "Mellemøsten",
+      "headline": "Flere meldes dræbt i israelsk angreb på hospital i Gaza",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/flere-meldes-draebt-i-israelsk-angreb-paa-hospital-i-gaza",
+      "subheadline": "Gazas redningstjeneste melder om dræbte og sårede efter angreb på en kirurgisk afdeling i Khan Younis, mens Israels militær endnu ikke har kommenteret",
+      "body": [
+        "Fem mennesker er meldt dræbt, og omkring 20 andre er såret, efter et israelsk luftangreb natten til torsdag mod en kirurgisk afdeling på Nasser-hospitalet i Khan Younis. Det oplyser talsperson Mahmoud Basal fra Gazas redningstjeneste til Reuters. En kirurg er blandt de dræbte.",
+        "Det israelske militær har ikke kommenteret angrebet. Onsdag blev tre palæstinensere dræbt i angreb i Gaza By, som militæret sagde var rettet mod militante. Våbenhvilen fra 10. oktober 2025 fortsætter med spredte angreb, uden aftale om Hamas' afvæbning eller israelsk tilbagetrækning."
+      ],
+      "whyItMatters": "Et angreb på et hospital, over et år efter en formel våbenhvile, viser hvor skrøbelig aftalen fortsat er.",
+      "analysis": "Så længe afvæbning og tilbagetrækning ikke er aftalt i praksis, vil episoder som denne opstå inden for en våbenhvile, der gælder på papiret, men ikke fungerer som en reel afslutning.",
+      "topics": [
+        "mellemoesten",
+        "konflikt"
+      ],
+      "entities": [
+        "Israel",
+        "Gaza",
+        "Nasser-hospitalet"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 72,
+        "decisionValue": 35,
+        "novelty": 50,
+        "sourceQuality": 80,
+        "personalRelevance": 10,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Fem dræbt og ca. 20 såret efter angreb på en kirurgisk afdeling på Nasser-hospitalet, ifølge Gazas redningstjeneste til Reuters",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/flere-meldes-draebt-i-israelsk-angreb-paa-hospital-i-gaza"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Flere meldes dræbt i israelsk angreb på hospital i Gaza",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/flere-meldes-draebt-i-israelsk-angreb-paa-hospital-i-gaza",
+          "publishedAt": "2026-11-12T02:38:29Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/uqpd0e0k/gaza-november-2026.jpg?im=SmartCrop%2Csize%3D%281000%2C563%29",
+        "credit": "Kilde: DR (foto: Mahmoud Issa/Reuters)",
+        "alt": "Arkivfoto fra teltlejr for fordrevne i Gazastriben",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/flere-meldes-draebt-i-israelsk-angreb-paa-hospital-i-gaza"
+      }
+    },
+    {
+      "id": "story-nvidia-huang-20261112",
+      "eventKey": "nvidia-jensen-huang-krise-20261111",
+      "materialFacts": [
+        "Nvidias bestyrelse forbereder sig på at afgøre Jensen Huangs fremtid",
+        "Huang har indrømmet affære med kvinde mistænkt for Kina-spionage",
+        "Aktien falder 8,1 pct., FBI undersøger sagen"
+      ],
+      "section": "Erhverv og teknologi",
+      "headline": "WSJ: Nvidia-styret forbereder seg på å sparke Jensen Huang",
+      "primarySourceUrl": "https://e24.no/boers-og-finans/i/bkKyg3/wsj-nvidia-styret-forbereder-seg-paa-aa-sparke-jensen-huang",
+      "subheadline": "Nvidias bestyrelse forbereder sig på at afgøre topchef Jensen Huangs fremtid, efter at han har indrømmet en affære med en kvinde amerikansk efterretning mistænker for Kina-spionage",
+      "body": [
+        "Nvidias bestyrelse forbereder sig på at afgøre topchef Jensen Huangs fremtid, skriver Wall Street Journal. Det sker kort efter, at New York Times meldte, at Huang har haft en affære med en medarbejder, der rapporterede til ham. Nvidia-aktien faldt 8,1 pct. i eftermarkedet.",
+        "Huang indrømmede søndag affæren – med Alice Huang, tidligere topleder i Megaspeed, som amerikansk efterretning mistænker for spionage for Kina. Megaspeed og Kina afviser det. FBI undersøger sagen, oplyser Trump."
+      ],
+      "whyItMatters": "En mulig udskiftning af topchefen for verdens mest værdifulde selskab, midt i en sag om national sikkerhed, rammer kernen af Nvidias rolle som USA's vigtigste AI-leverandør.",
+      "analysis": "Ingen beslutning er truffet. Uafklaret rammer sagen allerede Nvidias ledelse, og udfaldet kan ændre sig i løbet af få timer.",
+      "counterpoint": "Megaspeed og de kinesiske myndigheder har afvist spionage-anklagerne; ingen uafhængig bekræftelse foreligger endnu.",
+      "topics": [
+        "erhverv",
+        "teknologi",
+        "ai",
+        "ledelse"
+      ],
+      "entities": [
+        "Jensen Huang",
+        "Nvidia",
+        "Alice Huang",
+        "Megaspeed"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 80,
+        "decisionValue": 60,
+        "novelty": 78,
+        "sourceQuality": 70,
+        "personalRelevance": 35,
+        "contrast": 85
+      },
+      "claims": [
+        {
+          "text": "Nvidias bestyrelse forbereder sig på at mødes for at afgøre Jensen Huangs fremtid, ifølge WSJ",
+          "sourceUrls": [
+            "https://e24.no/boers-og-finans/i/bkKyg3/wsj-nvidia-styret-forbereder-seg-paa-aa-sparke-jensen-huang"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Huang har indrømmet en affære med Alice Huang, tidligere Megaspeed-direktør, som amerikansk efterretning mistænker for Kina-spionage; begge anklagede parter afviser",
+          "sourceUrls": [
+            "https://e24.no/boers-og-finans/i/R1xPG5/new-york-times-nvidia-sjef-jensen-huang-skal-ha-hatt-forhold-med-ansatt-som-rapporterer-til-han"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Nvidia-aktien faldt 8,1 pct. i eftermarkedet; FBI undersøger sagen ifølge Trump",
+          "sourceUrls": [
+            "https://e24.no/boers-og-finans/i/bkKyg3/wsj-nvidia-styret-forbereder-seg-paa-aa-sparke-jensen-huang"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "WSJ: Nvidia-styret forbereder seg på å sparke Jensen Huang",
+          "publisher": "E24",
+          "url": "https://e24.no/boers-og-finans/i/bkKyg3/wsj-nvidia-styret-forbereder-seg-paa-aa-sparke-jensen-huang",
+          "publishedAt": "2026-11-11T22:31:14Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "NYT: Nvidia-sjefen skal ha hatt forhold med ansatt",
+          "publisher": "E24",
+          "url": "https://e24.no/boers-og-finans/i/R1xPG5/new-york-times-nvidia-sjef-jensen-huang-skal-ha-hatt-forhold-med-ansatt-som-rapporterer-til-han",
+          "publishedAt": "2026-11-11T22:00:42Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://akamai.vgc.no/v2/images/b97c1feb-3ee6-3354-9ed8-9870fa417f63?fit=crop&h=675&upscale=true&w=1200&s=451241bb820bb4c65da7c79fe861e019a7b2d053",
+        "credit": "Foto: Philip Fong/AFP/NTB via E24",
+        "alt": "Nvidias topchef Jensen Huang i Tokyo, juli 2026",
+        "sourceUrl": "https://e24.no/boers-og-finans/i/bkKyg3/wsj-nvidia-styret-forbereder-seg-paa-aa-sparke-jensen-huang"
+      }
+    },
+    {
+      "id": "story-steen-jakobsen-20261112",
+      "eventKey": "steen-jakobsen-ai-boble-20261111",
+      "materialFacts": [
+        "Steen Jakobsen advarer om AI-gældsboble",
+        "Vurderer op til 30 pct. aktiekrak muligt i H1 2027"
+      ],
+      "section": "Makroøkonomi",
+      "headline": "Steen Jakobsen advarer: AI-gældsboble kan udløse aktiekrak på 30 procent i første halvår 2027",
+      "primarySourceUrl": "https://ugebrev.dk/flashnews/steen-jakobsen-advarer-ai-gaeldsboble-kan-udloese-aktiekrak-paa-30-procent-i-foerste-halvaar-2027/",
+      "subheadline": "Saxo Banks tidligere cheføkonom vurderer, at en gældsfinansieret AI-opbygning kan udløse et markant aktiekrak i 2027",
+      "body": [
+        "Steen Jakobsen advarer om, at en gældsboble opbygget omkring finansieringen af AI-infrastruktur kan udløse et aktiekrak på op til 30 pct. i første halvdel af 2027, skriver Økonomisk Ugebrev.",
+        "Advarslen kommer, mens datacenterinvesteringer i stigende grad finansieres med lånt kapital frem for selskabernes egne pengestrømme."
+      ],
+      "whyItMatters": "Hvis AI-opbygningen er mere gældsdrevet og skrøbelig, end markedet priser ind, er det en risiko for den brede kreditcyklus, pensionsopsparinger er eksponeret mod – ikke kun for teknologiaktier.",
+      "analysis": "Jakobsens vurdering er et scenarie, ikke en sikker prognose – men den falder samme dag, som både Nvidias ledelseskrise og DI's AI-analyse sætter fokus på, hvor meget af AI-fortællingen der endnu ikke er testet af en konjunkturnedgang.",
+      "topics": [
+        "makroøkonomi",
+        "ai",
+        "aktiemarked"
+      ],
+      "entities": [
+        "Steen Jakobsen",
+        "Saxo Bank"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 62,
+        "decisionValue": 55,
+        "novelty": 55,
+        "sourceQuality": 70,
+        "personalRelevance": 60,
+        "contrast": 80
+      },
+      "claims": [
+        {
+          "text": "Steen Jakobsen vurderer, at en AI-gældsboble kan udløse et aktiekrak på op til 30 pct. i første halvår 2027",
+          "sourceUrls": [
+            "https://ugebrev.dk/flashnews/steen-jakobsen-advarer-ai-gaeldsboble-kan-udloese-aktiekrak-paa-30-procent-i-foerste-halvaar-2027/"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Steen Jakobsen advarer: AI-gældsboble kan udløse aktiekrak på 30 procent i første halvår 2027",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/flashnews/steen-jakobsen-advarer-ai-gaeldsboble-kan-udloese-aktiekrak-paa-30-procent-i-foerste-halvaar-2027/",
+          "publishedAt": "2026-11-11T13:58:39Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://ugebrev.dk/wp-content/uploads/2020/10/Saxo-Steen-Jacobsen-1.jpg",
+        "credit": "Kilde: Økonomisk Ugebrev",
+        "alt": "Arkivfoto af Steen Jakobsen",
+        "sourceUrl": "https://ugebrev.dk/flashnews/steen-jakobsen-advarer-ai-gaeldsboble-kan-udloese-aktiekrak-paa-30-procent-i-foerste-halvaar-2027/"
+      }
+    },
+    {
+      "id": "story-di-ai-investeringer-20261112",
+      "eventKey": "di-ai-investeringer-20261111",
+      "materialFacts": [
+        "Danmark nr. 4 af 70 lande i digital konkurrenceevne",
+        "Men nr. 34 på AI-investeringer",
+        "DI efterspørger mere forskning i kritiske digitale teknologier"
+      ],
+      "section": "Erhverv og konkurrencekraft",
+      "headline": "Danmark er i den digitale verdenselite, men halter gevaldigt efter på AI-investeringer",
+      "primarySourceUrl": "https://www.danskindustri.dk/om-di/kontakt-os/presse/arkiv/pressemeddelelser/2026/11/danmark-er-i-den-digitale-verdenselite-men-halter-gevaldigt-efter-pa-ai-investeringer/",
+      "subheadline": "DI peger på en kløft mellem Danmarks digitale fundament og landets evne til at investere i AI og fremtidens teknologi",
+      "body": [
+        "Danmark ligger nummer fire af 70 lande i IMDs rangering af digital konkurrenceevne for 2026, kun overgået af USA, Singapore og Holland, viser en ny DI-analyse. Men på evnen til at investere i AI og fremtidens teknologi ligger Danmark på en 34. plads.",
+        "DI Digitals branchedirektør Andreas Holbak Espersen peger på, at Danmark har et stærkt digitalt fundament, men ikke omsætter det til investeringer. Han nævner Netcompanys indtræden i ejerkredsen bag supercomputeren Gefion, med 500 mio. kr. i ny investering, som den type partnerskab DI vil have flere af."
+      ],
+      "whyItMatters": "Et stærkt digitalt fundament er ingen garanti – uden investeringer i forskning kan Danmark tabe forspringet inden for få år.",
+      "analysis": "DI's forslag er organisationens eget, men tallene (4. plads samlet, 34. plads på AI-investeringer) er fra en uafhængig måling og viser, hvor langt Danmark er fra at omsætte sin digitale position til konkurrencekraft.",
+      "topics": [
+        "erhverv",
+        "ai",
+        "konkurrencekraft"
+      ],
+      "entities": [
+        "Dansk Industri",
+        "Andreas Holbak Espersen",
+        "IMD"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 60,
+        "decisionValue": 60,
+        "novelty": 45,
+        "sourceQuality": 70,
+        "personalRelevance": 80,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Danmark ligger nr. 4 af 70 lande i IMDs rangering af digital konkurrenceevne 2026",
+          "sourceUrls": [
+            "https://www.danskindustri.dk/om-di/kontakt-os/presse/arkiv/pressemeddelelser/2026/11/danmark-er-i-den-digitale-verdenselite-men-halter-gevaldigt-efter-pa-ai-investeringer/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Danmark ligger nr. 34 specifikt på evnen til at investere i AI og fremtidens teknologi",
+          "sourceUrls": [
+            "https://www.danskindustri.dk/om-di/kontakt-os/presse/arkiv/pressemeddelelser/2026/11/danmark-er-i-den-digitale-verdenselite-men-halter-gevaldigt-efter-pa-ai-investeringer/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Danmark er i den digitale verdenselite, men halter gevaldigt efter på AI-investeringer",
+          "publisher": "Dansk Industri",
+          "url": "https://www.danskindustri.dk/om-di/kontakt-os/presse/arkiv/pressemeddelelser/2026/11/danmark-er-i-den-digitale-verdenselite-men-halter-gevaldigt-efter-pa-ai-investeringer/",
+          "publishedAt": "2026-11-11T08:11:34Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-royal-unibrew-q3-20261112",
+      "eventKey": "royal-unibrew-q3-2026",
+      "materialFacts": [
+        "EBIT steg 5,5 pct. til 820 mio. kr. i Q3",
+        "Helårsforventning indsnævret til 6-8 pct. organisk EBIT-vækst"
+      ],
+      "section": "Erhverv",
+      "headline": "Royal Unibrew fortsætter lønsom vækst i tredje kvartal 2026",
+      "primarySourceUrl": "https://ugebrev.dk/flashnews/royal-unibrew-fortsaetter-loensom-vaekst-i-tredje-kvartal-2026/",
+      "subheadline": "Bryggerikoncernen snævrer sin helårsforventning ind, mens indtjeningen pr. aktie stiger 10,2 pct. år til dato",
+      "body": [
+        "Royal Unibrew øgede EBIT med 5,5 pct. til 820 mio. kr. i tredje kvartal 2026, viser kvartalsmeddelelsen. Nettoomsætningen steg 1,0 pct. til 4.345 mio. kr., mens det underliggende salg voksede 4,0 pct.",
+        "Helårsforventningen til organisk EBIT-vækst indsnævres til 6-8 pct. fra tidligere 6-10 pct. Indtjeningen pr. aktie steg 10,2 pct. år til dato til 26,9 kr. Topchef Lars Jensen taler om 'solid kommerciel eksekvering'."
+      ],
+      "whyItMatters": "En indsnævret – ikke sænket – forventning fra et af Danmarks største konsumentvarehuse er et konkret pejlemærke for forbrugsstyrken, uafhængigt af volatiliteten i andre danske aktier denne uge.",
+      "analysis": "At intervallet strammes til den øvre halvdel, mens omsætningsvæksten er moderat, peger på, at fremgangen kommer fra eksekvering og prisstyring snarere end volumenvækst.",
+      "topics": [
+        "erhverv",
+        "regnskab"
+      ],
+      "entities": [
+        "Royal Unibrew",
+        "Lars Jensen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 45,
+        "decisionValue": 40,
+        "novelty": 35,
+        "sourceQuality": 70,
+        "personalRelevance": 55,
+        "contrast": 20
+      },
+      "claims": [
+        {
+          "text": "EBIT steg 5,5 pct. til 820 mio. kr. i Q3 2026; helårsforventning til organisk EBIT-vækst indsnævret til 6-8 pct.",
+          "sourceUrls": [
+            "https://ugebrev.dk/flashnews/royal-unibrew-fortsaetter-loensom-vaekst-i-tredje-kvartal-2026/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Royal Unibrew fortsætter lønsom vækst i tredje kvartal 2026",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/flashnews/royal-unibrew-fortsaetter-loensom-vaekst-i-tredje-kvartal-2026/",
+          "publishedAt": "2026-11-11T16:24:25Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Royal_Unibrew%2C_Faxe_Bryggeri%2C_2026_%283%29.jpg/1920px-Royal_Unibrew%2C_Faxe_Bryggeri%2C_2026_%283%29.jpg",
+        "credit": "Foto: Toxophilus / Wikimedia Commons (CC BY-SA 4.0)",
+        "alt": "Royal Unibrews Faxe Bryggeri",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Royal_Unibrew,_Faxe_Bryggeri,_2026_(3).jpg"
+      }
+    }
+  ],
+  "signals": [
+    {
+      "text": "Danske Bank advarer om falske bankbude",
+      "headline": "Danske Bank advarer om falske bankbude",
+      "url": "https://www.dr.dk/nyheder/penge/danske-bank-advarer-om-falske-bankbude",
+      "publisher": "DR",
+      "section": "Penge",
+      "publishedAt": "2026-11-11T10:29:21Z",
+      "summary": "Danske Bank advarer kunder om svindlere, der udgiver sig for bankens bude."
+    },
+    {
+      "text": "Novos topdirektør frygtede hjerteanfald: Så tabte han sig 25 kilo – først uden Wegovy",
+      "headline": "Novos topdirektør frygtede hjerteanfald: Så tabte han sig 25 kilo – først uden Wegovy",
+      "url": "https://www.dr.dk/nyheder/penge/novos-topdirektoer-frygtede-hjerteanfald-saa-tabte-han-sig-25-kilo-foerst-uden-wegovy",
+      "publisher": "DR",
+      "section": "Penge",
+      "publishedAt": "2026-11-11T18:34:26Z"
+    },
+    {
+      "text": "Det seksuelle billede skulle være en joke, men her er drengen Noah på vej i retten",
+      "headline": "Det seksuelle billede skulle være en joke, men her er drengen Noah på vej i retten",
+      "url": "https://www.dr.dk/nyheder/indland/det-seksuelle-billede-skulle-vaere-en-joke-men-her-er-drengen-noah-paa-vej-i-retten",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-11-12T04:30:00Z"
+    },
+    {
+      "text": "Slut med kø og nattespærringer: Motorvej står klar før tid",
+      "headline": "Slut med kø og nattespærringer: Motorvej står klar før tid",
+      "url": "https://www.dr.dk/nyheder/indland/slut-med-koe-og-nattespaerringer-motorvej-staar-klar-foer-tid",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-11-12T04:00:00Z"
+    },
+    {
+      "text": "Første generalstrejke i 14 år i Spanien: Protesterne mod boligkrisen fortsætter",
+      "headline": "Første generalstrejke i 14 år i Spanien: Protesterne mod boligkrisen fortsætter",
+      "url": "https://www.dr.dk/nyheder/udland/foerste-generalstrejke-i-14-aar-i-spanien-protesterne-mod-boligkrisen-fortsaetter",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-11-11T18:49:58Z"
+    },
+    {
+      "text": "El-kaos spænder ben for datacenter på Amager: Må vente 10 år på strøm",
+      "headline": "El-kaos spænder ben for datacenter på Amager: Må vente 10 år på strøm",
+      "url": "https://ing.dk/artikel/el-kaos-spaender-ben-datacenter-paa-amager-maa-vente-10-aar-paa-stroem",
+      "publisher": "Ingeniøren",
+      "section": "Energi",
+      "publishedAt": "2026-11-10T11:18:55Z"
+    },
+    {
+      "text": "Scandinavian Tobacco Group hæver forventningerne til 2026 efter stærk ni-måneders udvikling",
+      "headline": "Scandinavian Tobacco Group hæver forventningerne til 2026 efter stærk ni-måneders udvikling",
+      "url": "https://ugebrev.dk/flashnews/scandinavian-tobacco-group-haever-forventningerne-til-2026-efter-staerk-ni-maaneders-udvikling/",
+      "publisher": "Økonomisk Ugebrev",
+      "section": "Erhverv",
+      "publishedAt": "2026-11-11T16:24:26Z"
+    },
+    {
+      "text": "Elefanter eller ej. Hjulmand elsker sin rolle på landsholdet",
+      "headline": "Elefanter eller ej. Hjulmand elsker sin rolle på landsholdet",
+      "url": "https://www.dr.dk/sporten/fodbold/landsholdet/elefanter-eller-ej-hjulmand-elsker-sin-rolle-paa-landsholdet",
+      "publisher": "DR",
+      "section": "Fodbold",
+      "publishedAt": "2026-11-11T07:19:00Z"
+    },
+    {
+      "text": "Danmarks dyreste fjernvarme koster 10 gange mere end den billigste: Ekspert forklarer hvorfor",
+      "headline": "Danmarks dyreste fjernvarme koster 10 gange mere end den billigste: Ekspert forklarer hvorfor",
+      "url": "https://www.dr.dk/nyheder/indland/danmarks-dyreste-fjernvarme-koster-10-gange-mere-end-den-billigste-ekspert-forklarer-hvorfor",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-11-11T19:00:00Z"
+    },
+    {
+      "text": "Vestas øger sit overskud",
+      "headline": "Vestas øger sit overskud",
+      "url": "https://www.dr.dk/nyheder/seneste/vestas-oeger-sit-overskud",
+      "publisher": "DR",
+      "section": "Penge",
+      "publishedAt": "2026-11-11T06:38:33Z"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-major-taylor-20261112",
+      "mode": "read",
+      "kind": "book",
+      "status": "available",
+      "title": "Major Taylor",
+      "creator": "Frederick Noland",
+      "provider": "Drawn & Quarterly / Penguin Random House",
+      "url": "https://www.penguinrandomhouse.com/books/837950/major-taylor-by-frederick-noland/",
+      "availability": "Hardcover grafisk roman, udgivet 8. september 2026, til salg globalt inkl. Danmark",
+      "commitment": "Grafisk roman, ca. 372 sider",
+      "description": "Grafisk biografi om Marshall 'Major' Taylor, der omkring år 1900 blev verdens hurtigste cykelrytter og USA's første sorte verdensmester i en individuel sport.",
+      "rationale": "Et stykke af cyklingens egen historie, uden forbindelse til arbejdslivet: om hvordan cyklen ændrede samfundet, og om en dominerende rytter der kæmpede mod andet end konkurrenterne. Stjerneanmeldt af Kirkus.",
+      "topics": [
+        "cykling",
+        "historie",
+        "biografi"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://images3.penguinrandomhouse.com/smedia/9781770464933",
+        "credit": "Kilde: Penguin Random House / Drawn & Quarterly",
+        "alt": "Bogomslag til den grafiske biografi 'Major Taylor' af Frederick Noland",
+        "sourceUrl": "https://www.penguinrandomhouse.com/books/837950/major-taylor-by-frederick-noland/"
+      }
+    },
+    {
+      "id": "rec-boardroom-derojas-20261112",
+      "mode": "listen",
+      "kind": "podcast",
+      "status": "available",
+      "title": "199. Jacqueline de Rojas: The most impactful questions in the boardroom",
+      "creator": "Oliver Cummings (vært), Nurole",
+      "provider": "Nurole – Enter the Boardroom",
+      "url": "https://www.nurole.com/nurole-podcast-enter-the-boardroom",
+      "availability": "Gratis podcastepisode, tilgængelig globalt på Nuroles hjemmeside og podcastplatforme",
+      "commitment": "Lydepisode, ca. 40 minutter",
+      "description": "Jacqueline de Rojas, chair for Bletchley Park Trust, taler med Nurole-stifter Oliver Cummings om, hvilke spørgsmål der flytter noget i en bestyrelse, og om hvordan hun fik sin første bestyrelsespost.",
+      "rationale": "Konkret indblik i rekrutteringsmekanikken bag bestyrelsesposter og de spørgsmål, der adskiller en god fra en virkningsløs bestyrelse – brugbart for en, der selv er i markedet for den type poster.",
+      "topics": [
+        "ledelse",
+        "bestyrelser",
+        "karriere"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-sir-alex-moretahanamanager-20261112",
+      "mode": "watch",
+      "kind": "documentary-teaser",
+      "status": "upcoming",
+      "title": "Teaser: 'Sir Alex: More than a Manager' - Coming soon to Sky Sports",
+      "creator": "Sky Sports",
+      "provider": "Sky Sports",
+      "url": "https://www.skysports.com/football/video/13609172/teaser-sir-alex-more-than-a-manager-coming-soon-to-sky-sports",
+      "availability": "Teaser tilgængelig nu globalt på skysports.com. Selve dokumentaren er 'coming soon' uden bekræftet dato eller dansk distribution endnu",
+      "commitment": "Teaser 1-2 minutter; dokumentarens længde ikke oplyst endnu",
+      "description": "Sky Sports' første teaser til en dokumentar om Sir Alex Ferguson, der markerer 40 år siden hans ansættelse i Manchester United, med fokus på manden bag resultaterne.",
+      "rationale": "Manchester United er en fast interesse, og et portræt af Fergusons 26 år i klubben er værd at sætte på listen nu – med den klare advarsel, at selve dokumentaren endnu ikke er udkommet.",
+      "topics": [
+        "manchester-united",
+        "fodbold",
+        "portræt"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {
+    "sourceCoverage": 95,
+    "freshness": 92,
+    "perspectiveBalance": 85,
+    "render": 100
+  }
+}
