@@ -1,0 +1,786 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-20261113-full",
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T05:45:00Z",
+  "readingMinutes": 10,
+  "title": "Thomas' Nyheder",
+  "dek": "DI og Dansk Erhverv er uenige om finansieringen bag den nye skatteaftale, Novo-topchef lover tålmodighed, og Energinet rationerer netkapacitet — plus Kushners Ukraine-diplomati, et EU-topmøde om AI, en ny tænketank og en dansk topscore inden for teoretisk datalogi.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-skatteaftale-20261113",
+      "eventKey": "dk-skatteaftale-df-regering-2026-11",
+      "materialFacts": [
+        "Regeringen og DF enige om skatteaftale: selskabsskat sænkes fra 22% til 19% i tre trin 2027-2029",
+        "Benzin/diesel-afgift sænkes op til 2 kr/liter i 2027",
+        "Mellemskat og top-topskat afskaffes gradvist frem mod 2028",
+        "DI og Dansk Erhverv bakker op om selskabsskatten, men er uenige om finansieringen via F&U-fradrag"
+      ],
+      "section": "Erhverv & Politik",
+      "headline": "Ny skatteaftale: Billigere benzin og diesel og skattelettelser for 11 milliarder de næste tre år",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/penge/ny-skatteaftale-billigere-benzin-og-diesel-og-skattelettelser-11-milliarder-de-naeste-tre-aar",
+      "subheadline": "DF og regeringen sænker selskabsskatten for første gang i ti år – men Dansk Industri og Dansk Erhverv er uenige om, hvad der skal betale for den.",
+      "body": [
+        "Regeringen og Dansk Folkeparti blev torsdag enige om en skatteaftale, der sænker benzin- og dieselafgiften op til 2 kroner literen i 2027, afskaffer mellemskat og top-topskat gradvist frem mod 2028 og sænker selskabsskatten fra 22 til 19 procent. Det er første sænkning af selskabsskatten i ti år, og aftalen frigør 11 milliarder kroner i lettelser over tre år.",
+        "Finansieringen kommer blandt andet fra højere bilafgifter, bortfald af SU til børn fra velhavende familier og en beskæring af virksomhedernes fradrag for forskning og udvikling."
+      ],
+      "whyItMatters": "DI's politiske direktør Morten Høyer er selv 'kisteglad' over aftalen og roser DF for at levere, hvor resten af blå blok ikke ville. Dansk Erhverv bakker op om selskabsskatten, men kalder bortfaldet af F&U-fradraget 'uforståeligt og kritisabelt'.",
+      "analysis": "At to af erhvervslivets største organisationer er uenige om finansieringen, selvom begge roser selskabsskatten, viser at aftalen har reelle fordelingsvalg indbygget – og at DF for første gang denne periode bærer en aftale, resten af blå blok ikke ville underskrive.",
+      "counterpoint": "Regeringens egne beregninger viser, at en direktørfamilie vinder langt mere end en velfærdsfamilie frem mod 2030.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/x2dm12hr/20200713-131744-2-4951x3301ma.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Arkivfoto: Tankning af benzin ved en tankstation",
+        "sourceUrl": "https://www.dr.dk/nyheder/penge/ny-skatteaftale-billigere-benzin-og-diesel-og-skattelettelser-11-milliarder-de-naeste-tre-aar"
+      },
+      "topics": [
+        "skat",
+        "erhverv",
+        "dansk-industri",
+        "who-is-moving",
+        "danmark"
+      ],
+      "entities": [
+        "Morten Messerschmidt",
+        "Dansk Folkeparti",
+        "regeringen",
+        "Dansk Industri",
+        "Morten Høyer",
+        "Dansk Erhverv",
+        "Brian Mikkelsen"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 82,
+        "decisionValue": 70,
+        "novelty": 60,
+        "sourceQuality": 80,
+        "personalRelevance": 85,
+        "contrast": 50
+      },
+      "claims": [
+        {
+          "text": "Selskabsskatten sænkes fra 22% til 19% i tre trin 2027-2029, første selskabsskattelettelse i 10 år.",
+          "sourceUrls": [
+            "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/november/skatteaftale-vakker-begejstring-hos-dansk-erhverv-historisk-at-selskabsskatten-nu-sankes"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "DI's Morten Høyer kalder aftalen 'kisteglad', Dansk Erhverv kritiserer bortfaldet af F&U-fradraget.",
+          "sourceUrls": [
+            "https://tidende.dk/ind-og-udland/erhverv-politik/i-dansk-industri-er-de-kisteglade-og-roser-df-for-modig-aftale/409159",
+            "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/november/skatteaftale-vakker-begejstring-hos-dansk-erhverv-historisk-at-selskabsskatten-nu-sankes"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "En direktørfamilie vinder langt mere end en velfærdsfamilie frem mod 2030, ifølge regeringens egne beregninger gengivet af DR.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/ny-skatteaftale-billigere-benzin-og-diesel-og-skattelettelser-11-milliarder-de-naeste-tre-aar"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Ny skatteaftale: Billigere benzin og diesel og skattelettelser for 11 milliarder de næste tre år",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/penge/ny-skatteaftale-billigere-benzin-og-diesel-og-skattelettelser-11-milliarder-de-naeste-tre-aar",
+          "publishedAt": "2026-11-12T10:40:00Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Skatteaftale vækker begejstring hos Dansk Erhverv: Historisk at selskabsskatten nu sænkes",
+          "publisher": "Dansk Erhverv",
+          "url": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/november/skatteaftale-vakker-begejstring-hos-dansk-erhverv-historisk-at-selskabsskatten-nu-sankes",
+          "publishedAt": "2026-11-12T16:43:00Z",
+          "kind": "primary"
+        },
+        {
+          "title": "I Dansk Industri er de kisteglade og roser DF for modig aftale",
+          "publisher": "Bornholms Tidende",
+          "url": "https://tidende.dk/ind-og-udland/erhverv-politik/i-dansk-industri-er-de-kisteglade-og-roser-df-for-modig-aftale/409159",
+          "publishedAt": "2026-11-12T16:43:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-novo-doustdar-20261113",
+      "eventKey": "novo-doustdar-recovery-interview-2026-11",
+      "materialFacts": [
+        "Doustdar giver en udførlig redegørelse for turnaround-plan siden aktiefald fra over 1.000 til under 300 kr.",
+        "Wegovy-pillen bekræftet til mindst 20 markeder inden udgangen af 2027, inkl. Danmark",
+        "Refererer til fyringsrunde på over 10.000 stillinger i september"
+      ],
+      "section": "Erhverv",
+      "headline": "Novo-topdirektør i interview med DR: 'Selvfølgelig er jeg ikke glad for, at så mange mennesker har mistet deres penge'",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/penge/novo-topdirektoer-i-interview-med-dr-selvfoelgelig-er-jeg-ikke-glad-saa-mange-mennesker-har-mistet",
+      "subheadline": "Mike Doustdar giver en udførlig redegørelse for turnaround-planen, siden Novo-aktien mistede mere end 70 procent af sin værdi.",
+      "body": [
+        "Novo Nordisks topchef Mike Doustdar giver DR en udførlig redegørelse for genrejsningen, efter aktien er faldet fra over 1.000 til under 300 kroner. 'Selvfølgelig er jeg ikke glad for, at så mange mennesker har mistet deres penge,' siger Doustdar, der kalder genrejsningen et 'maraton, ikke en sprint'.",
+        "Doustdar bekræfter, at Wegovy-pillen når mindst 20 markeder inden udgangen af 2027, inkl. Danmark. Han henviser til fyringsrunden på over 10.000 stillinger i september som en svær, men nødvendig beslutning."
+      ],
+      "whyItMatters": "Novo trækker alene en stor del af dansk eksport og BNP-vækst, og topchefens tone — ro frem for nye lovende skud — signalerer, hvor lang vej der er tilbage til tidligere højder.",
+      "analysis": "Interviewet er bemærkelsesværdigt for, hvad det ikke indeholder: ingen nye blockbustere, ingen hurtig kursrevanche. Doustdar sælger tålmodighed til et marked, der er vant til Novos tidligere vækstrater.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/tjmjkbca/novo-top.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Novo Nordisks topdirektør Mike Doustdar",
+        "sourceUrl": "https://www.dr.dk/nyheder/penge/novo-topdirektoer-i-interview-med-dr-selvfoelgelig-er-jeg-ikke-glad-saa-mange-mennesker-har-mistet"
+      },
+      "topics": [
+        "erhverv",
+        "life-science",
+        "eksport",
+        "danmark"
+      ],
+      "entities": [
+        "Novo Nordisk",
+        "Mike Doustdar",
+        "Eli Lilly"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 70,
+        "decisionValue": 55,
+        "novelty": 60,
+        "sourceQuality": 85,
+        "personalRelevance": 90,
+        "contrast": 50
+      },
+      "claims": [
+        {
+          "text": "Doustdar bekræfter Wegovy-pillen når mindst 20 markeder inden udgangen af 2027.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/novo-topdirektoer-i-interview-med-dr-selvfoelgelig-er-jeg-ikke-glad-saa-mange-mennesker-har-mistet"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Novo-topdirektør i interview med DR: 'Selvfølgelig er jeg ikke glad for, at så mange mennesker har mistet deres penge'",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/penge/novo-topdirektoer-i-interview-med-dr-selvfoelgelig-er-jeg-ikke-glad-saa-mange-mennesker-har-mistet",
+          "publishedAt": "2026-11-12T06:40:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-eu-dublin-ai-20261113",
+      "eventKey": "eu-dublin-ai-topmoede-2026-11-13",
+      "materialFacts": [
+        "EU's stats- og regeringschefer holdt 13. november en strategisk drøftelse om AI i Dublin, med Ukraine-krigen også på dagsordenen samme dag",
+        "Fokus på europæisk konkurrenceevne og suverænitet på AI-området",
+        "Kommissionens formand Ursula von der Leyen deltog"
+      ],
+      "section": "EU & Konkurrenceevne",
+      "headline": "AI-topmøde",
+      "primarySourceUrl": "https://denmark.representation.ec.europa.eu/news/ai-topmode-2026-11-13_da",
+      "subheadline": "For første gang holder EU's stats- og regeringschefer en strategisk drøftelse viet til kunstig intelligens – med europæisk konkurrenceevne og suverænitet som omdrejningspunkt.",
+      "body": [
+        "EU's stats- og regeringschefer mødtes fredag i Dublin til det der ifølge Kommissionen er den første strategiske drøftelse blandt EU-ledere om kunstig intelligens. Mødet, hvor Kommissionens formand Ursula von der Leyen deltog, skal drøfte, hvordan AI kan styrke europæisk konkurrenceevne.",
+        "Dagsordenen rækker ud over teknologipolitik til AI's betydning for sikkerhed og borgernes tillid. Ukraine-krigen stod også på dagsordenen samme dag."
+      ],
+      "whyItMatters": "At EU-ledere nu selv sætter tid af til AI frem for en linje i konklusioner, er et statusskifte: AI-konkurrenceevne er noget lederne selv må eje, ikke kun overlade til ministre.",
+      "analysis": "Retorikken om AI-suverænitet holder kun, hvis den følges af handling i udbuddene. Udbudsplatformen Polytender har delt data med Ingeniøren, der peger på en tung amerikansk slagside i europæiske offentlige udbud.",
+      "image": {
+        "url": "https://denmark.representation.ec.europa.eu/sites/default/files/styles/ewcms_metatag_image/public/2024-05/ai-hjerne-GettyImages.jpg?h=0a6ad8de&itok=I7aAhlEq",
+        "credit": "Kilde: Europa-Kommissionens Repræsentation i Danmark",
+        "alt": "AI",
+        "sourceUrl": "https://denmark.representation.ec.europa.eu/news/ai-topmode-2026-11-13_da"
+      },
+      "topics": [
+        "eu",
+        "ai",
+        "konkurrenceevne",
+        "geopolitik"
+      ],
+      "entities": [
+        "Ursula von der Leyen",
+        "EU27"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 72,
+        "decisionValue": 50,
+        "novelty": 78,
+        "sourceQuality": 85,
+        "personalRelevance": 55,
+        "contrast": 65
+      },
+      "claims": [
+        {
+          "text": "EU-ledere holdt 13. november et uformelt topmøde i Dublin dedikeret til AI og europæisk konkurrenceevne/suverænitet.",
+          "sourceUrls": [
+            "https://denmark.representation.ec.europa.eu/news/ai-topmode-2026-11-13_da"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Amerikanske cloud- og AI-leverandører har fortsat en tung indflydelse i europæiske offentlige udbud ifølge Polytender-data delt med Ingeniørens Radar.",
+          "sourceUrls": [
+            "https://ing.dk/artikel/europaeiske-udbud-skraeddersys-til-amerikanske-it-giganter"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "AI-topmøde",
+          "publisher": "Europa-Kommissionens Repræsentation i Danmark",
+          "url": "https://denmark.representation.ec.europa.eu/news/ai-topmode-2026-11-13_da",
+          "publishedAt": "2026-11-13T00:30:00Z",
+          "kind": "primary"
+        },
+        {
+          "title": "Europæiske udbud skræddersys til amerikanske it-giganter",
+          "publisher": "Ingeniøren",
+          "url": "https://ing.dk/artikel/europaeiske-udbud-skraeddersys-til-amerikanske-it-giganter",
+          "publishedAt": "2026-11-07T14:00:00Z",
+          "kind": "analysis"
+        }
+      ]
+    },
+    {
+      "id": "story-energinet-kapacitet-20261113",
+      "eventKey": "energinet-kapacitetsrationering-2026-11",
+      "materialFacts": [
+        "Energinet er i gang med at fordele netadgang efter firetrins prioritering; kategori 1-2 fik svar primo november",
+        "Kategori 3-4 (energilagring, store forbrugsprojekter som datacentre og batteriparker) får svar senere i november",
+        "Energinet venter at det bliver svært at give fuld netadgang til kategori 3-4"
+      ],
+      "section": "Energi",
+      "headline": "Energinet gør klar til prioriteret kapacitetstildeling og tager nye virkemidler i brug",
+      "primarySourceUrl": "https://via.ritzau.dk/pressemeddelelse/15237969/energinet-gor-klar-til-prioriteret-kapacitetstildeling-og-tager-nye-virkemidler-i-brug?publisherId=10304728&lang=da",
+      "subheadline": "Store forbrugsprojekter som datacentre og batteriparker får svar fra Energinet i denne måned – og udsigten er svær.",
+      "body": [
+        "Energinet fordeler adgang til transmissionsnettet efter en firetrins-prioritering. Husholdninger og kritiske funktioner (kategori 1) samt grøn omstilling af transport og varme (kategori 2) fik svar primo november. Energilagring og store forbrugsprojekter som datacentre og batteriparker (kategori 3-4) får svar senere i måneden.",
+        "'Vi har ikke alle resultater på plads, men det ser svært ud at give fuld netadgang til projekter i kategori 3 og 4,' siger direktør Søren Dupont Kristensen."
+      ],
+      "whyItMatters": "For projekterne i kø er beskeden konkret: netkapacitet er en reel knaphed. Samme flaskehals går igen i resten af EU, hvor ABN Amro vurderer, der skal investeres 2.800 mia. euro frem mod 2050 i ny vedvarende energi-kapacitet.",
+      "analysis": "Modellen betyder, at Danmark har valgt at sætte eksisterende forbrug og grøn omstilling foran nye digitale investeringer i køen — en synlig pris for at komme sent i gang med netudbygningen.",
+      "image": {
+        "url": "https://via.ritzau.dk/data/images/public/10304728/15237969/42558911-da9a-4b6c-ab40-70d38b6b1a23-w_960.jpg",
+        "credit": "Kilde: Energinet/Ritzau",
+        "alt": "Højspændingsmaster og solceller i det danske landskab",
+        "sourceUrl": "https://via.ritzau.dk/pressemeddelelse/15237969/energinet-gor-klar-til-prioriteret-kapacitetstildeling-og-tager-nye-virkemidler-i-brug?publisherId=10304728&lang=da"
+      },
+      "topics": [
+        "energi",
+        "groen-omstilling",
+        "erhverv",
+        "danmark"
+      ],
+      "entities": [
+        "Energinet",
+        "Søren Dupont Kristensen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 68,
+        "decisionValue": 65,
+        "novelty": 55,
+        "sourceQuality": 60,
+        "personalRelevance": 80,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "Energinet venter at det bliver svært at give fuld netadgang til kategori 3-4-projekter der får svar i november.",
+          "sourceUrls": [
+            "https://via.ritzau.dk/pressemeddelelse/15237969/energinet-gor-klar-til-prioriteret-kapacitetstildeling-og-tager-nye-virkemidler-i-brug?publisherId=10304728&lang=da"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "ABN Amro vurderer der skal investeres 2.800 mia. euro i ny vedvarende energi-kapacitet i EU frem mod 2050; nettilslutning er en separat, parallel udfordring.",
+          "sourceUrls": [
+            "https://ugebrev.dk/flashnews/milliardinvesteringer-i-groen-energi-bremses-af-pressede-elnet/"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Energinet gør klar til prioriteret kapacitetstildeling og tager nye virkemidler i brug",
+          "publisher": "Energinet",
+          "url": "https://via.ritzau.dk/pressemeddelelse/15237969/energinet-gor-klar-til-prioriteret-kapacitetstildeling-og-tager-nye-virkemidler-i-brug?publisherId=10304728&lang=da",
+          "publishedAt": "2026-10-21T09:00:29Z",
+          "kind": "primary"
+        },
+        {
+          "title": "Milliardinvesteringer i grøn energi bremses af pressede elnet",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/flashnews/milliardinvesteringer-i-groen-energi-bremses-af-pressede-elnet/",
+          "publishedAt": "2026-11-12T15:39:00Z",
+          "kind": "analysis"
+        }
+      ]
+    },
+    {
+      "id": "story-kushner-ukraine-20261113",
+      "eventKey": "kushner-witkoff-ukraine-dublin-2026-11-13",
+      "materialFacts": [
+        "Kushner og Witkoff mødte Putin i Moskva og derefter Zelenskyj i Dublin samme aften",
+        "Stor fangeudveksling aftalt via forhandlinger i Abu Dhabi",
+        "Frederiksen udtrykker skepsis over russiske fredshensigter"
+      ],
+      "section": "Udland",
+      "headline": "Kushner ser ingen fredsaftale om Ukraine uden Europa ved bordet",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/kushner-ser-ingen-fredsaftale-om-ukraine-uden-europa-ved-bordet",
+      "subheadline": "Efter møder med både Putin i Moskva og Zelenskyj i Dublin afviser Jared Kushner en aftale uden europæisk deltagelse – mens Mette Frederiksen tvivler på russiske fredshensigter.",
+      "body": [
+        "USA's udsendinge Jared Kushner og Steve Witkoff mødte torsdag Vladimir Putin i Moskva og rejste derefter til Dublin for at mødes med Volodymyr Zelenskyj samme aften. 'Vi kan ikke indgå denne aftale, uden at europæerne er med ved forhandlingsbordet,' sagde Kushner efter møderne.",
+        "Zelenskyj meldte ud, at en stor fangeudveksling er aftalt via forhandlinger i Abu Dhabi, uden at der ved offentliggørelsen forelå endelige tal på antal udvekslede fanger."
+      ],
+      "whyItMatters": "At Kushner fastholder europæisk deltagelse som betingelse, er en kursændring fra tidligere fredsinitiativer, der har skubbet Europa til side. Det giver EU og Danmark en plads ved bordet, de ikke selv kunne tage.",
+      "analysis": "Frederiksens skepsis — 'jeg ser altså endnu ikke nogen tegn fra russisk side på, at de ønsker fred' — peger på, at fremskridtet handler mere om proces end substans. En fangeudveksling er en sejr, ikke bevis for en nær våbenhvile.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/kqdpiwtc/20261112-231653-4.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Jared Kushner taler til pressen uden for mødestedet i Dublin",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/kushner-ser-ingen-fredsaftale-om-ukraine-uden-europa-ved-bordet"
+      },
+      "topics": [
+        "geopolitik",
+        "ukraine",
+        "usa",
+        "rusland"
+      ],
+      "entities": [
+        "Jared Kushner",
+        "Steve Witkoff",
+        "Vladimir Putin",
+        "Volodymyr Zelenskyj",
+        "Mette Frederiksen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 80,
+        "decisionValue": 40,
+        "novelty": 65,
+        "sourceQuality": 85,
+        "personalRelevance": 25,
+        "contrast": 70
+      },
+      "claims": [
+        {
+          "text": "Kushner og Witkoff mødte Putin i Moskva og derefter Zelenskyj i Dublin samme aften, og en stor fangeudveksling blev varslet.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/kushner-ser-ingen-fredsaftale-om-ukraine-uden-europa-ved-bordet"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kushner ser ingen fredsaftale om Ukraine uden Europa ved bordet",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/kushner-ser-ingen-fredsaftale-om-ukraine-uden-europa-ved-bordet",
+          "publishedAt": "2026-11-13T03:45:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-mthojgaard-ceo-20261113",
+      "eventKey": "mt-hojgaard-ny-topchef-2026-11",
+      "materialFacts": [
+        "MT Højgaard Holding og MT Højgaard Danmark fusioneres til ét selskab fra 2027",
+        "Thomas Mollerup, hidtil CEO i Aarsleff Rail, bliver ny koncernchef, senest fra 1. december 2027",
+        "Koncernen havde tidligere syv selvstændige forretningsenheder, siden 2019 reduceret til to geografiske områder"
+      ],
+      "section": "Who is moving",
+      "headline": "MT Højgaard samler koncernen under ledelse af ny topchef",
+      "primarySourceUrl": "https://dansk-byudvikling.dk/mt-hoejgaard-samler-koncernen-under-ledelse-af-ny-topchef",
+      "subheadline": "Thomas Mollerup forlader posten som CEO i Aarsleff Rail for at blive koncernchef i et sammenlagt MT Højgaard, der nu samles i to geografiske områder.",
+      "body": [
+        "MT Højgaard Holding og MT Højgaard Danmark fusioneres til ét selskab fra 2027. Koncernen havde tidligere syv forretningsenheder, nu reduceret til to geografiske områder, Øst og Vest. Thomas Mollerup, der har ledet Aarsleff Rail siden 2011, bliver ny koncernchef senest 1. december 2027.",
+        "Nuværende CEO Rasmus Untidt bliver siddende og implementerer strukturen, før han overdrager til Mollerup, der har næsten 30 års brancheerfaring."
+      ],
+      "whyItMatters": "At koncernen henter topchefen fra en intern søsterbranche snarere end udefra, signalerer kontinuitet efter års konsolidering. Bestyrelsesformand Morten Hansen fremhæver: 'kortere beslutningsveje og bedre udnyttelse af medarbejdernes kompetencer.'",
+      "analysis": "Fusionen af to selskaber til ét, oven på reduktionen fra syv enheder til to, er konsolidering der normalt sker stille — at den nu markeres med et lederskift tyder på et bevidst punktum for omstruktureringen.",
+      "image": {
+        "url": "https://usercontent.one/wp/dansk-byudvikling.dk/wp-content/uploads/2024/09/mt-hoejgaard-domicil-f-tb.jpg?media=1793211116",
+        "credit": "Kilde: Dansk Byudvikling",
+        "alt": "MT Højgaard samler koncernen under ledelse af ny topchef",
+        "sourceUrl": "https://dansk-byudvikling.dk/mt-hoejgaard-samler-koncernen-under-ledelse-af-ny-topchef"
+      },
+      "topics": [
+        "erhverv",
+        "who-is-moving",
+        "byggeri"
+      ],
+      "entities": [
+        "MT Højgaard",
+        "Thomas Mollerup",
+        "Rasmus Untidt",
+        "Morten Hansen",
+        "Aarsleff Rail"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 48,
+        "novelty": 65,
+        "sourceQuality": 60,
+        "personalRelevance": 70,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "MT Højgaard Holding og MT Højgaard Danmark fusioneres til ét selskab fra 2027 med Thomas Mollerup som ny koncernchef.",
+          "sourceUrls": [
+            "https://dansk-byudvikling.dk/mt-hoejgaard-samler-koncernen-under-ledelse-af-ny-topchef",
+            "https://www.nordicpropertynews.com/article/12357/thomas-mollerup-named-new-ceo-of-mt-hojgaard"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "MT Højgaard samler koncernen under ledelse af ny topchef",
+          "publisher": "Dansk Byudvikling",
+          "url": "https://dansk-byudvikling.dk/mt-hoejgaard-samler-koncernen-under-ledelse-af-ny-topchef",
+          "publishedAt": "2026-11-12T09:00:00Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Thomas Mollerup named new CEO of MT Højgaard",
+          "publisher": "Nordic Property News",
+          "url": "https://www.nordicpropertynews.com/article/12357/thomas-mollerup-named-new-ceo-of-mt-hojgaard",
+          "publishedAt": "2026-11-12T09:00:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-findsen-geopolitics-20261113",
+      "eventKey": "findsen-copenhagen-geopolitics-2026-11",
+      "materialFacts": [
+        "Lars Findsen udpeget som direktør for ny tænketank Copenhagen Geopolitics under Kraka-fonden",
+        "Sydbank finansierer flerårigt",
+        "Afløser Findsens tidligere tænketank Ny Verden, der lukkede i mangel af bæredygtig finansiering"
+      ],
+      "section": "Who is moving",
+      "headline": "Tidligere spionchef Lars Findsen skal stå i spidsen for ny tænketank",
+      "primarySourceUrl": "https://tidende.dk/ind-og-udland/indland-kriminal/tidligere-spionchef-lars-findsen-skal-staa-i-spidsen-for-ny-taenketank/409099",
+      "subheadline": "Efter sin første tænketank lukkede i mangel af finansiering, får Lars Findsen nu flerårig opbakning fra Sydbank til at bygge 'Copenhagen Geopolitics'.",
+      "body": [
+        "Den tidligere chef for FE og PET, Lars Findsen, er udpeget som direktør for en ny tænketank, Copenhagen Geopolitics, under Kraka-fonden. Sydbank finansierer flerårigt, med konfliktforsker Isabel Bramsen (Lund) og professor Ole Wæver (KU) om bord.",
+        "Tænketanken afløser Findsens Ny Verden, der lukkede i mangel af bæredygtig finansiering. 'Det vigtigste, jeg lærte, er at have en finansieringsbase, der kan køre i en årrække,' siger Findsen. Lancering ventes i 2027."
+      ],
+      "whyItMatters": "At en privat bank finansierer en geopolitisk tænketank flerårigt, er et tegn på udækket behov for dybere analyse — samme behov, der driver efterspørgslen efter tidligere embedsmænd med internationalt netværk.",
+      "analysis": "Findsens pointe om finansiering er en kommentar til hele branchen: korte bevillinger har kostet initiativer livet før ham. Om engagementet holder, afhænger af, om tænketanken leverer noget konkret.",
+      "image": {
+        "url": "https://tidende.dk/img/desktop.jpg",
+        "credit": "Kilde: Bornholms Tidende",
+        "alt": "Tidligere spionchef Lars Findsen skal stå i spidsen for ny tænketank",
+        "sourceUrl": "https://tidende.dk/ind-og-udland/indland-kriminal/tidligere-spionchef-lars-findsen-skal-staa-i-spidsen-for-ny-taenketank/409099"
+      },
+      "topics": [
+        "geopolitik",
+        "who-is-moving",
+        "danmark"
+      ],
+      "entities": [
+        "Lars Findsen",
+        "Kraka",
+        "Sydbank",
+        "Isabel Bramsen",
+        "Ole Wæver"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 48,
+        "decisionValue": 40,
+        "novelty": 72,
+        "sourceQuality": 65,
+        "personalRelevance": 55,
+        "contrast": 62
+      },
+      "claims": [
+        {
+          "text": "Lars Findsen er udpeget som direktør for den nye tænketank Copenhagen Geopolitics under Kraka-fonden, finansieret flerårigt af Sydbank.",
+          "sourceUrls": [
+            "https://tidende.dk/ind-og-udland/indland-kriminal/tidligere-spionchef-lars-findsen-skal-staa-i-spidsen-for-ny-taenketank/409099"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Tidligere spionchef Lars Findsen skal stå i spidsen for ny tænketank",
+          "publisher": "Bornholms Tidende",
+          "url": "https://tidende.dk/ind-og-udland/indland-kriminal/tidligere-spionchef-lars-findsen-skal-staa-i-spidsen-for-ny-taenketank/409099",
+          "publishedAt": "2026-11-11T19:36:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-focs-firefarve-20261113",
+      "eventKey": "focs-fire-farve-algoritme-2026-11",
+      "materialFacts": [
+        "Mikkel Thorup (KU) og Carsten Thomassen (DTU) vinder Best Paper Award ved FOCS 2026",
+        "Prisen gives for en markant hurtigere algoritme til det klassiske firefarveproblem",
+        "Samme konference: Knuth-prisen til Moni Naor, der fremhævede dansk forsker Stephen Alstrups forskningslinje"
+      ],
+      "section": "Videnskab",
+      "headline": "Danske forskere vinder international toppris for bedste forskningsartikel",
+      "primarySourceUrl": "https://www.computerworld.dk/art/297576",
+      "subheadline": "Et dansk-ledet team har udviklet en markant hurtigere algoritme til det klassiske firefarveproblem og vandt Best Paper Award ved verdens førende teoretiske datalogi-konference.",
+      "body": [
+        "Mikkel Thorup (KU) og Carsten Thomassen (DTU) har med kolleger vundet Best Paper Award ved FOCS 2026 i New York for en hurtigere algoritme til firefarveproblemet — at farvelægge et landkort med fire farver uden at to tilstødende områder får samme farve.",
+        "Samme konference gav Knuth-prisen til Moni Naor, der i sin takketale fremhævede danske Stephen Alstrups 30-årige forskningslinje i 'adjacency labeling'. Alstrup kaldte det usandsynligt, han selv vinder prisen, men var stolt over at blive nævnt."
+      ],
+      "whyItMatters": "FOCS er blandt de mest anerkendte konferencer i teoretisk datalogi, og prisen her rækker ud over fagkredsen — et dansk bidrag til grundforskning, der underbygger routing-algoritmer og AI-infrastruktur.",
+      "analysis": "Historien minder om, at dansk forskningsstyrke ikke kun findes i life science og vindenergi: ren datalogi leverer stadig resultater i topklasse — uden pressemeddelelser eller børsnotering.",
+      "image": {
+        "url": "https://www.computerworld.dk/fil/244106?width=1200&height=630&focus=1",
+        "credit": "Kilde: Computerworld",
+        "alt": "Foredrag ved FOCS 2026-konferencen i New York, hvor Stephen Alstrups forskning blev fremhævet",
+        "sourceUrl": "https://www.computerworld.dk/art/297576"
+      },
+      "topics": [
+        "videnskab",
+        "ai",
+        "danmark"
+      ],
+      "entities": [
+        "Mikkel Thorup",
+        "Carsten Thomassen",
+        "Københavns Universitet",
+        "DTU",
+        "Stephen Alstrup"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 45,
+        "decisionValue": 20,
+        "novelty": 78,
+        "sourceQuality": 82,
+        "personalRelevance": 30,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "Mikkel Thorup (KU) og Carsten Thomassen (DTU) modtog Best Paper Award ved FOCS 2026 for en hurtigere algoritme til firefarveproblemet.",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/297576"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Danske forskere vinder international toppris for bedste forskningsartikel",
+          "publisher": "Computerworld",
+          "url": "https://www.computerworld.dk/art/297576",
+          "publishedAt": "2026-11-12T18:21:00Z",
+          "kind": "reporting"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "Stormagters høje statsgæld hæmmer geopolitiske konflikter",
+      "headline": "Stormagters høje statsgæld hæmmer geopolitiske konflikter",
+      "url": "https://ugebrev.dk/finans/stormagters-hoeje-statsgaeld-haemmer-geopolitiske-konflikter/",
+      "publisher": "Økonomisk Ugebrev",
+      "section": "Makroøkonomi",
+      "publishedAt": "2026-11-12T10:55:00Z",
+      "summary": "Jacob Funk Kirkegaard: USA's og Kinas gæld ventes over hhv. 145% og 122% af BNP i 2031, hvilket ifølge analysen dæmper begge landes appetit på geopolitisk konflikt."
+    },
+    {
+      "text": "Ugens grafik: Kinas vigtighed stiger",
+      "headline": "Ugens grafik: Kinas vigtighed stiger",
+      "url": "https://ugebrev.dk/life-science/ugens-grafik-kinas-vigtighed-stiger/",
+      "publisher": "Økonomisk Ugebrev",
+      "section": "Life Science",
+      "publishedAt": "2026-11-12T10:00:00Z",
+      "summary": "Kinas andel af upfront-betalinger i store biopharma-licensaftaler er steget fra 40% sidste år til 59% i 2026."
+    },
+    {
+      "text": "ChemoMetec og den for hurtige opjustering",
+      "headline": "ChemoMetec og den for hurtige opjustering",
+      "url": "https://ugebrev.dk/formue/chemometec-og-den-for-hurtige-opjustering-2/",
+      "publisher": "Økonomisk Ugebrev",
+      "section": "Erhverv",
+      "publishedAt": "2026-11-12T09:00:00Z",
+      "summary": "ChemoMetec hæver forventningen til omsætning og EBITDA få uger efter årsrapporten, efter Q1-omsætning op 28%."
+    },
+    {
+      "text": "Elpris krydser grænse: Nu er besparelse mere end væk",
+      "headline": "Elpris krydser grænse: Nu er besparelse mere end væk",
+      "url": "https://www.dr.dk/nyheder/penge/elpris-krydser-graense-nu-er-besparelse-mere-end-vaek",
+      "publisher": "DR",
+      "section": "Energi",
+      "publishedAt": "2026-11-09T08:00:00Z",
+      "summary": "Spotprisen ramte 3,26 kr/kWh 9. november mod 0,92 kr/kWh sidste år, ventet 300-400 kr/md. ekstra for gennemsnitshusstande."
+    },
+    {
+      "text": "Danmark bliver vært for EM i cykling 2027",
+      "headline": "Danmark bliver vært for EM i cykling 2027",
+      "url": "https://sport.tv2.dk/cykling/2026-11-11-danmark-bliver-vaert-for-em-i-cykling",
+      "publisher": "TV 2 Sport",
+      "section": "Cykling",
+      "publishedAt": "2026-11-11T12:00:00Z",
+      "summary": "Herning og Silkeborg bliver værtsbyer for EM i landevejscykling i september 2027, finansieret med 21 mio. kr."
+    },
+    {
+      "text": "Båglårsskade tvinger Rune til afbud",
+      "headline": "Båglårsskade tvinger Rune til afbud",
+      "url": "https://www.dr.dk/sporten/tennis/holger-rune-moeder-stor-amerikansk-kanon",
+      "publisher": "DR Sporten",
+      "section": "Tennis",
+      "publishedAt": "2026-11-12T17:19:00Z",
+      "summary": "Holger Rune meldte afbud til kvartfinalen i Stockholm Open mod Taylor Fritz på grund af en skade."
+    },
+    {
+      "text": "Danmark er i VM-kvartfinalen uden at være på isen",
+      "headline": "Danmark er i VM-kvartfinalen uden at være på isen",
+      "url": "https://www.dr.dk/sporten/ishockey/danske-spillere-kan-slet-ikke-vente-til-vm-paa-hjemmebane",
+      "publisher": "DR Sporten",
+      "section": "Ishockey",
+      "publishedAt": "2026-11-12T15:00:00Z",
+      "summary": "Sveriges sejr over Japan sender Danmarks kvindelandshold i VM-kvartfinalen på hjemmebane, hvor USA venter."
+    },
+    {
+      "text": "Dom i Christiansø-drama lader vente på sig",
+      "headline": "Dom i Christiansø-drama lader vente på sig",
+      "url": "https://www.dr.dk/nyheder/seneste/dom-i-christiansoe-drama-lader-vente-paa-sig",
+      "publisher": "DR",
+      "section": "Krimi",
+      "publishedAt": "2026-11-12T16:12:00Z",
+      "summary": "Dommen mod den 29-årige, der sammenlignede Christiansø med Utøya på TikTok, er udskudt til næste torsdag."
+    },
+    {
+      "text": "Første smittetilfælde med mæslinger herhjemme i år",
+      "headline": "Første smittetilfælde med mæslinger herhjemme i år",
+      "url": "https://www.dr.dk/nyheder/seneste/foerste-smittetilfaelde-med-maeslinger-herhjemme-i-aar",
+      "publisher": "DR",
+      "section": "Sundhed",
+      "publishedAt": "2026-11-12T10:25:00Z",
+      "summary": "Første bekræftede mæslingetilfælde i Danmark i 2026, en voksen smittet under rejse i Sydasien."
+    },
+    {
+      "text": "Nordiske lande arbejder på ny forsvarsaftale",
+      "headline": "Nordiske lande arbejder på ny forsvarsaftale",
+      "url": "https://www.dr.dk/nyheder/seneste/nordiske-lande-arbejder-paa-ny-forsvarsaftale",
+      "publisher": "DR",
+      "section": "Forsvar",
+      "publishedAt": "2026-11-12T11:28:00Z",
+      "summary": "Danmark, Norge, Sverige og Island arbejder på en fælles aftale om lettere grænsepassage for militært personel og materiel."
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-botvinick-aipolfreedom-20261113",
+      "mode": "read",
+      "kind": "bog",
+      "status": "new",
+      "title": "AI and Political Freedom: The Risk to Democracy and How to Respond",
+      "creator": "Matthew Botvinick",
+      "provider": "Princeton University Press",
+      "url": "https://press.princeton.edu/books/hardcover/9780691291215/ai-and-political-freedom",
+      "availability": "På salg nu i USA som hardback og e-bog; britisk udgave følger 1. december 2026",
+      "commitment": "Flere timer",
+      "description": "Anthropic-forsker og Yale-gæsteforsker Matthew Botvinick argumenterer for, at AI-sikkerhed ikke kan adskilles fra demokratiske institutioners sundhed, og peger på rigere former for borgerdeltagelse som en del af svaret.",
+      "rationale": "Skrevet af en forsker inde i et frontier-lab snarere end en udefrakommende kritiker — præcis den slags institutionelt forankrede kilde, der kan sige noget om AI og magt uden at blive afvist som enten hype eller dommedagsretorik.",
+      "topics": [
+        "ai",
+        "demokrati",
+        "institutioner"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://pup-assets.s3.amazonaws.com/public/onix/images/9780691291215.jpg",
+        "credit": "Kilde: Princeton University Press",
+        "alt": "Forsiden af 'AI and Political Freedom' af Matthew Botvinick",
+        "sourceUrl": "https://press.princeton.edu/books/hardcover/9780691291215/ai-and-political-freedom"
+      }
+    },
+    {
+      "id": "rec-draghi-observatory-20261113",
+      "mode": "try",
+      "kind": "interaktivt værktøj",
+      "status": "available",
+      "title": "Draghi Observatory & Implementation Index",
+      "provider": "EPIC / KEFIM",
+      "url": "https://draghiwatch.eu/",
+      "availability": "Frit tilgængelig, ingen registrering",
+      "commitment": "10-15 minutter",
+      "description": "Et interaktivt dashboard, der sporer implementeringen af alle 383 anbefalinger fra Draghi-rapporten op mod faktisk bindende EU-lovgivning — ikke blot kommunikation. Seneste opgørelse (juli 2026): 15,7% fuldt implementeret, 41,3% helt eller delvist.",
+      "rationale": "Det er hans eget faglige felt, og værktøjet har netop den stringens, han selv ville efterspørge: det tæller kun bindende lov, ikke hensigtserklæringer — en skarpere målestok end de fleste pressehistorier om EU's konkurrenceevne.",
+      "topics": [
+        "eu",
+        "konkurrenceevne",
+        "industripolitik"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-noahsmith-azhar-aiboom-20261113",
+      "mode": "listen",
+      "kind": "podcast",
+      "status": "new",
+      "title": "Noah Smith and Azeem Azhar discuss the AI boom",
+      "creator": "Noah Smith, Azeem Azhar",
+      "provider": "Noahpinion",
+      "url": "https://www.noahpinion.blog/p/noah-smith-and-azeem-azhar-discuss",
+      "availability": "Frit tilgængelig bonusafsnit",
+      "commitment": "Ca. 90 minutter",
+      "description": "To af de mest citerede AI- og makrokommentatorer diskuterer, om AI-investeringsboomet er en boble, med en historisk parallel til jernbanernes ekspansion som ramme.",
+      "rationale": "Ingen konklusion, kun et skarpt skænderi mellem to folk, der tager hinanden alvorligt — netop den slags uafgjort, evidensdrevet debat der er mere værd end endnu en bekræftende AI-prognose.",
+      "topics": [
+        "ai",
+        "makrooekonomi",
+        "investering"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-ke26-denfrie-20261113",
+      "mode": "experience",
+      "kind": "kunstudstilling",
+      "status": "available",
+      "title": "Kunstnernes Efterårsudstilling 2026 (KE26)",
+      "provider": "Den Frie Udstillingsbygning",
+      "url": "https://denfrie.dk/en/exhibition/kunstnernes-efterarsudstilling-2026/",
+      "availability": "København, 8.-29. november 2026",
+      "commitment": "1-2 timer",
+      "description": "Danmarks ældste frie udstilling, grundlagt i 1900: værker af over 75 kunstnere, udvalgt anonymt af en jury på fire kunstnere uden kendskab til navn, baggrund eller netværk.",
+      "rationale": "Ren serendipitet uden for arbejdsprofilen — men med en struktur, der er værd at bide mærke i: en 126 år gammel meritokratisk udvælgelsesmekanisme, der stadig insisterer på at dømme værket og ikke navnet.",
+      "topics": [
+        "kunst",
+        "kultur",
+        "serendipitet"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {}
+}
