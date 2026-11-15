@@ -1,0 +1,738 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-11-15-01",
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T05:17:53Z",
+  "readingMinutes": 10,
+  "title": "Thomas' Nyheder",
+  "dek": "Kina går efter danske nøgleindustrier, techkorrektionen rammer danske pensioner, og Danmark giver Ronaldo en hård afsked.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "quality": {
+    "overall": 78,
+    "sourceVerification": 90,
+    "freshness": 75,
+    "diversity": 75
+  },
+  "stories": [
+    {
+      "id": "story-di-kina-femaarsplan-20261115",
+      "eventKey": "di-kina-femaarsplan-advarsel-202611",
+      "materialFacts": [
+        "DI's internationale direktør advarer om at Kinas nye femårsplan sigter mod vindenergi, energiteknologi, life science, IT og biosolutions",
+        "En DI-rundspørge blandt 173 virksomheder med Kina-relationer viser at knap halvdelen venter negative konsekvenser inden for 5-10 år, 77 pct. støtter målrettede EU-svar, og kun 3 pct. ønsker brede tariffer"
+      ],
+      "section": "Erhverv",
+      "headline": "DI: Elbilerne var kun begyndelsen – Danmarks nøgleindustrier er Kinas næste mål",
+      "primarySourceUrl": "https://via.ritzau.dk/pressemeddelelse/15277829/di-elbilerne-var-kun-begyndelsen-danmarks-nogleindustrier-er-kinas-naeste-mal?lang=da",
+      "subheadline": "DI's internationale direktør advarer om at Kinas nye femårsplan går efter de sektorer, hvor Danmark er stærkest.",
+      "body": [
+        "Kinas nye femårsplan sigter mod netop de sektorer, hvor Danmark er stærkest: vindenergi, energiteknologi, life science, IT og biosolutions. Det advarer DI's internationale direktør Sofie Carsten Nielsen om efter en DI-konference om Kina. »Elbilerne var kun begyndelsen. Den store trussel mod dansk industri er det næste, Kina satser på,« siger hun.",
+        "En DI-rundspørge blandt 173 virksomheder med Kina-relationer viser, at knap halvdelen venter negative konsekvenser af kinesisk konkurrence inden for fem til ti år. 77 procent støtter målrettede EU-svar mod ulige konkurrence – men kun 3 procent ønsker brede tariffer mod alt kinesisk."
+      ],
+      "whyItMatters": "For virksomheder med Kina-eksponering er budskabet konkret: det er ikke kun elbiler og paneler, men hele den danske styrkeliste, der er i sigtekornet, og EU's handelsunderskud med Kina – en milliard euro om dagen – giver advarslen politisk vægt.",
+      "analysis": "Advarslen kommer, mens Bruxelles forsøger at balancere afhængighedsreduktion mod markedsadgang, og DI's egne tal viser en virksomhedsbase der vil målrettede svar, ikke en handelskrig – en nuance der let går tabt i den hårdere tone fra Washington.",
+      "image": {
+        "url": "https://via.ritzau.dk/data/images/public/5524343/15277829/3101b073-9d49-4a3c-97bd-3444d119a6b1-w_960.jpeg",
+        "credit": "Kilde: DI",
+        "alt": "Sofie Carsten Nielsen, DI's internationale direktør.",
+        "sourceUrl": "https://via.ritzau.dk/pressemeddelelse/15277829/di-elbilerne-var-kun-begyndelsen-danmarks-nogleindustrier-er-kinas-naeste-mal?lang=da"
+      },
+      "topics": [
+        "kina",
+        "konkurrencekraft",
+        "eu-handel",
+        "erhvervsorganisationer"
+      ],
+      "entities": [
+        "Dansk Industri",
+        "Sofie Carsten Nielsen",
+        "Kina"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 70,
+        "decisionValue": 65,
+        "novelty": 55,
+        "sourceQuality": 70,
+        "personalRelevance": 90,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "DI's internationale direktør Sofie Carsten Nielsen advarer om at Kinas nye femårsplan sigter mod danske styrkeområder: vind, energiteknologi, life science, IT og biosolutions.",
+          "sourceUrls": [
+            "https://via.ritzau.dk/pressemeddelelse/15277829/di-elbilerne-var-kun-begyndelsen-danmarks-nogleindustrier-er-kinas-naeste-mal?lang=da"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "En DI-rundspørge blandt 173 virksomheder med Kina-relationer viser at knap halvdelen forventer negative konsekvenser af kinesisk konkurrence inden for 5-10 år; 77 pct. støtter målrettede EU-tiltag.",
+          "sourceUrls": [
+            "https://via.ritzau.dk/pressemeddelelse/15277829/di-elbilerne-var-kun-begyndelsen-danmarks-nogleindustrier-er-kinas-naeste-mal?lang=da"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "DI: Elbilerne var kun begyndelsen – Danmarks nøgleindustrier er Kinas næste mål",
+          "publisher": "Dansk Industri",
+          "url": "https://via.ritzau.dk/pressemeddelelse/15277829/di-elbilerne-var-kun-begyndelsen-danmarks-nogleindustrier-er-kinas-naeste-mal?lang=da",
+          "publishedAt": "2026-11-09T13:01:21Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-nasdaq-pension-20261115",
+      "eventKey": "nasdaq-ai-korrektion-pension-202611",
+      "materialFacts": [
+        "Nasdaq 100 faldt under sit 200-dages gennemsnit efter et mislykket genopretningsforsøg",
+        "En gennemsnitlig PFA-kunde med 1 mio. kr. i pension har tabt ca. 7.000 kr. (0,7 pct.) over en måned"
+      ],
+      "section": "Økonomi",
+      "headline": "Chefredaktøren har ordet – Scener fra en aktienedtur: Tjek disse to grafer",
+      "primarySourceUrl": "https://ugebrev.dk/formue/chefredaktoeren-har-ordet-scener-fra-en-aktienedtur-tjek-disse-to-grafer/",
+      "subheadline": "Et amerikansk teknologi- og AI-korrektion har allerede nået danske pensionskonti.",
+      "body": [
+        "Nasdaq 100 faldt under sit 200-dages gennemsnit, efter et genopretningsforsøg løb ud i sandet fredag aften i USA. Analytikernes opjustering af techsektorens indtjeningsforventning taber momentum, skriver Økonomisk Ugebrev, og Jefferies vurderer at AI-investeringer alene har bidraget 1,4 procentpoint af den amerikanske realvækst på 2,1 procent for året frem til og med tredje kvartal.",
+        "Udsvingene er nået til danske pensionskonti: en gennemsnitlig PFA-kunde med en million kroner i opsparing har tabt ca. 7.000 kroner – 0,7 procent – over en måned, oplyser PFA, der har over 1,3 mio. danske kunder."
+      ],
+      "whyItMatters": "To tredjedele af amerikansk vækst hænger nu på AI-investeringer, så en opbremsning rammer bredere end techaktier – og direkte ind i danskeres pension.",
+      "analysis": "PFA råder til ro: for en ung opsparer er høj aktieandel fortsat rigtig, men udsvinget minder om, hvor hurtigt AI-præmien kan genprisfastsættes.",
+      "image": {
+        "url": "https://ugebrev.dk/wp-content/uploads/2025/01/Wall-Street.jpg",
+        "credit": "Kilde: Økonomisk Ugebrev",
+        "alt": "Arkivfoto fra Wall Street. Den amerikanske aktiekorrektion har bredt sig til danske pensionsopsparinger.",
+        "sourceUrl": "https://ugebrev.dk/formue/chefredaktoeren-har-ordet-scener-fra-en-aktienedtur-tjek-disse-to-grafer/"
+      },
+      "topics": [
+        "makro",
+        "aktiemarked",
+        "ai",
+        "pension"
+      ],
+      "entities": [
+        "Nasdaq 100",
+        "Jefferies",
+        "PFA",
+        "Tine Choi Danielsen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 65,
+        "decisionValue": 60,
+        "novelty": 55,
+        "sourceQuality": 70,
+        "personalRelevance": 65,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Nasdaq 100 faldt under sit 200-dages gennemsnit; Jefferies vurderer AI-investeringer har bidraget 1,4 procentpoint af amerikansk realvækst på 2,1 procent for året frem til og med Q3.",
+          "sourceUrls": [
+            "https://ugebrev.dk/formue/chefredaktoeren-har-ordet-scener-fra-en-aktienedtur-tjek-disse-to-grafer/"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "En gennemsnitlig PFA-kunde med 1 mio. kr. i pensionsopsparing har tabt ca. 7.000 kr. (0,7 pct.) over en måned.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/vilde-aktieudsving-faar-din-pension-til-skrumpe-men-de-fleste-kan-tage-det-roligt"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Chefredaktøren har ordet – Scener fra en aktienedtur: Tjek disse to grafer",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/formue/chefredaktoeren-har-ordet-scener-fra-en-aktienedtur-tjek-disse-to-grafer/",
+          "publishedAt": "2026-11-14T12:01:49Z",
+          "kind": "primary"
+        },
+        {
+          "title": "Vilde aktieudsving får din pension til at skrumpe - men de fleste kan tage det roligt",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/penge/vilde-aktieudsving-faar-din-pension-til-skrumpe-men-de-fleste-kan-tage-det-roligt",
+          "publishedAt": "2026-11-14T16:15:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-businesseurope-us-20261115",
+      "eventKey": "businesseurope-us-mission-202611",
+      "materialFacts": [
+        "BusinessEuropes præsident ledede en delegation til USA og mødtes med USTR-repræsentant Jeff Goettman ved et B20-arrangement",
+        "Samhandlen mellem EU og USA angives til 1,7 billioner euro årligt og ca. 10 mio. direkte job"
+      ],
+      "section": "Erhverv",
+      "headline": "EU and US shared economic interests should translate into a shared agenda",
+      "primarySourceUrl": "https://www.businesseurope.eu/news/eu-and-us-shared-economic-interests-should-translate-into-a-shared-agenda/",
+      "subheadline": "BusinessEurope besøgte Washington for at genopbygge en fælles transatlantisk dagsorden efter en periode med tarif-uenigheder.",
+      "body": [
+        "En BusinessEurope-delegation med præsident Maciej Witucki besøgte USA i sidste uge og mødtes med vicehandelsrepræsentant Jeff Goettman ved et B20-møde hos US Chamber of Commerce. »Ingen af siderne kan føre alene. Konkurrencen er hård og tager til dag for dag. Vores forskning, talent, kapital og markeder er stærkest, når de kombineres,« sagde Witucki.",
+        "Delegationen talte også generaldirektør Markus J. Beyrer og vicegeneraldirektør Luisa Santos. Handel med varer og tjenester mellem EU og USA når 1,7 billioner euro om året – 4,6 mia. euro dagligt – og understøtter omkring 10 mio. direkte job."
+      ],
+      "whyItMatters": "Begge sider forfølger nu det, BusinessEurope kalder legitim økonomisk sikkerhed – men udfordringen er at gøre det uden nye barrierer mellem allierede.",
+      "analysis": "Besøget viser, at europæisk erhvervsliv vil genopbygge en fælles dagsorden med Washington efter tarif-uenigheder – uden en konkret aftale ud af mødet.",
+      "image": {
+        "url": "https://www.businesseurope.eu/wp-content/uploads/2026/11/2026-11-12-USA-mission_for-news.gif",
+        "credit": "Kilde: BusinessEurope",
+        "alt": "BusinessEuropes delegation på besøg hos USTR og B20-konferencen i USA, november 2026.",
+        "sourceUrl": "https://www.businesseurope.eu/news/eu-and-us-shared-economic-interests-should-translate-into-a-shared-agenda/"
+      },
+      "topics": [
+        "eu-us-handel",
+        "transatlantisk",
+        "erhvervsorganisationer"
+      ],
+      "entities": [
+        "BusinessEurope",
+        "Maciej Witucki",
+        "Jeff Goettman",
+        "US Chamber of Commerce"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 55,
+        "novelty": 50,
+        "sourceQuality": 75,
+        "personalRelevance": 95,
+        "contrast": 30
+      },
+      "claims": [
+        {
+          "text": "En BusinessEurope-delegation ledet af præsident Maciej Witucki besøgte USA og mødtes med vicehandelsrepræsentant Jeff Goettman ved et B20-arrangement.",
+          "sourceUrls": [
+            "https://www.businesseurope.eu/news/eu-and-us-shared-economic-interests-should-translate-into-a-shared-agenda/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Samhandlen mellem EU og USA i varer og tjenester når 1,7 billioner euro årligt og understøtter ca. 10 mio. direkte job.",
+          "sourceUrls": [
+            "https://www.businesseurope.eu/news/eu-and-us-shared-economic-interests-should-translate-into-a-shared-agenda/"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "EU and US shared economic interests should translate into a shared agenda",
+          "publisher": "BusinessEurope",
+          "url": "https://www.businesseurope.eu/news/eu-and-us-shared-economic-interests-should-translate-into-a-shared-agenda/",
+          "publishedAt": "2026-11-12T10:03:04Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-di-skattereform-20261115",
+      "eventKey": "di-skattereform-virksomhedskonsekvenser-202611",
+      "materialFacts": [
+        "DI's gennemgang viser at den 60-dages momsfrist for SMV'er under 50 mio. kr. i omsætning bevares i skattereformen",
+        "DI advarer om stigende arbejdsskadeforsikringsudgifter og nye gebyrer for sprogundervisning til udenlandske medarbejdere"
+      ],
+      "section": "Erhverv",
+      "headline": "Dét betyder skattereformen for din virksomhed - DI",
+      "primarySourceUrl": "https://www.danskindustri.dk/di-business/arkiv/nyheder/2026/11/lavere-selskabsskat--men-hvad-betyder-skattereformen-ellers-for-din-virksomhed/",
+      "subheadline": "DI's politiske direktør peger på de mindre synlige poster i skattereformen, som virksomhederne skal regne med.",
+      "body": [
+        "Ud over selskabsskattelettelsen peger DI i en gennemgang af skattereformen på, at den 60-dages momsfrist for SMV'er under 50 mio. kroner i omsætning bevares. Samtidig advarer DI om stigende arbejdsskadeforsikringsudgifter og nye gebyrer for sprogundervisning til udenlandske medarbejdere.",
+        "Den såkaldte hovedaktionærmodel er fortsat under forhandling mellem DI og skatte- og vækstminister Jakob Engel-Schmidt – et punkt, der ifølge DI's politiske direktør Morten Høyer stadig kan ændre sig."
+      ],
+      "whyItMatters": "For virksomheder, der har fejret skattelettelsen, er beskeden at bogen ikke er lukket: flere af de mindre synlige poster trækker den anden vej, og det er dem, en rådgiver skal kunne regne på.",
+      "analysis": "At DI selv udsender en afdæmpet gennemgang frem for en sejrserklæring er et tegn på, at organisationen fortsat forhandler enkeltdele af reformen, mens den offentlige fortælling er videre.",
+      "image": {
+        "url": "https://www.danskindustri.dk/globalassets/di-business/okonomi-skat-og-finans/morten-hoyer-jakob-engel-schmidt-16x9-foto-di-.jpg",
+        "credit": "Video: Eva Guld Klausen / DI",
+        "alt": "DI's politiske direktør Morten Høyer i videosamtale med skatte- og vækstminister Jakob Engel-Schmidt om skattereformen.",
+        "sourceUrl": "https://www.danskindustri.dk/di-business/arkiv/nyheder/2026/11/lavere-selskabsskat--men-hvad-betyder-skattereformen-ellers-for-din-virksomhed/"
+      },
+      "topics": [
+        "skat",
+        "erhvervsvilkaar",
+        "di"
+      ],
+      "entities": [
+        "Dansk Industri",
+        "Morten Høyer",
+        "Jakob Engel-Schmidt",
+        "skatte- og vækstministeriet"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 50,
+        "decisionValue": 60,
+        "novelty": 45,
+        "sourceQuality": 70,
+        "personalRelevance": 85,
+        "contrast": 20
+      },
+      "claims": [
+        {
+          "text": "DI's gennemgang af skattereformen peger på at den 60-dages momsfrist for SMV'er under 50 mio. kr. i omsætning bevares, mens arbejdsskadeforsikring og nye sprogundervisningsgebyrer ventes at stige.",
+          "sourceUrls": [
+            "https://www.danskindustri.dk/di-business/arkiv/nyheder/2026/11/lavere-selskabsskat--men-hvad-betyder-skattereformen-ellers-for-din-virksomhed/"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Dét betyder skattereformen for din virksomhed - DI",
+          "publisher": "Dansk Industri",
+          "url": "https://www.danskindustri.dk/di-business/arkiv/nyheder/2026/11/lavere-selskabsskat--men-hvad-betyder-skattereformen-ellers-for-din-virksomhed/",
+          "publishedAt": "2026-11-13T12:29:19Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-novo-frehemgo-20261115",
+      "eventKey": "novo-frehemgo-eu-godkendelse-202611",
+      "materialFacts": [
+        "Europa-Kommissionen har godkendt Novo Nordisks FREHEMGO (denecimig) mod blødninger hos hæmofili A-patienter",
+        "Godkendelsen bygger på FRONTIER2/FRONTIER3-forsøgene; produktet er godkendt i Saudi-Arabien og under FDA-behandling i USA"
+      ],
+      "section": "Erhverv",
+      "headline": "EU godkender Novo Nordisks FREHEMGO mod hæmofili A",
+      "primarySourceUrl": "https://ugebrev.dk/flashnews/eu-godkender-novo-nordisks-frehemgo-mod-haemofili-a/",
+      "subheadline": "Godkendelsen giver Novo Nordisk endnu et ben at stå på uden for GLP-1-præparaterne.",
+      "body": [
+        "Europa-Kommissionen har godkendt Novo Nordisks FREHEMGO (denecimig) mod blødninger hos patienter med hæmofili A. Stoffet gives som indsprøjtning under huden med fleksibel dosering – månedligt, hver anden uge eller ugentligt.",
+        "Godkendelsen bygger på FRONTIER2-forsøget, hvor denecimig reducerede antallet af blødninger sammenlignet med tidligere faktorbehandling, samt FRONTIER3-data hos børn. Produktet er godkendt i Saudi-Arabien og under FDA-behandling i USA; lancering i Europa ventes i udvalgte lande snart."
+      ],
+      "whyItMatters": "For Novo Nordisk, der stadig lever af GLP-1-præparaternes vækst, er FREHEMGO et konkret bevis på en pipeline uden for diabetes og fedme – relevant hvor et enkelt selskab vejer tungt i BNP og eksport.",
+      "analysis": "Hæmofili A-markedet har konkurrerende antistofbehandlinger; FREHEMGO's fleksible doseringsskema er Novos forsøg på at differentiere sig på andet end virkningsgrad alene.",
+      "topics": [
+        "pharma",
+        "novo-nordisk",
+        "eksport",
+        "sundhed"
+      ],
+      "entities": [
+        "Novo Nordisk",
+        "FREHEMGO",
+        "Europa-Kommissionen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 50,
+        "decisionValue": 45,
+        "novelty": 65,
+        "sourceQuality": 70,
+        "personalRelevance": 70,
+        "contrast": 25
+      },
+      "claims": [
+        {
+          "text": "Europa-Kommissionen har godkendt FREHEMGO (denecimig) til rutinemæssig forebyggelse af blødninger hos hæmofili A-patienter, baseret på FRONTIER2/FRONTIER3-forsøgene.",
+          "sourceUrls": [
+            "https://ugebrev.dk/flashnews/eu-godkender-novo-nordisks-frehemgo-mod-haemofili-a/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "EU godkender Novo Nordisks FREHEMGO mod hæmofili A",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/flashnews/eu-godkender-novo-nordisks-frehemgo-mod-haemofili-a/",
+          "publishedAt": "2026-11-14T07:24:55Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-bronshoj-skuddrab-20261115",
+      "eventKey": "bronshoj-skuddrab-retssag-202611",
+      "materialFacts": [
+        "En 63-årig mand er tiltalt for at skyde sin fraskilte hustru i Brønshøj trods et gældende tilhold",
+        "Telefondata viser 807 opkald over 68 dage, heraf 136 dagen før drabet; dom forventes i december"
+      ],
+      "section": "Danmark",
+      "headline": "Tiltalt for skuddrab: Sov i bil foran ekskones bopæl trods tilhold",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/tiltalt-skuddrab-sov-i-bil-foran-ekskones-bopael-trods-tilhold",
+      "subheadline": "Retssagen om Brønshøj-drabet afdækker 807 opkald over 68 dage, trods et gældende tilhold.",
+      "body": [
+        "En 63-årig mand er ved Frederiksberg Ret tiltalt for at skyde sin fraskilte hustru i Brønshøj, selvom der var udstedt tilhold mod ham efter deres skilsmisse i 2022. Manden erkender at have skudt, men bestrider antallet af skud – han siger et eller to, mens politiets logs viser over ti.",
+        "Telefondata viser 807 opkald fra manden til hende over 68 dage, heraf 136 opkald dagen før drabet. En mentalundersøgelse har fundet ham skikket til almindelig straf; dom i sagen forventes i december."
+      ],
+      "whyItMatters": "Sagen er et eksempel på, hvor lidt et tilhold reelt kan stoppe, når en tidligere partner er fast besluttet på kontakt – 136 opkald på et enkelt døgn nåede frem, uden at nogen greb ind før det var for sent.",
+      "analysis": "Rettens afgørelse om straffens omfang vil i december bero på, hvordan den vægter mandens egen version af skudantallet mod politiets logning – en detalje, der ikke ændrer skylden, men kan ændre straffen.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/ziydurhb/20250616-153827-4_crop001.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Foto: Thomas Borberg/Ritzau Scanpix",
+        "alt": "Politi til stede i Brønshøj, hvor en kvinde blev skudt og dræbt i juni 2025.",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/tiltalt-skuddrab-sov-i-bil-foran-ekskones-bopael-trods-tilhold"
+      },
+      "topics": [
+        "kriminalitet",
+        "retssager",
+        "almen-nyheder"
+      ],
+      "entities": [
+        "Frederiksberg Ret",
+        "Brønshøj"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 50,
+        "decisionValue": 15,
+        "novelty": 55,
+        "sourceQuality": 80,
+        "personalRelevance": 5,
+        "contrast": 75
+      },
+      "claims": [
+        {
+          "text": "En 63-årig mand er tiltalt ved Frederiksberg Ret for at skyde sin fraskilte hustru i Brønshøj trods et gældende tilhold.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/tiltalt-skuddrab-sov-i-bil-foran-ekskones-bopael-trods-tilhold"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Telefondata viser 807 opkald fra manden til hende over 68 dage, heraf 136 opkald dagen før drabet; en mentalundersøgelse finder ham skikket til almindelig straf, og dom forventes i december.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/tiltalt-skuddrab-sov-i-bil-foran-ekskones-bopael-trods-tilhold"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Tiltalt for skuddrab: Sov i bil foran ekskones bopæl trods tilhold",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/tiltalt-skuddrab-sov-i-bil-foran-ekskones-bopael-trods-tilhold",
+          "publishedAt": "2026-11-12T19:13:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-dk-portugal-sejr-20261115",
+      "eventKey": "danmark-portugal-nations-league-202611",
+      "materialFacts": [
+        "Danmark vandt 4-1 ude over Portugal i Nations League, i Cristiano Ronaldos sidste landskamp",
+        "Rasmus Højlund scorede to gange; Pierre-Emile Højbjerg og Joachim Andersen scorede også"
+      ],
+      "section": "Sport",
+      "headline": "Danmark ydmyger Portugal på eget græs",
+      "primarySourceUrl": "https://www.dr.dk/sporten/fodbold/landsholdet/danmark-ydmyger-portugal-paa-eget-graes",
+      "subheadline": "Danmark vandt 4-1 i Braga, i en kamp hvor Portugal også hyldede Cristiano Ronaldo i hans fravær.",
+      "body": [
+        "Danmark vandt 4-1 ude over Portugal i Nations League i Braga. Rasmus Højlund scorede to gange i åbent spil, Pierre-Emile Højbjerg lagde en straffe ind, og Joachim Andersen stod for det fjerde danske mål.",
+        "Danmark havde allerede sikret gruppens tredjeplads før kampen, men mødte alligevel en Portugal-opstilling med Bruno Fernandes, João Félix og Pedro Neto. Portugal fik et sent trøstmål, men truede aldrig det danske overtag."
+      ],
+      "whyItMatters": "En sikker udebanesejr mod et landshold med flere af Europas bedste navne – selv uden sportslig betydning for Danmark – er et pejlemærke før kommende kvalifikationskampe.",
+      "analysis": "Kampen var også en hyldest til Ronaldo, der ikke selv var til stede – tribunerne klappede af ham som fraværende efter syv minutter – hvilket gjorde aftenen til mere en skildring af en epoke, der er slut, end en duel på banen.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/5tmd42c0/20261114-215604-l_crop001.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Rasmus Højlund jubler efter scoring mod Portugal i Braga.",
+        "sourceUrl": "https://www.dr.dk/sporten/fodbold/landsholdet/danmark-ydmyger-portugal-paa-eget-graes"
+      },
+      "topics": [
+        "fodbold",
+        "landshold",
+        "sport"
+      ],
+      "entities": [
+        "Danmarks herrelandshold",
+        "Rasmus Højlund",
+        "Pierre-Emile Højbjerg",
+        "Joachim Andersen",
+        "Cristiano Ronaldo"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 35,
+        "decisionValue": 10,
+        "novelty": 55,
+        "sourceQuality": 80,
+        "personalRelevance": 40,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Danmark vandt 4-1 ude over Portugal i Nations League; Højlund scorede to gange i åbent spil, Højbjerg scorede på straffe, og Joachim Andersen scorede også. Ronaldo var ikke selv til stede, men blev hyldet af tribunerne.",
+          "sourceUrls": [
+            "https://www.dr.dk/sporten/fodbold/landsholdet/danmark-ydmyger-portugal-paa-eget-graes"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Danmark ydmyger Portugal på eget græs",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/sporten/fodbold/landsholdet/danmark-ydmyger-portugal-paa-eget-graes",
+          "publishedAt": "2026-11-14T21:39:59Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-ishockey-usa-tab-20261115",
+      "eventKey": "dk-ishockey-vm-kvartfinale-usa-202611",
+      "materialFacts": [
+        "Danmarks kvindelandshold tabte VM-kvartfinalen i ishockey 0-14 til USA i Herning",
+        "USA affyrede 85 skud mod Danmarks 8"
+      ],
+      "section": "Sport",
+      "headline": "USA's stjerner skiller Danmark ad i VM-kvartfinale",
+      "primarySourceUrl": "https://www.dr.dk/sporten/ishockey/danske-spillere-kan-slet-ikke-vente-til-vm-paa-hjemmebane",
+      "subheadline": "Danmark tabte 0-14 til forsvarende verdens- og OL-mestre USA i hjemme-VM'et i Herning.",
+      "body": [
+        "Danmarks kvindelandshold i ishockey tabte VM-kvartfinalen i hjemmebyen Herning 0-14 til forsvarende verdens- og OL-mestre USA. »VM-kvartfinalen mod USA sluttede med et nederlag på hele 0-14,« skriver DR. USA affyrede 85 skud mod Danmarks 8.",
+        "USA, der er forsvarende verdens- og OL-mestre, levede ifølge DR op til favoritværdigheden og går videre til en semifinale mod Finland."
+      ],
+      "whyItMatters": "Nederlaget siger mere om afstanden til verdens bedste ishockeynationer end om det danske hold selv, der trods lørdagens ensidige opgør spillede sig til en kvartfinale på hjemmebane.",
+      "analysis": "Et 0-14-nederlag til den forsvarende mester er sjældent en overraskelse – men adgangsbilletten til VM-kvartfinalen på hjemmebane i Herning stod ved sin egen værdi, uanset modstanden i den sidste kamp.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/gerjquta/20261113-201349-l_crop001.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Danske spillere på bænken under VM i ishockey.",
+        "sourceUrl": "https://www.dr.dk/sporten/ishockey/danske-spillere-kan-slet-ikke-vente-til-vm-paa-hjemmebane"
+      },
+      "topics": [
+        "ishockey",
+        "landshold",
+        "sport"
+      ],
+      "entities": [
+        "Danmarks kvindelandshold i ishockey",
+        "USA's kvindelandshold",
+        "Herning"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 30,
+        "decisionValue": 10,
+        "novelty": 50,
+        "sourceQuality": 80,
+        "personalRelevance": 35,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Danmarks kvindelandshold tabte VM-kvartfinalen i Herning 0-14 til forsvarende verdens- og OL-mestre USA, der affyrede 85 skud mod Danmarks 8.",
+          "sourceUrls": [
+            "https://www.dr.dk/sporten/ishockey/danske-spillere-kan-slet-ikke-vente-til-vm-paa-hjemmebane"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "USA's stjerner skiller Danmark ad i VM-kvartfinale",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/sporten/ishockey/danske-spillere-kan-slet-ikke-vente-til-vm-paa-hjemmebane",
+          "publishedAt": "2026-11-13T20:49:00Z",
+          "kind": "reporting"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "DI styrker arbejde med politik og reformer",
+      "headline": "DI styrker arbejde med politik og reformer",
+      "url": "https://via.ritzau.dk/pressemeddelelse/15259789/di-styrker-arbejde-med-politik-og-reformer?publisherId=5524343&lang=da",
+      "publisher": "Dansk Industri",
+      "section": "Erhverv",
+      "publishedAt": "2026-10-30T12:30:00Z",
+      "summary": "DI har fra 1. november omorganiseret sin politiske afdeling; Jakob Ullegård, tidligere særlig rådgiver for Troels Lund Poulsen, bliver vicedirektør for Økonomi & Reformer."
+    },
+    {
+      "text": "Ny organisering skal ruste Landbrug & Fødevarer til fremtiden",
+      "headline": "Ny organisering skal ruste Landbrug & Fødevarer til fremtiden",
+      "url": "https://via.ritzau.dk/pressemeddelelse/15256215/ny-organisering-skal-ruste-landbrug-and-fodevarer-til-fremtiden?publisherId=13559978&lang=da",
+      "publisher": "Landbrug & Fødevarer",
+      "section": "Erhverv",
+      "publishedAt": "2026-10-29T12:35:00Z",
+      "summary": "L&F samler ledelsen i ét syv-personers eksekutivteam fra 1. november; Claus Horsted får ansvar for Samfund, Kommunikation & Omdømme."
+    },
+    {
+      "text": "Danmarks Erhvervsfremme-bestyrelse skal hjælpe SMV'erne - DI",
+      "headline": "Danmarks Erhvervsfremme-bestyrelse skal hjælpe SMV'erne - DI",
+      "url": "https://www.danskindustri.dk/di-business/arkiv/nyheder/2026/11/sadan-skal-danmarks-erhvervsfremmebestyrelse-hjalpe-smverne",
+      "publisher": "Dansk Industri",
+      "section": "Erhverv",
+      "publishedAt": "2026-11-04T13:47:59Z",
+      "summary": "Sofie Irgens, CEO i Schneider Electric Denmark, er ny formand og skal allokere over 400 mio. kr. til nye SMV-tiltag for 2027, rettet mod teknologiske, grønne og geopolitiske forandringer."
+    },
+    {
+      "text": "Byggebranchens sårbarheder over for kriminalitet er nu kortlagt",
+      "headline": "Byggebranchens sårbarheder over for kriminalitet er nu kortlagt",
+      "url": "https://via.ritzau.dk/pressemeddelelse/15279016/byggebranchens-sarbarheder-over-for-kriminalitet-er-nu-kortlagt?lang=da",
+      "publisher": "Dansk Industri / 3F Byggegruppen",
+      "section": "Erhverv",
+      "publishedAt": "2026-11-10T07:31:00Z",
+      "summary": "Første nationale kortlægning af byggebranchens kriminalitetsrisiko, udarbejdet af konsulenthuset NXT og CBS-forskere for DI Byggeri, 3F Byggegruppen og Brancheforum mod kriminalitet i byggeriet."
+    },
+    {
+      "text": "18-årig fodgænger på traumecenter efter påkørsel",
+      "headline": "18-årig fodgænger på traumecenter efter påkørsel",
+      "url": "https://nyheder.tv2.dk/trafik/2026-11-15-18-aarig-fodgaenger-paa-traumecenter-efter-paakoersel",
+      "publisher": "TV 2",
+      "section": "Danmark",
+      "publishedAt": "2026-11-15T04:26:41Z",
+      "summary": "18-årig mand påkørt natten til søndag i Frederiksværk og kørt til traumecenteret på Rigshospitalet; politiet oplyser han er uden livsfare."
+    },
+    {
+      "text": "Politiet slog til, da tre personer stod med tyvekoster ved parkeringsplads",
+      "headline": "Politiet slog til, da tre personer stod med tyvekoster ved parkeringsplads",
+      "url": "https://www.dr.dk/nyheder/indland/politiet-slog-til-da-tre-personer-stod-med-tyvekoster-ved-parkeringsplads",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-11-13T18:32:00Z",
+      "summary": "Tre personer anholdt for at udgive sig som bankmedarbejdere og franarre borgere i Aalborg og Klarup penge og smykker."
+    },
+    {
+      "text": "Salget af bind til mænd er eksploderet, men det kan være tegn på, at hjælpen mangler",
+      "headline": "Salget af bind til mænd er eksploderet, men det kan være tegn på, at hjælpen mangler",
+      "url": "https://www.dr.dk/nyheder/indland/salget-af-bind-til-maend-er-eksploderet-men-det-kan-vaere-tegn-paa-hjaelpen-mangler",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-11-14T08:20:00Z",
+      "summary": "Producenten Abena har tredoblet produktionen af herrebind på fire år; eksperter advarer om at mænd undgår lægehjælp for inkontinens."
+    },
+    {
+      "text": "25-årig vikar idømt fængsel for voldtægter i hjemmeplejen",
+      "headline": "25-årig vikar idømt fængsel for voldtægter i hjemmeplejen",
+      "url": "https://www.dr.dk/nyheder/indland/25-aarig-vikar-idoemt-faengsel-voldtaegter-i-hjemmeplejen",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-11-13T12:03:16Z",
+      "summary": "Odense Ret idømmer 25-årig vikar 18 måneders fængsel for overgreb mod en 91-årig kvinde og en handicappet person; udvises med seks års indrejseforbud."
+    },
+    {
+      "text": "Johan Price-Pejtersen stopper karrieren som 27-årig",
+      "headline": "Johan Price-Pejtersen stopper karrieren som 27-årig",
+      "url": "https://sport.tv2.dk/cykling/2026-11-10-dansker-stopper-karrieren-som-27-aarig",
+      "publisher": "TV 2",
+      "section": "Sport",
+      "publishedAt": "2026-11-10T18:16:00Z",
+      "summary": "Tidligere U23-verdensmester i enkeltstart stopper som 27-årig efter mentale udfordringer hos Alpecin; slutter karrieren uden en professionel sejr."
+    },
+    {
+      "text": "Sulten Valgren tror på nyt niveau efter skifte",
+      "headline": "Sulten Valgren tror på nyt niveau efter skifte",
+      "url": "https://sport.tv2.dk/cykling/2026-11-10-sulten-valgren-tror-paa-nyt-niveau-efter-skifte",
+      "publisher": "TV 2",
+      "section": "Sport",
+      "publishedAt": "2026-11-12T14:53:45Z",
+      "summary": "Michael Valgren (34) skriver to-årig kontrakt med Netcompany Ineos efter sin første Grand Tour-etapesejr ved Giro d'Italia."
+    },
+    {
+      "text": "Erhvervs- og konkurrencekraftsministeren rejser til Kina",
+      "headline": "Erhvervs- og konkurrencekraftsministeren rejser til Kina",
+      "url": "https://via.ritzau.dk/pressemeddelelse/15268658/erhvervs-og-konkurrencekraftsministeren-rejser-til-kina?lang=da",
+      "publisher": "Erhvervsministeriet",
+      "section": "Erhverv",
+      "publishedAt": "2026-11-04T06:00:00Z",
+      "summary": "Martin Lidegaard besøgte Kina for at drøfte grøn omstilling, elektrificering og teknologi, og besøgte danske virksomheder ved China International Import Expo i Shanghai."
+    },
+    {
+      "text": "Hove hæver omsætningsforventningen og indsnævrer EBITDA-guidance for 2026",
+      "headline": "Hove hæver omsætningsforventningen og indsnævrer EBITDA-guidance for 2026",
+      "url": "https://ugebrev.dk/uncategorized/hove-haever-omsaetningsforventningen-og-indsnaevrer-ebitda-guidance-for-2026/",
+      "publisher": "Økonomisk Ugebrev",
+      "section": "Erhverv",
+      "publishedAt": "2026-11-14T07:49:58Z",
+      "summary": "Nasdaq Copenhagen-noterede Hove hæver omsætningsguidance til 250-260 mio. kr. og indsnævrer EBITDA-guidance til 23-25 mio. kr. for 2026."
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-buberl-essay-20261115",
+      "mode": "read",
+      "kind": "essay",
+      "status": "new",
+      "title": "Europe's Bright Future",
+      "creator": "Thomas Buberl",
+      "provider": "Project Syndicate",
+      "url": "https://www.project-syndicate.org/commentary/how-europe-can-thrive-in-a-changing-economy-by-thomas-buberl-1-2026-11",
+      "availability": "Frit tilgængelig online",
+      "commitment": "8-10 minutter",
+      "description": "AXA's administrerende direktør argumenterer for, at Europas tilbagegang ikke er uundgåelig, og peger på et 35.000 mia. euro stort opsparingsoverskud og det indre markeds skala som underudnyttede aktiver.",
+      "rationale": "En praktikers modfortælling til dagens afmatningsfortælling, skrevet af en navngiven topchef i hans eget register – værd at stresse-teste mod dagens Kina- og skattehistorier.",
+      "topics": [
+        "eu-konkurrencekraft",
+        "makro"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://webapi.project-syndicate.org/library/f1e6ab9b5193f250d46098aed947c18c.2-1-super.1.jpg",
+        "credit": "Kilde: Project Syndicate",
+        "alt": "Thomas Buberl, administrerende direktør for AXA, forfatter til essayet.",
+        "sourceUrl": "https://www.project-syndicate.org/commentary/how-europe-can-thrive-in-a-changing-economy-by-thomas-buberl-1-2026-11"
+      }
+    },
+    {
+      "id": "rec-new-global-order-20261115",
+      "mode": "read",
+      "kind": "bog",
+      "status": "new",
+      "title": "The New Global Economic Order",
+      "creator": "red. Lili Yan Ing og Dani Rodrik, med bidrag fra Daron Acemoglu, Justin Yifu Lin og Joseph Stiglitz",
+      "provider": "Routledge / ERIA",
+      "url": "https://www.routledge.com/The-New-Global-Economic-Order/Ing-Rodrik/p/book/9781032945538",
+      "availability": "Kan købes internationalt",
+      "commitment": "Flere dage",
+      "description": "Antologi om opbruddet i handelsordenen fra efter 1990 og de voksende mellemmagters rolle – Brasilien, Indien, Indonesien.",
+      "rationale": "En seriøs akademisk antologi med navne, han vil genkende, der sætter dagens Kina- og handelshistorier ind i en større sammenhæng – mere ramme end nyhed.",
+      "topics": [
+        "handelspolitik",
+        "emerging-markets"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-pog1-20261115",
+      "mode": "watch",
+      "kind": "dokumentar",
+      "status": "new",
+      "title": "POG1 | The Making of a Legend | Full Documentary by Colnago Cultura",
+      "creator": "Colnago Cultura, instr. Filippo Barcatta",
+      "provider": "YouTube (ColnagoWorld)",
+      "url": "https://www.youtube.com/watch?v=EoU_Aez3-vM",
+      "availability": "Gratis verden over",
+      "commitment": "84 minutter",
+      "description": "Dokumentar om Tadej Pogačars vej til toppen, med bidrag fra Vincenzo Nibali, Ernesto Colnago og Andrej Hauptman. Udgivet gratis 13. november 2026.",
+      "rationale": "Ren cykelbegejstring uden for arbejdsprofilen – frisk, gratis og i den disciplin han følger tættest.",
+      "topics": [
+        "cykling"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://i.ytimg.com/vi/EoU_Aez3-vM/maxresdefault.jpg",
+        "credit": "Kilde: Colnago Cultura / YouTube",
+        "alt": "Tadej Pogačar i dokumentaren POG1 – The Making of a Legend.",
+        "sourceUrl": "https://www.youtube.com/watch?v=EoU_Aez3-vM"
+      }
+    }
+  ]
+}
