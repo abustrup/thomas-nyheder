@@ -1,0 +1,845 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-11-19-001",
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T05:34:20Z",
+  "readingMinutes": 12,
+  "title": "Thomas' Nyheder",
+  "dek": "Anthropic på børsen, et topmøde der skal minde om Jalta, og en bank-skandale med Epstein-spor — torsdag den 19. november 2026.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-anthropic-ipo-20261119",
+      "eventKey": "anthropic-ipo-2026-11",
+      "materialFacts": [
+        "Anthropic priced its IPO at $83/share, above the $70-78 range, raising $81.3bn ($79.4bn net to the company)",
+        "A concurrent $26bn secondary sale to Nvidia and Microsoft implies a ~$1,500bn valuation",
+        "Anthropic has committed $900bn to compute infrastructure over coming years, $70bn in the next 12 months, against $6.2bn in debt"
+      ],
+      "section": "Erhverv",
+      "headline": "Selskabet bag Claude går på børsen med milliardudbud: 'Det her er spektakulært'",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/penge/ai-gigant-gaar-paa-boersen-til-en-vaerdi-af-1500-milliarder-dollar",
+      "subheadline": "Anthropic prissatte sin børsnotering til 83 dollar per aktie, over det ventede interval, og rejste med et sideløbende salg til Nvidia og Microsoft over 100 milliarder dollar.",
+      "body": [
+        "Anthropic, selskabet bag chatbotten Claude, prissatte onsdag sin børsnotering til 83 dollar per aktie — over det ventede interval på 70-78 dollar — og solgte aktier for 81,3 milliarder dollar, hvoraf 79,4 milliarder går til selskabet selv. Et sideløbende salg til Nvidia og Microsoft på 26 milliarder dollar bringer værdisætningen op på omkring 1.500 milliarder dollar.",
+        "Selskabet har intet regnskabsmæssigt overskud og 6,2 milliarder dollar i gæld, men har forpligtet sig til at bruge 900 milliarder dollar på databehandling fremover, 70 milliarder det næste år alene. Investeringsstrateg Jacob Pedersen kalder det 'den største kapitalrejsning nogensinde' — større end SpaceX's rekordbørsnotering i juni på 85,7 milliarder dollar."
+      ],
+      "whyItMatters": "At Nvidia og Microsoft selv lægger 26 milliarder dollar i aktier gør dem samtidig til Anthropics største leverandører og til medejere — en cirkularitet, der binder tre af verdens mest værdifulde selskaber tættere sammen om ét væksttempo.",
+      "analysis": "1.500 milliarder dollar for et selskab uden overskud er svært at sætte i perspektiv. Prisen afspejler en tro på, at AI-efterspørgslen vokser hurtigere, end kapaciteten kan bygges.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/serap1ci/20261118-231010-2.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Anthropic-logoet projiceret på en skærm, med en person der ser på sin telefon foran det.",
+        "sourceUrl": "https://www.dr.dk/nyheder/penge/ai-gigant-gaar-paa-boersen-til-en-vaerdi-af-1500-milliarder-dollar"
+      },
+      "topics": [
+        "ai",
+        "erhverv",
+        "finans",
+        "boersnotering"
+      ],
+      "entities": [
+        "Anthropic",
+        "Claude",
+        "Nvidia",
+        "Microsoft",
+        "Jacob Pedersen"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 92,
+        "decisionValue": 70,
+        "novelty": 90,
+        "sourceQuality": 85,
+        "personalRelevance": 80,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Anthropic priced its IPO at $83/share, above the $70-78 marketed range, selling 980m shares for $81.3bn gross ($79.4bn to Anthropic).",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/ai-gigant-gaar-paa-boersen-til-en-vaerdi-af-1500-milliarder-dollar"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "A concurrent $26bn secondary sale to Nvidia and Microsoft implies a ~$1,500bn valuation.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/ai-gigant-gaar-paa-boersen-til-en-vaerdi-af-1500-milliarder-dollar"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Jacob Pedersen calls it the largest capital raise ever, larger than SpaceX's $85.7bn June IPO.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/ai-gigant-gaar-paa-boersen-til-en-vaerdi-af-1500-milliarder-dollar"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Selskabet bag Claude går på børsen med milliardudbud: 'Det her er spektakulært'",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/penge/ai-gigant-gaar-paa-boersen-til-en-vaerdi-af-1500-milliarder-dollar",
+          "publishedAt": "2026-11-18T23:40:19Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-jalta2-summit-20261119",
+      "eventKey": "jalta-2-shenzhen-summit-2026",
+      "materialFacts": [
+        "Trump, Putin and Xi meet in Shenzhen, compared by named experts to the 1945 Yalta conference",
+        "European officials warn of a deal over Ukraine's and Europe's heads; Putin's reported baseline is a rollback of NATO enlargement to 1997 levels"
+      ],
+      "section": "Udland",
+      "headline": "Jalta 2.0: Splitter USA og Rusland igen Europa?",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/jalta-2-0-splitter-usa-og-rusland-igen-europa",
+      "subheadline": "Trump, Putin og Xi mødes i Shenzhen i et topmøde, historikere og ministre sammenligner med Jalta-konferencen i 1945 — med frygt for en aftale om Ukraine hen over hovedet på europæerne.",
+      "body": [
+        "Donald Trump, Vladimir Putin og Xi Jinping mødes i Shenzhen i et møde, flere kalder historisk. Historiker Bo Lidegaard sammenligner det med Jalta-konferencen i 1945, hvor tre sejrherrer mødtes: 'Nu er det tre tabere, der mødes. Der er grund til at være dybt bekymret over deres ambitioner, men ingen af dem har den magt og den gennemslagskraft, der skal til.'",
+        "Kansler Merz beder Trump undgå overraskelser og blive på Europas og Ukraines hold. Minister Häkkänen afviser, at Europas sikkerhed kan forhandles. Putins udgangspunkt er en tilbagerulning af NATO til 1997."
+      ],
+      "whyItMatters": "For europæiske virksomheder er frygten konkret: forhandles Ukraine mellem tre hovedstæder, bliver Europa tilskuer til beslutninger om energi og investeringsklima.",
+      "analysis": "Mødet har ikke fundet sted. Sikkert er den symbolske vægt af, at tre ledere mødes uden europæisk tilstedeværelse. Forsker Splidsboel venter, krigen fortsætter et år mere.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/wycdfnbr/photo_collage.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Billedsammenligning: Jalta-konferencen i 1945 med Churchill, Roosevelt og Stalin til venstre, og en illustration af Trump, Putin og Xi Jinping ved topmødet i Shenzhen til højre.",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/jalta-2-0-splitter-usa-og-rusland-igen-europa"
+      },
+      "topics": [
+        "geopolitik",
+        "eu",
+        "sikkerhed",
+        "ukraine"
+      ],
+      "entities": [
+        "Donald Trump",
+        "Vladimir Putin",
+        "Xi Jinping",
+        "Bo Lidegaard",
+        "Friedrich Merz",
+        "Antti Häkkänen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 88,
+        "decisionValue": 55,
+        "novelty": 70,
+        "sourceQuality": 85,
+        "personalRelevance": 55,
+        "contrast": 60
+      },
+      "claims": [
+        {
+          "text": "Trump, Putin and Xi meet in Shenzhen, explicitly compared by commentators to the 1945 Yalta conference.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/jalta-2-0-splitter-usa-og-rusland-igen-europa"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Bo Lidegaard and Antti Häkkänen separately warn of a deal struck over Europe's and Ukraine's heads.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/jalta-2-0-splitter-usa-og-rusland-igen-europa"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Putin's reported baseline demand is a rollback of European security arrangements to 1997, before ~10 Eastern European states joined NATO.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/jalta-2-0-splitter-usa-og-rusland-igen-europa"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Jalta 2.0: Splitter USA og Rusland igen Europa?",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/jalta-2-0-splitter-usa-og-rusland-igen-europa",
+          "publishedAt": "2026-11-18T19:43:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-deutschebank-leak-20261119",
+      "eventKey": "deutsche-bank-epstein-leak-2026",
+      "materialFacts": [
+        "~15m leaked documents, shared by two whistleblowers with 50+ outlets, tie Deutsche Bank's controls failures to Epstein, Russian oligarchs and Trump-linked lending",
+        "The leak draws an explicit parallel to the Danske Bank Estonia money-laundering scandal"
+      ],
+      "section": "Udland",
+      "headline": "Deutsche Bank i endnu en skandale: Sættes i forbindelse med russiske oligarker og Epstein",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/deutsche-bank-i-endnu-en-skandale-saettes-i-forbindelse-med-russiske-oligarker-og-epstein",
+      "subheadline": "En læk af omkring 15 millioner fortrolige dokumenter kobler Tysklands største bank til Jeffrey Epstein, russiske oligarker og Donald Trump — og drager en direkte parallel til Danske Banks hvidvasksag i Estland.",
+      "body": [
+        "To whistleblowere har delt omkring 15 millioner fortrolige dokumenter om Deutsche Bank med over 50 medier. Ifølge dokumenterne håndterede banken 'mistænkelige' transaktioner for Jeffrey Epstein, lånte angiveligt milliarder til Donald Trump, og fastholdt russiske forbindelser trods interne advarsler.",
+        "Banken blev i 2020 idømt en bøde for sit forhold til Epstein. Lækagen drager en parallel til Danske Banks hvidvasksag i Estland, hvor milliarder med tvivlsom oprindelse passerede gennem banksystemet uden kontrol. Tysklands finansminister kræver svar."
+      ],
+      "whyItMatters": "Sagen rammer en bank, der er systemisk vigtig for europæisk finans, og rejser samme spørgsmål som Danske Bank-sagen: hvor meget kontrol banker reelt har.",
+      "analysis": "Dette er en dokumentlækage, ikke en afgørelse. Omfanget — delt af to whistleblowere med over 50 redaktioner — gør det svært at afskrive som enkeltstående.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/inpl5q2n/db_epstein_trump.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Fotomontage med Jeffrey Epstein, Deutsche Banks hovedkvarter i Frankfurt og Donald Trump ved en talerstol, i forbindelse med lækagen af bankens interne dokumenter.",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/deutsche-bank-i-endnu-en-skandale-saettes-i-forbindelse-med-russiske-oligarker-og-epstein"
+      },
+      "topics": [
+        "finans",
+        "hvidvask",
+        "compliance"
+      ],
+      "entities": [
+        "Deutsche Bank",
+        "Donald Trump",
+        "Jeffrey Epstein",
+        "Danske Bank"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 75,
+        "decisionValue": 40,
+        "novelty": 80,
+        "sourceQuality": 80,
+        "personalRelevance": 35,
+        "contrast": 85
+      },
+      "claims": [
+        {
+          "text": "~15m leaked documents, shared by two whistleblowers with 50+ outlets, implicate Deutsche Bank's controls regarding Epstein, Russian oligarchs and Trump-linked lending.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/deutsche-bank-i-endnu-en-skandale-saettes-i-forbindelse-med-russiske-oligarker-og-epstein"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "The leak draws an explicit parallel to the Danske Bank Estonia money-laundering scandal.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/deutsche-bank-i-endnu-en-skandale-saettes-i-forbindelse-med-russiske-oligarker-og-epstein"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Deutsche Bank was fined in 2020 over its Epstein relationship.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/deutsche-bank-i-endnu-en-skandale-saettes-i-forbindelse-med-russiske-oligarker-og-epstein"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Deutsche Bank i endnu en skandale: Sættes i forbindelse med russiske oligarker og Epstein",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/deutsche-bank-i-endnu-en-skandale-saettes-i-forbindelse-med-russiske-oligarker-og-epstein",
+          "publishedAt": "2026-11-18T11:22:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-palantir-folketing-20261119",
+      "eventKey": "forsvaret-palantir-folketing-2026",
+      "materialFacts": [
+        "Defence ministry signed an up-to-70m-kroner, 12-month Palantir Maven Smart System test contract during last year's Greenland crisis",
+        "The Folketing's Finance Committee was never briefed, which an administrative-law professor says it should have been",
+        "Political responsibility is placed on then-defence minister Troels Lund Poulsen"
+      ],
+      "section": "Danmark",
+      "headline": "Forsvaret indgik kontrakt med Palantir uden at orientere Folketinget",
+      "primarySourceUrl": "https://www.computerworld.dk/art/297699",
+      "subheadline": "Under sidste års Grønlandskrise testede Forsvaret det amerikanske softwareselskab Palantirs overvågningssystem for op til 70 millioner kroner — uden at Folketingets Finansudvalg blev orienteret.",
+      "body": [
+        "Forsvarsministeriet indgik under sidste års Grønlandskrise en kontrakt med Palantir om at teste overvågningssystemet Maven Smart System i op til 12 måneder, med en potentiel værdi på 70 millioner kroner. Ifølge professor Frederik Waage (SDU) skulle Folketingets Finansudvalg have været orienteret — det skete ikke.",
+        "Det politiske ansvar placeres hos daværende forsvarsminister Troels Lund Poulsen (V). DF's finansordfører Anders Vistisen: 'Det er forsvarsministeren, der skal have styr på, at han får sendt de rigtige informationer over.'"
+      ],
+      "whyItMatters": "Sagen rammer et mønster, flere forsvarsministerier er under pres for: indkøb af amerikansk overvågningssoftware sker hurtigere, end den parlamentariske kontrol kan følge med.",
+      "analysis": "Kontrakten blev testet under Grønlandskrisen — et amerikansk firma med bånd til Trump-administrationen, i en anstrengt periode for dansk-amerikanske relationer.",
+      "image": {
+        "url": "https://www.computerworld.dk/fil/236702?width=1200&height=630&focus=1",
+        "credit": "Kilde: Computerworld",
+        "alt": "Christiansborg, hvor Folketinget holder til. Finansudvalget blev ifølge sagen ikke orienteret om Forsvarets Palantir-kontrakt.",
+        "sourceUrl": "https://www.computerworld.dk/art/297699"
+      },
+      "topics": [
+        "forsvar",
+        "sikkerhed",
+        "offentlig-forvaltning",
+        "danmark"
+      ],
+      "entities": [
+        "Forsvarsministeriet",
+        "Palantir",
+        "Troels Lund Poulsen",
+        "Anders Vistisen",
+        "Frederik Waage"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 70,
+        "decisionValue": 60,
+        "novelty": 85,
+        "sourceQuality": 75,
+        "personalRelevance": 65,
+        "contrast": 50
+      },
+      "claims": [
+        {
+          "text": "The defence ministry signed an up-to-70m-kroner, 12-month contract to test Palantir's Maven Smart System during last year's Greenland crisis.",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/297699"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Professor Frederik Waage (SDU) says the Folketing's Finance Committee should have been briefed; it was not.",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/297699"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Political responsibility is placed on then-defence minister Troels Lund Poulsen; Anders Vistisen says the minister must ensure correct information reaches Parliament.",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/297699"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Forsvaret indgik kontrakt med Palantir uden at orientere Folketinget",
+          "publisher": "Computerworld",
+          "url": "https://www.computerworld.dk/art/297699",
+          "publishedAt": "2026-11-18T14:13:00Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "\"Alvorlig sag\": Troels Lund orienterede ikke Folketinget, inden Forsvaret indgik kontrakt med Trump-venligt firma",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/artikel/alvorlig-sag-troels-lund-orienterede-ikke-folketinget-inden-forsvaret-indgik-kontrakt-med-trump-venligt-firma",
+          "publishedAt": "2026-11-18T01:00:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-nvidia-q3-20261119",
+      "eventKey": "nvidia-q3-earnings-2026-11",
+      "materialFacts": [
+        "Nvidia Q3 revenue roughly doubled YoY to ~$115.6bn, beating consensus of $109.3bn; Q4 guidance raised to $130bn",
+        "Interim CEO Colette Kress and board chair Harvey Jones say the board has no plans to reinstate founder Jensen Huang"
+      ],
+      "section": "Erhverv",
+      "headline": "Nvidia buldrer frem med overraskende regnskab: Sætter barren højt for resten af året",
+      "primarySourceUrl": "https://www.computerworld.dk/art/297677",
+      "subheadline": "Chipgiganten fordoblede omsætningen i tredje kvartal til knap 115,6 milliarder dollar og hæver forventningerne til årets sidste kvartal — mens bestyrelsen fortsat afviser at genindsætte grundlægger Jensen Huang.",
+      "body": [
+        "Nvidia fordoblede omsætningen i tredje kvartal til knap 115,6 milliarder dollar, over markedets forventning på 109,3 milliarder. Selskabet hæver forventningerne for sidste kvartal til 130 milliarder dollar. Aktien steg 2,3 procent i eftermarkedet.",
+        "Regnskabet kommer kort efter, at topchef Jensen Huang måtte gå af efter flere sager om utroskab. Fungerende topchef Colette Kress og bestyrelsesformand Harvey Jones siger, bestyrelsen ikke har planer om at genindsætte ham."
+      ],
+      "whyItMatters": "Regnskabet er en temperaturmåling på, om AI-investeringsbølgen stadig har medvind: Nvidias chips er fælles underleverandør til stort set alle store AI-selskaber, inklusive Anthropic, der netop har rejst milliarder.",
+      "analysis": "At en midlertidig topchef hæver forventningerne markant over konsensus, tolker strateg Jacob Pedersen som et signal om fyldte ordrebøger. Bestyrelsens afvisning af Huang understreger ønsket om uafhængighed.",
+      "image": {
+        "url": "https://www.computerworld.dk/fil/239780?width=1200&height=630&focus=1",
+        "credit": "Kilde: Computerworld",
+        "alt": "Nvidia buldrer frem med overraskende regnskab: Sætter barren højt for resten af året",
+        "sourceUrl": "https://www.computerworld.dk/art/297677"
+      },
+      "topics": [
+        "ai",
+        "erhverv",
+        "finans",
+        "chips"
+      ],
+      "entities": [
+        "Nvidia",
+        "Colette Kress",
+        "Harvey Jones",
+        "Jensen Huang",
+        "Jacob Pedersen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 65,
+        "decisionValue": 45,
+        "novelty": 55,
+        "sourceQuality": 80,
+        "personalRelevance": 55,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "Nvidia Q3 revenue roughly doubled YoY to ~$115.6bn, beating the $109.3bn consensus; Q4 guidance raised to $130bn.",
+          "sourceUrls": [
+            "https://www.computerworld.dk/art/297677"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Interim CEO Colette Kress and board chair Harvey Jones say the board has no plans to reinstate Jensen Huang.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/nvidia-afviser-genindsaette-jensen-huang-som-topchef"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Nvidia buldrer frem med overraskende regnskab: Sætter barren højt for resten af året",
+          "publisher": "Computerworld",
+          "url": "https://www.computerworld.dk/art/297677",
+          "publishedAt": "2026-11-18T05:40:00Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Nvidia afviser at genindsætte Jensen Huang som topchef",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/nvidia-afviser-genindsaette-jensen-huang-som-topchef",
+          "publishedAt": "2026-11-18T05:25:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-vestas-ceo-20261119",
+      "eventKey": "vestas-ceo-defends-dip-2026-11",
+      "materialFacts": [
+        "Vestas shares fell 9% despite Q3 revenue up 6% to €5.7bn and 8.5% EBIT margin",
+        "CEO Henrik Andersen attributes the reaction to one-off costs, chiefly He Dreiht rotor-blade damage, not the underlying business"
+      ],
+      "section": "Erhverv",
+      "headline": "Vestas' topchef afviser 9 % kursfald: Markedet tager fejl",
+      "primarySourceUrl": "https://ugebrev.dk/formue/vestas-topchef-afviser-9-kursfald-markedet-tager-fejl/",
+      "subheadline": "Vestas-aktien faldt 9 procent efter et kvartalsregnskab, hvor topchef Henrik Andersen mener investorerne har overset, at enkeltstående poster — ikke den underliggende forretning — forklarer afvigelsen fra konsensus.",
+      "body": [
+        "Vestas-aktien faldt 9 procent efter et tredje kvartal, hvor omsætningen steg 6 procent til 5,7 milliarder euro med 8,5 procent EBIT-margin. Topchef Henrik Andersen afviser reaktionen: engangsposterne er langt større end afvigelsen fra konsensus, og markedets reaktion er efter hans vurdering forkert.",
+        "Engangsposterne stammer blandt andet fra skader på en rotorvinge ved He Dreiht-havmølleprojektet 22. juli. Servicedivisionen voksede 13 procent med 16,5 procent EBIT-margin, mod et mål over 20 procent; havvind ventes overskudsgivende i 2027."
+      ],
+      "whyItMatters": "For en dansk grøn industrivirksomhed er sagen et skoleeksempel på, hvor hurtigt markedet kan straffe engangsposter, selv når servicedivisionens fremgang peger den anden vej.",
+      "analysis": "Andersens afvisning er usædvanlig direkte for en dansk topchef. Om han har ret, afhænger af, om kommende kvartaler bekræfter, at forretningen er stærkere, end tallene viser.",
+      "image": {
+        "url": "https://ugebrev.dk/wp-content/uploads/2024/01/Henrik-Andersen-Vestas.jpg",
+        "credit": "Foto: Niels Ahlmann Olesen/Ritzau Scanpix",
+        "alt": "Vestas' topchef Henrik Andersen, der afviser markedets reaktion på selskabets kvartalsregnskab.",
+        "sourceUrl": "https://ugebrev.dk/formue/vestas-topchef-afviser-9-kursfald-markedet-tager-fejl/"
+      },
+      "topics": [
+        "erhverv",
+        "energi",
+        "groen-omstilling",
+        "industri",
+        "danmark"
+      ],
+      "entities": [
+        "Vestas",
+        "Henrik Andersen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 60,
+        "decisionValue": 65,
+        "novelty": 70,
+        "sourceQuality": 75,
+        "personalRelevance": 70,
+        "contrast": 65
+      },
+      "claims": [
+        {
+          "text": "Vestas shares fell 9% despite Q3 revenue up 6% to €5.7bn and an 8.5% EBIT margin before special items.",
+          "sourceUrls": [
+            "https://ugebrev.dk/formue/vestas-topchef-afviser-9-kursfald-markedet-tager-fejl/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "CEO Henrik Andersen attributes the reaction to one-off items, including He Dreiht rotor-blade damage on 22 July 2026.",
+          "sourceUrls": [
+            "https://ugebrev.dk/formue/vestas-topchef-afviser-9-kursfald-markedet-tager-fejl/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Service business grew 13% with a 16.5% EBIT margin; offshore is targeted to reach profitability in 2027.",
+          "sourceUrls": [
+            "https://ugebrev.dk/formue/vestas-topchef-afviser-9-kursfald-markedet-tager-fejl/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Vestas' topchef afviser 9 % kursfald: Markedet tager fejl",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/formue/vestas-topchef-afviser-9-kursfald-markedet-tager-fejl/",
+          "publishedAt": "2026-11-18T10:40:54Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-ai-reality-check-20261119",
+      "eventKey": "ai-reality-check-oliver-wyman-2026",
+      "materialFacts": [
+        "Oliver Wyman survey of 25,000+ respondents in 15 countries and 415 CEOs finds AI productivity gains hinge on organisational conditions, not just adoption",
+        "Only 37% of leaders say their company has communicated a clear AI strategy; 35% can switch AI vendors"
+      ],
+      "section": "Erhverv",
+      "headline": "The AI Reality Check: Hvor bliver gevinsterne af?",
+      "primarySourceUrl": "https://ugebrev.dk/ledelse/the-ai-reality-check-hvor-bliver-gevinsterne-af/",
+      "subheadline": "En global Oliver Wyman-undersøgelse blandt 415 topchefer og over 25.000 medarbejdere viser, at AI-investeringerne løber hurtigere end de målbare resultater.",
+      "body": [
+        "Oliver Wyman har spurgt over 25.000 medarbejdere i 15 lande og 415 topchefer om AI i organisationen. Hvor medarbejderne har let adgang til værktøjer, klare retningslinjer og integrerede systemer, oplever 88 procent produktivitetsgevinster — ellers kun 52 procent.",
+        "Kun 37 procent af lederne siger, virksomheden har en klar AI-strategi; kun 11 procent af menige medarbejdere kender den. 68 procent vil give afkald på løn for jobsikkerhed. Kun 35 procent kan reelt skifte AI-leverandør."
+      ],
+      "whyItMatters": "Pointen er ikke, at AI ikke virker — det er, at værktøjet uden organisatorisk beslutningskraft ikke omsætter sig til bundlinje. Frigjort kapacitet bliver ikke automatisk et resultat, før en leder ændrer arbejdsgangene.",
+      "analysis": "Det mest interessante fund er ledelsesgabet: når kun hver tredje leder kender AI-strategien, og kun hver niende medarbejder gør, er investeringerne svære at omsætte systematisk.",
+      "topics": [
+        "ai",
+        "ledelse",
+        "erhverv",
+        "organisation"
+      ],
+      "entities": [
+        "Oliver Wyman"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 58,
+        "decisionValue": 80,
+        "novelty": 65,
+        "sourceQuality": 70,
+        "personalRelevance": 85,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "Oliver Wyman surveyed 25,000+ respondents in 15 countries and 415 CEOs; 88% report productivity gains where tool access, guidelines and integration are present, vs 52% otherwise.",
+          "sourceUrls": [
+            "https://ugebrev.dk/ledelse/the-ai-reality-check-hvor-bliver-gevinsterne-af/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Only 37% of leaders say their company has communicated a clear AI strategy; only 11% of non-management staff are aware of it.",
+          "sourceUrls": [
+            "https://ugebrev.dk/ledelse/the-ai-reality-check-hvor-bliver-gevinsterne-af/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "68% of workers would accept lower pay for job-replacement protection; only 35% of companies can switch AI vendors.",
+          "sourceUrls": [
+            "https://ugebrev.dk/ledelse/the-ai-reality-check-hvor-bliver-gevinsterne-af/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "The AI Reality Check: Hvor bliver gevinsterne af?",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/ledelse/the-ai-reality-check-hvor-bliver-gevinsterne-af/",
+          "publishedAt": "2026-11-18T14:25:07Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-almbrand-q3-20261119",
+      "eventKey": "alm-brand-q3-uncertainties-2026",
+      "materialFacts": [
+        "Alm. Brand posted a record 755m DKK insurance result, attributed mainly to unusually low weather/large-claims costs",
+        "Work-injury reserves increased 700m DKK, permanently lifting the group loss ratio by ~40bp"
+      ],
+      "section": "Erhverv",
+      "headline": "Alm. Brand Q3: Rekordresultat skjuler tre centrale usikkerheder",
+      "primarySourceUrl": "https://ugebrev.dk/finans/alm-brand-q3-rekordresultat-skjuler-tre-centrale-usikkerheder/",
+      "subheadline": "Alm. Brand leverede et rekordstort forsikringsresultat på 755 millioner kroner i tredje kvartal — men ifølge Økonomisk Ugebrevs analyse skyldes rekorden mest usædvanligt lave vejr- og storskadeudgifter.",
+      "body": [
+        "Alm. Brand opnåede et forsikringsresultat på 755 millioner kroner i tredje kvartal, det højeste i selskabets historie. Topchef Andreas Ruben Madsen peger selv på, at resultatet næsten udelukkende skyldes usædvanligt lave niveauer af vejr- og storskader samt høje afløbsgevinster.",
+        "Selskabet har samtidig forhøjet hensættelser til arbejdsskader med 700 millioner kroner, hvilket hæver skadeprocenten permanent med ca. 40 basispoint. Storskader i erhverv faldt fra 11,3 til 5,1 procent, mens erhvervspræmierne faldt 1,8 procent."
+      ],
+      "whyItMatters": "Sagen viser forskellen mellem et regnskabstal og den underliggende forretning: et rekordresultat kan dække over gunstigt vejr og få storskader — faktorer, selskabet ikke selv styrer.",
+      "analysis": "Madsen tør ikke love forbedring, fordi det kræver, at konkurrenterne også hæver priserne i et marked, han kalder konkurrencepræget — en usikkerhed, der sjældent står i en overskrift.",
+      "topics": [
+        "finans",
+        "forsikring",
+        "erhverv",
+        "danmark"
+      ],
+      "entities": [
+        "Alm. Brand",
+        "Andreas Ruben Madsen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 45,
+        "decisionValue": 60,
+        "novelty": 65,
+        "sourceQuality": 70,
+        "personalRelevance": 55,
+        "contrast": 60
+      },
+      "claims": [
+        {
+          "text": "Alm. Brand posted a record 755m DKK insurance result; CEO Andreas Ruben Madsen attributes it mainly to unusually low weather/large-claims costs and high run-off gains.",
+          "sourceUrls": [
+            "https://ugebrev.dk/finans/alm-brand-q3-rekordresultat-skjuler-tre-centrale-usikkerheder/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Work-injury reserves increased 700m DKK, permanently lifting the group loss ratio by ~40bp; commercial large-claims share fell from 11.3% to 5.1% YoY.",
+          "sourceUrls": [
+            "https://ugebrev.dk/finans/alm-brand-q3-rekordresultat-skjuler-tre-centrale-usikkerheder/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Alm. Brand Q3: Rekordresultat skjuler tre centrale usikkerheder",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/finans/alm-brand-q3-rekordresultat-skjuler-tre-centrale-usikkerheder/",
+          "publishedAt": "2026-11-18T10:55:49Z",
+          "kind": "reporting"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "EU foreslår fælles lån på 340 milliarder til Ukraine",
+      "headline": "EU foreslår fælles lån på 340 milliarder til Ukraine",
+      "url": "https://www.dr.dk/nyheder/udland/eu/eu-foreslaar-faelles-laan-paa-340-milliarder-til-ukraine",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-11-18T10:16:21Z",
+      "summary": "Kommissionen foreslår, at EU-lande i fællesskab låner 45 milliarder euro til Ukraine i 2027 — to tredjedele af landets ventede budgethul. Slovakiet, Bulgarien, Ungarn og Tjekkiet er imod."
+    },
+    {
+      "text": "Velux lukker hjemmesider i flere lande efter cyberhændelse",
+      "headline": "Velux lukker hjemmesider i flere lande efter cyberhændelse",
+      "url": "https://www.dr.dk/nyheder/seneste/velux-lukker-hjemmesider-i-flere-lande-efter-cyberhaendelse",
+      "publisher": "DR",
+      "section": "Erhverv",
+      "publishedAt": "2026-11-18T19:51:32Z",
+      "summary": "Velux, der har 12.000 ansatte i over 30 lande, har midlertidigt lukket de fleste af sine websites og webshops, mens en it-sikkerhedshændelse undersøges."
+    },
+    {
+      "text": "300 flere ledige i oktober",
+      "headline": "300 flere ledige i oktober",
+      "url": "https://www.dr.dk/nyheder/seneste/300-flere-ledige-i-oktober",
+      "publisher": "DR",
+      "section": "Penge",
+      "publishedAt": "2026-11-18T07:41:12Z",
+      "summary": "Den sæsonkorrigerede ledighed steg 300 i oktober til 94.500 personer (3,1 procent), selvom beskæftigelsen er vokset omkring 30.000 det seneste år."
+    },
+    {
+      "text": "Hvidvask-rapport: Hvert år hvidvaskes 90 milliarder kroner i Danmark",
+      "headline": "Hvidvask-rapport: Hvert år hvidvaskes 90 milliarder kroner i Danmark",
+      "url": "https://www.dr.dk/nyheder/penge/hvidvask-rapport-hvert-aar-hvidvaskes-90-milliarder-kroner-i-danmark",
+      "publisher": "DR",
+      "section": "Penge",
+      "publishedAt": "2026-11-17T14:57:00Z",
+      "summary": "Hvidvasksekretariatet anslår, at omkring 90 milliarder kroner hvidvaskes årligt i Danmark, svarende til 2,7 procent af BNP, især fra skatte- og momssvindel samt narkokriminalitet."
+    },
+    {
+      "text": "Mette Frederiksen vil ikke love stop for Rwanda-aftale ved tortur",
+      "headline": "Mette Frederiksen vil ikke love stop for Rwanda-aftale ved tortur",
+      "url": "https://www.dr.dk/nyheder/politik/mette-frederiksen-vil-ikke-love-stop-rwanda-aftale-ved-tortur",
+      "publisher": "DR",
+      "section": "Politik",
+      "publishedAt": "2026-11-18T18:14:00Z",
+      "summary": "Statsministeren afviser at garantere, at Danmarks Rwanda-returaftale ville blive stoppet, hvis der blev dokumenteret tortur der."
+    },
+    {
+      "text": "Københavns Lufthavn fejrer i dag passager nummer én milliard",
+      "headline": "Københavns Lufthavn fejrer i dag passager nummer én milliard",
+      "url": "https://www.dr.dk/nyheder/seneste/koebenhavns-lufthavn-fejrer-i-dag-passager-nummer-milliard",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-11-18T06:09:36Z",
+      "summary": "Københavns Lufthavn markerer sin milliardte passager i lufthavnens 101-årige historie."
+    },
+    {
+      "text": "Coloplast fyrer 60 medarbejdere i Danmark",
+      "headline": "Coloplast fyrer 60 medarbejdere i Danmark",
+      "url": "https://ing.dk/artikel/coloplast-fyrer-60-medarbejdere-i-danmark",
+      "publisher": "Ingeniøren",
+      "section": "Erhverv",
+      "publishedAt": "2026-11-18T13:59:52Z",
+      "summary": "Medicoselskabet Coloplast varsler fyring af 60 medarbejdere i Danmark som led i en forenkling af dele af organisationen."
+    },
+    {
+      "text": "Ny generaldirektør i Røde Kors",
+      "headline": "Ny generaldirektør i Røde Kors",
+      "url": "https://www.dr.dk/nyheder/seneste/ny-generaldirektoer-i-roede-kors",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-11-18T11:15:28Z",
+      "summary": "Mette Søs Lassesen, tidligere Rambøll-direktør, bliver ny generaldirektør for Røde Kors fra februar og afløser Anders Ladekarl efter 19 år."
+    },
+    {
+      "text": "Vingegaard kan blive årets sportsnavn for anden gang",
+      "headline": "Vingegaard kan blive årets sportsnavn for anden gang",
+      "url": "https://www.dr.dk/sporten/seneste-sport/vingegaard-kan-blive-aarets-sportsnavn-anden-gang",
+      "publisher": "DR",
+      "section": "Sport",
+      "publishedAt": "2026-11-18T07:09:54Z",
+      "summary": "Jonas Vingegaard er blandt de første fem nominerede til Årets Sportsnavn 2026, en pris han tidligere har vundet i 2022."
+    },
+    {
+      "text": "Dansk nedrykning kan få 'uoverstigelige' konsekvenser",
+      "headline": "Dansk nedrykning kan få 'uoverstigelige' konsekvenser",
+      "url": "https://www.dr.dk/sporten/fodbold/landsholdet/dansk-nedrykning-kan-faa-uoverstigelige-konsekvenser",
+      "publisher": "DR",
+      "section": "Sport",
+      "publishedAt": "2026-11-18T14:26:07Z",
+      "summary": "Efter nederlaget til Norge skal det danske landshold vinde en playoff i marts for at blive i Nations League A — ellers mister det topsåning til EM- og VM-kvalifikationen."
+    },
+    {
+      "text": "Elon Musk ærgrer sig over sin milliardstøtte ved midtvejsvalget",
+      "headline": "Elon Musk ærgrer sig over sin milliardstøtte ved midtvejsvalget",
+      "url": "https://www.dr.dk/nyheder/udland/elon-musk-aergrer-sig-over-sin-milliardstoette-ved-midtvejsvalget",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-11-19T02:49:30Z",
+      "summary": "Musk siger, han fortryder at have brugt næsten en halv milliard dollar på at støtte republikanerne ved midtvejsvalget, efter demokraterne vandt flertal i begge kamre."
+    },
+    {
+      "text": "Van Gogh-maleri solgt for over en milliard kroner",
+      "headline": "Van Gogh-maleri solgt for over en milliard kroner",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-19-van-gogh-maleri-solgt-for-over-en-milliard-kroner",
+      "publisher": "TV 2",
+      "section": "Udland",
+      "publishedAt": "2026-11-19T04:18:03Z",
+      "summary": "Van Goghs 'Châtaigniers en fleurs' solgte hos Sotheby's i New York for 190,4 millioner dollar — ny auktionsrekord for kunstneren."
+    }
+  ],
+  "column": {
+    "authoredBy": "ai",
+    "slug": "risiko-er-ikke-usikkerhed",
+    "title": "Risiko er ikke det samme som usikkerhed",
+    "thesis": "Når en beslutningstager sætter et procenttal på noget, der reelt er ukendt snarere end udregneligt, gemmer hun uvidenhed bag et tal, der ligner en beregning.",
+    "body": [
+      "Økonomen Frank Knight skelnede for hundrede år siden mellem risiko, hvor udfaldsrummet og dets sandsynligheder er kendte — en roulettekugle, en forsikringstabel — og usikkerhed, hvor udfaldsrummet selv er ukendt: rammer det næste store jordskælv om ti dage eller ti år, finder en helt ny slags virksomhed overhovedet sine kunder. Det første kan prissættes. Det andet kan det, strengt taget, ikke.",
+      "Alligevel taler bestyrelseslokaler og ministerier, som om alt er risiko: 'der er stor sandsynlighed for, at det lykkes'. Et tal inviterer til at blive regnet på og optimeret imod, som var det en kendt størrelse. Dækker det over ren gætning, arver beslutningen en falsk præcision."
+    ],
+    "uncertainty": "Viser det sig, at al tilsyneladende uberegnelig usikkerhed med nok data pålideligt lader sig omsætte til ægte beregnelig risiko, falder skellet sammen til blot 'risiko, vi endnu ikke havde modelleret godt nok' — og påstanden er forkert.",
+    "topics": [
+      "epistemologi",
+      "beslutningstagning"
+    ]
+  },
+  "recommendations": [
+    {
+      "id": "rec-tracey-emin-louisiana-20261119",
+      "mode": "experience",
+      "kind": "museumsudstilling",
+      "status": "available",
+      "title": "Tracey Emin: A Second Life",
+      "creator": "Tracey Emin",
+      "provider": "Louisiana Museum of Modern Art",
+      "url": "https://louisiana.dk/en/exhibition/tracey-emin/",
+      "availability": "Louisiana Museum, Humlebæk. Almindelig entré, udstillingen løber til 18. april 2027.",
+      "commitment": "1,5-2,5 timers besøg",
+      "description": "Retrospektiv udstilling, der følger næsten fire årtier af Tracey Emins kunstnerskab på tværs af maleri, skulptur, tekstil og installation — med aldrig tidligere viste værker og det ikoniske 'My Bed' fra 1998.",
+      "rationale": "Ren serendipitet: intet med AI, handel eller makroøkonomi at gøre. En førsteklasses international udstilling 40 minutter fra København, bygget om at omsætte personligt traume til form — netop den slags, der er værd at bruge beskyttet læsetid på.",
+      "topics": [
+        "kunst",
+        "kultur",
+        "serendipitet"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://louisiana.dk/wp-content/uploads/2026/05/7.-Tracey-Emin-The-End-of-Love-2024-%C2%A9-Tracey-Emin.-Tate.-full_jpg-huge_jpg.jpg",
+        "credit": "The End of Love (2024) © Tracey Emin. Courtesy Tate.",
+        "alt": "Ekspressivt abstrakt maleri i dyb rød, pink og lyseblå af Tracey Emin, med en mørk silhuet af en kat øverst til højre over et løst skitseret kommodemøbel.",
+        "sourceUrl": "https://louisiana.dk/en/exhibition/tracey-emin/"
+      }
+    },
+    {
+      "id": "rec-dwarkesh-rsi-20261119",
+      "mode": "read",
+      "kind": "essay",
+      "status": "new",
+      "title": "The avalanche that hit math is coming for AI development",
+      "creator": "Dwarkesh Patel",
+      "provider": "Dwarkesh.com",
+      "url": "https://www.dwarkesh.com/p/rsi",
+      "availability": "Gratis, offentligt tilgængelig online.",
+      "commitment": "35-45 minutters læsning",
+      "description": "Et argument for, at et nyligt AI-gennembrud i matematik varsler, hvad der sker, når AI begynder at automatisere sin egen forskning — en selvforstærkende udvikling, forfatteren mener kan komprimere års fremskridt til måneder.",
+      "rationale": "Et stramt, falsificerbart argument om det tidsperspektiv, der bærer det meste af dagens AI-investeringscase — herunder Anthropics børsnotering i dagens udgave — snarere end endnu en hypetekst.",
+      "topics": [
+        "ai",
+        "teknologi",
+        "fremtid"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-piie-tariffs-congress-20261119",
+      "mode": "read",
+      "kind": "analyse",
+      "status": "new",
+      "title": "How Congress might take back its trade powers and limit Trump's tariffs",
+      "creator": "Inu Manak",
+      "provider": "Peterson Institute for International Economics (PIIE)",
+      "url": "https://www.piie.com/blogs/realtime-economics/2026/how-congress-might-take-back-its-trade-powers-and-limit-trumps",
+      "availability": "Gratis, offentligt tilgængelig online.",
+      "commitment": "10-12 minutters læsning",
+      "description": "Analyse af konkrete lovgivningsmæssige greb — herunder reform af Section 232 og Section 301 — som den nye Kongres kan bruge til at tage handelsmagten tilbage fra præsidentembedet og begrænse Trumps toldbeføjelser.",
+      "rationale": "Mekanisme-niveau frem for overskrifts-niveau analyse af, hvordan amerikansk toldpolitik reelt kan ændre sig — det mest konkrete, der findes lige nu om, hvor meget magt der faktisk flytter sig efter midtvejsvalget.",
+      "topics": [
+        "eu-usa-handel",
+        "handelspolitik",
+        "usa"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-npr-datacenter-debt-20261119",
+      "mode": "listen",
+      "kind": "podcast",
+      "status": "new",
+      "title": "Two ways big bets on data centers might affect you",
+      "provider": "Planet Money, NPR",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6044772/data-center-debt-deals-investment",
+      "availability": "Gratis podcast/artikel, offentligt tilgængelig.",
+      "commitment": "~20 minutter",
+      "description": "To historier om, hvordan AI-datacenterbyggerier i stigende grad finansieres med obligationsgæld, der ender i helt almindelige pensionsopsparinger og obligationsfonde — og hvad der sker, hvis de væddemål går galt.",
+      "rationale": "Et mere mekanisk og konkret blik på den finansielle VVS bag dagens 'AI Reality Check'-historie: ikke endnu en runde om, hvorvidt AI-investeringerne betaler sig, men hvem der reelt bærer risikoen, hvis de ikke gør.",
+      "topics": [
+        "ai",
+        "finans",
+        "pension"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {}
+}
