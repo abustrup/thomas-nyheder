@@ -1,0 +1,837 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-11-20-001",
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T05:45:59Z",
+  "readingMinutes": 12,
+  "title": "Thomas' Nyheder",
+  "dek": "En arving forærer 22 milliarder kroner væk til en fond, et statsligt olieselskab strides med sin egen minister om Nordsøen, og USA åbner en ny militær front i Venezuela — fredag den 20. november 2026.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-louis-hansen-coloplast-20261120",
+      "eventKey": "louis-hansen-coloplast-fonden-gift",
+      "materialFacts": [
+        "Niels Peter Louis-Hansen overdrog 1. oktober 2026 hele sin Coloplast Holding-aktiepost (ca. 22 mia. kr.) til den nystiftede Coloplast Fonden",
+        "Kombineret med et kursfald på 7 mia. kr. faldt hans formue på rigelisten fra 52,9 til 23,7 mia. kr.",
+        "Coloplast er nu fondsejet, hvilket afslutter familiens private ejerskab"
+      ],
+      "section": "Erhverv",
+      "headline": "Louis-Hansen forærer 22 mia. væk - og dykker på årets rigeliste",
+      "primarySourceUrl": "https://ugebrev.dk/flashnews/louis-hansen-foraerer-22-mia-vaek-og-dykker-paa-aarets-rigeliste/",
+      "subheadline": "Coloplast-arvingen har overdraget hele sin aktiepost til en nystiftet fond og afsluttet familiens private ejerskab efter mere end hundrede år.",
+      "body": [
+        "Niels Peter Louis-Hansen har gennemført et af de største generationsskifter i nyere dansk erhvervshistorie. Den 1. oktober 2026 overdrog han hele sin aktiepost i Coloplast Holding, omkring 22 milliarder kroner, til den nystiftede Coloplast Fonden og afsluttede dermed familiens private kontrol med stomi- og sårplejeproducenten.",
+        "Gaven ses tydeligt på formuelisterne: Kombineret med et kursfald på 7 milliarder kroner, delvist knyttet til opkøbet af det islandske sårplejeselskab Kerecis, faldt hans registrerede formue fra 52,9 til 23,7 milliarder kroner på et år."
+      ],
+      "whyItMatters": "Overgangen lægger Coloplast i selskab med Novo Nordisk, Mærsk og Carlsberg som fondsstyrede hjørnestenskoncerner, hvor en bestyrelse frem for én families interesser sætter den langsigtede kurs — endnu et pejlemærke for, hvordan store familiekoncerner nu løser generationsskifte uden salg.",
+      "analysis": "At formuen falder, mens værdien reelt blot flytter til en fond uden for familiens private rådighed, siger mere om, hvad rigelister måler, end om et tab af kontrol. Det åbne spørgsmål er, hvem der får sæde i den nye fondsbestyrelse, og om den vil styre med samme ro som Novo Nordisk Fonden.",
+      "topics": [
+        "who-is-moving",
+        "erhverv",
+        "ejerskifte"
+      ],
+      "entities": [
+        "Niels Peter Louis-Hansen",
+        "Coloplast",
+        "Coloplast Fonden"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 78,
+        "decisionValue": 70,
+        "novelty": 88,
+        "sourceQuality": 70,
+        "personalRelevance": 85,
+        "contrast": 60
+      },
+      "claims": [
+        {
+          "text": "Niels Peter Louis-Hansen overdrog 1. oktober 2026 hele sin Coloplast Holding-aktiepost (ca. 22 mia. kr.) til den nystiftede Coloplast Fonden, hvorefter Coloplast er fondsejet.",
+          "sourceUrls": [
+            "https://ugebrev.dk/flashnews/louis-hansen-foraerer-22-mia-vaek-og-dykker-paa-aarets-rigeliste/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Hans formue på rigelisten faldt fra 52,9 mia. til 23,7 mia. kr., dels pga. gaven, dels pga. et kursfald på 7 mia. kr.",
+          "sourceUrls": [
+            "https://ugebrev.dk/flashnews/louis-hansen-foraerer-22-mia-vaek-og-dykker-paa-aarets-rigeliste/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Louis-Hansen forærer 22 mia. væk - og dykker på årets rigeliste",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/flashnews/louis-hansen-foraerer-22-mia-vaek-og-dykker-paa-aarets-rigeliste/",
+          "publishedAt": "2026-11-19T13:10:13Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-danish-crown-results-20261120",
+      "eventKey": "danish-crown-fy2026-results",
+      "materialFacts": [
+        "FY2025/26 omsætning faldt fra 65,5 mia. til 62,5 mia. kr., driftsresultat fra 1,6 mia. til 1,1 mia. kr.",
+        "CFO Anders Aakær Jensen peger på markant fald i svinepriser, især i andet halvår",
+        "Danish Crown har aflyst sit pressemøde om årsregnskabet efter fyringen af topchefen"
+      ],
+      "section": "Erhverv",
+      "headline": "Danish Crowns omsætning er faldet med tre milliarder",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/seneste/danish-crowns-omsaetning-er-faldet-med-tre-milliarder",
+      "subheadline": "Lave svinepriser i andet halvår sendte andelsselskabets omsætning og driftsresultat ned i det seneste regnskabsår.",
+      "body": [
+        "Danish Crowns omsætning faldt fra 65,5 til 62,5 milliarder kroner i regnskabsåret 2025/26, mens driftsresultatet faldt fra 1,6 til 1,1 milliarder kroner. Finansdirektør Anders Aakær Jensen peger på markante prisfald på svinekød, især i andet halvår.",
+        "Danish Crown har samtidig aflyst sit traditionelle pressemøde om årsregnskabet efter fyringen af den administrerende direktør og giver i stedet kun korte telefoninterviews afgrænset til tallene."
+      ],
+      "whyItMatters": "Danish Crown er andelsselskab for langt størstedelen af danske svineproducenter, så faldende afregningspriser rammer direkte ind i landbrugets indtjening og dermed i et eksporterhverv, der tegner en stor del af betalingsbalancen.",
+      "analysis": "Et svagere regnskab oven på en fyret topchef er en dobbelt belastning. Den aflyste pressekonference er i sig selv et signal om, hvor ledelsesmæssigt ustabilt selskabet står lige nu.",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Danish_Crown%2C_Sk%C3%A6rb%C3%A6k_2024.jpg/1920px-Danish_Crown%2C_Sk%C3%A6rb%C3%A6k_2024.jpg",
+        "credit": "Foto: Hjart/Wikimedia Commons (CC BY-SA 4.0)",
+        "alt": "Danish Crowns produktionsanlæg i Skærbæk, fotograferet i 2024.",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Danish_Crown,_Sk%C3%A6rb%C3%A6k_2024.jpg"
+      },
+      "topics": [
+        "erhverv",
+        "landbrug-foedevarer",
+        "eksport"
+      ],
+      "entities": [
+        "Danish Crown",
+        "Anders Aakær Jensen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 72,
+        "decisionValue": 65,
+        "novelty": 70,
+        "sourceQuality": 80,
+        "personalRelevance": 82,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "Danish Crowns omsætning faldt fra 65,5 til 62,5 mia. kr. og driftsresultatet fra 1,6 til 1,1 mia. kr. i FY2025/26.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/seneste/danish-crowns-omsaetning-er-faldet-med-tre-milliarder"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Danish Crown har aflyst sit pressemøde om årsregnskabet efter fyringen af topchefen.",
+          "sourceUrls": [
+            "https://effektivtlandbrug.landbrugnet.dk/artikler/business/126254/danish-crown-aflyser-pressemoede-om-aarsregnskab"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Danish Crowns omsætning er faldet med tre milliarder",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/seneste/danish-crowns-omsaetning-er-faldet-med-tre-milliarder",
+          "publishedAt": "2026-11-19T08:39:45Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Efter chokfyring: Danish Crown aflyser pressemøde om årsregnskab",
+          "publisher": "Effektivt Landbrug",
+          "url": "https://effektivtlandbrug.landbrugnet.dk/artikler/business/126254/danish-crown-aflyser-pressemoede-om-aarsregnskab",
+          "publishedAt": "2026-11-17T10:40:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-c25-foreign-women-boards-20261120",
+      "eventKey": "c25-boards-foreign-women-directors",
+      "materialFacts": [
+        "Kvinder besætter 70 af 166 (42%) aktionærvalgte C25-bestyrelsesposter, fordelt på 65 personer",
+        "62% af disse kvinder (40 af 65) er udenlandske statsborgere, kun 38% er danske",
+        "8 er svenske (12% af alle kvindelige bestyrelsesmedlemmer); rekruttering skæver mod CEO/CFO/tech-profiler"
+      ],
+      "section": "Erhverv",
+      "headline": "2/3 af kvinderne i C25-bestyrelser er udlændinge",
+      "primarySourceUrl": "https://ugebrev.dk/ledelse/2-3-af-kvinderne-i-c25-bestyrelser-er-udlaendinge/",
+      "subheadline": "Ny analyse viser, at størstedelen af de kvindelige bestyrelsesmedlemmer i Danmarks 25 største børsnoterede selskaber ikke er danske statsborgere.",
+      "body": [
+        "Kvinder besætter 70 af 166 aktionærvalgte bestyrelsesposter i C25-selskaberne, 42 procent, fordelt på 65 personer. Men 62 procent af disse kvinder er udenlandske statsborgere — kun 38 procent er danske.",
+        "Otte af de udenlandske kvinder er svenske, alene 12 procent af samtlige kvindelige bestyrelsesmedlemmer. Rekrutteringen skæver mod CEO- og CFO-profiler frem for de HR-baggrunde, der traditionelt har åbnet bestyrelsesdøren for kvinder."
+      ],
+      "whyItMatters": "Tallene udfordrer billedet af, at dansk ligestillingsfremgang i bestyrelseslokalerne primært er hjemmevokset. Pointen er, at udbuddet af danske kvinder til de tungeste poster stadig er for smalt.",
+      "analysis": "At løsningen i vid udstrækning er importeret, er hverken et problem eller en bedrift i sig selv — men det betyder, at den danske pipeline af kvinder med CEO-erfaring stadig halter, og at det er dér, indsatsen bør rettes.",
+      "image": {
+        "url": "https://ugebrev.dk/wp-content/uploads/2026/11/Lene-Skole.jpg",
+        "credit": "Foto: Liselotte Sabroe/Ritzau Scanpix",
+        "alt": "Lene Skole, adm. direktør i Lundbeckfonden og bestyrelsesmedlem i Ørsted, Nordea og FLSmidth — en af de danske kvinder i C25-bestyrelserne.",
+        "sourceUrl": "https://ugebrev.dk/ledelse/2-3-af-kvinderne-i-c25-bestyrelser-er-udlaendinge/"
+      },
+      "topics": [
+        "who-is-moving",
+        "ledelse",
+        "bestyrelser"
+      ],
+      "entities": [
+        "C25-selskaber",
+        "Lene Skole"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 68,
+        "decisionValue": 75,
+        "novelty": 85,
+        "sourceQuality": 78,
+        "personalRelevance": 88,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Kvinder besætter 70 af 166 aktionærvalgte C25-bestyrelsesposter (42%), fordelt på 65 personer, og 62% af disse kvinder er udenlandske statsborgere.",
+          "sourceUrls": [
+            "https://ugebrev.dk/ledelse/2-3-af-kvinderne-i-c25-bestyrelser-er-udlaendinge/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "2/3 af kvinderne i C25-bestyrelser er udlændinge",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/ledelse/2-3-af-kvinderne-i-c25-bestyrelser-er-udlaendinge/",
+          "publishedAt": "2026-11-19T16:55:27Z",
+          "kind": "analysis"
+        }
+      ]
+    },
+    {
+      "id": "story-nordsoefonden-licens-20261120",
+      "eventKey": "nordsoefonden-licence-extension",
+      "materialFacts": [
+        "Nordsøfonden spår 26-48 mia. kr. ekstra statsindtægt og 131-246 mio. ekstra tønder olie ved licensforlængelse fra 2042 til 2050",
+        "Klima- og energiminister Samira Nawa (RV) er skeptisk og peger på ca. 14 mia. kr. i CO2-kompensationsomkostninger"
+      ],
+      "section": "Energi",
+      "headline": "Statens eget olieselskab spår milliardgevinst fra mere 'sort guld' – men regeringen tvivler",
+      "primarySourceUrl": "https://ing.dk/artikel/statens-eget-olieselskab-spaar-milliardgevinst-fra-mere-sort-guld-men-regeringen-tvivler",
+      "subheadline": "Nordsøfonden regner med 26-48 milliarder kroner ekstra til statskassen ved en forlængelse af Nordsø-licenserne, men klima- og energiministeren er skeptisk.",
+      "body": [
+        "Nordsøfonden, statens eget olieselskab, vurderer, at en forlængelse af licenserne i Nordsøen fra 2042 til 2050 kan give statskassen 26-48 milliarder kroner ekstra og udvinde 131-246 millioner ekstra tønder olie og gas.",
+        "Klima- og energiminister Samira Nawa (RV) tvivler på regnestykket. Hun peger på CO2-kompensationsomkostninger på omkring 14 milliarder kroner, som kan vende gevinsten til et underskud, når hele klimaregningen tælles med."
+      ],
+      "whyItMatters": "Striden sætter ord på en spænding i dansk energipolitik: et statsligt selskab, der skal maksimere afkastet af en ressource, staten selv ejer, over for en regering forpligtet til at nedbringe olie- og gasudvinding af klimahensyn.",
+      "analysis": "At uenigheden kommer fra to statslige aktører med adgang til de samme tal, og alligevel lander milliarder fra hinanden, viser hvor følsomme regnestykkerne er over for, hvilken pris man sætter på CO2 i dag versus om et årti.",
+      "image": {
+        "url": "https://ing.dk/sites/mi/files/styles/open_graph_image_16_9/public/2026-11/20180306-094715-4-1920x1279web.jpg?itok=gtVzZkBt",
+        "credit": "Kilde: Ingeniøren",
+        "alt": "En boreplatform i den danske del af Nordsøen ved tusmørke.",
+        "sourceUrl": "https://ing.dk/artikel/statens-eget-olieselskab-spaar-milliardgevinst-fra-mere-sort-guld-men-regeringen-tvivler"
+      },
+      "topics": [
+        "energi",
+        "nordsoeen",
+        "klimapolitik"
+      ],
+      "entities": [
+        "Nordsøfonden",
+        "Samira Nawa"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 70,
+        "decisionValue": 72,
+        "novelty": 75,
+        "sourceQuality": 72,
+        "personalRelevance": 80,
+        "contrast": 72
+      },
+      "claims": [
+        {
+          "text": "Nordsøfonden spår 26-48 mia. kr. ekstra statsindtægt hvis Nordsø-licenser forlænges fra 2042 til 2050.",
+          "sourceUrls": [
+            "https://ing.dk/artikel/statens-eget-olieselskab-spaar-milliardgevinst-fra-mere-sort-guld-men-regeringen-tvivler"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Klima- og energiminister Samira Nawa peger på ca. 14 mia. kr. i CO2-kompensationsomkostninger, som kan vende regnestykket til et underskud.",
+          "sourceUrls": [
+            "https://ing.dk/artikel/statens-eget-olieselskab-spaar-milliardgevinst-fra-mere-sort-guld-men-regeringen-tvivler"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Statens eget olieselskab spår milliardgevinst fra mere 'sort guld' – men regeringen tvivler",
+          "publisher": "Ingeniøren",
+          "url": "https://ing.dk/artikel/statens-eget-olieselskab-spaar-milliardgevinst-fra-mere-sort-guld-men-regeringen-tvivler",
+          "publishedAt": "2026-11-19T10:48:28Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-nordea-ecb-kapitalkrav-20261120",
+      "eventKey": "nordea-ecb-pillar2-capital",
+      "materialFacts": [
+        "ECB hæver Nordeas Pillar 2-krav fra 1,60% til 1,70% (+6bp CET1, ca. 730 mio. kr.), æder ca. 15% af overskudskapitalen",
+        "ECBs Financial Stability Review (18. nov. 2026) peger på AI-værdisætning, finanspolitiske ubalancer og geoøkonomiske spændinger som systemiske risici"
+      ],
+      "section": "Finans",
+      "headline": "ECB's nye kapitalkrav æder 15 pct. af Nordeas overskudskapital - kan ramme aktietilbagekøb, men næppe udbytte og udlånsvækst",
+      "primarySourceUrl": "https://ugebrev.dk/flashnews/ecbs-nye-kapitalkrav-aeder-15-pct-af-nordeas-overskudskapital-kan-ramme-aktietilbagekoeb-men-naeppe-udbytte-og-udlaansvaekst/",
+      "subheadline": "Den Europæiske Centralbank hæver Nordeas individuelle kapitalkrav, samme uge som banktilsynet advarer om risici fra AI-investeringsboomet.",
+      "body": [
+        "ECB hæver Nordeas Pillar 2-krav fra 1,60 til 1,70 procent, 6 basispunkter kernekapital eller omkring 730 millioner kroner. Det æder cirka 15 procent af bankens overskudskapital, som falder fra omkring 656 til 557 millioner euro.",
+        "Kravet vil formentlig begrænse aktietilbagekøb, men næppe udbytte eller udlånsvækst. Det kommer samme uge, som ECB i sin Financial Stability Review peger på AI-værdisætning og geoøkonomiske spændinger som risici mod den finansielle stabilitet."
+      ],
+      "whyItMatters": "Nordea er det største nordiske pengeinstitut og en hjørnesten i dansk bankvæsen. Selv en beskeden stramning er et signal om, hvor stramt tilsynet vurderer risikoen.",
+      "analysis": "At tilsynet strammer bankkrav samtidig med, at stabilitetsrapporten advarer om AI-værdisætninger, er næppe tilfældigt. Det er et tidligt tegn på, at AI-boomets finansiering bliver en tilsynssag, ikke kun en aktiehistorie.",
+      "image": {
+        "url": "https://ugebrev.dk/wp-content/uploads/2025/04/Frank-Vang-Jensen-%E2%80%93-CEO-Nordea.jpg",
+        "credit": "Foto: Mads Claus Rasmussen/Ritzau Scanpix",
+        "alt": "Frank Vang-Jensen, administrerende direktør for Nordea.",
+        "sourceUrl": "https://ugebrev.dk/flashnews/ecbs-nye-kapitalkrav-aeder-15-pct-af-nordeas-overskudskapital-kan-ramme-aktietilbagekoeb-men-naeppe-udbytte-og-udlaansvaekst/"
+      },
+      "topics": [
+        "makrooekonomi",
+        "bank",
+        "finans"
+      ],
+      "entities": [
+        "Nordea",
+        "Frank Vang-Jensen",
+        "ECB"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 65,
+        "decisionValue": 68,
+        "novelty": 65,
+        "sourceQuality": 78,
+        "personalRelevance": 70,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "ECB hæver Nordeas Pillar 2-krav fra 1,60% til 1,70%, hvilket æder ca. 15% af overskudskapitalen og formentlig begrænser aktietilbagekøb.",
+          "sourceUrls": [
+            "https://ugebrev.dk/flashnews/ecbs-nye-kapitalkrav-aeder-15-pct-af-nordeas-overskudskapital-kan-ramme-aktietilbagekoeb-men-naeppe-udbytte-og-udlaansvaekst/"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "ECBs Financial Stability Review (18. november 2026) peger på AI-værdisætning, finanspolitiske ubalancer og geoøkonomiske spændinger som risici for den finansielle stabilitet.",
+          "sourceUrls": [
+            "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "ECB's nye kapitalkrav æder 15 pct. af Nordeas overskudskapital - kan ramme aktietilbagekøb, men næppe udbytte og udlånsvækst",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/flashnews/ecbs-nye-kapitalkrav-aeder-15-pct-af-nordeas-overskudskapital-kan-ramme-aktietilbagekoeb-men-naeppe-udbytte-og-udlaansvaekst/",
+          "publishedAt": "2026-11-19T12:42:29Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook",
+          "publisher": "ECB",
+          "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
+          "publishedAt": "2026-11-18T09:00:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-rigshospitalet-donorlever-20261120",
+      "eventKey": "rigshospitalet-donor-liver-capacity",
+      "materialFacts": [
+        "Rigshospitalet har afvist 12 donorlevere okt. 2025-sep. 2026 pga. manglende kapacitet, heraf 5 der kunne være gået til børn",
+        "Hospitalet har kun én kirurg kvalificeret til pædiatriske levertransplantationer"
+      ],
+      "section": "Sundhed",
+      "headline": "Rigshospitalet opjusterer: Har afvist 12 donorlevere på grund af manglende kapacitet",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/rigshospitalet-opjusterer-har-afvist-12-donorlevere-paa-grund-af-manglende-kapacitet",
+      "subheadline": "Fem af de afviste levere kunne være gået til børn. Hospitalet har kun én kirurg kvalificeret til pædiatriske levertransplantationer.",
+      "body": [
+        "Rigshospitalet har i perioden oktober 2025 til september 2026 afvist 12 donorlevere på grund af manglende kapacitet — en opjustering fra de 10, der tidligere var oplyst. Fem af de afviste organer kunne have gået til børn.",
+        "Kapacitetsproblemet handler ikke kun om operationsstuer: Hospitalet har kun én kirurg kvalificeret til pædiatriske levertransplantationer, hvilket gør funktionen sårbar over for sygdom, ferie eller afgang."
+      ],
+      "whyItMatters": "Et afvist organ er ikke bare statistik — det er typisk en patient, hvis ventetid eller risiko stiger. At én kirurgs tilgængelighed kan afgøre, om et barn får en ny lever, er en sårbarhed hos nogle af de mest akutte patienter.",
+      "analysis": "Sagen viser, hvor tyndt specialiseret kapacitet kan være spredt i et i øvrigt velfungerende sundhedsvæsen: Det er ikke penge til selve transplantationen, der mangler, men den snævre faglige kapacitet til at udføre den.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/yazlmpmv/20261014-101908-3.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Rigshospitalets hovedbygning i København.",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/rigshospitalet-opjusterer-har-afvist-12-donorlevere-paa-grund-af-manglende-kapacitet"
+      },
+      "topics": [
+        "sundhed",
+        "hospitalsvaesen",
+        "danmark"
+      ],
+      "entities": [
+        "Rigshospitalet"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 70,
+        "decisionValue": 55,
+        "novelty": 68,
+        "sourceQuality": 80,
+        "personalRelevance": 40,
+        "contrast": 50
+      },
+      "claims": [
+        {
+          "text": "Rigshospitalet har afvist 12 donorlevere okt. 2025-sep. 2026 pga. manglende kapacitet, heraf 5 der kunne være gået til børn; hospitalet har kun én kirurg kvalificeret til pædiatriske levertransplantationer.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/rigshospitalet-opjusterer-har-afvist-12-donorlevere-paa-grund-af-manglende-kapacitet"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Rigshospitalet opjusterer: Har afvist 12 donorlevere på grund af manglende kapacitet",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/rigshospitalet-opjusterer-har-afvist-12-donorlevere-paa-grund-af-manglende-kapacitet",
+          "publishedAt": "2026-11-19T20:12:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-gyldendal-schwalbe-20261120",
+      "eventKey": "gyldendal-schwalbe-biography-halt",
+      "materialFacts": [
+        "Gyldendal har stoppet salget af en biografi om 112-årige Kirsten Schwalbe efter afdækning af hendes ledende post i nazistpartiet DNSAP i Holstebro 1943-44",
+        "TV Midtvest havde tidligere stoppet sin dækning med henvisning til helbred"
+      ],
+      "section": "Kultur",
+      "headline": "Gyldendal stopper salg af Kirsten Schwalbe-bog",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/gyldendal-stopper-salg-af-kirsten-schwalbe-bog",
+      "subheadline": "Forlaget trækker en biografi om den 112-årige kvinde tilbage, efter at hendes ledende rolle i det danske nazistparti under krigen kom frem.",
+      "body": [
+        "Gyldendal har standset salget af en biografi om 112-årige Kirsten Schwalbe, efter at det er kommet frem, at hun havde en ledende post i det danske nazistparti DNSAP i Holstebro i 1943-44. Forlagets nonfiktionschef Mette Korsgaard siger, at bogens positive grundtone er 'rykket grundlæggende ved' af de nye oplysninger.",
+        "TV Midtvest havde forud for Gyldendals beslutning allerede stoppet sin egen dækning af sagen med henvisning til Schwalbes helbred."
+      ],
+      "whyItMatters": "Sagen rammer den klassiske konflikt mellem levende kilders ret til at blive behandlet værdigt og offentlighedens interesse i historisk sandhed om besættelsestiden — særligt når kilden selv er en del af historien.",
+      "analysis": "At en biografi kan blive 'fundamentalt ændret' af én oplysning, viser hvor skrøbeligt et portræt er bygget på den portrætteredes egen fortælling. Spørgsmålet er nu, om bogen kan udkomme revideret, eller om den var forkert fra starten.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/vsqnw1gh/20250310-071349-l_crop001.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Foto: © Morten Stricker, Jysk Fynske Medier/Ritzau Scanpix",
+        "alt": "Kirsten Schwalbe, den 112-årige kvinde fra Vestjylland, som ifølge nye oplysninger var tilknyttet det danske nazistparti under besættelsen.",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/gyldendal-stopper-salg-af-kirsten-schwalbe-bog"
+      },
+      "topics": [
+        "kultur",
+        "historie",
+        "danmark"
+      ],
+      "entities": [
+        "Gyldendal",
+        "Kirsten Schwalbe"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 50,
+        "decisionValue": 30,
+        "novelty": 80,
+        "sourceQuality": 78,
+        "personalRelevance": 25,
+        "contrast": 75
+      },
+      "claims": [
+        {
+          "text": "Gyldendal har stoppet salget af en biografi om 112-årige Kirsten Schwalbe efter afdækning af hendes ledende post i nazistpartiet DNSAP i Holstebro 1943-44.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/gyldendal-stopper-salg-af-kirsten-schwalbe-bog"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gyldendal stopper salg af Kirsten Schwalbe-bog",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/gyldendal-stopper-salg-af-kirsten-schwalbe-bog",
+          "publishedAt": "2026-11-19T15:37:04Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-cte-blood-test-20261120",
+      "eventKey": "cte-blood-test-breakthrough",
+      "materialFacts": [
+        "Blodmarkøren plasma eMTBR-tau var markant forhøjet hos tidligere amerikansk-fodboldspillere, der senere fik konstateret CTE ved obduktion",
+        "En anden markør, p-tau217, var kun forhøjet hos deltagere med Alzheimers, hvilket kan hjælpe med at skelne de to sygdomme",
+        "Testen er i en tidlig forskningsfase, ikke FDA-godkendt og ikke klinisk tilgængelig"
+      ],
+      "section": "Udland",
+      "headline": "Boston University-Led Study Identifies Blood Test That May Detect Brain Disease CTE in Life",
+      "primarySourceUrl": "https://www.bu.edu/articles/2026/blood-test-detect-cte-in-life",
+      "subheadline": "Et amerikansk forskerhold har fundet en blodmarkør, der kan vise tegn på hjernesygdommen CTE hos levende mennesker.",
+      "body": [
+        "Et forskerhold fra Boston University og Banner Health har fundet, at blodmarkøren plasma eMTBR-tau var markant forhøjet hos tidligere fodboldspillere, som senere fik konstateret CTE ved obduktion. Af 21 spillere havde 18 CTE ved død, med højere niveauer hos de mest fremskredne tilfælde.",
+        "Forskerne testede også markøren p-tau217, kun forhøjet hos deltagere med Alzheimers. Studieleder Michael Alosco kalder fundet 'a game changer', men understreger, at det kræver validering i større obduktionsstudier, før en klinisk test kan godkendes."
+      ],
+      "whyItMatters": "CTE har hidtil kun kunnet diagnosticeres ved obduktion. En blodprøve, der viser tegn på sygdommen i tide, kan åbne for opfølgning hos udsatte idrætsudøvere.",
+      "analysis": "At markøren kan skelne CTE fra Alzheimers, er lige så vigtigt som opdagelsen selv — forskellen mellem en test, der finder noget, og en, der finder det rigtige.",
+      "image": {
+        "url": "https://www.bu.edu/files/2026/11/lead-20260728_CTE-MH-Study_576A1901-1200x1200.jpg",
+        "credit": "Kilde: Boston University",
+        "alt": "Boston University-Led Study Identifies Blood Test That May Detect Brain Disease CTE in Life",
+        "sourceUrl": "https://www.bu.edu/articles/2026/blood-test-detect-cte-in-life"
+      },
+      "topics": [
+        "sundhed",
+        "forskning",
+        "sport",
+        "modsyn"
+      ],
+      "entities": [
+        "Boston University",
+        "Banner Health",
+        "Michael Alosco",
+        "JAMA"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 70,
+        "decisionValue": 45,
+        "novelty": 85,
+        "sourceQuality": 85,
+        "personalRelevance": 20,
+        "contrast": 70
+      },
+      "claims": [
+        {
+          "text": "Blodmarkøren plasma eMTBR-tau var markant højere hos 18 tidligere fodboldspillere med CTE ved obduktion end hos 3 uden CTE, af 21 undersøgte.",
+          "sourceUrls": [
+            "https://www.bu.edu/articles/2026/blood-test-detect-cte-in-life"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Markøren p-tau217 var kun forhøjet hos deltagere med Alzheimers; studieleder Michael Alosco kalder fundet 'a game changer' og siger, det kræver validering i større obduktionsstudier.",
+          "sourceUrls": [
+            "https://www.bu.edu/articles/2026/blood-test-detect-cte-in-life"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Boston University-Led Study Identifies Blood Test That May Detect Brain Disease CTE in Life",
+          "publisher": "Boston University",
+          "url": "https://www.bu.edu/articles/2026/blood-test-detect-cte-in-life",
+          "publishedAt": "2026-11-19T12:00:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-hegseth-venezuela-20261120",
+      "eventKey": "hegseth-venezuela-military-pact",
+      "materialFacts": [
+        "USA og Venezuela underskrev aftale om militærsamarbejde under Hegseths besøg i Caracas",
+        "Det er første Hegseth-besøg i Venezuela siden amerikanske specialstyrker afsatte Maduro i januar 2026",
+        "USA ejer 35% af NABEPs moderselskab med førsteforkøbsret på venezuelansk olieproduktion"
+      ],
+      "section": "Udland",
+      "headline": "Hegseth, in Caracas, announces US-Venezuela military partnership agreement",
+      "primarySourceUrl": "https://www.defensenews.com/pentagon/2026/11/19/hegseth-in-caracas-announces-us-venezuela-military-partnership-agreement/",
+      "subheadline": "USA's forsvarsminister besøgte Caracas for første gang siden de amerikanske styrker afsatte Maduro, og underskrev en ny militæraftale.",
+      "body": [
+        "USA's forsvarsminister Pete Hegseth besøgte fredag Caracas og annoncerede en militærsamarbejdsaftale med Venezuelas fungerende præsident Delcy Rodriguez, der blandt andet omfatter fælles træning og deling af efterretninger. Det er Hegseths første besøg i landet siden januar 2026.",
+        "Hegseth sagde om narko-grupper, der har brugt landet som tilflugtssted, at 'jeres tid er omme'. USA ejer samtidig 35 procent af moderselskabet bag olieselskabet NABEP, med førsteforkøbsret på landets olieproduktion."
+      ],
+      "whyItMatters": "Aftalen formaliserer et amerikansk engagement i Venezuela, der rækker ud over den militære aktion i januar, og binder landets olieressourcer tættere til amerikanske interesser gennem NABEP.",
+      "analysis": "Kombinationen af militærsamarbejde og en direkte amerikansk ejerandel i olieproduktionen gør det svært at adskille sikkerhedspolitik fra ressourcepolitik — en model, der kan blive en skabelon for andre lande.",
+      "image": {
+        "url": "https://one.sightlinemg.com/wp-content/uploads/2026/11/2026-11-18T193125Z_1_LYNXNPEMAH202_RTROPTP_4_VENEZUELA-USA.jpg",
+        "credit": "Foto: Reuters",
+        "alt": "USA's forsvarsminister Pete Hegseth foran et amerikansk flag under besøget i Venezuela.",
+        "sourceUrl": "https://www.defensenews.com/pentagon/2026/11/19/hegseth-in-caracas-announces-us-venezuela-military-partnership-agreement/"
+      },
+      "topics": [
+        "geopolitik",
+        "latinamerika",
+        "usa"
+      ],
+      "entities": [
+        "Pete Hegseth",
+        "Venezuela",
+        "Delcy Rodriguez"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 75,
+        "decisionValue": 55,
+        "novelty": 80,
+        "sourceQuality": 72,
+        "personalRelevance": 25,
+        "contrast": 65
+      },
+      "claims": [
+        {
+          "text": "USA og Venezuela underskrev en militærsamarbejdsaftale under Hegseths besøg i Caracas, det første siden amerikanske specialstyrker afsatte Maduro i januar 2026.",
+          "sourceUrls": [
+            "https://www.defensenews.com/pentagon/2026/11/19/hegseth-in-caracas-announces-us-venezuela-military-partnership-agreement/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "USA ejer 35% af NABEPs moderselskab med førsteforkøbsret på venezuelansk olieproduktion.",
+          "sourceUrls": [
+            "https://www.defensenews.com/pentagon/2026/11/19/hegseth-in-caracas-announces-us-venezuela-military-partnership-agreement/"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Hegseth, in Caracas, announces US-Venezuela military partnership agreement",
+          "publisher": "Defense News",
+          "url": "https://www.defensenews.com/pentagon/2026/11/19/hegseth-in-caracas-announces-us-venezuela-military-partnership-agreement/",
+          "publishedAt": "2026-11-19T17:03:28Z",
+          "kind": "reporting"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "EU-Kommissionen har været ramt af AI-cyberangreb",
+      "headline": "EU-Kommissionen har været ramt af AI-cyberangreb",
+      "url": "https://www.dr.dk/nyheder/seneste/eu-kommissionen-har-vaeret-ramt-af-ai-cyberangreb",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-11-19T13:21:34Z",
+      "summary": "Kommissionens talsmand bekræfter et AI-værktøjsudført cyberangreb fra 22. oktober, først offentliggjort nu. Ingen bevis for medarbejderdatalæk endnu, gerningsmand uidentificeret."
+    },
+    {
+      "text": "Ekspert om nyt angreb på Krim-broen: Det er et prestigemål mere end et egentligt krigsmål",
+      "headline": "Ekspert om nyt angreb på Krim-broen: Det er et prestigemål mere end et egentligt krigsmål",
+      "url": "https://www.dr.dk/nyheder/udland/ekspert-om-nyt-angreb-paa-krim-broen-det-er-et-prestigemaal-mere-end-et-egentligt-krigsmaal",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-11-19T11:13:00Z",
+      "summary": "Ukraine angreb Krim-broen for tredje gang på en uge; togtrafik indstillet. En ekspert vurderer det som et prestigemål snarere end et reelt militært mål."
+    },
+    {
+      "text": "Nadim gør comeback på landsholdet",
+      "headline": "Nadim gør comeback på landsholdet",
+      "url": "https://www.dr.dk/sporten/nadim-goer-comeback-paa-landsholdet",
+      "publisher": "DR",
+      "section": "Sport",
+      "publishedAt": "2026-11-19T09:59:00Z",
+      "summary": "38-årige Nadia Nadim, 108 landskampe og 38 mål for Danmark, indkaldes igen til landsholdet efter ni mål i otte ligakampe denne sæson."
+    },
+    {
+      "text": "'Pinligt' - United-talents afskedsvideo vækker forargelse",
+      "headline": "'Pinligt' - United-talents afskedsvideo vækker forargelse",
+      "url": "https://sport.tv2.dk/fodbold/2026-11-19-pinligt-united-talents-afskedsvideo-vaekker-forargelse",
+      "publisher": "TV 2",
+      "section": "Sport",
+      "publishedAt": "2026-11-19T12:27:47Z",
+      "summary": "16-årige JJ Gabriel, der aldrig har spillet en seniorkamp for Manchester United, lagde en afskedsvideo op før skifte til Real Madrid. Ally McCoist kalder det pinligt."
+    },
+    {
+      "text": "Dansk lodtrækning til skæbneopgør - her er alt, du skal vide",
+      "headline": "Dansk lodtrækning til skæbneopgør - her er alt, du skal vide",
+      "url": "https://sport.tv2.dk/fodbold/2026-11-19-dansk-lodtraekning-til-skaebneopgoer-her-er-alt-du-skal-vide",
+      "publisher": "TV 2",
+      "section": "Sport",
+      "publishedAt": "2026-11-19T21:06:59Z",
+      "summary": "Lodtrækning fredag til playoff om at undgå nedrykning fra Nations League-liga A; Danmark favorit uanset modstander."
+    },
+    {
+      "text": "Politi: Mand dræbte kæreste og datter i Give",
+      "headline": "Politi: Mand dræbte kæreste og datter i Give",
+      "url": "https://www.dr.dk/nyheder/indland/politi-mand-draebte-kaereste-og-datter-i-give",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-11-19T18:34:52Z",
+      "summary": "62-årig mand mistænkt for at have dræbt 48-årig kæreste og 10-årig datter, derefter sig selv. Krisepsykolog sendt til lokal skole."
+    },
+    {
+      "text": "Norwegian beder 5.000 kunder spærre kort efter databrud",
+      "headline": "Norwegian beder 5.000 kunder spærre kort efter databrud",
+      "url": "https://www.dr.dk/nyheder/seneste/norwegian-beder-5-000-kunder-spaerre-kort-efter-databrud",
+      "publisher": "DR",
+      "section": "Forbruger",
+      "publishedAt": "2026-11-19T20:27:55Z",
+      "summary": "Skadelig kode injiceret via tredjeparts-webleverandør, ugen efter et databrud med 144.000+ Norwegian/Widerøe-passagerer."
+    },
+    {
+      "text": "Streamingtjeneste lukker i Danmark og resten af Europa",
+      "headline": "Streamingtjeneste lukker i Danmark og resten af Europa",
+      "url": "https://www.dr.dk/nyheder/seneste/streamingtjeneste-lukker-i-danmark-og-resten-af-europa",
+      "publisher": "DR",
+      "section": "Forbruger",
+      "publishedAt": "2026-11-19T08:34:34Z",
+      "summary": "SkyShowtime lukker i Danmark og resten af Europa senest ved udgangen af 2027. Ca. 133.000 danske abonnenter."
+    },
+    {
+      "text": "Kongefamilien skal fejre jul i Aarhus",
+      "headline": "Kongefamilien skal fejre jul i Aarhus",
+      "url": "https://www.dr.dk/nyheder/seneste/kongefamilien-skal-fejre-jul-i-aarhus",
+      "publisher": "DR",
+      "section": "Indland",
+      "publishedAt": "2026-11-19T13:51:04Z",
+      "summary": "Kongefamilien samles på Marselisborg Slot; julegudstjeneste i Aarhus Domkirke 24. december."
+    },
+    {
+      "text": "ECCO fyrer 76 danske medarbejdere",
+      "headline": "ECCO fyrer 76 danske medarbejdere",
+      "url": "https://www.dr.dk/nyheder/indland/ecco-fyrer-76-danske-medarbejdere",
+      "publisher": "DR",
+      "section": "Erhverv",
+      "publishedAt": "2026-11-19T16:59:19Z",
+      "summary": "Følger lukning af to udenlandske fabrikker. ECCO har hovedkvarter i Bredebro, Tønder."
+    },
+    {
+      "text": "Louisiana får kæmpe donation på 116 millioner kroner",
+      "headline": "Louisiana får kæmpe donation på 116 millioner kroner",
+      "url": "https://www.dr.dk/nyheder/seneste/louisiana-faar-kaempe-donation-paa-116-millioner-kroner",
+      "publisher": "DR",
+      "section": "Kultur",
+      "publishedAt": "2026-11-19T09:32:06Z",
+      "summary": "Donation fra boet efter et afdødt par; en af museets største private gaver nogensinde, øremærket kunstkøb."
+    }
+  ],
+  "column": {
+    "authoredBy": "ai",
+    "slug": "foedselsdagsparadokset",
+    "title": "Fødselsdagsparadokset",
+    "thesis": "Jo flere måder noget kan ramme, desto mindre betyder det, når det rammer — og derfor er 'tilfældige' sammenfald i data langt mindre sjældne, end de føles.",
+    "body": [
+      "Tag et lokale med et par dusin mennesker. De fleste gætter på, at chancen for, at to har fødselsdag samme dag, er lille. Men spørgsmålet er ikke, om én bestemt dato går igen — det er, om NOGEN af de mange par i rummet rammer samme dag, og antallet af par vokser langt hurtigere end antallet af mennesker.",
+      "Pointen rækker ud over fødselsdage. Leder man efter mønstre i store datamængder — hvilke aktier der bevæger sig i takt, hvilke lande der stemmer ens — er der tusindvis af mulige par at finde et sammenfald i. Noget vil ramme, uanset hvor tilfældig virkeligheden er. Det føles som et fund. Det er ofte bare aritmetik."
+    ],
+    "uncertainty": "Pointen holder kun, når antallet af mulige sammenligninger er stort og uden for ens kontrol. Har nogen på forhånd udpeget netop de to ting, der senere stemmer overens, er der ikke tusindvis af par at vælge imellem, men ét — langt sværere at afskrive som tilfældighed.",
+    "topics": [
+      "statistik",
+      "metode"
+    ]
+  },
+  "recommendations": [
+    {
+      "id": "rec-glyptotek-magt-mode-20261120",
+      "mode": "experience",
+      "kind": "museumsudstilling",
+      "status": "available",
+      "title": "Magt og mode i Romerriget",
+      "provider": "Ny Carlsberg Glyptotek",
+      "url": "https://glyptoteket.dk/udstillinger/aktuelle-udstillinger/magt-mode",
+      "availability": "København, 1. oktober 2026 - 29. marts 2027, almindelig entré.",
+      "commitment": "1-1,5 times besøg",
+      "description": "Glyptotekets første store særudstilling om, hvordan tøj, parfume, smykker og frisurer signalerede magt i Romerriget — fra kejserinder til almindelige borgere.",
+      "rationale": "Ren serendipitet: intet med erhverv, handel eller makroøkonomi at gøre. En velresearchet udstilling 10 minutter fra Hovedbanegården, der viser, hvor politisk et valg af tøj kunne være for to tusind år siden — en påmindelse om, at magtsignalering ikke er en moderne opfindelse.",
+      "topics": [
+        "kunst",
+        "kultur",
+        "serendipitet"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://glyptoteket.dk/media/1vvbrqne/03-the-power-of-fashion-glyptoteket.jpg?format=webp&width=1200&height=630",
+        "credit": "Kilde: Ny Carlsberg Glyptotek",
+        "alt": "Marmorstatue af en romersk kvinde i profil, draperet i en kappe, fra udstillingen om magt og mode i Romerriget.",
+        "sourceUrl": "https://glyptoteket.dk/udstillinger/aktuelle-udstillinger/magt-mode"
+      }
+    },
+    {
+      "id": "rec-imd-competitiveness-20261120",
+      "mode": "read",
+      "kind": "rapport",
+      "status": "available",
+      "title": "IMD World Competitiveness Yearbook 2026",
+      "provider": "IMD World Competitiveness Center",
+      "url": "https://www.imd.org/centers/wcc/world-competitiveness-center/rankings/world-competitiveness-ranking/",
+      "availability": "Frit tilgængelig online, inkl. PDF-hæfte.",
+      "commitment": "30-45 minutter",
+      "description": "Den årlige konkurrenceevne-rangering af 69 økonomier. Danmark er i år faldet til en sjetteplads globalt, ned fra en førsteplads i 2023, med økonomisk performance som den klart svageste delkategori.",
+      "rationale": "Efter 29 år med Danmarks konkurrenceevne som en del af jobbet er faldet fra førstepladsen den slags tal, der er værd at kende i detalje, før andre citerer dem upræcist — og rapporten peger præcis på, hvilke delkategorier der trækker ned.",
+      "topics": [
+        "konkurrenceevne",
+        "makrooekonomi",
+        "erhverv"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-aces-atp-no1-20261120",
+      "mode": "watch",
+      "kind": "dokumentarserie",
+      "status": "available",
+      "title": "Aces: The ATP No.1 Club",
+      "creator": "Pat Dimon (instruktør)",
+      "provider": "Prime Video",
+      "url": "https://www.primevideo.com/-/da/detail/0FT5BVEK47EUPXZH8GYYBZUZYT?tr=dk",
+      "availability": "Prime Video Danmark, kræver abonnement.",
+      "commitment": "4 afsnit á ca. 45 minutter",
+      "description": "Fire-delt dokumentarserie om de 29 mænd, der har stået øverst på verdensranglisten i tennis siden 1972 — med Federer, Nadal, Djokovic, Alcaraz og Sinner blandt de medvirkende.",
+      "rationale": "Tennis er en af de få personlige interesser, der ikke behøver at forsvare sig over for erhvervsprofilen. En seriøs dokumentarserie frem for endnu en highlight-video, bygget på adgang til alle 29 spillere i stedet for de sædvanlige tre-fire navne.",
+      "topics": [
+        "sport",
+        "tennis"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://m.media-amazon.com/images/S/pv-target-images/3e3d73cce49cca667945c9ee7e28ded8db8e402ebf47a82bbe34012ab806dfef._SX1080_FMjpg_.jpg",
+        "credit": "Kilde: Prime Video",
+        "alt": "Plakat for dokumentarserien Aces: The ATP No.1 Club.",
+        "sourceUrl": "https://www.primevideo.com/-/da/detail/0FT5BVEK47EUPXZH8GYYBZUZYT?tr=dk"
+      }
+    },
+    {
+      "id": "rec-clevelandfed-ai-panel-20261120",
+      "mode": "read",
+      "kind": "paneltransskription",
+      "status": "new",
+      "title": "Conversations on Central Banking: Macroeconomy in the Age of Artificial Intelligence",
+      "creator": "Nicholas Bloom og John Fernald",
+      "provider": "Federal Reserve Bank of Cleveland",
+      "url": "https://www.clevelandfed.org/-/media/project/clevelandfedtenant/clevelandfedsite/events/conversations-on-central-banking/2026/conversations_11172026_transcript.pdf",
+      "availability": "Gratis PDF-transskription.",
+      "commitment": "20-30 minutters læsning",
+      "description": "Transskription af et panel 17. november 2026 med Nicholas Bloom (Stanford) og John Fernald (INSEAD), der trækker paralleller fra tidligere automatiseringsbølger til AI's effekt på produktivitet og arbejdsmarked.",
+      "rationale": "To af de forskere, der har arbejdet længst med at måle automatiseringens faktiske effekt frem for dens løfter, anvendt direkte på AI — et modvægt til de mere spekulative AI-vurderinger, der ellers fylder dagens nyhedsbillede.",
+      "topics": [
+        "ai",
+        "makrooekonomi",
+        "centralbanker"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {}
+}
