@@ -1,0 +1,794 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-11-22-full",
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-22T05:22:40Z",
+  "readingMinutes": 11,
+  "title": "Thomas' Nyheder — 22. november 2026",
+  "dek": "Myanmar dømt for folkedrab for første gang nogensinde, EU's nye stålmur mod Asien, og hvad der egentlig driver dansk vækst i tredje kvartal.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-icj-myanmar-genocide-20261122",
+      "eventKey": "icj-myanmar-rohingya-genocide-ruling",
+      "materialFacts": [
+        "ICJ fastslog 19. november med 9 stemmer mod 6, at Myanmar begik folkedrab mod rohingyaerne i 2016-17",
+        "Det er første gang en international domstol har fundet en stat skyldig i folkedrab siden konventionen fra 1948"
+      ],
+      "section": "Udland",
+      "headline": "FN-domstol: Myanmar har begået folkedrab mod rohingyaerne",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/fn-domstol-myanmar-har-begaaet-folkedrab-mod-rohingyaerne",
+      "subheadline": "Den Internationale Domstol fastslår for første gang nogensinde, at en stat har begået folkedrab — endeligt, bindende og uden appel.",
+      "body": [
+        "Den Internationale Domstol i Haag fastslog 19. november med 9 stemmer mod 6, at Myanmars militær begik folkedrab mod rohingya-minoriteten i det nordlige Rakhine i 2016-17 — første gang en international domstol har fundet en stat skyldig i folkedrab siden konventionen fra 1948.",
+        "Offensiven dræbte omkring 10.000 rohingyaer, omfattede udbredt seksuel vold og afbrænding af landsbyer, og drev over 700.000 på flugt til Bangladesh. Gambia anlagde sagen i 2019 efter syv års proces."
+      ],
+      "whyItMatters": "Dommen er endelig og uden appel. Den pålægger Myanmar at stoppe overtrædelserne og betale erstatning, inklusive sikker hjemrejse for de fordrevne — men ICJ har ingen egen fuldbyrdelsesmagt. Det kræver FN's Sikkerhedsråd eller pres fra enkeltlande.",
+      "analysis": "Sagen sætter en præcedens for lignende sager, der allerede ligger for ICJ om Israel og Ukraine: domstolen vil fastslå statsansvar for folkedrab, selv uden håndhævelse. Retlig ansvarliggørelse af stater er nu mere end teori — men afstanden til konsekvens er stadig stor.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/1utp0uw5/20261119-115653-3.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "FN-domstol: Myanmar har begået folkedrab mod rohingyaerne",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/fn-domstol-myanmar-har-begaaet-folkedrab-mod-rohingyaerne"
+      },
+      "topics": [
+        "folkeret",
+        "menneskerettigheder",
+        "udland"
+      ],
+      "entities": [
+        "ICJ",
+        "Myanmar",
+        "Gambia",
+        "Rohingya",
+        "Yuji Iwasawa"
+      ],
+      "isLead": true,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 85,
+        "decisionValue": 25,
+        "novelty": 70,
+        "sourceQuality": 75,
+        "personalRelevance": 15,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "ICJ afgjorde 19. november 2026 med 9-6 stemmer, at Myanmars militær begik folkedrab mod rohingyaerne i 2016-17",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/fn-domstol-myanmar-har-begaaet-folkedrab-mod-rohingyaerne",
+            "https://www.hrw.org/news/2026/11/19/world-court-finds-myanmar-committed-rohingya-genocide"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Det er første gang ICJ har fundet en stat skyldig i folkedrab",
+          "sourceUrls": [
+            "https://www.hrw.org/news/2026/11/19/world-court-finds-myanmar-committed-rohingya-genocide"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "FN-domstol: Myanmar har begået folkedrab mod rohingyaerne",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/fn-domstol-myanmar-har-begaaet-folkedrab-mod-rohingyaerne",
+          "publishedAt": "2026-11-19T11:38:41Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "World Court Finds Myanmar Committed Rohingya Genocide",
+          "publisher": "Human Rights Watch",
+          "url": "https://www.hrw.org/news/2026/11/19/world-court-finds-myanmar-committed-rohingya-genocide",
+          "publishedAt": "2026-11-19T22:40:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-eu-steel-antidumping-20261122",
+      "eventKey": "eu-steel-antidumping-tariffs",
+      "materialFacts": [
+        "EU fastsatte 16. november definitive antidumpingtold på koldvalset stål fra Indien, Japan, Taiwan, Tyrkiet og Vietnam",
+        "EU-ministre møder USTR Jamieson Greer 30. november, og EU skal senest 1. december afrapportere om effekten af USA's stål/aluminiumstold"
+      ],
+      "section": "Erhverv",
+      "headline": "Commission imposes anti-dumping duties on certain cold-rolled flat steel products",
+      "primarySourceUrl": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en",
+      "subheadline": "EU indfører definitiv told på koldvalset stål fra fem lande, mens Bruxelles og Washington ti dage senere mødes om stålkrigen.",
+      "body": [
+        "EU-Kommissionen fastsatte 16. november definitiv antidumpingtold på 3-27,9% på koldvalset stål fra Indien, Japan, Taiwan, Tyrkiet og Vietnam for salg til urimeligt lave priser i EU.",
+        "Markedet er vurderet til 23,2 mia. euro med produktion hos over 8.600 ansatte i tolv EU-lande. For Indien og Taiwan brugte Kommissionen første gang reglen om 'særlige markedsforhold' på grund af statslige prisindgreb og kinesisk overkapacitet."
+      ],
+      "whyItMatters": "Tolden kommer midt i EU-USA-konflikten om stål: amerikansk told på 50% har skåret EU's ståleksport til USA 34% over tre kvartaler.",
+      "analysis": "For en forhandler med erfaring i transatlantisk handel viser sagen, at EU fører forsvarspolitik i to retninger: beskytter industri mod dumping udefra fra Asien, mens den samtidig er i tvist med Washington om de amerikanske toldmure på stål.",
+      "image": {
+        "url": "https://www.eunews.it/wp-content/uploads/2025/10/Imagoeconomica_2374369.jpg",
+        "credit": "Kilde: Eunews / Imagoeconomica",
+        "alt": "Illustrationsfoto anvendt af Eunews til dækningen af EU's antidumpingtold på stål",
+        "sourceUrl": "https://www.eunews.it/en/2026/11/16/the-eu-commission-imposes-anti-dumping-tariffs-on-steel-imported-from-five-countries/"
+      },
+      "topics": [
+        "eu-us-handel",
+        "handelspolitik",
+        "erhverv"
+      ],
+      "entities": [
+        "EU-Kommissionen",
+        "Indien",
+        "Japan",
+        "Taiwan",
+        "Tyrkiet",
+        "Vietnam",
+        "Jamieson Greer"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 68,
+        "decisionValue": 70,
+        "novelty": 55,
+        "sourceQuality": 80,
+        "personalRelevance": 88,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "EU-Kommissionen fastsatte 16. november definitive antidumpingtold på koldvalset stål fra fem lande (3-27,9%)",
+          "sourceUrls": [
+            "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Amerikansk told på 50% har skåret EU's ståleksport til USA med 34% over tre kvartaler",
+          "sourceUrls": [
+            "https://www.eunews.it/en/2026/11/16/the-eu-commission-imposes-anti-dumping-tariffs-on-steel-imported-from-five-countries/"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Commission imposes anti-dumping duties on certain cold-rolled flat steel products",
+          "publisher": "European Commission",
+          "url": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en",
+          "publishedAt": "2026-11-16T10:00:00Z",
+          "kind": "primary"
+        },
+        {
+          "title": "The EU Commission imposes anti-dumping tariffs on steel imported from five countries",
+          "publisher": "Eunews",
+          "url": "https://www.eunews.it/en/2026/11/16/the-eu-commission-imposes-anti-dumping-tariffs-on-steel-imported-from-five-countries/",
+          "publishedAt": "2026-11-16T09:00:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-dk-gdp-composition-20261122",
+      "eventKey": "dk-q3-gdp-pharma-military-composition",
+      "materialFacts": [
+        "0,6 af 0,8 procentpoints BNP-vækst i Q3 kommer fra offentlige militærindkøb i udlandet",
+        "Yderligere ca. 0,4-0,5 procentpoint kommer fra medicinalproduktion uden for Danmark; erhvervsinvesteringerne var negative"
+      ],
+      "section": "Økonomi",
+      "headline": "BNP vækst i Q3 består alene af offentlige militærindkøb i udlandet og øget medicinalproduktion i udlandet",
+      "primarySourceUrl": "https://ugebrev.dk/flashnews/bnp-vaekst-i-q3-bestaar-alene-af-offentlige-militaerindkoeb-i-udlandet-og-oeget-medicinalproduktion-i-udlandet/",
+      "subheadline": "En gennemgang af nationalregnskabet viser, at Danmarks officielle vækst på 0,8% i tredje kvartal næsten udelukkende stammer fra to kilder uden for den almindelige danske økonomi.",
+      "body": [
+        "Af de 0,8% BNP-vækst i tredje kvartal kommer 0,6 procentpoint fra offentlige militærindkøb i udlandet og yderligere 0,4-0,5 procentpoint fra medicinalproduktion uden for Danmark, viser Økonomisk Ugebrevs gennemgang af Danmarks Statistiks tal.",
+        "Begge kilder trækker vækst ind i BNP-regnskabet, uden at det nødvendigvis stimulerer aktivitet i Danmark. Samtidig var erhvervsinvesteringerne negative i kvartalet — et tegn, der normalt følger en svagere, ikke en 'buldrende', økonomi."
+      ],
+      "whyItMatters": "Det ændrer læsningen af et tal, der er fremhævet som bevis på dansk styrke: bankøkonom Jes Asmussen har kaldt væksten 'imponerende', men dekomponeringen viser, at økonomien uden pharma og udlandsindkøb voksede langt svagere.",
+      "analysis": "At Novo Nordisk bærer uforholdsmæssigt meget af dansk vækst er kendt, men målingen sætter tal på, hvor lidt der er tilbage renset for pharma og militærimport.",
+      "topics": [
+        "makrooekonomi",
+        "eksportkoncentration",
+        "medicinalindustri"
+      ],
+      "entities": [
+        "Danmarks Statistik",
+        "Økonomisk Ugebrev",
+        "Novo Nordisk"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 62,
+        "decisionValue": 68,
+        "novelty": 60,
+        "sourceQuality": 65,
+        "personalRelevance": 90,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "0,6 procentpoint af Q3-væksten kommer fra offentlige militærindkøb i udlandet og ca. 0,4-0,5 procentpoint fra medicinalproduktion i udlandet",
+          "sourceUrls": [
+            "https://ugebrev.dk/flashnews/bnp-vaekst-i-q3-bestaar-alene-af-offentlige-militaerindkoeb-i-udlandet-og-oeget-medicinalproduktion-i-udlandet/"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "BNP vækst i Q3 består alene af offentlige militærindkøb i udlandet og øget medicinalproduktion i udlandet",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/flashnews/bnp-vaekst-i-q3-bestaar-alene-af-offentlige-militaerindkoeb-i-udlandet-og-oeget-medicinalproduktion-i-udlandet/",
+          "publishedAt": "2026-11-21T16:30:00Z",
+          "kind": "analysis"
+        },
+        {
+          "title": "Dansk økonomi buldrer videre: 'Ganske enkelt imponerende'",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/penge/dansk-oekonomi-buldrer-videre-ganske-enkelt-imponerende",
+          "publishedAt": "2026-11-20T08:12:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-flsmidth-cfo-20261122",
+      "eventKey": "flsmidth-cfo-leadership-change",
+      "materialFacts": [
+        "CFO Roland M. Andersen forlod FLSmidth med øjeblikkelig virkning 16. november efter uenighed med bestyrelsen",
+        "Sander Fynboe, 12+ års anciennitet i FLSmidth, udpeget 20. november som konstitueret CFO; permanent proces ventes afsluttet H1 2027"
+      ],
+      "section": "Erhverv",
+      "headline": "FLSmidth announces changes to the Executive Leadership Team; Sander Fynboe appointed as interim Chief Financial Officer",
+      "primarySourceUrl": "https://fls.com/en/announcements/2026/flsmidth-announces-changes-to-the-executive-leadership-team-sander-fynboe-appointed-as-interim-chief-financial-officer",
+      "subheadline": "FLSmidths finansdirektør forlod posten med øjeblikkelig virkning efter uenighed med bestyrelsen — en mangeårig koncernmedarbejder er nu sat i stolen.",
+      "body": [
+        "FLSmidths finansdirektør Roland M. Andersen forlod selskabet med øjeblikkelig virkning 16. november. Selskabet skrev i sin meddelelse, at bestyrelsen ikke kunne finde fælles grund med CFO'en om, hvad der kræves for at støtte forretningen, mens FLSmidth lancerer strategien 'Accelerate '31'.",
+        "Dagen efter afviste bestyrelsesformand Lene Skole til Børsen, at fyringen havde noget at gøre med strategien eller 2029-målene — en forklaring, der ifølge Metal Supply modsiger selskabets egen meddelelse. Fire dage senere blev Sander Fynboe, med over tolv års anciennitet i FLSmidth, konstitueret finansdirektør."
+      ],
+      "whyItMatters": "At bestyrelsesformanden offentligt modsiger selskabets egen forklaring dage efter en fyring med øjeblikkelig virkning, er usædvanligt og efterlader årsagen uklar.",
+      "analysis": "Uanset årsagen viser sagen en bestyrelse, der handler hurtigt over for sin finansdirektør — men ikke samstemmigt om hvorfor.",
+      "topics": [
+        "who-is-moving",
+        "erhverv",
+        "industri",
+        "ledelse"
+      ],
+      "entities": [
+        "FLSmidth",
+        "Sander Fynboe",
+        "Roland M. Andersen",
+        "Toni Laaksonen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 60,
+        "novelty": 65,
+        "sourceQuality": 85,
+        "personalRelevance": 92,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "CFO Roland M. Andersen forlod FLSmidth med øjeblikkelig virkning 16. november 2026; selskabets egen meddelelse angav mangel på fælles grundlag om 'Accelerate '31'-strategien som årsag",
+          "sourceUrls": [
+            "https://fls.com/en/announcements/2026/flsmidth-announces-changes-to-the-executive-leadership-team-chief-financial-officer-roland-m.-andersen-leaves-flsmidth"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Bestyrelsesformand Lene Skole afviste 17. november til Børsen, at fyringen havde noget at gøre med strategien eller 2029-målene, hvilket ifølge Metal Supply modsiger selskabets egen meddelelse",
+          "sourceUrls": [
+            "https://metal-supply.dk/article/view/1257132/flsmidths_bestyrelsesforkvinde_skaber_forvirring_om_arsag_til_finansdirektorfyring"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Sander Fynboe udpeget som konstitueret CFO 20. november; permanent søgeproces ventes afsluttet i H1 2027",
+          "sourceUrls": [
+            "https://fls.com/en/announcements/2026/flsmidth-announces-changes-to-the-executive-leadership-team-sander-fynboe-appointed-as-interim-chief-financial-officer"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "FLSmidth announces changes to the Executive Leadership Team; Sander Fynboe appointed as interim Chief Financial Officer",
+          "publisher": "FLSmidth & Co. A/S",
+          "url": "https://fls.com/en/announcements/2026/flsmidth-announces-changes-to-the-executive-leadership-team-sander-fynboe-appointed-as-interim-chief-financial-officer",
+          "publishedAt": "2026-11-20T15:18:00Z",
+          "kind": "primary"
+        },
+        {
+          "title": "FLSmidth announces changes to the Executive Leadership Team; Chief Financial Officer Roland M. Andersen leaves FLSmidth",
+          "publisher": "FLSmidth & Co. A/S",
+          "url": "https://fls.com/en/announcements/2026/flsmidth-announces-changes-to-the-executive-leadership-team-chief-financial-officer-roland-m.-andersen-leaves-flsmidth",
+          "publishedAt": "2026-11-16T08:00:00Z",
+          "kind": "primary"
+        },
+        {
+          "title": "FLSmidths bestyrelsesforkvinde skaber forvirring om årsag til finansdirektørfyring",
+          "publisher": "Metal Supply",
+          "url": "https://metal-supply.dk/article/view/1257132/flsmidths_bestyrelsesforkvinde_skaber_forvirring_om_arsag_til_finansdirektorfyring",
+          "publishedAt": "2026-11-17T11:15:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-vestas-layoffs-20261122",
+      "eventKey": "vestas-180-layoffs-denmark-2026",
+      "materialFacts": [
+        "Vestas nedlægger 180 stillinger i Danmark, 115 på hovedkontoret i Aarhus",
+        "Det er fjerde fyringsrunde i Danmark i 2026 efter Ringkøbing, Munkebo (april) og Munkebo (oktober)"
+      ],
+      "section": "Erhverv",
+      "headline": "Vestas nedlægger 180 stillinger i Danmark: For fjerde gang i år svinges sparekniven",
+      "primarySourceUrl": "https://ing.dk/artikel/vestas-nedlaegger-180-stillinger-i-danmark-fjerde-gang-i-aar-svinges-sparekniven",
+      "subheadline": "Vindmølleproducenten varsler endnu en fyringsrunde i Danmark — fjerde i 2026 — med hovedparten af nedskæringerne på hovedkontoret i Aarhus.",
+      "body": [
+        "Vestas nedlægger 180 stillinger i Danmark, 115 af dem i Aarhus, med besked senest ultimo november. Det er fjerde fyringsrunde i 2026 efter Ringkøbing (70), Munkebo (430) og endnu en Munkebo-runde (27).",
+        "Vestas har omkring 40.000 medarbejdere globalt og lidt over 6.700 i Danmark. Selskabet begrunder nedskæringen med et ønske om en 'mere enkel, effektiv og kundefokuseret' organisation."
+      ],
+      "whyItMatters": "Fire fyringsrunder på et år i et selskab, der ellers drager fordel af den grønne omstilling, viser, at en fyldt ordrebog ikke automatisk giver flere job i Danmark — Vestas flytter i stedet kapacitet og effektiviserer.",
+      "analysis": "Når en af landets største industrielle arbejdsgivere skærer ned fire gange på et år, siger det noget om, hvor hård konkurrencen på vindmøllemarkedet er blevet, selv for markedsledere — og det lægger pres på de lokalsamfund, hvor Vestas er en af de største arbejdsgivere.",
+      "image": {
+        "url": "https://ing.dk/sites/mi/files/styles/open_graph_image_16_9/public/2026-04/v172-7.2_prototype_oesterild_4.jpg?itok=u8675LCD",
+        "credit": "Kilde: Ingeniøren",
+        "alt": "Vestas nedlægger 180 stillinger i Danmark: For fjerde gang i år svinges sparekniven",
+        "sourceUrl": "https://ing.dk/artikel/vestas-nedlaegger-180-stillinger-i-danmark-fjerde-gang-i-aar-svinges-sparekniven"
+      },
+      "topics": [
+        "erhverv",
+        "energi",
+        "groen-omstilling",
+        "industri"
+      ],
+      "entities": [
+        "Vestas"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 58,
+        "decisionValue": 50,
+        "novelty": 55,
+        "sourceQuality": 75,
+        "personalRelevance": 80,
+        "contrast": 30
+      },
+      "claims": [
+        {
+          "text": "Vestas nedlægger 180 stillinger i Danmark, 115 i Aarhus, som fjerde fyringsrunde i 2026",
+          "sourceUrls": [
+            "https://ing.dk/artikel/vestas-nedlaegger-180-stillinger-i-danmark-fjerde-gang-i-aar-svinges-sparekniven"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Vestas nedlægger 180 stillinger i Danmark: For fjerde gang i år svinges sparekniven",
+          "publisher": "Ingeniøren",
+          "url": "https://ing.dk/artikel/vestas-nedlaegger-180-stillinger-i-danmark-fjerde-gang-i-aar-svinges-sparekniven",
+          "publishedAt": "2026-11-16T09:06:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-riemann-ai-proof-20261122",
+      "eventKey": "anthropic-claude-riemann-hypothesis-proof",
+      "materialFacts": [
+        "Anthropic-forsker hævder 20. november et Lean-verificeret bevis for Riemann-hypotesen, udarbejdet med Claude",
+        "Beviset er endnu ikke uafhængigt matematisk efterprøvet"
+      ],
+      "section": "Videnskab",
+      "headline": "Anthropic mathematician claims AI helped solve a 167-year-old math mystery",
+      "primarySourceUrl": "https://www.ibm.com/think/news/anthropic-claude-riemann-hypothesis-math-proof",
+      "subheadline": "En Anthropic-forsker hævder, sammen med Claude, at have løst Riemann-hypotesen — men beviset er endnu ikke efterprøvet af uafhængige matematikere.",
+      "body": [
+        "Anthropic-matematikeren Levent Alpöge offentliggjorde 20. november et hævdet bevis for Riemann-hypotesen — uløst siden 1859 — udarbejdet med AI-systemet Claude. I stedet for et konventionelt papir udgav han argumentet i Lean, et sprog der tjekker matematiske ræsonnementer trin for trin.",
+        "Riemann-hypotesen er et af Clay Mathematics Institutes syv 'Millennium-problemer' med en pris på en million dollars. Oxford-professor James Maynard kalder det 'et historisk vendepunkt, hvis det holder'."
+      ],
+      "whyItMatters": "Ingen uafhængig matematiker har endnu efterprøvet beviset. Matematikeren Youness Lamzouri siger han 'ikke har ord' for sin reaktion, men advarer, at selv at tjekke koden vil tage tid.",
+      "analysis": "Hvis det holder, er det et klart tegn på, at AI kan løse problemer, generationer af matematikere ikke har knækket — men det bør læses som et hævdet resultat, ikke et fastslået, før nogen uafhængig instans har bekræftet det.",
+      "image": {
+        "url": "https://www.ibm.com/content/dam/worldwide-content/creative-assets/ibs/ul/g/00/00/0100151_Oppermann_PE.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+        "credit": "Kilde: IBM Think",
+        "alt": "Anthropic mathematician claims AI helped solve a 167-year-old math mystery",
+        "sourceUrl": "https://www.ibm.com/think/news/anthropic-claude-riemann-hypothesis-math-proof"
+      },
+      "topics": [
+        "ai",
+        "matematik",
+        "videnskab"
+      ],
+      "entities": [
+        "Anthropic",
+        "Levent Alpöge",
+        "Claude",
+        "James Maynard",
+        "Youness Lamzouri"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 72,
+        "decisionValue": 20,
+        "novelty": 92,
+        "sourceQuality": 65,
+        "personalRelevance": 25,
+        "contrast": 60
+      },
+      "claims": [
+        {
+          "text": "Alpöge offentliggjorde 20. november et hævdet, Lean-verificeret bevis for Riemann-hypotesen udarbejdet med Claude",
+          "sourceUrls": [
+            "https://www.ibm.com/think/news/anthropic-claude-riemann-hypothesis-math-proof"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Beviset er endnu ikke uafhængigt efterprøvet af matematikere udenfor Anthropic",
+          "sourceUrls": [
+            "https://www.ibm.com/think/news/anthropic-claude-riemann-hypothesis-math-proof"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Anthropic mathematician claims AI helped solve a 167-year-old math mystery",
+          "publisher": "IBM Think",
+          "url": "https://www.ibm.com/think/news/anthropic-claude-riemann-hypothesis-math-proof",
+          "publishedAt": "2026-11-20T12:00:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "discoveredVia": {
+        "name": "AINews",
+        "url": "https://news.smol.ai"
+      }
+    },
+    {
+      "id": "story-dsb-train-chaos-20261122",
+      "eventKey": "dsb-train-punctuality-crisis",
+      "materialFacts": [
+        "DSB har ikke på noget tidspunkt i 2026 levet op til sit eget punktlighedsmål",
+        "Nye tog ventes først 2032; ministeren afviser sammenlægning af DSB/Banedanmark"
+      ],
+      "section": "Danmark",
+      "headline": "Togkaos, togkaos og mere togkaos: Her er eksperternes løsning",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/togkaos-togkaos-og-mere-togkaos-her-er-eksperternes-loesning",
+      "subheadline": "DSB har ikke på noget tidspunkt i 2026 levet op til sit eget punktlighedsmål. Eksperter er uenige om, hvor problemet reelt sidder.",
+      "body": [
+        "DSB har hele 2026 ligget under sit eget punktlighedsmål. Professor Mogens Fosgerau foreslår at samle DSB og Banedanmark i én organisation for at forene incitamenter til vedligeholdelse og planlægning. Kristian Madsen peger i stedet på revner i skinnerne.",
+        "Steven Seth Harrod kalder det et koordinationssvigt: 'Den ene hånd har ikke samarbejdet med den anden hånd.' Nye tog ventes først i 2032. Ministeren Karina Lorentzen Dehnhardt afviser en sammenlægning som ulovlig efter EU-regler og peger i stedet på anlægsarbejde som årsag."
+      ],
+      "whyItMatters": "Når eksperter og ministeren er uenige om, om problemet er organisatorisk eller fysisk, er der ingen løsning i sigte — rejsende må leve med det mindst til 2032.",
+      "analysis": "Sagen viser, at infrastrukturproblemer sjældent har én årsag: skinner, organisation og nyt materiel trækker i samme retning, men løses hver for sig på forskellig tidshorisont — svært at løse med én beslutning.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/zcue5ocj/20260607-180055-2.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Arkivfoto af dansk regionaltog brugt af DR til historien om DSB's punktlighedsproblemer",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/togkaos-togkaos-og-mere-togkaos-her-er-eksperternes-loesning"
+      },
+      "topics": [
+        "danmark",
+        "infrastruktur",
+        "transport"
+      ],
+      "entities": [
+        "DSB",
+        "Banedanmark",
+        "Mogens Fosgerau",
+        "Karina Lorentzen Dehnhardt"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 48,
+        "decisionValue": 30,
+        "novelty": 35,
+        "sourceQuality": 75,
+        "personalRelevance": 35,
+        "contrast": 30
+      },
+      "claims": [
+        {
+          "text": "DSB har ikke på noget tidspunkt i 2026 levet op til sit eget punktlighedsmål",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/togkaos-togkaos-og-mere-togkaos-her-er-eksperternes-loesning"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Togkaos, togkaos og mere togkaos: Her er eksperternes løsning",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/togkaos-togkaos-og-mere-togkaos-her-er-eksperternes-loesning",
+          "publishedAt": "2026-11-21T09:00:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-sociolancen-20261122",
+      "eventKey": "sociolancen-outreach-pilot",
+      "materialFacts": [
+        "Region Sjællands 'Sociolancen'-pilotprojekt har på seks måneder løst 300 opgaver og registreret 164 borgere, kommunen ikke kendte",
+        "Projektet er finansieret til 2027"
+      ],
+      "section": "Danmark",
+      "headline": "Katrine forlod skrivebordet og fandt mennesker, kommunen ikke anede fandtes",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/katrine-forlod-skrivebordet-og-fandt-mennesker-kommunen-ikke-anede-fandtes",
+      "subheadline": "Et pilotprojekt i Region Sjælland parrer socialrådgiver og paramediciner i en 'sociolance' — og har på et halvt år fundet 164 udsatte borgere, systemet ikke kendte til.",
+      "body": [
+        "Socialrådgiver Katrine G. Jensen forlod skrivebordet i Kalundborg og tog i stedet ud med paramediciner Glenn Winge i 'Sociolancen' — en bil, der ugentligt opsøger udsatte borgere ved madbanker og samlingspunkter for at tale om bolig, pension og behov.",
+        "På seks måneder har projektet løst 300 opgaver og registreret 164 borgere, kommunen ikke kendte. Winge peger på, at borgere på landet er sygere, når de bliver syge. Projektet er finansieret til 2027, men Jensen understreger, at seks måneder er kort tid til at vise effekt."
+      ],
+      "whyItMatters": "Pointen er ikke antallet af opgaver, men at 164 borgere var usynlige for det offentlige, før nogen tog ud og ledte — en illustration af afstanden mellem velfærdssystemet og dets mest udsatte borgere.",
+      "analysis": "Projektet er konstruktiv journalistik i praksis: det er målbart, ærligt om sine begrænsninger, og peger på en metode, der kan skaleres eller forkastes på fakta, ikke stemning.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/zfthbj2p/ude_crop001.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Arkivfoto fra DR af Sociolancen, bilen der bruges i Region Sjællands opsøgende socialindsats",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/katrine-forlod-skrivebordet-og-fandt-mennesker-kommunen-ikke-anede-fandtes"
+      },
+      "topics": [
+        "danmark",
+        "konstruktiv-journalistik",
+        "socialomraade"
+      ],
+      "entities": [
+        "Region Sjælland",
+        "Katrine G. Jensen",
+        "Glenn Winge",
+        "Kalundborg"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 45,
+        "decisionValue": 25,
+        "novelty": 65,
+        "sourceQuality": 75,
+        "personalRelevance": 55,
+        "contrast": 30
+      },
+      "claims": [
+        {
+          "text": "Sociolancen-pilotprojektet har på seks måneder løst 300 opgaver og registreret 164 borgere, kommunen ikke kendte til",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/katrine-forlod-skrivebordet-og-fandt-mennesker-kommunen-ikke-anede-fandtes"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Katrine forlod skrivebordet og fandt mennesker, kommunen ikke anede fandtes",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/katrine-forlod-skrivebordet-og-fandt-mennesker-kommunen-ikke-anede-fandtes",
+          "publishedAt": "2026-11-21T12:00:00Z",
+          "kind": "reporting"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "Dansk Erhverv blandt Europas førende i dialogen med EU-Kommissionen",
+      "headline": "Dansk Erhverv blandt Europas førende i dialogen med EU-Kommissionen",
+      "url": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/november/dansk-erhverv-blandt-europas-forende-i-dialogen-med-eu-kommissionen",
+      "publisher": "Dansk Erhverv",
+      "section": "Erhverv",
+      "publishedAt": "2026-11-19T08:09:46Z",
+      "summary": "EUMatrix' Industry Association Engagement Index placerer Dansk Erhverv som nr. 6 blandt europæiske brancheorganisationer og nr. 1 i Skandinavien."
+    },
+    {
+      "text": "Stor ukrainsk fremgang på det danske arbejdsmarked",
+      "headline": "Stor ukrainsk fremgang på det danske arbejdsmarked",
+      "url": "https://www.danskerhverv.dk/politik-og-analyser/analyser/2026/november/stor-ukrainsk-fremgang-pa-det-danske-arbejdsmarked",
+      "publisher": "Dansk Erhverv",
+      "section": "Arbejdsmarked",
+      "publishedAt": "2026-11-10T08:32:43Z",
+      "summary": "Ca. 30.600 ukrainske lønmodtagere i Danmark pr. august, en stigning på 22.600 over fem år — den største fremgang for nogen nationalitet."
+    },
+    {
+      "text": "24 hold danner fællesfront og vil øge den økonomiske kage",
+      "headline": "24 hold danner fællesfront og vil øge den økonomiske kage",
+      "url": "https://www.dr.dk/sporten/cykling/24-hold-danner-faellesfront-og-vil-oege-den-oekonomiske-kage",
+      "publisher": "DR Sporten",
+      "section": "Sport",
+      "publishedAt": "2026-11-21T18:59:48Z",
+      "summary": "24 WorldTour-hold, inkl. Vingegaards Visma-Lease a Bike, danner ny alliance for at udløse cykelsportens kommercielle værdi."
+    },
+    {
+      "text": "Dansk racertalent tager sæsonens anden sejr i Las Vegas",
+      "headline": "Dansk racertalent tager sæsonens anden sejr i Las Vegas",
+      "url": "https://www.dr.dk/sporten/seneste-sport/dansk-racertalent-tager-vild-sejr-i-las-vegas",
+      "publisher": "DR Sporten",
+      "section": "Sport",
+      "publishedAt": "2026-11-21T07:16:23Z",
+      "summary": "17-årige Alba Larsen vandt sin anden sejr i sæsonen i F1 Academy og er nu nummer fire i mesterskabet før finalen."
+    },
+    {
+      "text": "Thomas Frank kunne sagtens have ventet på comeback",
+      "headline": "Thomas Frank kunne sagtens have ventet på comeback",
+      "url": "https://sport.tv2.dk/fodbold/2026-11-20-thomas-frank-kunne-sagtens-have-ventet-paa-comeback",
+      "publisher": "TV 2 Sport",
+      "section": "Sport",
+      "publishedAt": "2026-11-20T06:09:16Z",
+      "summary": "Den danske cheftræner, fyret af Tottenham i februar, er nu cheftræner for Crystal Palace efter ni måneders pause."
+    },
+    {
+      "text": "Voldsom brand på Fanø: Udrykningskøretøjer skal med færgen",
+      "headline": "Voldsom brand på Fanø: Udrykningskøretøjer skal med færgen",
+      "url": "https://www.dr.dk/nyheder/indland/voldsom-brand-paa-fanoe-udrykningskoeretoejer-skal-med-faergen",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-11-21T17:56:38Z",
+      "summary": "En SuperBrugsen i Nordby på Fanø brændte, og udrykningskøretøjer måtte sejle til øen med færgen; alle blev evakueret uskadt."
+    },
+    {
+      "text": "Dansker slog alle konkurrenterne: Nu er han verdens bedste Ferrarimekaniker",
+      "headline": "Dansker slog alle konkurrenterne: Nu er han verdens bedste Ferrarimekaniker",
+      "url": "https://www.dr.dk/nyheder/indland/dansker-slog-alle-konkurrenterne-nu-er-han-verdens-bedste-ferrarimekaniker",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-11-21T15:00:00Z",
+      "summary": "Gustav Osvald Juulsgaard Grefstad fra Holstebro vandt Ferraris globale 'Testa Rossa Awards' blandt ca. 2.000 mekanikere."
+    },
+    {
+      "text": "Trusler og hårdt arbejdspres på nyt sygehus",
+      "headline": "Trusler og hårdt arbejdspres på nyt sygehus",
+      "url": "https://www.dr.dk/nyheder/indland/trusler-og-haardt-arbejdspres-paa-nyt-sygehus",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-11-21T06:24:00Z",
+      "summary": "Arbejdstilsynet beordrer Aalborg Universitetshospital til at undersøge trusler og arbejdspres i en afdeling senest 1. marts 2027."
+    },
+    {
+      "text": "For første gang træner en dansk fregat i tæt samarbejde med droner",
+      "headline": "For første gang træner en dansk fregat i tæt samarbejde med droner",
+      "url": "https://www.dr.dk/nyheder/indland/foerste-gang-traener-en-dansk-fregat-i-taet-samarbejde-med-droner",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-11-21T06:02:00Z",
+      "summary": "Fregatten Iver Huitfeldt træner for første gang med den dansk-byggede overfladedrone 'Orca' ud for Frederikshavn."
+    },
+    {
+      "text": "DR fjerner dokumentar om sugardating efter hovedpersonens kritik",
+      "headline": "DR fjerner dokumentar om sugardating efter hovedpersonens kritik",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-21-dr-fjerner-dokumentar-om-sugardating-efter-hovedpersonens-kritik",
+      "publisher": "TV 2",
+      "section": "Kultur",
+      "publishedAt": "2026-11-21T22:03:19Z",
+      "summary": "DR fjerner sin 2017-dokumentar om sugardating fra DRTV, efter hovedpersonen offentligt har kritiseret, at den stadig vises."
+    },
+    {
+      "text": "Danske retsmedicinere er ikke i tvivl efter at have set Epsteins obduktionsrapport",
+      "headline": "Danske retsmedicinere er ikke i tvivl efter at have set Epsteins obduktionsrapport",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-18-danske-retsmedicinere-er-ikke-i-tvivl-efter-at-have-set-epsteins-obduktionsrapport",
+      "publisher": "TV 2",
+      "section": "Udland",
+      "publishedAt": "2026-11-22T04:33:16Z",
+      "summary": "Tre danske retsmedicinere konkluderer efter gennemgang af hele obduktionsrapporten, at beviserne fortsat peger på selvmord."
+    },
+    {
+      "text": "NASA conducts latest RS-25 engine test in support of future Artemis missions",
+      "headline": "NASA conducts latest RS-25 engine test in support of future Artemis missions",
+      "url": "https://phys.org/news/2026-11-nasa-latest-rs-future-artemis.html",
+      "publisher": "Phys.org / NASA",
+      "section": "Videnskab",
+      "publishedAt": "2026-11-19T12:00:00Z",
+      "summary": "Et udviklingsexemplar af RS-25-motoren blev testantændt i de planlagte 200 sekunder på Stennis Space Center forud for Artemis IV-månelandingen i 2028."
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-ai-doc-apocaloptimist-20261122",
+      "mode": "watch",
+      "kind": "documentary",
+      "status": "available",
+      "title": "The AI Doc: Or How I Became an Apocaloptimist",
+      "creator": "Daniel Roher & Charlie Tyrell",
+      "provider": "Focus Features",
+      "url": "https://www.focusfeatures.com/the-ai-doc-or-how-i-became-an-apocaloptimist",
+      "availability": "Streaming/køb via Apple TV, Amazon Prime, Netflix og Peacock",
+      "commitment": "~104 min",
+      "description": "Dokumentar hvor en vordende far undersøger, hvad der reelt sker med AI-udbygningen, og hvad der står på spil, fra teamet bag 'Everything Everywhere All at Once' og 'Navalny'.",
+      "rationale": "En sjældent personlig og samtidig seriøs behandling af AI-risiko og -optimisme — en times tid, hvis man vil forstå den brede debat uden en teknisk afhandling.",
+      "topics": [
+        "ai",
+        "teknologi",
+        "dokumentar"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://images.contentstack.io/v3/assets/blt223a4a92692ca457/bltbbcfe9dbcd2e8dab/69af0530030f160008147b84/THE_AI_DOC_Digi_1-Sheet_1080x1600_W3_FIN02.jpg?branch=production&width=3840",
+        "credit": "Kilde: Focus Features",
+        "alt": "Plakat for dokumentarfilmen 'The AI Doc: Or How I Became an Apocaloptimist'",
+        "sourceUrl": "https://www.focusfeatures.com/the-ai-doc-or-how-i-became-an-apocaloptimist"
+      }
+    },
+    {
+      "id": "rec-louisiana-remedios-varo-20261122",
+      "mode": "experience",
+      "kind": "udstilling",
+      "status": "available",
+      "title": "Remedios Varo",
+      "creator": "Remedios Varo",
+      "provider": "Louisiana Museum of Modern Art",
+      "url": "https://louisiana.dk/en/exhibition/remedios-varo/",
+      "availability": "Standard museumsentré, Humlebæk, til 10. januar 2027",
+      "commitment": "Museumsbesøg, 1-2 timer",
+      "description": "Første store europæiske retrospektiv af den spansk-mexicanske surrealist Remedios Varo (1908-1963), organiseret med Moderna Museet Stockholm.",
+      "rationale": "Et oplagt serendipitetsvalg uden for hans sædvanlige felt, men med en konkret, frisk anledning — udstillingen er den første af sin art i Europa.",
+      "topics": [
+        "kunst",
+        "surrealisme"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-econtalk-china-shock-20261122",
+      "mode": "listen",
+      "kind": "podcast",
+      "status": "new",
+      "title": "Revisiting the China Shock",
+      "creator": "Russ Roberts med Joseph Francis",
+      "provider": "EconTalk",
+      "url": "https://www.econtalk.org/revisiting-the-china-shock-with-joseph-francis/",
+      "availability": "Gratis podcast/stream",
+      "commitment": "~60-70 min",
+      "description": "Samtale der gennemgår forskningen om, hvordan kinesisk importkonkurrence ramte amerikansk industribeskæftigelse.",
+      "rationale": "Direkte i hans register — handelsøkonomi og Kina — og et godt modstykke til dagens EU-stålsag uden at genbruge dens konkrete fakta.",
+      "topics": [
+        "handel",
+        "kina",
+        "oekonomi"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-a16z-figma-finance-20261122",
+      "mode": "watch",
+      "kind": "podcast",
+      "status": "available",
+      "title": "How AI Is Turning Figma's Finance Team Into Builders",
+      "creator": "Seema Amble & Ivan Makarov (a16z) med Praveer Melwani",
+      "provider": "a16z",
+      "url": "https://a16z.com/podcast/how-ai-is-turning-figmas-finance-team-into-builders/",
+      "availability": "Gratis video/podcast",
+      "commitment": "~35-45 min",
+      "description": "Figmas finansdirektør fortæller, hvordan AI flytter finansfunktionen fra historisk rapportering til strategiarbejde.",
+      "rationale": "Et CFO-perspektiv på AI-adoption, der matcher hans egen baggrund som leder med ansvar for drift og tal.",
+      "topics": [
+        "ai",
+        "finans",
+        "ledelse"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {
+    "sourceCoverage": 88,
+    "freshness": 85,
+    "novelty": 80,
+    "perspectiveBalance": 75,
+    "render": 100
+  }
+}
