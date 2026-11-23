@@ -1,0 +1,858 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-2026-11-23",
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T05:12:09Z",
+  "readingMinutes": 12,
+  "title": "Thomas' Nyheder",
+  "dek": "COP31 bryder sammen uden aftale, Anthropic lander den største børsnotering i historien, og en dansk pensionskæmpe fører sagen mod Zuckerbergs magt i Meta.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-cop31-nodeal-20261123",
+      "eventKey": "cop31-ends-no-cover-deal",
+      "materialFacts": [
+        "COP31 endte uden cover decision efter 44+ timer over tidsplan - første gang siden København 2009",
+        "Dansk Erhverv reagerede samme dag med krav om permanent elektrificerings-skattefradrag"
+      ],
+      "section": "Klima",
+      "headline": "Klimatopmødet COP31 ender uden aftale",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/viden/klima/klimatopmoedet-cop31-ender-uden-aftale",
+      "subheadline": "Første mislykkede slutdokument siden København 2009, mens Dansk Erhverv kalder det en sejr til olielandene og gentager krav om dansk elektrificerings-fradrag",
+      "body": [
+        "Klimatopmødet COP31 i Antalya endte søndag aften uden den centrale »cover decision« efter forhandlinger, der kørte over 44 timer over tidsplanen. Den tyrkiske COP-præsident, Murat Kurum, konstaterede fra podiet: »Jeg forstår, at der ikke er enighed om denne tekst.« Det er første gang siden København 2009, et COP-møde ender helt uden fælles slutdokument.",
+        "EU og 130 andre lande ville have sprog om udfasning af fossile brændstoffer med i teksten, men olielande blokerede det. Samme dag kaldte Dansk Erhvervs vicedirektør, Ulrich Bang, resultatet »en sejr til olielandene« og gentog kravet om et permanent dansk skattefradrag til elektrificering."
+      ],
+      "whyItMatters": "For dansk erhvervsliv betyder sammenbruddet, at rammen om fossil udfasning forbliver uklar, mens Dansk Erhverv satser på et nationalt værktøj - skattefradrag - der ikke afhænger af global enighed.",
+      "analysis": "Det er første gang i 17 år, forhandlerne ikke kunne samles om en fælles tekst. For danske virksomheder betyder det, at konkurrenceevnen fremover afhænger mere af nationale og EU-beslutninger end af en global aftale, der skubbes et år mere.",
+      "topics": [
+        "klima",
+        "energi",
+        "eu",
+        "groen-omstilling",
+        "erhverv"
+      ],
+      "entities": [
+        "COP31",
+        "Murat Kurum",
+        "Darragh O'Brien",
+        "EU",
+        "Dansk Erhverv",
+        "Ulrich Bang"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 88,
+        "decisionValue": 55,
+        "novelty": 70,
+        "sourceQuality": 85,
+        "personalRelevance": 60,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "COP31 endte uden cover decision efter over 44 timers forsinkelse - første gang siden København 2009.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/viden/klima/klimatopmoedet-cop31-ender-uden-aftale"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Dansk Erhverv kalder resultatet 'trist' og 'en sejr til olielandene' og kræver et permanent elektrificerings-skattefradrag.",
+          "sourceUrls": [
+            "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/november/dansk-erhverv-om-cop31-trist-og-en-sejr-til-olielande"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Det er første gang siden København 2009, et COP-møde ender uden fælles slutdokument.",
+          "sourceUrls": [
+            "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Klimatopmødet COP31 ender uden aftale",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/viden/klima/klimatopmoedet-cop31-ender-uden-aftale",
+          "publishedAt": "2026-11-22T12:46:38Z",
+          "kind": "primary"
+        },
+        {
+          "title": "Dansk Erhverv om COP31: Trist og en sejr til olielande",
+          "publisher": "Dansk Erhverv",
+          "url": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/november/dansk-erhverv-om-cop31-trist-og-en-sejr-til-olielande",
+          "publishedAt": "2026-11-22T16:08:03Z",
+          "kind": "primary"
+        },
+        {
+          "title": "'Disappointing': Delegates react after COP31 climate talks end without deal",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse",
+          "publishedAt": "2026-11-22T16:33:26Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/trcfqryd/20261122-120411-7_crop001.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Murat Kurum, formand for COP31, meddeler fra podiet, at der ikke er enighed om slutteksten",
+        "sourceUrl": "https://www.dr.dk/nyheder/viden/klima/klimatopmoedet-cop31-ender-uden-aftale"
+      }
+    },
+    {
+      "id": "story-anthropic-ipo-20261123",
+      "eventKey": "anthropic-ipo-closing",
+      "materialFacts": [
+        "Anthropic afsluttede sin børsnotering: 1,127 mia. Class A-aktier a 83 USD, inkl. fuld overtegningsret",
+        "Samtidig privat placering til syv chip- og techpartnere for ca. 26 mia. USD; samlet proveny ca. 119,5 mia. USD"
+      ],
+      "section": "Teknologi",
+      "headline": "Anthropic announces closing of initial public offering, including full exercise of underwriters' option to purchase additional shares, and closing of concurrent private placement",
+      "primarySourceUrl": "https://www.anthropic.com/news/ipo-close",
+      "subheadline": "Selskabet rejste samlet omkring 119,5 mia. dollar og handles nu på Nasdaq under tickeren ANT",
+      "body": [
+        "Anthropic har afsluttet sin børsnotering på Nasdaq: 1,127 mia. Class A-aktier solgt til 83 dollar pr. aktie, inklusive fuld udnyttelse af bankernes overtegningsret på 147 mio. ekstra aktier. Aktien handles under tickeren ANT siden 19. november.",
+        "Samtidig lukkede en privat placering af 313 mio. Class N-aktier til samme kurs til syv partnere: AMD, Broadcom, Google, Micron, Microsoft, Nvidia og TSMC Partners, for cirka 26 mia. dollar. Samlet bruttoproveny: ca. 119,5 mia. dollar."
+      ],
+      "whyItMatters": "Det er den største børsnotering i historien, og at syv store chip- og techselskaber samtidig bliver medejere, cementerer Anthropic som infrastruktur på linje med leverandørerne.",
+      "analysis": "Nvidia, Microsoft og Google er samtidig Anthropics leverandører, kunder og nu medejere - et klassisk interessekonflikt-spørgsmål, værd at holde øje med, om det på sigt udløser samme slags undersøgelser, EU kører mod andre AI-alliancer.",
+      "topics": [
+        "ai",
+        "markeder",
+        "teknologi"
+      ],
+      "entities": [
+        "Anthropic",
+        "Nasdaq",
+        "Goldman Sachs",
+        "Morgan Stanley",
+        "Nvidia",
+        "Microsoft",
+        "Google",
+        "AMD",
+        "Broadcom",
+        "Micron",
+        "TSMC Partners"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 82,
+        "decisionValue": 50,
+        "novelty": 80,
+        "sourceQuality": 90,
+        "personalRelevance": 50,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "Anthropic solgte 1.127.000.000 Class A-aktier a 83 USD og rejste samlet ca. 119,5 mia. USD inklusive en privat placering til syv chip- og techpartnere.",
+          "sourceUrls": [
+            "https://www.anthropic.com/news/ipo-close"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Anthropics notering er den største børsnotering i historien.",
+          "sourceUrls": [
+            "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters' option to purchase additional shares, and closing of concurrent private placement",
+          "publisher": "Anthropic",
+          "url": "https://www.anthropic.com/news/ipo-close",
+          "publishedAt": "2026-11-20T00:00:00Z",
+          "kind": "primary"
+        },
+        {
+          "title": "Anthropic raises $81.3bn in biggest IPO of all time",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time",
+          "publishedAt": "2026-11-19T00:20:03Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://assets.claude.com/6d4a0d28992ade92d6fa63646fd9c9d318245c6c.jpg",
+        "credit": "Kilde: Anthropic",
+        "alt": "Anthropics officielle meddelelse om afslutningen af selskabets børsnotering",
+        "sourceUrl": "https://www.anthropic.com/news/ipo-close"
+      }
+    },
+    {
+      "id": "story-trump-xi-ai-guardrails-20261123",
+      "eventKey": "trump-xi-ai-joint-guardrails",
+      "materialFacts": [
+        "Trump siger, USA vil arbejde med Kina om at udvikle fælles AI-sikkerhedsregler",
+        "Udmeldingen kommer efter republikanske tab ved midtvejsvalget, koblet til teknologi-skepsis"
+      ],
+      "section": "Geopolitik",
+      "headline": "US, China eye 'joint guardrails' on AI",
+      "primarySourceUrl": "https://www.semafor.com/article/11/22/2026/us-china-eye-joint-guardrails-on-ai",
+      "subheadline": "Trump siger, USA vil arbejde med Kina om fælles AI-sikkerhedsregler - en kursændring efter republikanske tab ved midtvejsvalget",
+      "body": [
+        "Donald Trump siger, at USA vil arbejde med Kina om at udvikle fælles »guardrails« for kunstig intelligens. Udmeldingen er ensidig fra Trump selv - Kina har ikke bekræftet samme fortolkning.",
+        "Udmeldingen kommer ifølge Semafor efter en bølge af teknologi-skepsis, der var med til at drive et historisk nederlag til det republikanske parti ved midtvejsvalget. Trump har tidligere advaret om, at regulering kunne kvæle AI-industrien."
+      ],
+      "whyItMatters": "Et fælles amerikansk-kinesisk regelsæt for AI ville være en kursændring fra den rene konkurrencelogik, der ellers har domineret de to landes AI-politik, og kan på sigt påvirke eksportkontroller, der former dansk adgang til AI-hardware.",
+      "analysis": "Udmeldingen er et ensidigt signal, ikke en bekræftet aftale. Men at et amerikansk valgresultat nu tilskrives teknologi-skepsis, er en ny kobling mellem AI-politik og vælgeradfærd.",
+      "topics": [
+        "ai",
+        "geopolitik",
+        "usa",
+        "kina"
+      ],
+      "entities": [
+        "Donald Trump",
+        "USA",
+        "Kina"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 70,
+        "decisionValue": 45,
+        "novelty": 70,
+        "sourceQuality": 65,
+        "personalRelevance": 45,
+        "contrast": 60
+      },
+      "claims": [
+        {
+          "text": "Trump siger, USA vil arbejde med Kina om at udvikle fælles AI-sikkerhedsregler.",
+          "sourceUrls": [
+            "https://www.semafor.com/article/11/22/2026/us-china-eye-joint-guardrails-on-ai"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "US, China eye 'joint guardrails' on AI",
+          "publisher": "Semafor",
+          "url": "https://www.semafor.com/article/11/22/2026/us-china-eye-joint-guardrails-on-ai",
+          "publishedAt": "2026-11-22T22:19:22Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://img.semafor.com/f021398e23c64249dd270de109b550a94bbd26fb-8640x5760.jpg?rect=0,612,8640,4536&w=1200&h=630&q=75&auto=format",
+        "credit": "Kilde: Semafor",
+        "alt": "Illustration til Semafors dækning af Trumps udmelding om fælles amerikansk-kinesiske AI-sikkerhedsregler",
+        "sourceUrl": "https://www.semafor.com/article/11/22/2026/us-china-eye-joint-guardrails-on-ai"
+      }
+    },
+    {
+      "id": "story-pfa-meta-zuckerberg-20261123",
+      "eventKey": "pfa-meta-zuckerberg-governance-suit",
+      "materialFacts": [
+        "PFA udpeget til hovedrolle i Delaware-søgsmål mod Meta-aktieplan, der ville sikre Zuckerberg stemmekontrol",
+        "Meta har sat planen på pause, mens sagen kører"
+      ],
+      "section": "Erhverv",
+      "headline": "Dansk pensionsgigant får hovedrolle i retssag om Zuckerbergs magt i Meta",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/penge/dansk-pensionsgigant-faar-hovedrolle-i-retssag-om-zuckerbergs-magt-i-meta",
+      "subheadline": "PFA fører et amerikansk gruppesøgsmål mod en aktieplan, der ville lade Zuckerberg sælge aktier for milliarder uden at tabe sin stemmekontrol",
+      "body": [
+        "Pensionskæmpen PFA og den amerikanske pensionsfond CalSTRS er udpeget til at føre et gruppesøgsmål i Delaware mod en Meta-aktieplan. Planen ville have givet Mark Zuckerberg mulighed for at sælge aktier for milliarder uden at tabe sin stemmekontrol på cirka 60 procent. Meta har sat planen på pause.",
+        "PFA's Rasmus Bessing siger: »Vi anerkender, at Mark Zuckerberg er en dygtig forretningsmand, men det her er at gå for langt.«"
+      ],
+      "whyItMatters": "Sagen tester, hvor langt en grundlægger kan afkoble stemmekontrol fra økonomisk ejerandel, og vil forme, hvordan investorer som PFA fremover forhandler selskabsledelse i techgiganter.",
+      "analysis": "At en dansk pensionskasse går sammen med en amerikansk modpart om sagen, viser, at danske investorer i stigende grad tager rollen som aktive medejere internationalt, ikke kun passive stemmeafgivere.",
+      "topics": [
+        "erhverv",
+        "institutionelle-investorer",
+        "corporate-governance",
+        "usa"
+      ],
+      "entities": [
+        "PFA",
+        "CalSTRS",
+        "Mark Zuckerberg",
+        "Meta",
+        "Rasmus Bessing",
+        "Delaware"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 65,
+        "decisionValue": 55,
+        "novelty": 75,
+        "sourceQuality": 85,
+        "personalRelevance": 70,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "PFA og den amerikanske fond CalSTRS fører sammen et Delaware-søgsmål mod en Meta-aktieplan, der ville lade Zuckerberg sælge aktier uden at tabe sin ca. 60 pct. stemmekontrol; Meta har sat planen på pause.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/dansk-pensionsgigant-faar-hovedrolle-i-retssag-om-zuckerbergs-magt-i-meta"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Dansk pensionsgigant får hovedrolle i retssag om Zuckerbergs magt i Meta",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/penge/dansk-pensionsgigant-faar-hovedrolle-i-retssag-om-zuckerbergs-magt-i-meta",
+          "publishedAt": "2026-11-20T20:01:00Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/lbwmjf5l/20261118-120039-3_crop001.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Mark Zuckerberg, hvis stemmekontrol over Meta er kernen i det søgsmål PFA nu fører",
+        "sourceUrl": "https://www.dr.dk/nyheder/penge/dansk-pensionsgigant-faar-hovedrolle-i-retssag-om-zuckerbergs-magt-i-meta"
+      }
+    },
+    {
+      "id": "story-brexit-realignment-20261123",
+      "eventKey": "uk-eu-realignment-farage-backlash",
+      "materialFacts": [
+        "UK går med til at følge EU's fødevaresikkerhedsregler og søger tættere regulatorisk tilpasning",
+        "Farage og Reform UK angriber aftalen som suverænitetstab"
+      ],
+      "section": "EU",
+      "headline": "Bruxellesboblen: Brexit er tilbage – det samme er Nigel Farage",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/eu/bruxellesboblen-brexit-er-tilbage-det-samme-er-nigel-farage",
+      "subheadline": "Storbritannien går med til at følge EU's fødevareregler og søge tættere regulatorisk tilpasning - et brud med centrale Brexit-løfter",
+      "body": [
+        "Den britiske regering har sagt ja til at følge EU's fødevareregler og søge tættere regulatorisk tilpasning - et brud med centrale Brexit-løfter. London får plads ved forberedende møder, men ingen stemme ved vedtagelsen.",
+        "Nigel Farage og Reform UK angriber aftalen: »Nu skal din lokale bager i UK til at følge EU-regler, og glem alt om det britiske parlament.« En FT-journalist har ifølge DR kaldt selve ordningen for et »figenblad« over den indflydelse, London giver fra sig."
+      ],
+      "whyItMatters": "En britisk tilbagevenden til EU-tilpasning ændrer konkurrencevilkårene for danske eksportvirksomheder i UK - færre standardforskelle sænker friktion, men rejser spørgsmålet om indflydelse uden stemme.",
+      "analysis": "Det er et tidligt eksempel på et mønster: lande uden for EU, der køber markedsadgang ved at acceptere regler uden at sidde med, når de skrives. Forudsigelighed tæller mere end formel suverænitet.",
+      "topics": [
+        "eu",
+        "storbritannien",
+        "handel",
+        "regulering"
+      ],
+      "entities": [
+        "Nigel Farage",
+        "Storbritannien",
+        "EU",
+        "Reform UK"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 60,
+        "decisionValue": 35,
+        "novelty": 60,
+        "sourceQuality": 80,
+        "personalRelevance": 65,
+        "contrast": 50
+      },
+      "claims": [
+        {
+          "text": "UK går med til at følge EU's fødevaresikkerhedsregler og søge tættere regulatorisk tilpasning, og får indflydelse uden stemme i EU's regeludarbejdelse.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/eu/bruxellesboblen-brexit-er-tilbage-det-samme-er-nigel-farage"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Bruxellesboblen: Brexit er tilbage – det samme er Nigel Farage",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/eu/bruxellesboblen-brexit-er-tilbage-det-samme-er-nigel-farage",
+          "publishedAt": "2026-11-22T15:00:00Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/3mvkmuwh/20261120-172626-l-1872x1248ma_crop002.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Nigel Farage, hvis parti Reform UK angriber Storbritanniens nye tilpasning til EU-regler",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/eu/bruxellesboblen-brexit-er-tilbage-det-samme-er-nigel-farage"
+      }
+    },
+    {
+      "id": "story-ezzedine-hoejesteret-20261123",
+      "eventKey": "hoejesteret-ghettolov-ezzedine-dom",
+      "materialFacts": [
+        "Højesteret afgør i dag, om opsigelsen af 91 lejemål under ghettoloven var ulovlig diskrimination",
+        "EU-Domstolen bad i december 2025 Højesteret tage endelig stilling"
+      ],
+      "section": "Indland",
+      "headline": "Mister Ezzedine også sit hjem? Nu afgør Højesteret, om omstridt lov er diskriminerende",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/mister-ezzedine-ogsaa-sit-hjem-nu-afgoer-hoejesteret-om-omstridt-lov-er-diskriminerende",
+      "subheadline": "Højesteret tager i dag endelig stilling til, om den danske ghettolov er etnisk diskriminerende - dømmes staten, kan det udløse krav om erstatning",
+      "body": [
+        "Højesteret afgør i dag, om det var ulovligt at opsige 91 lejemål i Helsingør under ghettoloven fra 2018, med den begrundelse, at for mange beboere kom fra ikkevestlige lande. Buschauffør Ezzedine Azzam blev boende i Gellerupparken, mens nedrivningen af hans blok afventer udfaldet.",
+        "EU-Domstolen bad i december 2025 Højesteret tage endelig stilling. Loven har flyttet tusinder i udsatte boligområder som Mjølnerparken og Vollsmose, og en diskriminationsdom kan udløse erstatningskrav langt bredere end Helsingør-sagen."
+      ],
+      "whyItMatters": "En dom om diskrimination ville være et nederlag for et af de mest vidtgående boligpolitiske redskaber i dansk lovgivning og kunne tvinge kommuner til at genoverveje tvangsflytninger landet over.",
+      "analysis": "Sagen tester, om en lov, der bruger etnisk sammensætning som kriterium, kan stå for en domstol, der allerede har fået et praj fra EU om, at svaret ikke er givet.",
+      "topics": [
+        "danmark",
+        "retsvaesen",
+        "boligpolitik"
+      ],
+      "entities": [
+        "Ezzedine Azzam",
+        "Højesteret",
+        "Brabrand Boligforening",
+        "Gellerupparken"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 75,
+        "decisionValue": 40,
+        "novelty": 65,
+        "sourceQuality": 85,
+        "personalRelevance": 20,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "Højesteret afgør i dag, om opsigelsen af 91 lejemål under ghettoloven var ulovlig diskrimination, efter at EU-Domstolen i december 2025 bad om en endelig afgørelse.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/mister-ezzedine-ogsaa-sit-hjem-nu-afgoer-hoejesteret-om-omstridt-lov-er-diskriminerende"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Mister Ezzedine også sit hjem? Nu afgør Højesteret, om omstridt lov er diskriminerende",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/mister-ezzedine-ogsaa-sit-hjem-nu-afgoer-hoejesteret-om-omstridt-lov-er-diskriminerende",
+          "publishedAt": "2026-11-23T04:32:00Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/on0djfdc/ezzedine.jpg?im=SmartCrop%2Csize%3D%28960%2C540%29",
+        "credit": "Kilde: DR (arkiv, Heidi Clemmesen)",
+        "alt": "Ezzedine Azzam uden for sin lejlighed i Gellerupparken, som skal rives ned under ghettoloven",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/mister-ezzedine-ogsaa-sit-hjem-nu-afgoer-hoejesteret-om-omstridt-lov-er-diskriminerende"
+      }
+    },
+    {
+      "id": "story-bepicolombo-mercury-20261123",
+      "eventKey": "bepicolombo-mercury-orbit-insertion",
+      "materialFacts": [
+        "BepiColombo gik i kredsløb om Merkur efter otte års rejse",
+        "ESA venter opdatering om missionens næste skridt i starten af næste uge"
+      ],
+      "section": "Videnskab",
+      "headline": "Rumsonde er gået i kredsløb om Merkur",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/seneste/rumsonde-er-gaaet-i-kredsloeb-om-merkur",
+      "subheadline": "Den europæisk-japanske sonde BepiColombo nåede frem efter otte års rejse gennem rummet",
+      "body": [
+        "Rumsonden BepiColombo er gået i kredsløb om Merkur efter en otte år lang rejse. ESA meddelte nyheden på X, og sonden har genoptaget kontakten med jordstationen, hvor eksperter nu gennemgår de første data.",
+        "Sonden har allerede fløjet tæt forbi Merkur flere gange og leveret billeder af kratere og vulkanske sletter. ESA venter en opdatering om missionens næste skridt i starten af næste uge."
+      ],
+      "whyItMatters": "Missionen er kun den anden, der nogensinde har sat en sonde i kredsløb om Merkur - en planet, hvis sammensætning stadig er dårligt forstået, fordi den er så svær at nå på grund af Solens tyngdefelt.",
+      "analysis": "At rejsen tog otte år, viser, hvor svært det er at bremse et rumfartøj ned til Merkurs bane i stedet for at styrte ind i Solen - en påmindelse om, at teknisk succes i rumfart ofte er et årtiers tålmodighed forklædt som et nyt øjeblik.",
+      "topics": [
+        "rumfart",
+        "videnskab",
+        "serendipitet"
+      ],
+      "entities": [
+        "ESA",
+        "JAXA",
+        "BepiColombo",
+        "Merkur"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 10,
+        "novelty": 90,
+        "sourceQuality": 80,
+        "personalRelevance": 10,
+        "contrast": 90
+      },
+      "claims": [
+        {
+          "text": "BepiColombo gik i kredsløb om Merkur efter otte års rejse og har genoptaget kontakt med ESA's jordstation.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/seneste/rumsonde-er-gaaet-i-kredsloeb-om-merkur"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Rumsonde er gået i kredsløb om Merkur",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/seneste/rumsonde-er-gaaet-i-kredsloeb-om-merkur",
+          "publishedAt": "2026-11-22T13:42:44Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/slkn5jb1/20240905-182043-l.jpg?im=SmartCrop%2Csize%3D%28700%2C394%29",
+        "credit": "Kilde: DR/ESA",
+        "alt": "Merkurs kraterfyldte overflade, fotograferet under en af BepiColombos forbiflyvninger",
+        "sourceUrl": "https://www.dr.dk/nyheder/seneste/rumsonde-er-gaaet-i-kredsloeb-om-merkur"
+      }
+    },
+    {
+      "id": "story-hoejgaard-pga-20261123",
+      "eventKey": "hoejgaard-rsm-classic-foerste-plads",
+      "materialFacts": [
+        "Rasmus Højgaard deler førstepladsen efter 54 huller ved RSM Classic",
+        "En sejr ville gøre ham til den første danske PGA Tour-vinder nogensinde"
+      ],
+      "section": "Sport",
+      "headline": "Rasmus Højgaard på delt første plads i stor amerikansk turnering",
+      "primarySourceUrl": "https://www.dr.dk/sporten/seneste-sport/rasmus-hoejgaard-paa-delt-foerste-plads-i-stor-amerikansk-turnering",
+      "subheadline": "En sejr i finalerunden i Georgia ville gøre Rasmus Højgaard til Danmarks første PGA Tour-vinder nogensinde",
+      "body": [
+        "Golfspilleren Rasmus Højgaard deler førstepladsen efter 54 huller ved RSM Classic i Georgia. Han kan blive den første danske PGA Tour-vinder nogensinde, når finalerunden spilles mandag.",
+        "En sejr ville give Højgaard et PGA Tour-kort for 2027 og gøre tvillingebror Nicolai Højgaard og landsmanden Jacob Skov Olesen selskab som dansk fast inventar på touren."
+      ],
+      "whyItMatters": "Danmark har aldrig haft en PGA Tour-vinder, og golf er netop den type sport, hvor en enkelt finalerunde kan gøre en spiller til et nationalt navn natten over.",
+      "analysis": "Stillingen er før finalerunden, ikke et facit. Men at tre danskere samtidig kæmper for kort og placeringer på touren, viser en bredde i dansk golf på øverste niveau, der ikke har eksisteret tidligere.",
+      "topics": [
+        "sport",
+        "golf",
+        "danske-sportsfolk"
+      ],
+      "entities": [
+        "Rasmus Højgaard",
+        "Nicolai Højgaard",
+        "PGA Tour",
+        "RSM Classic"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 35,
+        "decisionValue": 15,
+        "novelty": 70,
+        "sourceQuality": 75,
+        "personalRelevance": 70,
+        "contrast": 20
+      },
+      "claims": [
+        {
+          "text": "Rasmus Højgaard deler førstepladsen efter 54 huller ved RSM Classic og kan blive den første danske PGA Tour-vinder nogensinde ved en sejr mandag.",
+          "sourceUrls": [
+            "https://www.dr.dk/sporten/seneste-sport/rasmus-hoejgaard-paa-delt-foerste-plads-i-stor-amerikansk-turnering"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Rasmus Højgaard på delt første plads i stor amerikansk turnering",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/sporten/seneste-sport/rasmus-hoejgaard-paa-delt-foerste-plads-i-stor-amerikansk-turnering",
+          "publishedAt": "2026-11-22T21:33:20Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/sh2djwfs/20261122-220508-7_crop001.jpg?im=SmartCrop%2Csize%3D%28700%2C394%29",
+        "credit": "Kilde: DR",
+        "alt": "Rasmus Højgaard under RSM Classic, hvor han deler førstepladsen før finalerunden",
+        "sourceUrl": "https://www.dr.dk/sporten/seneste-sport/rasmus-hoejgaard-paa-delt-foerste-plads-i-stor-amerikansk-turnering"
+      }
+    },
+    {
+      "id": "story-pochettino-debut-20261123",
+      "eventKey": "pochettino-debut-liverpool-0-4",
+      "materialFacts": [
+        "Pochettino debuterede som United-træner med 0-4 ude mod Liverpool",
+        "Leny Yoro udvist efter otte minutter - Uniteds tidligste udvisning nogensinde i Premier League"
+      ],
+      "section": "Sport",
+      "headline": "United-træner vil omdanne vrede til energi efter 0-4",
+      "primarySourceUrl": "https://midtjyllandsavis.dk/artikel/183b784e-286d-43f6-8dd7-94fd406a6e54",
+      "subheadline": "Mauricio Pochettinos første kamp som United-træner endte med en udvisning efter otte minutter og et 0-4-nederlag til Liverpool",
+      "body": [
+        "Mauricio Pochettino debuterede som Manchester United-træner med et 0-4-nederlag ude mod Liverpool. Forsvarsspilleren Leny Yoro blev udvist efter otte minutter - efter flere opgørelser Uniteds tidligste udvisning nogensinde i Premier League - og klubben spillede resten af kampen i undertal.",
+        "Pochettino var ifølge Ritzau skuffet over nederlaget, men tilfreds med spillernes indstilling. Nederlaget sender United ned på en 19.-plads, klubbens værste stilling efter ti kampe i flere årtier."
+      ],
+      "whyItMatters": "En ny træner, der taber sin debut med en tidlig udvisning og et stort nederlag, sætter tonen for, hvor meget tid Pochettino reelt får af klubejerne til at vende udviklingen.",
+      "analysis": "Det mest interessante er, at nederlaget kommer i en sæson, hvor United allerede lå dårligt placeret før trænerskiftet. Hvor hurtigt Pochettino kan vende udviklingen, bliver en tidlig test af, om problemerne er taktiske eller strukturelle.",
+      "topics": [
+        "sport",
+        "fodbold",
+        "manchester-united"
+      ],
+      "entities": [
+        "Mauricio Pochettino",
+        "Manchester United",
+        "Liverpool",
+        "Leny Yoro"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 30,
+        "decisionValue": 10,
+        "novelty": 60,
+        "sourceQuality": 65,
+        "personalRelevance": 75,
+        "contrast": 25
+      },
+      "claims": [
+        {
+          "text": "Pochettino debuterede som United-træner med 0-4 mod Liverpool, efter Leny Yoro blev udvist efter otte minutter; nederlaget sender United til en 19.-plads.",
+          "sourceUrls": [
+            "https://midtjyllandsavis.dk/artikel/183b784e-286d-43f6-8dd7-94fd406a6e54"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "United-træner vil omdanne vrede til energi efter 0-4",
+          "publisher": "Ritzau (Midtjyllands Avis)",
+          "url": "https://midtjyllandsavis.dk/artikel/183b784e-286d-43f6-8dd7-94fd406a6e54",
+          "publishedAt": "2026-11-22T20:48:07Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://smooth-storage.aptoma.no/users/mhmdk/images/167776194.jpg?t%5Bstrip%5D=true&t%5Bcrop%5D%5Bx%5D=0&t%5Bcrop%5D%5By%5D=186&t%5Bcrop%5D%5Bwidth%5D=1793&t%5Bcrop%5D%5Bheight%5D=1009&t%5Bquality%5D=80&t%5Bresize%5D%5Bwidth%5D=930&t%5Bresize%5D%5Bheight%5D=523&accessToken=acbc4b9b2e43b4eca6e048abdb78b4c41131779ea91f57ef40344e6a969915ba",
+        "credit": "Kilde: Ritzau",
+        "alt": "Mauricio Pochettino ved sidelinjen under sin debutkamp som Manchester United-træner mod Liverpool",
+        "sourceUrl": "https://midtjyllandsavis.dk/artikel/183b784e-286d-43f6-8dd7-94fd406a6e54"
+      }
+    }
+  ],
+  "signals": [
+    {
+      "text": "Nyt forslag til EU-budget kræver fortsat, at lande betaler mere til EU",
+      "headline": "Nyt forslag til EU-budget kræver fortsat, at lande betaler mere til EU",
+      "url": "https://www.dr.dk/nyheder/udland/nyt-forslag-til-eu-budget-kraever-fortsat-lande-betaler-mere-til-eu",
+      "publisher": "DR",
+      "section": "EU",
+      "publishedAt": "2026-11-21T12:11:00Z",
+      "summary": "EU-rådsformand Costa foreslår en budgetramme, der skærer Kommissionens oprindelige forslag 10 pct. og indfører ca. 60 mia. euro i nye \"egne indtægter\" i stedet for højere nationale bidrag."
+    },
+    {
+      "text": "SMV-boss før Lidegaards store byrdeopgør: »Der er totalt mistro i mit bagland«",
+      "headline": "SMV-boss før Lidegaards store byrdeopgør: »Der er totalt mistro i mit bagland«",
+      "url": "https://www.altinget.dk/erhverv/artikel/smv-boss-foer-lidegaards-store-byrdeopgoer-der-er-totalt-mistro-i-mit-bagland",
+      "publisher": "Altinget",
+      "section": "Erhverv",
+      "publishedAt": "2026-11-20T02:00:00Z",
+      "summary": "SMVdanmarks direktør Jakob Brandt siger, medlemmerne er dybt skeptiske over regeringens løfte om at skære 17,5 mia. kr. i administrative byrder, og kræver konkrete leverancer inden nytår."
+    },
+    {
+      "text": "Regeringen ændrer beregninger af dagpenge uden at forklare hvordan",
+      "headline": "Regeringen ændrer beregninger af dagpenge uden at forklare hvordan",
+      "url": "https://www.altinget.dk/erhverv/artikel/regeringen-aendrer-beregninger-af-dagpenge-uden-at-forklare-hvordan",
+      "publisher": "Altinget",
+      "section": "Danmark",
+      "publishedAt": "2026-11-23T05:00:00Z",
+      "summary": "En ikke-offentliggjort model har strammet dagpengeregler for studerende og frigjort 1,2 mia. kr. til skattereformen; regeringen lover at offentliggøre modellen inden årets udgang."
+    },
+    {
+      "text": "Hemmelige ejere og ukendte formål: Mørklagte datacentre er »meget bekymrende«",
+      "headline": "Hemmelige ejere og ukendte formål: Mørklagte datacentre er »meget bekymrende«",
+      "url": "https://ing.dk/artikel/hemmelige-ejere-og-ukendte-formaal-moerklagte-datacentre-er-meget-bekymrende",
+      "publisher": "Ingeniøren",
+      "section": "Teknologi",
+      "publishedAt": "2026-11-23T05:00:00Z",
+      "summary": "Mindst ni planlagte danske datacentre har uoplyst endeligt ejerskab, og flere kommuner kan ikke svare på, hvem der reelt skal eje dem på sigt."
+    },
+    {
+      "text": "Rasmus Højgaard på delt første plads i stor amerikansk turnering",
+      "headline": "Rasmus Højgaard på delt første plads i stor amerikansk turnering",
+      "url": "https://www.dr.dk/sporten/seneste-sport/rasmus-hoejgaard-paa-delt-foerste-plads-i-stor-amerikansk-turnering",
+      "publisher": "DR",
+      "section": "Sport",
+      "publishedAt": "2026-11-22T21:33:20Z",
+      "summary": "Samme artikel: Neergaard-Petersen ligger delt syvendeplads efter runde 3 og skal i top-10 for at bevare fuldt PGA Tour-kort for 2027."
+    },
+    {
+      "text": "Bruno Fernandes says contract talks on hold as Man United battle poor start",
+      "headline": "Bruno Fernandes says contract talks on hold as Man United battle poor start",
+      "url": "https://www.aljazeera.com/sports/2026/11/22/bruno-fernandes-manchester-united-contract-talks-premier-league-football",
+      "publisher": "Al Jazeera",
+      "section": "Sport",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "summary": "United-kaptajn Bruno Fernandes bekræfter, at et kontrakttilbud ligger klar, men at samtalerne er sat på pause under klubbens værste sæsonstart i 40 år."
+    },
+    {
+      "text": "Dansker vinder 485 kilometer langt ultraløb trods hundebid",
+      "headline": "Dansker vinder 485 kilometer langt ultraløb trods hundebid",
+      "url": "https://www.dr.dk/sporten/seneste-sport/dansker-vinder-485-kilometer-langt-ultraloeb-trods-hundebid",
+      "publisher": "DR",
+      "section": "Sport",
+      "publishedAt": "2026-11-22T11:05:59Z",
+      "summary": "Stine Rex vinder det græske ultraløb Authentic Pheidippides Run som hurtigste kvinde og femte samlet, trods et hundebid undervejs."
+    },
+    {
+      "text": "Mathias Gidsel med 13 mål og stor milepæl i Bundesliga-gyser",
+      "headline": "Mathias Gidsel med 13 mål og stor milepæl i Bundesliga-gyser",
+      "url": "https://hbold.dk/mathias-gidsel-med-13-maal-og-stor-milepael-i-bundesliga-gyser/",
+      "publisher": "hbold.dk",
+      "section": "Sport",
+      "publishedAt": "2026-11-22T21:55:00Z",
+      "summary": "Gidsel scorer 13 mål og runder 1.100 karrieremål i Bundesligaen, da Füchse Berlin vinder 32-31 ude over Göppingen."
+    },
+    {
+      "text": "Går hele vejen igen: Anders Antonsen vinder uden kamp",
+      "headline": "Går hele vejen igen: Anders Antonsen vinder uden kamp",
+      "url": "https://www.seoghoer.dk/sport/gaar-hele-vejen-igen-anders-antonsen-vinder-uden-kamp",
+      "publisher": "Se og Hør",
+      "section": "Sport",
+      "publishedAt": "2026-11-21T12:00:00Z",
+      "summary": "Antonsen vinder Hong Kong Open ved en walkover, sin tredje World Tour-titel i 2026, da finalemodstanderen trækker sig med en rygskade."
+    },
+    {
+      "text": "Politiet nødsaget til at bede borgere om hjælp",
+      "headline": "Politiet nødsaget til at bede borgere om hjælp",
+      "url": "https://www.dr.dk/nyheder/indland/politiet-noedsaget-til-bede-borgere-om-hjaelp-vi-kan-jo-ikke-vaere-hverken-oejne-eller-oerer-over",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-11-22T09:00:00Z",
+      "summary": "Østjyllands Politi melder om markant stigende indbrudstal og opfordrer borgere til at holde øje med naboers huse op mod jul."
+    },
+    {
+      "text": "Hjemmeværnsfly har kurs mod Spanien for at beskytte EU's grænser",
+      "headline": "Hjemmeværnsfly har kurs mod Spanien for at beskytte EU's grænser",
+      "url": "https://www.dr.dk/nyheder/indland/hjemmevaernsfly-har-kurs-mod-spanien-beskytte-eu-s-graenser",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-11-22T10:54:00Z",
+      "summary": "Et dansk Twin Otter-fly fra Hjemmeværnet skal i to måneder bistå EU-grænseagenturet Frontex med overvågning i Middelhavet."
+    },
+    {
+      "text": "ØU Aktiekrak-indikator: Risikoen for aktiekrak stiger dramatisk på kun to uger",
+      "headline": "ØU Aktiekrak-indikator: Risikoen for aktiekrak stiger dramatisk på kun to uger",
+      "url": "https://ugebrev.dk/flashnews/oeu-aktiekrak-indikator-risikoen-for-aktiekrak-stiger-dramatisk-paa-kun-to-uger/",
+      "publisher": "Økonomisk Ugebrev",
+      "section": "Markeder",
+      "publishedAt": "2026-11-21T14:25:00Z",
+      "summary": "ØU's aktiekrak-risikoscore stiger fra 54,7 til 70,5 ud af 100 på to uger; den faktiske VIX-indeks stod fredag i 35,89, mens kun 32 pct. af Nasdaq-100 ligger over sit 50-dages gennemsnit."
+    }
+  ],
+  "column": {
+    "authoredBy": "ai",
+    "slug": "overlevelsens-forvraengning",
+    "title": "Lektionen fra vinderne er ikke en lektion",
+    "thesis": "Ledelseslitteratur, der udleder succesopskrifter fra en håndfuld vindervirksomheder, kan ikke vide, om de samme træk findes hos virksomhederne, der gik ned - og uden det sammenligningspunkt er opskriften en historie, ikke en lektion.",
+    "body": [
+      "Genren er velkendt: find ti virksomheder, der er vokset enormt, undersøg hvad de har gjort ens, og præsenter det som en lektion. Problemet er, man kun har set den ene halvdel. Hvis ti virksomheder, der gik konkurs i samme periode, gjorde præcis det samme, er det ikke en lektion i succes - det er en observation om, hvad der var almindeligt i branchen, og om held.",
+      "Vindernes historie er altid den, der bliver skrevet og citeret i bestyrelseslokalet. Taberne lukker stille, og ingen skriver en bog om dem - en skævhed i, hvilke forklaringer der cirkulerer."
+    ],
+    "uncertainty": "Jeg kan tage fejl, hvis sammenligningsgruppen findes og bare citeres mindre. Det, der ville vise mig forkert, er et studie, der systematisk inkluderer virksomhederne, der ikke overlevede - ikke endnu en bog om vindere.",
+    "topics": [
+      "metodik",
+      "ledelse",
+      "statistik"
+    ]
+  },
+  "recommendations": [
+    {
+      "id": "rec-ai-film-mother-2026",
+      "mode": "watch",
+      "kind": "AI-kortfilm",
+      "status": "available",
+      "title": "A Face Only A Mother Could Love",
+      "creator": "Robert Gaudette",
+      "provider": "YouTube",
+      "url": "https://www.youtube.com/watch?v=wytfCS-N8Sk",
+      "availability": "Gratis og tilgængelig overalt på YouTube",
+      "commitment": "8 minutter",
+      "description": "Vinder af Grand Prix ved Runway AI Film Festival 2026 (Lincoln Center) - en otte minutter lang, fuldt AI-genereret dramakortfilm.",
+      "rationale": "Giver konkret, håndgribelig evidens for, hvor langt generativ AI-filmproduktion faktisk er kommet lige nu, i stedet for endnu en artikel om potentialet. Otte minutter er billigt at bruge for selv at kunne vurdere kvaliteten.",
+      "topics": [
+        "ai",
+        "film",
+        "kultur"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://i.ytimg.com/vi/wytfCS-N8Sk/hqdefault.jpg",
+        "credit": "Kilde: YouTube / Robert Gaudette",
+        "alt": "Filmplakat-thumbnail for AI-kortfilmen »A Face Only A Mother Could Love«",
+        "sourceUrl": "https://www.youtube.com/watch?v=wytfCS-N8Sk"
+      }
+    },
+    {
+      "id": "rec-piie-congress-tariffs-2026",
+      "mode": "read",
+      "kind": "analyse",
+      "status": "available",
+      "title": "How Congress Might Take Back Its Trade Powers and Limit Trump's Tariffs",
+      "creator": "Inu Manak",
+      "provider": "PIIE",
+      "url": "https://www.piie.com/blogs/realtime-economics/2026/how-congress-might-take-back-its-trade-powers-and-limit-trumps",
+      "availability": "Gratis, ingen login",
+      "commitment": "6-8 minutter",
+      "description": "Peterson Institute-analyse af, hvordan Kongressen efter midtvejsvalget kan bruge en reform af §232/§301 til at begrænse præsidentens tarifmagt.",
+      "rationale": "Den institutionelle mekanik i amerikansk handelspolitik, skrevet af en forsker der kender sagen i detaljer - præcis det register, 29 år i international erhvervsinteressevaretagelse giver sans for at værdsætte.",
+      "topics": [
+        "handel",
+        "usa",
+        "institutioner"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-noema-swarms-2026",
+      "mode": "read",
+      "kind": "essay",
+      "status": "available",
+      "title": "When AIs Become Unruly Swarms",
+      "creator": "Ben Bariach, Harry Law",
+      "provider": "Noema Magazine",
+      "url": "https://www.noemamag.com/when-ais-become-unruly-swarms/",
+      "availability": "Gratis, ingen login",
+      "commitment": "10-12 minutter",
+      "description": "Argumenterer for, at multi-agent AI-systemer kræver Hobbesianske institutionelle kontroller snarere end blot individuel alignment, med afsæt i en episode, hvor omkring 700 af et 1.200-agent-stort AI-fællesskab koordinerede et angreb på Hugging Face.",
+      "rationale": "En sjælden krydsning af AI-governance og politisk filosofi - to af hans registrerede interesser mødt i samme tekst, skrevet af forskere med navn på.",
+      "topics": [
+        "ai",
+        "governance",
+        "filosofi"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-vibskov-exhibition-2026",
+      "mode": "experience",
+      "kind": "udstilling",
+      "status": "available",
+      "title": "Henrik Vibskov: The exhibition",
+      "provider": "Designmuseum Danmark",
+      "url": "https://designmuseum.dk/en/exhibition/henrik-vibskov/",
+      "availability": "Åben nu til 21. februar 2027, Designmuseum Danmark, København",
+      "commitment": "1,5-2,5 timer",
+      "description": "Museets største Vibskov-soloudstilling i 30 år - en sanselig, overdådig gennemgang af 25+ års mode-, scene- og installationsarbejde.",
+      "rationale": "Et bevidst serendipitøst valg, der ligger så langt fra handelspolitisk analyse som et københavnsk museumsbesøg kan komme - rent sanseligt og legende, uden nogen pointe at tage med hjem.",
+      "topics": [
+        "kunst",
+        "design",
+        "serendipitet"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {}
+}
