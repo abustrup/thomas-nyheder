@@ -1,0 +1,735 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-20261125-01",
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T06:30:00Z",
+  "readingMinutes": 10,
+  "title": "Thomas' Nyheder",
+  "dek": "Nvidia-krisen når Kongressen og danske pensionskasser, USA gør klar til nye tariffer mod EU og Kina, og et dansk forskningsresultat kan halvere prisen på en kræftmedicin.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-nvidia-huang-pension-20261125",
+      "eventKey": "nvidia-huang-reinstatement-fallout",
+      "materialFacts": [
+        "Trump greb personligt ind for at få Nvidias bestyrelse til at genindsætte Jensen Huang som topchef 23. november, 11 dage efter hans afgang",
+        "Huang skal vidne for tre udvalg i Repræsentanternes Hus 1. december og Senatets bankudvalg 3. december",
+        "Fem danske pensionsselskaber fastholder deres Nvidia-investeringer; PFA alene har over 18 mia. kr. investeret"
+      ],
+      "section": "Erhverv og marked",
+      "headline": "Trump hjalp Jensen Huang tilbage som Nvidia-chef - nu vil Kongressen have svar",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/trump-hjalp-jensen-huang-tilbage-som-nvidia-chef-nu-vil-kongressen-have-svar",
+      "subheadline": "Præsidenten siger selv, han overtalte Nvidias bestyrelse - og fem danske pensionskasser med 18+ mia. kr. i selskabet ændrer endnu ikke kurs",
+      "body": [
+        "Elleve dage efter Jensen Huangs afgang fik Nvidias bestyrelse besøg af Det Hvide Hus. Trump siger selv til DR's korrespondent, at hans indgriben var afgørende for, at Huang 23. november blev genindsat med øjeblikkelig virkning - en usædvanlig indblanding fra en sittende præsident i en privat bestyrelses personvalg.",
+        "Sagen lander nu i Kongressen: Huang skal vidne for tre husudvalg 1. december og Senatets bankudvalg 3. december. Samtidig viser DR, at fem danske pensionsselskaber - PFA, Danica, Velliv, AP Pension og Nordea Pension - fastholder deres Nvidia-aktier. PFA alene har over 18 mia. kr. af danske pensionsopsparinger placeret i selskabet."
+      ],
+      "whyItMatters": "En præsident, der efter eget udsagn dikterer et børsnoteret selskabs ledelse, rejser et governance-spørgsmål langt ud over Nvidia selv - netop den slags sammenblanding, danske pensionsforvaltere normalt siger, de vil undgå.",
+      "analysis": "Velliv formulerer selv princippet: vandtætte skotter mellem børsnoterede selskaber og stater. At ingen af de fem fonde alligevel sælger, viser, hvor høj bjælken reelt skal være, før statslig indblanding udløser konsekvens for kapitalforvaltning.",
+      "topics": [
+        "ai",
+        "governance",
+        "pension",
+        "usa-politik"
+      ],
+      "entities": [
+        "Jensen Huang",
+        "Donald Trump",
+        "Nvidia",
+        "PFA Pension",
+        "Chuck Schumer"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 88,
+        "decisionValue": 82,
+        "novelty": 85,
+        "sourceQuality": 82,
+        "personalRelevance": 85,
+        "contrast": 70
+      },
+      "claims": [
+        {
+          "text": "Trump greb personligt ind for at få Nvidias bestyrelse til at genindsætte Jensen Huang 23. november, 11 dage efter hans afgang, og Huang skal vidne for Kongressen 1. og 3. december.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/trump-hjalp-jensen-huang-tilbage-som-nvidia-chef-nu-vil-kongressen-have-svar"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Fem danske pensionsselskaber fastholder deres Nvidia-investeringer; PFA har over 18 mia. kr. placeret i selskabet.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/din-pension-bliver-stadigvaek-investeret-i-nvidia-trods-massiv-kritik"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Trump hjalp Jensen Huang tilbage som Nvidia-chef - nu vil Kongressen have svar",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/trump-hjalp-jensen-huang-tilbage-som-nvidia-chef-nu-vil-kongressen-have-svar",
+          "publishedAt": "2026-11-23T03:45:00Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Din pension bliver stadigvæk investeret i Nvidia trods massiv kritik",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/penge/din-pension-bliver-stadigvaek-investeret-i-nvidia-trods-massiv-kritik",
+          "publishedAt": "2026-11-24T20:45:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/vwvpb3az/20261113-160516-6.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Jensen Huang, Nvidias topchef, hvis genindsættelse har udløst kritik i den amerikanske Kongres.",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/trump-hjalp-jensen-huang-tilbage-som-nvidia-chef-nu-vil-kongressen-have-svar"
+      }
+    },
+    {
+      "id": "story-us-301-tariffs-20261125",
+      "eventKey": "us-section301-excess-capacity-tariffs",
+      "materialFacts": [
+        "USTR ventes i de kommende dage at offentliggøre resultatet af en Section 301-undersøgelse af overkapacitet i 16 økonomier, inklusive EU og Kina",
+        "Det er regeringens andet forsøg på at erstatte brede tariffer efter Højesteret i februar underkendte april 2025-tarifferne",
+        "Kinas tarif ventes ikke at overstige 20 pct., EU's under den forhandlede 15 pct.-grænse"
+      ],
+      "section": "EU og handelspolitik",
+      "headline": "US ready to slap tariffs on China, EU and others over subsidized production, AP sources say",
+      "primarySourceUrl": "https://www.dailyherald.com/2026/11/24/us-ready-to-slap-tariffs-on-china-eu-and-others-over-subsidized-production-ap-sources-say/",
+      "subheadline": "USA's handelsrepræsentant venter i de kommende dage at offentliggøre nye tariffer mod 16 økonomier, heriblandt EU, efter en undersøgelse af industriel overkapacitet",
+      "body": [
+        "Ifølge AP-kilder, som Det Hvide Hus og USTR ikke vil bekræfte, er Trump-administrationen klar til at hæve tarifferne mod Kina, EU og 14 andre økonomier. Det er regeringens andet forsøg på en bred tarifmur, efter Højesteret i februar underkendte april 2025-tarifferne. Denne gang bruges Section 301.",
+        "Kinas tarif ventes ikke at overstige 20 pct., EU's at blive holdt under den forhandlede 15 pct.-grænse. Det kommer, mens Kinas handelsoverskud nåede et rekordhøjt niveau på næsten 1,2 billioner dollar sidste år."
+      ],
+      "whyItMatters": "En tarif under den eksisterende 15 pct.-grænse er stadig en ny byrde - usikkerheden om timing og omfang er i sig selv en omkostning for en eksportøkonomi.",
+      "analysis": "Sagen viser, hvor lidt en handelsaftale låser fast: EU fik en 15 pct.-grænse forhandlet i sommer, og Washington bruger alligevel en anden hjemmel til et nyt lag oven på.",
+      "counterpoint": "USTR og Det Hvide Hus har ikke bekræftet noget.",
+      "topics": [
+        "eu-usa-handel",
+        "toldpolitik",
+        "erhverv"
+      ],
+      "entities": [
+        "Jamieson Greer",
+        "USTR",
+        "EU",
+        "Kina",
+        "Trump-administrationen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 85,
+        "decisionValue": 88,
+        "novelty": 78,
+        "sourceQuality": 76,
+        "personalRelevance": 92,
+        "contrast": 50
+      },
+      "claims": [
+        {
+          "text": "USTR ventes at offentliggøre resultatet af en Section 301-undersøgelse af overkapacitet i 16 økonomier inklusive EU og Kina i de kommende dage; tidspunktet kan ændre sig, og Det Hvide Hus/USTR afviste at kommentere.",
+          "sourceUrls": [
+            "https://www.dailyherald.com/2026/11/24/us-ready-to-slap-tariffs-on-china-eu-and-others-over-subsidized-production-ap-sources-say/"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "text": "Kinas handelsoverskud nåede et rekordhøjt niveau på næsten 1,2 billioner dollar sidste år.",
+          "sourceUrls": [
+            "https://www.dailyherald.com/2026/11/24/us-ready-to-slap-tariffs-on-china-eu-and-others-over-subsidized-production-ap-sources-say/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "US ready to slap tariffs on China, EU and others over subsidized production, AP sources say",
+          "publisher": "Daily Herald (AP)",
+          "url": "https://www.dailyherald.com/2026/11/24/us-ready-to-slap-tariffs-on-china-eu-and-others-over-subsidized-production-ap-sources-say/",
+          "publishedAt": "2026-11-25T01:18:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://www.dailyherald.com/wp-content/uploads/2026/11/Trump_Tariffs_Congress_5_166_e0fadd.jpg?w=2000&h=1333",
+        "credit": "Kilde: Daily Herald",
+        "alt": "Arkivfoto af Donald Trump under en tidligere toldannoncering i Det Hvide Hus' Rosenhave.",
+        "sourceUrl": "https://www.dailyherald.com/2026/11/24/us-ready-to-slap-tariffs-on-china-eu-and-others-over-subsidized-production-ap-sources-say/"
+      }
+    },
+    {
+      "id": "story-crowdstrike-zscaler-20261125",
+      "eventKey": "crowdstrike-zscaler-merger",
+      "materialFacts": [
+        "CrowdStrike opkøber Zscaler i en aktiehandel der værdisætter Zscaler til ca. 43,9 mia. dollar",
+        "Det er den største fusion i it-sikkerhedsbranchens historie og tredjestørste i techhistorien",
+        "Aftalen udvider CrowdStrikes adresserbare marked med over 185 mia. dollar i 2029"
+      ],
+      "section": "Teknologi og erhverv",
+      "headline": "CrowdStrike to Acquire Zscaler, Bringing Network Security and Zero Trust to the Falcon Platform",
+      "primarySourceUrl": "https://www.sec.gov/Archives/edgar/data/1535527/000110465926130785/tm2630454d1_ex99-1.htm",
+      "subheadline": "Et aktieopkøb til 43,9 mia. dollar bliver den største fusion i cybersikkerhedsbranchens historie og sender CrowdStrike ind i netværkssikkerhed",
+      "body": [
+        "CrowdStrike opkøber konkurrenten Zscaler i en aktiehandel, der værdisætter Zscaler til ca. 43,9 mia. dollar. Det gør handlen til den største fusion i it-sikkerhedsbranchens historie, kun overgået af Dells opkøb af EMC (2016) og Broadcoms opkøb af VMware (2023) i hele teknologibranchen.",
+        "Med Zscaler bevæger CrowdStrike sig ind i netværkssikkerhed og venter at udvide sit marked med over 185 mia. dollar i 2029. Handlen skal godkendes af myndighederne og ventes afsluttet i regnskabsåret, der løber til januar 2028."
+      ],
+      "whyItMatters": "Når to selskaber, virksomheder stoler på med deres it-infrastruktur, bliver ét, får det konsekvens for enhver organisation med Zscaler- eller CrowdStrike-licenser.",
+      "analysis": "Konsolideringen afspejler, at kunder vil have én sikkerhedsplatform frem for specialværktøjer - det favoriserer de største spillere.",
+      "topics": [
+        "cybersikkerhed",
+        "erhverv",
+        "fusioner"
+      ],
+      "entities": [
+        "CrowdStrike",
+        "Zscaler",
+        "George Kurtz",
+        "Jay Chaudhry"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 70,
+        "decisionValue": 58,
+        "novelty": 78,
+        "sourceQuality": 85,
+        "personalRelevance": 45,
+        "contrast": 55
+      },
+      "claims": [
+        {
+          "text": "CrowdStrike opkøber Zscaler i en aktiehandel der værdisætter Zscaler til ca. 43,9 mia. dollar; det er den største fusion i cybersikkerhedsbranchens historie og tredjestørste i techhistorien.",
+          "sourceUrls": [
+            "https://www.sec.gov/Archives/edgar/data/1535527/000110465926130785/tm2630454d1_ex99-1.htm"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Aftalen udvider CrowdStrikes adresserbare marked med over 185 mia. dollar i kalenderåret 2029 og ventes afsluttet i anden halvdel af regnskabsåret, der løber til januar 2028.",
+          "sourceUrls": [
+            "https://www.sec.gov/Archives/edgar/data/1535527/000110465926130785/tm2630454d1_ex99-1.htm"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "CrowdStrike to Acquire Zscaler, Bringing Network Security and Zero Trust to the Falcon Platform",
+          "publisher": "CrowdStrike",
+          "url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465926130785/tm2630454d1_ex99-1.htm",
+          "publishedAt": "2026-11-23T12:00:00Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/George_Kurtz.jpg/1920px-George_Kurtz.jpg",
+        "credit": "Foto: CrowdStrike, Inc. / Wikimedia Commons (CC BY-SA 4.0)",
+        "alt": "George Kurtz, medstifter og topchef for CrowdStrike, hvis selskab nu opkøber Zscaler.",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:George_Kurtz.jpg"
+      }
+    },
+    {
+      "id": "story-nato-satellite-20261125",
+      "eventKey": "russia-nuclear-satellite-warning",
+      "materialFacts": [
+        "Tysk efterretning vurderer, at Rusland kan opsende en satellit med atomvåben inden for 60 dage",
+        "NATO's generalsekretær Mark Rutte siger alliancen er klar til at forsvare hvert territorium, også i rummet",
+        "Kreml afviser historien, der bygger på anonyme kilder"
+      ],
+      "section": "Sikkerhedspolitik",
+      "headline": "Nato er klar, hvis russerne sender satellit med atomvåben ud i rummet",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/udland/nato-er-klar-hvis-russerne-sender-satellit-med-atomvaaben-ud-i-rummet",
+      "subheadline": "Tysk efterretning venter en russisk atomvåben-satellit inden for 60 dage; Nato-chef Mark Rutte siger alliancen er klar, Kreml afviser historien",
+      "body": [
+        "Tysk efterretning vurderer ifølge DR, at Rusland kan opsende en satellit med atomvåben inden for 60 dage. Natos generalsekretær Mark Rutte svarer, at alliancen står klar til at forsvare sit territorium, rummet inklusive. Den tyske forbundskansler Friedrich Merz kalder meldingerne chokerende, selv om de ikke er nye.",
+        "Den tyske forsvarsminister Boris Pistorius opfordrer samtidig til at holde hovedet koldt: der er rapporter, men det er uklart, hvilke våben der eventuelt er tale om. Kreml-talsmand Dmitry Peskov afviser historien, der bygger på anonyme kilder, som noget der »næppe er værd at tage alvorligt«."
+      ],
+      "whyItMatters": "En atomvåbenbestykket satellit ville bryde FN's rumtraktat fra 1967 og markere en ny fase i rumoprustningen mellem stormagterne.",
+      "analysis": "Spændet mellem Merz' chok og Pistorius' opfordring til ro viser, at Natos egne regeringer endnu ikke er sikre på, hvad de reelt står over for.",
+      "topics": [
+        "sikkerhedspolitik",
+        "rusland",
+        "nato",
+        "rummet"
+      ],
+      "entities": [
+        "Mark Rutte",
+        "Friedrich Merz",
+        "Boris Pistorius",
+        "NATO",
+        "Rusland"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 80,
+        "decisionValue": 52,
+        "novelty": 70,
+        "sourceQuality": 72,
+        "personalRelevance": 25,
+        "contrast": 65
+      },
+      "claims": [
+        {
+          "text": "Tysk efterretning vurderer, at Rusland kan opsende en satellit med atomvåben inden for 60 dage.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/udland/nato-er-klar-hvis-russerne-sender-satellit-med-atomvaaben-ud-i-rummet",
+            "https://ing.dk/artikel/tysk-efterretningstjeneste-advarer-foer-nytaar-sender-rusland-atomvaaben-ud-i-rummet"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Nato er klar, hvis russerne sender satellit med atomvåben ud i rummet",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/udland/nato-er-klar-hvis-russerne-sender-satellit-med-atomvaaben-ud-i-rummet",
+          "publishedAt": "2026-11-25T03:45:00Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Tysk efterretningstjeneste advarer: Før nytår sender Rusland atomvåben ud i rummet",
+          "publisher": "Ingeniøren",
+          "url": "https://ing.dk/artikel/tysk-efterretningstjeneste-advarer-foer-nytaar-sender-rusland-atomvaaben-ud-i-rummet",
+          "publishedAt": "2026-11-24T09:26:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/ttbhurgf/20261123-234320-7-4000x2667ma.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Arkivfoto anvendt af DR til historien om Natos reaktion på advarslen om en russisk atomvåben-satellit.",
+        "sourceUrl": "https://www.dr.dk/nyheder/udland/nato-er-klar-hvis-russerne-sender-satellit-med-atomvaaben-ud-i-rummet"
+      }
+    },
+    {
+      "id": "story-taxol-cancer-20261125",
+      "eventKey": "kobenhavn-taxol-production",
+      "materialFacts": [
+        "Forskere på Københavns Universitet har kortlagt den fulde biologiske proces for at fremstille taxol ved at overføre over 20 gener fra takstræer til tobaksplanter",
+        "Metoden kan potentielt halvere prisen på taxol, der i dag koster ca. 103.600 kr. pr. kilo",
+        "Forskerne venter, at metoden kan tages i brug inden for fem til ti år"
+      ],
+      "section": "Forskning og sundhed",
+      "headline": "Forskere i Danmark finder ny måde at lave kræftmiddel på, som kan halvere prisen",
+      "primarySourceUrl": "https://nyheder.tv2.dk/samfund/2026-11-24-forskere-i-danmark-finder-ny-maade-at-lave-kraeftmiddel-paa-som-kan-halvere-prisen",
+      "subheadline": "Forskere fra Københavns Universitet har kortlagt hele processen bag cellegiften taxol og venter, at den kan halvere prisen på et af verdens mest brugte kræftmidler",
+      "body": [
+        "Et forskerteam på Københavns Universitet, ledet af professor Sotirios Kampranis, har for første gang kortlagt den biologiske proces bag cellegiften taxol - et udbredt middel mod bryst- og lungekræft. Ved at overføre over 20 gener fra takstræer til tobaksplanter har holdet vist, hvordan stoffet kan produceres uden om den nuværende, dyre metode.",
+        "Taxol koster i dag ca. 103.600 kr. pr. kilo, og metoden kan potentielt halvere prisen. Forskerne venter, den kan tages i brug inden for fem til ti år. Resultatet er publiceret i Nature Chemical Biology."
+      ],
+      "whyItMatters": "En halvering af produktionsprisen på et udbredt kræftmiddel rammer sundhedsbudgetter under pres fra dyre lægemidler - et dansk resultat, der potentielt sætter retningen globalt.",
+      "analysis": "Fem til ti år er forskernes egen tidshorisont - grundforskning og kommerciel produktion er forskellige ting, og næste skridt er industriel skalering.",
+      "topics": [
+        "forskning",
+        "medicin",
+        "konstruktiv-journalistik"
+      ],
+      "entities": [
+        "Sotirios Kampranis",
+        "Københavns Universitet",
+        "Nature Chemical Biology"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 55,
+        "decisionValue": 42,
+        "novelty": 82,
+        "sourceQuality": 75,
+        "personalRelevance": 48,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "Forskere på Københavns Universitet har kortlagt den fulde biologiske proces for taxol-produktion ved at overføre over 20 gener fra takstræer til tobaksplanter, publiceret i Nature Chemical Biology.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/samfund/2026-11-24-forskere-i-danmark-finder-ny-maade-at-lave-kraeftmiddel-paa-som-kan-halvere-prisen"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Metoden kan potentielt halvere prisen på taxol (ca. 103.600 kr./kg) og ventes klar til brug inden for fem til ti år.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/samfund/2026-11-24-forskere-i-danmark-finder-ny-maade-at-lave-kraeftmiddel-paa-som-kan-halvere-prisen"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Forskere i Danmark finder ny måde at lave kræftmiddel på, som kan halvere prisen",
+          "publisher": "TV 2",
+          "url": "https://nyheder.tv2.dk/samfund/2026-11-24-forskere-i-danmark-finder-ny-maade-at-lave-kraeftmiddel-paa-som-kan-halvere-prisen",
+          "publishedAt": "2026-11-24T20:44:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/3/c/9/3c935008-563d-4822-a702-689ceeb3a1eb?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MTMwNSwyNDEsMTAxMCw1Njg&s=3675cd3fd04aaff68d5b724da88bcf81",
+        "credit": "Kilde: TV 2",
+        "alt": "Arkivfoto anvendt af TV 2 til historien om det nye forskningsresultat om kræftmidlet taxol.",
+        "sourceUrl": "https://nyheder.tv2.dk/samfund/2026-11-24-forskere-i-danmark-finder-ny-maade-at-lave-kraeftmiddel-paa-som-kan-halvere-prisen"
+      }
+    },
+    {
+      "id": "story-amazon-decart-20261125",
+      "eventKey": "amazon-decart-acquisition",
+      "materialFacts": [
+        "Amazon køber den israelske AI-optimeringsvirksomhed Decart for ca. 7,5 mia. dollar",
+        "Amazon får Decarts Optimization Stack og grundlæggerteam, men ikke selskabets AI-modeller",
+        "Teknologien skal styrke Amazons egne Trainium-chips som alternativ til Nvidia-hardware"
+      ],
+      "section": "Teknologi og erhverv",
+      "headline": "Amazon snaps up Decart's AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "primarySourceUrl": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "subheadline": "Amazon betaler 7,5 mia. dollar for den israelske AI-startup Decarts optimeringsteknologi i et direkte angreb på Nvidias dominans på chipmarkedet",
+      "body": [
+        "Amazon køber den israelske AI-virksomhed Decart for ca. 7,5 mia. dollar - en af de største exits i israelsk techhistorie, tre år efter grundlæggelsen. Amazon får Decarts Optimization Stack, der får AI-modeller til at køre effektivt på forskellig hardware, samt grundlæggerteamet - men ikke selskabets egne AI-modeller.",
+        "Teknologien skal ifølge Amazons Peter DeSantis integreres i chipdivisionen Annapurna Labs for at forbedre Amazons Trainium-chips som alternativ til Nvidias hardware. Decart havde tidligere forhandlet med Anthropic om et salg til 6 mia. dollar, som brød sammen i september."
+      ],
+      "whyItMatters": "Hvis Amazons satsning virker, bliver det lettere at vælge billigere chips frem for Nvidias - det svækker den hardware-afhængighed, der gør Nvidia-sagen relevant for AI-investorer.",
+      "analysis": "Opkøbet viser, at konkurrencen om AI-infrastruktur nu lige så meget handler om software som om selve chippene.",
+      "topics": [
+        "ai",
+        "chips",
+        "fusioner",
+        "israel"
+      ],
+      "entities": [
+        "Amazon",
+        "Decart",
+        "Dean Leitersdorf",
+        "Peter DeSantis",
+        "Nvidia"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 62,
+        "decisionValue": 48,
+        "novelty": 72,
+        "sourceQuality": 78,
+        "personalRelevance": 52,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "Amazon køber Decart for ca. 7,5 mia. dollar, inklusive teknologi og grundlæggerteam, men ikke selskabets AI-modeller; teknologien skal styrke Amazons Trainium-chips.",
+          "sourceUrls": [
+            "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Amazon snaps up Decart's AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+          "publisher": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+          "publishedAt": "2026-11-23T17:14:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://techcrunch.com/wp-content/uploads/2024/12/Decart-Founders-Dean-Leitersdorf-CEO-and-Moshe-Shalev-CPO.jpg?resize=1200,800",
+        "credit": "Foto: Decart / Amit Elkayam, via TechCrunch",
+        "alt": "Decart-stifterne Dean Leitersdorf og Moshe Shalev, hvis teknologi Amazon nu har købt for 7,5 mia. dollar.",
+        "sourceUrl": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+      }
+    },
+    {
+      "id": "story-nordea-hvidvask-20261125",
+      "eventKey": "nordea-hvidvask-dom-final",
+      "materialFacts": [
+        "Anklagemyndigheden anker ikke Københavns Byrets dom, der idømte Nordea 155 mio. kr. i bøde for hvidvask",
+        "Det er Danmarks første retsafgørelse om, hvorvidt en bank har overtrådt hvidvasklovgivningen",
+        "Sagen omfattede 17.726 transaktioner for næsten 25 mia. kr. i Nordeas nu lukkede International Branch, 2012-2015"
+      ],
+      "section": "Finans og regulering",
+      "headline": "Anklagemyndigheden anker ikke dommen mod Nordea",
+      "primarySourceUrl": "https://anklagemyndigheden.dk/anklagemyndigheden-anker-ikke-dommen-mod-nordea/",
+      "subheadline": "Danmarks første hvidvasksag mod en bank bliver endelig, da både anklagemyndigheden og Nordea afstår fra at anke 155 mio. kr.-bøden",
+      "body": [
+        "Statsadvokaten for Særlig Kriminalitet anker ikke Københavns Byrets dom mod Nordea, der idømte banken 155 mio. kr. for hvidvask. Det var Danmarks første retsafgørelse om, hvorvidt en bank har overtrådt hvidvaskreglerne, og byretten fandt Nordea skyldig i to af syv forhold efter en sag med over 60 retsdage.",
+        "Statsadvokat Jens-Christian Bülow forklarer, at anklagemyndigheden ikke finder sikkerhed for et andet resultat ved landsretten - dele af sagen ligger over ti år tilbage. Anklagemyndigheden havde krævet 6,6 mia. kr. Nordea anker heller ikke."
+      ],
+      "whyItMatters": "Sagen fastsætter, uden yderligere prøvelse, hvor grænsen ligger for en banks overvågningspligt - en præcedens for hele finanssektoren.",
+      "analysis": "At begge parter dropper anke, er et signal: ti år gamle beviser vurderes for svage, og Nordea vurderer bøden acceptabel. Sagen startede med en indberetning fra Finanstilsynet i 2016 - ni år til endelig dom.",
+      "topics": [
+        "finans",
+        "hvidvask",
+        "erhverv",
+        "lovgivning"
+      ],
+      "entities": [
+        "Nordea",
+        "Jens-Christian Bülow",
+        "Statsadvokaten for Særlig Kriminalitet",
+        "Finanstilsynet"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 68,
+        "decisionValue": 58,
+        "novelty": 65,
+        "sourceQuality": 88,
+        "personalRelevance": 62,
+        "contrast": 32
+      },
+      "claims": [
+        {
+          "text": "Anklagemyndigheden anker ikke Københavns Byrets dom, der idømte Nordea 155 mio. kr. for hvidvask; det er Danmarks første retsafgørelse om bankers overtrædelse af hvidvasklovgivningen. Nordea anker heller ikke.",
+          "sourceUrls": [
+            "https://anklagemyndigheden.dk/anklagemyndigheden-anker-ikke-dommen-mod-nordea/",
+            "https://www.dr.dk/nyheder/penge/anklagemyndigheden-anker-ikke-hvidvaskdommen-mod-nordea"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Sagen omfattede 17.726 transaktioner for næsten 25 mia. kr. gennem Nordeas nu lukkede International Branch, 2012-2015; anklagemyndigheden havde krævet 6,6 mia. kr. i bøde.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/anklagemyndigheden-anker-ikke-hvidvaskdommen-mod-nordea"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Anklagemyndigheden anker ikke dommen mod Nordea",
+          "publisher": "Anklagemyndigheden",
+          "url": "https://anklagemyndigheden.dk/anklagemyndigheden-anker-ikke-dommen-mod-nordea/",
+          "publishedAt": "2026-11-24T12:00:00Z",
+          "kind": "primary"
+        },
+        {
+          "title": "Anklagemyndigheden anker ikke hvidvaskdommen mod Nordea",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/penge/anklagemyndigheden-anker-ikke-hvidvaskdommen-mod-nordea",
+          "publishedAt": "2026-11-24T07:51:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/3shd1xjp/20261015-065136-7_crop001.jpg",
+        "credit": "Kilde: DR",
+        "alt": "Arkivfoto anvendt af DR i sagen om hvidvask hos Nordea.",
+        "sourceUrl": "https://www.dr.dk/nyheder/penge/anklagemyndigheden-anker-ikke-hvidvaskdommen-mod-nordea"
+      }
+    }
+  ],
+  "signals": [
+    {
+      "text": "Næstformand i Landbrug og Fødevarer stopper",
+      "headline": "Næstformand i Landbrug og Fødevarer stopper",
+      "url": "https://www.altinget.dk/artikel/naestformand-i-landbrug-og-foedevarer-stopper",
+      "publisher": "Altinget",
+      "section": "Erhverv",
+      "publishedAt": "2026-11-24T14:30:00Z",
+      "summary": "Christian Høegh-Andersen genopstiller ikke som næstformand i Landbrug & Fødevarer efter at have besat posten siden 2024; han fortsætter i hovedbestyrelsen."
+    },
+    {
+      "text": "Totalt strømsvigt ramte Danmark uden at blive opdaget: »Det er en verdensnyhed«",
+      "headline": "Totalt strømsvigt ramte Danmark uden at blive opdaget: »Det er en verdensnyhed«",
+      "url": "https://ing.dk/artikel/totalt-stroemsvigt-ramte-danmark-uden-blive-opdaget-det-er-en-verdensnyhed",
+      "publisher": "Ingeniøren",
+      "section": "Energi",
+      "publishedAt": "2026-11-25T04:00:00Z",
+      "summary": "Energinet lukkede en del af det østdanske højspændingsnet helt ned i en hemmelig øvelse, hvor havvindmøller for første gang i verden leverede den første strøm i en genopretning efter et total blackout."
+    },
+    {
+      "text": "Microsoft hæver Azure-priser med op til 17 procent i syv regioner",
+      "headline": "Microsoft hæver Azure-priser med op til 17 procent i syv regioner",
+      "url": "https://www.computerworld.dk/art/297781/microsoft-haever-azure-priser-med-op-til-17-procent-i-syv-regioner",
+      "publisher": "Computerworld",
+      "section": "Teknologi",
+      "publishedAt": "2026-11-24T13:01:00Z",
+      "summary": "Fra 1. februar 2027 stiger priserne på Azure-servere og -lagring 8-17 pct.; Nordeuropa (Dublin) er hårdest ramt med 17 pct."
+    },
+    {
+      "text": "Magten kulegravet: Novo Nordisk Fonden og andre pengetanke udfordrer forskningsfriheden",
+      "headline": "Magten kulegravet: Novo Nordisk Fonden og andre pengetanke udfordrer forskningsfriheden",
+      "url": "https://ing.dk/artikel/magten-kulegravet-novo-nordisk-fonden-og-andre-pengetanke-udfordrer-forskningsfriheden",
+      "publisher": "Ingeniøren",
+      "section": "Forskning",
+      "publishedAt": "2026-11-24T04:00:00Z",
+      "summary": "En ny udredning beskriver, hvordan private fonde på kort tid har fået stor økonomisk magt og indflydelse på dansk forskning."
+    },
+    {
+      "text": "Tusindvis af boligejere ramt af fejl i boligskatten: 'Det er uheldigt'",
+      "headline": "Tusindvis af boligejere ramt af fejl i boligskatten: 'Det er uheldigt'",
+      "url": "https://www.dr.dk/nyheder/penge/tusindvis-af-boligejere-ramt-af-fejl-i-boligskatten-det-er-uheldigt",
+      "publisher": "DR",
+      "section": "Penge",
+      "publishedAt": "2026-11-24T14:02:00Z"
+    },
+    {
+      "text": "Anthropics-aktien dykker: Er nu billigere end til børs-noteringen",
+      "headline": "Anthropics-aktien dykker: Er nu billigere end til børs-noteringen",
+      "url": "https://www.computerworld.dk/art/297774/anthropics-aktien-dykker-er-nu-billigere-end-til-boers-noteringen",
+      "publisher": "Computerworld",
+      "section": "Marked",
+      "publishedAt": "2026-11-24T12:02:00Z",
+      "summary": "Anthropic-aktien handles under sin IPO-kurs på 83 dollar, kort efter selskabets børsnotering sidste torsdag."
+    },
+    {
+      "text": "Forskere slår koldt vand i blodet: Matematikgåde er ikke officielt løst af AI",
+      "headline": "Forskere slår koldt vand i blodet: Matematikgåde er ikke officielt løst af AI",
+      "url": "https://ing.dk/artikel/forskere-slaar-koldt-vand-i-blodet-matematikgaade-er-ikke-officielt-loest-af-ai",
+      "publisher": "Ingeniøren",
+      "section": "Forskning",
+      "publishedAt": "2026-11-23T10:34:00Z",
+      "summary": "Forskere afviser, at en omtalt AI-assisteret 'løsning' på Riemann-hypotesen er officielt anerkendt eller verificeret."
+    },
+    {
+      "text": "Israels militær har dræbt Hamas-leder i Gaza",
+      "headline": "Israels militær har dræbt Hamas-leder i Gaza",
+      "url": "https://www.dr.dk/nyheder/seneste/israels-militaer-har-draebt-hamas-leder-i-gaza",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-11-24T13:29:00Z"
+    },
+    {
+      "text": "20 personer fortsat holdt fanget i gidseldrama i Colombia",
+      "headline": "20 personer fortsat holdt fanget i gidseldrama i Colombia",
+      "url": "https://www.dr.dk/nyheder/udland/20-personer-fortsat-holdt-fanget-i-gidseldrama-i-colombia",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-11-25T03:30:00Z"
+    },
+    {
+      "text": "Kina sender for første gang en udenlandsk astronaut på rummission",
+      "headline": "Kina sender for første gang en udenlandsk astronaut på rummission",
+      "url": "https://www.dr.dk/nyheder/udland/kina-sender-foerste-gang-en-udenlandsk-astronaut-paa-rummission",
+      "publisher": "DR",
+      "section": "Udland",
+      "publishedAt": "2026-11-25T02:47:00Z"
+    },
+    {
+      "text": "Den tidligere Superliga-profil Ken Fagerberg er død",
+      "headline": "Den tidligere Superliga-profil Ken Fagerberg er død",
+      "url": "https://www.dr.dk/sporten/seneste-sport/den-tidligere-superliga-profil-ken-fagerberg-er-doed",
+      "publisher": "DR",
+      "section": "Sport",
+      "publishedAt": "2026-11-24T11:52:00Z",
+      "summary": "Den tidligere fodboldspiller Ken Fagerberg er død, 37 år gammel; dødsårsagen er ukendt."
+    },
+    {
+      "text": "Mads Pedersen ser ingen fremtid som sportsdirektør, fordi han 'ikke kan få ståpels' af andres sejre",
+      "headline": "Mads Pedersen ser ingen fremtid som sportsdirektør, fordi han 'ikke kan få ståpels' af andres sejre",
+      "url": "https://www.dr.dk/sporten/cykling/norsk-hold-droemmer-om-jonas-vingegaard-og-mads-pedersen",
+      "publisher": "DR",
+      "section": "Sport",
+      "publishedAt": "2026-11-24T07:28:00Z"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-abramovic-seven-deaths-20261125",
+      "mode": "experience",
+      "kind": "performancekunst-udstilling",
+      "status": "timely",
+      "title": "Marina Abramović: Seven Deaths",
+      "creator": "Marina Abramović, med Willem Dafoe",
+      "provider": "Cisternerne, Frederiksbergmuseerne",
+      "url": "https://frederiksbergmuseerne.dk/en/cisternerne/",
+      "availability": "Cisternerne, København. Lukker 30. november 2026 - sidste chance i denne omgang.",
+      "commitment": "45-60 min.",
+      "description": "En cinematisk operainstallation, hvor Marina Abramović iscenesætter syv af operahistoriens mest berømte kvindelige dødsscener i Cisternernes mørke underjordiske haller, med Willem Dafoe i modrollen.",
+      "rationale": "Uden for alt, du normalt læser her - og netop derfor værd en halv time: en af verdens mest kendte performancekunstnere i et rum, der i sig selv er en del af værket. Lukker om fem dage, så det er nu eller aldrig i denne omgang.",
+      "topics": [
+        "kunst",
+        "performance",
+        "serendipitet"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://frederiksbergmuseerne.dk/wp-content/uploads/2026/07/Seven-Deaths_Marina-Abramovic_Cisternerne_021_Photo-by-David-Stjernholm-2-1024x711.jpg",
+        "credit": "Foto: David Stjernholm, Frederiksbergmuseerne",
+        "alt": "Scene fra Marina Abramovićs installation 'Seven Deaths' i Cisternerne.",
+        "sourceUrl": "https://frederiksbergmuseerne.dk/en/cisternerne/"
+      }
+    },
+    {
+      "id": "rec-npr-machinegods-chips-20261125",
+      "mode": "listen",
+      "kind": "podcast",
+      "status": "new",
+      "title": "How big a deal is Chinese chip smuggling anyway?",
+      "creator": "Machine Gods (NPR), med Ben Buchanan",
+      "provider": "NPR",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6044820/how-big-a-deal-is-chinese-chip-smuggling-anyway",
+      "availability": "Gratis, npr.org og alle podcast-apps.",
+      "commitment": "ca. 25 min.",
+      "description": "Ben Buchanan - Bidens første AI-rådgiver i Det Hvide Hus og arkitekten bag de oprindelige chip-eksportkontroller - forklarer, hvorfor chipsmugling er gået fra en niche-bekymring til centrum for en Washington-strid.",
+      "rationale": "Den naturlige forlængelse af dagens Nvidia-historie, fra den person, der faktisk skrev de regler, sagen nu handler om at omgå - ikke en kommentator, men manden der byggede systemet.",
+      "topics": [
+        "ai",
+        "chips",
+        "usa-kina",
+        "eksportkontrol"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-avedon-netflix-20261125",
+      "mode": "watch",
+      "kind": "dokumentarfilm",
+      "status": "new",
+      "title": "Avedon",
+      "creator": "Ron Howard (regissør)",
+      "provider": "Netflix",
+      "url": "https://www.netflix.com/title/83018004",
+      "availability": "Streaming på Netflix siden 11. november 2026.",
+      "commitment": "1 t. 44 min.",
+      "description": "Ron Howards dokumentar om fotografen Richard Avedon, bygget på hans eget arkiv - ukendte stillbilleder, optagelser fra selve fotograferingerne og nye interviews med dem, der kendte ham bedst.",
+      "rationale": "Ren serendipitet: intet med dagens nyheder at gøre, men en af de bedst anmeldte dokumentarer i november om en af det 20. århundredes mest indflydelsesrige fotografer - en time og 44 minutter, der ikke handler om markeder, politik eller teknologi.",
+      "topics": [
+        "fotografi",
+        "kultur",
+        "serendipitet"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-cosmos-rsi-reddy-20261125",
+      "mode": "read",
+      "kind": "essay",
+      "status": "new",
+      "title": "Recursive, Self, Improvement: The anatomy of an intelligence explosion",
+      "creator": "Aashish Reddy",
+      "provider": "Cosmos Institute",
+      "url": "https://blog.cosmos-institute.org/p/recursive-self-improvement",
+      "availability": "Gratis, blog.cosmos-institute.org.",
+      "commitment": "ca. 12 min.",
+      "description": "Reddy argumenterer for, at rekursiv selvforbedring i AI bør forstås som hele udviklingssystemet - ikke den enkelte model - der forbedrer sin egen evne til at skabe forbedringer, drevet af feedback mellem algoritmiske fremskridt og hardwareinvesteringer.",
+      "rationale": "En skarpere model for, hvad 'AI forbedrer sig selv' faktisk betyder, end den frygt-eller-hype-ramme debatten ofte falder tilbage på - relevant for enhver, der skal forholde sig til, hvor hurtigt AI-kapacitet reelt bevæger sig.",
+      "topics": [
+        "ai",
+        "ai-sikkerhed",
+        "teknologifilosofi"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {
+    "sourceCoverage": 88,
+    "freshness": 86,
+    "novelty": 76,
+    "perspectiveBalance": 62,
+    "render": 100
+  }
+}
