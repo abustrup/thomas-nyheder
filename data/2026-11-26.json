@@ -1,0 +1,861 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-20261126-01",
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T05:46:53Z",
+  "readingMinutes": 11,
+  "title": "Thomas' Nyheder",
+  "dek": "Pharmaen bærer væksten, USA varsler ny told, og en Novo-CFO bliver fondsdirektør.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-dst-gdp-q3-2026-20261126",
+      "eventKey": "dst-gdp-q3-2026-pharma-concentration",
+      "materialFacts": [
+        "Dansk BNP steg 0,8 pct. i 3. kvartal 2026 og 4,6 pct. for de første tre kvartaler sammenlignet med samme periode i 2025",
+        "Eksklusive medicinalindustrien voksede resten af økonomien kun 2,9 pct. i bruttoværditilvækst mod 4,9 pct. for hele økonomien",
+        "DST nedreviderede 1. kvartal fra 1,7 til 1,1 pct. og 2. kvartal fra 0,9 til 0,8 pct."
+      ],
+      "section": "Dansk økonomi",
+      "headline": "Fortsat fremgang i dansk økonomi i 3. kvartal",
+      "primarySourceUrl": "https://www.dst.dk/da/Statistik/udgivelser/NytHtml?cid=53769",
+      "subheadline": "BNP voksede 0,8 pct. i tredje kvartal, men uden medicinalindustrien var fremgangen under to tredjedele så stor.",
+      "body": [
+        "Bruttonationalproduktet steg 0,8 pct. i tredje kvartal 2026, og 4,6 pct. for årets første tre kvartaler sammenlignet med samme periode sidste år, viser Danmarks Statistiks nationalregnskab. Væksten kom hovedsageligt fra industrien og det offentlige forbrug, ikke fra husholdningernes forbrug, der kun steg 0,4 pct.",
+        "Tager man medicinalindustrien ud af regnestykket, voksede resten af dansk økonomi kun 2,9 pct. målt på bruttoværditilvækst, mod 4,9 pct. for hele økonomien. DST nedreviderede samtidig første kvartals vækst fra 1,7 til 1,1 pct. og andet kvartal fra 0,9 til 0,8 pct."
+      ],
+      "whyItMatters": "Tallet er en officiel bekræftelse af, hvor smal den danske vækstmotor er. Over 40 pct. af den samlede bruttoværditilvækst forsvinder, så snart medicinalindustrien tages ud af regnestykket - ikke en akademisk øvelse for en økonomi, hvor Novo Nordisks udsving allerede flytter BNP-tal alene.",
+      "analysis": "De to nedreviderede kvartaler betyder, at 2026 samlet set har været svagere, end tallene løbende har vist - en påmindelse om, at det er risikabelt at lægge for meget i et enkelt kvartals overskrifter, før revisionerne er faldet på plads.",
+      "topics": [
+        "makroøkonomi",
+        "BNP",
+        "pharma-koncentration",
+        "dansk-økonomi"
+      ],
+      "entities": [
+        "Danmarks Statistik",
+        "Novo Nordisk",
+        "medicinalindustrien"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 75,
+        "decisionValue": 75,
+        "novelty": 60,
+        "sourceQuality": 95,
+        "personalRelevance": 90,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "BNP steg 0,8 pct. i 3. kvartal 2026 og 4,6 pct. for de første tre kvartaler",
+          "sourceUrls": [
+            "https://www.dst.dk/da/Statistik/udgivelser/NytHtml?cid=53769"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Ekskl. medicinalindustrien voksede bruttoværditilvæksten kun 2,9 pct. mod 4,9 pct. for hele økonomien",
+          "sourceUrls": [
+            "https://www.dst.dk/da/Statistik/udgivelser/NytHtml?cid=53769"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "1. kvartal er nedrevideret fra 1,7 til 1,1 pct., 2. kvartal fra 0,9 til 0,8 pct.",
+          "sourceUrls": [
+            "https://www.dst.dk/da/Statistik/udgivelser/NytHtml?cid=53769"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Fortsat fremgang i dansk økonomi i 3. kvartal",
+          "publisher": "Danmarks Statistik",
+          "url": "https://www.dst.dk/da/Statistik/udgivelser/NytHtml?cid=53769",
+          "publishedAt": "2026-11-20T07:00:00Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://www.dst.dk/site/dst/udgivelser/nyt/getimage.aspx?cid=53769",
+        "credit": "Kilde: Danmarks Statistik",
+        "alt": "Danmarks Statistiks figur over den indekserede udvikling i BNP og bruttoværditilvækst med og uden medicinalindustrien, 2018-2026",
+        "sourceUrl": "https://www.dst.dk/da/Statistik/udgivelser/NytHtml?cid=53769"
+      }
+    },
+    {
+      "id": "story-us-section301-denmark-20261126",
+      "eventKey": "us-section301-tariffs-denmark-reaction",
+      "materialFacts": [
+        "Trump-administrationen har foreslået en ny runde told mod blandt andre EU, Kina, Japan, Indien, Sydkorea, Taiwan, Vietnam, Cambodja og Brasilien",
+        "Erhvervsminister Martin Lidegaard forventer tolden holder sig inden for EU-USA-aftalens loft på 15 pct.",
+        "Dansk Industri vurderer at en ny straftold vil ramme amerikanske forbrugere hårdere end danske eksportører, fordi EU-varer i dag kun kan rammes af yderligere 5 procentpoint oven i den eksisterende 10 pct.-told"
+      ],
+      "section": "EU-USA-handel",
+      "headline": "USA foreslår ny told mod blandt andet EU",
+      "primarySourceUrl": "https://dr.dk/nyheder/udland/usa-foreslaar-ny-told-mod-blandt-andet-eu",
+      "subheadline": "Trump-administrationen varsler endnu en toldrunde. Den danske regering og Dansk Industri vurderer, at loftet fra sidste sommers EU-aftale holder skaden nede.",
+      "body": [
+        "Trump-administrationen foreslår ny told mod bl.a. Kina, Japan, EU og Brasilien, skriver New York Times og AP. Målet er industrier med statsstøtte. Erhvervsminister Martin Lidegaard venter, at tolden holder sig inden for EU-USA-aftalens loft på 15 pct.",
+        "DI's Peter Bay Kierkegaard vurderer, at EU-varer i dag rammes af 10 pct. told, så en ny straftold højst lægger fem procentpoint oven i - og at det er amerikanske forbrugere, der ender med at betale merprisen."
+      ],
+      "whyItMatters": "Det er den konkrete prøve på, om sidste sommers EU-USA-toldloft på 15 pct. holder, når Washington åbner endnu en toldfront - relevant for enhver, der har forhandlet handelspolitik.",
+      "analysis": "Regeringens og DI's reaktion peger på mindre risiko for danske eksportører end for amerikanske forbrugere - men Lidegaard varsler, at EU skal svare samlet og beslutsomt, hvis aftalen ikke respekteres.",
+      "topics": [
+        "eu-us-trade",
+        "tariffs",
+        "trade-policy",
+        "danish-industry"
+      ],
+      "entities": [
+        "Martin Lidegaard",
+        "Dansk Industri",
+        "Peter Bay Kierkegaard",
+        "USA",
+        "EU",
+        "Brasilien"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 68,
+        "decisionValue": 68,
+        "novelty": 55,
+        "sourceQuality": 88,
+        "personalRelevance": 92,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "USA foreslår ny told mod EU, Kina, Japan, Indien, Sydkorea, Taiwan, Vietnam, Cambodja og Brasilien",
+          "sourceUrls": [
+            "https://dr.dk/nyheder/udland/usa-foreslaar-ny-told-mod-blandt-andet-eu"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Lidegaard forventer tolden holder sig inden for EU-USA-aftalens loft på 15 pct.",
+          "sourceUrls": [
+            "https://dr.dk/nyheder/udland/usa-foreslaar-ny-told-mod-blandt-andet-eu"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "DI: generel told i dag er 10 pct. på europæiske varer, så en ny straftold højst lægger 5 procentpoint oven i",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/dansk-industri-amerikanerne-bliver-de-store-tabere-hvis-trump-indfoerer-endnu-en-straftold"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Norge er ikke på listen, fordi undersøgelsen af landet ikke er afsluttet; Norges udenrigsminister kritiserer grundlaget",
+          "sourceUrls": [
+            "https://e24.no/boers-og-finans/i/2vG2AG/norge-slipper-ny-usa-toll-inntil-videre-men-undersoekelsene-fortsetter-skriver-ap"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "USA foreslår ny told mod blandt andet EU",
+          "publisher": "DR",
+          "url": "https://dr.dk/nyheder/udland/usa-foreslaar-ny-told-mod-blandt-andet-eu",
+          "publishedAt": "2026-11-25T14:14:23Z",
+          "kind": "primary"
+        },
+        {
+          "title": "Dansk Industri: Amerikanerne bliver de store tabere, hvis Trump indfører endnu en straftold",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/penge/dansk-industri-amerikanerne-bliver-de-store-tabere-hvis-trump-indfoerer-endnu-en-straftold",
+          "publishedAt": "2026-11-25T16:12:26Z",
+          "kind": "reporting"
+        },
+        {
+          "title": "Norge slipper ny USA-toll inntil videre, men undersøkelsene fortsetter, skriver AP",
+          "publisher": "E24",
+          "url": "https://e24.no/boers-og-finans/i/2vG2AG/norge-slipper-ny-usa-toll-inntil-videre-men-undersoekelsene-fortsetter-skriver-ap",
+          "publishedAt": "2026-11-25T12:00:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/m3wlbe3y/20261125-114243-1.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Foto: Carlos Barria, Reuters/Ritzau Scanpix",
+        "alt": "Donald Trump og Xi Jinping ved Trumps seneste besøg i Kina",
+        "sourceUrl": "https://dr.dk/nyheder/udland/usa-foreslaar-ny-told-mod-blandt-andet-eu"
+      }
+    },
+    {
+      "id": "story-flsmidth-cfo-fyring-20261126",
+      "eventKey": "flsmidth-cfo-fyring-roland-andersen",
+      "materialFacts": [
+        "FLSmidth fyrede CFO Roland Andersen dagen før selskabets kapitalmarkedsdag",
+        "På dagen præsenterede FLSmidth strategien 'Accelerate '31' med mål om 6-7 pct. organisk vækst årligt 2027-2029 og 18 pct. driftsmargin",
+        "Begrundelsen for fyringen var, at ledelsen og CFO'en ikke kunne finde fælles fodslag om, hvad der kræves for at understøtte forretningen"
+      ],
+      "section": "Dansk erhverv",
+      "headline": "FLS skal genvinde tilliden efter CFO-fyring",
+      "primarySourceUrl": "https://ugebrev.dk/formue/fls-skal-genvinde-tilliden-efter-cfo-fyring/",
+      "subheadline": "FLSmidth fyrede sin finansdirektør dagen før en strategipræsentation, der skal løfte selskabets vækst og margin frem mod 2031.",
+      "body": [
+        "FLSmidth fyrede CFO Roland Andersen dagen før kapitalmarkedsdagen, hvor strategien 'Accelerate '31' blev præsenteret. Begrundelsen: Det havde ikke været muligt at finde fælles fodslag med CFO'en om, hvad der kræves for at understøtte forretningen.",
+        "Strategien sigter mod 6-7 pct. organisk vækst årligt 2027-2029 og 18 pct. driftsmargin. Timingen - en fyring dagen før selskabets vigtigste investorbegivenhed - har skærpet usikkerheden om opbakningen til strategien internt."
+      ],
+      "whyItMatters": "En CFO-fyring 24 timer før en kapitalmarkedsdag er sjældent tilfældig, og den rejser spørgsmål om, hvor meget af strategien der reelt var omstridt internt, før den blev lagt frem for markedet.",
+      "analysis": "For et Nasdaq-noteret dansk industriselskab er uafklaret topledelse dagen før et strategiskifte en governance-risiko, der koster tillid hos analytikere.",
+      "topics": [
+        "ledelse",
+        "erhverv",
+        "who-is-moving",
+        "nasdaq",
+        "governance"
+      ],
+      "entities": [
+        "FLSmidth",
+        "Roland Andersen",
+        "Toni Laaksonen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 62,
+        "decisionValue": 60,
+        "novelty": 70,
+        "sourceQuality": 78,
+        "personalRelevance": 80,
+        "contrast": 50
+      },
+      "claims": [
+        {
+          "text": "FLSmidth fyrede CFO Roland Andersen dagen før kapitalmarkedsdagen",
+          "sourceUrls": [
+            "https://ugebrev.dk/formue/fls-skal-genvinde-tilliden-efter-cfo-fyring/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Strategien 'Accelerate 31' sigter mod 6-7 pct. organisk vækst årligt 2027-2029 og 18 pct. driftsmargin",
+          "sourceUrls": [
+            "https://ugebrev.dk/formue/fls-skal-genvinde-tilliden-efter-cfo-fyring/"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "FLS skal genvinde tilliden efter CFO-fyring",
+          "publisher": "Økonomisk Ugebrev",
+          "url": "https://ugebrev.dk/formue/fls-skal-genvinde-tilliden-efter-cfo-fyring/",
+          "publishedAt": "2026-11-25T10:40:48Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://ugebrev.dk/wp-content/uploads/2026/02/Toni-Laaksonen-CEO-fol-FLSmidth.png",
+        "credit": "Kilde: FLSmidth / Økonomisk Ugebrev",
+        "alt": "Toni Laaksonen, administrerende direktør for FLSmidth",
+        "sourceUrl": "https://ugebrev.dk/formue/fls-skal-genvinde-tilliden-efter-cfo-fyring/"
+      }
+    },
+    {
+      "id": "story-lundbeckfonden-ceo-20261126",
+      "eventKey": "lundbeckfonden-ceo-knudsen-fra-novo",
+      "materialFacts": [
+        "Karsten Munk Knudsen, hidtil CFO i Novo Nordisk, bliver ny administrerende direktør for Lundbeckfonden og Lundbeckfond Invest fra 1. januar 2027",
+        "Han afløser Lene Skole, der stopper efter et årti i spidsen for fonden",
+        "Skole fortsætter som bestyrelsesformand for Ørsted"
+      ],
+      "section": "Who is moving",
+      "headline": "Lundbeckfonden henter ny topchef fra Novo Nordisk",
+      "primarySourceUrl": "https://www.altinget.dk/jobskifte/lundbeckfonden-henter-ny-topchef-fra-novo-nordisk",
+      "subheadline": "Novo Nordisks finansdirektør gennem næsten 24 år bliver ny topchef for en af Danmarks største erhvervsfonde.",
+      "body": [
+        "Karsten Munk Knudsen, der har knap 24 år bag sig i Novo Nordisk, senest som finansdirektør, bliver ny administrerende direktør for Lundbeckfonden og Lundbeckfond Invest fra 1. januar 2027. Han afløser Lene Skole efter et årti i spidsen for fonden.",
+        "Skole fortsætter som bestyrelsesformand for Ørsted. Knudsen startede i 1999 som business analyst i NNIT, dengang et Novo Nordisk-datterselskab, og har haft lederposter i USA."
+      ],
+      "whyItMatters": "Et skifte på denne post flytter en erfaren finansmand fra en børsnoteret koncern til en fond, der ejer kontrollerende poster i Lundbeck og flere andre selskaber - en rokade, der omformer reel indflydelse i dansk erhvervsliv.",
+      "analysis": "At hente lederskab direkte fra Novo Nordisk viser, hvor tæt de store danske erhvervsfondes topposter besættes fra samme snævre kreds af selskaber.",
+      "topics": [
+        "ledelse",
+        "erhverv",
+        "fonde",
+        "who-is-moving"
+      ],
+      "entities": [
+        "Lundbeckfonden",
+        "Karsten Munk Knudsen",
+        "Novo Nordisk",
+        "Lene Skole",
+        "Ørsted"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 60,
+        "decisionValue": 55,
+        "novelty": 78,
+        "sourceQuality": 70,
+        "personalRelevance": 88,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "Karsten Munk Knudsen bliver ny CEO for Lundbeckfonden og Lundbeckfond Invest fra 1. januar 2027",
+          "sourceUrls": [
+            "https://www.altinget.dk/jobskifte/lundbeckfonden-henter-ny-topchef-fra-novo-nordisk"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Han afløser Lene Skole, der fortsætter som bestyrelsesformand for Ørsted",
+          "sourceUrls": [
+            "https://www.altinget.dk/jobskifte/lundbeckfonden-henter-ny-topchef-fra-novo-nordisk"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Lundbeckfonden henter ny topchef fra Novo Nordisk",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/jobskifte/lundbeckfonden-henter-ny-topchef-fra-novo-nordisk",
+          "publishedAt": "2026-11-25T11:00:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-taxol-tobacco-20261126",
+      "eventKey": "copenhagen-taxol-tobacco-plant-breakthrough",
+      "materialFacts": [
+        "Forskere på Københavns Universitet har genskabt hele biosyntesevejen for kræftmidlet Taxol i tobaksplanter for første gang",
+        "Generne bag Taxol-biosyntesen blev overført fra takstræets bark til tobaksplanten Nicotiana benthamiana",
+        "Produktionen nåede niveauer sammenlignelige med Taxol-indholdet i naturlig takstræbark, publiceret i Nature Chemical Biology"
+      ],
+      "section": "Videnskab",
+      "headline": "Tobaksplante hjælper med at udvikle ny opskrift på kræftmedicin",
+      "primarySourceUrl": "https://videnskab.dk/krop-sundhed/tobaksplante-hjaelper-med-at-udvikle-ny-opskrift-paa-kraeftmedicin/",
+      "subheadline": "Et forskerhold fra Københavns Universitet har for første gang fået en tobaksplante til at producere hele kræftmidlet Taxol fra bunden.",
+      "body": [
+        "Et forskerhold fra Københavns Universitet under ledelse af Sotirios Kampranis har overført generne bag biosyntesen af kræftmidlet Taxol fra takstræets bark til tobaksplanten Nicotiana benthamiana og genskabt hele den kemiske opskrift i en levende værtsplante for første gang. Publiceret i Nature Chemical Biology.",
+        "Produktionen nåede niveauer sammenlignelige med det naturlige Taxol-indhold i takstræbark - råstoffet, lægemidlet traditionelt udvindes af i store, langsomtvoksende mængder."
+      ],
+      "whyItMatters": "Taxol bruges mod bryst-, æggestok- og nogle former for lungekræft, og forsyningen afhænger af langsomtvoksende takstræer. En hurtigere plantebaseret vej rammer en global flaskehals for et udbredt kræftmiddel.",
+      "analysis": "Det er endnu forskning, ikke en produktionsklar proces - men at flytte en biosyntesevej fra et træ til en hurtigtvoksende afgrøde er den metode, der historisk har gjort naturstoffer billigere.",
+      "topics": [
+        "videnskab",
+        "sundhed",
+        "biotek",
+        "Danmark"
+      ],
+      "entities": [
+        "Københavns Universitet",
+        "Sotirios Kampranis",
+        "Nicotiana benthamiana"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 65,
+        "decisionValue": 30,
+        "novelty": 78,
+        "sourceQuality": 85,
+        "personalRelevance": 25,
+        "contrast": 75
+      },
+      "claims": [
+        {
+          "text": "KU-forskere genskabte hele biosyntesevejen for Taxol i tobaksplanter for første gang, publiceret i Nature Chemical Biology",
+          "sourceUrls": [
+            "https://videnskab.dk/krop-sundhed/tobaksplante-hjaelper-med-at-udvikle-ny-opskrift-paa-kraeftmedicin/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Produktionen nåede niveauer sammenlignelige med naturligt Taxol-indhold i takstræbark",
+          "sourceUrls": [
+            "https://videnskab.dk/krop-sundhed/tobaksplante-hjaelper-med-at-udvikle-ny-opskrift-paa-kraeftmedicin/"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Tobaksplante hjælper med at udvikle ny opskrift på kræftmedicin",
+          "publisher": "Videnskab.dk",
+          "url": "https://videnskab.dk/krop-sundhed/tobaksplante-hjaelper-med-at-udvikle-ny-opskrift-paa-kraeftmedicin/",
+          "publishedAt": "2026-11-24T10:00:00Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://videnskab.dk/wp-content/uploads/2026/11/shutterstock-2291446715-1440x810.jpg",
+        "credit": "Arkivfoto: Shutterstock, via Videnskab.dk",
+        "alt": "Arkivfoto anvendt af Videnskab.dk til historien om Taxol-forskningen - illustrerer laboratoriearbejde med planter",
+        "sourceUrl": "https://videnskab.dk/krop-sundhed/tobaksplante-hjaelper-med-at-udvikle-ny-opskrift-paa-kraeftmedicin/"
+      }
+    },
+    {
+      "id": "story-zahra-headscarf-20261126",
+      "eventKey": "prosecutor-headscarf-ban",
+      "materialFacts": [
+        "Justitsminister Nicolai Wammen har bedt Rigsadvokaten udstede nye retningslinjer om, at offentlige anklagere ikke længere må bære religiøse hovedbeklædninger i retten",
+        "Reglen rammer konkret anklager Zahra Sediqi fra Statsadvokaten i Viborg, der bærer tørklæde på jobbet",
+        "Reglerne spejler de regler, der har gældt for dommere siden 2009"
+      ],
+      "section": "Danmark",
+      "headline": "Her er Zahra. Hun kan ikke længere være anklager i retten",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/her-er-zahra-hun-kan-ikke-laengere-vaere-anklager-i-retten",
+      "subheadline": "En ny ministeriel regel om religiøs neutralitet i retten tvinger anklager Zahra Sediqi til enten at tage tørklædet af eller skifte arbejdsopgaver.",
+      "body": [
+        "Justitsminister Nicolai Wammen har bedt Rigsadvokaten udarbejde nye retningslinjer om, at anklagere skal fremstå religiøst og politisk neutrale i retten - konkret betyder det, at tørklæde ikke længere må bæres i retsmøder. Reglerne spejler dem, der har gældt for dommere siden 2009.",
+        "Sagen opstod, efter anklager Zahra Sediqi fra Viborg på LinkedIn fortalte, hun var den første anklager med tørklæde på jobbet. - Jeg er meget berørt (...). Det begrænser ikke bare min, men kvinders muligheder på baggrund af deres religion, siger Sediqi til DR."
+      ],
+      "whyItMatters": "Sagen sætter et konkret menneske på en debat, der ellers føres principielt: hvor grænsen går mellem statens krav om upartiskhed og retten til at praktisere sin tro synligt på jobbet.",
+      "analysis": "At reglen kommer som interne retningslinjer frem for lovændring betyder, den kan ændres igen - men præcedensen fra dommerreglerne i 2009 taler for, at den bliver stående.",
+      "topics": [
+        "indland",
+        "retsvæsen",
+        "religion",
+        "politik"
+      ],
+      "entities": [
+        "Zahra Sediqi",
+        "Nicolai Wammen",
+        "Rigsadvokaten",
+        "Justitsministeriet"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 62,
+        "decisionValue": 25,
+        "novelty": 68,
+        "sourceQuality": 90,
+        "personalRelevance": 25,
+        "contrast": 70
+      },
+      "claims": [
+        {
+          "text": "Wammen har bedt Rigsadvokaten om nye retningslinjer, så anklagere ikke må bære religiøse hovedbeklædninger i retten",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/her-er-zahra-hun-kan-ikke-laengere-vaere-anklager-i-retten"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Reglerne spejler reglerne for dommere siden 2009",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/her-er-zahra-hun-kan-ikke-laengere-vaere-anklager-i-retten"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Zahra Sediqi: 'Jeg er meget berørt... Det begrænser ikke bare min, men kvinders muligheder på baggrund af deres religion'",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/her-er-zahra-hun-kan-ikke-laengere-vaere-anklager-i-retten"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Her er Zahra. Hun kan ikke længere være anklager i retten",
+          "publisher": "DR",
+          "url": "https://www.dr.dk/nyheder/indland/her-er-zahra-hun-kan-ikke-laengere-vaere-anklager-i-retten",
+          "publishedAt": "2026-11-25T11:35:24Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/oujpen2a/317.png?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Her er Zahra. Hun kan ikke længere være anklager i retten",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/her-er-zahra-hun-kan-ikke-laengere-vaere-anklager-i-retten"
+      }
+    },
+    {
+      "id": "story-eu-chips-act-20261126",
+      "eventKey": "eu-chips-act-20plus-investments-nov2026",
+      "materialFacts": [
+        "EU-Kommissionen har godkendt over 20 statsstøttebeslutninger under European Chips Act til first-of-a-kind halvlederfaciliteter",
+        "Beslutningerne udløser mere end 33 mia. euro i offentlig og privat investering",
+        "Et separat initiativ, European Chip Design Platform, lanceret 4. november, mobiliserer 525 mio. euro til europæiske chipdesign-virksomheder, der i dag har under 1 pct. af den globale omsætning i segmentet"
+      ],
+      "section": "EU-konkurrenceevne",
+      "headline": "Commission marks more than 20 investments to boost semiconductor supply",
+      "primarySourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-marks-more-20-investments-boost-semiconductor-supply",
+      "subheadline": "EU-Kommissionen har godkendt over 20 statsstøttesager til halvlederfabrikker, der tilsammen udløser mere end 33 milliarder euro i investeringer.",
+      "body": [
+        "EU-Kommissionen har godkendt mere end 20 statsstøttebeslutninger under European Chips Act til first-of-a-kind halvlederfaciliteter. Beslutningerne udløser tilsammen mere end 33 milliarder euro i offentlig og privat investering på tværs af EU.",
+        "Et separat initiativ, European Chip Design Platform, lanceret 4. november, mobiliserer 525 millioner euro til europæiske chipdesign-virksomheder - der i dag har under 1 pct. af den globale omsætning i segmentet."
+      ],
+      "whyItMatters": "Det er kvitteringen for, at Chips Act-pengene udmønter sig i fabriksbeslutninger og ikke bare hensigtserklæringer - tallet, man kan holde løfterne om europæisk halvlederuafhængighed op imod.",
+      "analysis": "33 milliarder euro skal ses i lyset af, at Asiens og USA's producenter investerer et mangefold af det årligt. Testen bliver, om fabrikkerne bygges til tiden, og om platformen lukker efterslæbet i europæisk designkapacitet.",
+      "topics": [
+        "eu-competitiveness",
+        "semiconductors",
+        "strategic-autonomy"
+      ],
+      "entities": [
+        "Europa-Kommissionen",
+        "European Chips Act",
+        "Henna Virkkunen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 58,
+        "decisionValue": 55,
+        "novelty": 62,
+        "sourceQuality": 85,
+        "personalRelevance": 60,
+        "contrast": 35
+      },
+      "claims": [
+        {
+          "text": "Kommissionen har godkendt over 20 statsstøttebeslutninger, der udløser over 33 mia. euro i investering",
+          "sourceUrls": [
+            "https://digital-strategy.ec.europa.eu/en/news/commission-marks-more-20-investments-boost-semiconductor-supply"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "European Chip Design Platform, lanceret 4. november, mobiliserer 525 mio. euro; europæiske chipdesignfirmaer har i dag under 1 pct. af den globale omsætning i segmentet",
+          "sourceUrls": [
+            "https://digital-strategy.ec.europa.eu/en/news/eu525-million-investment-set-drive-new-generation-european-chip-design-companies"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Commission marks more than 20 investments to boost semiconductor supply",
+          "publisher": "European Commission",
+          "url": "https://digital-strategy.ec.europa.eu/en/news/commission-marks-more-20-investments-boost-semiconductor-supply",
+          "publishedAt": "2026-11-17T10:00:00Z",
+          "kind": "primary"
+        },
+        {
+          "title": "€525 million investment set to drive new generation of European chip design companies",
+          "publisher": "European Commission",
+          "url": "https://digital-strategy.ec.europa.eu/en/news/eu525-million-investment-set-drive-new-generation-european-chip-design-companies",
+          "publishedAt": "2026-11-04T10:00:00Z",
+          "kind": "primary"
+        }
+      ],
+      "image": {
+        "url": "https://digital-strategy.ec.europa.eu/sites/default/files/styles/newsroom_large/public/newsroom/items/GettyImages_1058199852__monsitj_4_ScGzDUoUUVuqefMmyP6uxwLzKk_251183.jpg?itok=lqUfeSV6",
+        "credit": "Foto: Getty Images/monsitj, via Europa-Kommissionen",
+        "alt": "Arkivfoto af en kredsløbsplade, anvendt af Europa-Kommissionen som artikelbillede til historien om Chips Act-investeringerne",
+        "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-marks-more-20-investments-boost-semiconductor-supply"
+      }
+    },
+    {
+      "id": "story-horesta-danskerhverv-20261126",
+      "eventKey": "horesta-danskerhverv-fusion-di-rivalry",
+      "materialFacts": [
+        "HORESTAs repræsentantskab stemte 11. november for at lade organisationen integrere i Dansk Erhverv",
+        "HORESTA har 2.300 medlemmer i hotel-, restaurant- og turismebranchen; fusionen kommer 15 år efter de to organisationer skiltes",
+        "DI's turismechef bekræftede efterfølgende, at HORESTA også havde været i dialog med DI om en fusion, før valget faldt på Dansk Erhverv"
+      ],
+      "section": "Erhvervsorganisationer",
+      "headline": "Dansk Erhverv og HORESTA går sammen: Kæmpe styrkelse af turismeerhvervet",
+      "primarySourceUrl": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/november/dansk-erhverv-og-horesta-gar-sammen-kampe-styrkelse-af-turismeerhvervet/",
+      "subheadline": "HORESTA bliver en del af Dansk Erhverv 15 år efter de to organisationer skiltes - og DI bekræfter, at HORESTA også havde talt med dem først.",
+      "body": [
+        "HORESTAs repræsentantskab stemte 11. november med overvældende flertal for at lade organisationen - 2.300 medlemmer i hotel-, restaurant- og turismebranchen - integrere i Dansk Erhverv. Det sker 15 år efter, de to organisationer gik hver sin vej.",
+        "Dansk Erhverv har nu over 18.000 medlemsvirksomheder. DI's egen turismechef, Lars Bertolt Winther, bekræftede efterfølgende, at HORESTA også havde været i dialog med DI om en fusion, før valget faldt på Dansk Erhverv."
+      ],
+      "whyItMatters": "Fusionen flytter reelt styrkeforholdet mellem de store danske erhvervsorganisationer på et konkret område: hvem der fremover taler på vegne af turisme- og oplevelseserhvervet.",
+      "analysis": "At DI selv bekræfter at have været i spil som alternativ, er en sjælden offentlig indrømmelse af den konkurrence om medlemmer, der normalt foregår bag lukkede døre.",
+      "topics": [
+        "erhvervsorganisationer",
+        "DI",
+        "Dansk Erhverv",
+        "landskab"
+      ],
+      "entities": [
+        "Dansk Erhverv",
+        "HORESTA",
+        "Brian Mikkelsen",
+        "Dansk Industri",
+        "Lars Bertolt Winther"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 50,
+        "decisionValue": 45,
+        "novelty": 58,
+        "sourceQuality": 68,
+        "personalRelevance": 68,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "HORESTAs repræsentantskab stemte 11. november for integration i Dansk Erhverv",
+          "sourceUrls": [
+            "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/november/dansk-erhverv-og-horesta-gar-sammen-kampe-styrkelse-af-turismeerhvervet/"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "DI's turismechef Lars Bertolt Winther bekræftede, at HORESTA også havde været i dialog med DI om en fusion, og tager fusionen med sindsro",
+          "sourceUrls": [
+            "https://turistmonitor.dk/nyheder/politik/article19838484.ece"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Dansk Erhverv og HORESTA går sammen: Kæmpe styrkelse af turismeerhvervet",
+          "publisher": "Dansk Erhverv",
+          "url": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/november/dansk-erhverv-og-horesta-gar-sammen-kampe-styrkelse-af-turismeerhvervet/",
+          "publishedAt": "2026-11-11T08:00:00Z",
+          "kind": "primary"
+        },
+        {
+          "title": "»Det kan styrke vores profil«: DI's turismechef tager fusion af Dansk Erhverv og Horesta med sindsro",
+          "publisher": "Turistmonitor.dk",
+          "url": "https://turistmonitor.dk/nyheder/politik/article19838484.ece",
+          "publishedAt": "2026-11-19T14:06:20Z",
+          "kind": "reporting"
+        }
+      ],
+      "image": {
+        "url": "https://danskerhverv.imgix.net/contentassets/b1f579b2b45744fdaabc532a6c42766d/de-og-ho-900-MzZndUZPWmUvWnpOU0lOSFRMaWNGb05aTGlnPQ.jpg",
+        "credit": "Kilde: Dansk Erhverv",
+        "alt": "Dansk Erhverv og HORESTA går sammen: Kæmpe styrkelse af turismeerhvervet",
+        "sourceUrl": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/november/dansk-erhverv-og-horesta-gar-sammen-kampe-styrkelse-af-turismeerhvervet/"
+      }
+    }
+  ],
+  "signals": [
+    {
+      "text": "Norge slipper ny USA-toll inntil videre, men undersøkelsene fortsetter, skriver AP",
+      "headline": "Norge slipper ny USA-toll inntil videre, men undersøkelsene fortsetter, skriver AP",
+      "url": "https://e24.no/boers-og-finans/i/2vG2AG/norge-slipper-ny-usa-toll-inntil-videre-men-undersoekelsene-fortsetter-skriver-ap",
+      "publisher": "E24",
+      "section": "EU-USA-handel",
+      "publishedAt": "2026-11-25T12:00:00Z",
+      "summary": "Norge er ikke på USA's nye liste over toldramte lande, fordi undersøgelsen endnu ikke er afsluttet. Norges udenrigsminister kalder grundlaget ikke-eksisterende."
+    },
+    {
+      "text": "Store virksomheder dominerer dansk eksport",
+      "headline": "Store virksomheder dominerer dansk eksport",
+      "url": "https://www.dst.dk/da/Statistik/udgivelser/NytHtml?cid=58439",
+      "publisher": "Danmarks Statistik",
+      "section": "Dansk erhverv",
+      "publishedAt": "2026-11-18T07:00:00Z",
+      "summary": "Virksomheder med mindst 250 ansatte eksporterede varer for 496 mia. kr. i 2025, en stigning på 79 mia. kr. siden 2023, og står nu for over halvdelen af den samlede vareeksport."
+    },
+    {
+      "text": "Dansk Erhverv blandt Europas førende i dialogen med EU-Kommissionen",
+      "headline": "Dansk Erhverv blandt Europas førende i dialogen med EU-Kommissionen",
+      "url": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/november/dansk-erhverv-blandt-europas-forende-i-dialogen-med-eu-kommissionen",
+      "publisher": "Dansk Erhverv",
+      "section": "EU-konkurrenceevne",
+      "publishedAt": "2026-11-19T08:00:00Z",
+      "summary": "Dansk Erhverv rangerer som nr. 6 blandt europæiske erhvervsorganisationer i EUMatrix's Industry Association Engagement Index, højest i Skandinavien."
+    },
+    {
+      "text": "Næstformand i Landbrug og Fødevarer stopper",
+      "headline": "Næstformand i Landbrug og Fødevarer stopper",
+      "url": "https://www.altinget.dk/navnenyt/naestformand-i-landbrug-og-foedevarer-stopper",
+      "publisher": "Altinget",
+      "section": "Who is moving",
+      "publishedAt": "2026-11-20T08:00:00Z",
+      "summary": "Christian Høegh-Andersen genopstiller ikke og stopper som næstformand med øjeblikkelig virkning af familiemæssige årsager; ingen efterfølger er navngivet endnu."
+    },
+    {
+      "text": "DCU har taget et stort skridt, men er stadig ikke oppe af hullet",
+      "headline": "DCU har taget et stort skridt, men er stadig ikke oppe af hullet",
+      "url": "https://sport.tv2.dk/cykling/2026-11-25-dcu-har-taget-et-stort-skridt-men-er-stadig-ikke-oppe-af-hullet",
+      "publisher": "TV 2 Sport",
+      "section": "Cykling",
+      "publishedAt": "2026-11-25T10:00:00Z",
+      "summary": "Danmarks Cykle Union har indgået en fireårig hovedsponsoraftale med Nordea fra 2027, den største i forbundets historie, efter et underskud på 2,5 mio. kr. i 2025."
+    },
+    {
+      "text": "Absurd mål og kæmpe drop: United smider point i CL",
+      "headline": "Absurd mål og kæmpe drop: United smider point i CL",
+      "url": "https://sport.tv2.dk/live/fodbold/2026-11-25-absurd-maal-og-kaempe-drop-united-smider-point-i-cl",
+      "publisher": "TV 2 Sport",
+      "section": "Fodbold",
+      "publishedAt": "2026-11-25T21:00:00Z",
+      "summary": "Manchester United førte 2-1 over Sporting CP, men en målmandsfejl af Senne Lammens gav udligning sent - Pochettino er fortsat uden sejr i sin første uge som manager."
+    },
+    {
+      "text": "Pak sammen, makker - eksperter revser Højlund efter scoring og jubelscene mod City",
+      "headline": "Pak sammen, makker - eksperter revser Højlund efter scoring og jubelscene mod City",
+      "url": "https://sport.tv2.dk/fodbold/2026-11-25-pak-sammen-makker-eksperter-revser-hoejlund",
+      "publisher": "TV 2 Sport",
+      "section": "Fodbold",
+      "publishedAt": "2026-11-25T09:00:00Z",
+      "summary": "Rasmus Højlund scorede for Napoli mod Manchester City og fejrede med en kommentar om sin gamle klub - hvilket udløste skarp kritik fra CBS-eksperter."
+    },
+    {
+      "text": "Marie må droppe ud af skolen - hendes drøm er gået i opfyldelse",
+      "headline": "Marie må droppe ud af skolen - hendes drøm er gået i opfyldelse",
+      "url": "https://www.dr.dk/sporten/golf/marie-maa-droppe-ud-af-skolen-hendes-droem-er-gaaet-i-opfyldelse",
+      "publisher": "DR Sporten",
+      "section": "Golf",
+      "publishedAt": "2026-11-24T12:00:00Z",
+      "summary": "22-årige Marie Eline Madsen har kvalificeret sig til LPGA Touren og forlader sin uddannelse i USA for at spille golf på fuld tid - den syvende danske kvinde på touren."
+    },
+    {
+      "text": "I en alder af 23 år har Alcaraz gjort det Nadal aldrig formåede",
+      "headline": "I en alder af 23 år har Alcaraz gjort det Nadal aldrig formåede",
+      "url": "https://sport.tv2.dk/tennis/2026-11-23-i-en-alder-af-23-aar-har-alcaraz-gjort-det-nadal-aldrig-formaaede",
+      "publisher": "TV 2 Sport",
+      "section": "Tennis",
+      "publishedAt": "2026-11-23T18:00:00Z",
+      "summary": "Carlos Alcaraz vandt ATP Finals i Torino og blev som 23-årig kun den fjerde herrespiller til at vinde både sæsonfinalen og alle fire Grand Slam-titler."
+    },
+    {
+      "text": "Over 800.000 har feriepenge til gode - tjek det før nytår",
+      "headline": "Over 800.000 har feriepenge til gode - tjek det før nytår",
+      "url": "https://www.dr.dk/nyheder/indland/over-800-000-har-feriepenge-til-gode-tjek-det-foer-nytaar",
+      "publisher": "DR",
+      "section": "Danmark",
+      "publishedAt": "2026-11-25T08:00:00Z",
+      "summary": "Over 800.000 lønmodtagere har samlet 4,4 milliarder kroner i ikke-udbetalt feriepenge for ferieåret 2025/2026 - ferie skal afholdes eller anmodes om inden nytår."
+    },
+    {
+      "text": "Toårig død efter grov vold - nu opgiver statsanklageren sigtelsen",
+      "headline": "Toårig død efter grov vold - nu opgiver statsanklageren sigtelsen",
+      "url": "https://nyheder.tv2.dk/krimi/2026-11-25-toaarig-doed-efter-grov-vold-nu-opgiver-statsanklageren-sigtelsen",
+      "publisher": "TV 2",
+      "section": "Krimi",
+      "publishedAt": "2026-11-25T12:00:00Z",
+      "summary": "En toårig dreng i familiepleje døde for knap to år siden af grov vold. Statsanklageren opgiver nu sigtelsen, fordi ansvaret ikke kan placeres hos nogen af de to sigtede."
+    },
+    {
+      "text": "Markant udvikling i antallet af tyskere i Sønderjylland",
+      "headline": "Markant udvikling i antallet af tyskere i Sønderjylland",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-25-markant-udvikling-i-antallet-af-tyskere-i-soenderjylland",
+      "publisher": "TV 2",
+      "section": "Danmark",
+      "publishedAt": "2026-11-25T06:00:00Z",
+      "summary": "1.335 tyskere flyttede til Region Syddanmark på et år, og det tyske befolkningstal i regionen er steget 48 pct. siden 2022 - primært for billigere boliger og natur, ikke arbejde."
+    },
+    {
+      "text": "Statens Serum Institut: Influenza-sæsonen er startet",
+      "headline": "Statens Serum Institut: Influenza-sæsonen er startet",
+      "url": "https://www.dr.dk/nyheder/indland/statens-serum-institut-influenza-saesonen-er-startet",
+      "publisher": "DR",
+      "section": "Sundhed",
+      "publishedAt": "2026-11-24T09:00:00Z",
+      "summary": "SSI bekræfter, at influenza- og covid-19-sæsonen er startet; omkring 1,3 millioner danskere er inviteret til vaccination, men tilslutningen er lavere blandt de 65+ årige."
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-lagarde-acting-in-time-20261126",
+      "mode": "listen",
+      "kind": "keynote speech",
+      "status": "new",
+      "title": "Acting in time",
+      "creator": "Christine Lagarde",
+      "provider": "European Central Bank",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
+      "availability": "Holdt 20. november 2026, fuld tekst frit tilgængelig på ecb.europa.eu",
+      "commitment": "20-30 minutter læsning",
+      "description": "ECB-formand Christine Lagarde taler usædvanligt direkte om, hvordan Europa skal svare på våbengjorte økonomiske afhængigheder og bygge konkurrenceevne på egne styrker.",
+      "rationale": "En centralbankchef, der taler lige så konkret om strategisk afhængighed som om renter, rammer midt i den EU-konkurrenceevnedebat, du har siddet i fra Bruxelles-siden - og den er kort nok til en formiddagskaffe.",
+      "topics": [
+        "EU",
+        "geopolitik",
+        "økonomi",
+        "konkurrenceevne"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Christine_Lagarde_in_2024_%28cropped%29.jpg",
+        "credit": "Foto: Daniel Novakovič, Wikimedia Commons (public domain)",
+        "alt": "Christine Lagarde, formand for Den Europæiske Centralbank",
+        "sourceUrl": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html"
+      }
+    },
+    {
+      "id": "rec-queen-of-chess-20261126",
+      "mode": "watch",
+      "kind": "dokumentarfilm",
+      "status": "available",
+      "title": "Queen of Chess",
+      "creator": "Rory Kennedy",
+      "provider": "Netflix",
+      "url": "https://www.netflix.com/title/81749912",
+      "availability": "Streamer nu på Netflix",
+      "commitment": "ca. 100 minutter",
+      "description": "Dokumentar om Judit Polgár, der tog kampen op mod Garry Kasparov og skakverdenens etablissement og blev historiens stærkeste kvindelige spiller.",
+      "rationale": "Ren serendipitet uden for din normale lytteflade: en fortælling om at udkonkurrere en dominerende modstander gennem forberedelse og nerver - let at gå til en aften uden dagsorden.",
+      "topics": [
+        "kultur",
+        "sport",
+        "biografi"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-how-to-win-trade-war-20261126",
+      "mode": "read",
+      "kind": "bog",
+      "status": "available",
+      "title": "How to Win a Trade War: An Optimistic Guide to an Anxious Global Economy",
+      "creator": "Soumaya Keynes og Chad P. Bown",
+      "provider": "Pan Macmillan",
+      "url": "https://www.panmacmillan.com/authors/soumaya-keynes/how-to-win-a-trade-war/9781035090181",
+      "availability": "Udgivet 2026, i tryk og som e-bog",
+      "commitment": "288 sider",
+      "description": "En FT-klummeskribent og en tidligere cheføkonom i det amerikanske udenrigsministerium gennemgår historien, aktørerne og taktikkerne bag en handelsorden, der er brudt sammen.",
+      "rationale": "Skrevet af folk, der har siddet begge steder - journalistik og regering - på præcis den sag du selv har forhandlet fra den europæiske side; den praktiske modpart til dagens toldhistorie.",
+      "topics": [
+        "handel",
+        "geopolitik",
+        "økonomi"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-animoid-lislegaard-20261126",
+      "mode": "experience",
+      "kind": "kunstudstilling",
+      "status": "available",
+      "title": "ANIMOID",
+      "creator": "Ann Lislegaard",
+      "provider": "ARKEN Museum for Moderne Kunst",
+      "url": "https://www.arken.dk/en/exhibitions/ann-lislegaard",
+      "availability": "24. september 2026 - 29. marts 2027, ARKEN, Ishøj",
+      "commitment": "1-1,5 time",
+      "description": "Lislegaards første store danske soloudstilling: science fiction-inspireret 3D-animation, lyd- og lysinstallationer om digital teknologi og feministisk fremtidstænkning.",
+      "rationale": "En mindre, mere excentrisk modvægt til tekst og tal denne uge - kunst, der konkret handler om simulerede sind og digitale fremtider, med en sidevej ind i din AI-interesse.",
+      "topics": [
+        "kunst",
+        "teknologi",
+        "kultur"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {
+    "sourceCoverage": 84,
+    "freshness": 88,
+    "novelty": 72,
+    "perspectiveBalance": 65,
+    "render": 100
+  }
+}
