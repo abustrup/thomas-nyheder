@@ -1,0 +1,748 @@
+{
+  "schemaVersion": 1,
+  "kind": "daily",
+  "runId": "thomas-20261127-full",
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T05:23:25Z",
+  "readingMinutes": 10,
+  "title": "Thomas' Nyheder",
+  "dek": "ECB skifter formand, danske politikere tvivler på milliarddyre fregatter, og et norsk flyselskab kæmper for at overleve.",
+  "profileWeights": {
+    "importance": 25,
+    "decisionValue": 20,
+    "novelty": 15,
+    "sourceQuality": 15,
+    "personalRelevance": 15,
+    "contrast": 10
+  },
+  "stories": [
+    {
+      "id": "story-ecb-hernandez-de-cos-20261127",
+      "eventKey": "ecb-hernandez-de-cos-nomination",
+      "materialFacts": [
+        "EU-landene er blevet enige om at nominere spanieren Pablo Hernández de Cos til ny formand for ECB.",
+        "Christine Lagarde stopper 7. februar 2027, før hendes periode udløber i oktober 2027.",
+        "Laurence Boone (Frankrig) nomineres til chef for markedsoperationer, Markus Brunnermeier (Tyskland) til cheføkonom."
+      ],
+      "section": "udland",
+      "headline": "EU-lande er enige om at pege på spanier som ny chef for ECB",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/seneste/eu-lande-er-enige-om-pege-paa-spanier-som-ny-chef-ecb",
+      "subheadline": "Pablo Hernández de Cos skal afløse Christine Lagarde som formand for Den Europæiske Centralbank, der sætter renten for hele eurozonen.",
+      "body": [
+        "EU-landene har aftalt at udpege spanieren Pablo Hernández de Cos, tidligere chef for den spanske centralbank, som ny formand for Den Europæiske Centralbank - den institution, der fastsætter renten for hele eurozonen og dermed, via den danske fastkurspolitik, også retningen for Nationalbankens rente.",
+        "Hernández de Cos skal afløse Christine Lagarde, der stopper 7. februar 2027, før hendes embedsperiode udløber i oktober samme år. Samtidig nomineres franskmanden Laurence Boone til chef for ECB's markedsoperationer, og tyskeren Markus Brunnermeier bliver cheføkonom."
+      ],
+      "whyItMatters": "Nationalbanken følger ECB's rente tæt for at holde kronen fast, så et skifte i Frankfurt kan ændre tempoet i rentebevægelser - og dermed vilkårene for dansk eksport i 2027.",
+      "analysis": "Hernández de Cos er en forsigtig teknokrat, hvilket peger mod kontinuitet i ECB's linje. At markedsoperationer og cheføkonom-posten samtidig går til Frankrig og Tyskland, viser dog, at udpegningen også afspejler intern magtbalance mellem de store medlemslande.",
+      "counterpoint": "Meldingen kommer fra Frankrigs præsident Macron, ifølge Reuters - ikke fra en formel EU- eller ECB-udmelding.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/hwxlbuo0/20261126-165109-4.jpg",
+        "credit": "Kilde: EPA/Ritzau Scanpix, foto: Rodrigo Jimenez",
+        "alt": "Pablo Hernández de Cos, nomineret til ny formand for Den Europæiske Centralbank. Arkivfoto.",
+        "sourceUrl": "https://www.dr.dk/nyheder/seneste/eu-lande-er-enige-om-pege-paa-spanier-som-ny-chef-ecb"
+      },
+      "topics": [
+        "makrooekonomi",
+        "institutioner",
+        "eu",
+        "who-is-moving"
+      ],
+      "entities": [
+        "Pablo Hernández de Cos",
+        "Christine Lagarde",
+        "ECB",
+        "Emmanuel Macron",
+        "Laurence Boone",
+        "Markus Brunnermeier"
+      ],
+      "isLead": true,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 88,
+        "decisionValue": 60,
+        "novelty": 80,
+        "sourceQuality": 85,
+        "personalRelevance": 75,
+        "contrast": 40
+      },
+      "claims": [
+        {
+          "text": "EU-landene har aftalt at udpege Pablo Hernández de Cos som ny formand for ECB, som afløser for Christine Lagarde, der stopper 7. februar 2027.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/seneste/eu-lande-er-enige-om-pege-paa-spanier-som-ny-chef-ecb"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Laurence Boone (Frankrig) nomineres til chef for markedsoperationer, og Markus Brunnermeier (Tyskland) nomineres til cheføkonom i ECB.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/seneste/eu-lande-er-enige-om-pege-paa-spanier-som-ny-chef-ecb"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "EU-lande er enige om at pege på spanier som ny chef for ECB",
+          "publisher": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/seneste/eu-lande-er-enige-om-pege-paa-spanier-som-ny-chef-ecb",
+          "publishedAt": "2026-11-26T16:06:17Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-fregat-drone-tvivl-20261127",
+      "eventKey": "fregatkoeb-tvivl-droner",
+      "materialFacts": [
+        "Ukrainske sødroner har sænket et russisk krigsskib.",
+        "DF's Alex Ahrendtsen mener, Danmark kan nøjes med to fregatter i stedet for tre.",
+        "Tidligere forsvarschef Christian Hvidt kalder brug af fregatter i Østersøen under krig ekstremt sårbart.",
+        "Forsvarsminister Jeppe Bruus (S) siger, beslutningen kræver en grundig analyse og er skubbet fra den oprindelige julefrist."
+      ],
+      "section": "indland",
+      "headline": "Russisk krigsskib blev sænket – nu vil politikere genoverveje dansk milliardkøb",
+      "primarySourceUrl": "https://nyheder.tv2.dk/2026-11-26-truslen-om-droner-skaber-tvivl-om-milliarddyre-fregatter-til-forsvaret",
+      "subheadline": "Et sænket russisk krigsskib har sat gang i en debat om, hvorvidt Danmark skal købe mindst tre fregatter til omkring 10 mia. kr. hver.",
+      "body": [
+        "Ukrainske sødroner har sænket et russisk krigsskib, og det har fået politikere til at genoverveje et fregatkøb. DF's Alex Ahrendtsen vil revurdere planen om tre fregatter á ca. 10 mia. kr.: »Hvis der kun er brug for dem til Nordatlanten, så kan vi klare os med to fregatter i stedet for tre,« siger han.",
+        "Tidligere forsvarschef Christian Hvidt kalder det sårbart at bruge fregatter i Østersøen under krig. Forsvarsminister Jeppe Bruus (S) siger, planen kræver mere analyse; beslutningen, ventet inden jul, er skubbet."
+      ],
+      "whyItMatters": "Fregatkøbet er en af de største enkeltinvesteringer i dansk forsvarsmateriel i mange år og rejser spørgsmålet om, hvor meget af budgettet der skal gå til dyre platforme frem for billige droner.",
+      "analysis": "Sagen viser, at krigen i Ukraine ændrer synet på fremtidssikret materiel. Et flådefartøj sænket af billig droneteknologi gør debatten industripolitisk såvel som militærteknisk.",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/c/b/4/cb429cee-ccf9-4100-b3ed-5fe03554d241?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCwzMDAsMjg1NiwxNjA4&s=350557735edea88dd5a90d6ef864d7ab",
+        "credit": "Kilde: TV 2",
+        "alt": "Et dansk flådefartøj af den type, debatten om fregatkøb handler om.",
+        "sourceUrl": "https://nyheder.tv2.dk/2026-11-26-truslen-om-droner-skaber-tvivl-om-milliarddyre-fregatter-til-forsvaret"
+      },
+      "topics": [
+        "forsvar",
+        "danmark",
+        "sikkerhed",
+        "geopolitik"
+      ],
+      "entities": [
+        "Jeppe Bruus",
+        "Alex Ahrendtsen",
+        "Christian Hvidt",
+        "Forsvaret",
+        "Naval Group"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 65,
+        "decisionValue": 35,
+        "novelty": 65,
+        "sourceQuality": 85,
+        "personalRelevance": 25,
+        "contrast": 45
+      },
+      "claims": [
+        {
+          "text": "DF's Alex Ahrendtsen siger, Danmark kan klare sig med to fregatter i stedet for tre, hvis de kun skal bruges i Nordatlanten.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/2026-11-26-truslen-om-droner-skaber-tvivl-om-milliarddyre-fregatter-til-forsvaret"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Forsvarsminister Jeppe Bruus siger, at fregatbeslutningen stadig udestår og kræver yderligere analyse.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/2026-11-26-truslen-om-droner-skaber-tvivl-om-milliarddyre-fregatter-til-forsvaret"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Russisk krigsskib blev sænket – nu vil politikere genoverveje dansk milliardkøb",
+          "publisher": "TV 2",
+          "url": "https://nyheder.tv2.dk/2026-11-26-truslen-om-droner-skaber-tvivl-om-milliarddyre-fregatter-til-forsvaret",
+          "publishedAt": "2026-11-27T04:32:41Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-thorning-fh-20261127",
+      "eventKey": "thorning-fh-kommunikationschef",
+      "materialFacts": [
+        "Camilla Thorning var i knap 21 år tilknyttet DR, blandt andet som vært på Deadline.",
+        "Hun har siden 2019 haft kommunikationsposter i Finans Danmark og Landbrug & Fødevarer.",
+        "Hun bliver kommunikationsdirektør i FH fra 1. januar 2027."
+      ],
+      "section": "erhverv",
+      "headline": "Tidligere DR-vært har arbejdet for finanssektoren og landbruget. Nu skal hun sælge fagbevægelsen",
+      "primarySourceUrl": "https://www.altinget.dk/jobskifte/tidligere-dr-vaert-bliver-kommunikationschef-i-fh",
+      "subheadline": "Camilla Thorning, tidligere vært på DR Deadline, bliver ny kommunikationsdirektør i FH fra 1. januar 2027.",
+      "body": [
+        "Camilla Thorning, der i knap 21 år var tilknyttet DR - blandt andet som vært på Deadline - bliver kommunikationsdirektør i FH fra 1. januar 2027.",
+        "Siden 2019 har hun haft kommunikationsposter hos Finans Danmark og Landbrug & Fødevarer. »Jeg glæder mig til at skabe endnu større synlighed om landets lønmodtagere,« skriver hun ifølge Altinget på LinkedIn."
+      ],
+      "whyItMatters": "Rekrutteringen er en temperaturmåler for, hvor erfarne kommunikationsfolk fra interesseorganisationerne bevæger sig hen - på tværs af arbejdsgiver- og lønmodtagerside, mens FH skal forhandle overenskomster.",
+      "analysis": "At FH henter en profil med baggrund i DR, finanssektoren og landbruget, signalerer et ønske om at nå bredere end traditionelt fagbevægelsessprog - og hvor få erfarne kommunikationsprofiler der findes på dette niveau.",
+      "topics": [
+        "who-is-moving",
+        "erhverv",
+        "danmark"
+      ],
+      "entities": [
+        "Camilla Thorning",
+        "FH",
+        "Finans Danmark",
+        "Landbrug & Fødevarer",
+        "DR"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 35,
+        "decisionValue": 55,
+        "novelty": 50,
+        "sourceQuality": 75,
+        "personalRelevance": 70,
+        "contrast": 15
+      },
+      "claims": [
+        {
+          "text": "Camilla Thorning bliver kommunikationsdirektør i FH fra 1. januar 2027, efter næsten 21 år på DR og siden 2019 poster i Finans Danmark og Landbrug & Fødevarer.",
+          "sourceUrls": [
+            "https://www.altinget.dk/jobskifte/tidligere-dr-vaert-bliver-kommunikationschef-i-fh"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Tidligere DR-vært har arbejdet for finanssektoren og landbruget. Nu skal hun sælge fagbevægelsen",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/jobskifte/tidligere-dr-vaert-bliver-kommunikationschef-i-fh",
+          "publishedAt": "2026-11-25T12:25:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-norse-atlantic-20261127",
+      "eventKey": "norse-atlantic-airways-finanskrise",
+      "materialFacts": [
+        "Norse Atlantic Airways har udsendt en krisemelding om akut behov for penge.",
+        "Selskabets aktie er kollapset.",
+        "Selskabet har ifølge andre E24-artikler ikke betalt løn til ansatte, og flyvninger er aflyst."
+      ],
+      "section": "erhverv",
+      "headline": "Krisemelding fra Norse: Trenger penger raskt",
+      "primarySourceUrl": "https://e24.no/boers-og-finans/i/ARdGV5/krisemelding-fra-norse-trenger-penger-raskt",
+      "subheadline": "Det norske flyselskab Norse Atlantic Airways melder om akut pengenød, og aktien er kollapset.",
+      "body": [
+        "Det norske langdistanceflyselskab Norse Atlantic Airways har udsendt en krisemelding om akut pengenød. Aktien er kollapset på den norske børs, og flere flyvninger er aflyst.",
+        "Krisen følger en periode, hvor selskabet ifølge andre E24-artikler ikke har kunnet udbetale løn til sine ansatte. Norse flyver ruter til Europa, USA, Thailand og Sydafrika, og en konkurs vil ramme rejsende og medarbejdere i flere lande."
+      ],
+      "whyItMatters": "Norse Atlantic er et af få lavprisselskaber på langdistanceruter fra Norden, og et sammenbrud rammer ansatte og rejsende med kort varsel.",
+      "analysis": "Lavprisselskaber på langdistanceruter har historisk svært ved stabil indtjening, fordi brændstof- og flyomkostninger er høje. At løn og aktiekurs er under pres samtidig, tyder på en grundlæggende udfordring for forretningsmodellen.",
+      "image": {
+        "url": "https://akamai.vgc.no/v2/images/c6fbf96f-74fb-31d4-9a81-83a32bc2bab7?fit=crop&h=675&upscale=true&w=1200&s=b5b3346b04f4fc6e855502787cd1210c85aaed1c",
+        "credit": "Kilde: E24",
+        "alt": "Et Norse Atlantic Airways-fly. Selskabet melder om akut pengenød.",
+        "sourceUrl": "https://e24.no/boers-og-finans/i/ARdGV5/krisemelding-fra-norse-trenger-penger-raskt"
+      },
+      "topics": [
+        "erhverv",
+        "danmark",
+        "markeder"
+      ],
+      "entities": [
+        "Norse Atlantic Airways"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 45,
+        "decisionValue": 40,
+        "novelty": 55,
+        "sourceQuality": 80,
+        "personalRelevance": 50,
+        "contrast": 20
+      },
+      "claims": [
+        {
+          "text": "Norse Atlantic Airways har meldt akut behov for finansiering, og aktien er kollapset.",
+          "sourceUrls": [
+            "https://e24.no/boers-og-finans/i/ARdGV5/krisemelding-fra-norse-trenger-penger-raskt"
+          ],
+          "confidence": "high"
+        },
+        {
+          "text": "Selskabet har ikke betalt løn til sine ansatte.",
+          "sourceUrls": [
+            "https://e24.no/boers-og-finans/i/5309R6/norse-har-ikke-betalt-loenn-til-ansatte"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Krisemelding fra Norse: Trenger penger raskt",
+          "publisher": "E24",
+          "url": "https://e24.no/boers-og-finans/i/ARdGV5/krisemelding-fra-norse-trenger-penger-raskt",
+          "publishedAt": "2026-11-25T07:58:35Z",
+          "kind": "primary"
+        },
+        {
+          "title": "Norse har ikke betalt lønn til ansatte",
+          "publisher": "E24",
+          "url": "https://e24.no/boers-og-finans/i/5309R6/norse-har-ikke-betalt-loenn-til-ansatte",
+          "publishedAt": "2026-11-26T10:44:00Z",
+          "kind": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "story-skatteaftale-aendres-20261127",
+      "eventKey": "regeringen-aendrer-skatteaftale-fratraedelse",
+      "materialFacts": [
+        "Regeringen ændrer en skattereform 14 dage efter vedtagelse.",
+        "Den skattefri bundgrænse for fratrædelsesgodtgørelse var sænket fra 8.000 til 1.000 kr.",
+        "Fratrædelsesgodtgørelse knyttet til uretmæssig afskedigelse undtages nu."
+      ],
+      "section": "indland",
+      "headline": "Regeringen vil ændre skatteaftale efter blot 14 dage: 'Det har aldrig været intentionen'",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/indland/regeringen-vil-aendre-skatteaftale-efter-blot-14-dage-det-har-aldrig-vaeret-intentionen",
+      "subheadline": "Fagforeningen HK fik regeringen til at ændre en skatteaftale, der ville have gjort fratrædelsesgodtgørelse til uretmæssigt afskedigede markant dyrere i skat.",
+      "body": [
+        "Regeringen vil ændre en skattereform blot 14 dage efter vedtagelsen, efter at HK kritiserede, at loven sænkede den skattefri bundgrænse for fratrædelsesgodtgørelse og gaver fra 8.000 til 1.000 kr. Kritikken gik på, at ændringen ramte uretmæssigt afskedigede og ofre for krænkelser på arbejdspladsen.",
+        "Regeringen erkender fejlen og siger, den skærpede beskatning aldrig var tiltænkt denne gruppe. Fratrædelsesgodtgørelse knyttet til uretmæssig afskedigelse undtages nu fra den lavere bundgrænse."
+      ],
+      "whyItMatters": "Sagen viser, hvor hurtigt en skattelov kan få utilsigtede konsekvenser for en bestemt gruppe - og hvor hurtigt det kan rettes, når gruppen har en organiseret stemme.",
+      "analysis": "At regeringen ændrer kurs på 14 dage, uden det var varslet i debatten op til vedtagelsen, peger på en proces, hvor konsekvenserne ikke blev fuldt belyst før afstemningen - en teknisk rettelse snarere end en politisk krise.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/f0edqiae/20261112-124442-1.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Folketinget, hvor skatteaftalen om fratrædelsesgodtgørelse blev vedtaget og nu ændres.",
+        "sourceUrl": "https://www.dr.dk/nyheder/indland/regeringen-vil-aendre-skatteaftale-efter-blot-14-dage-det-har-aldrig-vaeret-intentionen"
+      },
+      "topics": [
+        "danmark",
+        "erhverv",
+        "makrooekonomi"
+      ],
+      "entities": [
+        "HK",
+        "regeringen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 45,
+        "decisionValue": 40,
+        "novelty": 55,
+        "sourceQuality": 85,
+        "personalRelevance": 45,
+        "contrast": 25
+      },
+      "claims": [
+        {
+          "text": "Regeringen ændrer skatteaftalen 14 dage efter vedtagelse, efter HK's kritik af den sænkede skattefri bundgrænse for fratrædelsesgodtgørelse.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/indland/regeringen-vil-aendre-skatteaftale-efter-blot-14-dage-det-har-aldrig-vaeret-intentionen"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Regeringen vil ændre skatteaftale efter blot 14 dage: 'Det har aldrig været intentionen'",
+          "publisher": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/indland/regeringen-vil-aendre-skatteaftale-efter-blot-14-dage-det-har-aldrig-vaeret-intentionen",
+          "publishedAt": "2026-11-26T20:00:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-eu-dom-sejlads-20261127",
+      "eventKey": "danmark-eu-dom-sejladskvalifikationer",
+      "materialFacts": [
+        "Danmark har tabt en sag ved EU-Domstolen om erhvervskvalifikationer for sejlads på indre vandveje.",
+        "Danmark nægtede at implementere reglerne siden 2022 og risikerede dagbøder over 150.000 kr.",
+        "Erhvervsminister Martin Lidegaard gennemfører nu lovgivningen."
+      ],
+      "section": "eu",
+      "headline": "Danmark retter ind efter EU-dom",
+      "primarySourceUrl": "https://www.altinget.dk/eu/artikel/danmark-retter-ind-efter-eu-dom",
+      "subheadline": "Efter at have nægtet siden 2022, gennemfører Danmark nu EU-regler om kvalifikationer for sejlads på indre vandveje, efter at have tabt ved EU-Domstolen.",
+      "body": [
+        "Danmark har tabt en sag ved EU-Domstolen og indfører nu lovgivning om erhvervskvalifikationer for sejlads på indre vandveje som Gudenåen. Erhvervsminister Martin Lidegaard implementerer reglerne, efter Danmark siden 2022 havde nægtet at gennemføre dem.",
+        "Det langvarige afslag har betydet en risiko for daglige bøder over 150.000 kr. fra EU-Kommissionen. Sagen er endnu et eksempel på, at Danmark - der markedsfører sig som regelefterlevende - har trukket et EU-direktiv i flere år, før en dom tvang en afgørelse."
+      ],
+      "whyItMatters": "Sager som denne er små i sig selv, men en konkret måling af den implementeringsfriktion, der optager DI og BusinessEurope i debatten om EU's konkurrenceevne.",
+      "analysis": "At striden har kørt siden 2022 uden politisk opmærksomhed, viser, hvor meget teknisk EU-implementering sker under radaren. Nogle byrder skyldes medlemslandenes egen forsinkelse, ikke Bruxelles' regeliver.",
+      "topics": [
+        "eu",
+        "erhverv",
+        "konkurrenceevne"
+      ],
+      "entities": [
+        "Martin Lidegaard",
+        "EU-Domstolen"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 25,
+        "decisionValue": 30,
+        "novelty": 40,
+        "sourceQuality": 75,
+        "personalRelevance": 45,
+        "contrast": 15
+      },
+      "claims": [
+        {
+          "text": "Danmark har tabt en sag ved EU-Domstolen om erhvervskvalifikationer for sejlads på indre vandveje og gennemfører nu lovgivningen efter at have nægtet siden 2022.",
+          "sourceUrls": [
+            "https://www.altinget.dk/eu/artikel/danmark-retter-ind-efter-eu-dom"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Danmark retter ind efter EU-dom",
+          "publisher": "Altinget",
+          "url": "https://www.altinget.dk/eu/artikel/danmark-retter-ind-efter-eu-dom",
+          "publishedAt": "2026-11-26T20:10:00Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-hjemmeroveri-broenshoej-20261127",
+      "eventKey": "hjemmeroveri-broenshoej-teenagere",
+      "materialFacts": [
+        "Københavns Politi har sigtet otte teenagere (15-18 år) for hjemmerøveri i Brønshøj.",
+        "Tre kvinder blev tvunget ned i en sofa og truet med pistoler og kniv.",
+        "Cirka 67.000 kr. blev stjålet."
+      ],
+      "section": "krimi",
+      "headline": "Unge sigtes for hjemmerøveri: Kvinder blev sat i sofa og truet med pistoler",
+      "primarySourceUrl": "https://nyheder.tv2.dk/krimi/2026-11-26-unge-sigtes-for-hjemmeroeveri-kvinder-blev-sat-i-sofa-og-truet-med-pistoler",
+      "subheadline": "Otte teenagere er sigtet for et bevæbnet hjemmerøveri i Brønshøj, hvor tre kvinder blev holdt op med pistoler og kniv.",
+      "body": [
+        "Københavns Politi har sigtet otte teenagere mellem 15 og 18 år for et hjemmerøveri i Brønshøj den 12. november. Maskerede og bevæbnede gerningsmænd tvang tre kvinder ned i en sofa og truede dem med pistoler og en kniv, mens de gennemsøgte boligen.",
+        "Gerningsmændene stjal omkring 67.000 kr. - 15.000 kr. i danske kontanter og 7.000 euro. Sigtelserne kommer to uger efter episoden, og sagen er et af flere seneste eksempler på bevæbnede hjemmerøverier udført af meget unge gerningsmænd i hovedstadsområdet."
+      ],
+      "whyItMatters": "Sagen illustrerer en bekymrende tendens: at stadig yngre gerningsmænd er villige til at bruge skydevåben i direkte konfrontation med ofre i deres eget hjem.",
+      "analysis": "At otte personer er sigtet for en enkelt forbrydelse, og at de er så unge, rejser spørgsmål om rekruttering til kriminalitet og adgangen til skydevåben blandt teenagere i Københavnsområdet.",
+      "image": {
+        "url": "https://cdn-free.tv2i.dk/e/d/i/editorial/0/a/c/0ac3fac1-15f5-4049-be6d-97520b666f61?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=ODgsNDAzLDM1NTgsMjAwMg&s=380dcf893a4379c0029aa650e1b501ea",
+        "credit": "Kilde: TV 2",
+        "alt": "Politiafspærring, illustrativt billede til sagen om hjemmerøveriet i Brønshøj.",
+        "sourceUrl": "https://nyheder.tv2.dk/krimi/2026-11-26-unge-sigtes-for-hjemmeroeveri-kvinder-blev-sat-i-sofa-og-truet-med-pistoler"
+      },
+      "topics": [
+        "danmark",
+        "sikkerhed"
+      ],
+      "entities": [
+        "Københavns Politi"
+      ],
+      "isLead": false,
+      "isOutsideProfile": true,
+      "scores": {
+        "importance": 35,
+        "decisionValue": 15,
+        "novelty": 50,
+        "sourceQuality": 80,
+        "personalRelevance": 5,
+        "contrast": 20
+      },
+      "claims": [
+        {
+          "text": "Otte teenagere er sigtet for et bevæbnet hjemmerøveri i Brønshøj den 12. november, hvor ca. 67.000 kr. blev stjålet.",
+          "sourceUrls": [
+            "https://nyheder.tv2.dk/krimi/2026-11-26-unge-sigtes-for-hjemmeroeveri-kvinder-blev-sat-i-sofa-og-truet-med-pistoler"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Unge sigtes for hjemmerøveri: Kvinder blev sat i sofa og truet med pistoler",
+          "publisher": "TV 2",
+          "url": "https://nyheder.tv2.dk/krimi/2026-11-26-unge-sigtes-for-hjemmeroeveri-kvinder-blev-sat-i-sofa-og-truet-med-pistoler",
+          "publishedAt": "2026-11-26T08:26:13Z",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "id": "story-dk-elbilskaploeb-20261127",
+      "eventKey": "danmark-eu-elbilskaploeb-oktober",
+      "materialFacts": [
+        "29,8 pct. af nye bilregistreringer i EU i oktober var elbiler.",
+        "I Danmark udgjorde elbiler 88,4 pct. af nybilsalget, op 62 pct. år til år.",
+        "Mobility Denmark opfordrer til permanent afskaffelse af registreringsafgiften på elbiler."
+      ],
+      "section": "erhverv",
+      "headline": "Danmark bevarer føringen i EU's elbilskapløb",
+      "primarySourceUrl": "https://www.dr.dk/nyheder/penge/danmark-bevarer-foeringen-i-eu-s-elbilskaploeb",
+      "subheadline": "Danmark er fortsat EU's mest elektrificerede bilmarked, med elbiler i 88,4 pct. af nybilsalget i oktober.",
+      "body": [
+        "29,8 pct. af omkring 940.000 nye bilregistreringer i EU i oktober var elbiler, viser brancheorganisationen Mobility Denmarks tal. Danmark er fortsat det mest elektrificerede marked i unionen: elbiler udgjorde 88,4 pct. af det danske nybilsalg, en stigning på 62 pct. år til år.",
+        "Branchedirektør Mads Rørvig opfordrer til en permanent afskaffelse af registreringsafgiften på elbiler for at sikre, at udviklingen fortsætter, når de nuværende afgiftslempelser på sigt udfases."
+      ],
+      "whyItMatters": "Omstillingen af bilparken er en målbar del af den grønne omstilling, og afgiftsdiskussionen om, hvad der sker, når lempelserne udfases, er relevant for bilbranchen.",
+      "analysis": "At Danmark ligger markant over EU-gennemsnittet, skyldes den målrettede afgiftspolitik - tempoet er politisk bestemt, ikke rent markedsdrevet. Rørvigs opfordring er et forsøg på at lægge et bundniveau fast, før ordningen udløber.",
+      "image": {
+        "url": "https://asset.dr.dk/drdk/umbraco-images/5c0d40hb/20250715-141105-l_crop001.jpg?im=SmartCrop%2Csize%3D%281200%2C675%29",
+        "credit": "Kilde: DR",
+        "alt": "Elbil til opladning. Arkivbillede anvendt af DR til historien om Danmarks elbilandel.",
+        "sourceUrl": "https://www.dr.dk/nyheder/penge/danmark-bevarer-foeringen-i-eu-s-elbilskaploeb"
+      },
+      "topics": [
+        "groen-omstilling",
+        "industri",
+        "danmark"
+      ],
+      "entities": [
+        "Mobility Denmark",
+        "Mads Rørvig"
+      ],
+      "isLead": false,
+      "isOutsideProfile": false,
+      "scores": {
+        "importance": 40,
+        "decisionValue": 45,
+        "novelty": 30,
+        "sourceQuality": 80,
+        "personalRelevance": 60,
+        "contrast": 20
+      },
+      "claims": [
+        {
+          "text": "29,8 pct. af EU's nye bilregistreringer i oktober var elbiler; i Danmark var andelen 88,4 pct.",
+          "sourceUrls": [
+            "https://www.dr.dk/nyheder/penge/danmark-bevarer-foeringen-i-eu-s-elbilskaploeb"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Danmark bevarer føringen i EU's elbilskapløb",
+          "publisher": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/penge/danmark-bevarer-foeringen-i-eu-s-elbilskaploeb",
+          "publishedAt": "2026-11-24T06:00:38Z",
+          "kind": "primary"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "text": "Flere ikke-vestlige indvandrere er i beskæftigelse",
+      "url": "https://www.dr.dk/nyheder/seneste/flere-ikke-vestlige-indvandrere-er-i-beskaeftigelse",
+      "headline": "Flere ikke-vestlige indvandrere er i beskæftigelse",
+      "publisher": "DR Nyheder",
+      "section": "danmark",
+      "publishedAt": "2026-11-26T07:52:00Z",
+      "summary": "Beskæftigelsesfrekvensen for ikke-vestlige indvandrere 30-59 år er steget til 70 pct. i 2025, op 18 procentpoint over ti år, viser tal fra Danmarks Statistik."
+    },
+    {
+      "text": "Danmark med til at finansiere køb af amerikansk udstyr til Ukraine",
+      "url": "https://www.dr.dk/nyheder/seneste/danmark-med-til-finansiere-koeb-af-amerikansk-udstyr-til-ukraine",
+      "headline": "Danmark med til at finansiere køb af amerikansk udstyr til Ukraine",
+      "publisher": "DR Nyheder",
+      "section": "udland",
+      "publishedAt": "2026-11-26T04:26:00Z",
+      "summary": "USA's udenrigsministerium har godkendt et salg af F-16-vedligeholdelsesudstyr til Ukraine for 622 mio. dollar, finansieret af Belgien, Danmark, Holland og Norge uden brug af amerikanske midler."
+    },
+    {
+      "text": "Mette Frederiksen ansætter tredje særlig rådgiver",
+      "url": "https://www.altinget.dk/jobskifte/mette-frederiksen-ansaetter-tredje-saerlig-raadgiver",
+      "headline": "Mette Frederiksen ansætter tredje særlig rådgiver",
+      "publisher": "Altinget",
+      "section": "politik",
+      "publishedAt": "2026-11-25T09:35:00Z",
+      "summary": "Jens Christiansen, tidligere rådgiver for Kaare Dybvad Bek, bliver statsministerens tredje særlige rådgiver fra 1. december og afløser Peter Strauss Jørgensen."
+    },
+    {
+      "text": "Fem rumænere varetægtsfængslet efter vintyverier for millioner mod Michelin-restauranter",
+      "url": "https://www.dr.dk/nyheder/indland/fem-rumaenere-varetaegtsfaengslet-efter-vintyverier-millioner-mod-michelin-restauranter",
+      "headline": "Fem rumænere varetægtsfængslet efter vintyverier for millioner mod Michelin-restauranter",
+      "publisher": "DR Nyheder",
+      "section": "krimi",
+      "publishedAt": "2026-11-26T18:59:00Z",
+      "summary": "Fem rumænske statsborgere er varetægtsfængslet for organiseret vintyveri for millioner af kroner fra tre Michelin-restauranter, bl.a. Frederikshøj og Henne Kirkeby Kro."
+    },
+    {
+      "text": "Havnedrama afgjort: 'Nu skal vi hjem og have champagne'",
+      "url": "https://www.dr.dk/nyheder/indland/havnedrama-afgjort-nu-skal-vi-hjem-og-have-champagne",
+      "headline": "Havnedrama afgjort: 'Nu skal vi hjem og have champagne'",
+      "publisher": "DR Nyheder",
+      "section": "danmark",
+      "publishedAt": "2026-11-26T20:34:00Z",
+      "summary": "Kerteminde byråd stemte med snævert flertal imod en 2 mia. kr. udvidelse af Odense Havn på 1 mio. m² af Odense Fjord, efter nyvalgt Bella Mortensen afgav den afgørende stemme."
+    },
+    {
+      "text": "TV 2 sigtet i forbindelse med 'Den sorte svane'",
+      "url": "https://nyheder.tv2.dk/krimi/2026-11-26-tv-2-sigtet-i-forbindelse-med-den-sorte-svane",
+      "headline": "TV 2 sigtet i forbindelse med 'Den sorte svane'",
+      "publisher": "TV 2",
+      "section": "krimi",
+      "publishedAt": "2026-11-26T17:14:00Z",
+      "summary": "TV 2 bekræfter at være sigtet af Fyns Politi i forbindelse med dokumentaren 'Den sorte svane', efter tidligere at være fortalt, kanalen ikke længere var 'ikke-sigtet'."
+    },
+    {
+      "text": "Højlund forklarer jubelscene - stikker til City",
+      "url": "https://sport.tv2.dk/fodbold/2026-11-25-hoejlund-forklarer-jubelscene-stikker-til-city",
+      "headline": "Højlund forklarer jubelscene - stikker til City",
+      "publisher": "TV 2 Sport",
+      "section": "sport",
+      "publishedAt": "2026-11-25T05:10:00Z",
+      "summary": "Rasmus Højlund scorede Napolis udligning i en 2-2-kamp hos Manchester City og råbte provokerende mod Citys fans med reference til sine to år i Manchester United."
+    },
+    {
+      "text": "Nu reagerer UCI efter protester - varsler ændringer",
+      "url": "https://sport.tv2.dk/cykling/2026-11-25-nu-reagerer-uci-efter-protester-varsler-aendringer",
+      "headline": "Nu reagerer UCI efter protester - varsler ændringer",
+      "publisher": "TV 2 Sport",
+      "section": "sport",
+      "publishedAt": "2026-11-25T11:10:00Z",
+      "summary": "UCI/SafeR varsler mulige sanktioner mod løbsarrangører, der ikke sikrer rytternes sikkerhed, efter protester ledet af Remco Evenepoel ved Il Lombardia."
+    },
+    {
+      "text": "DCU har taget et stort skridt - men er stadig ikke oppe af hullet",
+      "url": "https://sport.tv2.dk/cykling/2026-11-25-dcu-har-taget-et-stort-skridt-men-er-stadig-ikke-oppe-af-hullet",
+      "headline": "DCU har taget et stort skridt - men er stadig ikke oppe af hullet",
+      "publisher": "TV 2 Sport",
+      "section": "sport",
+      "publishedAt": "2026-11-25T20:29:00Z",
+      "summary": "Danmarks Cykle Union har sikret en fireårig sponsoraftale med Nordea fra 2027, den største i foreningens historie, efter PostNords exit efterlod et underskud på 2,5 mio. kr."
+    },
+    {
+      "text": "I en alder af 23 år har Alcaraz gjort det, Nadal aldrig formåede",
+      "url": "https://sport.tv2.dk/tennis/2026-11-23-i-en-alder-af-23-aar-har-alcaraz-gjort-det-nadal-aldrig-formaaede",
+      "headline": "I en alder af 23 år har Alcaraz gjort det, Nadal aldrig formåede",
+      "publisher": "TV 2 Sport",
+      "section": "sport",
+      "publishedAt": "2026-11-23T14:29:00Z",
+      "summary": "Carlos Alcaraz vandt ATP Finals i Torino, sin 6. titel i 2026 trods 4,5 måneders skadespause, og er den yngste til at kombinere en karriere-grand slam med sæsonfinalen."
+    },
+    {
+      "text": "Amerikaner vil ærligt talt skide på Kesslers bedrifter",
+      "url": "https://www.dr.dk/sporten/boksning/amerikaner-vil-aerligt-talt-skide-paa-kesslers-bedrifter",
+      "headline": "Amerikaner vil ærligt talt skide på Kesslers bedrifter",
+      "publisher": "DR Sporten",
+      "section": "sport",
+      "publishedAt": "2026-11-26T17:41:45Z",
+      "summary": "Amerikaneren Bernard Joseph afviser Mikkel Kesslers bedrifter op til lørdagens comebackkamp i Brøndby Hallen, hvor Kessler (47) jagter en 6. verdensmestertitel i sin første kamp i 13 år."
+    },
+    {
+      "text": "Marie må droppe ud af skolen, for hendes drøm er gået i opfyldelse",
+      "url": "https://www.dr.dk/sporten/golf/marie-maa-droppe-ud-af-skolen-hendes-droem-er-gaaet-i-opfyldelse",
+      "headline": "Marie må droppe ud af skolen, for hendes drøm er gået i opfyldelse",
+      "publisher": "DR Sporten",
+      "section": "sport",
+      "publishedAt": "2026-11-25T06:33:00Z",
+      "summary": "22-årige Marie Eline Madsen har vundet sit LPGA Tour-kort og forlader college for at blive professionel golfspiller."
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-pontevedra-carfree-20261127",
+      "mode": "read",
+      "kind": "reportage",
+      "status": "new",
+      "title": "The City That Kicked Out Cars Before It Was Cool",
+      "creator": "Peter Yeung",
+      "provider": "Reasons to be Cheerful",
+      "url": "https://reasonstobecheerful.world/pontevedra-car-free-city/",
+      "commitment": "8 min læsning",
+      "description": "Pontevedra i Spanien begyndte at lukke bilerne ude af bymidten i 1999 - længe før bilfri byplanlægning blev mainstream. Resultatet: 97 pct. færre biltrafikker i centrum, 70 pct. mindre CO2, ingen trafikdræbte siden 2011, og en by i vækst.",
+      "rationale": "Konstruktiv journalistik - en af hans faste interesser - og et konkret, tal-baseret modstykke til dommedagspræget by- og klimadebat. Evidensen er over 25 år gammel og dermed til at efterprøve.",
+      "topics": [
+        "konstruktiv-journalistik",
+        "groen-omstilling",
+        "byplanlaegning"
+      ],
+      "isFeatured": true,
+      "image": {
+        "url": "https://reasonstobecheerful.world/wp-content/uploads/2026/11/shutterstock_2220850897-scaled.jpg",
+        "credit": "Foto: Pilar Picas/Shutterstock",
+        "alt": "Gågade med fodgængere i en europæisk bymidte - arkivbillede brugt til historien om Pontevedras bilfri bymidte.",
+        "sourceUrl": "https://reasonstobecheerful.world/pontevedra-car-free-city/"
+      }
+    },
+    {
+      "id": "rec-escher-math-quanta-20261127",
+      "mode": "read",
+      "kind": "essay",
+      "status": "new",
+      "title": "How M.C. Escher's Art Creates Bizarre Mathematical Worlds",
+      "creator": "Shalma Wegsman",
+      "provider": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/how-m-c-eschers-art-creates-bizarre-mathematical-worlds-20261118/",
+      "commitment": "7 min læsning",
+      "description": "Escher havde ingen formel matematisk uddannelse, men hans intuitive udforskning af fliselægning og umulige geometrier blev til inspiration for ægte matematisk forskning, bl.a. gennem hans korrespondance med geometeren H.S.M. Coxeter.",
+      "rationale": "Ren serendipitet, langt fra hans faglige profil: kunst og matematik mødes, med en aktuel udstillingsanledning på National Museum of Mathematics.",
+      "topics": [
+        "serendipitet",
+        "videnskab",
+        "kunst"
+      ],
+      "isFeatured": false,
+      "image": {
+        "url": "https://www.quantamagazine.org/wp-content/uploads/2042/11/ImageGallery_EscherMath-crSEENOTES-Lede-v2-scaled.webp",
+        "credit": "Kilde: Quanta Magazine",
+        "alt": "M.C. Eschers træsnit 'Day and Night' (1938), der illustrerer hans tessellationsarbejde.",
+        "sourceUrl": "https://www.quantamagazine.org/how-m-c-eschers-art-creates-bizarre-mathematical-worlds-20261118/"
+      }
+    },
+    {
+      "id": "rec-noema-end-extraction-20261127",
+      "mode": "read",
+      "kind": "essay",
+      "status": "new",
+      "title": "The End of Extraction",
+      "creator": "Benjamin Siegel",
+      "provider": "Noema Magazine",
+      "url": "https://www.noemamag.com/the-end-of-extraction/",
+      "commitment": "12 min læsning",
+      "description": "Syntetisk biologi og fermentering er ved at erstatte udvindingsindustrier som fiskeri og landbrug med lab-producerede alternativer - en teknologisk fremgang, der samtidig truer millioner af job i råvareafhængige regioner.",
+      "rationale": "Industripolitik og råvareafhængighed med direkte relevans for hans interesse i emerging markets og eksportstruktur, fra en vinkel han sandsynligvis ikke selv ville have fundet.",
+      "topics": [
+        "industripolitik",
+        "emerging-markets",
+        "teknologi"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "rec-ainews-mathproofs-20261127",
+      "mode": "read",
+      "kind": "digest",
+      "status": "new",
+      "title": "Math Proofs Are Landing Faster Than We Can Read Them",
+      "provider": "Latent Space (AINews)",
+      "url": "https://www.latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them/",
+      "commitment": "21 min læsning",
+      "description": "OpenAI og Anthropic har på kort tid fremlagt flere matematiske gennembrud, bl.a. om kompleksiteten af matrix-multiplikation. Digestet tæller 64 AI-understøttede forskningsfremskridt i 2026, heraf 20 i november alene.",
+      "rationale": "Sætter tempoet i AI-matematik i perspektiv uden hype - fundet via det navngivne AINews-digest, der følges hver dag på AI-sporet.",
+      "topics": [
+        "ai",
+        "videnskab"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "quality": {
+    "sourcing": 82,
+    "verification": 78,
+    "diversity": 80,
+    "freshness": 85,
+    "completeness": 70
+  }
+}
